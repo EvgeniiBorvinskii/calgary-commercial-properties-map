@@ -1,0 +1,36 @@
+{
+  "id": "553438",
+  "fullDetails": {
+    "licenseNumber": "553438",
+    "name": "BOW TRAIL VACUUM",
+    "address": "3831 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-11T00:00:00.000Z",
+    "coordinates": [
+      -114.1431846,
+      51.0454839
+    ],
+    "longitude": -114.1431846,
+    "latitude": 51.0454839,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "88260",
+  "fullDetails": {
+    "licenseNumber": "88260",
+    "name": "MR VOLVO",
+    "address": "7215 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nSECONDHAND DEALER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-28T00:00:00.000Z",
+    "coordinates": [
+      -114.0644555,
+      50.9884661
+    ],
+    "longitude": -114.0644555,
+    "latitude": 50.9884661,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

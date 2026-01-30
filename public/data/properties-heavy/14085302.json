@@ -1,0 +1,36 @@
+{
+  "id": "14085302",
+  "fullDetails": {
+    "licenseNumber": "14085302",
+    "name": "HARI STONES",
+    "address": "1118 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-09-01T09:29:39.000Z",
+    "expiryDate": "2026-08-31T09:29:39.000Z",
+    "coordinates": [
+      -114.0382611,
+      51.0125826
+    ],
+    "longitude": -114.0382611,
+    "latitude": 51.0125826,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

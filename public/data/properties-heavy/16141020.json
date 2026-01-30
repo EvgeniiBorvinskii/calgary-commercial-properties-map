@@ -1,0 +1,37 @@
+{
+  "id": "16141020",
+  "fullDetails": {
+    "licenseNumber": "16141020",
+    "name": "SKULL AND LOTUS TATTOO",
+    "address": "6029 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-04-01T15:41:52.000Z",
+    "expiryDate": "2026-03-31T15:41:52.000Z",
+    "coordinates": [
+      -114.0644577,
+      50.9994453
+    ],
+    "longitude": -114.0644577,
+    "latitude": 50.9994453,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

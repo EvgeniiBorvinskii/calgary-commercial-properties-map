@@ -1,0 +1,36 @@
+{
+  "id": "16555914",
+  "fullDetails": {
+    "licenseNumber": "16555914",
+    "name": "DROBUNINA STUDIO",
+    "address": "#308 4014 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-11-14T16:30:29.000Z",
+    "expiryDate": "2026-11-13T16:30:29.000Z",
+    "coordinates": [
+      -114.0624385,
+      51.0180287
+    ],
+    "longitude": -114.0624385,
+    "latitude": 51.0180287,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

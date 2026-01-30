@@ -1,0 +1,37 @@
+{
+  "id": "16342123",
+  "fullDetails": {
+    "licenseNumber": "16342123",
+    "name": "OLYMPIC SHELL",
+    "address": "#100 8435 BOWFORT RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-08-22T15:16:46.000Z",
+    "expiryDate": "2026-08-21T15:16:45.000Z",
+    "coordinates": [
+      -114.2094751,
+      51.0843276
+    ],
+    "longitude": -114.2094751,
+    "latitude": 51.0843276,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

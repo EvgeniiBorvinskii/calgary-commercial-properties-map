@@ -1,0 +1,36 @@
+{
+  "id": "122390",
+  "fullDetails": {
+    "licenseNumber": "122390",
+    "name": "MARK'S WORK WEARHOUSE #13",
+    "address": "6636 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-11-20T17:36:19.000Z",
+    "expiryDate": "2026-11-19T05:34:03.000Z",
+    "coordinates": [
+      -114.0697835,
+      50.9948702
+    ],
+    "longitude": -114.0697835,
+    "latitude": 50.9948702,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

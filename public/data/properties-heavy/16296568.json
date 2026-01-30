@@ -1,0 +1,36 @@
+{
+  "id": "16296568",
+  "fullDetails": {
+    "licenseNumber": "16296568",
+    "name": "BARBERZ STYLE AND SALOON",
+    "address": "#846 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2023-03-14T13:11:40.000Z",
+    "expiryDate": "2026-03-13T13:11:39.000Z",
+    "coordinates": [
+      -113.9629166,
+      51.0978693
+    ],
+    "longitude": -113.9629166,
+    "latitude": 51.0978693,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

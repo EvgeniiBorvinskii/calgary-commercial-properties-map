@@ -1,0 +1,37 @@
+{
+  "id": "16470239",
+  "fullDetails": {
+    "licenseNumber": "16470239",
+    "name": "MISOAN",
+    "address": "1508 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-16T08:07:05.000Z",
+    "expiryDate": "2026-05-15T08:07:04.000Z",
+    "coordinates": [
+      -114.0943494,
+      51.0390579
+    ],
+    "longitude": -114.0943494,
+    "latitude": 51.0390579,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

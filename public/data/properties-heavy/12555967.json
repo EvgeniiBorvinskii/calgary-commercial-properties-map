@@ -1,0 +1,37 @@
+{
+  "id": "12555967",
+  "fullDetails": {
+    "licenseNumber": "12555967",
+    "name": "REAL CANADIAN SUPERSTORE #1539",
+    "address": "#100 20 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "SCHOOL (PROV. NOT REQUIRED),",
+    "licenseTypes": "PHOTOGRAPHER,\nSCHOOL (PROV. NOT REQUIRED),\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2007-03-27T08:08:40.000Z",
+    "expiryDate": "2026-03-26T08:08:40.000Z",
+    "coordinates": [
+      -114.0419279,
+      50.9864479
+    ],
+    "longitude": -114.0419279,
+    "latitude": 50.9864479,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

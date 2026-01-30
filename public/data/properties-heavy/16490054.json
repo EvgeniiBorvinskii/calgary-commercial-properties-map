@@ -1,0 +1,36 @@
+{
+  "id": "16490054",
+  "fullDetails": {
+    "licenseNumber": "16490054",
+    "name": "MULTI COOK",
+    "address": "#1 625 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-15T10:01:35.000Z",
+    "expiryDate": "2026-10-14T10:01:35.000Z",
+    "coordinates": [
+      -114.0499061,
+      50.984042
+    ],
+    "longitude": -114.0499061,
+    "latitude": 50.984042,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

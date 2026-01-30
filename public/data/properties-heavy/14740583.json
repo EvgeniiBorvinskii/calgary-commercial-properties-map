@@ -1,0 +1,36 @@
+{
+  "id": "14740583",
+  "fullDetails": {
+    "licenseNumber": "14740583",
+    "name": "HELIX IT",
+    "address": "#4 1935 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-07-12T08:00:30.000Z",
+    "expiryDate": "2026-07-11T08:00:30.000Z",
+    "coordinates": [
+      -114.0124681,
+      51.0763396
+    ],
+    "longitude": -114.0124681,
+    "latitude": 51.0763396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

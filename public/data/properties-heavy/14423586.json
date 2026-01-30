@@ -1,0 +1,36 @@
+{
+  "id": "14423586",
+  "fullDetails": {
+    "licenseNumber": "14423586",
+    "name": "MOBILINQ ACCESORIES & REPAIRS",
+    "address": "#1129 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-13T14:54:59.000Z",
+    "expiryDate": "2026-03-12T14:54:59.000Z",
+    "coordinates": [
+      -113.9790332,
+      51.0543849
+    ],
+    "longitude": -113.9790332,
+    "latitude": 51.0543849,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

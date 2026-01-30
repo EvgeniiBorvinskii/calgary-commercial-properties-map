@@ -1,0 +1,36 @@
+{
+  "id": "16207870",
+  "fullDetails": {
+    "licenseNumber": "16207870",
+    "name": "BRAGG CREEK DISTILLERS",
+    "address": "#5 920 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2023-03-10T12:29:06.000Z",
+    "expiryDate": "2026-03-09T12:29:06.000Z",
+    "coordinates": [
+      -113.9925545,
+      51.0606643
+    ],
+    "longitude": -113.9925545,
+    "latitude": 51.0606643,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15993900",
+  "fullDetails": {
+    "licenseNumber": "15993900",
+    "name": "GET WHITE",
+    "address": "#24 2500 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2021-02-24T09:17:28.000Z",
+    "expiryDate": "2026-02-23T09:17:28.000Z",
+    "coordinates": [
+      -114.0708662,
+      51.0300208
+    ],
+    "longitude": -114.0708662,
+    "latitude": 51.0300208,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

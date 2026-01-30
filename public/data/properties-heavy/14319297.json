@@ -1,0 +1,36 @@
+{
+  "id": "14319297",
+  "fullDetails": {
+    "licenseNumber": "14319297",
+    "name": "VANS",
+    "address": "#E6 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-02-16T05:32:00.000Z",
+    "expiryDate": "2026-02-15T05:31:59.000Z",
+    "coordinates": [
+      -114.1551706,
+      51.0847604
+    ],
+    "longitude": -114.1551706,
+    "latitude": 51.0847604,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16361081",
+  "fullDetails": {
+    "licenseNumber": "16361081",
+    "name": "PASSPORT PHOTOS CALGARY",
+    "address": "18 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2023-08-09T09:19:23.000Z",
+    "expiryDate": "2026-08-08T09:19:23.000Z",
+    "coordinates": [
+      -114.0645757,
+      50.9148611
+    ],
+    "longitude": -114.0645757,
+    "latitude": 50.9148611,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

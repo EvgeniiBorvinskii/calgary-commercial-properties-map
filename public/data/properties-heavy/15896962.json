@@ -1,0 +1,37 @@
+{
+  "id": "15896962",
+  "fullDetails": {
+    "licenseNumber": "15896962",
+    "name": "ASCENSION FITNESS",
+    "address": "5842 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-06-17T10:38:34.000Z",
+    "expiryDate": "2026-06-16T10:38:34.000Z",
+    "coordinates": [
+      -114.0444083,
+      51.0017826
+    ],
+    "longitude": -114.0444083,
+    "latitude": 51.0017826,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

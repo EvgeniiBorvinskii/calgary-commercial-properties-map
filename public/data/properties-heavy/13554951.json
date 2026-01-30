@@ -1,0 +1,36 @@
+{
+  "id": "13554951",
+  "fullDetails": {
+    "licenseNumber": "13554951",
+    "name": "GINGER BEEF PEKING HOUSE",
+    "address": "#309 3630 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2012-10-02T11:56:05.000Z",
+    "expiryDate": "2026-10-01T11:56:05.000Z",
+    "coordinates": [
+      -114.1249717,
+      51.0854616
+    ],
+    "longitude": -114.1249717,
+    "latitude": 51.0854616,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15923949",
+  "fullDetails": {
+    "licenseNumber": "15923949",
+    "name": "BENTLEY & CO",
+    "address": "#E13 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-01T13:45:17.000Z",
+    "expiryDate": "2026-02-28T13:45:17.000Z",
+    "coordinates": [
+      -114.1552345,
+      51.0852156
+    ],
+    "longitude": -114.1552345,
+    "latitude": 51.0852156,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16628349",
+  "fullDetails": {
+    "licenseNumber": "16628349",
+    "name": "THEATRE (THE)",
+    "address": "#101 215 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "active",
+    "issuedDate": "2025-05-12T15:40:42.000Z",
+    "expiryDate": "2026-05-11T15:40:41.000Z",
+    "coordinates": [
+      -114.0669595,
+      51.0393629
+    ],
+    "longitude": -114.0669595,
+    "latitude": 51.0393629,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

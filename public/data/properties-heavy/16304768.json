@@ -1,0 +1,37 @@
+{
+  "id": "16304768",
+  "fullDetails": {
+    "licenseNumber": "16304768",
+    "name": "IHAM",
+    "address": "#26 3304 64 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-20T08:00:37.000Z",
+    "expiryDate": "2026-09-19T08:00:36.000Z",
+    "coordinates": [
+      -113.9403812,
+      51.0823286
+    ],
+    "longitude": -113.9403812,
+    "latitude": 51.0823286,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

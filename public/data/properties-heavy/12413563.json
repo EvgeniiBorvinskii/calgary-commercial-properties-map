@@ -1,0 +1,36 @@
+{
+  "id": "12413563",
+  "fullDetails": {
+    "licenseNumber": "12413563",
+    "name": "SOFT-MOC",
+    "address": "#610 33 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-09-15T05:28:54.000Z",
+    "expiryDate": "2026-09-14T05:28:54.000Z",
+    "coordinates": [
+      -114.0390369,
+      50.9819686
+    ],
+    "longitude": -114.0390369,
+    "latitude": 50.9819686,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

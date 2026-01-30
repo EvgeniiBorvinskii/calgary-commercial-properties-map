@@ -1,0 +1,36 @@
+{
+  "id": "16547598",
+  "fullDetails": {
+    "licenseNumber": "16547598",
+    "name": "GO WHEELS AUTO REPAIR",
+    "address": "#12 2235 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-12-05T12:54:19.000Z",
+    "expiryDate": "2026-12-04T12:54:19.000Z",
+    "coordinates": [
+      -114.0075842,
+      51.0790726
+    ],
+    "longitude": -114.0075842,
+    "latitude": 51.0790726,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

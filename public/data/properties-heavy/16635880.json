@@ -1,0 +1,36 @@
+{
+  "id": "16635880",
+  "fullDetails": {
+    "licenseNumber": "16635880",
+    "name": "KINDLING CANNABIS 4TH ST",
+    "address": "37 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-11-25T08:11:08.000Z",
+    "expiryDate": "2026-11-24T08:11:07.000Z",
+    "coordinates": [
+      -114.0519779,
+      51.0523099
+    ],
+    "longitude": -114.0519779,
+    "latitude": 51.0523099,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

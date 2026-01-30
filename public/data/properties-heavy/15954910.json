@@ -1,0 +1,36 @@
+{
+  "id": "15954910",
+  "fullDetails": {
+    "licenseNumber": "15954910",
+    "name": "INFINITY MARDA LOOP",
+    "address": "2016 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2022-03-29T12:51:23.000Z",
+    "expiryDate": "2026-03-28T12:51:23.000Z",
+    "coordinates": [
+      -114.1076156,
+      51.0234428
+    ],
+    "longitude": -114.1076156,
+    "latitude": 51.0234428,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "858662",
+  "fullDetails": {
+    "licenseNumber": "858662",
+    "name": "STAR JEWELLERS",
+    "address": "#1118 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2020-09-24T12:17:58.000Z",
+    "expiryDate": "2026-09-23T12:17:58.000Z",
+    "coordinates": [
+      -113.9718132,
+      51.1475192
+    ],
+    "longitude": -113.9718132,
+    "latitude": 51.1475192,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16313025",
+  "fullDetails": {
+    "licenseNumber": "16313025",
+    "name": "ATTIC RAIN SPECIALISTS",
+    "address": "#165 12318 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2024-04-02T05:34:21.000Z",
+    "expiryDate": "2026-04-01T05:34:21.000Z",
+    "coordinates": [
+      -113.9924978,
+      51.1644359
+    ],
+    "longitude": -113.9924978,
+    "latitude": 51.1644359,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

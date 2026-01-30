@@ -1,0 +1,37 @@
+{
+  "id": "14981633",
+  "fullDetails": {
+    "licenseNumber": "14981633",
+    "name": "BONAVISTA FLOWERS",
+    "address": "#107 755 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-16T11:35:40.000Z",
+    "expiryDate": "2026-08-15T11:35:40.000Z",
+    "coordinates": [
+      -114.0471035,
+      50.9422547
+    ],
+    "longitude": -114.0471035,
+    "latitude": 50.9422547,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

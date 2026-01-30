@@ -1,0 +1,37 @@
+{
+  "id": "13737580",
+  "fullDetails": {
+    "licenseNumber": "13737580",
+    "name": "SAFEWAY #260",
+    "address": "#100 755 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-04-04T10:28:50.000Z",
+    "expiryDate": "2026-04-03T10:28:50.000Z",
+    "coordinates": [
+      -114.0471035,
+      50.9422547
+    ],
+    "longitude": -114.0471035,
+    "latitude": 50.9422547,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

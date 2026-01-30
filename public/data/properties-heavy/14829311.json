@@ -1,0 +1,36 @@
+{
+  "id": "14829311",
+  "fullDetails": {
+    "licenseNumber": "14829311",
+    "name": "HILLCREST APARTMENTS",
+    "address": "1711 25 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2018-12-20T07:41:21.000Z",
+    "expiryDate": "2026-12-19T07:41:20.000Z",
+    "coordinates": [
+      -114.100185,
+      51.0312065
+    ],
+    "longitude": -114.100185,
+    "latitude": 51.0312065,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "28217",
+  "fullDetails": {
+    "licenseNumber": "28217",
+    "name": "WILLOW PARK GOLF & COUNTRY CLUB",
+    "address": "639 WILLOW PARK DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0488538,
+      50.9581459
+    ],
+    "longitude": -114.0488538,
+    "latitude": 50.9581459,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

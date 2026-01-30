@@ -1,0 +1,36 @@
+{
+  "id": "470906",
+  "fullDetails": {
+    "licenseNumber": "470906",
+    "name": "WESTCAN BULK TRANSPORT",
+    "address": "4020 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2006-04-17T11:49:14.000Z",
+    "expiryDate": "2026-04-16T11:49:14.000Z",
+    "coordinates": [
+      -113.9775661,
+      50.985491
+    ],
+    "longitude": -113.9775661,
+    "latitude": 50.985491,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16521239",
+  "fullDetails": {
+    "licenseNumber": "16521239",
+    "name": "FRESHSLICE PIZZA",
+    "address": "#117 1311 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-08T14:22:18.000Z",
+    "expiryDate": "2026-08-07T14:22:17.000Z",
+    "coordinates": [
+      -114.0627992,
+      51.0638395
+    ],
+    "longitude": -114.0627992,
+    "latitude": 51.0638395,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

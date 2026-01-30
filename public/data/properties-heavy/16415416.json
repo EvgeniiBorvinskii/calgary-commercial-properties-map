@@ -1,0 +1,36 @@
+{
+  "id": "16415416",
+  "fullDetails": {
+    "licenseNumber": "16415416",
+    "name": "GEBA INTERIORS",
+    "address": "#10 2820 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-04T08:13:53.000Z",
+    "expiryDate": "2027-01-03T08:13:53.000Z",
+    "coordinates": [
+      -113.9944753,
+      51.0527475
+    ],
+    "longitude": -113.9944753,
+    "latitude": 51.0527475,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

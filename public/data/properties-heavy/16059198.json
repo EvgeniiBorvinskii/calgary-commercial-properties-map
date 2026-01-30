@@ -1,0 +1,36 @@
+{
+  "id": "16059198",
+  "fullDetails": {
+    "licenseNumber": "16059198",
+    "name": "GALAXY LIQUOR",
+    "address": "#106 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-10-19T14:48:42.000Z",
+    "expiryDate": "2026-10-18T14:48:42.000Z",
+    "coordinates": [
+      -113.9978748,
+      51.0803815
+    ],
+    "longitude": -113.9978748,
+    "latitude": 51.0803815,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14957898",
+  "fullDetails": {
+    "licenseNumber": "14957898",
+    "name": "HERCULES SLR",
+    "address": "#4 8241 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-10-16T10:41:57.000Z",
+    "expiryDate": "2026-10-15T10:41:57.000Z",
+    "coordinates": [
+      -113.9919128,
+      50.980166
+    ],
+    "longitude": -113.9919128,
+    "latitude": 50.980166,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

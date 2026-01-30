@@ -1,0 +1,37 @@
+{
+  "id": "15938343",
+  "fullDetails": {
+    "licenseNumber": "15938343",
+    "name": "VANGUARD IN-HOME TECHNOLOGY CONSULTANTS",
+    "address": "#209 1008 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-12T11:03:41.000Z",
+    "expiryDate": "2026-05-11T11:03:41.000Z",
+    "coordinates": [
+      -114.08478,
+      51.0379915
+    ],
+    "longitude": -114.08478,
+    "latitude": 51.0379915,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

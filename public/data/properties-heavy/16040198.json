@@ -1,0 +1,36 @@
+{
+  "id": "16040198",
+  "fullDetails": {
+    "licenseNumber": "16040198",
+    "name": "SAVANNA TARADALE WELLNESS CENTRE",
+    "address": "130 SAVANNA AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2021-07-09T09:41:38.000Z",
+    "expiryDate": "2026-07-08T09:41:38.000Z",
+    "coordinates": [
+      -113.965489,
+      51.1340679
+    ],
+    "longitude": -113.965489,
+    "latitude": 51.1340679,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

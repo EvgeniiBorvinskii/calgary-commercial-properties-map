@@ -1,0 +1,37 @@
+{
+  "id": "12857645",
+  "fullDetails": {
+    "licenseNumber": "12857645",
+    "name": "CHARCUT ROAST HOUSE",
+    "address": "#101 899 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2010-02-19T14:39:27.000Z",
+    "expiryDate": "2026-02-18T14:39:27.000Z",
+    "coordinates": [
+      -114.0633305,
+      51.0448508
+    ],
+    "longitude": -114.0633305,
+    "latitude": 51.0448508,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

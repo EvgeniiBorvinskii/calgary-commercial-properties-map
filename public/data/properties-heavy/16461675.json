@@ -1,0 +1,36 @@
+{
+  "id": "16461675",
+  "fullDetails": {
+    "licenseNumber": "16461675",
+    "name": "XPEL CANADA",
+    "address": "#125 7350 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-05-29T11:40:31.000Z",
+    "expiryDate": "2026-05-28T11:40:31.000Z",
+    "coordinates": [
+      -113.9263568,
+      50.9546628
+    ],
+    "longitude": -113.9263568,
+    "latitude": 50.9546628,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

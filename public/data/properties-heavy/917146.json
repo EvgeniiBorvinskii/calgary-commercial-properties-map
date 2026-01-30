@@ -1,0 +1,36 @@
+{
+  "id": "917146",
+  "fullDetails": {
+    "licenseNumber": "917146",
+    "name": "DELBURN HOUSE",
+    "address": "1419 17 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0935003,
+      51.0676456
+    ],
+    "longitude": -114.0935003,
+    "latitude": 51.0676456,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

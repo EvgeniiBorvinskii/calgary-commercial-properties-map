@@ -1,0 +1,36 @@
+{
+  "id": "13744362",
+  "fullDetails": {
+    "licenseNumber": "13744362",
+    "name": "SKINVISIBLE LASER & AESTHETICS",
+    "address": "#109 755 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-09-30T09:40:06.000Z",
+    "expiryDate": "2026-09-29T09:40:06.000Z",
+    "coordinates": [
+      -114.0471035,
+      50.9422547
+    ],
+    "longitude": -114.0471035,
+    "latitude": 50.9422547,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

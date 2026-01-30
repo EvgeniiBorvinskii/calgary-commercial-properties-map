@@ -1,0 +1,37 @@
+{
+  "id": "14158307",
+  "fullDetails": {
+    "licenseNumber": "14158307",
+    "name": "EARLS.67",
+    "address": "#111 315 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-06-30T09:36:49.000Z",
+    "expiryDate": "2026-06-29T09:36:49.000Z",
+    "coordinates": [
+      -114.0693944,
+      51.0455277
+    ],
+    "longitude": -114.0693944,
+    "latitude": 51.0455277,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

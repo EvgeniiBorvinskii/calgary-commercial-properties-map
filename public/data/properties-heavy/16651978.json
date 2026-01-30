@@ -1,0 +1,36 @@
+{
+  "id": "16651978",
+  "fullDetails": {
+    "licenseNumber": "16651978",
+    "name": "2DS AUTOHOUSE",
+    "address": "#A 2815 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-22T13:24:47.000Z",
+    "expiryDate": "2026-08-21T13:24:47.000Z",
+    "coordinates": [
+      -114.0295727,
+      51.0291533
+    ],
+    "longitude": -114.0295727,
+    "latitude": 51.0291533,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

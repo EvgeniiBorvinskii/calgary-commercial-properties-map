@@ -1,0 +1,36 @@
+{
+  "id": "16645608",
+  "fullDetails": {
+    "licenseNumber": "16645608",
+    "name": "ELEVATE CALGARY RENOVATION",
+    "address": "7070E FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-05T12:58:21.000Z",
+    "expiryDate": "2026-08-04T12:58:21.000Z",
+    "coordinates": [
+      -114.0544963,
+      50.9912354
+    ],
+    "longitude": -114.0544963,
+    "latitude": 50.9912354,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

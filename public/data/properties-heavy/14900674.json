@@ -1,0 +1,37 @@
+{
+  "id": "14900674",
+  "fullDetails": {
+    "licenseNumber": "14900674",
+    "name": "NANTA KARAOKE & BAR",
+    "address": "#2 512 6 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-05-02T11:43:11.000Z",
+    "expiryDate": "2026-05-01T11:43:11.000Z",
+    "coordinates": [
+      -114.0759733,
+      51.0482155
+    ],
+    "longitude": -114.0759733,
+    "latitude": 51.0482155,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

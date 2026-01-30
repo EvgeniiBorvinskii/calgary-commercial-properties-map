@@ -1,0 +1,36 @@
+{
+  "id": "12214847",
+  "fullDetails": {
+    "licenseNumber": "12214847",
+    "name": "CARRINGTON LIGHTING",
+    "address": "2513 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-08-29T05:33:30.000Z",
+    "expiryDate": "2026-08-28T05:33:30.000Z",
+    "coordinates": [
+      -114.1189378,
+      51.0566679
+    ],
+    "longitude": -114.1189378,
+    "latitude": 51.0566679,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

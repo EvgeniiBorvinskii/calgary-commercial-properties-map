@@ -1,0 +1,37 @@
+{
+  "id": "16669103",
+  "fullDetails": {
+    "licenseNumber": "16669103",
+    "name": "SALON JOLIE",
+    "address": "#604 100 AUBURN MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-08-15T09:13:55.000Z",
+    "expiryDate": "2026-02-16T00:00:00.000Z",
+    "coordinates": [
+      -113.9456767,
+      50.8954626
+    ],
+    "longitude": -113.9456767,
+    "latitude": 50.8954626,
+    "community": "AUBURN BAY",
+    "ward": "AUB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

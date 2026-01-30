@@ -1,0 +1,36 @@
+{
+  "id": "12861662",
+  "fullDetails": {
+    "licenseNumber": "12861662",
+    "name": "VITALAIRE",
+    "address": "#272 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-05-26T05:50:13.000Z",
+    "expiryDate": "2026-05-25T05:50:13.000Z",
+    "coordinates": [
+      -113.9891831,
+      51.0144315
+    ],
+    "longitude": -113.9891831,
+    "latitude": 51.0144315,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12654117",
+  "fullDetails": {
+    "licenseNumber": "12654117",
+    "name": "CYCLONE DIAMOND PRODUCTS",
+    "address": "#107 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-04-30T11:30:32.000Z",
+    "expiryDate": "2026-04-29T11:30:32.000Z",
+    "coordinates": [
+      -114.0063247,
+      51.0784881
+    ],
+    "longitude": -114.0063247,
+    "latitude": 51.0784881,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

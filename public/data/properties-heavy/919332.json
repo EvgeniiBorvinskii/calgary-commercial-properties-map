@@ -1,0 +1,37 @@
+{
+  "id": "919332",
+  "fullDetails": {
+    "licenseNumber": "919332",
+    "name": "GEMINI CONVENIENCE STORE",
+    "address": "#1 5309 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-04T00:00:00.000Z",
+    "coordinates": [
+      -113.95706,
+      51.071294
+    ],
+    "longitude": -113.95706,
+    "latitude": 51.071294,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

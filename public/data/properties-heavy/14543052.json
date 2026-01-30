@@ -1,0 +1,36 @@
+{
+  "id": "14543052",
+  "fullDetails": {
+    "licenseNumber": "14543052",
+    "name": "CDI COLLEGE OF BUSINESS TECHNOLOGY AND HEALTH CARE  -  CALGARY SOUTH",
+    "address": "#11 6624 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2022-11-16T10:56:00.000Z",
+    "expiryDate": "2026-11-15T10:56:00.000Z",
+    "coordinates": [
+      -114.0625074,
+      50.9951589
+    ],
+    "longitude": -114.0625074,
+    "latitude": 50.9951589,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

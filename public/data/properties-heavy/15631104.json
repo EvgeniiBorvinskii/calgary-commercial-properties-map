@@ -1,0 +1,36 @@
+{
+  "id": "15631104",
+  "fullDetails": {
+    "licenseNumber": "15631104",
+    "name": "BENTO SUSHI",
+    "address": "#100 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2019-08-12T09:19:18.000Z",
+    "expiryDate": "2026-08-11T09:19:18.000Z",
+    "coordinates": [
+      -114.1132502,
+      50.9052107
+    ],
+    "longitude": -114.1132502,
+    "latitude": 50.9052107,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

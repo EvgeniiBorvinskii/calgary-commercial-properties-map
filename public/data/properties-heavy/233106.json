@@ -1,0 +1,36 @@
+{
+  "id": "233106",
+  "fullDetails": {
+    "licenseNumber": "233106",
+    "name": "CARS AUTOMOTIVE",
+    "address": "9212F HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2023-01-24T15:07:04.000Z",
+    "expiryDate": "2026-01-23T15:07:04.000Z",
+    "coordinates": [
+      -114.0748251,
+      50.9730419
+    ],
+    "longitude": -114.0748251,
+    "latitude": 50.9730419,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

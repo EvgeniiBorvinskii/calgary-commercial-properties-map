@@ -1,0 +1,36 @@
+{
+  "id": "16474058",
+  "fullDetails": {
+    "licenseNumber": "16474058",
+    "name": "GURU INDIA RESTAURANT (CGY -1910) FSFV",
+    "address": "618 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2024-05-24T15:15:05.000Z",
+    "expiryDate": "2025-05-23T15:15:05.000Z",
+    "coordinates": [
+      -113.9694133,
+      51.1468434
+    ],
+    "longitude": -113.9694133,
+    "latitude": 51.1468434,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

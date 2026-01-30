@@ -1,0 +1,36 @@
+{
+  "id": "16109951",
+  "fullDetails": {
+    "licenseNumber": "16109951",
+    "name": "LMKS UNION",
+    "address": "#328 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2023-10-04T10:45:28.000Z",
+    "expiryDate": "2026-10-03T10:45:28.000Z",
+    "coordinates": [
+      -113.9749652,
+      51.1069433
+    ],
+    "longitude": -113.9749652,
+    "latitude": 51.1069433,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

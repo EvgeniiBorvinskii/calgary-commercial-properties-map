@@ -1,0 +1,36 @@
+{
+  "id": "16682403",
+  "fullDetails": {
+    "licenseNumber": "16682403",
+    "name": "FYIDOCTORS - CAMPUS - UOFC",
+    "address": "#119 424 COLLEGIATE BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-23T10:51:15.000Z",
+    "expiryDate": "2026-09-22T10:51:14.000Z",
+    "coordinates": [
+      -114.1304153,
+      51.0786104
+    ],
+    "longitude": -114.1304153,
+    "latitude": 51.0786104,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

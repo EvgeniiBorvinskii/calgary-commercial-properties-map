@@ -1,0 +1,36 @@
+{
+  "id": "14154272",
+  "fullDetails": {
+    "licenseNumber": "14154272",
+    "name": "OPA! OF GREECE #113 EASTHILLS",
+    "address": "#619 409 EAST HILLS BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-07-11T13:34:39.000Z",
+    "expiryDate": "2026-07-10T13:34:39.000Z",
+    "coordinates": [
+      -113.9091989,
+      51.0391988
+    ],
+    "longitude": -113.9091989,
+    "latitude": 51.0391988,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

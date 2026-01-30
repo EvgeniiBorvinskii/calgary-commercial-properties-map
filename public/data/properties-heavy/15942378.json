@@ -1,0 +1,36 @@
+{
+  "id": "15942378",
+  "fullDetails": {
+    "licenseNumber": "15942378",
+    "name": "EIGHTH HOUSE (THE)",
+    "address": "3514F 73 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "active",
+    "issuedDate": "2024-06-27T12:03:21.000Z",
+    "expiryDate": "2026-06-26T12:03:20.000Z",
+    "coordinates": [
+      -113.9829011,
+      50.9885761
+    ],
+    "longitude": -113.9829011,
+    "latitude": 50.9885761,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

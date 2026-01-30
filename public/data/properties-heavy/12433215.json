@@ -1,0 +1,36 @@
+{
+  "id": "12433215",
+  "fullDetails": {
+    "licenseNumber": "12433215",
+    "name": "CITY ELECTRIC SUPPY",
+    "address": "#E 2916 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-11-28T15:54:05.000Z",
+    "expiryDate": "2026-11-27T15:54:04.000Z",
+    "coordinates": [
+      -114.0108393,
+      51.0786538
+    ],
+    "longitude": -114.0108393,
+    "latitude": 51.0786538,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "607507",
+  "fullDetails": {
+    "licenseNumber": "607507",
+    "name": "DATUM MILLWORK",
+    "address": "#4 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-30T00:00:00.000Z",
+    "coordinates": [
+      -114.0498631,
+      51.1019373
+    ],
+    "longitude": -114.0498631,
+    "latitude": 51.1019373,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

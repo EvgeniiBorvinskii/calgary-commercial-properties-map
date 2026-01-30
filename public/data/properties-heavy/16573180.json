@@ -1,0 +1,36 @@
+{
+  "id": "16573180",
+  "fullDetails": {
+    "licenseNumber": "16573180",
+    "name": "BEAUTY ZER NER",
+    "address": "#105 7500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-12-30T13:05:28.000Z",
+    "expiryDate": "2026-12-29T13:05:27.000Z",
+    "coordinates": [
+      -114.0701224,
+      50.9866311
+    ],
+    "longitude": -114.0701224,
+    "latitude": 50.9866311,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

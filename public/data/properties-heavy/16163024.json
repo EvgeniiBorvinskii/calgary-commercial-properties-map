@@ -1,0 +1,36 @@
+{
+  "id": "16163024",
+  "fullDetails": {
+    "licenseNumber": "16163024",
+    "name": "WARFAAN AUTO SERVICE",
+    "address": "#225 32 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-06-05T11:43:40.000Z",
+    "expiryDate": "2026-06-04T11:43:40.000Z",
+    "coordinates": [
+      -113.9722719,
+      51.1068967
+    ],
+    "longitude": -113.9722719,
+    "latitude": 51.1068967,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

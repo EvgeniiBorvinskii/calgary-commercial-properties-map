@@ -1,0 +1,36 @@
+{
+  "id": "12146551",
+  "fullDetails": {
+    "licenseNumber": "12146551",
+    "name": "CHARM ENTERPRISES",
+    "address": "6433 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2005-02-19T05:31:25.000Z",
+    "expiryDate": "2026-02-18T05:31:25.000Z",
+    "coordinates": [
+      -114.0605223,
+      50.9951313
+    ],
+    "longitude": -114.0605223,
+    "latitude": 50.9951313,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

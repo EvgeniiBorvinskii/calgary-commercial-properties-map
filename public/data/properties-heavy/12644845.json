@@ -1,0 +1,36 @@
+{
+  "id": "12644845",
+  "fullDetails": {
+    "licenseNumber": "12644845",
+    "name": "BODNAR STEEL FABRICATORS",
+    "address": "9525 ENDEAVOR DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-02-06T15:26:27.000Z",
+    "expiryDate": "2027-02-05T15:26:27.000Z",
+    "coordinates": [
+      -113.8931673,
+      50.9667348
+    ],
+    "longitude": -113.8931673,
+    "latitude": 50.9667348,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "738708",
+  "fullDetails": {
+    "licenseNumber": "738708",
+    "name": "STARBUCKS COFFEE #4272",
+    "address": "2223 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-20T00:00:00.000Z",
+    "coordinates": [
+      -114.0718319,
+      51.032728
+    ],
+    "longitude": -114.0718319,
+    "latitude": 51.032728,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

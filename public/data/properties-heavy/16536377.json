@@ -1,0 +1,36 @@
+{
+  "id": "16536377",
+  "fullDetails": {
+    "licenseNumber": "16536377",
+    "name": "THE ITALIA STORE",
+    "address": "3505M 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-02-28T09:57:43.000Z",
+    "expiryDate": "2027-02-27T09:57:42.000Z",
+    "coordinates": [
+      -113.98963,
+      51.0840706
+    ],
+    "longitude": -113.98963,
+    "latitude": 51.0840706,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

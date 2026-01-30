@@ -1,0 +1,36 @@
+{
+  "id": "16168080",
+  "fullDetails": {
+    "licenseNumber": "16168080",
+    "name": "PSPC CANADA SYSTEMS",
+    "address": "#45 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-06-08T09:58:10.000Z",
+    "expiryDate": "2026-06-07T09:58:10.000Z",
+    "coordinates": [
+      -114.0405175,
+      51.1049054
+    ],
+    "longitude": -114.0405175,
+    "latitude": 51.1049054,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

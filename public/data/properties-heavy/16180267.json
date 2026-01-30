@@ -1,0 +1,36 @@
+{
+  "id": "16180267",
+  "fullDetails": {
+    "licenseNumber": "16180267",
+    "name": "WENDYS",
+    "address": "#112 444 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-07-21T13:44:58.000Z",
+    "expiryDate": "2026-07-20T13:44:58.000Z",
+    "coordinates": [
+      -114.05478,
+      51.0018618
+    ],
+    "longitude": -114.05478,
+    "latitude": 51.0018618,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

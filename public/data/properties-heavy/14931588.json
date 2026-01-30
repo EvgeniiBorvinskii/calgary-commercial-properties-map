@@ -1,0 +1,36 @@
+{
+  "id": "14931588",
+  "fullDetails": {
+    "licenseNumber": "14931588",
+    "name": "TACO TIME - TTC045",
+    "address": "#5F 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-05-29T11:59:20.000Z",
+    "expiryDate": "2026-05-28T11:59:20.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

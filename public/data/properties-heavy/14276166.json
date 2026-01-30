@@ -1,0 +1,36 @@
+{
+  "id": "14276166",
+  "fullDetails": {
+    "licenseNumber": "14276166",
+    "name": "GIFTY'S BOUTIQUE AND MORE",
+    "address": "#14 3745 MEMORIAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-29T08:04:15.000Z",
+    "expiryDate": "2026-09-28T08:04:15.000Z",
+    "coordinates": [
+      -113.9789052,
+      51.0517756
+    ],
+    "longitude": -113.9789052,
+    "latitude": 51.0517756,
+    "community": "FOREST HEIGHTS",
+    "ward": "FHT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

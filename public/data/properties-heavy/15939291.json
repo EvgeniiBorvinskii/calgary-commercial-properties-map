@@ -1,0 +1,36 @@
+{
+  "id": "15939291",
+  "fullDetails": {
+    "licenseNumber": "15939291",
+    "name": "DESIGN GALLERY INTERIORS",
+    "address": "#408 1919 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2020-11-02T10:37:51.000Z",
+    "expiryDate": "2025-11-01T10:37:51.000Z",
+    "coordinates": [
+      -114.1657404,
+      51.0357077
+    ],
+    "longitude": -114.1657404,
+    "latitude": 51.0357077,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

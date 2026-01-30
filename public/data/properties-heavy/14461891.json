@@ -1,0 +1,36 @@
+{
+  "id": "14461891",
+  "fullDetails": {
+    "licenseNumber": "14461891",
+    "name": "DATUM VESSEL FABRICATION",
+    "address": "3015 57 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-10-24T05:31:21.000Z",
+    "expiryDate": "2026-10-23T05:31:21.000Z",
+    "coordinates": [
+      -113.9930094,
+      51.0030467
+    ],
+    "longitude": -113.9930094,
+    "latitude": 51.0030467,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

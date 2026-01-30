@@ -1,0 +1,36 @@
+{
+  "id": "16610289",
+  "fullDetails": {
+    "licenseNumber": "16610289",
+    "name": "IMAGINE WIRELESS",
+    "address": "#9 285 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-11T15:49:19.000Z",
+    "expiryDate": "2026-04-10T15:49:19.000Z",
+    "coordinates": [
+      -114.0678296,
+      50.9009887
+    ],
+    "longitude": -114.0678296,
+    "latitude": 50.9009887,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

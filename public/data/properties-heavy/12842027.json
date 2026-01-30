@@ -1,0 +1,36 @@
+{
+  "id": "12842027",
+  "fullDetails": {
+    "licenseNumber": "12842027",
+    "name": "KOODO SHOP",
+    "address": "#M10 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-02-25T12:12:37.000Z",
+    "expiryDate": "2026-02-24T12:12:37.000Z",
+    "coordinates": [
+      -114.1550677,
+      51.0843399
+    ],
+    "longitude": -114.1550677,
+    "latitude": 51.0843399,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

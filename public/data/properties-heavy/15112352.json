@@ -1,0 +1,37 @@
+{
+  "id": "15112352",
+  "fullDetails": {
+    "licenseNumber": "15112352",
+    "name": "LA DIPERIE",
+    "address": "#519 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2019-02-25T15:17:51.000Z",
+    "expiryDate": "2026-02-24T15:17:51.000Z",
+    "coordinates": [
+      -114.0553647,
+      51.1549823
+    ],
+    "longitude": -114.0553647,
+    "latitude": 51.1549823,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

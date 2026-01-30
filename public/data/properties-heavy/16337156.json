@@ -1,0 +1,37 @@
+{
+  "id": "16337156",
+  "fullDetails": {
+    "licenseNumber": "16337156",
+    "name": "MUCHO BURRITO",
+    "address": "#140 74 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-07-27T14:28:05.000Z",
+    "expiryDate": "2026-07-26T14:28:04.000Z",
+    "coordinates": [
+      -114.1452023,
+      51.169755
+    ],
+    "longitude": -114.1452023,
+    "latitude": 51.169755,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

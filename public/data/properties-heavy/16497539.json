@@ -1,0 +1,36 @@
+{
+  "id": "16497539",
+  "fullDetails": {
+    "licenseNumber": "16497539",
+    "name": "MACLEOD PHYSIOTHERAPY CLINIC",
+    "address": "#120 3916 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-26T08:46:01.000Z",
+    "expiryDate": "2026-09-25T08:46:00.000Z",
+    "coordinates": [
+      -114.0622081,
+      51.0187685
+    ],
+    "longitude": -114.0622081,
+    "latitude": 51.0187685,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

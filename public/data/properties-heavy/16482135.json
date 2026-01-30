@@ -1,0 +1,37 @@
+{
+  "id": "16482135",
+  "fullDetails": {
+    "licenseNumber": "16482135",
+    "name": "ELIXIR PHARMACY",
+    "address": "#102 8 VARSITY ESTATES CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-30T08:29:52.000Z",
+    "expiryDate": "2026-04-29T08:29:52.000Z",
+    "coordinates": [
+      -114.1641285,
+      51.1032908
+    ],
+    "longitude": -114.1641285,
+    "latitude": 51.1032908,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

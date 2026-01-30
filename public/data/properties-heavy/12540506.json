@@ -1,0 +1,36 @@
+{
+  "id": "12540506",
+  "fullDetails": {
+    "licenseNumber": "12540506",
+    "name": "JUST 4 EYES",
+    "address": "#201 10601 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2021-07-23T15:01:45.000Z",
+    "expiryDate": "2026-07-22T15:01:45.000Z",
+    "coordinates": [
+      -114.0733085,
+      50.9588043
+    ],
+    "longitude": -114.0733085,
+    "latitude": 50.9588043,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

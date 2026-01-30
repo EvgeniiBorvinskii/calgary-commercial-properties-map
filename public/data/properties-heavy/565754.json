@@ -1,0 +1,37 @@
+{
+  "id": "565754",
+  "fullDetails": {
+    "licenseNumber": "565754",
+    "name": "MCKENZIE MEADOWS GOLF CLUB",
+    "address": "2400 MCKENZIE MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-10T00:00:00.000Z",
+    "coordinates": [
+      -113.9998797,
+      50.8977253
+    ],
+    "longitude": -113.9998797,
+    "latitude": 50.8977253,
+    "community": "FISH CREEK PARK",
+    "ward": "FPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

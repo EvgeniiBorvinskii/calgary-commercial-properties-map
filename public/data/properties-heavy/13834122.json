@@ -1,0 +1,36 @@
+{
+  "id": "13834122",
+  "fullDetails": {
+    "licenseNumber": "13834122",
+    "name": "FOSSIL",
+    "address": "#E24B 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-06-25T09:18:20.000Z",
+    "expiryDate": "2026-06-24T09:18:20.000Z",
+    "coordinates": [
+      -114.1547584,
+      51.0847145
+    ],
+    "longitude": -114.1547584,
+    "latitude": 51.0847145,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

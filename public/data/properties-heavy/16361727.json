@@ -1,0 +1,36 @@
+{
+  "id": "16361727",
+  "fullDetails": {
+    "licenseNumber": "16361727",
+    "name": "SUBWAY 12138",
+    "address": "8311 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-03T09:07:57.000Z",
+    "expiryDate": "2026-08-02T09:07:57.000Z",
+    "coordinates": [
+      -114.0605855,
+      50.979138
+    ],
+    "longitude": -114.0605855,
+    "latitude": 50.979138,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

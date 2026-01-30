@@ -1,0 +1,36 @@
+{
+  "id": "7989",
+  "fullDetails": {
+    "licenseNumber": "7989",
+    "name": "BHATIA CLOTH HOUSE",
+    "address": "#1001 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2005-03-18T14:27:21.000Z",
+    "expiryDate": "2026-03-17T14:27:21.000Z",
+    "coordinates": [
+      -113.9610205,
+      51.0974582
+    ],
+    "longitude": -113.9610205,
+    "latitude": 51.0974582,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

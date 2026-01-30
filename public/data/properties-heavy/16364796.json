@@ -1,0 +1,36 @@
+{
+  "id": "16364796",
+  "fullDetails": {
+    "licenseNumber": "16364796",
+    "name": "GOODING LODGING HOUSE",
+    "address": "92 SHAWFIELD WY SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2024-10-08T09:15:04.000Z",
+    "expiryDate": "2026-10-07T09:15:03.000Z",
+    "coordinates": [
+      -114.0869302,
+      50.905198
+    ],
+    "longitude": -114.0869302,
+    "latitude": 50.905198,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

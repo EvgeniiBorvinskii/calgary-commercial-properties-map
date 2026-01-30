@@ -1,0 +1,36 @@
+{
+  "id": "15135478",
+  "fullDetails": {
+    "licenseNumber": "15135478",
+    "name": "TECHVILL APPLIANCE REPAIR",
+    "address": "9627 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-10T12:43:24.000Z",
+    "expiryDate": "2026-12-09T12:43:24.000Z",
+    "coordinates": [
+      -114.075142,
+      50.9684012
+    ],
+    "longitude": -114.075142,
+    "latitude": 50.9684012,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

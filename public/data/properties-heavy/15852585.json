@@ -1,0 +1,36 @@
+{
+  "id": "15852585",
+  "fullDetails": {
+    "licenseNumber": "15852585",
+    "name": "ANYTIME FITNESS SKYPOINTE",
+    "address": "#1810 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2019-12-09T08:30:16.000Z",
+    "expiryDate": "2026-12-08T08:30:16.000Z",
+    "coordinates": [
+      -113.9506844,
+      51.1562851
+    ],
+    "longitude": -113.9506844,
+    "latitude": 51.1562851,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

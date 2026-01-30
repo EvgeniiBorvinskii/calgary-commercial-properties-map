@@ -1,0 +1,37 @@
+{
+  "id": "14712988",
+  "fullDetails": {
+    "licenseNumber": "14712988",
+    "name": "ONE FOR ALL FITNESS 2020",
+    "address": "#3 6125 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "BODY RUB CENTRE,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-11-09T11:08:22.000Z",
+    "expiryDate": "2026-11-08T11:08:22.000Z",
+    "coordinates": [
+      -114.0383851,
+      50.9977523
+    ],
+    "longitude": -114.0383851,
+    "latitude": 50.9977523,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

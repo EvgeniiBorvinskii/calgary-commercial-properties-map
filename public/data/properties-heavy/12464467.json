@@ -1,0 +1,36 @@
+{
+  "id": "12464467",
+  "fullDetails": {
+    "licenseNumber": "12464467",
+    "name": "CALGARY TOWER",
+    "address": "101 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2006-02-22T13:29:39.000Z",
+    "expiryDate": "2026-02-21T13:29:39.000Z",
+    "coordinates": [
+      -114.0630789,
+      51.0442869
+    ],
+    "longitude": -114.0630789,
+    "latitude": 51.0442869,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

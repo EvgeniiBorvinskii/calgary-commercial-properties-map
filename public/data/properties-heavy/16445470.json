@@ -1,0 +1,36 @@
+{
+  "id": "16445470",
+  "fullDetails": {
+    "licenseNumber": "16445470",
+    "name": "YUE-GUSTAFSON SCHOOL OF HEALTH PROFESSIONS",
+    "address": "#200 6 CROWFOOT CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-04-25T07:21:33.000Z",
+    "expiryDate": "2026-04-24T07:21:33.000Z",
+    "coordinates": [
+      -114.2029018,
+      51.1233839
+    ],
+    "longitude": -114.2029018,
+    "latitude": 51.1233839,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

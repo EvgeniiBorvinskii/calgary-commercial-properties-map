@@ -1,0 +1,36 @@
+{
+  "id": "12828430",
+  "fullDetails": {
+    "licenseNumber": "12828430",
+    "name": "BIRCHWOOD FURNITURE GALLERIES",
+    "address": "7315 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-10-16T07:54:30.000Z",
+    "expiryDate": "2026-10-15T07:54:30.000Z",
+    "coordinates": [
+      -114.041208,
+      50.9887425
+    ],
+    "longitude": -114.041208,
+    "latitude": 50.9887425,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

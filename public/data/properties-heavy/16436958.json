@@ -1,0 +1,36 @@
+{
+  "id": "16436958",
+  "fullDetails": {
+    "licenseNumber": "16436958",
+    "name": "AVION SECURITY SERVICES",
+    "address": "#1214 4818 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-04T08:50:39.000Z",
+    "expiryDate": "2026-03-03T08:50:38.000Z",
+    "coordinates": [
+      -113.9652511,
+      51.1014772
+    ],
+    "longitude": -113.9652511,
+    "latitude": 51.1014772,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

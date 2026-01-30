@@ -1,0 +1,37 @@
+{
+  "id": "14022321",
+  "fullDetails": {
+    "licenseNumber": "14022321",
+    "name": "AXE THROWING CALGARY",
+    "address": "5923 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-14T11:29:51.000Z",
+    "expiryDate": "2026-12-13T11:29:51.000Z",
+    "coordinates": [
+      -114.0576694,
+      50.9999974
+    ],
+    "longitude": -114.0576694,
+    "latitude": 50.9999974,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

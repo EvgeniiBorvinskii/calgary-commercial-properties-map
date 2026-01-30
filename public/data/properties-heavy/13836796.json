@@ -1,0 +1,36 @@
+{
+  "id": "13836796",
+  "fullDetails": {
+    "licenseNumber": "13836796",
+    "name": "APARTMENT BUILDING",
+    "address": "424 12 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2014-05-17T05:32:28.000Z",
+    "expiryDate": "2026-05-16T05:32:28.000Z",
+    "coordinates": [
+      -114.0913554,
+      51.0553146
+    ],
+    "longitude": -114.0913554,
+    "latitude": 51.0553146,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

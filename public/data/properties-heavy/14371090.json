@@ -1,0 +1,37 @@
+{
+  "id": "14371090",
+  "fullDetails": {
+    "licenseNumber": "14371090",
+    "name": "MEXICO CITY",
+    "address": "4242 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-06-22T15:35:04.000Z",
+    "expiryDate": "2026-06-21T15:35:04.000Z",
+    "coordinates": [
+      -114.0477262,
+      51.090679
+    ],
+    "longitude": -114.0477262,
+    "latitude": 51.090679,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15853914",
+  "fullDetails": {
+    "licenseNumber": "15853914",
+    "name": "INTELLIGENT WELLHEAD SYSTEMS",
+    "address": "7633 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2020-01-10T09:48:55.000Z",
+    "expiryDate": "2026-01-09T09:48:55.000Z",
+    "coordinates": [
+      -113.9476171,
+      50.9855458
+    ],
+    "longitude": -113.9476171,
+    "latitude": 50.9855458,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

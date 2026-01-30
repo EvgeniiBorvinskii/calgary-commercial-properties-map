@@ -1,0 +1,36 @@
+{
+  "id": "16150815",
+  "fullDetails": {
+    "licenseNumber": "16150815",
+    "name": "FRESHII",
+    "address": "#198 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-05-03T11:18:02.000Z",
+    "expiryDate": "2026-05-02T11:18:02.000Z",
+    "coordinates": [
+      -114.2132779,
+      51.1504726
+    ],
+    "longitude": -114.2132779,
+    "latitude": 51.1504726,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

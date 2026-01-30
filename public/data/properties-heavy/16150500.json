@@ -1,0 +1,36 @@
+{
+  "id": "16150500",
+  "fullDetails": {
+    "licenseNumber": "16150500",
+    "name": "MCINTYRE GROUP OFFICE SERVICES",
+    "address": "5667 69 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2022-09-13T13:35:40.000Z",
+    "expiryDate": "2026-09-12T13:35:40.000Z",
+    "coordinates": [
+      -113.9483233,
+      50.9919139
+    ],
+    "longitude": -113.9483233,
+    "latitude": 50.9919139,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

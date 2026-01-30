@@ -1,0 +1,36 @@
+{
+  "id": "15874399",
+  "fullDetails": {
+    "licenseNumber": "15874399",
+    "name": "TRACKER BOAT CENTER",
+    "address": "851 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-09-08T14:38:51.000Z",
+    "expiryDate": "2026-09-07T14:38:51.000Z",
+    "coordinates": [
+      -114.0446262,
+      51.1062109
+    ],
+    "longitude": -114.0446262,
+    "latitude": 51.1062109,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

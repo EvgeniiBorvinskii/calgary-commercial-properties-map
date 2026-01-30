@@ -1,0 +1,36 @@
+{
+  "id": "15793862",
+  "fullDetails": {
+    "licenseNumber": "15793862",
+    "name": "CANADA CARTAGE LOGISTICS SOLUTIONS",
+    "address": "#166 5664 69 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-07-18T10:54:28.000Z",
+    "expiryDate": "2026-07-17T10:54:27.000Z",
+    "coordinates": [
+      -113.9491874,
+      50.9936481
+    ],
+    "longitude": -113.9491874,
+    "latitude": 50.9936481,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

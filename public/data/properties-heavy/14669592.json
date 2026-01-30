@@ -1,0 +1,36 @@
+{
+  "id": "14669592",
+  "fullDetails": {
+    "licenseNumber": "14669592",
+    "name": "PROCON SYSTEMS (2013)",
+    "address": "#15A 6120 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-09-27T11:34:27.000Z",
+    "expiryDate": "2026-09-26T11:34:27.000Z",
+    "coordinates": [
+      -114.0592623,
+      50.9972222
+    ],
+    "longitude": -114.0592623,
+    "latitude": 50.9972222,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

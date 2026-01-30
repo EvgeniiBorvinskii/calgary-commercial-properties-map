@@ -1,0 +1,37 @@
+{
+  "id": "14777775",
+  "fullDetails": {
+    "licenseNumber": "14777775",
+    "name": "REFRIGERATIVE SUPPLY",
+    "address": "3830 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-06-24T15:57:08.000Z",
+    "expiryDate": "2026-06-23T15:57:08.000Z",
+    "coordinates": [
+      -114.0300495,
+      51.0864086
+    ],
+    "longitude": -114.0300495,
+    "latitude": 51.0864086,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

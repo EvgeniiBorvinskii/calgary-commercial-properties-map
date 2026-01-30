@@ -1,0 +1,36 @@
+{
+  "id": "16540049",
+  "fullDetails": {
+    "licenseNumber": "16540049",
+    "name": "PHO PHAM UNIVERSITY DISTRICT",
+    "address": "3908 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-26T09:16:07.000Z",
+    "expiryDate": "2026-09-25T09:16:07.000Z",
+    "coordinates": [
+      -114.143214,
+      51.0786131
+    ],
+    "longitude": -114.143214,
+    "latitude": 51.0786131,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

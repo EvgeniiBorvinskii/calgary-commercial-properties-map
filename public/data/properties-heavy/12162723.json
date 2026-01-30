@@ -1,0 +1,36 @@
+{
+  "id": "12162723",
+  "fullDetails": {
+    "licenseNumber": "12162723",
+    "name": "LOK ENERGY SERVICES",
+    "address": "3112 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2021-02-23T14:51:04.000Z",
+    "expiryDate": "2026-02-22T14:51:04.000Z",
+    "coordinates": [
+      -113.9864874,
+      50.9819556
+    ],
+    "longitude": -113.9864874,
+    "latitude": 50.9819556,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

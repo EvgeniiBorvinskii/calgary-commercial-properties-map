@@ -1,0 +1,36 @@
+{
+  "id": "12714390",
+  "fullDetails": {
+    "licenseNumber": "12714390",
+    "name": "CSN CAR SALON",
+    "address": "#138 1725 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2008-10-09T12:00:34.000Z",
+    "expiryDate": "2026-10-08T12:00:34.000Z",
+    "coordinates": [
+      -114.0167144,
+      51.0802063
+    ],
+    "longitude": -114.0167144,
+    "latitude": 51.0802063,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

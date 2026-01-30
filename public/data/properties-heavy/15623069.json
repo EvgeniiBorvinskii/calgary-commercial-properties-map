@@ -1,0 +1,36 @@
+{
+  "id": "15623069",
+  "fullDetails": {
+    "licenseNumber": "15623069",
+    "name": "URBAN PLANET",
+    "address": "#100 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-12T11:39:50.000Z",
+    "expiryDate": "2026-07-11T11:39:50.000Z",
+    "coordinates": [
+      -113.9865861,
+      51.0736751
+    ],
+    "longitude": -113.9865861,
+    "latitude": 51.0736751,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

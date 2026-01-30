@@ -1,0 +1,36 @@
+{
+  "id": "15929912",
+  "fullDetails": {
+    "licenseNumber": "15929912",
+    "name": "MADE BY MARCUS",
+    "address": "1105 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-02-23T13:30:59.000Z",
+    "expiryDate": "2026-02-22T13:30:59.000Z",
+    "coordinates": [
+      -114.0373786,
+      51.053099
+    ],
+    "longitude": -114.0373786,
+    "latitude": 51.053099,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

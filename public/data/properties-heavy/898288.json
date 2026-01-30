@@ -1,0 +1,36 @@
+{
+  "id": "898288",
+  "fullDetails": {
+    "licenseNumber": "898288",
+    "name": "XEMEX CONTRACTING",
+    "address": "#7 6303 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-05-10T15:48:48.000Z",
+    "expiryDate": "2026-05-09T15:48:48.000Z",
+    "coordinates": [
+      -114.0470184,
+      50.9983573
+    ],
+    "longitude": -114.0470184,
+    "latitude": 50.9983573,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

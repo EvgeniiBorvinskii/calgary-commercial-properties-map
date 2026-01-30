@@ -1,0 +1,37 @@
+{
+  "id": "12835229",
+  "fullDetails": {
+    "licenseNumber": "12835229",
+    "name": "MAC'S CONVENIENCE STORE #2157",
+    "address": "8 MCKENZIE TOWNE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2009-09-21T14:26:52.000Z",
+    "expiryDate": "2026-09-20T14:26:52.000Z",
+    "coordinates": [
+      -113.960757,
+      50.9174588
+    ],
+    "longitude": -113.960757,
+    "latitude": 50.9174588,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

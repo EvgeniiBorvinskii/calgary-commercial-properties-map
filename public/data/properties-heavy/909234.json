@@ -1,0 +1,36 @@
+{
+  "id": "909234",
+  "fullDetails": {
+    "licenseNumber": "909234",
+    "name": "DYNAMIC VACUUMS",
+    "address": "#165 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-23T11:56:49.000Z",
+    "expiryDate": "2026-03-22T11:56:48.000Z",
+    "coordinates": [
+      -114.0871537,
+      50.9625063
+    ],
+    "longitude": -114.0871537,
+    "latitude": 50.9625063,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

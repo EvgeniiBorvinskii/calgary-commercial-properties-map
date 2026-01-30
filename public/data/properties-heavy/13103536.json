@@ -1,0 +1,36 @@
+{
+  "id": "13103536",
+  "fullDetails": {
+    "licenseNumber": "13103536",
+    "name": "ZONE 3 BUSINESS SOLUTIONS",
+    "address": "#18 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2011-03-09T06:52:14.000Z",
+    "expiryDate": "2026-03-08T06:52:14.000Z",
+    "coordinates": [
+      -113.9705132,
+      50.9522246
+    ],
+    "longitude": -113.9705132,
+    "latitude": 50.9522246,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

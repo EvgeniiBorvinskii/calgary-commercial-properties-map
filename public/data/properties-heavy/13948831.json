@@ -1,0 +1,36 @@
+{
+  "id": "13948831",
+  "fullDetails": {
+    "licenseNumber": "13948831",
+    "name": "UNIDECO COMMERCIAL & RESIDENTIAL",
+    "address": "#15 5505 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-06-19T05:33:39.000Z",
+    "expiryDate": "2026-06-18T05:33:39.000Z",
+    "coordinates": [
+      -113.9527927,
+      51.0073603
+    ],
+    "longitude": -113.9527927,
+    "latitude": 51.0073603,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

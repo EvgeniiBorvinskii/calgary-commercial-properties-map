@@ -1,0 +1,36 @@
+{
+  "id": "777664",
+  "fullDetails": {
+    "licenseNumber": "777664",
+    "name": "GINGER BEEF CHOICE",
+    "address": "5521 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-12-06T05:46:23.000Z",
+    "expiryDate": "2026-12-05T05:46:23.000Z",
+    "coordinates": [
+      -114.0577756,
+      51.0047273
+    ],
+    "longitude": -114.0577756,
+    "latitude": 51.0047273,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

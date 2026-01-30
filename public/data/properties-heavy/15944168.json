@@ -1,0 +1,37 @@
+{
+  "id": "15944168",
+  "fullDetails": {
+    "licenseNumber": "15944168",
+    "name": "FOREST LANE PHYSIO & MASSAGE CLINIC",
+    "address": "#3 3012 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-02-22T14:59:25.000Z",
+    "expiryDate": "2026-02-21T14:59:24.000Z",
+    "coordinates": [
+      -113.9906379,
+      51.0389104
+    ],
+    "longitude": -113.9906379,
+    "latitude": 51.0389104,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16103541",
+  "fullDetails": {
+    "licenseNumber": "16103541",
+    "name": "ARCTERYX EQUIPMENT",
+    "address": "#R26 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-14T15:57:12.000Z",
+    "expiryDate": "2026-11-13T15:57:12.000Z",
+    "coordinates": [
+      -114.1546187,
+      51.0827568
+    ],
+    "longitude": -114.1546187,
+    "latitude": 51.0827568,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

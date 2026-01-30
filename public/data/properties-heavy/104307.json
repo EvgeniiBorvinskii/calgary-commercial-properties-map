@@ -1,0 +1,36 @@
+{
+  "id": "104307",
+  "fullDetails": {
+    "licenseNumber": "104307",
+    "name": "A 1 CONCRETE CUTTING & CORING",
+    "address": "4045 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-11-08T12:18:23.000Z",
+    "expiryDate": "2026-11-07T12:18:23.000Z",
+    "coordinates": [
+      -113.979938,
+      50.9667203
+    ],
+    "longitude": -113.979938,
+    "latitude": 50.9667203,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

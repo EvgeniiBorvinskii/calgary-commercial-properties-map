@@ -1,0 +1,36 @@
+{
+  "id": "16554669",
+  "fullDetails": {
+    "licenseNumber": "16554669",
+    "name": "BEEDIE",
+    "address": "#2210 150 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-07T10:35:01.000Z",
+    "expiryDate": "2026-11-06T10:35:00.000Z",
+    "coordinates": [
+      -114.0645858,
+      51.0448163
+    ],
+    "longitude": -114.0645858,
+    "latitude": 51.0448163,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

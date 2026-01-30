@@ -1,0 +1,36 @@
+{
+  "id": "13984653",
+  "fullDetails": {
+    "licenseNumber": "13984653",
+    "name": "NIJI BIKES",
+    "address": "3923 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-06T15:56:03.000Z",
+    "expiryDate": "2026-07-05T15:56:03.000Z",
+    "coordinates": [
+      -114.0598886,
+      51.0187309
+    ],
+    "longitude": -114.0598886,
+    "latitude": 51.0187309,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

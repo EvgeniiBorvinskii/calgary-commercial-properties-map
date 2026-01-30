@@ -1,0 +1,36 @@
+{
+  "id": "15498041",
+  "fullDetails": {
+    "licenseNumber": "15498041",
+    "name": "RICK RACK TEXTILES",
+    "address": "4704 MANHATTAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-01-03T10:24:29.000Z",
+    "expiryDate": "2027-01-02T10:24:29.000Z",
+    "coordinates": [
+      -114.0498514,
+      51.0115708
+    ],
+    "longitude": -114.0498514,
+    "latitude": 51.0115708,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

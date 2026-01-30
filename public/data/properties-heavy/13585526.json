@@ -1,0 +1,36 @@
+{
+  "id": "13585526",
+  "fullDetails": {
+    "licenseNumber": "13585526",
+    "name": "TELUS",
+    "address": "#263 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-11-07T16:12:02.000Z",
+    "expiryDate": "2026-11-06T16:12:02.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

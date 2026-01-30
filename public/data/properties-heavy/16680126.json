@@ -1,0 +1,36 @@
+{
+  "id": "16680126",
+  "fullDetails": {
+    "licenseNumber": "16680126",
+    "name": "SHANGSHANGQIAN",
+    "address": "#106 5211 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-14T15:56:54.000Z",
+    "expiryDate": "2026-10-13T15:56:54.000Z",
+    "coordinates": [
+      -114.0691313,
+      51.0081531
+    ],
+    "longitude": -114.0691313,
+    "latitude": 51.0081531,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

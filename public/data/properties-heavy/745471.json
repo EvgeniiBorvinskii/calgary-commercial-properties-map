@@ -1,0 +1,37 @@
+{
+  "id": "745471",
+  "fullDetails": {
+    "licenseNumber": "745471",
+    "name": "VISIONS ELECTRONICS",
+    "address": "46 CROWFOOT CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-04T00:00:00.000Z",
+    "coordinates": [
+      -114.205036,
+      51.1232062
+    ],
+    "longitude": -114.205036,
+    "latitude": 51.1232062,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

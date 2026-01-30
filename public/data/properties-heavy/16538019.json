@@ -1,0 +1,37 @@
+{
+  "id": "16538019",
+  "fullDetails": {
+    "licenseNumber": "16538019",
+    "name": "DOSA KINGDOM",
+    "address": "#715 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-27T13:31:03.000Z",
+    "expiryDate": "2026-09-26T13:31:02.000Z",
+    "coordinates": [
+      -114.0690669,
+      50.9453823
+    ],
+    "longitude": -114.0690669,
+    "latitude": 50.9453823,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

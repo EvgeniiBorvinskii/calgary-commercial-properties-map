@@ -1,0 +1,37 @@
+{
+  "id": "15968878",
+  "fullDetails": {
+    "licenseNumber": "15968878",
+    "name": "TIM HORTONS",
+    "address": "#5 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-01-21T11:16:28.000Z",
+    "expiryDate": "2027-01-20T11:16:28.000Z",
+    "coordinates": [
+      -113.9720503,
+      50.9311491
+    ],
+    "longitude": -113.9720503,
+    "latitude": 50.9311491,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

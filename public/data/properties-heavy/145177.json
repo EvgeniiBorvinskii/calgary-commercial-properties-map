@@ -1,0 +1,36 @@
+{
+  "id": "145177",
+  "fullDetails": {
+    "licenseNumber": "145177",
+    "name": "LA CHIC LADIES WEAR",
+    "address": "#213 315 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-30T12:24:28.000Z",
+    "expiryDate": "2026-12-29T12:24:28.000Z",
+    "coordinates": [
+      -114.0690566,
+      51.0452367
+    ],
+    "longitude": -114.0690566,
+    "latitude": 51.0452367,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

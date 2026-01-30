@@ -1,0 +1,37 @@
+{
+  "id": "696260",
+  "fullDetails": {
+    "licenseNumber": "696260",
+    "name": "JAMES JOYCE PUB",
+    "address": "#100 114 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-13T00:00:00.000Z",
+    "coordinates": [
+      -114.063932,
+      51.0458133
+    ],
+    "longitude": -114.063932,
+    "latitude": 51.0458133,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

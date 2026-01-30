@@ -1,0 +1,37 @@
+{
+  "id": "16035073",
+  "fullDetails": {
+    "licenseNumber": "16035073",
+    "name": "A N CONVENIENCE",
+    "address": "#123 575 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2021-06-03T12:00:41.000Z",
+    "expiryDate": "2026-06-02T12:00:41.000Z",
+    "coordinates": [
+      -113.9903508,
+      51.047442
+    ],
+    "longitude": -113.9903508,
+    "latitude": 51.047442,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12609",
+  "fullDetails": {
+    "licenseNumber": "12609",
+    "name": "ANTHRATECH WESTERN",
+    "address": "#432 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-10-13T11:57:34.000Z",
+    "expiryDate": "2026-10-12T11:57:34.000Z",
+    "coordinates": [
+      -113.9929927,
+      51.0136584
+    ],
+    "longitude": -113.9929927,
+    "latitude": 51.0136584,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14327506",
+  "fullDetails": {
+    "licenseNumber": "14327506",
+    "name": "HIGHCLIFFE MECHANICAL",
+    "address": "#5 4216 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-06T16:21:44.000Z",
+    "expiryDate": "2026-03-05T16:21:43.000Z",
+    "coordinates": [
+      -114.0372798,
+      51.0899865
+    ],
+    "longitude": -114.0372798,
+    "latitude": 51.0899865,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

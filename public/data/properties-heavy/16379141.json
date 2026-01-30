@@ -1,0 +1,36 @@
+{
+  "id": "16379141",
+  "fullDetails": {
+    "licenseNumber": "16379141",
+    "name": "BEVERLY (THE)",
+    "address": "2320 5 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-11-02T13:16:16.000Z",
+    "expiryDate": "2026-11-01T13:16:16.000Z",
+    "coordinates": [
+      -114.0729806,
+      51.0318283
+    ],
+    "longitude": -114.0729806,
+    "latitude": 51.0318283,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

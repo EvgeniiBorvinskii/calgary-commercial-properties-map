@@ -1,0 +1,36 @@
+{
+  "id": "15938327",
+  "fullDetails": {
+    "licenseNumber": "15938327",
+    "name": "FROZEN MEMORIES ICE STUDIO",
+    "address": "#C 3605 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-09-15T15:54:21.000Z",
+    "expiryDate": "2026-09-14T15:54:21.000Z",
+    "coordinates": [
+      -114.0226036,
+      51.0223635
+    ],
+    "longitude": -114.0226036,
+    "latitude": 51.0223635,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

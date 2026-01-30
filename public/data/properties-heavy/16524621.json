@@ -1,0 +1,36 @@
+{
+  "id": "16524621",
+  "fullDetails": {
+    "licenseNumber": "16524621",
+    "name": "LASHITOUT",
+    "address": "#1 2005 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "pending",
+    "issuedDate": "2025-02-26T15:50:05.000Z",
+    "expiryDate": "2026-02-25T15:50:04.000Z",
+    "coordinates": [
+      -114.1415163,
+      51.0361079
+    ],
+    "longitude": -114.1415163,
+    "latitude": 51.0361079,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

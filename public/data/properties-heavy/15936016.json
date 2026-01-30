@@ -1,0 +1,36 @@
+{
+  "id": "15936016",
+  "fullDetails": {
+    "licenseNumber": "15936016",
+    "name": "BOOZA PALACE",
+    "address": "#612 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-09-22T07:42:18.000Z",
+    "expiryDate": "2026-09-21T07:42:18.000Z",
+    "coordinates": [
+      -113.9878962,
+      51.0590724
+    ],
+    "longitude": -113.9878962,
+    "latitude": 51.0590724,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

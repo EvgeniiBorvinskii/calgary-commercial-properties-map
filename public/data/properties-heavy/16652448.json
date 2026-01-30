@@ -1,0 +1,36 @@
+{
+  "id": "16652448",
+  "fullDetails": {
+    "licenseNumber": "16652448",
+    "name": "YAPPY HOUR DOG GROOMING",
+    "address": "1990 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-05T14:20:08.000Z",
+    "expiryDate": "2026-11-04T14:20:07.000Z",
+    "coordinates": [
+      -114.1052935,
+      51.0527993
+    ],
+    "longitude": -114.1052935,
+    "latitude": 51.0527993,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

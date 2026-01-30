@@ -1,0 +1,36 @@
+{
+  "id": "13801790",
+  "fullDetails": {
+    "licenseNumber": "13801790",
+    "name": "FRANK DRIVING SCHOOL",
+    "address": "1615 20A ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "in_progress",
+    "issuedDate": "2022-08-15T11:22:05.000Z",
+    "expiryDate": "2026-08-14T11:22:05.000Z",
+    "coordinates": [
+      -114.1096142,
+      51.0667047
+    ],
+    "longitude": -114.1096142,
+    "latitude": 51.0667047,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

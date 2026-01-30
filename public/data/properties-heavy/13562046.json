@@ -1,0 +1,36 @@
+{
+  "id": "13562046",
+  "fullDetails": {
+    "licenseNumber": "13562046",
+    "name": "MYLEE'S BRIDAL FASHIONS & FORMAL WEAR",
+    "address": "3501 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-09-17T15:14:09.000Z",
+    "expiryDate": "2026-09-16T15:14:09.000Z",
+    "coordinates": [
+      -113.9842334,
+      51.0374634
+    ],
+    "longitude": -113.9842334,
+    "latitude": 51.0374634,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

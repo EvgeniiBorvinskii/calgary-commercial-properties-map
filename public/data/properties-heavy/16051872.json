@@ -1,0 +1,36 @@
+{
+  "id": "16051872",
+  "fullDetails": {
+    "licenseNumber": "16051872",
+    "name": "HOUSE OF CARS DEERFOOT MEADOWS / PARK AND SELL",
+    "address": "#15 7395 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-04T14:45:39.000Z",
+    "expiryDate": "2026-08-03T14:45:39.000Z",
+    "coordinates": [
+      -114.0403747,
+      50.9878596
+    ],
+    "longitude": -114.0403747,
+    "latitude": 50.9878596,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

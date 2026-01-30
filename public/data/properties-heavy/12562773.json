@@ -1,0 +1,36 @@
+{
+  "id": "12562773",
+  "fullDetails": {
+    "licenseNumber": "12562773",
+    "name": "HEXTALL PLACE",
+    "address": "6404 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2008-02-15T05:34:35.000Z",
+    "expiryDate": "2027-02-14T05:34:35.000Z",
+    "coordinates": [
+      -114.1802954,
+      51.0861739
+    ],
+    "longitude": -114.1802954,
+    "latitude": 51.0861739,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

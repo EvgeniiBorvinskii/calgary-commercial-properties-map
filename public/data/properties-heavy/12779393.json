@@ -1,0 +1,37 @@
+{
+  "id": "12779393",
+  "fullDetails": {
+    "licenseNumber": "12779393",
+    "name": "A-1 ALARM SYSTEMS & AAA VACUUM SYSTEMS",
+    "address": "#20 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-06-17T16:02:34.000Z",
+    "expiryDate": "2026-06-16T16:02:34.000Z",
+    "coordinates": [
+      -114.0368769,
+      51.1040744
+    ],
+    "longitude": -114.0368769,
+    "latitude": 51.1040744,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

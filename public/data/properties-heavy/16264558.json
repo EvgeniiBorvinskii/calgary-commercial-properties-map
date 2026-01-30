@@ -1,0 +1,37 @@
+{
+  "id": "16264558",
+  "fullDetails": {
+    "licenseNumber": "16264558",
+    "name": "URBAN LUBE",
+    "address": "#6 920 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2023-03-14T16:09:21.000Z",
+    "expiryDate": "2026-03-13T16:09:21.000Z",
+    "coordinates": [
+      -113.9925582,
+      51.0602974
+    ],
+    "longitude": -113.9925582,
+    "latitude": 51.0602974,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

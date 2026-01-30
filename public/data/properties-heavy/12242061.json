@@ -1,0 +1,37 @@
+{
+  "id": "12242061",
+  "fullDetails": {
+    "licenseNumber": "12242061",
+    "name": "ADVANCED AUTO COLOR & BODY SHOP SUPPLIES",
+    "address": "420 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2004-03-29T14:58:15.000Z",
+    "expiryDate": "2026-03-28T14:58:15.000Z",
+    "coordinates": [
+      -113.9925815,
+      51.0553959
+    ],
+    "longitude": -113.9925815,
+    "latitude": 51.0553959,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

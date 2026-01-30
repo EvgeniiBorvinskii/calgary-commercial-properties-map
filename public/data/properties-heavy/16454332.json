@@ -1,0 +1,37 @@
+{
+  "id": "16454332",
+  "fullDetails": {
+    "licenseNumber": "16454332",
+    "name": "VAPE STADIUM & CIGAR EV",
+    "address": "#140 615 6 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-06-25T15:55:51.000Z",
+    "expiryDate": "2026-06-24T15:55:51.000Z",
+    "coordinates": [
+      -114.049868,
+      51.0466299
+    ],
+    "longitude": -114.049868,
+    "latitude": 51.0466299,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

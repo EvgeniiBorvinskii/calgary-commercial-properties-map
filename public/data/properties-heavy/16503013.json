@@ -1,0 +1,36 @@
+{
+  "id": "16503013",
+  "fullDetails": {
+    "licenseNumber": "16503013",
+    "name": "JOAN CHAN'S MASSAGE THERAPY",
+    "address": "#101 1318 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-06-14T05:30:24.000Z",
+    "expiryDate": "2026-06-13T05:30:24.000Z",
+    "coordinates": [
+      -114.0621949,
+      51.0638881
+    ],
+    "longitude": -114.0621949,
+    "latitude": 51.0638881,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

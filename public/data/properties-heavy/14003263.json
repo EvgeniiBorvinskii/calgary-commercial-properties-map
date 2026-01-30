@@ -1,0 +1,36 @@
+{
+  "id": "14003263",
+  "fullDetails": {
+    "licenseNumber": "14003263",
+    "name": "ARADIA FITNESS",
+    "address": "9705A HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-09-23T12:49:34.000Z",
+    "expiryDate": "2026-09-22T12:49:34.000Z",
+    "coordinates": [
+      -114.0764153,
+      50.9679095
+    ],
+    "longitude": -114.0764153,
+    "latitude": 50.9679095,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

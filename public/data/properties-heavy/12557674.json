@@ -1,0 +1,36 @@
+{
+  "id": "12557674",
+  "fullDetails": {
+    "licenseNumber": "12557674",
+    "name": "ONKAR TRUCK REPAIR SHOP",
+    "address": "315 MONUMENT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2008-12-05T05:36:44.000Z",
+    "expiryDate": "2026-12-04T05:36:44.000Z",
+    "coordinates": [
+      -113.9982147,
+      51.0517914
+    ],
+    "longitude": -113.9982147,
+    "latitude": 51.0517914,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

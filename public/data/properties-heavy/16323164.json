@@ -1,0 +1,36 @@
+{
+  "id": "16323164",
+  "fullDetails": {
+    "licenseNumber": "16323164",
+    "name": "ALONA MYRZA SERVICES",
+    "address": "#F 901B HERITAGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-07-06T11:54:03.000Z",
+    "expiryDate": "2026-07-05T11:54:03.000Z",
+    "coordinates": [
+      -114.0837668,
+      50.9791759
+    ],
+    "longitude": -114.0837668,
+    "latitude": 50.9791759,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

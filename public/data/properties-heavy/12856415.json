@@ -1,0 +1,36 @@
+{
+  "id": "12856415",
+  "fullDetails": {
+    "licenseNumber": "12856415",
+    "name": "SAJE NATURAL WELLNESS",
+    "address": "#130 880 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-08-17T10:18:39.000Z",
+    "expiryDate": "2026-08-16T10:18:39.000Z",
+    "coordinates": [
+      -114.0814483,
+      51.0383472
+    ],
+    "longitude": -114.0814483,
+    "latitude": 51.0383472,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16304792",
+  "fullDetails": {
+    "licenseNumber": "16304792",
+    "name": "OMNI EYECARE",
+    "address": "2877 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-16T14:51:02.000Z",
+    "expiryDate": "2026-03-15T14:51:02.000Z",
+    "coordinates": [
+      -113.9923376,
+      51.0374094
+    ],
+    "longitude": -113.9923376,
+    "latitude": 51.0374094,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

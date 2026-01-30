@@ -1,0 +1,36 @@
+{
+  "id": "16380503",
+  "fullDetails": {
+    "licenseNumber": "16380503",
+    "name": "TRISTAR RESOURCE MANAGEMENT",
+    "address": "#2200 700 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-05T14:25:46.000Z",
+    "expiryDate": "2026-10-04T14:25:46.000Z",
+    "coordinates": [
+      -114.076928,
+      51.0452602
+    ],
+    "longitude": -114.076928,
+    "latitude": 51.0452602,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

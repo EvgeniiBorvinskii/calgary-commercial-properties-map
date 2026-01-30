@@ -1,0 +1,37 @@
+{
+  "id": "22251",
+  "fullDetails": {
+    "licenseNumber": "22251",
+    "name": "KONE",
+    "address": "#50 2175 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-01-12T07:45:03.000Z",
+    "expiryDate": "2027-01-11T07:45:03.000Z",
+    "coordinates": [
+      -113.9926275,
+      51.0712476
+    ],
+    "longitude": -113.9926275,
+    "latitude": 51.0712476,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

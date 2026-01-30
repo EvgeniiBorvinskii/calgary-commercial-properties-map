@@ -1,0 +1,36 @@
+{
+  "id": "16030678",
+  "fullDetails": {
+    "licenseNumber": "16030678",
+    "name": "LOVELY SWEETS",
+    "address": "74 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-14T09:20:38.000Z",
+    "expiryDate": "2026-12-13T09:20:38.000Z",
+    "coordinates": [
+      -113.9463782,
+      51.12298
+    ],
+    "longitude": -113.9463782,
+    "latitude": 51.12298,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

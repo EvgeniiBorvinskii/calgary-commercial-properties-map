@@ -1,0 +1,36 @@
+{
+  "id": "13940994",
+  "fullDetails": {
+    "licenseNumber": "13940994",
+    "name": "BOWEST MOTORS",
+    "address": "8305 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-05-01T10:54:20.000Z",
+    "expiryDate": "2026-04-30T10:54:20.000Z",
+    "coordinates": [
+      -114.2061601,
+      51.0889958
+    ],
+    "longitude": -114.2061601,
+    "latitude": 51.0889958,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14011928",
+  "fullDetails": {
+    "licenseNumber": "14011928",
+    "name": "DIVYA SUTRA PLAZA AND CONFERENCE CENTRE",
+    "address": "3515 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "HOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2016-03-28T12:28:29.000Z",
+    "expiryDate": "2026-03-27T12:28:29.000Z",
+    "coordinates": [
+      -113.9990604,
+      51.0839643
+    ],
+    "longitude": -113.9990604,
+    "latitude": 51.0839643,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "54692",
+  "fullDetails": {
+    "licenseNumber": "54692",
+    "name": "JAN'S MEATS & DELICATESSEN",
+    "address": "2436 2 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-28T00:00:00.000Z",
+    "coordinates": [
+      -114.1174232,
+      51.0546456
+    ],
+    "longitude": -114.1174232,
+    "latitude": 51.0546456,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15850712",
+  "fullDetails": {
+    "licenseNumber": "15850712",
+    "name": "CEDARBRAE MANOR",
+    "address": "11611 OAKFIELD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-12-06T13:27:55.000Z",
+    "expiryDate": "2026-12-05T13:27:55.000Z",
+    "coordinates": [
+      -114.1204374,
+      50.953694
+    ],
+    "longitude": -114.1204374,
+    "latitude": 50.953694,
+    "community": "CEDARBRAE",
+    "ward": "CED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

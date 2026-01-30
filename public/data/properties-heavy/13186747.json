@@ -1,0 +1,36 @@
+{
+  "id": "13186747",
+  "fullDetails": {
+    "licenseNumber": "13186747",
+    "name": "CANADIAN PIZZA UNLIMITED",
+    "address": "#147 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-08-08T13:01:42.000Z",
+    "expiryDate": "2026-08-07T13:01:42.000Z",
+    "coordinates": [
+      -114.1978174,
+      51.1231579
+    ],
+    "longitude": -114.1978174,
+    "latitude": 51.1231579,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

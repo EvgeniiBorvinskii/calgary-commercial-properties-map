@@ -1,0 +1,37 @@
+{
+  "id": "13662614",
+  "fullDetails": {
+    "licenseNumber": "13662614",
+    "name": "GT AUTOTRANSPORTATION",
+    "address": "4204 17 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-03-09T13:30:29.000Z",
+    "expiryDate": "2026-03-08T13:30:29.000Z",
+    "coordinates": [
+      -114.0188786,
+      51.0169408
+    ],
+    "longitude": -114.0188786,
+    "latitude": 51.0169408,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16471708",
+  "fullDetails": {
+    "licenseNumber": "16471708",
+    "name": "PEYTO APARTMENTS",
+    "address": "1028 13 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-11-26T14:06:15.000Z",
+    "expiryDate": "2026-11-25T14:06:15.000Z",
+    "coordinates": [
+      -114.0856057,
+      51.0413697
+    ],
+    "longitude": -114.0856057,
+    "latitude": 51.0413697,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

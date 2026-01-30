@@ -1,0 +1,36 @@
+{
+  "id": "12509717",
+  "fullDetails": {
+    "licenseNumber": "12509717",
+    "name": "MICHAEL HILL JEWELLER",
+    "address": "#1244 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-11T08:32:21.000Z",
+    "expiryDate": "2026-08-10T08:32:21.000Z",
+    "coordinates": [
+      -113.9783998,
+      51.0557061
+    ],
+    "longitude": -113.9783998,
+    "latitude": 51.0557061,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

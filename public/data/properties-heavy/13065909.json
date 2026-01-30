@@ -1,0 +1,36 @@
+{
+  "id": "13065909",
+  "fullDetails": {
+    "licenseNumber": "13065909",
+    "name": "TRIBUTES GROUP",
+    "address": "#105 505 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2011-04-12T08:31:27.000Z",
+    "expiryDate": "2026-04-11T08:31:27.000Z",
+    "coordinates": [
+      -114.0527345,
+      51.0227976
+    ],
+    "longitude": -114.0527345,
+    "latitude": 51.0227976,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

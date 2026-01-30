@@ -1,0 +1,36 @@
+{
+  "id": "14495139",
+  "fullDetails": {
+    "licenseNumber": "14495139",
+    "name": "WEATHER PRO WINDOWS AND DOORS",
+    "address": "#11 5915 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2022-02-17T16:53:54.000Z",
+    "expiryDate": "2026-02-16T16:53:54.000Z",
+    "coordinates": [
+      -113.9775026,
+      51.0003606
+    ],
+    "longitude": -113.9775026,
+    "latitude": 51.0003606,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

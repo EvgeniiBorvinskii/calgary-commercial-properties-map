@@ -1,0 +1,36 @@
+{
+  "id": "12437059",
+  "fullDetails": {
+    "licenseNumber": "12437059",
+    "name": "FORTRESS ROOFING",
+    "address": "11539 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-02-08T16:01:34.000Z",
+    "expiryDate": "2026-02-07T16:01:34.000Z",
+    "coordinates": [
+      -113.9756854,
+      50.9485971
+    ],
+    "longitude": -113.9756854,
+    "latitude": 50.9485971,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

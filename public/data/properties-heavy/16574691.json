@@ -1,0 +1,36 @@
+{
+  "id": "16574691",
+  "fullDetails": {
+    "licenseNumber": "16574691",
+    "name": "BLACK RIDGE CONSTRUCTION",
+    "address": "#4 1826 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-04-08T10:16:32.000Z",
+    "expiryDate": "2026-04-07T10:16:31.000Z",
+    "coordinates": [
+      -114.0152509,
+      51.0752278
+    ],
+    "longitude": -114.0152509,
+    "latitude": 51.0752278,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

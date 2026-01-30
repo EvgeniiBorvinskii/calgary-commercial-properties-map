@@ -1,0 +1,36 @@
+{
+  "id": "16673592",
+  "fullDetails": {
+    "licenseNumber": "16673592",
+    "name": "TREASURE HUNT",
+    "address": "#138 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-03T15:20:28.000Z",
+    "expiryDate": "2026-10-02T15:20:28.000Z",
+    "coordinates": [
+      -113.9575595,
+      51.0364733
+    ],
+    "longitude": -113.9575595,
+    "latitude": 51.0364733,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

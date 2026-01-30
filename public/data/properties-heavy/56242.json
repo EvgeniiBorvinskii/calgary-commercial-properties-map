@@ -1,0 +1,36 @@
+{
+  "id": "56242",
+  "fullDetails": {
+    "licenseNumber": "56242",
+    "name": "LAMMLE'S WESTERN WEAR",
+    "address": "#150 6711 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-04T16:07:14.000Z",
+    "expiryDate": "2026-10-03T16:07:14.000Z",
+    "coordinates": [
+      -114.0722567,
+      50.9936169
+    ],
+    "longitude": -114.0722567,
+    "latitude": 50.9936169,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

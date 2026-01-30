@@ -1,0 +1,36 @@
+{
+  "id": "12621462",
+  "fullDetails": {
+    "licenseNumber": "12621462",
+    "name": "ALCOP RESOURCE RECYCLING",
+    "address": "2005 ALYTH PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2022-12-13T09:44:15.000Z",
+    "expiryDate": "2026-12-12T09:44:15.000Z",
+    "coordinates": [
+      -114.027374,
+      51.0355908
+    ],
+    "longitude": -114.027374,
+    "latitude": 51.0355908,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

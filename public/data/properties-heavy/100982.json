@@ -1,0 +1,37 @@
+{
+  "id": "100982",
+  "fullDetails": {
+    "licenseNumber": "100982",
+    "name": "TRADEMARK WORKWEAR",
+    "address": "#2 2320 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2019-12-05T09:58:35.000Z",
+    "expiryDate": "2026-12-04T09:58:35.000Z",
+    "coordinates": [
+      -114.006343,
+      51.0843176
+    ],
+    "longitude": -114.006343,
+    "latitude": 51.0843176,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

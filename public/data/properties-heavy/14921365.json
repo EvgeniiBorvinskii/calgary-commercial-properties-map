@@ -1,0 +1,37 @@
+{
+  "id": "14921365",
+  "fullDetails": {
+    "licenseNumber": "14921365",
+    "name": "PERFECTLY BALANCED WELLNESS THERAPY",
+    "address": "#231 4039 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-06T14:23:53.000Z",
+    "expiryDate": "2026-06-05T14:23:53.000Z",
+    "coordinates": [
+      -114.1330782,
+      51.0887778
+    ],
+    "longitude": -114.1330782,
+    "latitude": 51.0887778,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13879143",
+  "fullDetails": {
+    "licenseNumber": "13879143",
+    "name": "HATT AUTOMOTIVE & FLEET REPAIR",
+    "address": "#4 4970 102 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-11-18T09:11:07.000Z",
+    "expiryDate": "2026-11-17T09:11:07.000Z",
+    "coordinates": [
+      -113.961708,
+      50.9626247
+    ],
+    "longitude": -113.961708,
+    "latitude": 50.9626247,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

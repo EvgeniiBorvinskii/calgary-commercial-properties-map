@@ -1,0 +1,36 @@
+{
+  "id": "15830466",
+  "fullDetails": {
+    "licenseNumber": "15830466",
+    "name": "WSP CANADA",
+    "address": "#2700 700 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-01-27T14:27:07.000Z",
+    "expiryDate": "2026-01-26T14:27:07.000Z",
+    "coordinates": [
+      -114.0674602,
+      51.0461506
+    ],
+    "longitude": -114.0674602,
+    "latitude": 51.0461506,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

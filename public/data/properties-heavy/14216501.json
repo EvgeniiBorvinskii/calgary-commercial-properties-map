@@ -1,0 +1,36 @@
+{
+  "id": "14216501",
+  "fullDetails": {
+    "licenseNumber": "14216501",
+    "name": "FERGUSON",
+    "address": "3625 BLACKBURN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2017-02-17T17:05:56.000Z",
+    "expiryDate": "2026-02-16T17:05:56.000Z",
+    "coordinates": [
+      -114.0554824,
+      51.0222734
+    ],
+    "longitude": -114.0554824,
+    "latitude": 51.0222734,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

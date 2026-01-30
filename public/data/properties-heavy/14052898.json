@@ -1,0 +1,36 @@
+{
+  "id": "14052898",
+  "fullDetails": {
+    "licenseNumber": "14052898",
+    "name": "PEACOCK BOUTIQUE CONSIGNMENT",
+    "address": "814 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2024-09-25T07:09:34.000Z",
+    "expiryDate": "2026-09-24T07:09:34.000Z",
+    "coordinates": [
+      -114.0801345,
+      51.038349
+    ],
+    "longitude": -114.0801345,
+    "latitude": 51.038349,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

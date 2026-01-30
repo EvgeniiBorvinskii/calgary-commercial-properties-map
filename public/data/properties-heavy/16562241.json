@@ -1,0 +1,36 @@
+{
+  "id": "16562241",
+  "fullDetails": {
+    "licenseNumber": "16562241",
+    "name": "KB CONSTRUCTION",
+    "address": "#F 1007 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-24T10:50:26.000Z",
+    "expiryDate": "2026-09-23T10:50:25.000Z",
+    "coordinates": [
+      -114.0411005,
+      51.1017327
+    ],
+    "longitude": -114.0411005,
+    "latitude": 51.1017327,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

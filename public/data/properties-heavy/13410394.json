@@ -1,0 +1,36 @@
+{
+  "id": "13410394",
+  "fullDetails": {
+    "licenseNumber": "13410394",
+    "name": "EVERLINE COATINGS AND SERVICES",
+    "address": "6910 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-07T18:53:52.000Z",
+    "expiryDate": "2026-07-06T18:53:52.000Z",
+    "coordinates": [
+      -114.0624508,
+      50.9923882
+    ],
+    "longitude": -114.0624508,
+    "latitude": 50.9923882,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

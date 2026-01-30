@@ -1,0 +1,36 @@
+{
+  "id": "12650578",
+  "fullDetails": {
+    "licenseNumber": "12650578",
+    "name": "BRICK (THE)",
+    "address": "11860 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-05-14T13:48:16.000Z",
+    "expiryDate": "2026-05-13T13:48:16.000Z",
+    "coordinates": [
+      -114.1591832,
+      51.1589356
+    ],
+    "longitude": -114.1591832,
+    "latitude": 51.1589356,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

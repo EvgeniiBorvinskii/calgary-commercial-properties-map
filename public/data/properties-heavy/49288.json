@@ -1,0 +1,37 @@
+{
+  "id": "49288",
+  "fullDetails": {
+    "licenseNumber": "49288",
+    "name": "E B PEERLESS",
+    "address": "4542 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2017-01-13T14:02:31.000Z",
+    "expiryDate": "2027-01-12T14:02:31.000Z",
+    "coordinates": [
+      -114.0281717,
+      51.0932007
+    ],
+    "longitude": -114.0281717,
+    "latitude": 51.0932007,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

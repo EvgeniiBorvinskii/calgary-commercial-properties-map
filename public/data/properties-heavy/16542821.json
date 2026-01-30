@@ -1,0 +1,36 @@
+{
+  "id": "16542821",
+  "fullDetails": {
+    "licenseNumber": "16542821",
+    "name": "YYL LIQUOR",
+    "address": "#40 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-11-21T18:35:01.000Z",
+    "expiryDate": "2026-11-20T18:34:59.000Z",
+    "coordinates": [
+      -113.9730265,
+      50.9303952
+    ],
+    "longitude": -113.9730265,
+    "latitude": 50.9303952,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

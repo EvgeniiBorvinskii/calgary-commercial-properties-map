@@ -1,0 +1,37 @@
+{
+  "id": "14981641",
+  "fullDetails": {
+    "licenseNumber": "14981641",
+    "name": "SAVE-ON-FOODS",
+    "address": "#70 3915 51 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-08-23T12:19:31.000Z",
+    "expiryDate": "2026-08-22T12:19:31.000Z",
+    "coordinates": [
+      -114.1625555,
+      51.0198475
+    ],
+    "longitude": -114.1625555,
+    "latitude": 51.0198475,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

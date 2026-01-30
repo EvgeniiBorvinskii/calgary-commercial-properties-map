@@ -1,0 +1,36 @@
+{
+  "id": "12903241",
+  "fullDetails": {
+    "licenseNumber": "12903241",
+    "name": "EUROPEAN MEAT & DELI-CRACOVIA",
+    "address": "#A2 8330 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2010-09-11T05:39:53.000Z",
+    "expiryDate": "2026-09-10T05:39:53.000Z",
+    "coordinates": [
+      -114.0697395,
+      50.9789637
+    ],
+    "longitude": -114.0697395,
+    "latitude": 50.9789637,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

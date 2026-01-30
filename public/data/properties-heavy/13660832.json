@@ -1,0 +1,36 @@
+{
+  "id": "13660832",
+  "fullDetails": {
+    "licenseNumber": "13660832",
+    "name": "PRO PROPERTY SERVICES",
+    "address": "#7 1415 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-08-10T09:47:16.000Z",
+    "expiryDate": "2026-08-09T09:47:16.000Z",
+    "coordinates": [
+      -113.994193,
+      51.0645461
+    ],
+    "longitude": -113.994193,
+    "latitude": 51.0645461,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

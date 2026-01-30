@@ -1,0 +1,36 @@
+{
+  "id": "12574380",
+  "fullDetails": {
+    "licenseNumber": "12574380",
+    "name": "AVT SOLID MACHINING",
+    "address": "#106 7865 56 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-06-09T07:43:06.000Z",
+    "expiryDate": "2026-06-08T07:43:06.000Z",
+    "coordinates": [
+      -113.9529559,
+      50.9832598
+    ],
+    "longitude": -113.9529559,
+    "latitude": 50.9832598,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

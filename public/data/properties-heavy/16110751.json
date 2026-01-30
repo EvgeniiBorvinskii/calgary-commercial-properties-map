@@ -1,0 +1,36 @@
+{
+  "id": "16110751",
+  "fullDetails": {
+    "licenseNumber": "16110751",
+    "name": "PLANTLIFE",
+    "address": "#1620 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2022-01-19T11:25:48.000Z",
+    "expiryDate": "2027-01-18T11:25:48.000Z",
+    "coordinates": [
+      -113.9420729,
+      50.8949652
+    ],
+    "longitude": -113.9420729,
+    "latitude": 50.8949652,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

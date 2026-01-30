@@ -1,0 +1,37 @@
+{
+  "id": "12274999",
+  "fullDetails": {
+    "licenseNumber": "12274999",
+    "name": "SALVATION ARMY FAMILY THRIFT STORE (THE)",
+    "address": "#451 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2004-03-30T13:03:56.000Z",
+    "expiryDate": "2026-03-29T13:03:55.000Z",
+    "coordinates": [
+      -113.9842053,
+      51.0831315
+    ],
+    "longitude": -113.9842053,
+    "latitude": 51.0831315,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

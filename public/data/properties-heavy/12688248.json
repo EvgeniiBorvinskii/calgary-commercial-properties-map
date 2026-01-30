@@ -1,0 +1,37 @@
+{
+  "id": "12688248",
+  "fullDetails": {
+    "licenseNumber": "12688248",
+    "name": "VESPUCCI",
+    "address": "8248 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2008-12-23T14:17:00.000Z",
+    "expiryDate": "2026-12-22T14:17:00.000Z",
+    "coordinates": [
+      -114.0825825,
+      50.9799806
+    ],
+    "longitude": -114.0825825,
+    "latitude": 50.9799806,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

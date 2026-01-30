@@ -1,0 +1,36 @@
+{
+  "id": "16223232",
+  "fullDetails": {
+    "licenseNumber": "16223232",
+    "name": "AZTEC GROUP",
+    "address": "#110 8490 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-11-10T13:14:29.000Z",
+    "expiryDate": "2026-11-09T13:14:28.000Z",
+    "coordinates": [
+      -113.9693282,
+      50.9780485
+    ],
+    "longitude": -113.9693282,
+    "latitude": 50.9780485,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

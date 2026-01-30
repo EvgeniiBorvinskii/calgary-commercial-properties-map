@@ -1,0 +1,36 @@
+{
+  "id": "12676581",
+  "fullDetails": {
+    "licenseNumber": "12676581",
+    "name": "BLUE COPPER CAPITAL",
+    "address": "#104 5809 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2016-11-18T17:48:55.000Z",
+    "expiryDate": "2026-11-17T17:48:55.000Z",
+    "coordinates": [
+      -114.0725564,
+      51.0020587
+    ],
+    "longitude": -114.0725564,
+    "latitude": 51.0020587,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

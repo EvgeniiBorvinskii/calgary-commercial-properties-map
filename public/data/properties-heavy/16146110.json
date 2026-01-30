@@ -1,0 +1,36 @@
+{
+  "id": "16146110",
+  "fullDetails": {
+    "licenseNumber": "16146110",
+    "name": "INGEAR STORE",
+    "address": "#100 206 10A ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-04-14T12:00:12.000Z",
+    "expiryDate": "2026-04-13T12:00:12.000Z",
+    "coordinates": [
+      -114.0868344,
+      51.0528305
+    ],
+    "longitude": -114.0868344,
+    "latitude": 51.0528305,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

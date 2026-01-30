@@ -1,0 +1,37 @@
+{
+  "id": "14767909",
+  "fullDetails": {
+    "licenseNumber": "14767909",
+    "name": "TIM HORTONS",
+    "address": "#110 880 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-01-19T14:22:23.000Z",
+    "expiryDate": "2027-01-18T14:22:23.000Z",
+    "coordinates": [
+      -114.0814866,
+      51.0385424
+    ],
+    "longitude": -114.0814866,
+    "latitude": 51.0385424,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

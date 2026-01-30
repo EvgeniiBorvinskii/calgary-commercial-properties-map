@@ -1,0 +1,37 @@
+{
+  "id": "14730881",
+  "fullDetails": {
+    "licenseNumber": "14730881",
+    "name": "PETRO CANADA / A & W",
+    "address": "5031 NOSE HILL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES (SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2018-01-11T15:06:37.000Z",
+    "expiryDate": "2027-01-10T15:06:37.000Z",
+    "coordinates": [
+      -114.239397,
+      51.1074459
+    ],
+    "longitude": -114.239397,
+    "latitude": 51.1074459,
+    "community": "TUSCANY",
+    "ward": "TUS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

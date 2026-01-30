@@ -1,0 +1,36 @@
+{
+  "id": "805515",
+  "fullDetails": {
+    "licenseNumber": "805515",
+    "name": "WIZ-TEC COMPUTING TECHNOLOGIES",
+    "address": "4501 MANITOBA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-02-04T05:33:47.000Z",
+    "expiryDate": "2027-02-03T05:33:47.000Z",
+    "coordinates": [
+      -114.0560348,
+      51.0139021
+    ],
+    "longitude": -114.0560348,
+    "latitude": 51.0139021,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

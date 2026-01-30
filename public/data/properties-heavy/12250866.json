@@ -1,0 +1,36 @@
+{
+  "id": "12250866",
+  "fullDetails": {
+    "licenseNumber": "12250866",
+    "name": "GOLDRAY INDUSTRIES",
+    "address": "4605 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2004-04-14T09:07:23.000Z",
+    "expiryDate": "2026-04-13T09:07:23.000Z",
+    "coordinates": [
+      -113.968215,
+      51.0073379
+    ],
+    "longitude": -113.968215,
+    "latitude": 51.0073379,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

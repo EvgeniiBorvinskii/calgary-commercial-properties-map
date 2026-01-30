@@ -1,0 +1,37 @@
+{
+  "id": "16582983",
+  "fullDetails": {
+    "licenseNumber": "16582983",
+    "name": "BAG O' CRAB",
+    "address": "#949 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-21T12:20:18.000Z",
+    "expiryDate": "2026-03-20T12:20:17.000Z",
+    "coordinates": [
+      -113.9843031,
+      51.0617619
+    ],
+    "longitude": -113.9843031,
+    "latitude": 51.0617619,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

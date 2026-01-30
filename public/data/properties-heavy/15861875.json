@@ -1,0 +1,36 @@
+{
+  "id": "15861875",
+  "fullDetails": {
+    "licenseNumber": "15861875",
+    "name": "SOUTHAMPTON INDUSTRIAL MANUFACTURING",
+    "address": "4747C 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-05-05T07:53:48.000Z",
+    "expiryDate": "2026-05-04T07:53:48.000Z",
+    "coordinates": [
+      -113.9658106,
+      51.0031811
+    ],
+    "longitude": -113.9658106,
+    "latitude": 51.0031811,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

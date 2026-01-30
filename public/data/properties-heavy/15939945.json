@@ -1,0 +1,36 @@
+{
+  "id": "15939945",
+  "fullDetails": {
+    "licenseNumber": "15939945",
+    "name": "ALBERTA PARAMOUNT COLLEGE",
+    "address": "#100 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2021-09-15T12:54:30.000Z",
+    "expiryDate": "2026-09-14T12:54:30.000Z",
+    "coordinates": [
+      -114.0069296,
+      51.0808856
+    ],
+    "longitude": -114.0069296,
+    "latitude": 51.0808856,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

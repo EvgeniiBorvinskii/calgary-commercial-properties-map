@@ -1,0 +1,36 @@
+{
+  "id": "12912226",
+  "fullDetails": {
+    "licenseNumber": "12912226",
+    "name": "XL NAILS DESIGN",
+    "address": "6680 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-07-14T14:36:23.000Z",
+    "expiryDate": "2026-07-13T14:36:23.000Z",
+    "coordinates": [
+      -114.0552411,
+      51.1120697
+    ],
+    "longitude": -114.0552411,
+    "latitude": 51.1120697,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

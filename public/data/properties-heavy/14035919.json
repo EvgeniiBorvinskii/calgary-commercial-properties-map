@@ -1,0 +1,36 @@
+{
+  "id": "14035919",
+  "fullDetails": {
+    "licenseNumber": "14035919",
+    "name": "SPARTAN INTERIORS",
+    "address": "#43 3610 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-08-17T11:17:19.000Z",
+    "expiryDate": "2026-08-16T11:17:19.000Z",
+    "coordinates": [
+      -113.9810828,
+      51.0096727
+    ],
+    "longitude": -113.9810828,
+    "latitude": 51.0096727,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

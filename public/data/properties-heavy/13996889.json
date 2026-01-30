@@ -1,0 +1,36 @@
+{
+  "id": "13996889",
+  "fullDetails": {
+    "licenseNumber": "13996889",
+    "name": "DOUBLE V NAIL AND SPA",
+    "address": "#814 19369 SHERIFF KING ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2015-09-03T13:55:09.000Z",
+    "expiryDate": "2026-09-02T13:55:09.000Z",
+    "coordinates": [
+      -114.0732738,
+      50.8786682
+    ],
+    "longitude": -114.0732738,
+    "latitude": 50.8786682,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

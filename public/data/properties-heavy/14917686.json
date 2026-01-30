@@ -1,0 +1,36 @@
+{
+  "id": "14917686",
+  "fullDetails": {
+    "licenseNumber": "14917686",
+    "name": "RN FIBERS",
+    "address": "#130 1610 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2018-11-26T09:55:37.000Z",
+    "expiryDate": "2025-11-25T09:55:37.000Z",
+    "coordinates": [
+      -114.0191439,
+      51.1487117
+    ],
+    "longitude": -114.0191439,
+    "latitude": 51.1487117,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16536476",
+  "fullDetails": {
+    "licenseNumber": "16536476",
+    "name": "F45 TRAINING SIGNAL HILL",
+    "address": "5687 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-09-25T14:55:42.000Z",
+    "expiryDate": "2026-09-24T14:55:41.000Z",
+    "coordinates": [
+      -114.1705544,
+      51.0178679
+    ],
+    "longitude": -114.1705544,
+    "latitude": 51.0178679,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

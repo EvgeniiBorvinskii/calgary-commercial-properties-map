@@ -1,0 +1,37 @@
+{
+  "id": "16510331",
+  "fullDetails": {
+    "licenseNumber": "16510331",
+    "name": "MK ROYAL VISTA",
+    "address": "#115 41 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2024-07-23T16:16:51.000Z",
+    "expiryDate": "2026-07-22T16:16:50.000Z",
+    "coordinates": [
+      -114.2006734,
+      51.152428
+    ],
+    "longitude": -114.2006734,
+    "latitude": 51.152428,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

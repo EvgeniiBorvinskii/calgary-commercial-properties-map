@@ -1,0 +1,36 @@
+{
+  "id": "12429650",
+  "fullDetails": {
+    "licenseNumber": "12429650",
+    "name": "SUNPARK SPORT & PHYSIOTHERAPY",
+    "address": "#213 40 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2005-12-06T05:33:01.000Z",
+    "expiryDate": "2026-12-05T05:33:01.000Z",
+    "coordinates": [
+      -114.0571085,
+      50.901958
+    ],
+    "longitude": -114.0571085,
+    "latitude": 50.901958,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

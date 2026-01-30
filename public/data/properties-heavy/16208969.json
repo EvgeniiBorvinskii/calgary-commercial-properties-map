@@ -1,0 +1,36 @@
+{
+  "id": "16208969",
+  "fullDetails": {
+    "licenseNumber": "16208969",
+    "name": "RED WING SHOES",
+    "address": "#1550 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-22T15:13:12.000Z",
+    "expiryDate": "2026-06-21T15:13:12.000Z",
+    "coordinates": [
+      -113.9420184,
+      50.8946282
+    ],
+    "longitude": -113.9420184,
+    "latitude": 50.8946282,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

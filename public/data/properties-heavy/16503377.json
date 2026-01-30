@@ -1,0 +1,37 @@
+{
+  "id": "16503377",
+  "fullDetails": {
+    "licenseNumber": "16503377",
+    "name": "CLEAR NORDIC SPA",
+    "address": "5629 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-12-04T16:21:56.000Z",
+    "expiryDate": "2026-12-03T16:21:56.000Z",
+    "coordinates": [
+      -114.1687706,
+      51.0182321
+    ],
+    "longitude": -114.1687706,
+    "latitude": 51.0182321,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12031233",
+  "fullDetails": {
+    "licenseNumber": "12031233",
+    "name": "TINTMASTER",
+    "address": "4420B 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2001-09-11T17:26:55.000Z",
+    "expiryDate": "2026-09-10T15:37:29.000Z",
+    "coordinates": [
+      -113.9704059,
+      51.0382243
+    ],
+    "longitude": -113.9704059,
+    "latitude": 51.0382243,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "175729",
+  "fullDetails": {
+    "licenseNumber": "175729",
+    "name": "DSL",
+    "address": "448 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2014-03-12T08:10:20.000Z",
+    "expiryDate": "2026-03-11T08:10:19.000Z",
+    "coordinates": [
+      -114.0561249,
+      51.0162722
+    ],
+    "longitude": -114.0561249,
+    "latitude": 51.0162722,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "131011",
+  "fullDetails": {
+    "licenseNumber": "131011",
+    "name": "NAILOR INDUSTRIES",
+    "address": "4427 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9709524,
+      50.9893591
+    ],
+    "longitude": -113.9709524,
+    "latitude": 50.9893591,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

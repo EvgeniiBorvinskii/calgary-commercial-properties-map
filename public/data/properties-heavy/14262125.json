@@ -1,0 +1,36 @@
+{
+  "id": "14262125",
+  "fullDetails": {
+    "licenseNumber": "14262125",
+    "name": "WOW 1DAY PAINTING",
+    "address": "#114 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2020-11-09T12:26:17.000Z",
+    "expiryDate": "2025-11-08T12:26:17.000Z",
+    "coordinates": [
+      -114.0056833,
+      51.0784881
+    ],
+    "longitude": -114.0056833,
+    "latitude": 51.0784881,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

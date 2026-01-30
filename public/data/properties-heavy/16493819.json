@@ -1,0 +1,36 @@
+{
+  "id": "16493819",
+  "fullDetails": {
+    "licenseNumber": "16493819",
+    "name": "BELVIEW APARTMENTS",
+    "address": "#3000 680 BELMONT ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-06-11T10:29:24.000Z",
+    "expiryDate": "2026-06-10T10:29:24.000Z",
+    "coordinates": [
+      -114.0603012,
+      50.86655
+    ],
+    "longitude": -114.0603012,
+    "latitude": 50.86655,
+    "community": "BELMONT",
+    "ward": "BLM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

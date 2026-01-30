@@ -1,0 +1,36 @@
+{
+  "id": "16389165",
+  "fullDetails": {
+    "licenseNumber": "16389165",
+    "name": "LA VIE EN ROSE",
+    "address": "#2160 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-16T10:33:58.000Z",
+    "expiryDate": "2026-10-15T10:33:58.000Z",
+    "coordinates": [
+      -114.0417726,
+      51.1088449
+    ],
+    "longitude": -114.0417726,
+    "latitude": 51.1088449,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

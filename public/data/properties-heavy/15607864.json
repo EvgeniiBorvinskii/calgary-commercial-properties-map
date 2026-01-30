@@ -1,0 +1,36 @@
+{
+  "id": "15607864",
+  "fullDetails": {
+    "licenseNumber": "15607864",
+    "name": "RASCALS - THE BARKING LOT",
+    "address": "#710 22 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-09T08:52:57.000Z",
+    "expiryDate": "2026-07-08T08:52:57.000Z",
+    "coordinates": [
+      -114.0636826,
+      50.9154875
+    ],
+    "longitude": -114.0636826,
+    "latitude": 50.9154875,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16434649",
+  "fullDetails": {
+    "licenseNumber": "16434649",
+    "name": "LEGEND INTERIORS",
+    "address": "#4C 3911C BRANDON ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-16T15:13:08.000Z",
+    "expiryDate": "2026-05-15T15:13:08.000Z",
+    "coordinates": [
+      -114.0520098,
+      51.0199909
+    ],
+    "longitude": -114.0520098,
+    "latitude": 51.0199909,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

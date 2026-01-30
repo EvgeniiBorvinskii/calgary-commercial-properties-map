@@ -1,0 +1,37 @@
+{
+  "id": "15772700",
+  "fullDetails": {
+    "licenseNumber": "15772700",
+    "name": "JAGUAR LAND ROVER CALGARY",
+    "address": "175 GLENDEER CI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-10-22T12:19:30.000Z",
+    "expiryDate": "2026-10-21T12:19:30.000Z",
+    "coordinates": [
+      -114.0323089,
+      50.9876992
+    ],
+    "longitude": -114.0323089,
+    "latitude": 50.9876992,
+    "community": "GLENDEER BUSINESS PARK",
+    "ward": "GBP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16644015",
+  "fullDetails": {
+    "licenseNumber": "16644015",
+    "name": "1-AUTO AUTOBODY AND PAINT",
+    "address": "#6 1420 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2025-11-21T13:49:45.000Z",
+    "expiryDate": "2026-11-20T13:49:45.000Z",
+    "coordinates": [
+      -114.0289951,
+      51.0893776
+    ],
+    "longitude": -114.0289951,
+    "latitude": 51.0893776,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

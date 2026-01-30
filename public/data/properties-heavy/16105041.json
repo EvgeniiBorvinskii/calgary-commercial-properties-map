@@ -1,0 +1,36 @@
+{
+  "id": "16105041",
+  "fullDetails": {
+    "licenseNumber": "16105041",
+    "name": "LOGIX HAIR SAM",
+    "address": "3519 GARRISON GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-01-10T12:22:31.000Z",
+    "expiryDate": "2027-01-09T12:22:31.000Z",
+    "coordinates": [
+      -114.1146517,
+      51.0229072
+    ],
+    "longitude": -114.1146517,
+    "latitude": 51.0229072,
+    "community": "GARRISON WOODS",
+    "ward": "GAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

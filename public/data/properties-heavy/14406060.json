@@ -1,0 +1,36 @@
+{
+  "id": "14406060",
+  "fullDetails": {
+    "licenseNumber": "14406060",
+    "name": "LASER CITY CALGARY",
+    "address": "#125 572 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "pending",
+    "issuedDate": "2017-04-13T14:43:07.000Z",
+    "expiryDate": "2026-04-12T14:43:07.000Z",
+    "coordinates": [
+      -114.0347751,
+      51.1349674
+    ],
+    "longitude": -114.0347751,
+    "latitude": 51.1349674,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16398349",
+  "fullDetails": {
+    "licenseNumber": "16398349",
+    "name": "1711 MOUNT ROYAL APARTMENTS",
+    "address": "1711 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-01-24T08:21:30.000Z",
+    "expiryDate": "2027-01-23T08:21:30.000Z",
+    "coordinates": [
+      -114.087487,
+      51.0372616
+    ],
+    "longitude": -114.087487,
+    "latitude": 51.0372616,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

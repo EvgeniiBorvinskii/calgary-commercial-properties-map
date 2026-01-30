@@ -1,0 +1,36 @@
+{
+  "id": "13049820",
+  "fullDetails": {
+    "licenseNumber": "13049820",
+    "name": "CANADIAN SPRINGS",
+    "address": "#1 801 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-06-07T08:37:36.000Z",
+    "expiryDate": "2026-06-06T08:37:36.000Z",
+    "coordinates": [
+      -113.9901405,
+      51.0593394
+    ],
+    "longitude": -113.9901405,
+    "latitude": 51.0593394,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

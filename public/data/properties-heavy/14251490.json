@@ -1,0 +1,36 @@
+{
+  "id": "14251490",
+  "fullDetails": {
+    "licenseNumber": "14251490",
+    "name": "CALGARY MINI DONUTS (CGY-980)",
+    "address": "127 PUMP HILL CR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2016-08-12T09:24:53.000Z",
+    "expiryDate": "2025-08-11T09:24:53.000Z",
+    "coordinates": [
+      -114.1021774,
+      50.9627627
+    ],
+    "longitude": -114.1021774,
+    "latitude": 50.9627627,
+    "community": "PUMP HILL",
+    "ward": "PUM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16675910",
+  "fullDetails": {
+    "licenseNumber": "16675910",
+    "name": "CK DRY CLEANER",
+    "address": "#1005 4231 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2025-09-24T10:35:32.000Z",
+    "expiryDate": "2026-09-23T10:35:31.000Z",
+    "coordinates": [
+      -113.9737411,
+      51.1524457
+    ],
+    "longitude": -113.9737411,
+    "latitude": 51.1524457,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16502361",
+  "fullDetails": {
+    "licenseNumber": "16502361",
+    "name": "CRAVE CRUSHER LEMONADE (CGY-1952) FSFV",
+    "address": "6441 18A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2024-07-24T10:39:46.000Z",
+    "expiryDate": "2025-07-23T10:39:46.000Z",
+    "coordinates": [
+      -114.0152458,
+      50.9961785
+    ],
+    "longitude": -114.0152458,
+    "latitude": 50.9961785,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

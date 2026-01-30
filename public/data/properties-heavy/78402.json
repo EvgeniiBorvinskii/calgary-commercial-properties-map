@@ -1,0 +1,36 @@
+{
+  "id": "78402",
+  "fullDetails": {
+    "licenseNumber": "78402",
+    "name": "COMPUTER ENVIRONMENT SOLUTIONS",
+    "address": "#115 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-02-13T09:11:46.000Z",
+    "expiryDate": "2026-02-12T09:11:46.000Z",
+    "coordinates": [
+      -113.9789389,
+      51.1519448
+    ],
+    "longitude": -113.9789389,
+    "latitude": 51.1519448,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

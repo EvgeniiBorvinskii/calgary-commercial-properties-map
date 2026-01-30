@@ -1,0 +1,37 @@
+{
+  "id": "16317190",
+  "fullDetails": {
+    "licenseNumber": "16317190",
+    "name": "SHIVAYE ACUPUNCTURE AND MASSAGE WELLNESS CENTER",
+    "address": "#220 50 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-07T15:35:45.000Z",
+    "expiryDate": "2026-11-06T15:35:45.000Z",
+    "coordinates": [
+      -114.1684958,
+      51.1707401
+    ],
+    "longitude": -114.1684958,
+    "latitude": 51.1707401,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

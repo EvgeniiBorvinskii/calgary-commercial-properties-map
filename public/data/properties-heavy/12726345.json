@@ -1,0 +1,36 @@
+{
+  "id": "12726345",
+  "fullDetails": {
+    "licenseNumber": "12726345",
+    "name": "ROCKYVIEW HOMES",
+    "address": "#110 32 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-09-26T13:21:54.000Z",
+    "expiryDate": "2026-07-02T00:00:00.000Z",
+    "coordinates": [
+      -113.9713971,
+      51.1070842
+    ],
+    "longitude": -113.9713971,
+    "latitude": 51.1070842,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

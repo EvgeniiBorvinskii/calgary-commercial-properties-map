@@ -1,0 +1,36 @@
+{
+  "id": "16386336",
+  "fullDetails": {
+    "licenseNumber": "16386336",
+    "name": "CERCO DESIGN/DANIJEL CO/CROWN PAINT/SYSCO TECHNOLOGIES",
+    "address": "#233 2770 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T14:30:25.000Z",
+    "expiryDate": "2026-07-08T14:30:25.000Z",
+    "coordinates": [
+      -113.9949882,
+      51.0549734
+    ],
+    "longitude": -113.9949882,
+    "latitude": 51.0549734,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13651427",
+  "fullDetails": {
+    "licenseNumber": "13651427",
+    "name": "GENESIS PHYSIOTHERAPY",
+    "address": "7555 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2013-04-09T05:30:54.000Z",
+    "expiryDate": "2026-04-08T05:30:54.000Z",
+    "coordinates": [
+      -113.9485762,
+      51.1202107
+    ],
+    "longitude": -113.9485762,
+    "latitude": 51.1202107,
+    "community": "MARTINDALE",
+    "ward": "MRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13833892",
+  "fullDetails": {
+    "licenseNumber": "13833892",
+    "name": "INFINITE CREATIONS",
+    "address": "#1A 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2014-10-14T12:45:26.000Z",
+    "expiryDate": "2024-10-13T12:45:26.000Z",
+    "coordinates": [
+      -114.1653084,
+      51.1039115
+    ],
+    "longitude": -114.1653084,
+    "latitude": 51.1039115,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

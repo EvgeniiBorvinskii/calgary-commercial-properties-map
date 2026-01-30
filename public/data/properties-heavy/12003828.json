@@ -1,0 +1,36 @@
+{
+  "id": "12003828",
+  "fullDetails": {
+    "licenseNumber": "12003828",
+    "name": "FINOT MECHANICAL SERVICES",
+    "address": "#40 2110 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-07-10T05:31:02.000Z",
+    "expiryDate": "2026-07-09T05:31:01.000Z",
+    "coordinates": [
+      -114.0092702,
+      51.0902706
+    ],
+    "longitude": -114.0092702,
+    "latitude": 51.0902706,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

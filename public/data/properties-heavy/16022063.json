@@ -1,0 +1,37 @@
+{
+  "id": "16022063",
+  "fullDetails": {
+    "licenseNumber": "16022063",
+    "name": "RVIITA ENERGY TEA",
+    "address": "#15 7819 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-28T09:50:01.000Z",
+    "expiryDate": "2026-05-27T09:50:01.000Z",
+    "coordinates": [
+      -114.2000378,
+      51.1536482
+    ],
+    "longitude": -114.2000378,
+    "latitude": 51.1536482,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

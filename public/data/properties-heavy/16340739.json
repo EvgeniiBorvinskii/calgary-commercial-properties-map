@@ -1,0 +1,36 @@
+{
+  "id": "16340739",
+  "fullDetails": {
+    "licenseNumber": "16340739",
+    "name": "BIKANER FOOD TRUCK (CGY-1172) FSFV",
+    "address": "#1142 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2024-05-07T15:01:36.000Z",
+    "expiryDate": "2026-05-06T15:01:36.000Z",
+    "coordinates": [
+      -113.971187,
+      51.1475125
+    ],
+    "longitude": -113.971187,
+    "latitude": 51.1475125,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

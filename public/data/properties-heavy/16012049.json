@@ -1,0 +1,37 @@
+{
+  "id": "16012049",
+  "fullDetails": {
+    "licenseNumber": "16012049",
+    "name": "ELEGANT FLOORING DESIGN",
+    "address": "#4 1420 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-03-15T16:45:19.000Z",
+    "expiryDate": "2026-03-14T16:45:19.000Z",
+    "coordinates": [
+      -114.0289949,
+      51.089212
+    ],
+    "longitude": -114.0289949,
+    "latitude": 51.089212,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

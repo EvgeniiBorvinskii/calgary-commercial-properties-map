@@ -1,0 +1,36 @@
+{
+  "id": "16439192",
+  "fullDetails": {
+    "licenseNumber": "16439192",
+    "name": "DELHI ZAIKA RESTAURANT",
+    "address": "#119 5120 47 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-01-25T16:15:40.000Z",
+    "expiryDate": "2026-01-24T16:15:39.000Z",
+    "coordinates": [
+      -113.9653061,
+      51.0990478
+    ],
+    "longitude": -113.9653061,
+    "latitude": 51.0990478,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

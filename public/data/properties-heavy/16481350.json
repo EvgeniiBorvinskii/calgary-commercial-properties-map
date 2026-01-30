@@ -1,0 +1,36 @@
+{
+  "id": "16481350",
+  "fullDetails": {
+    "licenseNumber": "16481350",
+    "name": "KENZODOESMYHAIR",
+    "address": "#1 917 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-05-28T11:39:17.000Z",
+    "expiryDate": "2026-05-27T11:39:16.000Z",
+    "coordinates": [
+      -114.0351342,
+      51.0407267
+    ],
+    "longitude": -114.0351342,
+    "latitude": 51.0407267,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

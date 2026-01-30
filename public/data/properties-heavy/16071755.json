@@ -1,0 +1,37 @@
+{
+  "id": "16071755",
+  "fullDetails": {
+    "licenseNumber": "16071755",
+    "name": "MASH (THE)",
+    "address": "#610 20 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-08-16T14:15:29.000Z",
+    "expiryDate": "2026-08-15T14:15:29.000Z",
+    "coordinates": [
+      -114.0292224,
+      50.8643908
+    ],
+    "longitude": -114.0292224,
+    "latitude": 50.8643908,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

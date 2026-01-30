@@ -1,0 +1,37 @@
+{
+  "id": "589986",
+  "fullDetails": {
+    "licenseNumber": "589986",
+    "name": "BIG ROCK BREWERY AND TAPROOM",
+    "address": "5555 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-23T00:00:00.000Z",
+    "coordinates": [
+      -113.9529955,
+      50.984227
+    ],
+    "longitude": -113.9529955,
+    "latitude": 50.984227,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

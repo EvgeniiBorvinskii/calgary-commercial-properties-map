@@ -1,0 +1,37 @@
+{
+  "id": "16296733",
+  "fullDetails": {
+    "licenseNumber": "16296733",
+    "name": "SINATRA'S PIZZERIA",
+    "address": "#4 3315 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-04-05T12:56:15.000Z",
+    "expiryDate": "2026-04-04T12:56:15.000Z",
+    "coordinates": [
+      -114.1350584,
+      51.0297686
+    ],
+    "longitude": -114.1350584,
+    "latitude": 51.0297686,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

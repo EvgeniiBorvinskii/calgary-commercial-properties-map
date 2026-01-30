@@ -1,0 +1,36 @@
+{
+  "id": "12808929",
+  "fullDetails": {
+    "licenseNumber": "12808929",
+    "name": "WOODRIDGE ALL MAKES COLLISION CENTRE / WOODCHIP AUTO",
+    "address": "10860 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2009-07-06T16:34:44.000Z",
+    "expiryDate": "2026-07-05T16:34:44.000Z",
+    "coordinates": [
+      -113.9680229,
+      50.9569818
+    ],
+    "longitude": -113.9680229,
+    "latitude": 50.9569818,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14335293",
+  "fullDetails": {
+    "licenseNumber": "14335293",
+    "name": "CARL'S JR",
+    "address": "#298C 402 COLLEGIATE BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-11-18T10:47:51.000Z",
+    "expiryDate": "2026-11-17T10:47:51.000Z",
+    "coordinates": [
+      -114.1317287,
+      51.0782159
+    ],
+    "longitude": -114.1317287,
+    "latitude": 51.0782159,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

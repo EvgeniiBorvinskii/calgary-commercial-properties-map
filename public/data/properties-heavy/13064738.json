@@ -1,0 +1,36 @@
+{
+  "id": "13064738",
+  "fullDetails": {
+    "licenseNumber": "13064738",
+    "name": "POPEYE'S",
+    "address": "3810 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-11-23T11:53:20.000Z",
+    "expiryDate": "2026-11-22T11:53:20.000Z",
+    "coordinates": [
+      -114.0601164,
+      51.0211445
+    ],
+    "longitude": -114.0601164,
+    "latitude": 51.0211445,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

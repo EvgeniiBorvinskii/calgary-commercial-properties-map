@@ -1,0 +1,36 @@
+{
+  "id": "16606972",
+  "fullDetails": {
+    "licenseNumber": "16606972",
+    "name": "AL-ARUBA FOOD MARKET",
+    "address": "#A 4010 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-14T09:42:25.000Z",
+    "expiryDate": "2026-04-13T09:42:25.000Z",
+    "coordinates": [
+      -113.9764839,
+      51.0381012
+    ],
+    "longitude": -113.9764839,
+    "latitude": 51.0381012,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

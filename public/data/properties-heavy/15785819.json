@@ -1,0 +1,37 @@
+{
+  "id": "15785819",
+  "fullDetails": {
+    "licenseNumber": "15785819",
+    "name": "MONZA PIZZA",
+    "address": "#3 2388 CRESTWOOD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-11-21T08:47:25.000Z",
+    "expiryDate": "2026-11-20T08:47:25.000Z",
+    "coordinates": [
+      -114.0029692,
+      50.991413
+    ],
+    "longitude": -114.0029692,
+    "latitude": 50.991413,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

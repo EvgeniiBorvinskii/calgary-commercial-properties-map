@@ -1,0 +1,36 @@
+{
+  "id": "13804711",
+  "fullDetails": {
+    "licenseNumber": "13804711",
+    "name": "DIAMOND LED",
+    "address": "#22 12180 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2025-08-27T15:51:17.000Z",
+    "expiryDate": "2026-08-26T15:51:16.000Z",
+    "coordinates": [
+      -113.9706176,
+      50.9416792
+    ],
+    "longitude": -113.9706176,
+    "latitude": 50.9416792,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

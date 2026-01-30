@@ -1,0 +1,36 @@
+{
+  "id": "631614",
+  "fullDetails": {
+    "licenseNumber": "631614",
+    "name": "BUSINESS COMPUTING SOLUTIONS",
+    "address": "#31 777 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2011-01-10T13:41:38.000Z",
+    "expiryDate": "2027-01-09T13:41:38.000Z",
+    "coordinates": [
+      -114.0468786,
+      50.9962068
+    ],
+    "longitude": -114.0468786,
+    "latitude": 50.9962068,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "112045",
+  "fullDetails": {
+    "licenseNumber": "112045",
+    "name": "BUILDING TECHNOLOGY DIVISION",
+    "address": "#24 1930 MAYNARD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "WHOLESALER,\nALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-12-09T05:32:50.000Z",
+    "expiryDate": "2026-12-08T05:32:50.000Z",
+    "coordinates": [
+      -114.0090867,
+      51.0474385
+    ],
+    "longitude": -114.0090867,
+    "latitude": 51.0474385,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

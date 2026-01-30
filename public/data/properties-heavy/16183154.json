@@ -1,0 +1,37 @@
+{
+  "id": "16183154",
+  "fullDetails": {
+    "licenseNumber": "16183154",
+    "name": "BEAUTY MAKER INSTITUTE & MEDI-SPA",
+    "address": "#14 600 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "PERSONAL SERVICE,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-09-26T11:52:27.000Z",
+    "expiryDate": "2026-09-25T11:52:27.000Z",
+    "coordinates": [
+      -114.2038324,
+      51.1296364
+    ],
+    "longitude": -114.2038324,
+    "latitude": 51.1296364,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

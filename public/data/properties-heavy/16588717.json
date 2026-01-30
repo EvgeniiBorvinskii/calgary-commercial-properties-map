@@ -1,0 +1,37 @@
+{
+  "id": "16588717",
+  "fullDetails": {
+    "licenseNumber": "16588717",
+    "name": "LOOKING GLASS TREATMENT ROOM",
+    "address": "#850 19587 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-28T14:15:46.000Z",
+    "expiryDate": "2026-03-27T14:15:45.000Z",
+    "coordinates": [
+      -113.9622517,
+      50.8787411
+    ],
+    "longitude": -113.9622517,
+    "latitude": 50.8787411,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

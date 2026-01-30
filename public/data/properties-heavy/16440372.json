@@ -1,0 +1,37 @@
+{
+  "id": "16440372",
+  "fullDetails": {
+    "licenseNumber": "16440372",
+    "name": "CRUMBL COOKIES",
+    "address": "#218 163 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-01-15T10:09:17.000Z",
+    "expiryDate": "2027-01-14T10:09:17.000Z",
+    "coordinates": [
+      -114.008775,
+      50.9631561
+    ],
+    "longitude": -114.008775,
+    "latitude": 50.9631561,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

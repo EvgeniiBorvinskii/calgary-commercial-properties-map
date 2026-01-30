@@ -1,0 +1,36 @@
+{
+  "id": "13107339",
+  "fullDetails": {
+    "licenseNumber": "13107339",
+    "name": "MULTI PHASE ELECTRIC",
+    "address": "#2236 10 ASPEN STONE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2011-01-28T08:34:20.000Z",
+    "expiryDate": "2027-01-27T08:34:20.000Z",
+    "coordinates": [
+      -114.2126649,
+      51.0411931
+    ],
+    "longitude": -114.2126649,
+    "latitude": 51.0411931,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

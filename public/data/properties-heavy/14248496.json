@@ -1,0 +1,36 @@
+{
+  "id": "14248496",
+  "fullDetails": {
+    "licenseNumber": "14248496",
+    "name": "ORIENTAL GRILL VIETNAMESE CUISINE",
+    "address": "#102 755 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2016-09-20T15:36:29.000Z",
+    "expiryDate": "2024-09-19T15:36:29.000Z",
+    "coordinates": [
+      -114.0471035,
+      50.9422547
+    ],
+    "longitude": -114.0471035,
+    "latitude": 50.9422547,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

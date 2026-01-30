@@ -1,0 +1,37 @@
+{
+  "id": "13967674",
+  "fullDetails": {
+    "licenseNumber": "13967674",
+    "name": "FRAMED ON FIFTH",
+    "address": "1209 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-04T09:38:43.000Z",
+    "expiryDate": "2026-09-03T09:38:42.000Z",
+    "coordinates": [
+      -114.090932,
+      51.0569464
+    ],
+    "longitude": -114.090932,
+    "latitude": 51.0569464,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

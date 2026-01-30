@@ -1,0 +1,36 @@
+{
+  "id": "13897079",
+  "fullDetails": {
+    "licenseNumber": "13897079",
+    "name": "NYLA FREE DESIGNS",
+    "address": "#601 5920 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-02-20T14:07:27.000Z",
+    "expiryDate": "2027-02-19T14:07:27.000Z",
+    "coordinates": [
+      -114.0667647,
+      50.9999893
+    ],
+    "longitude": -114.0667647,
+    "latitude": 50.9999893,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

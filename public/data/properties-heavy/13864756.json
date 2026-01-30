@@ -1,0 +1,36 @@
+{
+  "id": "13864756",
+  "fullDetails": {
+    "licenseNumber": "13864756",
+    "name": "STALWART MACHINING SERVICES",
+    "address": "79 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-10-15T15:02:40.000Z",
+    "expiryDate": "2026-10-14T15:02:40.000Z",
+    "coordinates": [
+      -114.0449203,
+      51.0973459
+    ],
+    "longitude": -114.0449203,
+    "latitude": 51.0973459,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

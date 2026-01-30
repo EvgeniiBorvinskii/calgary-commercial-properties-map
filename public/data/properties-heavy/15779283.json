@@ -1,0 +1,37 @@
+{
+  "id": "15779283",
+  "fullDetails": {
+    "licenseNumber": "15779283",
+    "name": "VAPE ZONE CIGARS AND SMOKERS ACCESSORIES",
+    "address": "341 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-12-20T18:35:24.000Z",
+    "expiryDate": "2026-12-19T18:35:24.000Z",
+    "coordinates": [
+      -114.0708186,
+      51.037669
+    ],
+    "longitude": -114.0708186,
+    "latitude": 51.037669,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

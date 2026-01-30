@@ -1,0 +1,36 @@
+{
+  "id": "16060246",
+  "fullDetails": {
+    "licenseNumber": "16060246",
+    "name": "UPSTAIRS CANNABIS",
+    "address": "902 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-07-23T09:14:55.000Z",
+    "expiryDate": "2026-07-22T09:14:55.000Z",
+    "coordinates": [
+      -114.0415018,
+      51.0402911
+    ],
+    "longitude": -114.0415018,
+    "latitude": 51.0402911,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

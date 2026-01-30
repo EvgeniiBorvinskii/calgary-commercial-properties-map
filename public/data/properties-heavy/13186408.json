@@ -1,0 +1,37 @@
+{
+  "id": "13186408",
+  "fullDetails": {
+    "licenseNumber": "13186408",
+    "name": "CRAFT RESTAURANT AND BAR/PIGOT BURGER CLUB",
+    "address": "345 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2011-06-09T09:54:22.000Z",
+    "expiryDate": "2026-06-08T09:54:22.000Z",
+    "coordinates": [
+      -114.0706723,
+      51.0432909
+    ],
+    "longitude": -114.0706723,
+    "latitude": 51.0432909,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

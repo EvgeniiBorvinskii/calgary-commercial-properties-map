@@ -1,0 +1,37 @@
+{
+  "id": "16521692",
+  "fullDetails": {
+    "licenseNumber": "16521692",
+    "name": "FRESH BRAND GEAR",
+    "address": "7124 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-08-26T13:19:07.000Z",
+    "expiryDate": "2026-08-25T13:19:06.000Z",
+    "coordinates": [
+      -113.9813059,
+      50.9919175
+    ],
+    "longitude": -113.9813059,
+    "latitude": 50.9919175,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

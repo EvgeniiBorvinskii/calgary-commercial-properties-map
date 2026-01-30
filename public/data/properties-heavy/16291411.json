@@ -1,0 +1,36 @@
+{
+  "id": "16291411",
+  "fullDetails": {
+    "licenseNumber": "16291411",
+    "name": "PLC - MARKET CAFE / TIM HORTONS #63005",
+    "address": "3500 26 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-22T10:14:03.000Z",
+    "expiryDate": "2026-10-21T10:14:03.000Z",
+    "coordinates": [
+      -113.983818,
+      51.0790334
+    ],
+    "longitude": -113.983818,
+    "latitude": 51.0790334,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12770103",
+  "fullDetails": {
+    "licenseNumber": "12770103",
+    "name": "JACK CARTER POWERSPORTS SOUTH",
+    "address": "15220 SHAW RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2009-03-02T16:46:09.000Z",
+    "expiryDate": "2026-03-01T16:46:09.000Z",
+    "coordinates": [
+      -114.0682406,
+      50.9160119
+    ],
+    "longitude": -114.0682406,
+    "latitude": 50.9160119,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

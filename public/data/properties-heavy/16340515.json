@@ -1,0 +1,37 @@
+{
+  "id": "16340515",
+  "fullDetails": {
+    "licenseNumber": "16340515",
+    "name": "VARSITY SHELL",
+    "address": "#A 4645 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-27T08:56:00.000Z",
+    "expiryDate": "2026-07-26T08:56:00.000Z",
+    "coordinates": [
+      -114.1542545,
+      51.0929105
+    ],
+    "longitude": -114.1542545,
+    "latitude": 51.0929105,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

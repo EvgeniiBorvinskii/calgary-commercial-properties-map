@@ -1,0 +1,36 @@
+{
+  "id": "15886575",
+  "fullDetails": {
+    "licenseNumber": "15886575",
+    "name": "NINES (THE)",
+    "address": "2110 54 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2021-09-22T11:46:00.000Z",
+    "expiryDate": "2026-09-21T11:46:00.000Z",
+    "coordinates": [
+      -114.1096601,
+      51.005293
+    ],
+    "longitude": -114.1096601,
+    "latitude": 51.005293,
+    "community": "NORTH GLENMORE PARK",
+    "ward": "NGM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "408849",
+  "fullDetails": {
+    "licenseNumber": "408849",
+    "name": "ANDANA PAINTING & RESTORATIONS",
+    "address": "4150F 14A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2003-12-01T10:00:02.000Z",
+    "expiryDate": "2026-11-30T10:00:02.000Z",
+    "coordinates": [
+      -114.0258978,
+      51.0176031
+    ],
+    "longitude": -114.0258978,
+    "latitude": 51.0176031,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

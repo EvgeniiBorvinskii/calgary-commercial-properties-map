@@ -1,0 +1,36 @@
+{
+  "id": "12283347",
+  "fullDetails": {
+    "licenseNumber": "12283347",
+    "name": "MINUTEMAN PRESS",
+    "address": "#101 1509 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2018-03-15T15:33:46.000Z",
+    "expiryDate": "2026-03-14T15:33:46.000Z",
+    "coordinates": [
+      -114.095311,
+      51.0430303
+    ],
+    "longitude": -114.095311,
+    "latitude": 51.0430303,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

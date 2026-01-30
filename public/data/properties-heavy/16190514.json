@@ -1,0 +1,37 @@
+{
+  "id": "16190514",
+  "fullDetails": {
+    "licenseNumber": "16190514",
+    "name": "ALMIRASMEDICALAESTHETICS",
+    "address": "#202 1910 20 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-17T11:56:32.000Z",
+    "expiryDate": "2026-09-16T11:56:31.000Z",
+    "coordinates": [
+      -114.105461,
+      51.0707808
+    ],
+    "longitude": -114.105461,
+    "latitude": 51.0707808,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

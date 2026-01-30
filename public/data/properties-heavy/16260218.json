@@ -1,0 +1,36 @@
+{
+  "id": "16260218",
+  "fullDetails": {
+    "licenseNumber": "16260218",
+    "name": "VOLLEYDOME GYM",
+    "address": "#250 10 STONEHILL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-01-23T13:24:53.000Z",
+    "expiryDate": "2027-01-22T13:24:53.000Z",
+    "coordinates": [
+      -114.0091664,
+      51.1585464
+    ],
+    "longitude": -114.0091664,
+    "latitude": 51.1585464,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

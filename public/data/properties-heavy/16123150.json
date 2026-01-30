@@ -1,0 +1,36 @@
+{
+  "id": "16123150",
+  "fullDetails": {
+    "licenseNumber": "16123150",
+    "name": "WICKED HOSTELS CALGARY",
+    "address": "#200 805 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "in_progress",
+    "issuedDate": "2022-03-07T10:01:15.000Z",
+    "expiryDate": "2025-03-06T10:01:15.000Z",
+    "coordinates": [
+      -114.0791649,
+      51.0457898
+    ],
+    "longitude": -114.0791649,
+    "latitude": 51.0457898,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

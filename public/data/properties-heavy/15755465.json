@@ -1,0 +1,37 @@
+{
+  "id": "15755465",
+  "fullDetails": {
+    "licenseNumber": "15755465",
+    "name": "SKUNKWORKS DISTILLERY",
+    "address": "4009 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-09-18T05:32:25.000Z",
+    "expiryDate": "2026-09-17T05:32:25.000Z",
+    "coordinates": [
+      -114.0526171,
+      51.0180407
+    ],
+    "longitude": -114.0526171,
+    "latitude": 51.0180407,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

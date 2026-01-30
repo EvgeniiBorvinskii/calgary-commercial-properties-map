@@ -1,0 +1,36 @@
+{
+  "id": "131896",
+  "fullDetails": {
+    "licenseNumber": "131896",
+    "name": "INLAND AUDIO VISUAL",
+    "address": "#11 1235 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-10-12T16:11:10.000Z",
+    "expiryDate": "2026-10-11T16:11:10.000Z",
+    "coordinates": [
+      -114.0372126,
+      50.9949821
+    ],
+    "longitude": -114.0372126,
+    "latitude": 50.9949821,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

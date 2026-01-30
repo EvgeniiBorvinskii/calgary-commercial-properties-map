@@ -1,0 +1,37 @@
+{
+  "id": "13862487",
+  "fullDetails": {
+    "licenseNumber": "13862487",
+    "name": "HENRY'S TAILORING",
+    "address": "2030 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-08-13T09:36:04.000Z",
+    "expiryDate": "2026-08-12T09:36:04.000Z",
+    "coordinates": [
+      -114.1087183,
+      51.023307
+    ],
+    "longitude": -114.1087183,
+    "latitude": 51.023307,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

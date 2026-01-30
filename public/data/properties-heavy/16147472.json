@@ -1,0 +1,36 @@
+{
+  "id": "16147472",
+  "fullDetails": {
+    "licenseNumber": "16147472",
+    "name": "AKAL COLLECTIONS",
+    "address": "#2150 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-04-28T09:21:44.000Z",
+    "expiryDate": "2026-04-27T09:21:44.000Z",
+    "coordinates": [
+      -113.9711236,
+      51.1534295
+    ],
+    "longitude": -113.9711236,
+    "latitude": 51.1534295,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

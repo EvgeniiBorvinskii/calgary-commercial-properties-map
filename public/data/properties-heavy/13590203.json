@@ -1,0 +1,36 @@
+{
+  "id": "13590203",
+  "fullDetails": {
+    "licenseNumber": "13590203",
+    "name": "CENTRAL AIR EQUIPMENT (FAB)",
+    "address": "1313 43 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-09-18T12:45:56.000Z",
+    "expiryDate": "2026-09-17T12:45:56.000Z",
+    "coordinates": [
+      -114.0331934,
+      51.0141725
+    ],
+    "longitude": -114.0331934,
+    "latitude": 51.0141725,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

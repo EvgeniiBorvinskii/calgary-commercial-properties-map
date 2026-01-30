@@ -1,0 +1,36 @@
+{
+  "id": "13042502",
+  "fullDetails": {
+    "licenseNumber": "13042502",
+    "name": "INSPECTACAR",
+    "address": "542 38A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2011-01-19T13:36:08.000Z",
+    "expiryDate": "2027-01-18T13:36:08.000Z",
+    "coordinates": [
+      -114.0539186,
+      51.0199637
+    ],
+    "longitude": -114.0539186,
+    "latitude": 51.0199637,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

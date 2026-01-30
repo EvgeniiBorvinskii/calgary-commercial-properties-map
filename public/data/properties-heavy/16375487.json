@@ -1,0 +1,37 @@
+{
+  "id": "16375487",
+  "fullDetails": {
+    "licenseNumber": "16375487",
+    "name": "DESI INDIAN HYPERMARKET",
+    "address": "#6 6815 TEMPLE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-11T13:03:40.000Z",
+    "expiryDate": "2026-09-22T00:00:00.000Z",
+    "coordinates": [
+      -113.9391257,
+      51.0920838
+    ],
+    "longitude": -113.9391257,
+    "latitude": 51.0920838,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

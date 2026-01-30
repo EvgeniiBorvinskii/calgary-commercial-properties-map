@@ -1,0 +1,36 @@
+{
+  "id": "15726664",
+  "fullDetails": {
+    "licenseNumber": "15726664",
+    "name": "ADIRECTION PILATES",
+    "address": "#103 2120 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-09-24T12:10:37.000Z",
+    "expiryDate": "2026-09-23T12:10:36.000Z",
+    "coordinates": [
+      -114.1091194,
+      51.0528656
+    ],
+    "longitude": -114.1091194,
+    "latitude": 51.0528656,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

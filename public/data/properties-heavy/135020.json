@@ -1,0 +1,37 @@
+{
+  "id": "135020",
+  "fullDetails": {
+    "licenseNumber": "135020",
+    "name": "THINGS MILITARY",
+    "address": "#616 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2002-10-09T17:10:03.000Z",
+    "expiryDate": "2026-10-08T05:32:36.000Z",
+    "coordinates": [
+      -113.9878642,
+      51.059208
+    ],
+    "longitude": -113.9878642,
+    "latitude": 51.059208,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

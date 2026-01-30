@@ -1,0 +1,36 @@
+{
+  "id": "865089",
+  "fullDetails": {
+    "licenseNumber": "865089",
+    "name": "CANADIAN INTERNATIONAL CONSTRUCTORS",
+    "address": "7032 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-12-15T05:35:53.000Z",
+    "expiryDate": "2026-12-14T05:35:53.000Z",
+    "coordinates": [
+      -113.9827428,
+      50.9908641
+    ],
+    "longitude": -113.9827428,
+    "latitude": 50.9908641,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

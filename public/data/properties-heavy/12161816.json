@@ -1,0 +1,36 @@
+{
+  "id": "12161816",
+  "fullDetails": {
+    "licenseNumber": "12161816",
+    "name": "RCTS AUTOWORX",
+    "address": "526 CLEVELAND CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2006-03-07T14:42:26.000Z",
+    "expiryDate": "2026-03-06T14:42:26.000Z",
+    "coordinates": [
+      -114.0534723,
+      51.016853
+    ],
+    "longitude": -114.0534723,
+    "latitude": 51.016853,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

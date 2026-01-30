@@ -1,0 +1,36 @@
+{
+  "id": "913186",
+  "fullDetails": {
+    "licenseNumber": "913186",
+    "name": "ADVANTAGE MAINTENANCE PRODUCTS",
+    "address": "#4 1245 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-10-15T12:20:34.000Z",
+    "expiryDate": "2026-10-14T12:20:34.000Z",
+    "coordinates": [
+      -114.0311413,
+      51.0831553
+    ],
+    "longitude": -114.0311413,
+    "latitude": 51.0831553,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

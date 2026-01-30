@@ -1,0 +1,36 @@
+{
+  "id": "16111940",
+  "fullDetails": {
+    "licenseNumber": "16111940",
+    "name": "KURVES",
+    "address": "#G4 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-07-06T14:40:00.000Z",
+    "expiryDate": "2026-07-05T14:40:00.000Z",
+    "coordinates": [
+      -114.1549434,
+      51.0860177
+    ],
+    "longitude": -114.1549434,
+    "latitude": 51.0860177,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

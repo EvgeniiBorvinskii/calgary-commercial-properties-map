@@ -1,0 +1,36 @@
+{
+  "id": "12067831",
+  "fullDetails": {
+    "licenseNumber": "12067831",
+    "name": "ALLTECH",
+    "address": "#26 10221 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2017-03-04T05:32:52.000Z",
+    "expiryDate": "2026-03-03T05:32:52.000Z",
+    "coordinates": [
+      -114.0258614,
+      51.1456129
+    ],
+    "longitude": -114.0258614,
+    "latitude": 51.1456129,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

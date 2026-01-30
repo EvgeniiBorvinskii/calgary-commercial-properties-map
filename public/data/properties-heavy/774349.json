@@ -1,0 +1,37 @@
+{
+  "id": "774349",
+  "fullDetails": {
+    "licenseNumber": "774349",
+    "name": "G & G AUTO SALES & SERVICE",
+    "address": "2304 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-17T00:00:00.000Z",
+    "coordinates": [
+      -113.9577995,
+      51.0338257
+    ],
+    "longitude": -113.9577995,
+    "latitude": 51.0338257,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

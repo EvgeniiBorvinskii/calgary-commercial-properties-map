@@ -1,0 +1,36 @@
+{
+  "id": "15950124",
+  "fullDetails": {
+    "licenseNumber": "15950124",
+    "name": "DANG GOOD CARPET AND FURNACE CLEANING",
+    "address": "#2 1935 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL) (PRESSURE WASHING)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL) (PRESSURE WASHING)",
+    "status": "active",
+    "issuedDate": "2021-01-18T08:01:03.000Z",
+    "expiryDate": "2027-01-17T08:01:02.000Z",
+    "coordinates": [
+      -114.0124598,
+      51.0793296
+    ],
+    "longitude": -114.0124598,
+    "latitude": 51.0793296,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

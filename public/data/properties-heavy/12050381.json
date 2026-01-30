@@ -1,0 +1,37 @@
+{
+  "id": "12050381",
+  "fullDetails": {
+    "licenseNumber": "12050381",
+    "name": "STAPLE DIRECT #361",
+    "address": "25 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-06-13T17:16:54.000Z",
+    "expiryDate": "2026-06-12T05:31:52.000Z",
+    "coordinates": [
+      -114.0342118,
+      51.1185566
+    ],
+    "longitude": -114.0342118,
+    "latitude": 51.1185566,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

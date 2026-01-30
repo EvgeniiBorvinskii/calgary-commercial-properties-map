@@ -1,0 +1,37 @@
+{
+  "id": "15984073",
+  "fullDetails": {
+    "licenseNumber": "15984073",
+    "name": "INNER BEAUTY SPA, MASSAGE AND WELLNESS",
+    "address": "813 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2024-02-22T09:26:51.000Z",
+    "expiryDate": "2026-02-21T09:26:51.000Z",
+    "coordinates": [
+      -114.079218,
+      51.0495554
+    ],
+    "longitude": -114.079218,
+    "latitude": 51.0495554,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

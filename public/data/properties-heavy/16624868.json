@@ -1,0 +1,36 @@
+{
+  "id": "16624868",
+  "fullDetails": {
+    "licenseNumber": "16624868",
+    "name": "ONE6",
+    "address": "1528 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-07-15T09:27:08.000Z",
+    "expiryDate": "2026-07-14T09:27:08.000Z",
+    "coordinates": [
+      -114.0965904,
+      51.0672675
+    ],
+    "longitude": -114.0965904,
+    "latitude": 51.0672675,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

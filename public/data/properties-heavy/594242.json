@@ -1,0 +1,36 @@
+{
+  "id": "594242",
+  "fullDetails": {
+    "licenseNumber": "594242",
+    "name": "GONDOLA INCOMPARABLE PIZZA",
+    "address": "#4 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2024-08-26T00:00:00.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

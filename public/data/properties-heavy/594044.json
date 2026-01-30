@@ -1,0 +1,36 @@
+{
+  "id": "594044",
+  "fullDetails": {
+    "licenseNumber": "594044",
+    "name": "WOWRYK ENTERPRISES",
+    "address": "1413 41 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2003-10-16T05:35:50.000Z",
+    "expiryDate": "2026-10-15T05:35:50.000Z",
+    "coordinates": [
+      -114.0274733,
+      51.0168172
+    ],
+    "longitude": -114.0274733,
+    "latitude": 51.0168172,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

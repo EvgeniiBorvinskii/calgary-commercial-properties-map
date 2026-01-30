@@ -1,0 +1,36 @@
+{
+  "id": "12586814",
+  "fullDetails": {
+    "licenseNumber": "12586814",
+    "name": "KRISTA HERMANSON DESIGN",
+    "address": "#250 237 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-06-23T08:51:16.000Z",
+    "expiryDate": "2026-06-22T08:51:15.000Z",
+    "coordinates": [
+      -114.058493,
+      51.0451495
+    ],
+    "longitude": -114.058493,
+    "latitude": 51.0451495,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

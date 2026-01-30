@@ -1,0 +1,36 @@
+{
+  "id": "13679998",
+  "fullDetails": {
+    "licenseNumber": "13679998",
+    "name": "CLINTAR LANDSCAPE MANAGEMENT",
+    "address": "#100 3450 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-05-16T08:19:58.000Z",
+    "expiryDate": "2026-05-15T08:19:58.000Z",
+    "coordinates": [
+      -113.9846651,
+      51.0108187
+    ],
+    "longitude": -113.9846651,
+    "latitude": 51.0108187,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

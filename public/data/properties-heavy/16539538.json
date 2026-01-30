@@ -1,0 +1,36 @@
+{
+  "id": "16539538",
+  "fullDetails": {
+    "licenseNumber": "16539538",
+    "name": "SKY CRES",
+    "address": "111 RED SKY CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "pending",
+    "issuedDate": "2025-03-07T11:04:21.000Z",
+    "expiryDate": "2026-03-06T11:04:21.000Z",
+    "coordinates": [
+      -113.9560703,
+      51.1745271
+    ],
+    "longitude": -113.9560703,
+    "latitude": 51.1745271,
+    "community": "REDSTONE",
+    "ward": "RSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

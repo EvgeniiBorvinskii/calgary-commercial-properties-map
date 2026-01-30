@@ -1,0 +1,36 @@
+{
+  "id": "103846",
+  "fullDetails": {
+    "licenseNumber": "103846",
+    "name": "CLOVER LEAF CHEESE",
+    "address": "1201 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0362324,
+      51.0929729
+    ],
+    "longitude": -114.0362324,
+    "latitude": 51.0929729,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

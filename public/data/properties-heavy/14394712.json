@@ -1,0 +1,36 @@
+{
+  "id": "14394712",
+  "fullDetails": {
+    "licenseNumber": "14394712",
+    "name": "HOPEWELL RESIDENTIAL MANAGEMENT",
+    "address": "#410 2020 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-01-19T10:16:45.000Z",
+    "expiryDate": "2027-01-18T10:16:45.000Z",
+    "coordinates": [
+      -114.0710909,
+      51.0348344
+    ],
+    "longitude": -114.0710909,
+    "latitude": 51.0348344,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

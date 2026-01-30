@@ -1,0 +1,37 @@
+{
+  "id": "15004369",
+  "fullDetails": {
+    "licenseNumber": "15004369",
+    "name": "BEACH YYC (THE)",
+    "address": "#3030 2600 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-09-27T09:18:27.000Z",
+    "expiryDate": "2026-09-26T09:18:27.000Z",
+    "coordinates": [
+      -114.030254,
+      51.0318338
+    ],
+    "longitude": -114.030254,
+    "latitude": 51.0318338,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

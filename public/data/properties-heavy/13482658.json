@@ -1,0 +1,36 @@
+{
+  "id": "13482658",
+  "fullDetails": {
+    "licenseNumber": "13482658",
+    "name": "KFC #1740",
+    "address": "5012 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-08-20T13:19:54.000Z",
+    "expiryDate": "2026-08-19T13:19:54.000Z",
+    "coordinates": [
+      -114.1646485,
+      51.0733277
+    ],
+    "longitude": -114.1646485,
+    "latitude": 51.0733277,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

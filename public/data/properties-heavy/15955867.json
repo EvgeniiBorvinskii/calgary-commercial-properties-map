@@ -1,0 +1,36 @@
+{
+  "id": "15955867",
+  "fullDetails": {
+    "licenseNumber": "15955867",
+    "name": "CALGARY RIM REPAIR",
+    "address": "7855 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-12-11T13:21:19.000Z",
+    "expiryDate": "2026-12-10T13:21:19.000Z",
+    "coordinates": [
+      -114.0696752,
+      50.9833204
+    ],
+    "longitude": -114.0696752,
+    "latitude": 50.9833204,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

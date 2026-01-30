@@ -1,0 +1,36 @@
+{
+  "id": "16715054",
+  "fullDetails": {
+    "licenseNumber": "16715054",
+    "name": "DNR DEVELOPMENT & HOME RENOVATIONS",
+    "address": "#205E 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-02T16:08:32.000Z",
+    "expiryDate": "2027-01-01T16:08:31.000Z",
+    "coordinates": [
+      -114.0699117,
+      50.9765236
+    ],
+    "longitude": -114.0699117,
+    "latitude": 50.9765236,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

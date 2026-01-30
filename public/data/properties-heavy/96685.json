@@ -1,0 +1,36 @@
+{
+  "id": "96685",
+  "fullDetails": {
+    "licenseNumber": "96685",
+    "name": "LAMONT DEVELOPMENT",
+    "address": "#200 5716 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-02-19T05:48:55.000Z",
+    "expiryDate": "2026-02-18T05:48:55.000Z",
+    "coordinates": [
+      -114.0619156,
+      51.0031619
+    ],
+    "longitude": -114.0619156,
+    "latitude": 51.0031619,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

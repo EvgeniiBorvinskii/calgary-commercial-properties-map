@@ -1,0 +1,36 @@
+{
+  "id": "469239",
+  "fullDetails": {
+    "licenseNumber": "469239",
+    "name": "PRECISION HYDRAULICS",
+    "address": "940 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-11-23T05:36:35.000Z",
+    "expiryDate": "2026-11-22T05:36:35.000Z",
+    "coordinates": [
+      -114.040698,
+      51.0116834
+    ],
+    "longitude": -114.040698,
+    "latitude": 51.0116834,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

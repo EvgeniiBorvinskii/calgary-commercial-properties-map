@@ -1,0 +1,37 @@
+{
+  "id": "14120133",
+  "fullDetails": {
+    "licenseNumber": "14120133",
+    "name": "EXPERTEC",
+    "address": "10711 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-08-03T12:12:16.000Z",
+    "expiryDate": "2026-08-02T12:12:16.000Z",
+    "coordinates": [
+      -113.9286573,
+      50.9614337
+    ],
+    "longitude": -113.9286573,
+    "latitude": 50.9614337,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

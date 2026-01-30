@@ -1,0 +1,36 @@
+{
+  "id": "16128308",
+  "fullDetails": {
+    "licenseNumber": "16128308",
+    "name": "FORT SANDS CONSTRUCTION",
+    "address": "432 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-18T11:40:27.000Z",
+    "expiryDate": "2026-11-17T11:40:26.000Z",
+    "coordinates": [
+      -113.9925753,
+      51.0558219
+    ],
+    "longitude": -113.9925753,
+    "latitude": 51.0558219,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

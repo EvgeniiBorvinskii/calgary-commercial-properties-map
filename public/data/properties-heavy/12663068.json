@@ -1,0 +1,36 @@
+{
+  "id": "12663068",
+  "fullDetails": {
+    "licenseNumber": "12663068",
+    "name": "AVIATION SOLUTIONS",
+    "address": "2191 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-01-02T11:07:50.000Z",
+    "expiryDate": "2027-01-01T11:07:50.000Z",
+    "coordinates": [
+      -114.007797,
+      51.0949137
+    ],
+    "longitude": -114.007797,
+    "latitude": 51.0949137,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

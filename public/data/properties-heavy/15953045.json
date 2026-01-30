@@ -1,0 +1,37 @@
+{
+  "id": "15953045",
+  "fullDetails": {
+    "licenseNumber": "15953045",
+    "name": "UNA PIZZERIA BRIDGELAND",
+    "address": "#110 69 7A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-03-10T11:29:53.000Z",
+    "expiryDate": "2026-03-09T11:29:53.000Z",
+    "coordinates": [
+      -114.0446458,
+      51.0520835
+    ],
+    "longitude": -114.0446458,
+    "latitude": 51.0520835,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

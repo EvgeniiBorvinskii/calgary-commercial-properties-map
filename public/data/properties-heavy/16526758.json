@@ -1,0 +1,36 @@
+{
+  "id": "16526758",
+  "fullDetails": {
+    "licenseNumber": "16526758",
+    "name": "CALGARY AUTO REPAIR SHOP (C A R S)",
+    "address": "2520 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-11-22T16:44:10.000Z",
+    "expiryDate": "2026-11-21T16:44:09.000Z",
+    "coordinates": [
+      -114.0001724,
+      51.0528611
+    ],
+    "longitude": -114.0001724,
+    "latitude": 51.0528611,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

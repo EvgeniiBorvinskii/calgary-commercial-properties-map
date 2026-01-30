@@ -1,0 +1,36 @@
+{
+  "id": "15279615",
+  "fullDetails": {
+    "licenseNumber": "15279615",
+    "name": "BUD MOUNTAIN AEROPONICS",
+    "address": "#120 10725 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "active",
+    "issuedDate": "2024-05-24T07:50:54.000Z",
+    "expiryDate": "2026-05-23T07:50:54.000Z",
+    "coordinates": [
+      -113.9265488,
+      50.9600394
+    ],
+    "longitude": -113.9265488,
+    "latitude": 50.9600394,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

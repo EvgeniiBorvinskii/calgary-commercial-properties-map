@@ -1,0 +1,36 @@
+{
+  "id": "12844296",
+  "fullDetails": {
+    "licenseNumber": "12844296",
+    "name": "SPRING",
+    "address": "#158 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-06-29T14:51:38.000Z",
+    "expiryDate": "2026-06-28T14:51:38.000Z",
+    "coordinates": [
+      -114.0652434,
+      50.9524923
+    ],
+    "longitude": -114.0652434,
+    "latitude": 50.9524923,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

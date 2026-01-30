@@ -1,0 +1,36 @@
+{
+  "id": "823633",
+  "fullDetails": {
+    "licenseNumber": "823633",
+    "name": "MARK'S WORK WEARHOUSE #19",
+    "address": "#240 350 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-20T00:00:00.000Z",
+    "coordinates": [
+      -114.0622371,
+      50.8985385
+    ],
+    "longitude": -114.0622371,
+    "latitude": 50.8985385,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

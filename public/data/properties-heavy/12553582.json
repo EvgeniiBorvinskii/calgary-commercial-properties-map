@@ -1,0 +1,36 @@
+{
+  "id": "12553582",
+  "fullDetails": {
+    "licenseNumber": "12553582",
+    "name": "PREVENT MECHANICAL",
+    "address": "11989 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-06-27T09:26:18.000Z",
+    "expiryDate": "2026-06-26T09:26:18.000Z",
+    "coordinates": [
+      -113.9725679,
+      50.9437429
+    ],
+    "longitude": -113.9725679,
+    "latitude": 50.9437429,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

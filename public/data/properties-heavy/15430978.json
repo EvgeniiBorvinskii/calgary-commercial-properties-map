@@ -1,0 +1,36 @@
+{
+  "id": "15430978",
+  "fullDetails": {
+    "licenseNumber": "15430978",
+    "name": "CALGREEN HOMES",
+    "address": "#202 2003 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-06-26T15:10:03.000Z",
+    "expiryDate": "2026-06-25T15:10:02.000Z",
+    "coordinates": [
+      -114.0951234,
+      51.0699015
+    ],
+    "longitude": -114.0951234,
+    "latitude": 51.0699015,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

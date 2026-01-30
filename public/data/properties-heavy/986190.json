@@ -1,0 +1,36 @@
+{
+  "id": "986190",
+  "fullDetails": {
+    "licenseNumber": "986190",
+    "name": "CLEARVIEW PLUMBING & HEATING",
+    "address": "4805 32 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-11-16T05:56:01.000Z",
+    "expiryDate": "2026-11-15T05:56:01.000Z",
+    "coordinates": [
+      -113.9871051,
+      51.010876
+    ],
+    "longitude": -113.9871051,
+    "latitude": 51.010876,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

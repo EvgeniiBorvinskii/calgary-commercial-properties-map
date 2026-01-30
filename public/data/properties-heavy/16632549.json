@@ -1,0 +1,36 @@
+{
+  "id": "16632549",
+  "fullDetails": {
+    "licenseNumber": "16632549",
+    "name": "EYE CARE STUDIO",
+    "address": "#130B 3715 51 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-10T10:16:03.000Z",
+    "expiryDate": "2026-09-09T10:16:02.000Z",
+    "coordinates": [
+      -114.1625093,
+      51.0213251
+    ],
+    "longitude": -114.1625093,
+    "latitude": 51.0213251,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

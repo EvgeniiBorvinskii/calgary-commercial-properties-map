@@ -1,0 +1,37 @@
+{
+  "id": "12255113",
+  "fullDetails": {
+    "licenseNumber": "12255113",
+    "name": "CINEPLEX ENTERTAINMENT",
+    "address": "91 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "CINEMA,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nCINEMA,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2004-03-17T13:36:28.000Z",
+    "expiryDate": "2026-03-16T13:36:28.000Z",
+    "coordinates": [
+      -114.2021251,
+      51.127097
+    ],
+    "longitude": -114.2021251,
+    "latitude": 51.127097,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

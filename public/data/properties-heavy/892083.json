@@ -1,0 +1,37 @@
+{
+  "id": "892083",
+  "fullDetails": {
+    "licenseNumber": "892083",
+    "name": "CALGARY GRAND THEATRE SOCIETY (THE)",
+    "address": "608 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-06-15T13:24:38.000Z",
+    "expiryDate": "2026-06-14T13:24:38.000Z",
+    "coordinates": [
+      -114.0646484,
+      51.0471559
+    ],
+    "longitude": -114.0646484,
+    "latitude": 51.0471559,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12229183",
+  "fullDetails": {
+    "licenseNumber": "12229183",
+    "name": "CD TRADER",
+    "address": "#306 3630 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2003-09-16T13:42:46.000Z",
+    "expiryDate": "2026-09-15T13:42:46.000Z",
+    "coordinates": [
+      -114.1252315,
+      51.0854582
+    ],
+    "longitude": -114.1252315,
+    "latitude": 51.0854582,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

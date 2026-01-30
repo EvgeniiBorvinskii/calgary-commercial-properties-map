@@ -1,0 +1,36 @@
+{
+  "id": "638999",
+  "fullDetails": {
+    "licenseNumber": "638999",
+    "name": "ALLRUSH COPIES AND PRINT",
+    "address": "#1 2220 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-09-09T15:09:37.000Z",
+    "expiryDate": "2026-09-08T15:09:37.000Z",
+    "coordinates": [
+      -114.007575,
+      51.0821985
+    ],
+    "longitude": -114.007575,
+    "latitude": 51.0821985,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

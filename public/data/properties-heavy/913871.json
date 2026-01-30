@@ -1,0 +1,36 @@
+{
+  "id": "913871",
+  "fullDetails": {
+    "licenseNumber": "913871",
+    "name": "DS HOMES",
+    "address": "#210 11125 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2020-01-06T08:58:57.000Z",
+    "expiryDate": "2027-01-05T08:58:57.000Z",
+    "coordinates": [
+      -113.978366,
+      51.1526762
+    ],
+    "longitude": -113.978366,
+    "latitude": 51.1526762,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

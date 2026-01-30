@@ -1,0 +1,36 @@
+{
+  "id": "12940862",
+  "fullDetails": {
+    "licenseNumber": "12940862",
+    "name": "AUTO HOUSE",
+    "address": "2404 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-03-25T11:10:10.000Z",
+    "expiryDate": "2026-03-24T11:10:10.000Z",
+    "coordinates": [
+      -114.0036206,
+      51.0737508
+    ],
+    "longitude": -114.0036206,
+    "latitude": 51.0737508,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13632955",
+  "fullDetails": {
+    "licenseNumber": "13632955",
+    "name": "KINJO SUSHI & GRILL",
+    "address": "#4105 150 MILLRISE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-07-10T10:00:56.000Z",
+    "expiryDate": "2026-07-09T10:00:56.000Z",
+    "coordinates": [
+      -114.0722893,
+      50.9142533
+    ],
+    "longitude": -114.0722893,
+    "latitude": 50.9142533,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

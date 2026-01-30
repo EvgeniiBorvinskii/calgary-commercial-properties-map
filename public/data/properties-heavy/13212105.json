@@ -1,0 +1,36 @@
+{
+  "id": "13212105",
+  "fullDetails": {
+    "licenseNumber": "13212105",
+    "name": "MR SUB",
+    "address": "#16 5329 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-08-24T14:59:46.000Z",
+    "expiryDate": "2026-08-23T14:59:46.000Z",
+    "coordinates": [
+      -113.9574649,
+      50.9888003
+    ],
+    "longitude": -113.9574649,
+    "latitude": 50.9888003,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

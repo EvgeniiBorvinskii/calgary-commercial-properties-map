@@ -1,0 +1,37 @@
+{
+  "id": "16121329",
+  "fullDetails": {
+    "licenseNumber": "16121329",
+    "name": "MUCHO BURRITO MAHOGANY",
+    "address": "#1630 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-05-11T09:40:01.000Z",
+    "expiryDate": "2026-05-10T09:40:01.000Z",
+    "coordinates": [
+      -113.9420744,
+      50.8950176
+    ],
+    "longitude": -113.9420744,
+    "latitude": 50.8950176,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

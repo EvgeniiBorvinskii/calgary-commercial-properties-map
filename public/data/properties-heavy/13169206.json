@@ -1,0 +1,36 @@
+{
+  "id": "13169206",
+  "fullDetails": {
+    "licenseNumber": "13169206",
+    "name": "VILLAGE ICE CREAM",
+    "address": "431 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-11-08T11:20:58.000Z",
+    "expiryDate": "2026-11-07T11:20:58.000Z",
+    "coordinates": [
+      -114.0540777,
+      51.0428096
+    ],
+    "longitude": -114.0540777,
+    "latitude": 51.0428096,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

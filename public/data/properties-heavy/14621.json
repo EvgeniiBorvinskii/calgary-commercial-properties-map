@@ -1,0 +1,36 @@
+{
+  "id": "14621",
+  "fullDetails": {
+    "licenseNumber": "14621",
+    "name": "CANEM SYSTEMS",
+    "address": "#1000 7005 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2016-09-27T05:30:43.000Z",
+    "expiryDate": "2026-09-26T05:30:43.000Z",
+    "coordinates": [
+      -114.0645279,
+      50.9915386
+    ],
+    "longitude": -114.0645279,
+    "latitude": 50.9915386,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

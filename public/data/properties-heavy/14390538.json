@@ -1,0 +1,37 @@
+{
+  "id": "14390538",
+  "fullDetails": {
+    "licenseNumber": "14390538",
+    "name": "A LADYBUG BAKERY & CAFE",
+    "address": "#2132 10 ASPEN STONE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-01-10T08:42:47.000Z",
+    "expiryDate": "2027-01-09T08:42:47.000Z",
+    "coordinates": [
+      -114.2125304,
+      51.0414523
+    ],
+    "longitude": -114.2125304,
+    "latitude": 51.0414523,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

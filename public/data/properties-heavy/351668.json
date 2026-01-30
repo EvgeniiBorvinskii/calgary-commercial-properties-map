@@ -1,0 +1,36 @@
+{
+  "id": "351668",
+  "fullDetails": {
+    "licenseNumber": "351668",
+    "name": "HI-TECH SEALS",
+    "address": "6323 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-06T09:43:01.000Z",
+    "expiryDate": "2026-12-05T09:43:01.000Z",
+    "coordinates": [
+      -113.9835927,
+      50.9970119
+    ],
+    "longitude": -113.9835927,
+    "latitude": 50.9970119,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

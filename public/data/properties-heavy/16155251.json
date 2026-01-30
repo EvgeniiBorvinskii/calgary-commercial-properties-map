@@ -1,0 +1,36 @@
+{
+  "id": "16155251",
+  "fullDetails": {
+    "licenseNumber": "16155251",
+    "name": "FUSION FOOD INDIAN CHINESE CORNER (CGY-326)  FSFV",
+    "address": "1109 TARADALE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2022-06-03T12:01:39.000Z",
+    "expiryDate": "2026-06-02T12:01:39.000Z",
+    "coordinates": [
+      -113.9306471,
+      51.1229609
+    ],
+    "longitude": -113.9306471,
+    "latitude": 51.1229609,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

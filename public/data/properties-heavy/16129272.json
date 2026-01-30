@@ -1,0 +1,36 @@
+{
+  "id": "16129272",
+  "fullDetails": {
+    "licenseNumber": "16129272",
+    "name": "ONE LOVE STUDIO YYC",
+    "address": "#315 4620 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-07-04T11:54:18.000Z",
+    "expiryDate": "2026-07-03T11:54:18.000Z",
+    "coordinates": [
+      -114.1531891,
+      51.0491621
+    ],
+    "longitude": -114.1531891,
+    "latitude": 51.0491621,
+    "community": "WILDWOOD",
+    "ward": "WLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16582660",
+  "fullDetails": {
+    "licenseNumber": "16582660",
+    "name": "ARTEFACT AUCTION",
+    "address": "#101 5240 1A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-02-11T13:47:23.000Z",
+    "expiryDate": "2027-02-10T13:47:22.000Z",
+    "coordinates": [
+      -114.0610344,
+      51.0074479
+    ],
+    "longitude": -114.0610344,
+    "latitude": 51.0074479,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

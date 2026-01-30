@@ -1,0 +1,36 @@
+{
+  "id": "12385183",
+  "fullDetails": {
+    "licenseNumber": "12385183",
+    "name": "WEST-TECH MACHINING",
+    "address": "6915 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-01-12T07:50:30.000Z",
+    "expiryDate": "2027-01-11T07:50:30.000Z",
+    "coordinates": [
+      -113.9648969,
+      50.9939471
+    ],
+    "longitude": -113.9648969,
+    "latitude": 50.9939471,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

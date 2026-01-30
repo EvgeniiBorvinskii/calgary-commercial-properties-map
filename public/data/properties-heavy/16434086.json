@@ -1,0 +1,36 @@
+{
+  "id": "16434086",
+  "fullDetails": {
+    "licenseNumber": "16434086",
+    "name": "EGS MACHINING AND DESIGN",
+    "address": "#107 3360 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-06-20T08:15:46.000Z",
+    "expiryDate": "2026-06-19T08:15:46.000Z",
+    "coordinates": [
+      -113.9966823,
+      51.0829575
+    ],
+    "longitude": -113.9966823,
+    "latitude": 51.0829575,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

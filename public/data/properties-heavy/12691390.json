@@ -1,0 +1,36 @@
+{
+  "id": "12691390",
+  "fullDetails": {
+    "licenseNumber": "12691390",
+    "name": "CORNAD CONTRACTING",
+    "address": "3508 66 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-10-02T14:01:56.000Z",
+    "expiryDate": "2026-10-01T14:01:56.000Z",
+    "coordinates": [
+      -113.9834554,
+      50.9944991
+    ],
+    "longitude": -113.9834554,
+    "latitude": 50.9944991,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

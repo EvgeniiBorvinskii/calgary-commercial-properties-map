@@ -1,0 +1,37 @@
+{
+  "id": "16085128",
+  "fullDetails": {
+    "licenseNumber": "16085128",
+    "name": "MODERN STEAK SOUTHPORT",
+    "address": "10606 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-10-20T14:18:59.000Z",
+    "expiryDate": "2026-10-19T14:18:59.000Z",
+    "coordinates": [
+      -114.0723288,
+      50.9582204
+    ],
+    "longitude": -114.0723288,
+    "latitude": 50.9582204,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

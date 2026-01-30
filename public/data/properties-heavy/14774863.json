@@ -1,0 +1,37 @@
+{
+  "id": "14774863",
+  "fullDetails": {
+    "licenseNumber": "14774863",
+    "name": "BARCELOS FLAME GRILLED CHICKEN",
+    "address": "#110 75 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2018-02-13T12:58:22.000Z",
+    "expiryDate": "2026-02-12T12:58:22.000Z",
+    "coordinates": [
+      -114.1453479,
+      51.1692817
+    ],
+    "longitude": -114.1453479,
+    "latitude": 51.1692817,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

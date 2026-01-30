@@ -1,0 +1,37 @@
+{
+  "id": "16333700",
+  "fullDetails": {
+    "licenseNumber": "16333700",
+    "name": "CHILL KILL RECORDING STUDIO",
+    "address": "9765 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "licenseTypes": "FOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2024-04-05T13:44:30.000Z",
+    "expiryDate": "2026-04-04T13:44:30.000Z",
+    "coordinates": [
+      -113.9574042,
+      50.9662754
+    ],
+    "longitude": -113.9574042,
+    "latitude": 50.9662754,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15449242",
+  "fullDetails": {
+    "licenseNumber": "15449242",
+    "name": "FOOD TRUCK CANADA",
+    "address": "#1153 8800 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-12-04T08:33:35.000Z",
+    "expiryDate": "2026-12-03T08:33:35.000Z",
+    "coordinates": [
+      -113.906478,
+      50.9712833
+    ],
+    "longitude": -113.906478,
+    "latitude": 50.9712833,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

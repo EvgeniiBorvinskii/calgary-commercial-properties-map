@@ -1,0 +1,36 @@
+{
+  "id": "16568644",
+  "fullDetails": {
+    "licenseNumber": "16568644",
+    "name": "SAFETY FIRST AUTO REPAIR AND SERVICES",
+    "address": "2530C ALYTH RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-06-27T14:54:09.000Z",
+    "expiryDate": "2026-06-26T14:54:09.000Z",
+    "coordinates": [
+      -114.0232909,
+      51.030849
+    ],
+    "longitude": -114.0232909,
+    "latitude": 51.030849,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

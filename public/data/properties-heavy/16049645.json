@@ -1,0 +1,36 @@
+{
+  "id": "16049645",
+  "fullDetails": {
+    "licenseNumber": "16049645",
+    "name": "FOUR20 PREMIUM MARKET",
+    "address": "640 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-07-05T15:08:48.000Z",
+    "expiryDate": "2026-07-04T15:08:47.000Z",
+    "coordinates": [
+      -114.076324,
+      51.0441434
+    ],
+    "longitude": -114.076324,
+    "latitude": 51.0441434,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

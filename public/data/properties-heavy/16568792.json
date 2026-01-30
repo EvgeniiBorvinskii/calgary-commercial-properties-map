@@ -1,0 +1,37 @@
+{
+  "id": "16568792",
+  "fullDetails": {
+    "licenseNumber": "16568792",
+    "name": "SA TIRE SHOP",
+    "address": "#5 3614 3 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-04-14T13:14:56.000Z",
+    "expiryDate": "2026-04-13T13:14:55.000Z",
+    "coordinates": [
+      -114.0543264,
+      51.0846697
+    ],
+    "longitude": -114.0543264,
+    "latitude": 51.0846697,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

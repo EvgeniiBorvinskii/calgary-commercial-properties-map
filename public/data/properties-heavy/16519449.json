@@ -1,0 +1,36 @@
+{
+  "id": "16519449",
+  "fullDetails": {
+    "licenseNumber": "16519449",
+    "name": "DIAMOND HAIR",
+    "address": "#110 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-07-16T13:41:12.000Z",
+    "expiryDate": "2026-07-15T13:41:11.000Z",
+    "coordinates": [
+      -114.0727833,
+      50.990729
+    ],
+    "longitude": -114.0727833,
+    "latitude": 50.990729,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

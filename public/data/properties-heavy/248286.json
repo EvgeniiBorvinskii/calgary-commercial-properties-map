@@ -1,0 +1,36 @@
+{
+  "id": "248286",
+  "fullDetails": {
+    "licenseNumber": "248286",
+    "name": "REMINGTON DEVELOPMENT",
+    "address": "#300 200 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-02-09T05:47:13.000Z",
+    "expiryDate": "2027-02-08T05:47:13.000Z",
+    "coordinates": [
+      -114.0131867,
+      50.9641087
+    ],
+    "longitude": -114.0131867,
+    "latitude": 50.9641087,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

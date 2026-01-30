@@ -1,0 +1,37 @@
+{
+  "id": "12076089",
+  "fullDetails": {
+    "licenseNumber": "12076089",
+    "name": "HORIZON 8",
+    "address": "1133 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2002-06-18T17:29:47.000Z",
+    "expiryDate": "2026-06-17T09:34:01.000Z",
+    "coordinates": [
+      -114.088179,
+      51.0460176
+    ],
+    "longitude": -114.088179,
+    "latitude": 51.0460176,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

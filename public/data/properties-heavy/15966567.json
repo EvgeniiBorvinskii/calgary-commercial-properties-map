@@ -1,0 +1,36 @@
+{
+  "id": "15966567",
+  "fullDetails": {
+    "licenseNumber": "15966567",
+    "name": "SUNALTA 1624",
+    "address": "1624 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2021-06-04T13:41:00.000Z",
+    "expiryDate": "2026-06-03T13:41:00.000Z",
+    "coordinates": [
+      -114.0985605,
+      51.0389491
+    ],
+    "longitude": -114.0985605,
+    "latitude": 51.0389491,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

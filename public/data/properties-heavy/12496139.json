@@ -1,0 +1,37 @@
+{
+  "id": "12496139",
+  "fullDetails": {
+    "licenseNumber": "12496139",
+    "name": "HARVEST HILLS AUTO REPAIR",
+    "address": "#800 9650 HARVEST HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2007-05-03T11:42:20.000Z",
+    "expiryDate": "2026-05-02T11:42:20.000Z",
+    "coordinates": [
+      -114.0668607,
+      51.1405428
+    ],
+    "longitude": -114.0668607,
+    "latitude": 51.1405428,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

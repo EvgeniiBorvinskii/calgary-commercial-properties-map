@@ -1,0 +1,36 @@
+{
+  "id": "16556862",
+  "fullDetails": {
+    "licenseNumber": "16556862",
+    "name": "AVI LAND",
+    "address": "245 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-15T09:41:21.000Z",
+    "expiryDate": "2026-11-14T09:41:20.000Z",
+    "coordinates": [
+      -114.0594038,
+      50.9933599
+    ],
+    "longitude": -114.0594038,
+    "latitude": 50.9933599,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

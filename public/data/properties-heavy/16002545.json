@@ -1,0 +1,36 @@
+{
+  "id": "16002545",
+  "fullDetails": {
+    "licenseNumber": "16002545",
+    "name": "TOP MEAL",
+    "address": "#19 2439 54 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-04-09T11:06:43.000Z",
+    "expiryDate": "2026-04-08T11:06:43.000Z",
+    "coordinates": [
+      -114.1167788,
+      51.004569
+    ],
+    "longitude": -114.1167788,
+    "latitude": 51.004569,
+    "community": "NORTH GLENMORE PARK",
+    "ward": "NGM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

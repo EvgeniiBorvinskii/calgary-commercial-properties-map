@@ -1,0 +1,37 @@
+{
+  "id": "12242228",
+  "fullDetails": {
+    "licenseNumber": "12242228",
+    "name": "MARKET MALL MEDICINE CENTRE PHARMACY",
+    "address": "#100 4935 40 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-10-30T05:33:58.000Z",
+    "expiryDate": "2026-10-29T05:33:58.000Z",
+    "coordinates": [
+      -114.157823,
+      51.0878195
+    ],
+    "longitude": -114.157823,
+    "latitude": 51.0878195,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

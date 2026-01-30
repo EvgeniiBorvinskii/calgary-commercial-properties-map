@@ -1,0 +1,36 @@
+{
+  "id": "16081622",
+  "fullDetails": {
+    "licenseNumber": "16081622",
+    "name": "SHEAR ART PLUS A SPA",
+    "address": "#103 429 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-12-06T12:07:46.000Z",
+    "expiryDate": "2026-12-05T12:07:46.000Z",
+    "coordinates": [
+      -114.0949975,
+      51.0562959
+    ],
+    "longitude": -114.0949975,
+    "latitude": 51.0562959,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

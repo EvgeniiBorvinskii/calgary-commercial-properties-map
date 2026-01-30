@@ -1,0 +1,36 @@
+{
+  "id": "16453979",
+  "fullDetails": {
+    "licenseNumber": "16453979",
+    "name": "DENG'S DUMPLING",
+    "address": "#B 4708 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-11-22T16:13:00.000Z",
+    "expiryDate": "2026-11-21T16:12:59.000Z",
+    "coordinates": [
+      -114.1630841,
+      51.0722486
+    ],
+    "longitude": -114.1630841,
+    "latitude": 51.0722486,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

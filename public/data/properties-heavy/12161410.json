@@ -1,0 +1,36 @@
+{
+  "id": "12161410",
+  "fullDetails": {
+    "licenseNumber": "12161410",
+    "name": "APARTMENT COMPLEX",
+    "address": "219 CARDIFF DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2003-01-31T05:35:18.000Z",
+    "expiryDate": "2027-01-30T05:35:18.000Z",
+    "coordinates": [
+      -114.0882466,
+      51.0842905
+    ],
+    "longitude": -114.0882466,
+    "latitude": 51.0842905,
+    "community": "CAMBRIAN HEIGHTS",
+    "ward": "CAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

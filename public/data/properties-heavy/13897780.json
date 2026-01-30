@@ -1,0 +1,36 @@
+{
+  "id": "13897780",
+  "fullDetails": {
+    "licenseNumber": "13897780",
+    "name": "COMPACT COMPRESSION",
+    "address": "#9 1825 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-12-29T13:20:43.000Z",
+    "expiryDate": "2026-12-28T13:20:43.000Z",
+    "coordinates": [
+      -114.0149177,
+      51.080896
+    ],
+    "longitude": -114.0149177,
+    "latitude": 51.080896,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

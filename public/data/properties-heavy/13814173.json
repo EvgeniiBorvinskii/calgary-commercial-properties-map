@@ -1,0 +1,36 @@
+{
+  "id": "13814173",
+  "fullDetails": {
+    "licenseNumber": "13814173",
+    "name": "MITSUBISHI POWER CANADA",
+    "address": "#460 10655 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2014-04-16T05:32:30.000Z",
+    "expiryDate": "2026-04-15T05:32:30.000Z",
+    "coordinates": [
+      -114.0740138,
+      50.9590997
+    ],
+    "longitude": -114.0740138,
+    "latitude": 50.9590997,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

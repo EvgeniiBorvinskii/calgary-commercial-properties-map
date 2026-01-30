@@ -1,0 +1,36 @@
+{
+  "id": "16433070",
+  "fullDetails": {
+    "licenseNumber": "16433070",
+    "name": "TIM HORTONS",
+    "address": "#400 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-11T11:37:22.000Z",
+    "expiryDate": "2026-03-10T11:37:22.000Z",
+    "coordinates": [
+      -114.0696085,
+      50.9442023
+    ],
+    "longitude": -114.0696085,
+    "latitude": 50.9442023,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

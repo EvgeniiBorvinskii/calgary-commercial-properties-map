@@ -1,0 +1,36 @@
+{
+  "id": "16325466",
+  "fullDetails": {
+    "licenseNumber": "16325466",
+    "name": "NOODLEBOX",
+    "address": "#420 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-05-31T20:57:49.000Z",
+    "expiryDate": "2026-05-30T20:57:49.000Z",
+    "coordinates": [
+      -114.0563694,
+      51.1549429
+    ],
+    "longitude": -114.0563694,
+    "latitude": 51.1549429,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

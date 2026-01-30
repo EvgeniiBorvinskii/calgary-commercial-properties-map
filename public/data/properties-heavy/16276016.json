@@ -1,0 +1,37 @@
+{
+  "id": "16276016",
+  "fullDetails": {
+    "licenseNumber": "16276016",
+    "name": "TAKSAR AUTO SALE & DETAILING",
+    "address": "#3 4243 17A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-02-07T14:26:10.000Z",
+    "expiryDate": "2026-02-06T14:26:09.000Z",
+    "coordinates": [
+      -114.0180668,
+      51.0157244
+    ],
+    "longitude": -114.0180668,
+    "latitude": 51.0157244,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

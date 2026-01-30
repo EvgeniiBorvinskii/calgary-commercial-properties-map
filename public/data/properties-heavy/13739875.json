@@ -1,0 +1,37 @@
+{
+  "id": "13739875",
+  "fullDetails": {
+    "licenseNumber": "13739875",
+    "name": "CROSSPOINTE PHARMACY",
+    "address": "#7 4527 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-12-10T15:53:33.000Z",
+    "expiryDate": "2026-12-09T15:53:33.000Z",
+    "coordinates": [
+      -113.9691462,
+      51.0443798
+    ],
+    "longitude": -113.9691462,
+    "latitude": 51.0443798,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

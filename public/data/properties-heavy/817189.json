@@ -1,0 +1,36 @@
+{
+  "id": "817189",
+  "fullDetails": {
+    "licenseNumber": "817189",
+    "name": "AMIABLE SECURITY SYSTEMS & INTERCOMS",
+    "address": "#301 4600 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2011-09-07T05:51:53.000Z",
+    "expiryDate": "2026-09-06T05:51:53.000Z",
+    "coordinates": [
+      -114.1435622,
+      51.0955914
+    ],
+    "longitude": -114.1435622,
+    "latitude": 51.0955914,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

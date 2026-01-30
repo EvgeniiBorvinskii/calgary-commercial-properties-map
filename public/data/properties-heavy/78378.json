@@ -1,0 +1,36 @@
+{
+  "id": "78378",
+  "fullDetails": {
+    "licenseNumber": "78378",
+    "name": "SPAAR",
+    "address": "12222 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2019-11-09T05:32:57.000Z",
+    "expiryDate": "2026-11-08T05:32:57.000Z",
+    "coordinates": [
+      -113.9709187,
+      50.9412962
+    ],
+    "longitude": -113.9709187,
+    "latitude": 50.9412962,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

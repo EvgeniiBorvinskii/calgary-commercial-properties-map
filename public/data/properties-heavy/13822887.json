@@ -1,0 +1,36 @@
+{
+  "id": "13822887",
+  "fullDetails": {
+    "licenseNumber": "13822887",
+    "name": "TUMI",
+    "address": "#149C 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-05-16T11:18:00.000Z",
+    "expiryDate": "2026-05-15T11:18:00.000Z",
+    "coordinates": [
+      -114.0736702,
+      51.0003436
+    ],
+    "longitude": -114.0736702,
+    "latitude": 51.0003436,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

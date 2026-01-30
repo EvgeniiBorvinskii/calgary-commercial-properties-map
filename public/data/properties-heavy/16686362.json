@@ -1,0 +1,36 @@
+{
+  "id": "16686362",
+  "fullDetails": {
+    "licenseNumber": "16686362",
+    "name": "ELEVATE FURNISHINGS",
+    "address": "#131 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-15T15:20:34.000Z",
+    "expiryDate": "2026-10-14T15:20:34.000Z",
+    "coordinates": [
+      -113.9783127,
+      51.1519438
+    ],
+    "longitude": -113.9783127,
+    "latitude": 51.1519438,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

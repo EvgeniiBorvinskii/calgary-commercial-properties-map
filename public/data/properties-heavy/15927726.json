@@ -1,0 +1,36 @@
+{
+  "id": "15927726",
+  "fullDetails": {
+    "licenseNumber": "15927726",
+    "name": "INDEPTH PHYSIO",
+    "address": "#210 19 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-30T14:59:56.000Z",
+    "expiryDate": "2026-10-29T14:59:56.000Z",
+    "coordinates": [
+      -114.2047917,
+      51.1511879
+    ],
+    "longitude": -114.2047917,
+    "latitude": 51.1511879,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

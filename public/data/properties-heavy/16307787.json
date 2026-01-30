@@ -1,0 +1,36 @@
+{
+  "id": "16307787",
+  "fullDetails": {
+    "licenseNumber": "16307787",
+    "name": "ECCO SUPPLY",
+    "address": "#160 79 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-08-23T15:36:30.000Z",
+    "expiryDate": "2026-08-22T15:36:30.000Z",
+    "coordinates": [
+      -114.0297887,
+      51.1442579
+    ],
+    "longitude": -114.0297887,
+    "latitude": 51.1442579,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

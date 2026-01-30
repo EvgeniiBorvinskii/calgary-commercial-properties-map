@@ -1,0 +1,36 @@
+{
+  "id": "13631791",
+  "fullDetails": {
+    "licenseNumber": "13631791",
+    "name": "GOLFTEC",
+    "address": "#370 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-19T10:41:26.000Z",
+    "expiryDate": "2026-06-18T10:41:26.000Z",
+    "coordinates": [
+      -114.1629311,
+      51.1587084
+    ],
+    "longitude": -114.1629311,
+    "latitude": 51.1587084,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

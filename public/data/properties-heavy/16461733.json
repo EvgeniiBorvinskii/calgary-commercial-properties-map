@@ -1,0 +1,37 @@
+{
+  "id": "16461733",
+  "fullDetails": {
+    "licenseNumber": "16461733",
+    "name": "TIERRA SOL CERAMIC TILE LP",
+    "address": "#30 4000 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-03-18T11:03:16.000Z",
+    "expiryDate": "2026-03-17T11:03:16.000Z",
+    "coordinates": [
+      -113.9787354,
+      50.9599184
+    ],
+    "longitude": -113.9787354,
+    "latitude": 50.9599184,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

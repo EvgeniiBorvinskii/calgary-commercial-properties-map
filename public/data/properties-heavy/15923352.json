@@ -1,0 +1,36 @@
+{
+  "id": "15923352",
+  "fullDetails": {
+    "licenseNumber": "15923352",
+    "name": "QUBE TECHNOLOGIES",
+    "address": "#200 632 CONFLUENCE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-11T11:44:06.000Z",
+    "expiryDate": "2026-04-10T11:44:05.000Z",
+    "coordinates": [
+      -114.0491913,
+      51.047752
+    ],
+    "longitude": -114.0491913,
+    "latitude": 51.047752,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

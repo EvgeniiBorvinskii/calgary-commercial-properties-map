@@ -1,0 +1,36 @@
+{
+  "id": "16099798",
+  "fullDetails": {
+    "licenseNumber": "16099798",
+    "name": "FANTASTIC TOYS",
+    "address": "#152 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-05T09:29:50.000Z",
+    "expiryDate": "2026-04-04T09:29:50.000Z",
+    "coordinates": [
+      -113.9859731,
+      51.0735934
+    ],
+    "longitude": -113.9859731,
+    "latitude": 51.0735934,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

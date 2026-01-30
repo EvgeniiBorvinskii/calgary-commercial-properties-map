@@ -1,0 +1,36 @@
+{
+  "id": "12045670",
+  "fullDetails": {
+    "licenseNumber": "12045670",
+    "name": "PROMINENT HOMES",
+    "address": "1638 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-06-13T05:53:46.000Z",
+    "expiryDate": "2026-06-12T05:53:46.000Z",
+    "coordinates": [
+      -114.0984236,
+      51.0445765
+    ],
+    "longitude": -114.0984236,
+    "latitude": 51.0445765,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

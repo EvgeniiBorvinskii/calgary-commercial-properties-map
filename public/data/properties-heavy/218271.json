@@ -1,0 +1,37 @@
+{
+  "id": "218271",
+  "fullDetails": {
+    "licenseNumber": "218271",
+    "name": "MCKENZIE LAKE COMMUNITY ASSOC",
+    "address": "16198 MCKENZIE LAKE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9835776,
+      50.9062842
+    ],
+    "longitude": -113.9835776,
+    "latitude": 50.9062842,
+    "community": "MCKENZIE LAKE",
+    "ward": "MCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

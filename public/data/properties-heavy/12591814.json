@@ -1,0 +1,36 @@
+{
+  "id": "12591814",
+  "fullDetails": {
+    "licenseNumber": "12591814",
+    "name": "ATLAS ANCHOR SYSTEMS",
+    "address": "#8 2928 18 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-12-13T15:31:15.000Z",
+    "expiryDate": "2026-12-12T15:31:15.000Z",
+    "coordinates": [
+      -114.0137634,
+      51.0787656
+    ],
+    "longitude": -114.0137634,
+    "latitude": 51.0787656,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

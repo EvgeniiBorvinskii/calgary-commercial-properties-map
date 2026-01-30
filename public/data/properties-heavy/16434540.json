@@ -1,0 +1,37 @@
+{
+  "id": "16434540",
+  "fullDetails": {
+    "licenseNumber": "16434540",
+    "name": "JJ GOLF",
+    "address": "7825 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-01-05T12:19:52.000Z",
+    "expiryDate": "2027-01-04T12:19:52.000Z",
+    "coordinates": [
+      -114.0694589,
+      50.9836024
+    ],
+    "longitude": -114.0694589,
+    "latitude": 50.9836024,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

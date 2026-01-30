@@ -1,0 +1,36 @@
+{
+  "id": "636399",
+  "fullDetails": {
+    "licenseNumber": "636399",
+    "name": "PETLAND",
+    "address": "40 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-21T00:00:00.000Z",
+    "coordinates": [
+      -114.1994354,
+      51.1278925
+    ],
+    "longitude": -114.1994354,
+    "latitude": 51.1278925,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

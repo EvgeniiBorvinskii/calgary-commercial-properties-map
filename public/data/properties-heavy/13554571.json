@@ -1,0 +1,36 @@
+{
+  "id": "13554571",
+  "fullDetails": {
+    "licenseNumber": "13554571",
+    "name": "TELUS",
+    "address": "#505 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-22T10:07:38.000Z",
+    "expiryDate": "2026-05-21T10:07:38.000Z",
+    "coordinates": [
+      -114.0558817,
+      51.1549585
+    ],
+    "longitude": -114.0558817,
+    "latitude": 51.1549585,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

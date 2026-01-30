@@ -1,0 +1,36 @@
+{
+  "id": "14394803",
+  "fullDetails": {
+    "licenseNumber": "14394803",
+    "name": "GLASSMASTERS AUTOGLASS",
+    "address": "#3 7819 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-02-01T12:24:03.000Z",
+    "expiryDate": "2027-01-31T12:24:03.000Z",
+    "coordinates": [
+      -114.1995925,
+      51.1536461
+    ],
+    "longitude": -114.1995925,
+    "latitude": 51.1536461,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

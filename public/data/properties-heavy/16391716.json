@@ -1,0 +1,36 @@
+{
+  "id": "16391716",
+  "fullDetails": {
+    "licenseNumber": "16391716",
+    "name": "OVEN FLAMES PIZZA DOVER",
+    "address": "4024 26 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-10-11T10:07:22.000Z",
+    "expiryDate": "2026-10-10T10:07:22.000Z",
+    "coordinates": [
+      -113.9985036,
+      51.018085
+    ],
+    "longitude": -113.9985036,
+    "latitude": 51.018085,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

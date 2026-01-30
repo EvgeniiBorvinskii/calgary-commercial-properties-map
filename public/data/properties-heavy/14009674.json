@@ -1,0 +1,36 @@
+{
+  "id": "14009674",
+  "fullDetails": {
+    "licenseNumber": "14009674",
+    "name": "WILD BIRD STORE (THE)",
+    "address": "5901 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - NO PREMISES",
+    "licenseTypes": "RETAIL DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-01T11:38:42.000Z",
+    "expiryDate": "2026-09-30T11:38:42.000Z",
+    "coordinates": [
+      -114.0575554,
+      51.0008354
+    ],
+    "longitude": -114.0575554,
+    "latitude": 51.0008354,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

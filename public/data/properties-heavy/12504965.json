@@ -1,0 +1,36 @@
+{
+  "id": "12504965",
+  "fullDetails": {
+    "licenseNumber": "12504965",
+    "name": "WESTPOWER EQUIPMENT",
+    "address": "4451 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-09-27T09:49:48.000Z",
+    "expiryDate": "2026-09-26T09:49:48.000Z",
+    "coordinates": [
+      -113.9706885,
+      51.0032034
+    ],
+    "longitude": -113.9706885,
+    "latitude": 51.0032034,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

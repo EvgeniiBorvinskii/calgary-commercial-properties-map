@@ -1,0 +1,36 @@
+{
+  "id": "881417",
+  "fullDetails": {
+    "licenseNumber": "881417",
+    "name": "A P C NUTRITION",
+    "address": "7115 OGDEN DALE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-10-15T13:14:45.000Z",
+    "expiryDate": "2026-10-14T13:14:45.000Z",
+    "coordinates": [
+      -113.9877376,
+      50.9911571
+    ],
+    "longitude": -113.9877376,
+    "latitude": 50.9911571,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

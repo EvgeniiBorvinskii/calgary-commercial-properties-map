@@ -1,0 +1,36 @@
+{
+  "id": "13923719",
+  "fullDetails": {
+    "licenseNumber": "13923719",
+    "name": "DUDE SCREEN PRINTING (THE)",
+    "address": "#101 3424 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-06-29T14:25:34.000Z",
+    "expiryDate": "2026-06-28T14:25:34.000Z",
+    "coordinates": [
+      -113.9944343,
+      51.0837477
+    ],
+    "longitude": -113.9944343,
+    "latitude": 51.0837477,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

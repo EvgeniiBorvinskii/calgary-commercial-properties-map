@@ -1,0 +1,36 @@
+{
+  "id": "14045124",
+  "fullDetails": {
+    "licenseNumber": "14045124",
+    "name": "CARL'S JR.",
+    "address": "1140 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-12-01T11:09:45.000Z",
+    "expiryDate": "2026-11-30T11:09:45.000Z",
+    "coordinates": [
+      -114.0869629,
+      51.067301
+    ],
+    "longitude": -114.0869629,
+    "latitude": 51.067301,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

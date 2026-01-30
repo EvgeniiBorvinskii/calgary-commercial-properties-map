@@ -1,0 +1,36 @@
+{
+  "id": "16188732",
+  "fullDetails": {
+    "licenseNumber": "16188732",
+    "name": "A CLASS TRUCK AND TRAILER REPAIR",
+    "address": "6213 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-09-18T15:57:22.000Z",
+    "expiryDate": "2026-09-17T15:57:22.000Z",
+    "coordinates": [
+      -113.9895181,
+      50.9975764
+    ],
+    "longitude": -113.9895181,
+    "latitude": 50.9975764,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

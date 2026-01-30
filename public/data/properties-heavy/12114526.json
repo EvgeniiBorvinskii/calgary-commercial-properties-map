@@ -1,0 +1,37 @@
+{
+  "id": "12114526",
+  "fullDetails": {
+    "licenseNumber": "12114526",
+    "name": "7 ELEVEN FOOD STORE #33169",
+    "address": "#2 1704 61 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2002-10-01T17:12:12.000Z",
+    "expiryDate": "2026-09-30T05:33:25.000Z",
+    "coordinates": [
+      -113.9421597,
+      51.0384699
+    ],
+    "longitude": -113.9421597,
+    "latitude": 51.0384699,
+    "community": "RED CARPET",
+    "ward": "RED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

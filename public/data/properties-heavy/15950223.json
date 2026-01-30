@@ -1,0 +1,36 @@
+{
+  "id": "15950223",
+  "fullDetails": {
+    "licenseNumber": "15950223",
+    "name": "VBS SPORTSWEAR",
+    "address": "#6 2023 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-12-03T16:21:33.000Z",
+    "expiryDate": "2026-12-02T16:21:33.000Z",
+    "coordinates": [
+      -114.0066539,
+      51.0503135
+    ],
+    "longitude": -114.0066539,
+    "latitude": 51.0503135,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13810452",
+  "fullDetails": {
+    "licenseNumber": "13810452",
+    "name": "T & A VIETNAMESE CUISINE",
+    "address": "611 6 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2014-03-03T11:39:58.000Z",
+    "expiryDate": "2026-03-02T11:39:58.000Z",
+    "coordinates": [
+      -114.0764342,
+      51.0475734
+    ],
+    "longitude": -114.0764342,
+    "latitude": 51.0475734,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

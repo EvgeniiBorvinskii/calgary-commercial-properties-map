@@ -1,0 +1,36 @@
+{
+  "id": "977173",
+  "fullDetails": {
+    "licenseNumber": "977173",
+    "name": "CABLEWORKS MANUFACTURING",
+    "address": "#9 6565 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-21T00:00:00.000Z",
+    "coordinates": [
+      -113.9771608,
+      50.9953977
+    ],
+    "longitude": -113.9771608,
+    "latitude": 50.9953977,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

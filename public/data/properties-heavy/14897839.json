@@ -1,0 +1,37 @@
+{
+  "id": "14897839",
+  "fullDetails": {
+    "licenseNumber": "14897839",
+    "name": "5052 CUSTOM FAB",
+    "address": "#7 1231 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-05-08T10:40:20.000Z",
+    "expiryDate": "2026-05-07T10:40:20.000Z",
+    "coordinates": [
+      -114.0322303,
+      51.0849175
+    ],
+    "longitude": -114.0322303,
+    "latitude": 51.0849175,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

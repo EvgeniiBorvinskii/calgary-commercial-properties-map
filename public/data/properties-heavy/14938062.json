@@ -1,0 +1,36 @@
+{
+  "id": "14938062",
+  "fullDetails": {
+    "licenseNumber": "14938062",
+    "name": "DOCTOR DETAIL AUTO SALON",
+    "address": "10201 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2018-06-22T11:43:50.000Z",
+    "expiryDate": "2026-06-21T11:43:50.000Z",
+    "coordinates": [
+      -114.0734438,
+      50.9639111
+    ],
+    "longitude": -114.0734438,
+    "latitude": 50.9639111,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

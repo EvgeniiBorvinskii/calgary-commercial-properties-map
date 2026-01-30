@@ -1,0 +1,37 @@
+{
+  "id": "16305856",
+  "fullDetails": {
+    "licenseNumber": "16305856",
+    "name": "TWISTED INDIAN SOUTH CALGARY",
+    "address": "#340 200 HARTELL WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-05-25T14:01:37.000Z",
+    "expiryDate": "2026-05-24T14:01:36.000Z",
+    "coordinates": [
+      -114.0271543,
+      50.864269
+    ],
+    "longitude": -114.0271543,
+    "latitude": 50.864269,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16255499",
+  "fullDetails": {
+    "licenseNumber": "16255499",
+    "name": "SERVBOND",
+    "address": "#200 940 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "pending",
+    "issuedDate": "2023-01-24T11:12:37.000Z",
+    "expiryDate": "2026-01-23T11:12:37.000Z",
+    "coordinates": [
+      -114.0830987,
+      51.0482952
+    ],
+    "longitude": -114.0830987,
+    "latitude": 51.0482952,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

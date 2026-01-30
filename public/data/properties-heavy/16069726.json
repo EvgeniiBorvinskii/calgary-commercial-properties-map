@@ -1,0 +1,36 @@
+{
+  "id": "16069726",
+  "fullDetails": {
+    "licenseNumber": "16069726",
+    "name": "BABY GOURMET FOODS",
+    "address": "#115 11505 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-21T12:02:01.000Z",
+    "expiryDate": "2026-10-20T12:02:01.000Z",
+    "coordinates": [
+      -113.9858676,
+      50.9483443
+    ],
+    "longitude": -113.9858676,
+    "latitude": 50.9483443,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

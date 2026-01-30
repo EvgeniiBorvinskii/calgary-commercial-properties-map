@@ -1,0 +1,36 @@
+{
+  "id": "16155533",
+  "fullDetails": {
+    "licenseNumber": "16155533",
+    "name": "ALBERTA SIDING PROJECTS",
+    "address": "3411B 10 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-27T10:04:27.000Z",
+    "expiryDate": "2026-05-26T10:04:27.000Z",
+    "coordinates": [
+      -114.0387224,
+      51.0243418
+    ],
+    "longitude": -114.0387224,
+    "latitude": 51.0243418,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

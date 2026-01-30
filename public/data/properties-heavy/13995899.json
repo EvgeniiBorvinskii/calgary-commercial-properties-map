@@ -1,0 +1,37 @@
+{
+  "id": "13995899",
+  "fullDetails": {
+    "licenseNumber": "13995899",
+    "name": "RB CANADIAN LIQUOR STORE",
+    "address": "#36 20 DOUGLAS WOODS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-09-18T13:28:46.000Z",
+    "expiryDate": "2026-09-17T13:28:46.000Z",
+    "coordinates": [
+      -114.0016849,
+      50.9434811
+    ],
+    "longitude": -114.0016849,
+    "latitude": 50.9434811,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

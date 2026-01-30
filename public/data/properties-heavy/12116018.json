@@ -1,0 +1,36 @@
+{
+  "id": "12116018",
+  "fullDetails": {
+    "licenseNumber": "12116018",
+    "name": "MAX-QUIP",
+    "address": "#A 6235 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-08-05T05:28:51.000Z",
+    "expiryDate": "2026-08-04T05:28:51.000Z",
+    "coordinates": [
+      -113.9445779,
+      50.9756332
+    ],
+    "longitude": -113.9445779,
+    "latitude": 50.9756332,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

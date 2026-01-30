@@ -1,0 +1,36 @@
+{
+  "id": "16250300",
+  "fullDetails": {
+    "licenseNumber": "16250300",
+    "name": "ACTION GLOBAL CONSULTING",
+    "address": "#300 815 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-22T10:34:06.000Z",
+    "expiryDate": "2026-09-21T10:34:06.000Z",
+    "coordinates": [
+      -114.0797163,
+      51.0457458
+    ],
+    "longitude": -114.0797163,
+    "latitude": 51.0457458,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

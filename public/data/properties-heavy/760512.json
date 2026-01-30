@@ -1,0 +1,37 @@
+{
+  "id": "760512",
+  "fullDetails": {
+    "licenseNumber": "760512",
+    "name": "BOLD SIGN RENTALS & SALES",
+    "address": "9508 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-11-20T13:42:05.000Z",
+    "expiryDate": "2026-11-19T13:42:04.000Z",
+    "coordinates": [
+      -114.0753771,
+      50.9705443
+    ],
+    "longitude": -114.0753771,
+    "latitude": 50.9705443,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

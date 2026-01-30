@@ -1,0 +1,36 @@
+{
+  "id": "16651804",
+  "fullDetails": {
+    "licenseNumber": "16651804",
+    "name": "COLLECTORS CLOSET",
+    "address": "3720 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-08-27T14:55:22.000Z",
+    "expiryDate": "2026-08-26T14:55:22.000Z",
+    "coordinates": [
+      -113.9804796,
+      51.0380798
+    ],
+    "longitude": -113.9804796,
+    "latitude": 51.0380798,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

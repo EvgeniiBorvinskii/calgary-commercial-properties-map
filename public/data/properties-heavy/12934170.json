@@ -1,0 +1,36 @@
+{
+  "id": "12934170",
+  "fullDetails": {
+    "licenseNumber": "12934170",
+    "name": "VANTAGE ELECTRIC",
+    "address": "#1 2421 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-01-27T14:19:52.000Z",
+    "expiryDate": "2027-01-26T14:19:52.000Z",
+    "coordinates": [
+      -114.002863,
+      51.0522049
+    ],
+    "longitude": -114.002863,
+    "latitude": 51.0522049,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

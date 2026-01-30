@@ -1,0 +1,36 @@
+{
+  "id": "13790555",
+  "fullDetails": {
+    "licenseNumber": "13790555",
+    "name": "XPERA RISK MITIGATION AND INVESTIGATION",
+    "address": "#3 5558 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECURITY CONSULTING AGENCY",
+    "licenseTypes": "SECURITY CONSULTING AGENCY",
+    "status": "active",
+    "issuedDate": "2024-12-04T07:36:32.000Z",
+    "expiryDate": "2026-12-03T07:36:31.000Z",
+    "coordinates": [
+      -114.0613924,
+      51.0048132
+    ],
+    "longitude": -114.0613924,
+    "latitude": 51.0048132,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

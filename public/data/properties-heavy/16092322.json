@@ -1,0 +1,36 @@
+{
+  "id": "16092322",
+  "fullDetails": {
+    "licenseNumber": "16092322",
+    "name": "DESNA CONTROLS AND WEIGHING",
+    "address": "13915 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-05-01T13:23:22.000Z",
+    "expiryDate": "2026-04-30T13:23:21.000Z",
+    "coordinates": [
+      -113.9596408,
+      51.178568
+    ],
+    "longitude": -113.9596408,
+    "latitude": 51.178568,
+    "community": "RESIDUAL WARD 5 - SUB AREA 5D",
+    "ward": "05D",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

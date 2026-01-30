@@ -1,0 +1,36 @@
+{
+  "id": "14900187",
+  "fullDetails": {
+    "licenseNumber": "14900187",
+    "name": "COUNTRY MALT GROUP",
+    "address": "#105 7007 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-27T14:11:03.000Z",
+    "expiryDate": "2026-08-26T14:11:03.000Z",
+    "coordinates": [
+      -113.9573303,
+      50.9925853
+    ],
+    "longitude": -113.9573303,
+    "latitude": 50.9925853,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

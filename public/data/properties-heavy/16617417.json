@@ -1,0 +1,36 @@
+{
+  "id": "16617417",
+  "fullDetails": {
+    "licenseNumber": "16617417",
+    "name": "PRAIRIE DONAIR",
+    "address": "#820 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-04-30T16:05:04.000Z",
+    "expiryDate": "2026-04-29T16:05:03.000Z",
+    "coordinates": [
+      -114.1983478,
+      51.1252083
+    ],
+    "longitude": -114.1983478,
+    "latitude": 51.1252083,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

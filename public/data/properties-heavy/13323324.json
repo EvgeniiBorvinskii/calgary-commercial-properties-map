@@ -1,0 +1,36 @@
+{
+  "id": "13323324",
+  "fullDetails": {
+    "licenseNumber": "13323324",
+    "name": "STITCH IT",
+    "address": "#F13 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-12-02T05:40:11.000Z",
+    "expiryDate": "2026-12-01T05:40:11.000Z",
+    "coordinates": [
+      -114.155707,
+      51.0859408
+    ],
+    "longitude": -114.155707,
+    "latitude": 51.0859408,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

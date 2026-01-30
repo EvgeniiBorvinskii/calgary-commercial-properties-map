@@ -1,0 +1,36 @@
+{
+  "id": "15676661",
+  "fullDetails": {
+    "licenseNumber": "15676661",
+    "name": "CLOUD-520",
+    "address": "#120 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2021-03-31T15:38:44.000Z",
+    "expiryDate": "2026-03-30T15:38:44.000Z",
+    "coordinates": [
+      -114.026369,
+      50.8615969
+    ],
+    "longitude": -114.026369,
+    "latitude": 50.8615969,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

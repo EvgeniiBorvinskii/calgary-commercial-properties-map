@@ -1,0 +1,36 @@
+{
+  "id": "15945322",
+  "fullDetails": {
+    "licenseNumber": "15945322",
+    "name": "DHILLON PRINTING",
+    "address": "#521 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-27T12:11:54.000Z",
+    "expiryDate": "2026-10-26T12:11:54.000Z",
+    "coordinates": [
+      -113.9615257,
+      51.0968573
+    ],
+    "longitude": -113.9615257,
+    "latitude": 51.0968573,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

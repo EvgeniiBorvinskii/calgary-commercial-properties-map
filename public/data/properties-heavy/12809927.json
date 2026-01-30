@@ -1,0 +1,36 @@
+{
+  "id": "12809927",
+  "fullDetails": {
+    "licenseNumber": "12809927",
+    "name": "MOTORWERKES",
+    "address": "5122 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-01-11T05:32:37.000Z",
+    "expiryDate": "2027-01-10T05:32:37.000Z",
+    "coordinates": [
+      -114.0564852,
+      51.0077546
+    ],
+    "longitude": -114.0564852,
+    "latitude": 51.0077546,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

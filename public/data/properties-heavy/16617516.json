@@ -1,0 +1,37 @@
+{
+  "id": "16617516",
+  "fullDetails": {
+    "licenseNumber": "16617516",
+    "name": "LOBBY BAR (THE)",
+    "address": "#101 538 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-04-29T10:23:14.000Z",
+    "expiryDate": "2026-04-28T10:23:13.000Z",
+    "coordinates": [
+      -114.0731538,
+      51.043781
+    ],
+    "longitude": -114.0731538,
+    "latitude": 51.043781,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

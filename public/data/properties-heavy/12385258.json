@@ -1,0 +1,36 @@
+{
+  "id": "12385258",
+  "fullDetails": {
+    "licenseNumber": "12385258",
+    "name": "LEVEL 2 SPORTSWEAR",
+    "address": "3443 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-01-07T16:01:17.000Z",
+    "expiryDate": "2027-01-06T16:01:17.000Z",
+    "coordinates": [
+      -114.0303556,
+      51.0828924
+    ],
+    "longitude": -114.0303556,
+    "latitude": 51.0828924,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

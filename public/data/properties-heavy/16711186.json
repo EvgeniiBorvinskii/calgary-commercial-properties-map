@@ -1,0 +1,36 @@
+{
+  "id": "16711186",
+  "fullDetails": {
+    "licenseNumber": "16711186",
+    "name": "PAL TRADING",
+    "address": "6210 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2026-01-16T11:47:57.000Z",
+    "expiryDate": "2027-01-15T11:47:57.000Z",
+    "coordinates": [
+      -113.9637428,
+      50.9981718
+    ],
+    "longitude": -113.9637428,
+    "latitude": 50.9981718,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

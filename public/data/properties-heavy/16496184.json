@@ -1,0 +1,36 @@
+{
+  "id": "16496184",
+  "fullDetails": {
+    "licenseNumber": "16496184",
+    "name": "REGRUB (CGY-2228)",
+    "address": "#100 625 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-27T05:33:44.000Z",
+    "expiryDate": "2026-06-26T05:33:44.000Z",
+    "coordinates": [
+      -114.0754068,
+      51.0425043
+    ],
+    "longitude": -114.0754068,
+    "latitude": 51.0425043,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

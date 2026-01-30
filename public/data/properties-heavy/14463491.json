@@ -1,0 +1,36 @@
+{
+  "id": "14463491",
+  "fullDetails": {
+    "licenseNumber": "14463491",
+    "name": "PEOPLE DRIVING ACADEMY",
+    "address": "#6190 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "pending",
+    "issuedDate": "2021-03-18T13:01:19.000Z",
+    "expiryDate": "2026-03-17T13:01:19.000Z",
+    "coordinates": [
+      -113.9495582,
+      51.1335789
+    ],
+    "longitude": -113.9495582,
+    "latitude": 51.1335789,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

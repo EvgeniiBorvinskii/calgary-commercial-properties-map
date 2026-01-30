@@ -1,0 +1,36 @@
+{
+  "id": "13728670",
+  "fullDetails": {
+    "licenseNumber": "13728670",
+    "name": "BLACK SHEEP MATTRESS COMPANY",
+    "address": "601 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-12-01T10:28:11.000Z",
+    "expiryDate": "2026-11-30T10:28:11.000Z",
+    "coordinates": [
+      -114.0511198,
+      51.0102339
+    ],
+    "longitude": -114.0511198,
+    "latitude": 51.0102339,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16113110",
+  "fullDetails": {
+    "licenseNumber": "16113110",
+    "name": "D SPOT DESSERT CAFE",
+    "address": "#120 75 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-02-03T14:47:53.000Z",
+    "expiryDate": "2026-02-02T14:47:53.000Z",
+    "coordinates": [
+      -114.1452133,
+      51.1692799
+    ],
+    "longitude": -114.1452133,
+    "latitude": 51.1692799,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

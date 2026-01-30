@@ -1,0 +1,36 @@
+{
+  "id": "16088858",
+  "fullDetails": {
+    "licenseNumber": "16088858",
+    "name": "APARTMENT",
+    "address": "128 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2022-02-03T15:13:42.000Z",
+    "expiryDate": "2026-02-02T15:13:42.000Z",
+    "coordinates": [
+      -114.0607914,
+      51.0735289
+    ],
+    "longitude": -114.0607914,
+    "latitude": 51.0735289,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

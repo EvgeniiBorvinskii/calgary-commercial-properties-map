@@ -1,0 +1,36 @@
+{
+  "id": "16667560",
+  "fullDetails": {
+    "licenseNumber": "16667560",
+    "name": "SUNSHIELD TECH",
+    "address": "#1190 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-10-09T09:23:19.000Z",
+    "expiryDate": "2026-10-08T09:23:19.000Z",
+    "coordinates": [
+      -113.9797876,
+      51.1107813
+    ],
+    "longitude": -113.9797876,
+    "latitude": 51.1107813,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

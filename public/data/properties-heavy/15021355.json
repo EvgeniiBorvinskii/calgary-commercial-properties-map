@@ -1,0 +1,36 @@
+{
+  "id": "15021355",
+  "fullDetails": {
+    "licenseNumber": "15021355",
+    "name": "TAMARA J TRAINING",
+    "address": "4114 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-09-17T10:18:52.000Z",
+    "expiryDate": "2026-09-16T10:18:51.000Z",
+    "coordinates": [
+      -114.0426599,
+      51.0177693
+    ],
+    "longitude": -114.0426599,
+    "latitude": 51.0177693,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

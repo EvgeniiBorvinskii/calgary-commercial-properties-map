@@ -1,0 +1,36 @@
+{
+  "id": "12590501",
+  "fullDetails": {
+    "licenseNumber": "12590501",
+    "name": "VISIONQUEST EYEWEAR",
+    "address": "#1000 9650 HARVEST HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-08-24T07:57:16.000Z",
+    "expiryDate": "2026-08-23T07:57:16.000Z",
+    "coordinates": [
+      -114.0686338,
+      51.1403949
+    ],
+    "longitude": -114.0686338,
+    "latitude": 51.1403949,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

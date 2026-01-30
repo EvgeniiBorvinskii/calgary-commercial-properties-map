@@ -1,0 +1,36 @@
+{
+  "id": "14947824",
+  "fullDetails": {
+    "licenseNumber": "14947824",
+    "name": "DCC HAIL",
+    "address": "#3 47 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2018-07-05T14:38:58.000Z",
+    "expiryDate": "2026-07-04T14:38:58.000Z",
+    "coordinates": [
+      -114.0376106,
+      51.1217474
+    ],
+    "longitude": -114.0376106,
+    "latitude": 51.1217474,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

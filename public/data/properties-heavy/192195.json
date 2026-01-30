@@ -1,0 +1,36 @@
+{
+  "id": "192195",
+  "fullDetails": {
+    "licenseNumber": "192195",
+    "name": "T L C AUTO DETAIL",
+    "address": "#300P 222 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2009-02-11T10:57:14.000Z",
+    "expiryDate": "2027-02-10T10:57:14.000Z",
+    "coordinates": [
+      -114.066277,
+      51.0506786
+    ],
+    "longitude": -114.066277,
+    "latitude": 51.0506786,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13628870",
+  "fullDetails": {
+    "licenseNumber": "13628870",
+    "name": "ALTAWEST AUTO SALES",
+    "address": "102 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-02-14T12:14:14.000Z",
+    "expiryDate": "2026-02-13T12:14:14.000Z",
+    "coordinates": [
+      -114.0658069,
+      51.0019225
+    ],
+    "longitude": -114.0658069,
+    "latitude": 51.0019225,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

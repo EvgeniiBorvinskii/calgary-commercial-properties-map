@@ -1,0 +1,36 @@
+{
+  "id": "12081295",
+  "fullDetails": {
+    "licenseNumber": "12081295",
+    "name": "LAYFIELD CANADA",
+    "address": "#5 10551 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-07-28T11:38:53.000Z",
+    "expiryDate": "2026-07-27T11:38:53.000Z",
+    "coordinates": [
+      -113.9625676,
+      50.9601186
+    ],
+    "longitude": -113.9625676,
+    "latitude": 50.9601186,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

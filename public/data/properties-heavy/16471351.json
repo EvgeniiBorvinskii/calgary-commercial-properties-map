@@ -1,0 +1,36 @@
+{
+  "id": "16471351",
+  "fullDetails": {
+    "licenseNumber": "16471351",
+    "name": "PRAIRIE RECORDS",
+    "address": "4420D 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2024-04-02T08:41:31.000Z",
+    "expiryDate": "2026-04-01T08:41:31.000Z",
+    "coordinates": [
+      -113.9703236,
+      51.0382225
+    ],
+    "longitude": -113.9703236,
+    "latitude": 51.0382225,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

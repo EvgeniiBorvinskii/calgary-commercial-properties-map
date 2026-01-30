@@ -1,0 +1,36 @@
+{
+  "id": "13626445",
+  "fullDetails": {
+    "licenseNumber": "13626445",
+    "name": "FREEDOM MOBILE",
+    "address": "#140 55 CASTLERIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-04-11T15:22:34.000Z",
+    "expiryDate": "2026-04-10T15:22:34.000Z",
+    "coordinates": [
+      -113.9607456,
+      51.0981438
+    ],
+    "longitude": -113.9607456,
+    "latitude": 51.0981438,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

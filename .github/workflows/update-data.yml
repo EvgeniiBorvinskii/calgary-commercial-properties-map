@@ -1,0 +1,16 @@
+name: Update Calgary Data
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Каждый час
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Trigger API Update
+        run: |
+          curl -X POST ${{ secrets.SITE_URL }}/api/update
+          echo "Data update triggered successfully"

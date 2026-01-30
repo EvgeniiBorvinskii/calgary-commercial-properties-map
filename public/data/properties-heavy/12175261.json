@@ -1,0 +1,36 @@
+{
+  "id": "12175261",
+  "fullDetails": {
+    "licenseNumber": "12175261",
+    "name": "SUBWAY SANDWICHES",
+    "address": "2000 AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2003-02-20T05:36:04.000Z",
+    "expiryDate": "2026-02-19T05:36:04.000Z",
+    "coordinates": [
+      -114.0104184,
+      51.1312263
+    ],
+    "longitude": -114.0104184,
+    "latitude": 51.1312263,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

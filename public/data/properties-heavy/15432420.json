@@ -1,0 +1,36 @@
+{
+  "id": "15432420",
+  "fullDetails": {
+    "licenseNumber": "15432420",
+    "name": "PRECISION JEWELLERY MANUFACTURING",
+    "address": "#115 1925 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-04-11T09:46:00.000Z",
+    "expiryDate": "2026-04-10T09:46:00.000Z",
+    "coordinates": [
+      -114.0158663,
+      51.0679823
+    ],
+    "longitude": -114.0158663,
+    "latitude": 51.0679823,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

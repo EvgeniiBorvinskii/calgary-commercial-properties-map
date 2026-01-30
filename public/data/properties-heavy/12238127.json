@@ -1,0 +1,36 @@
+{
+  "id": "12238127",
+  "fullDetails": {
+    "licenseNumber": "12238127",
+    "name": "CAN WEST LEGACY",
+    "address": "#34 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-08-27T05:31:57.000Z",
+    "expiryDate": "2026-08-26T05:31:57.000Z",
+    "coordinates": [
+      -113.9756765,
+      51.0039503
+    ],
+    "longitude": -113.9756765,
+    "latitude": 51.0039503,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

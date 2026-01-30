@@ -1,0 +1,37 @@
+{
+  "id": "13555594",
+  "fullDetails": {
+    "licenseNumber": "13555594",
+    "name": "SECOND CUP",
+    "address": "#107 1660 12 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2012-09-10T13:16:21.000Z",
+    "expiryDate": "2026-09-09T13:16:21.000Z",
+    "coordinates": [
+      -114.0891252,
+      51.066463
+    ],
+    "longitude": -114.0891252,
+    "latitude": 51.066463,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

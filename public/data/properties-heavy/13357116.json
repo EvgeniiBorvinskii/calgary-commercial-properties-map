@@ -1,0 +1,36 @@
+{
+  "id": "13357116",
+  "fullDetails": {
+    "licenseNumber": "13357116",
+    "name": "GLOBAL DESIGN",
+    "address": "#105 10960 42 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-10-07T12:18:31.000Z",
+    "expiryDate": "2026-10-06T12:18:31.000Z",
+    "coordinates": [
+      -113.9719657,
+      51.1521226
+    ],
+    "longitude": -113.9719657,
+    "latitude": 51.1521226,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

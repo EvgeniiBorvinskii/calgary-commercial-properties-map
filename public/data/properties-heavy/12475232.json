@@ -1,0 +1,36 @@
+{
+  "id": "12475232",
+  "fullDetails": {
+    "licenseNumber": "12475232",
+    "name": "URBAN BARN",
+    "address": "650 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-06-21T13:22:51.000Z",
+    "expiryDate": "2026-06-20T13:22:51.000Z",
+    "coordinates": [
+      -114.1712186,
+      51.0166596
+    ],
+    "longitude": -114.1712186,
+    "latitude": 51.0166596,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

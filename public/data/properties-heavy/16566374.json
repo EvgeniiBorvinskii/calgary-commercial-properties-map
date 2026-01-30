@@ -1,0 +1,36 @@
+{
+  "id": "16566374",
+  "fullDetails": {
+    "licenseNumber": "16566374",
+    "name": "PHOENIX TRUCK BED COVERS",
+    "address": "1120E 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-12-02T15:34:18.000Z",
+    "expiryDate": "2026-12-01T15:34:17.000Z",
+    "coordinates": [
+      -114.0399444,
+      51.0141921
+    ],
+    "longitude": -114.0399444,
+    "latitude": 51.0141921,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

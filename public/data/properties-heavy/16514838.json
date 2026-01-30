@@ -1,0 +1,37 @@
+{
+  "id": "16514838",
+  "fullDetails": {
+    "licenseNumber": "16514838",
+    "name": "TESSYMARTY AFRICAN MARKET",
+    "address": "#230 45 CARRINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-06T16:09:10.000Z",
+    "expiryDate": "2026-11-05T16:09:09.000Z",
+    "coordinates": [
+      -114.0752571,
+      51.1829287
+    ],
+    "longitude": -114.0752571,
+    "latitude": 51.1829287,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

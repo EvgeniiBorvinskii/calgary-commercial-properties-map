@@ -1,0 +1,36 @@
+{
+  "id": "16339327",
+  "fullDetails": {
+    "licenseNumber": "16339327",
+    "name": "HAMMER EQUIPMENT",
+    "address": "4507 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-07-07T14:51:03.000Z",
+    "expiryDate": "2026-07-06T14:51:03.000Z",
+    "coordinates": [
+      -114.0362045,
+      51.0130935
+    ],
+    "longitude": -114.0362045,
+    "latitude": 51.0130935,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13569934",
+  "fullDetails": {
+    "licenseNumber": "13569934",
+    "name": "A I P SAFETY",
+    "address": "5716 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-12-13T15:35:24.000Z",
+    "expiryDate": "2026-12-12T15:35:24.000Z",
+    "coordinates": [
+      -114.044233,
+      51.0032892
+    ],
+    "longitude": -114.044233,
+    "latitude": 51.0032892,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

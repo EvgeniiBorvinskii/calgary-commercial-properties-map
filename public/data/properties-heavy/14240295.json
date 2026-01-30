@@ -1,0 +1,36 @@
+{
+  "id": "14240295",
+  "fullDetails": {
+    "licenseNumber": "14240295",
+    "name": "COSTCO LIQUOR",
+    "address": "73 EAST HILLS BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2016-08-08T14:50:47.000Z",
+    "expiryDate": "2026-08-07T14:50:47.000Z",
+    "coordinates": [
+      -113.9167406,
+      51.04319
+    ],
+    "longitude": -113.9167406,
+    "latitude": 51.04319,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

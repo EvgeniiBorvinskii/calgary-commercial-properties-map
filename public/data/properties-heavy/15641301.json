@@ -1,0 +1,37 @@
+{
+  "id": "15641301",
+  "fullDetails": {
+    "licenseNumber": "15641301",
+    "name": "TRAIL APPLIANCES",
+    "address": "650 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-17T08:37:47.000Z",
+    "expiryDate": "2026-09-16T08:37:47.000Z",
+    "coordinates": [
+      -114.2049465,
+      51.128613
+    ],
+    "longitude": -114.2049465,
+    "latitude": 51.128613,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

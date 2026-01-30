@@ -1,0 +1,36 @@
+{
+  "id": "16202897",
+  "fullDetails": {
+    "licenseNumber": "16202897",
+    "name": "STONE HOUSE DECOR",
+    "address": "#216 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-14T12:45:04.000Z",
+    "expiryDate": "2026-10-13T12:45:04.000Z",
+    "coordinates": [
+      -114.0693803,
+      50.95662
+    ],
+    "longitude": -114.0693803,
+    "latitude": 50.95662,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

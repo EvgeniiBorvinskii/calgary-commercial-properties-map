@@ -1,0 +1,36 @@
+{
+  "id": "12920633",
+  "fullDetails": {
+    "licenseNumber": "12920633",
+    "name": "INDIGENOUS INCUBATOR",
+    "address": "911D 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-06-21T11:19:57.000Z",
+    "expiryDate": "2026-06-20T11:19:57.000Z",
+    "coordinates": [
+      -114.0415529,
+      51.0116294
+    ],
+    "longitude": -114.0415529,
+    "latitude": 51.0116294,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

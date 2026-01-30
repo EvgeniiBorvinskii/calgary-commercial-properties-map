@@ -1,0 +1,36 @@
+{
+  "id": "13997853",
+  "fullDetails": {
+    "licenseNumber": "13997853",
+    "name": "CATASTROPHE SOLUTIONS INTERNATIONAL",
+    "address": "#6 2220 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2018-04-21T05:32:14.000Z",
+    "expiryDate": "2026-04-20T05:32:14.000Z",
+    "coordinates": [
+      -114.007575,
+      51.0821985
+    ],
+    "longitude": -114.007575,
+    "latitude": 51.0821985,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

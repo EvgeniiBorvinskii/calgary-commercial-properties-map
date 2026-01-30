@@ -1,0 +1,37 @@
+{
+  "id": "16442121",
+  "fullDetails": {
+    "licenseNumber": "16442121",
+    "name": "EVERGREEN COMPOUNDING PHARMACY",
+    "address": "#130 2505 EVERSYDE AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-02T10:20:53.000Z",
+    "expiryDate": "2026-02-01T10:20:53.000Z",
+    "coordinates": [
+      -114.1177682,
+      50.9076014
+    ],
+    "longitude": -114.1177682,
+    "latitude": 50.9076014,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16586836",
+  "fullDetails": {
+    "licenseNumber": "16586836",
+    "name": "FANCY INDUCED BURGER (THE)",
+    "address": "1527 5 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-05-01T15:28:18.000Z",
+    "expiryDate": "2026-04-30T15:28:17.000Z",
+    "coordinates": [
+      -114.0747251,
+      51.0382501
+    ],
+    "longitude": -114.0747251,
+    "latitude": 51.0382501,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

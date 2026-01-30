@@ -1,0 +1,36 @@
+{
+  "id": "15292212",
+  "fullDetails": {
+    "licenseNumber": "15292212",
+    "name": "CANARY",
+    "address": "1120 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2024-10-08T10:13:57.000Z",
+    "expiryDate": "2026-10-07T10:13:56.000Z",
+    "coordinates": [
+      -114.0868968,
+      51.0527447
+    ],
+    "longitude": -114.0868968,
+    "latitude": 51.0527447,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

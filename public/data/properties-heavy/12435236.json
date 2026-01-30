@@ -1,0 +1,36 @@
+{
+  "id": "12435236",
+  "fullDetails": {
+    "licenseNumber": "12435236",
+    "name": "CARL MANOR",
+    "address": "306 20 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2006-02-09T05:36:10.000Z",
+    "expiryDate": "2026-02-08T05:36:10.000Z",
+    "coordinates": [
+      -114.0691567,
+      51.0355128
+    ],
+    "longitude": -114.0691567,
+    "latitude": 51.0355128,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

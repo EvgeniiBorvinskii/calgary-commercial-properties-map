@@ -1,0 +1,37 @@
+{
+  "id": "13298542",
+  "fullDetails": {
+    "licenseNumber": "13298542",
+    "name": "BROOKFIELD GAS FUEL MOBILE",
+    "address": "#L 5251 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2012-04-16T09:20:38.000Z",
+    "expiryDate": "2026-04-15T09:20:38.000Z",
+    "coordinates": [
+      -114.1612555,
+      51.1364851
+    ],
+    "longitude": -114.1612555,
+    "latitude": 51.1364851,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

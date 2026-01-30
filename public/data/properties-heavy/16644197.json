@@ -1,0 +1,37 @@
+{
+  "id": "16644197",
+  "fullDetails": {
+    "licenseNumber": "16644197",
+    "name": "HEIDELBERG MATERIALS CANADA",
+    "address": "10116 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T08:45:31.000Z",
+    "expiryDate": "2026-07-08T08:45:31.000Z",
+    "coordinates": [
+      -113.9931809,
+      50.9619704
+    ],
+    "longitude": -113.9931809,
+    "latitude": 50.9619704,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

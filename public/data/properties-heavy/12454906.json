@@ -1,0 +1,36 @@
+{
+  "id": "12454906",
+  "fullDetails": {
+    "licenseNumber": "12454906",
+    "name": "CANADIAN ENERGY CALGARY",
+    "address": "#119 10550 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2006-04-17T09:57:44.000Z",
+    "expiryDate": "2026-04-16T09:57:44.000Z",
+    "coordinates": [
+      -113.9731834,
+      50.9586674
+    ],
+    "longitude": -113.9731834,
+    "latitude": 50.9586674,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

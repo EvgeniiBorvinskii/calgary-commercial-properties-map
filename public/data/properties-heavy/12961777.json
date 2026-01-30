@@ -1,0 +1,36 @@
+{
+  "id": "12961777",
+  "fullDetails": {
+    "licenseNumber": "12961777",
+    "name": "MOULDING STORE (THE)",
+    "address": "2041 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-11-07T11:23:30.000Z",
+    "expiryDate": "2026-11-06T11:23:30.000Z",
+    "coordinates": [
+      -114.0062984,
+      51.0517571
+    ],
+    "longitude": -114.0062984,
+    "latitude": 51.0517571,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16608291",
+  "fullDetails": {
+    "licenseNumber": "16608291",
+    "name": "PHD BEAUTY",
+    "address": "#750 11012 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-04-14T08:31:07.000Z",
+    "expiryDate": "2026-04-13T08:31:06.000Z",
+    "coordinates": [
+      -114.069993,
+      50.9549237
+    ],
+    "longitude": -114.069993,
+    "latitude": 50.9549237,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

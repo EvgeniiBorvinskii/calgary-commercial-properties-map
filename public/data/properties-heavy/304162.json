@@ -1,0 +1,36 @@
+{
+  "id": "304162",
+  "fullDetails": {
+    "licenseNumber": "304162",
+    "name": "AMRIZE CANADA",
+    "address": "9028 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-06T00:00:00.000Z",
+    "coordinates": [
+      -113.9690607,
+      50.9728993
+    ],
+    "longitude": -113.9690607,
+    "latitude": 50.9728993,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

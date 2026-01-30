@@ -1,0 +1,37 @@
+{
+  "id": "72264",
+  "fullDetails": {
+    "licenseNumber": "72264",
+    "name": "TRIWOOD COMMUNITY",
+    "address": "2244 CHICOUTIMI DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1108929,
+      51.086283
+    ],
+    "longitude": -114.1108929,
+    "latitude": 51.086283,
+    "community": "CHARLESWOOD",
+    "ward": "CHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

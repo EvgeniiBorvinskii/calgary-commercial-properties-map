@@ -1,0 +1,36 @@
+{
+  "id": "12341038",
+  "fullDetails": {
+    "licenseNumber": "12341038",
+    "name": "TRIPLE SSS SPECIALTY WELDING AND FABRICATION",
+    "address": "9515 ENDEAVOR DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-05-11T10:36:22.000Z",
+    "expiryDate": "2026-05-10T10:36:22.000Z",
+    "coordinates": [
+      -113.8932957,
+      50.9672829
+    ],
+    "longitude": -113.8932957,
+    "latitude": 50.9672829,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

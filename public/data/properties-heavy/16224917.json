@@ -1,0 +1,37 @@
+{
+  "id": "16224917",
+  "fullDetails": {
+    "licenseNumber": "16224917",
+    "name": "CONVERGINT",
+    "address": "#240 6025 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-11-15T15:36:31.000Z",
+    "expiryDate": "2026-11-14T15:36:31.000Z",
+    "coordinates": [
+      -114.0383325,
+      50.9986578
+    ],
+    "longitude": -114.0383325,
+    "latitude": 50.9986578,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

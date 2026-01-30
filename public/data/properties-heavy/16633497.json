@@ -1,0 +1,36 @@
+{
+  "id": "16633497",
+  "fullDetails": {
+    "licenseNumber": "16633497",
+    "name": "PESTFORCE CALGARY",
+    "address": "516 MORAINE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-11T16:39:42.000Z",
+    "expiryDate": "2026-06-10T16:39:42.000Z",
+    "coordinates": [
+      -113.998408,
+      51.0560922
+    ],
+    "longitude": -113.998408,
+    "latitude": 51.0560922,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

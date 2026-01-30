@@ -1,0 +1,36 @@
+{
+  "id": "12726303",
+  "fullDetails": {
+    "licenseNumber": "12726303",
+    "name": "DOWNTOWN BROWN'S RAPID REPRO",
+    "address": "1415 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-09-28T15:35:22.000Z",
+    "expiryDate": "2026-09-27T15:35:21.000Z",
+    "coordinates": [
+      -114.0936571,
+      51.0523504
+    ],
+    "longitude": -114.0936571,
+    "latitude": 51.0523504,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

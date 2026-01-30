@@ -1,0 +1,36 @@
+{
+  "id": "16183063",
+  "fullDetails": {
+    "licenseNumber": "16183063",
+    "name": "ADAPTABILITY",
+    "address": "4035 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "pending",
+    "issuedDate": "2023-03-07T15:54:51.000Z",
+    "expiryDate": "2026-03-06T15:54:51.000Z",
+    "coordinates": [
+      -114.1456048,
+      51.0780898
+    ],
+    "longitude": -114.1456048,
+    "latitude": 51.0780898,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

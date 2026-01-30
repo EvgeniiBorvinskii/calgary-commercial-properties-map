@@ -1,0 +1,36 @@
+{
+  "id": "16569527",
+  "fullDetails": {
+    "licenseNumber": "16569527",
+    "name": "SIDHU TRAVELS INTERNATIONAL",
+    "address": "#1227 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-29T16:09:18.000Z",
+    "expiryDate": "2026-11-28T16:09:18.000Z",
+    "coordinates": [
+      -113.9654275,
+      51.1322671
+    ],
+    "longitude": -113.9654275,
+    "latitude": 51.1322671,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

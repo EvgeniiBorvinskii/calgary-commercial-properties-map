@@ -1,0 +1,36 @@
+{
+  "id": "16601783",
+  "fullDetails": {
+    "licenseNumber": "16601783",
+    "name": "DR. MOWER PARTS",
+    "address": "#107 90 FREEPORT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-05T15:13:38.000Z",
+    "expiryDate": "2026-03-04T15:13:38.000Z",
+    "coordinates": [
+      -114.0122761,
+      51.1515346
+    ],
+    "longitude": -114.0122761,
+    "latitude": 51.1515346,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

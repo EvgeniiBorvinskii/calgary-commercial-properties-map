@@ -1,0 +1,36 @@
+{
+  "id": "98343",
+  "fullDetails": {
+    "licenseNumber": "98343",
+    "name": "PRATTCO EXCAVATING",
+    "address": "3714 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-27T05:32:08.000Z",
+    "coordinates": [
+      -113.9792931,
+      51.1137582
+    ],
+    "longitude": -113.9792931,
+    "latitude": 51.1137582,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

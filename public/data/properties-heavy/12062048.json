@@ -1,0 +1,36 @@
+{
+  "id": "12062048",
+  "fullDetails": {
+    "licenseNumber": "12062048",
+    "name": "PIONEER PETROTECH SERVICES",
+    "address": "#105 1437 47 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-09-08T11:10:14.000Z",
+    "expiryDate": "2026-09-07T11:10:14.000Z",
+    "coordinates": [
+      -114.0289799,
+      51.094722
+    ],
+    "longitude": -114.0289799,
+    "latitude": 51.094722,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

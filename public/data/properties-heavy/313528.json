@@ -1,0 +1,36 @@
+{
+  "id": "313528",
+  "fullDetails": {
+    "licenseNumber": "313528",
+    "name": "RIDLEY'S CYCLE",
+    "address": "#101 223 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0861334,
+      51.0534808
+    ],
+    "longitude": -114.0861334,
+    "latitude": 51.0534808,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

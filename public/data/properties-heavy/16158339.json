@@ -1,0 +1,37 @@
+{
+  "id": "16158339",
+  "fullDetails": {
+    "licenseNumber": "16158339",
+    "name": "INDIAN OCEAN RESTAURANT",
+    "address": "2102 GLENMORE CO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-05-27T16:51:52.000Z",
+    "expiryDate": "2026-05-26T16:51:52.000Z",
+    "coordinates": [
+      -113.9966952,
+      50.9810279
+    ],
+    "longitude": -113.9966952,
+    "latitude": 50.9810279,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

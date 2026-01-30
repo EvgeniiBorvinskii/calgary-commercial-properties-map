@@ -1,0 +1,36 @@
+{
+  "id": "16433187",
+  "fullDetails": {
+    "licenseNumber": "16433187",
+    "name": "GREYSTONE COURT",
+    "address": "2021 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-12-28T05:33:56.000Z",
+    "expiryDate": "2026-12-27T05:33:56.000Z",
+    "coordinates": [
+      -114.1080504,
+      51.0433865
+    ],
+    "longitude": -114.1080504,
+    "latitude": 51.0433865,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

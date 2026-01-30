@@ -1,0 +1,36 @@
+{
+  "id": "14213706",
+  "fullDetails": {
+    "licenseNumber": "14213706",
+    "name": "BLINK EYEWEAR - CROWFOOT",
+    "address": "67 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-07-08T11:51:54.000Z",
+    "expiryDate": "2026-07-07T11:51:54.000Z",
+    "coordinates": [
+      -114.201022,
+      51.1271679
+    ],
+    "longitude": -114.201022,
+    "latitude": 51.1271679,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

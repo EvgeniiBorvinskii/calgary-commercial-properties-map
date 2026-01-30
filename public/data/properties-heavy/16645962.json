@@ -1,0 +1,36 @@
+{
+  "id": "16645962",
+  "fullDetails": {
+    "licenseNumber": "16645962",
+    "name": "CALGARY BOTTLE EXCHANGE",
+    "address": "9218 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2025-08-05T11:26:27.000Z",
+    "expiryDate": "2026-08-04T11:26:26.000Z",
+    "coordinates": [
+      -114.0744955,
+      50.9728035
+    ],
+    "longitude": -114.0744955,
+    "latitude": 50.9728035,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

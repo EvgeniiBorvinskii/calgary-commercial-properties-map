@@ -1,0 +1,37 @@
+{
+  "id": "16144206",
+  "fullDetails": {
+    "licenseNumber": "16144206",
+    "name": "ELYS TIRE SHOP",
+    "address": "150 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-05-26T11:29:03.000Z",
+    "expiryDate": "2026-05-25T11:29:03.000Z",
+    "coordinates": [
+      -114.0630004,
+      51.0094166
+    ],
+    "longitude": -114.0630004,
+    "latitude": 51.0094166,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

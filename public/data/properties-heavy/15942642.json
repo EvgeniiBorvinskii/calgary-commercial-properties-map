@@ -1,0 +1,36 @@
+{
+  "id": "15942642",
+  "fullDetails": {
+    "licenseNumber": "15942642",
+    "name": "BOYCHUK DESIGN BUILD",
+    "address": "#10 55 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-01-07T07:49:33.000Z",
+    "expiryDate": "2027-01-06T07:49:33.000Z",
+    "coordinates": [
+      -113.9094618,
+      50.9647228
+    ],
+    "longitude": -113.9094618,
+    "latitude": 50.9647228,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

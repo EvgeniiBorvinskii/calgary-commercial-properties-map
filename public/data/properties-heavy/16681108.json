@@ -1,0 +1,36 @@
+{
+  "id": "16681108",
+  "fullDetails": {
+    "licenseNumber": "16681108",
+    "name": "PARISH COFFEE (FSFV) (CGY-2088)",
+    "address": "#17 5656 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2025-12-02T15:35:51.000Z",
+    "expiryDate": "2026-12-01T15:35:51.000Z",
+    "coordinates": [
+      -114.0369438,
+      51.103679
+    ],
+    "longitude": -114.0369438,
+    "latitude": 51.103679,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

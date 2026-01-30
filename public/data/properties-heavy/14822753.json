@@ -1,0 +1,37 @@
+{
+  "id": "14822753",
+  "fullDetails": {
+    "licenseNumber": "14822753",
+    "name": "TG JUICE BAR & BREAKFAST",
+    "address": "3513 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2018-03-15T15:32:14.000Z",
+    "expiryDate": "2026-03-14T15:32:14.000Z",
+    "coordinates": [
+      -113.9836332,
+      51.0375153
+    ],
+    "longitude": -113.9836332,
+    "latitude": 51.0375153,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

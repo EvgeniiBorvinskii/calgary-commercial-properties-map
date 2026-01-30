@@ -1,0 +1,36 @@
+{
+  "id": "16490534",
+  "fullDetails": {
+    "licenseNumber": "16490534",
+    "name": "STT ELECTRIX",
+    "address": "#3120 324 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-31T14:30:15.000Z",
+    "expiryDate": "2026-10-30T14:30:15.000Z",
+    "coordinates": [
+      -114.0595672,
+      51.0024472
+    ],
+    "longitude": -114.0595672,
+    "latitude": 51.0024472,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

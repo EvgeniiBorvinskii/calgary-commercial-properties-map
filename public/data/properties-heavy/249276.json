@@ -1,0 +1,37 @@
+{
+  "id": "249276",
+  "fullDetails": {
+    "licenseNumber": "249276",
+    "name": "TFI FOODS",
+    "address": "#6 801 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "DISTRIBUTION MANAGER,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9901405,
+      51.0593394
+    ],
+    "longitude": -113.9901405,
+    "latitude": 51.0593394,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

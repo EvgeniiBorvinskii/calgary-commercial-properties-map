@@ -1,0 +1,36 @@
+{
+  "id": "14907422",
+  "fullDetails": {
+    "licenseNumber": "14907422",
+    "name": "DOLPHIN DRYCLEANERS",
+    "address": "37 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2018-05-07T12:00:50.000Z",
+    "expiryDate": "2026-05-06T12:00:50.000Z",
+    "coordinates": [
+      -113.9607989,
+      50.9157903
+    ],
+    "longitude": -113.9607989,
+    "latitude": 50.9157903,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

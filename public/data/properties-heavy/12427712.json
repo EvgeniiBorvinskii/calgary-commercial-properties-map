@@ -1,0 +1,37 @@
+{
+  "id": "12427712",
+  "fullDetails": {
+    "licenseNumber": "12427712",
+    "name": "OH HENRY'S LAUNDROMAT",
+    "address": "509 18 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FABRIC CLEANING,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-10-18T14:22:57.000Z",
+    "expiryDate": "2026-10-17T14:22:57.000Z",
+    "coordinates": [
+      -114.0718409,
+      51.0366885
+    ],
+    "longitude": -114.0718409,
+    "latitude": 51.0366885,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

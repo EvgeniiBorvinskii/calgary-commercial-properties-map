@@ -1,0 +1,36 @@
+{
+  "id": "15722465",
+  "fullDetails": {
+    "licenseNumber": "15722465",
+    "name": "GD COLLEGE",
+    "address": "#108 1935 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2019-09-23T09:54:00.000Z",
+    "expiryDate": "2026-09-22T09:54:00.000Z",
+    "coordinates": [
+      -114.0124681,
+      51.0763396
+    ],
+    "longitude": -114.0124681,
+    "latitude": 51.0763396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

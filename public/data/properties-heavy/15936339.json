@@ -1,0 +1,36 @@
+{
+  "id": "15936339",
+  "fullDetails": {
+    "licenseNumber": "15936339",
+    "name": "RED SWAN PIZZA",
+    "address": "#555 3545 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-02T12:20:37.000Z",
+    "expiryDate": "2026-12-01T12:20:37.000Z",
+    "coordinates": [
+      -113.9843549,
+      51.0810174
+    ],
+    "longitude": -113.9843549,
+    "latitude": 51.0810174,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

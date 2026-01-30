@@ -1,0 +1,36 @@
+{
+  "id": "12737185",
+  "fullDetails": {
+    "licenseNumber": "12737185",
+    "name": "CROWCHILD SQUARE CLEAN & ALTERATION",
+    "address": "#116 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2008-11-24T14:36:27.000Z",
+    "expiryDate": "2026-11-23T14:36:27.000Z",
+    "coordinates": [
+      -114.16532,
+      51.1039226
+    ],
+    "longitude": -114.16532,
+    "latitude": 51.1039226,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

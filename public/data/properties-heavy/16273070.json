@@ -1,0 +1,36 @@
+{
+  "id": "16273070",
+  "fullDetails": {
+    "licenseNumber": "16273070",
+    "name": "UNIQUE COUNTERTOPS",
+    "address": "#500 3605 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-28T08:44:21.000Z",
+    "expiryDate": "2026-02-27T08:44:21.000Z",
+    "coordinates": [
+      -113.9925776,
+      51.084757
+    ],
+    "longitude": -113.9925776,
+    "latitude": 51.084757,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16477507",
+  "fullDetails": {
+    "licenseNumber": "16477507",
+    "name": "MPIRE",
+    "address": "#13 2135 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "in_progress",
+    "issuedDate": "2024-04-22T09:04:43.000Z",
+    "expiryDate": "2026-04-21T09:04:43.000Z",
+    "coordinates": [
+      -114.0088321,
+      51.0805141
+    ],
+    "longitude": -114.0088321,
+    "latitude": 51.0805141,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

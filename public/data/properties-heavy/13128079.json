@@ -1,0 +1,36 @@
+{
+  "id": "13128079",
+  "fullDetails": {
+    "licenseNumber": "13128079",
+    "name": "ORICA CANADA",
+    "address": "3520 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2022-11-22T16:14:08.000Z",
+    "expiryDate": "2026-11-21T16:14:08.000Z",
+    "coordinates": [
+      -113.9864307,
+      50.9500312
+    ],
+    "longitude": -113.9864307,
+    "latitude": 50.9500312,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

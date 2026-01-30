@@ -1,0 +1,36 @@
+{
+  "id": "16077307",
+  "fullDetails": {
+    "licenseNumber": "16077307",
+    "name": "TOM'S HOUSE OF PIZZA (CGY-1436)",
+    "address": "7730 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "status": "active",
+    "issuedDate": "2022-06-07T14:12:52.000Z",
+    "expiryDate": "2026-06-06T14:12:52.000Z",
+    "coordinates": [
+      -114.0706442,
+      50.9852299
+    ],
+    "longitude": -114.0706442,
+    "latitude": 50.9852299,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

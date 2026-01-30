@@ -1,0 +1,37 @@
+{
+  "id": "16053639",
+  "fullDetails": {
+    "licenseNumber": "16053639",
+    "name": "GOOD STONE WHOLESALE CALGARY",
+    "address": "#121 7850 66 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2022-10-18T16:18:20.000Z",
+    "expiryDate": "2026-10-17T16:18:20.000Z",
+    "coordinates": [
+      -113.9372283,
+      50.9835625
+    ],
+    "longitude": -113.9372283,
+    "latitude": 50.9835625,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

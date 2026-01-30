@@ -1,0 +1,37 @@
+{
+  "id": "69815",
+  "fullDetails": {
+    "licenseNumber": "69815",
+    "name": "STAMPEDE TOYOTA",
+    "address": "2508 24 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MOTOR VEHICLE DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nMOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-09-25T14:21:59.000Z",
+    "expiryDate": "2026-09-24T14:21:59.000Z",
+    "coordinates": [
+      -114.0003375,
+      51.0743518
+    ],
+    "longitude": -114.0003375,
+    "latitude": 51.0743518,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

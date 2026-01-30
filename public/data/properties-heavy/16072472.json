@@ -1,0 +1,36 @@
+{
+  "id": "16072472",
+  "fullDetails": {
+    "licenseNumber": "16072472",
+    "name": "MF MASSAGE",
+    "address": "1412 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2021-09-21T13:16:31.000Z",
+    "expiryDate": "2026-09-20T13:16:31.000Z",
+    "coordinates": [
+      -114.0560157,
+      51.0647505
+    ],
+    "longitude": -114.0560157,
+    "latitude": 51.0647505,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

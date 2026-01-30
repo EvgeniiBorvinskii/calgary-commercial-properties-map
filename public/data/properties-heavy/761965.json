@@ -1,0 +1,36 @@
+{
+  "id": "761965",
+  "fullDetails": {
+    "licenseNumber": "761965",
+    "name": "GARAGE CLOTHING CO (THE) STORE #105",
+    "address": "#E7 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-01-14T15:10:30.000Z",
+    "expiryDate": "2027-01-13T15:10:30.000Z",
+    "coordinates": [
+      -114.1553313,
+      51.0848358
+    ],
+    "longitude": -114.1553313,
+    "latitude": 51.0848358,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

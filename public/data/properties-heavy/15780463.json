@@ -1,0 +1,36 @@
+{
+  "id": "15780463",
+  "fullDetails": {
+    "licenseNumber": "15780463",
+    "name": "CANADIAN APPLIANCE SOURCE",
+    "address": "#11 2777 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-11-05T10:29:37.000Z",
+    "expiryDate": "2026-11-04T10:29:37.000Z",
+    "coordinates": [
+      -113.9957347,
+      51.071611
+    ],
+    "longitude": -113.9957347,
+    "latitude": 51.071611,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

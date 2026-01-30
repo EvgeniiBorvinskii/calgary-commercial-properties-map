@@ -1,0 +1,36 @@
+{
+  "id": "14900211",
+  "fullDetails": {
+    "licenseNumber": "14900211",
+    "name": "PET VALU",
+    "address": "#110 3561 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-06-25T09:09:21.000Z",
+    "expiryDate": "2026-06-24T09:09:20.000Z",
+    "coordinates": [
+      -113.9850325,
+      51.0706102
+    ],
+    "longitude": -113.9850325,
+    "latitude": 51.0706102,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

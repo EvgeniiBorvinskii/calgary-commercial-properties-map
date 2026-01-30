@@ -1,0 +1,37 @@
+{
+  "id": "13011580",
+  "fullDetails": {
+    "licenseNumber": "13011580",
+    "name": "SHAW GMC CHEVROLET BUICK",
+    "address": "815 HIGHFIELD AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-11-04T08:15:18.000Z",
+    "expiryDate": "2026-11-03T08:15:18.000Z",
+    "coordinates": [
+      -114.0450195,
+      51.0142936
+    ],
+    "longitude": -114.0450195,
+    "latitude": 51.0142936,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

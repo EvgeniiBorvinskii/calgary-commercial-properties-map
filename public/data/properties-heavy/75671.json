@@ -1,0 +1,36 @@
+{
+  "id": "75671",
+  "fullDetails": {
+    "licenseNumber": "75671",
+    "name": "H & M MECHANICAL",
+    "address": "#102 11051 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-02-22T05:32:17.000Z",
+    "expiryDate": "2027-02-21T05:32:17.000Z",
+    "coordinates": [
+      -113.9620208,
+      50.955467
+    ],
+    "longitude": -113.9620208,
+    "latitude": 50.955467,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

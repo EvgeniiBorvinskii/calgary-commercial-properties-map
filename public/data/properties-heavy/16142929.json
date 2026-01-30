@@ -1,0 +1,36 @@
+{
+  "id": "16142929",
+  "fullDetails": {
+    "licenseNumber": "16142929",
+    "name": "SUMMIT INFRASTRUCTURE",
+    "address": "3201 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-01-21T17:29:42.000Z",
+    "expiryDate": "2027-01-20T17:29:41.000Z",
+    "coordinates": [
+      -114.0411218,
+      51.0254741
+    ],
+    "longitude": -114.0411218,
+    "latitude": 51.0254741,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

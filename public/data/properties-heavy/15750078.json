@@ -1,0 +1,36 @@
+{
+  "id": "15750078",
+  "fullDetails": {
+    "licenseNumber": "15750078",
+    "name": "WIPE CLEAN WINDOW CLEANING SERVICES",
+    "address": "#8 4261 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2022-07-19T14:20:51.000Z",
+    "expiryDate": "2026-07-18T14:20:51.000Z",
+    "coordinates": [
+      -114.0057247,
+      51.0906665
+    ],
+    "longitude": -114.0057247,
+    "latitude": 51.0906665,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

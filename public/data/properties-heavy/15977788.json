@@ -1,0 +1,36 @@
+{
+  "id": "15977788",
+  "fullDetails": {
+    "licenseNumber": "15977788",
+    "name": "CANNA CABANA",
+    "address": "#130 11130 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-01-27T12:33:58.000Z",
+    "expiryDate": "2027-01-26T12:33:58.000Z",
+    "coordinates": [
+      -114.0314157,
+      51.1530325
+    ],
+    "longitude": -114.0314157,
+    "latitude": 51.1530325,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

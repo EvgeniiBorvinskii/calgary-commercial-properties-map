@@ -1,0 +1,36 @@
+{
+  "id": "16621278",
+  "fullDetails": {
+    "licenseNumber": "16621278",
+    "name": "MM SMARTFIT DESIGNS",
+    "address": "#13 5656 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-07-10T14:02:53.000Z",
+    "expiryDate": "2026-07-09T14:02:52.000Z",
+    "coordinates": [
+      -114.0372443,
+      51.1036678
+    ],
+    "longitude": -114.0372443,
+    "latitude": 51.1036678,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

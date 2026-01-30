@@ -1,0 +1,36 @@
+{
+  "id": "12804910",
+  "fullDetails": {
+    "licenseNumber": "12804910",
+    "name": "PROVEABLE CLEANING SERVICES",
+    "address": "#8 701 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2021-01-13T05:31:20.000Z",
+    "expiryDate": "2027-01-12T05:31:20.000Z",
+    "coordinates": [
+      -113.9901231,
+      51.0584104
+    ],
+    "longitude": -113.9901231,
+    "latitude": 51.0584104,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

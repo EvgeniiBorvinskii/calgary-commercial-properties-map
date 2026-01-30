@@ -1,0 +1,37 @@
+{
+  "id": "16114951",
+  "fullDetails": {
+    "licenseNumber": "16114951",
+    "name": "HORIZON 12",
+    "address": "827 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-06-17T12:33:38.000Z",
+    "expiryDate": "2026-06-16T12:33:38.000Z",
+    "coordinates": [
+      -114.0809158,
+      51.0416528
+    ],
+    "longitude": -114.0809158,
+    "latitude": 51.0416528,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

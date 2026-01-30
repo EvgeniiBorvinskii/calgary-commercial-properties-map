@@ -1,0 +1,36 @@
+{
+  "id": "13347232",
+  "fullDetails": {
+    "licenseNumber": "13347232",
+    "name": "AUTO MARINE SPECIALTIES",
+    "address": "5632 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-28T10:38:13.000Z",
+    "expiryDate": "2026-10-27T10:38:12.000Z",
+    "coordinates": [
+      -114.0447488,
+      51.0045579
+    ],
+    "longitude": -114.0447488,
+    "latitude": 51.0045579,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

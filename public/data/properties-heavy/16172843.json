@@ -1,0 +1,36 @@
+{
+  "id": "16172843",
+  "fullDetails": {
+    "licenseNumber": "16172843",
+    "name": "LIQUOR BOULEVARD",
+    "address": "#110 750 NOLAN HILL BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-04-24T11:40:19.000Z",
+    "expiryDate": "2026-04-23T11:40:19.000Z",
+    "coordinates": [
+      -114.1694567,
+      51.1794266
+    ],
+    "longitude": -114.1694567,
+    "latitude": 51.1794266,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

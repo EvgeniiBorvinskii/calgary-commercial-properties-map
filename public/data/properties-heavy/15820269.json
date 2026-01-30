@@ -1,0 +1,36 @@
+{
+  "id": "15820269",
+  "fullDetails": {
+    "licenseNumber": "15820269",
+    "name": "BOWRIDGE BOTTLE DEPOT",
+    "address": "#110 60 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2019-12-18T11:05:22.000Z",
+    "expiryDate": "2026-12-17T11:05:22.000Z",
+    "coordinates": [
+      -114.2058673,
+      51.0845142
+    ],
+    "longitude": -114.2058673,
+    "latitude": 51.0845142,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

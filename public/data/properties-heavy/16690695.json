@@ -1,0 +1,36 @@
+{
+  "id": "16690695",
+  "fullDetails": {
+    "licenseNumber": "16690695",
+    "name": "ROYAL DRIVE MOTORS",
+    "address": "#2 920 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-09T11:34:33.000Z",
+    "expiryDate": "2026-12-08T11:34:33.000Z",
+    "coordinates": [
+      -113.9928168,
+      51.0602998
+    ],
+    "longitude": -113.9928168,
+    "latitude": 51.0602998,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

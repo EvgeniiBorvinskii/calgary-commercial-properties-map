@@ -1,0 +1,36 @@
+{
+  "id": "16554008",
+  "fullDetails": {
+    "licenseNumber": "16554008",
+    "name": "ROYAL CANADIAN LIQUOR STORE",
+    "address": "#11 9620 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-10-31T10:30:25.000Z",
+    "expiryDate": "2026-10-30T10:30:24.000Z",
+    "coordinates": [
+      -114.0839783,
+      50.9689942
+    ],
+    "longitude": -114.0839783,
+    "latitude": 50.9689942,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12599551",
+  "fullDetails": {
+    "licenseNumber": "12599551",
+    "name": "FOREMOST INDUSTRIES",
+    "address": "6390R 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-11-08T08:36:35.000Z",
+    "expiryDate": "2026-11-07T08:36:35.000Z",
+    "coordinates": [
+      -114.0310968,
+      51.1101561
+    ],
+    "longitude": -114.0310968,
+    "latitude": 51.1101561,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

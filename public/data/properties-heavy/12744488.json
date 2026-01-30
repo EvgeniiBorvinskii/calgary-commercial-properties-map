@@ -1,0 +1,37 @@
+{
+  "id": "12744488",
+  "fullDetails": {
+    "licenseNumber": "12744488",
+    "name": "LORIZ PILIPINO BAKERY/CONVENIENCE STORE",
+    "address": "#25 2525 BRIDLECREST WY SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2009-03-05T14:16:45.000Z",
+    "expiryDate": "2026-03-04T14:16:45.000Z",
+    "coordinates": [
+      -114.117668,
+      50.9010099
+    ],
+    "longitude": -114.117668,
+    "latitude": 50.9010099,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

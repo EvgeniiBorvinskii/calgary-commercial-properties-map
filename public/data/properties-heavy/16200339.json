@@ -1,0 +1,36 @@
+{
+  "id": "16200339",
+  "fullDetails": {
+    "licenseNumber": "16200339",
+    "name": "SABRE SHEET METAL",
+    "address": "3400 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-03-15T08:32:28.000Z",
+    "expiryDate": "2026-03-14T08:32:28.000Z",
+    "coordinates": [
+      -113.988248,
+      50.9499716
+    ],
+    "longitude": -113.988248,
+    "latitude": 50.9499716,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

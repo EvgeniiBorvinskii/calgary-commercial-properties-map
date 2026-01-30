@@ -1,0 +1,36 @@
+{
+  "id": "14824106",
+  "fullDetails": {
+    "licenseNumber": "14824106",
+    "name": "PRINCESS AUTO",
+    "address": "#1000 11281 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-04-26T13:37:37.000Z",
+    "expiryDate": "2026-04-25T13:37:37.000Z",
+    "coordinates": [
+      -113.9792659,
+      51.1537344
+    ],
+    "longitude": -113.9792659,
+    "latitude": 51.1537344,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

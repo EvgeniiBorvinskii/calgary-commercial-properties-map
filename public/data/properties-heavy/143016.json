@@ -1,0 +1,37 @@
+{
+  "id": "143016",
+  "fullDetails": {
+    "licenseNumber": "143016",
+    "name": "GAS PLUS",
+    "address": "3540 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FUEL SALES/STORAGE,",
+    "licenseTypes": "TOBACCO RETAILER,\nFUEL SALES/STORAGE,\nWHOLESALER,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9576759,
+      51.0224999
+    ],
+    "longitude": -113.9576759,
+    "latitude": 51.0224999,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

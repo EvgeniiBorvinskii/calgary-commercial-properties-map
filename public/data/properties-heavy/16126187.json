@@ -1,0 +1,37 @@
+{
+  "id": "16126187",
+  "fullDetails": {
+    "licenseNumber": "16126187",
+    "name": "TURCA BREAKFAST HOUSE",
+    "address": "2604 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO,\nDISTRIBUTION MANAGER (FOOD PRODUCTS)",
+    "status": "active",
+    "issuedDate": "2022-02-11T14:38:09.000Z",
+    "expiryDate": "2027-02-10T14:38:09.000Z",
+    "coordinates": [
+      -114.0712399,
+      51.0753342
+    ],
+    "longitude": -114.0712399,
+    "latitude": 51.0753342,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

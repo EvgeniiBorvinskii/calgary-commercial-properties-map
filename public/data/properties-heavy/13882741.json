@@ -1,0 +1,37 @@
+{
+  "id": "13882741",
+  "fullDetails": {
+    "licenseNumber": "13882741",
+    "name": "EMCO IRRIGATION, PIPE AND SEPTIC",
+    "address": "#C 4415 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-08-22T05:33:24.000Z",
+    "expiryDate": "2026-08-21T05:33:24.000Z",
+    "coordinates": [
+      -113.9721309,
+      50.9889881
+    ],
+    "longitude": -113.9721309,
+    "latitude": 50.9889881,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

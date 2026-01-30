@@ -1,0 +1,36 @@
+{
+  "id": "383125",
+  "fullDetails": {
+    "licenseNumber": "383125",
+    "name": "STRATHCONA CHIROPRACTIC HEALTH CARE",
+    "address": "#208 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-16T00:00:00.000Z",
+    "coordinates": [
+      -114.184863,
+      51.0486434
+    ],
+    "longitude": -114.184863,
+    "latitude": 51.0486434,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

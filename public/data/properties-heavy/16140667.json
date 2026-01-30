@@ -1,0 +1,36 @@
+{
+  "id": "16140667",
+  "fullDetails": {
+    "licenseNumber": "16140667",
+    "name": "SILK ROAD DANCE",
+    "address": "#100 10333 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-27T13:55:29.000Z",
+    "expiryDate": "2026-05-26T13:55:29.000Z",
+    "coordinates": [
+      -114.0728421,
+      50.9626683
+    ],
+    "longitude": -114.0728421,
+    "latitude": 50.9626683,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

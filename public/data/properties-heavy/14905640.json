@@ -1,0 +1,36 @@
+{
+  "id": "14905640",
+  "fullDetails": {
+    "licenseNumber": "14905640",
+    "name": "GARCHA BROS MEAT SHOP AND POULTRY",
+    "address": "#104 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-03T15:59:54.000Z",
+    "expiryDate": "2026-05-02T15:59:54.000Z",
+    "coordinates": [
+      -113.9662178,
+      51.1004438
+    ],
+    "longitude": -113.9662178,
+    "latitude": 51.1004438,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14420723",
+  "fullDetails": {
+    "licenseNumber": "14420723",
+    "name": "BRIGHTPATH SAGE HILL",
+    "address": "71 SAGE HILL PS NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2017-03-01T09:14:53.000Z",
+    "expiryDate": "2026-02-28T09:14:52.000Z",
+    "coordinates": [
+      -114.1476581,
+      51.1700406
+    ],
+    "longitude": -114.1476581,
+    "latitude": 51.1700406,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "847319",
+  "fullDetails": {
+    "licenseNumber": "847319",
+    "name": "ALDEBARAN ENTERPRISES",
+    "address": "839 24 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-01-20T13:06:03.000Z",
+    "expiryDate": "2027-01-19T13:06:03.000Z",
+    "coordinates": [
+      -114.0416255,
+      51.0319565
+    ],
+    "longitude": -114.0416255,
+    "latitude": 51.0319565,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

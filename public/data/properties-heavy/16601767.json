@@ -1,0 +1,36 @@
+{
+  "id": "16601767",
+  "fullDetails": {
+    "licenseNumber": "16601767",
+    "name": "DICKEYS BARBECUE PIT",
+    "address": "923 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-03-25T11:36:13.000Z",
+    "expiryDate": "2026-03-24T11:36:11.000Z",
+    "coordinates": [
+      -114.0822213,
+      51.0467657
+    ],
+    "longitude": -114.0822213,
+    "latitude": 51.0467657,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

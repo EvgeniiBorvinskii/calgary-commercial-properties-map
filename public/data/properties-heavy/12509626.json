@@ -1,0 +1,36 @@
+{
+  "id": "12509626",
+  "fullDetails": {
+    "licenseNumber": "12509626",
+    "name": "BRICK (THE)",
+    "address": "9 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-01-15T09:44:07.000Z",
+    "expiryDate": "2027-01-14T09:44:07.000Z",
+    "coordinates": [
+      -114.0442408,
+      50.9858842
+    ],
+    "longitude": -114.0442408,
+    "latitude": 50.9858842,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

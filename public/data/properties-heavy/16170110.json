@@ -1,0 +1,36 @@
+{
+  "id": "16170110",
+  "fullDetails": {
+    "licenseNumber": "16170110",
+    "name": "MIKE BOUMA",
+    "address": "111 27 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2023-03-17T11:26:55.000Z",
+    "expiryDate": "2026-03-16T11:26:54.000Z",
+    "coordinates": [
+      -114.0634551,
+      51.0767434
+    ],
+    "longitude": -114.0634551,
+    "latitude": 51.0767434,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

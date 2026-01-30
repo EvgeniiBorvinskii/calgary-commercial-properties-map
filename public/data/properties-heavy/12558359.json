@@ -1,0 +1,36 @@
+{
+  "id": "12558359",
+  "fullDetails": {
+    "licenseNumber": "12558359",
+    "name": "REFINE AUTOMOTIVE SALON",
+    "address": "#1 5524 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2009-07-31T14:36:56.000Z",
+    "expiryDate": "2026-07-30T14:36:56.000Z",
+    "coordinates": [
+      -114.0668319,
+      51.0050138
+    ],
+    "longitude": -114.0668319,
+    "latitude": 51.0050138,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

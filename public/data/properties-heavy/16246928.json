@@ -1,0 +1,36 @@
+{
+  "id": "16246928",
+  "fullDetails": {
+    "licenseNumber": "16246928",
+    "name": "PIPETECH POLYMERS",
+    "address": "#8026 11500 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-09-25T15:56:44.000Z",
+    "expiryDate": "2026-09-24T15:56:44.000Z",
+    "coordinates": [
+      -113.9843674,
+      50.9478318
+    ],
+    "longitude": -113.9843674,
+    "latitude": 50.9478318,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

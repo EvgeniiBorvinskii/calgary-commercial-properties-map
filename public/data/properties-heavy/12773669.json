@@ -1,0 +1,36 @@
+{
+  "id": "12773669",
+  "fullDetails": {
+    "licenseNumber": "12773669",
+    "name": "CALGARY PALLET",
+    "address": "9770 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2010-02-22T14:54:31.000Z",
+    "expiryDate": "2026-02-21T14:54:31.000Z",
+    "coordinates": [
+      -113.8925403,
+      50.9509134
+    ],
+    "longitude": -113.8925403,
+    "latitude": 50.9509134,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

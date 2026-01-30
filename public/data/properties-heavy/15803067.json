@@ -1,0 +1,37 @@
+{
+  "id": "15803067",
+  "fullDetails": {
+    "licenseNumber": "15803067",
+    "name": "GOLF FANATICS",
+    "address": "7100 15 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-10-22T12:19:26.000Z",
+    "expiryDate": "2026-10-21T12:19:26.000Z",
+    "coordinates": [
+      -114.0242137,
+      50.9897392
+    ],
+    "longitude": -114.0242137,
+    "latitude": 50.9897392,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

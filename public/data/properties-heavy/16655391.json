@@ -1,0 +1,36 @@
+{
+  "id": "16655391",
+  "fullDetails": {
+    "licenseNumber": "16655391",
+    "name": "JERUSALEM SHAWARMA",
+    "address": "#125 19649 SETON WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-01T10:21:39.000Z",
+    "expiryDate": "2026-09-30T10:21:39.000Z",
+    "coordinates": [
+      -113.9579043,
+      50.8749667
+    ],
+    "longitude": -113.9579043,
+    "latitude": 50.8749667,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

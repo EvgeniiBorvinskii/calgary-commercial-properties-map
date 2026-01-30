@@ -1,0 +1,36 @@
+{
+  "id": "12190005",
+  "fullDetails": {
+    "licenseNumber": "12190005",
+    "name": "AMARA (THE)",
+    "address": "1822 17 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2003-04-23T05:36:01.000Z",
+    "expiryDate": "2026-04-22T05:36:01.000Z",
+    "coordinates": [
+      -114.1012236,
+      51.036985
+    ],
+    "longitude": -114.1012236,
+    "latitude": 51.036985,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "115949",
+  "fullDetails": {
+    "licenseNumber": "115949",
+    "name": "BOW BOTTOM VETERINARY HOSPITAL",
+    "address": "1186 137 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-09-26T05:34:04.000Z",
+    "expiryDate": "2026-09-25T05:34:04.000Z",
+    "coordinates": [
+      -114.0273391,
+      50.9285562
+    ],
+    "longitude": -114.0273391,
+    "latitude": 50.9285562,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

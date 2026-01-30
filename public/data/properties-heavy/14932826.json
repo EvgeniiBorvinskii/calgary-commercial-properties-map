@@ -1,0 +1,36 @@
+{
+  "id": "14932826",
+  "fullDetails": {
+    "licenseNumber": "14932826",
+    "name": "ONIGIRI JAPAN",
+    "address": "#280 801 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-05-29T10:55:46.000Z",
+    "expiryDate": "2026-05-28T10:55:46.000Z",
+    "coordinates": [
+      -114.0795781,
+      51.046662
+    ],
+    "longitude": -114.0795781,
+    "latitude": 51.046662,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

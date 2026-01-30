@@ -1,0 +1,36 @@
+{
+  "id": "112862",
+  "fullDetails": {
+    "licenseNumber": "112862",
+    "name": "DAIRY QUEEN GRILL & CHILL",
+    "address": "5444 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9565329,
+      51.0974994
+    ],
+    "longitude": -113.9565329,
+    "latitude": 51.0974994,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

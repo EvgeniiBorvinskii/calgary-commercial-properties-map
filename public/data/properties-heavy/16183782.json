@@ -1,0 +1,37 @@
+{
+  "id": "16183782",
+  "fullDetails": {
+    "licenseNumber": "16183782",
+    "name": "YOGA STUDIO OF CALGARY (THE)",
+    "address": "#200 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-07-14T15:23:58.000Z",
+    "expiryDate": "2026-07-13T15:23:58.000Z",
+    "coordinates": [
+      -114.1974859,
+      51.1230029
+    ],
+    "longitude": -114.1974859,
+    "latitude": 51.1230029,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

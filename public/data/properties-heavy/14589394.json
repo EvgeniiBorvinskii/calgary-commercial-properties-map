@@ -1,0 +1,37 @@
+{
+  "id": "14589394",
+  "fullDetails": {
+    "licenseNumber": "14589394",
+    "name": "RED CROWNS PUB",
+    "address": "#20 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-08-18T14:08:31.000Z",
+    "expiryDate": "2026-08-17T14:08:30.000Z",
+    "coordinates": [
+      -114.1096551,
+      50.9405287
+    ],
+    "longitude": -114.1096551,
+    "latitude": 50.9405287,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

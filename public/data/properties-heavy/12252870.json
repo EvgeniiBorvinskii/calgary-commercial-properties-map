@@ -1,0 +1,37 @@
+{
+  "id": "12252870",
+  "fullDetails": {
+    "licenseNumber": "12252870",
+    "name": "CATTLEBARON (THE)",
+    "address": "33 SUN VALLEY BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2003-12-08T14:35:48.000Z",
+    "expiryDate": "2026-12-07T14:35:48.000Z",
+    "coordinates": [
+      -114.0573314,
+      50.9057047
+    ],
+    "longitude": -114.0573314,
+    "latitude": 50.9057047,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

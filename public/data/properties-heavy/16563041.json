@@ -1,0 +1,36 @@
+{
+  "id": "16563041",
+  "fullDetails": {
+    "licenseNumber": "16563041",
+    "name": "NCI CONSTRUCTION 2025",
+    "address": "#15 1339 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-15T16:11:03.000Z",
+    "expiryDate": "2027-01-14T16:11:02.000Z",
+    "coordinates": [
+      -114.0302442,
+      51.0881613
+    ],
+    "longitude": -114.0302442,
+    "latitude": 51.0881613,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

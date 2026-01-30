@@ -1,0 +1,36 @@
+{
+  "id": "588939",
+  "fullDetails": {
+    "licenseNumber": "588939",
+    "name": "BRACEWORKS CUSTOM ORTHOTICS",
+    "address": "#1 3500 24 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-09-17T09:11:35.000Z",
+    "expiryDate": "2026-09-16T09:11:35.000Z",
+    "coordinates": [
+      -114.1369023,
+      51.0748561
+    ],
+    "longitude": -114.1369023,
+    "latitude": 51.0748561,
+    "community": "UNIVERSITY OF CALGARY",
+    "ward": "UOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

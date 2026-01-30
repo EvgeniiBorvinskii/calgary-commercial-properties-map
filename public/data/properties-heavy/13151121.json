@@ -1,0 +1,36 @@
+{
+  "id": "13151121",
+  "fullDetails": {
+    "licenseNumber": "13151121",
+    "name": "FOREST LAUNDRY",
+    "address": "4019B 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2011-05-05T14:46:02.000Z",
+    "expiryDate": "2026-05-04T14:46:02.000Z",
+    "coordinates": [
+      -113.9762005,
+      51.0373936
+    ],
+    "longitude": -113.9762005,
+    "latitude": 51.0373936,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

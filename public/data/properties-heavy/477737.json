@@ -1,0 +1,36 @@
+{
+  "id": "477737",
+  "fullDetails": {
+    "licenseNumber": "477737",
+    "name": "LAVANDERIA RAFFINATA FINE DRY CLEANING",
+    "address": "#115 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1203024,
+      50.9716846
+    ],
+    "longitude": -114.1203024,
+    "latitude": 50.9716846,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

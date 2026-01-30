@@ -1,0 +1,36 @@
+{
+  "id": "14014914",
+  "fullDetails": {
+    "licenseNumber": "14014914",
+    "name": "GREAT PLAINS DIESEL",
+    "address": "5627 55 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-04-27T08:46:03.000Z",
+    "expiryDate": "2026-04-26T08:46:03.000Z",
+    "coordinates": [
+      -113.951436,
+      51.00273
+    ],
+    "longitude": -113.951436,
+    "latitude": 51.00273,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

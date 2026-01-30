@@ -1,0 +1,36 @@
+{
+  "id": "12484101",
+  "fullDetails": {
+    "licenseNumber": "12484101",
+    "name": "HAWKWOOD CLEANERS",
+    "address": "#27 555 HAWKWOOD BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2006-06-02T14:53:14.000Z",
+    "expiryDate": "2026-06-01T14:53:14.000Z",
+    "coordinates": [
+      -114.177245,
+      51.1293087
+    ],
+    "longitude": -114.177245,
+    "latitude": 51.1293087,
+    "community": "HAWKWOOD",
+    "ward": "HAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

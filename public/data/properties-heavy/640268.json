@@ -1,0 +1,36 @@
+{
+  "id": "640268",
+  "fullDetails": {
+    "licenseNumber": "640268",
+    "name": "SOLLY'S SPIRITS & WINES",
+    "address": "839 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-09T00:00:00.000Z",
+    "coordinates": [
+      -114.0806917,
+      51.0476732
+    ],
+    "longitude": -114.0806917,
+    "latitude": 51.0476732,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

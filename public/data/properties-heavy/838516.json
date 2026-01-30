@@ -1,0 +1,37 @@
+{
+  "id": "838516",
+  "fullDetails": {
+    "licenseNumber": "838516",
+    "name": "FIREFIGHTER'S MUSEUM SOCIETY CALGARY",
+    "address": "4144 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-02-18T16:11:41.000Z",
+    "expiryDate": "2026-04-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0361105,
+      51.0175072
+    ],
+    "longitude": -114.0361105,
+    "latitude": 51.0175072,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

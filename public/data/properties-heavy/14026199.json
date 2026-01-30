@@ -1,0 +1,36 @@
+{
+  "id": "14026199",
+  "fullDetails": {
+    "licenseNumber": "14026199",
+    "name": "PAZYRYK ARTS",
+    "address": "6025 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2025-12-16T11:57:56.000Z",
+    "expiryDate": "2026-12-15T11:57:55.000Z",
+    "coordinates": [
+      -114.0643279,
+      50.9996202
+    ],
+    "longitude": -114.0643279,
+    "latitude": 50.9996202,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

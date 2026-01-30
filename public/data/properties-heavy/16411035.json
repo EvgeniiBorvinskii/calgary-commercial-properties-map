@@ -1,0 +1,37 @@
+{
+  "id": "16411035",
+  "fullDetails": {
+    "licenseNumber": "16411035",
+    "name": "OLIVE NAIL BAR",
+    "address": "3925 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2024-01-04T10:57:31.000Z",
+    "expiryDate": "2027-01-03T10:57:31.000Z",
+    "coordinates": [
+      -114.1436916,
+      51.0781997
+    ],
+    "longitude": -114.1436916,
+    "latitude": 51.0781997,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

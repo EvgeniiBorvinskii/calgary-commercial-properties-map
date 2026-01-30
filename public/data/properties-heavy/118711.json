@@ -1,0 +1,36 @@
+{
+  "id": "118711",
+  "fullDetails": {
+    "licenseNumber": "118711",
+    "name": "CALGARY COIN GALLERY",
+    "address": "1404 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2005-08-03T11:28:55.000Z",
+    "expiryDate": "2026-08-02T11:28:55.000Z",
+    "coordinates": [
+      -114.0632727,
+      51.0393004
+    ],
+    "longitude": -114.0632727,
+    "latitude": 51.0393004,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16180390",
+  "fullDetails": {
+    "licenseNumber": "16180390",
+    "name": "OLGA NIKOLAEVA",
+    "address": "270 PROVIDENCE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-09-12T14:34:19.000Z",
+    "expiryDate": "2026-09-11T14:34:19.000Z",
+    "coordinates": [
+      -114.0616112,
+      50.9223661
+    ],
+    "longitude": -114.0616112,
+    "latitude": 50.9223661,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

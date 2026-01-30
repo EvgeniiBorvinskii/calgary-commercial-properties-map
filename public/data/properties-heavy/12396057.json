@@ -1,0 +1,36 @@
+{
+  "id": "12396057",
+  "fullDetails": {
+    "licenseNumber": "12396057",
+    "name": "MINI DIG",
+    "address": "2222 ALYTH PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2006-03-01T15:23:42.000Z",
+    "expiryDate": "2026-02-28T15:23:42.000Z",
+    "coordinates": [
+      -114.0271709,
+      51.0334752
+    ],
+    "longitude": -114.0271709,
+    "latitude": 51.0334752,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

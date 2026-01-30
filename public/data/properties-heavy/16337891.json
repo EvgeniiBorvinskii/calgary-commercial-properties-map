@@ -1,0 +1,37 @@
+{
+  "id": "16337891",
+  "fullDetails": {
+    "licenseNumber": "16337891",
+    "name": "ONION KOREAN NOODLE AND KITCHEN",
+    "address": "#2136 10 ASPEN STONE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-09T17:08:24.000Z",
+    "expiryDate": "2026-08-08T17:08:24.000Z",
+    "coordinates": [
+      -114.2126274,
+      51.0414535
+    ],
+    "longitude": -114.2126274,
+    "latitude": 51.0414535,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

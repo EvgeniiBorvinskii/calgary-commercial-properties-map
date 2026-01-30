@@ -1,0 +1,36 @@
+{
+  "id": "13920145",
+  "fullDetails": {
+    "licenseNumber": "13920145",
+    "name": "B & B SHOWROOM 2013",
+    "address": "#114 4029 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-03-03T13:10:13.000Z",
+    "expiryDate": "2026-03-02T13:10:13.000Z",
+    "coordinates": [
+      -114.043821,
+      51.0187571
+    ],
+    "longitude": -114.043821,
+    "latitude": 51.0187571,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

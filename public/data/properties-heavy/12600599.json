@@ -1,0 +1,36 @@
+{
+  "id": "12600599",
+  "fullDetails": {
+    "licenseNumber": "12600599",
+    "name": "STREAMLINE LOGISTICS & WAREHOUSING",
+    "address": "1783 120 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2017-10-27T05:32:11.000Z",
+    "expiryDate": "2026-10-26T05:32:11.000Z",
+    "coordinates": [
+      -114.0205492,
+      51.1609386
+    ],
+    "longitude": -114.0205492,
+    "latitude": 51.1609386,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

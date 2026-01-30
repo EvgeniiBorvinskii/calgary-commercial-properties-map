@@ -1,0 +1,36 @@
+{
+  "id": "15849763",
+  "fullDetails": {
+    "licenseNumber": "15849763",
+    "name": "ARCTIC ARROW POWERLINE GROUP",
+    "address": "10885 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-04-14T10:03:15.000Z",
+    "expiryDate": "2026-04-13T10:03:14.000Z",
+    "coordinates": [
+      -113.9130161,
+      50.9565424
+    ],
+    "longitude": -113.9130161,
+    "latitude": 50.9565424,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

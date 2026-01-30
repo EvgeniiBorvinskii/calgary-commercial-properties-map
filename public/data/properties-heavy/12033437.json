@@ -1,0 +1,36 @@
+{
+  "id": "12033437",
+  "fullDetails": {
+    "licenseNumber": "12033437",
+    "name": "ALBERTA TIME SERVICES",
+    "address": "#205 321 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-09-20T18:04:32.000Z",
+    "expiryDate": "2026-09-19T05:34:55.000Z",
+    "coordinates": [
+      -114.0693951,
+      51.047395
+    ],
+    "longitude": -114.0693951,
+    "latitude": 51.047395,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

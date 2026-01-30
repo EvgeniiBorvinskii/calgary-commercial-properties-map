@@ -1,0 +1,36 @@
+{
+  "id": "16223125",
+  "fullDetails": {
+    "licenseNumber": "16223125",
+    "name": "LOVE AT FIRST SCOOP",
+    "address": "#180 151 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-29T07:31:34.000Z",
+    "expiryDate": "2026-06-28T07:31:33.000Z",
+    "coordinates": [
+      -114.0922181,
+      51.183321
+    ],
+    "longitude": -114.0922181,
+    "latitude": 51.183321,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

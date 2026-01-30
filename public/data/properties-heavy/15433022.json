@@ -1,0 +1,36 @@
+{
+  "id": "15433022",
+  "fullDetails": {
+    "licenseNumber": "15433022",
+    "name": "TRICORBRAUN CANADA",
+    "address": "#21 10099 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-12-11T05:31:30.000Z",
+    "expiryDate": "2026-12-10T05:31:30.000Z",
+    "coordinates": [
+      -114.0259001,
+      51.1428055
+    ],
+    "longitude": -114.0259001,
+    "latitude": 51.1428055,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

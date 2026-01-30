@@ -1,0 +1,37 @@
+{
+  "id": "12312435",
+  "fullDetails": {
+    "licenseNumber": "12312435",
+    "name": "CALGARY CO-OP GAS BAR #20",
+    "address": "#4002 11595 ROCKYVALLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-10-21T08:56:01.000Z",
+    "expiryDate": "2026-10-20T08:56:01.000Z",
+    "coordinates": [
+      -114.2564563,
+      51.148098
+    ],
+    "longitude": -114.2564563,
+    "latitude": 51.148098,
+    "community": "ROCKY RIDGE",
+    "ward": "ROC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

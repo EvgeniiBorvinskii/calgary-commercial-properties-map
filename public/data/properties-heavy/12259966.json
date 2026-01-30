@@ -1,0 +1,36 @@
+{
+  "id": "12259966",
+  "fullDetails": {
+    "licenseNumber": "12259966",
+    "name": "LENSCRAFTERS 0901",
+    "address": "#1110 5235 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-06T08:30:32.000Z",
+    "expiryDate": "2026-02-05T08:30:32.000Z",
+    "coordinates": [
+      -114.1417953,
+      51.099908
+    ],
+    "longitude": -114.1417953,
+    "latitude": 51.099908,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

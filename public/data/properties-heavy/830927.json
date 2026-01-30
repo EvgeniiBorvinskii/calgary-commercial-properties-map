@@ -1,0 +1,36 @@
+{
+  "id": "830927",
+  "fullDetails": {
+    "licenseNumber": "830927",
+    "name": "EXPLOSIVE LANDSCAPING",
+    "address": "6447 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-05-31T05:47:39.000Z",
+    "expiryDate": "2026-05-30T05:47:39.000Z",
+    "coordinates": [
+      -114.0605309,
+      50.9944724
+    ],
+    "longitude": -114.0605309,
+    "latitude": 50.9944724,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

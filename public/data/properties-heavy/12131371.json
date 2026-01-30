@@ -1,0 +1,36 @@
+{
+  "id": "12131371",
+  "fullDetails": {
+    "licenseNumber": "12131371",
+    "name": "LONE STAR PLUMBING",
+    "address": "#14 4816 35B ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-08-08T18:07:44.000Z",
+    "expiryDate": "2026-08-07T18:07:44.000Z",
+    "coordinates": [
+      -113.9776295,
+      51.0120123
+    ],
+    "longitude": -113.9776295,
+    "latitude": 51.0120123,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

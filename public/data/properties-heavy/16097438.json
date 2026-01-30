@@ -1,0 +1,37 @@
+{
+  "id": "16097438",
+  "fullDetails": {
+    "licenseNumber": "16097438",
+    "name": "BOZY BEAUTY",
+    "address": "#500 6700 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-20T12:41:14.000Z",
+    "expiryDate": "2026-09-19T12:41:14.000Z",
+    "coordinates": [
+      -114.0702458,
+      50.9937517
+    ],
+    "longitude": -114.0702458,
+    "latitude": 50.9937517,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

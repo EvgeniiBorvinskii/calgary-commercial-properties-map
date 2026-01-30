@@ -1,0 +1,36 @@
+{
+  "id": "15419104",
+  "fullDetails": {
+    "licenseNumber": "15419104",
+    "name": "KI MOBILITY CANADA",
+    "address": "972 72 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-09-18T14:27:23.000Z",
+    "expiryDate": "2026-09-17T14:27:23.000Z",
+    "coordinates": [
+      -114.0421182,
+      51.1182341
+    ],
+    "longitude": -114.0421182,
+    "latitude": 51.1182341,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

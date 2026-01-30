@@ -1,0 +1,36 @@
+{
+  "id": "12254546",
+  "fullDetails": {
+    "licenseNumber": "12254546",
+    "name": "PROFESSIONAL SKATE SERVICE",
+    "address": "1070 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-24T14:17:28.000Z",
+    "expiryDate": "2026-07-23T14:17:28.000Z",
+    "coordinates": [
+      -114.0395901,
+      51.0165499
+    ],
+    "longitude": -114.0395901,
+    "latitude": 51.0165499,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "847087",
+  "fullDetails": {
+    "licenseNumber": "847087",
+    "name": "THERMOTEX THERAPY SYSTEMS",
+    "address": "#15 6115 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-20T00:00:00.000Z",
+    "coordinates": [
+      -114.0544276,
+      50.9983568
+    ],
+    "longitude": -114.0544276,
+    "latitude": 50.9983568,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

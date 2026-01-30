@@ -1,0 +1,36 @@
+{
+  "id": "13022769",
+  "fullDetails": {
+    "licenseNumber": "13022769",
+    "name": "JF AUTO SERVICES",
+    "address": "3347 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-03-25T12:54:51.000Z",
+    "expiryDate": "2026-03-24T12:54:51.000Z",
+    "coordinates": [
+      -113.9919926,
+      50.9997276
+    ],
+    "longitude": -113.9919926,
+    "latitude": 50.9997276,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

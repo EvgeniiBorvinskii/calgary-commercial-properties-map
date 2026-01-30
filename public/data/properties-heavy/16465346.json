@@ -1,0 +1,36 @@
+{
+  "id": "16465346",
+  "fullDetails": {
+    "licenseNumber": "16465346",
+    "name": "RED RUDDY GROUP",
+    "address": "#1800 330 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-09-09T10:13:35.000Z",
+    "expiryDate": "2026-09-08T10:13:34.000Z",
+    "coordinates": [
+      -114.0692067,
+      51.0488629
+    ],
+    "longitude": -114.0692067,
+    "latitude": 51.0488629,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

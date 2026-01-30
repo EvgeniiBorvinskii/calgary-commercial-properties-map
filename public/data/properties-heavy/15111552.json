@@ -1,0 +1,36 @@
+{
+  "id": "15111552",
+  "fullDetails": {
+    "licenseNumber": "15111552",
+    "name": "BLEND AND BLOOM SALON",
+    "address": "#210 927 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-10-21T10:54:44.000Z",
+    "expiryDate": "2026-10-20T10:54:43.000Z",
+    "coordinates": [
+      -114.0830585,
+      51.043697
+    ],
+    "longitude": -114.0830585,
+    "latitude": 51.043697,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

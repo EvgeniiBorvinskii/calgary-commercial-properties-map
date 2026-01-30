@@ -1,0 +1,37 @@
+{
+  "id": "16107401",
+  "fullDetails": {
+    "licenseNumber": "16107401",
+    "name": "TIM HORTONS",
+    "address": "347 SOUTHLAND DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-12-14T15:50:26.000Z",
+    "expiryDate": "2026-12-13T15:50:26.000Z",
+    "coordinates": [
+      -114.0602143,
+      50.9637189
+    ],
+    "longitude": -114.0602143,
+    "latitude": 50.9637189,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

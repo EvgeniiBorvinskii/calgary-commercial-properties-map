@@ -1,0 +1,36 @@
+{
+  "id": "15759269",
+  "fullDetails": {
+    "licenseNumber": "15759269",
+    "name": "AUTO PLANET",
+    "address": "2730 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-21T14:41:43.000Z",
+    "expiryDate": "2026-11-20T14:41:43.000Z",
+    "coordinates": [
+      -114.0042119,
+      51.076339
+    ],
+    "longitude": -114.0042119,
+    "latitude": 51.076339,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

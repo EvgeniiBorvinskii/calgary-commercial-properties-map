@@ -1,0 +1,36 @@
+{
+  "id": "15255615",
+  "fullDetails": {
+    "licenseNumber": "15255615",
+    "name": "SIPS WINE + BEER",
+    "address": "#426 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2019-07-30T13:11:43.000Z",
+    "expiryDate": "2026-07-29T13:11:42.000Z",
+    "coordinates": [
+      -114.0683723,
+      50.9414187
+    ],
+    "longitude": -114.0683723,
+    "latitude": 50.9414187,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

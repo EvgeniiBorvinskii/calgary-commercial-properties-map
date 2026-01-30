@@ -1,0 +1,36 @@
+{
+  "id": "16128548",
+  "fullDetails": {
+    "licenseNumber": "16128548",
+    "name": "BELL  CONNECTIONS",
+    "address": "#3106 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-25T12:12:48.000Z",
+    "expiryDate": "2026-02-24T12:12:48.000Z",
+    "coordinates": [
+      -114.0411241,
+      51.1092937
+    ],
+    "longitude": -114.0411241,
+    "latitude": 51.1092937,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

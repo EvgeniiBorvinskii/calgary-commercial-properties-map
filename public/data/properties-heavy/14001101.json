@@ -1,0 +1,37 @@
+{
+  "id": "14001101",
+  "fullDetails": {
+    "licenseNumber": "14001101",
+    "name": "KAL TIRE #633 / #403",
+    "address": "7307 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-11-30T11:53:21.000Z",
+    "expiryDate": "2026-11-29T11:53:21.000Z",
+    "coordinates": [
+      -113.9779272,
+      50.9888764
+    ],
+    "longitude": -113.9779272,
+    "latitude": 50.9888764,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

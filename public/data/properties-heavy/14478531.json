@@ -1,0 +1,37 @@
+{
+  "id": "14478531",
+  "fullDetails": {
+    "licenseNumber": "14478531",
+    "name": "CITIZEN BREWING COMPANY",
+    "address": "227 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE MANUFACTURER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-07-24T14:41:13.000Z",
+    "expiryDate": "2026-07-23T14:41:13.000Z",
+    "coordinates": [
+      -114.0584189,
+      51.0838907
+    ],
+    "longitude": -114.0584189,
+    "latitude": 51.0838907,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

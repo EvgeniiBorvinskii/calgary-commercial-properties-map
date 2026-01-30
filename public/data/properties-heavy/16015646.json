@@ -1,0 +1,36 @@
+{
+  "id": "16015646",
+  "fullDetails": {
+    "licenseNumber": "16015646",
+    "name": "WOW BAKERY & FOOD",
+    "address": "6120 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-06T11:22:36.000Z",
+    "expiryDate": "2026-05-05T11:22:36.000Z",
+    "coordinates": [
+      -113.9693316,
+      50.9998144
+    ],
+    "longitude": -113.9693316,
+    "latitude": 50.9998144,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

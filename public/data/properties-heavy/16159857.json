@@ -1,0 +1,36 @@
+{
+  "id": "16159857",
+  "fullDetails": {
+    "licenseNumber": "16159857",
+    "name": "BLACK BELT JUNGS TAEKWONDO",
+    "address": "#310 3775 202 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-12-05T12:18:35.000Z",
+    "expiryDate": "2026-12-04T12:18:35.000Z",
+    "coordinates": [
+      -113.9502462,
+      50.8656074
+    ],
+    "longitude": -113.9502462,
+    "latitude": 50.8656074,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

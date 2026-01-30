@@ -1,0 +1,36 @@
+{
+  "id": "13406459",
+  "fullDetails": {
+    "licenseNumber": "13406459",
+    "name": "IMPRESSIONS AUTO SALES",
+    "address": "2430 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-12T05:34:38.000Z",
+    "expiryDate": "2026-07-11T05:34:38.000Z",
+    "coordinates": [
+      -114.0025483,
+      51.0071864
+    ],
+    "longitude": -114.0025483,
+    "latitude": 51.0071864,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

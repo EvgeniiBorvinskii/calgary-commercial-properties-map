@@ -1,0 +1,36 @@
+{
+  "id": "16109050",
+  "fullDetails": {
+    "licenseNumber": "16109050",
+    "name": "THE JANE",
+    "address": "#300 508 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2021-12-02T10:10:44.000Z",
+    "expiryDate": "2026-12-01T10:10:44.000Z",
+    "coordinates": [
+      -114.0719504,
+      51.0318124
+    ],
+    "longitude": -114.0719504,
+    "latitude": 51.0318124,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

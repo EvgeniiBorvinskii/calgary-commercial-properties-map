@@ -1,0 +1,36 @@
+{
+  "id": "16564346",
+  "fullDetails": {
+    "licenseNumber": "16564346",
+    "name": "PAWTICULAR PET SUPPLY",
+    "address": "#149 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-17T11:19:15.000Z",
+    "expiryDate": "2027-01-16T11:19:15.000Z",
+    "coordinates": [
+      -114.119963,
+      50.9713059
+    ],
+    "longitude": -114.119963,
+    "latitude": 50.9713059,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

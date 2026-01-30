@@ -1,0 +1,36 @@
+{
+  "id": "16599193",
+  "fullDetails": {
+    "licenseNumber": "16599193",
+    "name": "FIRST TRANSIT CANADA",
+    "address": "8330 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2025-08-07T10:11:27.000Z",
+    "expiryDate": "2026-08-06T10:11:26.000Z",
+    "coordinates": [
+      -113.9636342,
+      50.9789715
+    ],
+    "longitude": -113.9636342,
+    "latitude": 50.9789715,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

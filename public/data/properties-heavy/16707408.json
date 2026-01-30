@@ -1,0 +1,36 @@
+{
+  "id": "16707408",
+  "fullDetails": {
+    "licenseNumber": "16707408",
+    "name": "STUDIO 333 WELLNESS CENTRE",
+    "address": "#200 909 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-12-02T15:04:02.000Z",
+    "expiryDate": "2026-12-01T15:04:02.000Z",
+    "coordinates": [
+      -114.0815495,
+      51.0486387
+    ],
+    "longitude": -114.0815495,
+    "latitude": 51.0486387,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

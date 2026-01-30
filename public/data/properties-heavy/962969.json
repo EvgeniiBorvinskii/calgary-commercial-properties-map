@@ -1,0 +1,36 @@
+{
+  "id": "962969",
+  "fullDetails": {
+    "licenseNumber": "962969",
+    "name": "SPRING",
+    "address": "#109 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-06-03T05:30:33.000Z",
+    "expiryDate": "2026-06-02T05:30:33.000Z",
+    "coordinates": [
+      -114.0739121,
+      50.9967537
+    ],
+    "longitude": -114.0739121,
+    "latitude": 50.9967537,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

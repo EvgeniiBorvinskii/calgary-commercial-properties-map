@@ -1,0 +1,36 @@
+{
+  "id": "13692272",
+  "fullDetails": {
+    "licenseNumber": "13692272",
+    "name": "ALL FABRICATION MACHINERY",
+    "address": "#104 5050 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2024-06-05T14:31:59.000Z",
+    "expiryDate": "2026-06-04T14:31:59.000Z",
+    "coordinates": [
+      -113.9633465,
+      50.9583601
+    ],
+    "longitude": -113.9633465,
+    "latitude": 50.9583601,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

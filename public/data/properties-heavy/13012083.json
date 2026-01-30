@@ -1,0 +1,36 @@
+{
+  "id": "13012083",
+  "fullDetails": {
+    "licenseNumber": "13012083",
+    "name": "MICHAEL KORS #5510",
+    "address": "#1187 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-11-23T12:52:48.000Z",
+    "expiryDate": "2026-11-22T12:52:48.000Z",
+    "coordinates": [
+      -114.0734847,
+      50.9994796
+    ],
+    "longitude": -114.0734847,
+    "latitude": 50.9994796,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16514440",
+  "fullDetails": {
+    "licenseNumber": "16514440",
+    "name": "LIQUOR BANK HIDDEN VALLEY",
+    "address": "#218 11 HIDDEN CREEK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-08-28T09:19:35.000Z",
+    "expiryDate": "2026-08-27T09:19:34.000Z",
+    "coordinates": [
+      -114.1058319,
+      51.1551755
+    ],
+    "longitude": -114.1058319,
+    "latitude": 51.1551755,
+    "community": "HIDDEN VALLEY",
+    "ward": "HID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15889793",
+  "fullDetails": {
+    "licenseNumber": "15889793",
+    "name": "HUDSON #2173",
+    "address": "#301AC 2016D AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-12-08T12:13:07.000Z",
+    "expiryDate": "2026-12-07T12:13:07.000Z",
+    "coordinates": [
+      -114.0045825,
+      51.1303398
+    ],
+    "longitude": -114.0045825,
+    "latitude": 51.1303398,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

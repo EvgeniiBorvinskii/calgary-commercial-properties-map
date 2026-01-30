@@ -1,0 +1,37 @@
+{
+  "id": "14785471",
+  "fullDetails": {
+    "licenseNumber": "14785471",
+    "name": "PIN BAR",
+    "address": "501 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2018-02-15T14:24:35.000Z",
+    "expiryDate": "2026-02-14T14:24:35.000Z",
+    "coordinates": [
+      -114.0718111,
+      51.0375996
+    ],
+    "longitude": -114.0718111,
+    "latitude": 51.0375996,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

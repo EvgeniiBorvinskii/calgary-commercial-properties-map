@@ -1,0 +1,37 @@
+{
+  "id": "14403133",
+  "fullDetails": {
+    "licenseNumber": "14403133",
+    "name": "PROFESSIONAL EXCAVATORS & CONSTRUCTION",
+    "address": "10919 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1),\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-01-10T15:17:30.000Z",
+    "expiryDate": "2027-01-09T15:17:30.000Z",
+    "coordinates": [
+      -113.9127636,
+      50.9555859
+    ],
+    "longitude": -113.9127636,
+    "latitude": 50.9555859,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

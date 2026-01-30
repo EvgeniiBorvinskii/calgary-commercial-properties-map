@@ -1,0 +1,36 @@
+{
+  "id": "15995814",
+  "fullDetails": {
+    "licenseNumber": "15995814",
+    "name": "SUBWAY",
+    "address": "#178 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-07-16T15:29:04.000Z",
+    "expiryDate": "2026-07-15T15:29:04.000Z",
+    "coordinates": [
+      -113.9561457,
+      51.063528
+    ],
+    "longitude": -113.9561457,
+    "latitude": 51.063528,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12735189",
+  "fullDetails": {
+    "licenseNumber": "12735189",
+    "name": "CRAVE CUPCAKES",
+    "address": "#222 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2008-12-01T12:12:11.000Z",
+    "expiryDate": "2026-11-30T12:12:11.000Z",
+    "coordinates": [
+      -114.0690982,
+      50.9565145
+    ],
+    "longitude": -114.0690982,
+    "latitude": 50.9565145,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

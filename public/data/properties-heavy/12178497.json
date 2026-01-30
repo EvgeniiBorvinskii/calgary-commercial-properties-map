@@ -1,0 +1,36 @@
+{
+  "id": "12178497",
+  "fullDetails": {
+    "licenseNumber": "12178497",
+    "name": "GOLD SEAL MECHANICAL",
+    "address": "7721 40 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2004-02-20T13:56:39.000Z",
+    "expiryDate": "2026-02-19T13:56:39.000Z",
+    "coordinates": [
+      -113.9769146,
+      51.1217407
+    ],
+    "longitude": -113.9769146,
+    "latitude": 51.1217407,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

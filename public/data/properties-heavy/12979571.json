@@ -1,0 +1,37 @@
+{
+  "id": "12979571",
+  "fullDetails": {
+    "licenseNumber": "12979571",
+    "name": "ALBERTA FIRE & FLOOD",
+    "address": "7029 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-08-19T05:33:06.000Z",
+    "expiryDate": "2026-08-18T05:33:06.000Z",
+    "coordinates": [
+      -114.0587084,
+      50.9916477
+    ],
+    "longitude": -114.0587084,
+    "latitude": 50.9916477,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

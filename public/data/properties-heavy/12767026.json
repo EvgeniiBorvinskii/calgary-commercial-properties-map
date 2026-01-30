@@ -1,0 +1,36 @@
+{
+  "id": "12767026",
+  "fullDetails": {
+    "licenseNumber": "12767026",
+    "name": "APARTMENT BUILDING",
+    "address": "825 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2009-04-04T05:44:29.000Z",
+    "expiryDate": "2026-04-03T05:44:29.000Z",
+    "coordinates": [
+      -114.0805559,
+      51.0417251
+    ],
+    "longitude": -114.0805559,
+    "latitude": 51.0417251,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "957449",
+  "fullDetails": {
+    "licenseNumber": "957449",
+    "name": "HUNGARIAN DELI",
+    "address": "4020 26 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-19T00:00:00.000Z",
+    "coordinates": [
+      -113.9985036,
+      51.0181535
+    ],
+    "longitude": -113.9985036,
+    "latitude": 51.0181535,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

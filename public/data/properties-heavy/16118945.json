@@ -1,0 +1,37 @@
+{
+  "id": "16118945",
+  "fullDetails": {
+    "licenseNumber": "16118945",
+    "name": "BOOSTER JUICE",
+    "address": "#104 333 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-08T08:04:52.000Z",
+    "expiryDate": "2026-02-07T08:04:52.000Z",
+    "coordinates": [
+      -114.0636623,
+      50.8971147
+    ],
+    "longitude": -114.0636623,
+    "latitude": 50.8971147,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

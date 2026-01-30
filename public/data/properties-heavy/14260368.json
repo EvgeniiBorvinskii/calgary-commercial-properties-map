@@ -1,0 +1,37 @@
+{
+  "id": "14260368",
+  "fullDetails": {
+    "licenseNumber": "14260368",
+    "name": "7-ELEVEN (CANADA STORE #37794H)",
+    "address": "6510 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-14T10:30:03.000Z",
+    "expiryDate": "2026-11-13T10:30:03.000Z",
+    "coordinates": [
+      -114.1832323,
+      51.142326
+    ],
+    "longitude": -114.1832323,
+    "latitude": 51.142326,
+    "community": "CITADEL",
+    "ward": "CIT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

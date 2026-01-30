@@ -1,0 +1,36 @@
+{
+  "id": "13825088",
+  "fullDetails": {
+    "licenseNumber": "13825088",
+    "name": "STATESMAN GC",
+    "address": "#236 7370 SIERRA MORENA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2015-02-12T13:08:26.000Z",
+    "expiryDate": "2026-02-11T13:08:26.000Z",
+    "coordinates": [
+      -114.1768523,
+      51.0159806
+    ],
+    "longitude": -114.1768523,
+    "latitude": 51.0159806,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

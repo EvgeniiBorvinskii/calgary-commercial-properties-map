@@ -1,0 +1,37 @@
+{
+  "id": "16298390",
+  "fullDetails": {
+    "licenseNumber": "16298390",
+    "name": "FAIZ AND LAYEQ GENERAL TRADING",
+    "address": "#4186 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2023-08-31T15:19:00.000Z",
+    "expiryDate": "2025-08-30T15:19:00.000Z",
+    "coordinates": [
+      -113.9797356,
+      51.0982204
+    ],
+    "longitude": -113.9797356,
+    "latitude": 51.0982204,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

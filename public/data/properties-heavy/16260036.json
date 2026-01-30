@@ -1,0 +1,36 @@
+{
+  "id": "16260036",
+  "fullDetails": {
+    "licenseNumber": "16260036",
+    "name": "PLANTLIFE",
+    "address": "#224 70 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2022-12-14T16:38:37.000Z",
+    "expiryDate": "2026-12-13T16:38:37.000Z",
+    "coordinates": [
+      -114.0643137,
+      50.9063705
+    ],
+    "longitude": -114.0643137,
+    "latitude": 50.9063705,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

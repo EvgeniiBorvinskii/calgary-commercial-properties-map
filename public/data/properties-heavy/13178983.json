@@ -1,0 +1,36 @@
+{
+  "id": "13178983",
+  "fullDetails": {
+    "licenseNumber": "13178983",
+    "name": "CLASSIQUE DANCE & ACTIVEWEAR",
+    "address": "#16 6624 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-06-22T09:26:16.000Z",
+    "expiryDate": "2026-06-21T09:26:16.000Z",
+    "coordinates": [
+      -114.062127,
+      50.9947994
+    ],
+    "longitude": -114.062127,
+    "latitude": 50.9947994,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

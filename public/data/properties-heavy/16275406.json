@@ -1,0 +1,36 @@
+{
+  "id": "16275406",
+  "fullDetails": {
+    "licenseNumber": "16275406",
+    "name": "ROYAL PIZZA SETON",
+    "address": "#150 3775 202 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-23T14:04:06.000Z",
+    "expiryDate": "2026-06-22T14:04:06.000Z",
+    "coordinates": [
+      -113.9509491,
+      50.86607
+    ],
+    "longitude": -113.9509491,
+    "latitude": 50.86607,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

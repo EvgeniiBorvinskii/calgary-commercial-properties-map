@@ -1,0 +1,36 @@
+{
+  "id": "15895063",
+  "fullDetails": {
+    "licenseNumber": "15895063",
+    "name": "JED'S AUTOKOSMETIK",
+    "address": "#20 6420 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2020-07-20T14:32:23.000Z",
+    "expiryDate": "2026-07-19T14:32:23.000Z",
+    "coordinates": [
+      -113.9395393,
+      50.9822018
+    ],
+    "longitude": -113.9395393,
+    "latitude": 50.9822018,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

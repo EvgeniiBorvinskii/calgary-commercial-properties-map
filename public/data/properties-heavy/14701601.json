@@ -1,0 +1,37 @@
+{
+  "id": "14701601",
+  "fullDetails": {
+    "licenseNumber": "14701601",
+    "name": "KEY FOOD EQUIPMENT SERVICES",
+    "address": "437 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-01-28T10:19:16.000Z",
+    "expiryDate": "2027-01-27T10:19:15.000Z",
+    "coordinates": [
+      -114.0531012,
+      51.0100259
+    ],
+    "longitude": -114.0531012,
+    "latitude": 51.0100259,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

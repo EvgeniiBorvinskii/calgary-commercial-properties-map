@@ -1,0 +1,37 @@
+{
+  "id": "15942923",
+  "fullDetails": {
+    "licenseNumber": "15942923",
+    "name": "HOLIDAY INN EXPRESS & SUITES AIRPORT TRAIL",
+    "address": "41 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "HOTEL/MOTEL,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-14T16:06:00.000Z",
+    "expiryDate": "2026-10-13T16:06:00.000Z",
+    "coordinates": [
+      -114.0288273,
+      51.1413094
+    ],
+    "longitude": -114.0288273,
+    "latitude": 51.1413094,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

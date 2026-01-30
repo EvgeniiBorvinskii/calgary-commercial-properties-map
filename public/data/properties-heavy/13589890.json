@@ -1,0 +1,36 @@
+{
+  "id": "13589890",
+  "fullDetails": {
+    "licenseNumber": "13589890",
+    "name": "COMPASS BENDING",
+    "address": "#3 2707 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-09-15T05:31:41.000Z",
+    "expiryDate": "2026-09-14T05:31:41.000Z",
+    "coordinates": [
+      -113.998467,
+      51.0029705
+    ],
+    "longitude": -113.998467,
+    "latitude": 51.0029705,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

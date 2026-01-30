@@ -1,0 +1,36 @@
+{
+  "id": "61937",
+  "fullDetails": {
+    "licenseNumber": "61937",
+    "name": "STRATHCONA CLEANERS",
+    "address": "#4165 7005 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "pending",
+    "issuedDate": "2017-04-04T05:30:55.000Z",
+    "expiryDate": "2026-04-03T05:30:54.000Z",
+    "coordinates": [
+      -114.0656587,
+      50.992496
+    ],
+    "longitude": -114.0656587,
+    "latitude": 50.992496,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

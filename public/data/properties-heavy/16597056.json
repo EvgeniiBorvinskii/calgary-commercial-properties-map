@@ -1,0 +1,37 @@
+{
+  "id": "16597056",
+  "fullDetails": {
+    "licenseNumber": "16597056",
+    "name": "WESTSYDE SUPPLIES",
+    "address": "#6 4451 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-07-25T11:07:14.000Z",
+    "expiryDate": "2026-07-24T11:07:14.000Z",
+    "coordinates": [
+      -113.9710961,
+      50.998204
+    ],
+    "longitude": -113.9710961,
+    "latitude": 50.998204,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

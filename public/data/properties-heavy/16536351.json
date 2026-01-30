@@ -1,0 +1,36 @@
+{
+  "id": "16536351",
+  "fullDetails": {
+    "licenseNumber": "16536351",
+    "name": "BOLDER MENSWEAR",
+    "address": "#488 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-20T09:17:09.000Z",
+    "expiryDate": "2026-09-19T09:17:08.000Z",
+    "coordinates": [
+      -114.0705024,
+      50.9562907
+    ],
+    "longitude": -114.0705024,
+    "latitude": 50.9562907,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

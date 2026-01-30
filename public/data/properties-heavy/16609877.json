@@ -1,0 +1,36 @@
+{
+  "id": "16609877",
+  "fullDetails": {
+    "licenseNumber": "16609877",
+    "name": "OG APPAREL CO.",
+    "address": "#1135 4058 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-27T08:36:03.000Z",
+    "expiryDate": "2026-03-26T08:36:03.000Z",
+    "coordinates": [
+      -113.9764476,
+      51.1537679
+    ],
+    "longitude": -113.9764476,
+    "latitude": 51.1537679,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

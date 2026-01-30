@@ -1,0 +1,37 @@
+{
+  "id": "15696867",
+  "fullDetails": {
+    "licenseNumber": "15696867",
+    "name": "REMARKABLE HARDWOOD FLOORING",
+    "address": "#1 5622 BURBANK CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-02-10T10:00:10.000Z",
+    "expiryDate": "2027-02-09T10:00:10.000Z",
+    "coordinates": [
+      -114.0464831,
+      51.0055475
+    ],
+    "longitude": -114.0464831,
+    "latitude": 51.0055475,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12860573",
+  "fullDetails": {
+    "licenseNumber": "12860573",
+    "name": "2STONE DESIGNER CONCRETE",
+    "address": "#40 3504 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2014-11-21T16:08:16.000Z",
+    "expiryDate": "2026-11-20T16:08:16.000Z",
+    "coordinates": [
+      -113.9831208,
+      50.9898934
+    ],
+    "longitude": -113.9831208,
+    "latitude": 50.9898934,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16106148",
+  "fullDetails": {
+    "licenseNumber": "16106148",
+    "name": "DEEMACK ENTERPRISES",
+    "address": "419 MONUMENT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-07-26T10:42:34.000Z",
+    "expiryDate": "2026-07-25T10:42:34.000Z",
+    "coordinates": [
+      -113.997257,
+      51.0495601
+    ],
+    "longitude": -113.997257,
+    "latitude": 51.0495601,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

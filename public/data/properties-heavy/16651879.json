@@ -1,0 +1,36 @@
+{
+  "id": "16651879",
+  "fullDetails": {
+    "licenseNumber": "16651879",
+    "name": "HARMONY MEDICARE",
+    "address": "#100 207 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-01T16:10:05.000Z",
+    "expiryDate": "2026-09-30T16:10:04.000Z",
+    "coordinates": [
+      -114.0950787,
+      51.0537664
+    ],
+    "longitude": -114.0950787,
+    "latitude": 51.0537664,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

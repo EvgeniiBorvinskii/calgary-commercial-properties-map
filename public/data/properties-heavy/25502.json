@@ -1,0 +1,37 @@
+{
+  "id": "25502",
+  "fullDetails": {
+    "licenseNumber": "25502",
+    "name": "DALHOUSIE COMMUNITY",
+    "address": "5432 DALHART RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1597067,
+      51.112844
+    ],
+    "longitude": -114.1597067,
+    "latitude": 51.112844,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

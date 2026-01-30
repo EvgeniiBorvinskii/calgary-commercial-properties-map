@@ -1,0 +1,37 @@
+{
+  "id": "13799796",
+  "fullDetails": {
+    "licenseNumber": "13799796",
+    "name": "RAJ PALACE RESTAURANT - ROYAL OAK",
+    "address": "#3117 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-10-24T05:32:56.000Z",
+    "expiryDate": "2026-10-23T05:32:56.000Z",
+    "coordinates": [
+      -114.2103576,
+      51.152484
+    ],
+    "longitude": -114.2103576,
+    "latitude": 51.152484,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

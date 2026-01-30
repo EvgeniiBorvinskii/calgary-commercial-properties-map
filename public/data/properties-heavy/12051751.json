@@ -1,0 +1,36 @@
+{
+  "id": "12051751",
+  "fullDetails": {
+    "licenseNumber": "12051751",
+    "name": "CALGARY AUTO QUEST",
+    "address": "5317 21A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-12-07T05:50:37.000Z",
+    "expiryDate": "2026-12-06T05:50:36.000Z",
+    "coordinates": [
+      -113.957168,
+      51.034288
+    ],
+    "longitude": -113.957168,
+    "latitude": 51.034288,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16087231",
+  "fullDetails": {
+    "licenseNumber": "16087231",
+    "name": "MOTT ELECTRIC GP",
+    "address": "#12 2135 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-03-07T14:31:32.000Z",
+    "expiryDate": "2026-03-06T14:31:32.000Z",
+    "coordinates": [
+      -114.0088321,
+      51.0805141
+    ],
+    "longitude": -114.0088321,
+    "latitude": 51.0805141,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

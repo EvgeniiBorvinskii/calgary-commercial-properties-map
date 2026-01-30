@@ -1,0 +1,36 @@
+{
+  "id": "14730675",
+  "fullDetails": {
+    "licenseNumber": "14730675",
+    "name": "2076042 ALBERTA",
+    "address": "2410 24 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-15T15:01:55.000Z",
+    "expiryDate": "2026-11-14T15:01:55.000Z",
+    "coordinates": [
+      -114.0003892,
+      51.0737419
+    ],
+    "longitude": -114.0003892,
+    "latitude": 51.0737419,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

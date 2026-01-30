@@ -1,0 +1,37 @@
+{
+  "id": "14854863",
+  "fullDetails": {
+    "licenseNumber": "14854863",
+    "name": "BE U NAILS + BEAUTY",
+    "address": "#120 250 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2018-03-23T13:28:28.000Z",
+    "expiryDate": "2026-03-22T13:28:28.000Z",
+    "coordinates": [
+      -114.0631928,
+      50.9023876
+    ],
+    "longitude": -114.0631928,
+    "latitude": 50.9023876,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

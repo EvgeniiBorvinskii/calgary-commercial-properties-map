@@ -1,0 +1,36 @@
+{
+  "id": "16692998",
+  "fullDetails": {
+    "licenseNumber": "16692998",
+    "name": "S & T VIETNAMESE KITCHEN",
+    "address": "#11FC 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-18T09:11:09.000Z",
+    "expiryDate": "2026-11-17T09:11:09.000Z",
+    "coordinates": [
+      -114.0646611,
+      50.9527276
+    ],
+    "longitude": -114.0646611,
+    "latitude": 50.9527276,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

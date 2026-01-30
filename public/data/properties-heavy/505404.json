@@ -1,0 +1,36 @@
+{
+  "id": "505404",
+  "fullDetails": {
+    "licenseNumber": "505404",
+    "name": "PANTHER SPORTS MEDICINE & REHABILITATION CENTRES (MARLBOROUGH)",
+    "address": "425 MARLBOROUGH WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2002-04-19T17:31:11.000Z",
+    "expiryDate": "2026-03-06T00:00:00.000Z",
+    "coordinates": [
+      -113.9778986,
+      51.0555415
+    ],
+    "longitude": -113.9778986,
+    "latitude": 51.0555415,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

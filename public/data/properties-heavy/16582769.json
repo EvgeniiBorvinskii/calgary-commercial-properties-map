@@ -1,0 +1,36 @@
+{
+  "id": "16582769",
+  "fullDetails": {
+    "licenseNumber": "16582769",
+    "name": "MICHELLES LITTLE HAIR STUDIO",
+    "address": "#313 4620 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-02-27T11:44:28.000Z",
+    "expiryDate": "2026-02-26T11:44:27.000Z",
+    "coordinates": [
+      -114.1531336,
+      51.0491997
+    ],
+    "longitude": -114.1531336,
+    "latitude": 51.0491997,
+    "community": "WILDWOOD",
+    "ward": "WLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

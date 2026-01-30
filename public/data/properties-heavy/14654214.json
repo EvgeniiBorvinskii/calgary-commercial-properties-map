@@ -1,0 +1,36 @@
+{
+  "id": "14654214",
+  "fullDetails": {
+    "licenseNumber": "14654214",
+    "name": "MAINSTREET EQUITY",
+    "address": "2121 17 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-09-21T12:16:57.000Z",
+    "expiryDate": "2026-09-20T12:16:57.000Z",
+    "coordinates": [
+      -114.1019983,
+      51.0357962
+    ],
+    "longitude": -114.1019983,
+    "latitude": 51.0357962,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

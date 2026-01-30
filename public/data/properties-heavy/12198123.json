@@ -1,0 +1,37 @@
+{
+  "id": "12198123",
+  "fullDetails": {
+    "licenseNumber": "12198123",
+    "name": "ALBERTA AUTO SALES & REPAIRS",
+    "address": "4137 16A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2011-12-07T05:57:25.000Z",
+    "expiryDate": "2026-12-06T05:57:25.000Z",
+    "coordinates": [
+      -114.0211212,
+      51.0172212
+    ],
+    "longitude": -114.0211212,
+    "latitude": 51.0172212,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

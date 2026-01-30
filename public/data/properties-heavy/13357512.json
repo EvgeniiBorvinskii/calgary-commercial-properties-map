@@ -1,0 +1,36 @@
+{
+  "id": "13357512",
+  "fullDetails": {
+    "licenseNumber": "13357512",
+    "name": "TELUS",
+    "address": "#366 5222 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-01-26T15:43:13.000Z",
+    "expiryDate": "2027-01-25T15:43:13.000Z",
+    "coordinates": [
+      -113.9599892,
+      50.9322624
+    ],
+    "longitude": -113.9599892,
+    "latitude": 50.9322624,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

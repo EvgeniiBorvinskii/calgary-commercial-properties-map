@@ -1,0 +1,36 @@
+{
+  "id": "16546830",
+  "fullDetails": {
+    "licenseNumber": "16546830",
+    "name": "AL-BARAKAH MEATS HOME AND TAKEAWAY GOURMET AND SOUPS",
+    "address": "#108 218 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-18T09:29:13.000Z",
+    "expiryDate": "2026-11-17T09:29:12.000Z",
+    "coordinates": [
+      -113.9484063,
+      51.1243564
+    ],
+    "longitude": -113.9484063,
+    "latitude": 51.1243564,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

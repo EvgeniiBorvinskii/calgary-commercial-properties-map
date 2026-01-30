@@ -1,0 +1,36 @@
+{
+  "id": "471102",
+  "fullDetails": {
+    "licenseNumber": "471102",
+    "name": "GLASS UNLIMITED",
+    "address": "6413 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-26T00:00:00.000Z",
+    "coordinates": [
+      -113.9836961,
+      50.9961462
+    ],
+    "longitude": -113.9836961,
+    "latitude": 50.9961462,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

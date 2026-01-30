@@ -1,0 +1,37 @@
+{
+  "id": "16402158",
+  "fullDetails": {
+    "licenseNumber": "16402158",
+    "name": "NELLIE'S ON 90TH",
+    "address": "#209 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-11-23T15:44:40.000Z",
+    "expiryDate": "2026-11-22T15:44:40.000Z",
+    "coordinates": [
+      -114.1193008,
+      50.9718651
+    ],
+    "longitude": -114.1193008,
+    "latitude": 50.9718651,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

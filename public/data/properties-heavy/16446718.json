@@ -1,0 +1,36 @@
+{
+  "id": "16446718",
+  "fullDetails": {
+    "licenseNumber": "16446718",
+    "name": "FOOD FOR YOU YYC",
+    "address": "4519 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-12T12:29:15.000Z",
+    "expiryDate": "2026-02-11T12:29:15.000Z",
+    "coordinates": [
+      -114.062317,
+      51.0131923
+    ],
+    "longitude": -114.062317,
+    "latitude": 51.0131923,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14022099",
+  "fullDetails": {
+    "licenseNumber": "14022099",
+    "name": "PAPA JOHN'S PIZZA",
+    "address": "#502 8 NOLAN HILL BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2015-11-04T08:39:22.000Z",
+    "expiryDate": "2026-11-03T08:39:21.000Z",
+    "coordinates": [
+      -114.1582912,
+      51.1725131
+    ],
+    "longitude": -114.1582912,
+    "latitude": 51.1725131,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

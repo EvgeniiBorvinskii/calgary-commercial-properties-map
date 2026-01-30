@@ -1,0 +1,36 @@
+{
+  "id": "12176566",
+  "fullDetails": {
+    "licenseNumber": "12176566",
+    "name": "ABE'S BARBER AND TANNING",
+    "address": "#110A 10325 BONAVENTURE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2003-03-28T05:42:48.000Z",
+    "expiryDate": "2026-03-27T05:42:48.000Z",
+    "coordinates": [
+      -114.0695844,
+      50.9603164
+    ],
+    "longitude": -114.0695844,
+    "latitude": 50.9603164,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

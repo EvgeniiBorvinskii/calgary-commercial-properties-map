@@ -1,0 +1,37 @@
+{
+  "id": "644492",
+  "fullDetails": {
+    "licenseNumber": "644492",
+    "name": "A & W",
+    "address": "422 MCKNIGHT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-04T00:00:00.000Z",
+    "coordinates": [
+      -114.0551301,
+      51.0964249
+    ],
+    "longitude": -114.0551301,
+    "latitude": 51.0964249,
+    "community": "GREENVIEW",
+    "ward": "GRV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

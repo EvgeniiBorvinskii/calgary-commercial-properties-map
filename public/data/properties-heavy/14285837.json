@@ -1,0 +1,36 @@
+{
+  "id": "14285837",
+  "fullDetails": {
+    "licenseNumber": "14285837",
+    "name": "LIQUI-FORCE SERVICES",
+    "address": "3637 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-10-02T14:41:20.000Z",
+    "expiryDate": "2026-10-01T14:41:20.000Z",
+    "coordinates": [
+      -113.9803926,
+      51.0134796
+    ],
+    "longitude": -113.9803926,
+    "latitude": 51.0134796,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13988571",
+  "fullDetails": {
+    "licenseNumber": "13988571",
+    "name": "SKS CALGARY TRUCK REPAIR",
+    "address": "9812 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-09-06T15:23:18.000Z",
+    "expiryDate": "2026-09-05T15:23:18.000Z",
+    "coordinates": [
+      -113.9731282,
+      50.9658503
+    ],
+    "longitude": -113.9731282,
+    "latitude": 50.9658503,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

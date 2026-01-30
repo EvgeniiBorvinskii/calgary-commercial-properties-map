@@ -1,0 +1,37 @@
+{
+  "id": "15677065",
+  "fullDetails": {
+    "licenseNumber": "15677065",
+    "name": "HEWCOR TECHNOLOGIES",
+    "address": "3112 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2019-08-08T05:30:25.000Z",
+    "expiryDate": "2026-08-07T05:30:25.000Z",
+    "coordinates": [
+      -113.9864874,
+      50.9819556
+    ],
+    "longitude": -113.9864874,
+    "latitude": 50.9819556,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

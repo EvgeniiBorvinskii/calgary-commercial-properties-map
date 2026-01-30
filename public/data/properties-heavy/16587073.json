@@ -1,0 +1,36 @@
+{
+  "id": "16587073",
+  "fullDetails": {
+    "licenseNumber": "16587073",
+    "name": "MAYA MOTORS",
+    "address": "1740 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-06T19:43:26.000Z",
+    "expiryDate": "2026-02-05T19:43:26.000Z",
+    "coordinates": [
+      -113.9612009,
+      51.0380539
+    ],
+    "longitude": -113.9612009,
+    "latitude": 51.0380539,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

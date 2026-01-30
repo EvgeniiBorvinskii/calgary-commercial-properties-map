@@ -1,0 +1,36 @@
+{
+  "id": "13856505",
+  "fullDetails": {
+    "licenseNumber": "13856505",
+    "name": "WORRY FREE AUTO SERVICES",
+    "address": "#10 3610 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2015-02-18T11:08:27.000Z",
+    "expiryDate": "2026-02-17T11:08:27.000Z",
+    "coordinates": [
+      -113.9875903,
+      51.0852116
+    ],
+    "longitude": -113.9875903,
+    "latitude": 51.0852116,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

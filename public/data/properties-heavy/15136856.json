@@ -1,0 +1,36 @@
+{
+  "id": "15136856",
+  "fullDetails": {
+    "licenseNumber": "15136856",
+    "name": "PET PLANET",
+    "address": "#10 12030 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-05T09:29:23.000Z",
+    "expiryDate": "2026-12-04T09:29:22.000Z",
+    "coordinates": [
+      -114.125281,
+      51.1617028
+    ],
+    "longitude": -114.125281,
+    "latitude": 51.1617028,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

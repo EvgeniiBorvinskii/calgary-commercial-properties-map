@@ -1,0 +1,37 @@
+{
+  "id": "656991",
+  "fullDetails": {
+    "licenseNumber": "656991",
+    "name": "WINNERS APPAREL - STORE #267",
+    "address": "128A 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0646888,
+      51.0458644
+    ],
+    "longitude": -114.0646888,
+    "latitude": 51.0458644,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

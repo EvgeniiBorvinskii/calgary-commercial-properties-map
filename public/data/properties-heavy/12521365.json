@@ -1,0 +1,37 @@
+{
+  "id": "12521365",
+  "fullDetails": {
+    "licenseNumber": "12521365",
+    "name": "TOPS SUPERMARKET",
+    "address": "#183 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "TOBACCO RETAILER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-07-24T15:22:49.000Z",
+    "expiryDate": "2026-07-23T15:22:49.000Z",
+    "coordinates": [
+      -114.0639493,
+      51.0664839
+    ],
+    "longitude": -114.0639493,
+    "latitude": 51.0664839,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

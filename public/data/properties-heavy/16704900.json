@@ -1,0 +1,36 @@
+{
+  "id": "16704900",
+  "fullDetails": {
+    "licenseNumber": "16704900",
+    "name": "RICHMOND LAUNDROMAT",
+    "address": "#490 5255 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2025-12-08T16:05:48.000Z",
+    "expiryDate": "2026-12-07T16:05:48.000Z",
+    "coordinates": [
+      -114.1605488,
+      51.0166066
+    ],
+    "longitude": -114.1605488,
+    "latitude": 51.0166066,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16460198",
+  "fullDetails": {
+    "licenseNumber": "16460198",
+    "name": "CHICAGO DEEP DISH PIZZA",
+    "address": "327 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-28T08:51:49.000Z",
+    "expiryDate": "2026-05-27T08:51:49.000Z",
+    "coordinates": [
+      -114.0702111,
+      51.0376541
+    ],
+    "longitude": -114.0702111,
+    "latitude": 51.0376541,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

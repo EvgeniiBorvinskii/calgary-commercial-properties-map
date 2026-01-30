@@ -1,0 +1,37 @@
+{
+  "id": "13012125",
+  "fullDetails": {
+    "licenseNumber": "13012125",
+    "name": "BLEEDING ROSE TATTOO",
+    "address": "#B 310 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-10-07T08:24:42.000Z",
+    "expiryDate": "2026-10-06T08:24:42.000Z",
+    "coordinates": [
+      -114.0681792,
+      51.0672278
+    ],
+    "longitude": -114.0681792,
+    "latitude": 51.0672278,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

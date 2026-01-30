@@ -1,0 +1,36 @@
+{
+  "id": "16595167",
+  "fullDetails": {
+    "licenseNumber": "16595167",
+    "name": "STEELHAUS TECHNOLOGIES",
+    "address": "8915 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-10-01T12:05:41.000Z",
+    "expiryDate": "2026-09-30T12:05:41.000Z",
+    "coordinates": [
+      -113.9708936,
+      50.9735892
+    ],
+    "longitude": -113.9708936,
+    "latitude": 50.9735892,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

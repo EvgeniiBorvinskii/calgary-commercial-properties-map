@@ -1,0 +1,37 @@
+{
+  "id": "14541213",
+  "fullDetails": {
+    "licenseNumber": "14541213",
+    "name": "CITY PUB",
+    "address": "#6 2835 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "TOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-09-05T14:33:59.000Z",
+    "expiryDate": "2026-09-04T14:33:59.000Z",
+    "coordinates": [
+      -114.1420345,
+      51.0292496
+    ],
+    "longitude": -114.1420345,
+    "latitude": 51.0292496,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

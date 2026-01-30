@@ -1,0 +1,36 @@
+{
+  "id": "16691800",
+  "fullDetails": {
+    "licenseNumber": "16691800",
+    "name": "FOODYARD",
+    "address": "405 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-26T13:36:39.000Z",
+    "expiryDate": "2026-11-25T13:36:38.000Z",
+    "coordinates": [
+      -114.0861972,
+      51.055538
+    ],
+    "longitude": -114.0861972,
+    "latitude": 51.055538,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16478505",
+  "fullDetails": {
+    "licenseNumber": "16478505",
+    "name": "JOKER JERSEYS",
+    "address": "#B 5011 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-09T11:13:45.000Z",
+    "expiryDate": "2026-05-08T11:13:45.000Z",
+    "coordinates": [
+      -114.0380662,
+      51.0096812
+    ],
+    "longitude": -114.0380662,
+    "latitude": 51.0096812,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

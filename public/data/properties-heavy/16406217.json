@@ -1,0 +1,36 @@
+{
+  "id": "16406217",
+  "fullDetails": {
+    "licenseNumber": "16406217",
+    "name": "BLACKBIRD STUDIO",
+    "address": "#10 1206 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-11-23T13:22:40.000Z",
+    "expiryDate": "2026-11-22T13:22:40.000Z",
+    "coordinates": [
+      -114.055748,
+      51.040947
+    ],
+    "longitude": -114.055748,
+    "latitude": 51.040947,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

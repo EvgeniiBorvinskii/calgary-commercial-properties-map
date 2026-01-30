@@ -1,0 +1,36 @@
+{
+  "id": "593723",
+  "fullDetails": {
+    "licenseNumber": "593723",
+    "name": "PURR ENERGY SPORTSWEAR",
+    "address": "4208 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2011-11-29T05:51:59.000Z",
+    "expiryDate": "2026-11-28T05:51:59.000Z",
+    "coordinates": [
+      -114.0315283,
+      51.0891887
+    ],
+    "longitude": -114.0315283,
+    "latitude": 51.0891887,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

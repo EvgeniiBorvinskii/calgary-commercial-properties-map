@@ -1,0 +1,37 @@
+{
+  "id": "12648051",
+  "fullDetails": {
+    "licenseNumber": "12648051",
+    "name": "INSTORAGE (42ND AVE)",
+    "address": "1111A 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2008-04-01T08:42:42.000Z",
+    "expiryDate": "2026-03-31T08:42:42.000Z",
+    "coordinates": [
+      -114.039253,
+      51.0155975
+    ],
+    "longitude": -114.039253,
+    "latitude": 51.0155975,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

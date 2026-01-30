@@ -1,0 +1,36 @@
+{
+  "id": "13913694",
+  "fullDetails": {
+    "licenseNumber": "13913694",
+    "name": "FIRST CLASS FENCING",
+    "address": "4305 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-02-23T14:45:57.000Z",
+    "expiryDate": "2027-02-22T14:45:57.000Z",
+    "coordinates": [
+      -113.9736503,
+      51.0035187
+    ],
+    "longitude": -113.9736503,
+    "latitude": 51.0035187,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

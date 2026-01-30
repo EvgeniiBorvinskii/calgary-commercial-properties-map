@@ -1,0 +1,36 @@
+{
+  "id": "16180028",
+  "fullDetails": {
+    "licenseNumber": "16180028",
+    "name": "BBQ BOB (CGY-2149) FSFV",
+    "address": "4517 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2023-12-19T10:39:42.000Z",
+    "expiryDate": "2026-12-18T10:39:42.000Z",
+    "coordinates": [
+      -114.0628047,
+      51.0132348
+    ],
+    "longitude": -114.0628047,
+    "latitude": 51.0132348,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

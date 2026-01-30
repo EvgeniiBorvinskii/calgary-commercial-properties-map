@@ -1,0 +1,36 @@
+{
+  "id": "13572417",
+  "fullDetails": {
+    "licenseNumber": "13572417",
+    "name": "SILVERADO DAIRY QUEEN / ORANGE JULIUS",
+    "address": "#518 19369 SHERIFF KING ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2013-02-01T11:34:00.000Z",
+    "expiryDate": "2027-01-31T11:34:00.000Z",
+    "coordinates": [
+      -114.0713265,
+      50.8794097
+    ],
+    "longitude": -114.0713265,
+    "latitude": 50.8794097,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16471740",
+  "fullDetails": {
+    "licenseNumber": "16471740",
+    "name": "CSN CALGARY DOWNTOWN",
+    "address": "1407 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2024-06-05T11:51:28.000Z",
+    "expiryDate": "2026-06-04T11:51:28.000Z",
+    "coordinates": [
+      -114.0939773,
+      51.0451805
+    ],
+    "longitude": -114.0939773,
+    "latitude": 51.0451805,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

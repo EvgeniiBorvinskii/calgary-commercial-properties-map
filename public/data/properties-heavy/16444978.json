@@ -1,0 +1,36 @@
+{
+  "id": "16444978",
+  "fullDetails": {
+    "licenseNumber": "16444978",
+    "name": "INFINITY PIZZA",
+    "address": "#112 218 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-02-16T14:08:08.000Z",
+    "expiryDate": "2026-02-15T14:08:08.000Z",
+    "coordinates": [
+      -113.9484456,
+      51.124324
+    ],
+    "longitude": -113.9484456,
+    "latitude": 51.124324,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16409641",
+  "fullDetails": {
+    "licenseNumber": "16409641",
+    "name": "STEAMOJI CALGARY NORTH",
+    "address": "#2016 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-02T14:49:27.000Z",
+    "expiryDate": "2026-11-01T14:49:27.000Z",
+    "coordinates": [
+      -114.1082036,
+      51.1748269
+    ],
+    "longitude": -114.1082036,
+    "latitude": 51.1748269,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

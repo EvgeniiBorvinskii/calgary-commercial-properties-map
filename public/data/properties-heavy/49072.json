@@ -1,0 +1,36 @@
+{
+  "id": "49072",
+  "fullDetails": {
+    "licenseNumber": "49072",
+    "name": "TROTTER & MORTON BUILDING TECHNOLOGIES",
+    "address": "5711 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0628484,
+      51.0034972
+    ],
+    "longitude": -114.0628484,
+    "latitude": 51.0034972,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

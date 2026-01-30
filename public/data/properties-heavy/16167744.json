@@ -1,0 +1,36 @@
+{
+  "id": "16167744",
+  "fullDetails": {
+    "licenseNumber": "16167744",
+    "name": "DR PHONE FIX",
+    "address": "#320 5149 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-14T08:34:35.000Z",
+    "expiryDate": "2026-06-13T08:34:35.000Z",
+    "coordinates": [
+      -114.15758,
+      51.1378222
+    ],
+    "longitude": -114.15758,
+    "latitude": 51.1378222,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

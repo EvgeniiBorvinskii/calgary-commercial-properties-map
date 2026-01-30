@@ -1,0 +1,37 @@
+{
+  "id": "15196819",
+  "fullDetails": {
+    "licenseNumber": "15196819",
+    "name": "WINDOW SEAL WEST",
+    "address": "#131 4447 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-06-25T12:24:50.000Z",
+    "expiryDate": "2026-06-24T12:24:50.000Z",
+    "coordinates": [
+      -113.9687015,
+      51.012618
+    ],
+    "longitude": -113.9687015,
+    "latitude": 51.012618,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

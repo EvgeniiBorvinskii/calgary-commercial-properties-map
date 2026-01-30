@@ -1,0 +1,36 @@
+{
+  "id": "16124380",
+  "fullDetails": {
+    "licenseNumber": "16124380",
+    "name": "THE RUBIC TECHNOLOGIES",
+    "address": "#105 4800 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2022-02-08T11:39:48.000Z",
+    "expiryDate": "2026-02-07T11:39:48.000Z",
+    "coordinates": [
+      -113.9660458,
+      50.9609848
+    ],
+    "longitude": -113.9660458,
+    "latitude": 50.9609848,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

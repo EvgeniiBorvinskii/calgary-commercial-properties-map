@@ -1,0 +1,36 @@
+{
+  "id": "12532586",
+  "fullDetails": {
+    "licenseNumber": "12532586",
+    "name": "MMR CANADA",
+    "address": "11083 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2013-03-22T05:33:13.000Z",
+    "expiryDate": "2026-03-21T05:33:13.000Z",
+    "coordinates": [
+      -113.9659812,
+      50.9544931
+    ],
+    "longitude": -113.9659812,
+    "latitude": 50.9544931,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

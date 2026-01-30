@@ -1,0 +1,36 @@
+{
+  "id": "16224016",
+  "fullDetails": {
+    "licenseNumber": "16224016",
+    "name": "GINGER GARLIC",
+    "address": "#7 2115 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-12-02T07:37:24.000Z",
+    "expiryDate": "2026-12-01T07:37:24.000Z",
+    "coordinates": [
+      -114.0097306,
+      51.0765278
+    ],
+    "longitude": -114.0097306,
+    "latitude": 51.0765278,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

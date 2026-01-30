@@ -1,0 +1,36 @@
+{
+  "id": "16047201",
+  "fullDetails": {
+    "licenseNumber": "16047201",
+    "name": "CANVAS + LOFT",
+    "address": "#120 9631 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-06-22T16:01:27.000Z",
+    "expiryDate": "2026-06-21T16:01:27.000Z",
+    "coordinates": [
+      -114.0730176,
+      50.9690291
+    ],
+    "longitude": -114.0730176,
+    "latitude": 50.9690291,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

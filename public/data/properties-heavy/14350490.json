@@ -1,0 +1,36 @@
+{
+  "id": "14350490",
+  "fullDetails": {
+    "licenseNumber": "14350490",
+    "name": "PET VALU",
+    "address": "#126 2220 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-15T11:24:52.000Z",
+    "expiryDate": "2026-11-14T11:24:51.000Z",
+    "coordinates": [
+      -113.9340718,
+      51.0693721
+    ],
+    "longitude": -113.9340718,
+    "latitude": 51.0693721,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

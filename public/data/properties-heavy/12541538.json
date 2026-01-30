@@ -1,0 +1,37 @@
+{
+  "id": "12541538",
+  "fullDetails": {
+    "licenseNumber": "12541538",
+    "name": "ELITE SPORT PERFORMANCE",
+    "address": "#535 10333 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-25T09:29:13.000Z",
+    "expiryDate": "2026-07-24T09:29:13.000Z",
+    "coordinates": [
+      -114.0737027,
+      50.9627047
+    ],
+    "longitude": -114.0737027,
+    "latitude": 50.9627047,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

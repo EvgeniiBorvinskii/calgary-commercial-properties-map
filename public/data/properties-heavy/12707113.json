@@ -1,0 +1,36 @@
+{
+  "id": "12707113",
+  "fullDetails": {
+    "licenseNumber": "12707113",
+    "name": "MEDWEST",
+    "address": "#15 1220 59 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2016-11-23T11:46:30.000Z",
+    "expiryDate": "2026-11-22T11:46:30.000Z",
+    "coordinates": [
+      -114.0358276,
+      51.000179
+    ],
+    "longitude": -114.0358276,
+    "latitude": 51.000179,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

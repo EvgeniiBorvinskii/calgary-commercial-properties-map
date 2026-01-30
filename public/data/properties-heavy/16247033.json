@@ -1,0 +1,37 @@
+{
+  "id": "16247033",
+  "fullDetails": {
+    "licenseNumber": "16247033",
+    "name": "HOMESPACE SOCIETY",
+    "address": "1118 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-12-20T09:16:48.000Z",
+    "expiryDate": "2026-12-19T09:16:48.000Z",
+    "coordinates": [
+      -114.0877738,
+      51.0386157
+    ],
+    "longitude": -114.0877738,
+    "latitude": 51.0386157,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

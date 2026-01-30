@@ -1,0 +1,36 @@
+{
+  "id": "15003163",
+  "fullDetails": {
+    "licenseNumber": "15003163",
+    "name": "DIVINE CREATIONS",
+    "address": "#114 366 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-16T13:51:01.000Z",
+    "expiryDate": "2026-08-15T13:51:00.000Z",
+    "coordinates": [
+      -114.2091182,
+      51.0400875
+    ],
+    "longitude": -114.2091182,
+    "latitude": 51.0400875,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

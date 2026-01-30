@@ -1,0 +1,37 @@
+{
+  "id": "506865",
+  "fullDetails": {
+    "licenseNumber": "506865",
+    "name": "BONASERA PIZZA",
+    "address": "#11 3525 26 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2006-10-17T13:57:35.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9824878,
+      51.0298705
+    ],
+    "longitude": -113.9824878,
+    "latitude": 51.0298705,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15930159",
+  "fullDetails": {
+    "licenseNumber": "15930159",
+    "name": "LOGOS BAKERY & CAKE HOUSE",
+    "address": "#168 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-08-31T15:54:11.000Z",
+    "expiryDate": "2026-08-30T15:54:11.000Z",
+    "coordinates": [
+      -114.0636229,
+      51.0667196
+    ],
+    "longitude": -114.0636229,
+    "latitude": 51.0667196,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

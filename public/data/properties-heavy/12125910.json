@@ -1,0 +1,36 @@
+{
+  "id": "12125910",
+  "fullDetails": {
+    "licenseNumber": "12125910",
+    "name": "EVAN J STRONG FUNERAL SERVICES",
+    "address": "5506 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-05-02T05:35:37.000Z",
+    "expiryDate": "2026-05-01T05:35:37.000Z",
+    "coordinates": [
+      -114.0683026,
+      51.0054338
+    ],
+    "longitude": -114.0683026,
+    "latitude": 51.0054338,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

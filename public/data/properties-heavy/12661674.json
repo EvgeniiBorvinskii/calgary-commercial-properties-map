@@ -1,0 +1,36 @@
+{
+  "id": "12661674",
+  "fullDetails": {
+    "licenseNumber": "12661674",
+    "name": "CROWFOOT PLATES REGISTRY",
+    "address": "49 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2008-04-04T12:29:32.000Z",
+    "expiryDate": "2026-04-03T12:29:32.000Z",
+    "coordinates": [
+      -114.2017356,
+      51.1238842
+    ],
+    "longitude": -114.2017356,
+    "latitude": 51.1238842,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16173346",
+  "fullDetails": {
+    "licenseNumber": "16173346",
+    "name": "SHOPPERS DRUG MART",
+    "address": "28 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-03T15:35:14.000Z",
+    "expiryDate": "2026-08-02T15:35:14.000Z",
+    "coordinates": [
+      -114.198398,
+      51.1275396
+    ],
+    "longitude": -114.198398,
+    "latitude": 51.1275396,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

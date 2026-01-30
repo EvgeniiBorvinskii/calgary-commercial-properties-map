@@ -1,0 +1,36 @@
+{
+  "id": "13834684",
+  "fullDetails": {
+    "licenseNumber": "13834684",
+    "name": "3E SHEET METAL & FOOD EQUIPMENT",
+    "address": "#29 1410 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2015-03-10T05:34:55.000Z",
+    "expiryDate": "2026-03-09T05:34:55.000Z",
+    "coordinates": [
+      -114.0297575,
+      51.0898982
+    ],
+    "longitude": -114.0297575,
+    "latitude": 51.0898982,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

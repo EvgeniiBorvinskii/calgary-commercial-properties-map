@@ -1,0 +1,36 @@
+{
+  "id": "13946793",
+  "fullDetails": {
+    "licenseNumber": "13946793",
+    "name": "WIB HOLDINGS",
+    "address": "#3B 3911B BRANDON ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-11-24T12:51:02.000Z",
+    "expiryDate": "2026-11-23T12:51:02.000Z",
+    "coordinates": [
+      -114.0523701,
+      51.0197056
+    ],
+    "longitude": -114.0523701,
+    "latitude": 51.0197056,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

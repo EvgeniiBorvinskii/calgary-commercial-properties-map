@@ -1,0 +1,36 @@
+{
+  "id": "145474",
+  "fullDetails": {
+    "licenseNumber": "145474",
+    "name": "TRIPLE THREE TRADING",
+    "address": "908 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2002-10-08T17:12:21.000Z",
+    "expiryDate": "2026-10-07T05:33:02.000Z",
+    "coordinates": [
+      -114.0422355,
+      51.0238782
+    ],
+    "longitude": -114.0422355,
+    "latitude": 51.0238782,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

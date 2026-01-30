@@ -1,0 +1,37 @@
+{
+  "id": "698118",
+  "fullDetails": {
+    "licenseNumber": "698118",
+    "name": "PRO-GRAPHICS",
+    "address": "4018 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "pending",
+    "issuedDate": "2016-02-26T05:34:14.000Z",
+    "expiryDate": "2026-02-25T05:34:14.000Z",
+    "coordinates": [
+      -114.0517772,
+      51.017971
+    ],
+    "longitude": -114.0517772,
+    "latitude": 51.017971,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

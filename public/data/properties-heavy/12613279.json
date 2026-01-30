@@ -1,0 +1,37 @@
+{
+  "id": "12613279",
+  "fullDetails": {
+    "licenseNumber": "12613279",
+    "name": "DONE RITE EQUIPMENT SALES & SERVICE",
+    "address": "#95 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-05-01T15:30:06.000Z",
+    "expiryDate": "2026-04-30T15:30:06.000Z",
+    "coordinates": [
+      -114.040526,
+      51.1043374
+    ],
+    "longitude": -114.040526,
+    "latitude": 51.1043374,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

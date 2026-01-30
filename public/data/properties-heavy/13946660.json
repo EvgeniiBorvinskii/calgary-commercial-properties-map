@@ -1,0 +1,36 @@
+{
+  "id": "13946660",
+  "fullDetails": {
+    "licenseNumber": "13946660",
+    "name": "OPTIKO EYEWEAR",
+    "address": "#C9 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-05-07T14:33:47.000Z",
+    "expiryDate": "2026-05-06T14:33:47.000Z",
+    "coordinates": [
+      -114.155893,
+      51.0847547
+    ],
+    "longitude": -114.155893,
+    "latitude": 51.0847547,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15798101",
+  "fullDetails": {
+    "licenseNumber": "15798101",
+    "name": "BLUE OCEAN SPA",
+    "address": "1110 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2020-01-09T12:54:48.000Z",
+    "expiryDate": "2027-01-08T12:54:48.000Z",
+    "coordinates": [
+      -114.0552397,
+      51.0619719
+    ],
+    "longitude": -114.0552397,
+    "latitude": 51.0619719,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

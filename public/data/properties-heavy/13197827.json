@@ -1,0 +1,36 @@
+{
+  "id": "13197827",
+  "fullDetails": {
+    "licenseNumber": "13197827",
+    "name": "STEALTH HOMES",
+    "address": "355 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-11-19T05:30:26.000Z",
+    "expiryDate": "2026-11-18T05:30:25.000Z",
+    "coordinates": [
+      -114.1654396,
+      51.1692574
+    ],
+    "longitude": -114.1654396,
+    "latitude": 51.1692574,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

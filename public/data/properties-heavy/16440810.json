@@ -1,0 +1,36 @@
+{
+  "id": "16440810",
+  "fullDetails": {
+    "licenseNumber": "16440810",
+    "name": "ALL NICKS AUTO",
+    "address": "2707 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-09T15:21:12.000Z",
+    "expiryDate": "2026-05-08T15:21:12.000Z",
+    "coordinates": [
+      -113.9959666,
+      51.0521405
+    ],
+    "longitude": -113.9959666,
+    "latitude": 51.0521405,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15947922",
+  "fullDetails": {
+    "licenseNumber": "15947922",
+    "name": "ONE FOR ALL FITNESS 2020",
+    "address": "#12 2015 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2020-10-28T15:05:02.000Z",
+    "expiryDate": "2026-10-27T15:05:02.000Z",
+    "coordinates": [
+      -114.0097322,
+      51.0809823
+    ],
+    "longitude": -114.0097322,
+    "latitude": 51.0809823,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

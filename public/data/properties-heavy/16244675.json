@@ -1,0 +1,37 @@
+{
+  "id": "16244675",
+  "fullDetails": {
+    "licenseNumber": "16244675",
+    "name": "CANADA SCHOOL OF BARBERING",
+    "address": "#120 707 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "PERSONAL SERVICE,\nSCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2024-12-10T16:00:10.000Z",
+    "expiryDate": "2026-12-09T16:00:10.000Z",
+    "coordinates": [
+      -114.0769866,
+      51.0434399
+    ],
+    "longitude": -114.0769866,
+    "latitude": 51.0434399,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

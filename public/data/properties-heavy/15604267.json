@@ -1,0 +1,36 @@
+{
+  "id": "15604267",
+  "fullDetails": {
+    "licenseNumber": "15604267",
+    "name": "ULTIMATE AUTO PROTECTION",
+    "address": "2466 91 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-11-14T15:54:07.000Z",
+    "expiryDate": "2026-11-13T15:54:07.000Z",
+    "coordinates": [
+      -114.0026017,
+      50.9716043
+    ],
+    "longitude": -114.0026017,
+    "latitude": 50.9716043,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15442015",
+  "fullDetails": {
+    "licenseNumber": "15442015",
+    "name": "GRIZZLY TRUCKS CALGARY",
+    "address": "3514A 73 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-11-05T15:47:17.000Z",
+    "expiryDate": "2026-11-04T15:47:17.000Z",
+    "coordinates": [
+      -113.9827977,
+      50.9891273
+    ],
+    "longitude": -113.9827977,
+    "latitude": 50.9891273,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

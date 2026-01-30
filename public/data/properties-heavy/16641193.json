@@ -1,0 +1,36 @@
+{
+  "id": "16641193",
+  "fullDetails": {
+    "licenseNumber": "16641193",
+    "name": "GLOBAL SHADES",
+    "address": "#26 11410 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-06-12T08:02:23.000Z",
+    "expiryDate": "2026-06-11T08:02:22.000Z",
+    "coordinates": [
+      -113.9943957,
+      50.9533694
+    ],
+    "longitude": -113.9943957,
+    "latitude": 50.9533694,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

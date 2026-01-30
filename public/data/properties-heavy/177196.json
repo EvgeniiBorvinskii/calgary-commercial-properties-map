@@ -1,0 +1,37 @@
+{
+  "id": "177196",
+  "fullDetails": {
+    "licenseNumber": "177196",
+    "name": "7 ELEVEN FOOD STORE 20916",
+    "address": "2604A KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1205756,
+      51.052763
+    ],
+    "longitude": -114.1205756,
+    "latitude": 51.052763,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

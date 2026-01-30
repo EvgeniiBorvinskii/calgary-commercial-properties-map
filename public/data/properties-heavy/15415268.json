@@ -1,0 +1,36 @@
+{
+  "id": "15415268",
+  "fullDetails": {
+    "licenseNumber": "15415268",
+    "name": "NEXT COMPRESSION",
+    "address": "5120 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-03-29T09:14:30.000Z",
+    "expiryDate": "2026-03-28T09:14:30.000Z",
+    "coordinates": [
+      -114.0474923,
+      51.098819
+    ],
+    "longitude": -114.0474923,
+    "latitude": 51.098819,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

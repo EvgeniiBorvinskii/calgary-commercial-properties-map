@@ -1,0 +1,36 @@
+{
+  "id": "16626988",
+  "fullDetails": {
+    "licenseNumber": "16626988",
+    "name": "RG 1000",
+    "address": "#107 3360 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-13T15:47:37.000Z",
+    "expiryDate": "2026-05-12T15:47:36.000Z",
+    "coordinates": [
+      -114.0990303,
+      51.024172
+    ],
+    "longitude": -114.0990303,
+    "latitude": 51.024172,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

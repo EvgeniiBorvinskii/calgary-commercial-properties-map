@@ -1,0 +1,36 @@
+{
+  "id": "181503",
+  "fullDetails": {
+    "licenseNumber": "181503",
+    "name": "ALBERTA PLATING",
+    "address": "3633 15A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-21T00:00:00.000Z",
+    "coordinates": [
+      -114.0239735,
+      51.0219536
+    ],
+    "longitude": -114.0239735,
+    "latitude": 51.0219536,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

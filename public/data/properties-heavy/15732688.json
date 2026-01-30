@@ -1,0 +1,36 @@
+{
+  "id": "15732688",
+  "fullDetails": {
+    "licenseNumber": "15732688",
+    "name": "PILATES NORTH-WEST",
+    "address": "#102 4616 VALIANT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2019-09-30T14:37:08.000Z",
+    "expiryDate": "2026-09-29T14:37:08.000Z",
+    "coordinates": [
+      -114.1534236,
+      51.0914451
+    ],
+    "longitude": -114.1534236,
+    "latitude": 51.0914451,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

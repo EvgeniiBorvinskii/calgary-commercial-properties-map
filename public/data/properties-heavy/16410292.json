@@ -1,0 +1,36 @@
+{
+  "id": "16410292",
+  "fullDetails": {
+    "licenseNumber": "16410292",
+    "name": "EDO JAPAN",
+    "address": "#4104 15 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-28T15:32:01.000Z",
+    "expiryDate": "2026-03-27T15:32:00.000Z",
+    "coordinates": [
+      -114.0587573,
+      50.9054061
+    ],
+    "longitude": -114.0587573,
+    "latitude": 50.9054061,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

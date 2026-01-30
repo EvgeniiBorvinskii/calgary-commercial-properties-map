@@ -1,0 +1,36 @@
+{
+  "id": "12128252",
+  "fullDetails": {
+    "licenseNumber": "12128252",
+    "name": "MR SUB",
+    "address": "4662 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2002-11-26T13:58:50.000Z",
+    "expiryDate": "2026-11-25T13:58:50.000Z",
+    "coordinates": [
+      -114.0653196,
+      51.0114231
+    ],
+    "longitude": -114.0653196,
+    "latitude": 51.0114231,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

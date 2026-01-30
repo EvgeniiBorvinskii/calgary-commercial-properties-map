@@ -1,0 +1,37 @@
+{
+  "id": "263103",
+  "fullDetails": {
+    "licenseNumber": "263103",
+    "name": "FILOS RESTAURANT",
+    "address": "#38 1221 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-03-01T10:24:47.000Z",
+    "expiryDate": "2027-02-28T10:24:47.000Z",
+    "coordinates": [
+      -114.0298619,
+      50.92941
+    ],
+    "longitude": -114.0298619,
+    "latitude": 50.92941,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

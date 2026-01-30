@@ -1,0 +1,37 @@
+{
+  "id": "16071037",
+  "fullDetails": {
+    "licenseNumber": "16071037",
+    "name": "D6 TABLETOP CAFE",
+    "address": "#112 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-07-19T09:59:03.000Z",
+    "expiryDate": "2026-07-18T09:59:03.000Z",
+    "coordinates": [
+      -114.0057631,
+      51.080565
+    ],
+    "longitude": -114.0057631,
+    "latitude": 51.080565,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

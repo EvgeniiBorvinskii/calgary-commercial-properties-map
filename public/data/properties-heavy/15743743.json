@@ -1,0 +1,36 @@
+{
+  "id": "15743743",
+  "fullDetails": {
+    "licenseNumber": "15743743",
+    "name": "CENTRAL BOTTLE DEPOT",
+    "address": "3261 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2019-09-20T12:16:59.000Z",
+    "expiryDate": "2026-09-19T12:16:59.000Z",
+    "coordinates": [
+      -113.9897056,
+      51.0831853
+    ],
+    "longitude": -113.9897056,
+    "latitude": 51.0831853,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

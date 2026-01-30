@@ -1,0 +1,37 @@
+{
+  "id": "263434",
+  "fullDetails": {
+    "licenseNumber": "263434",
+    "name": "7 ELEVEN FOOD STORE 25750H",
+    "address": "2010 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0169026,
+      50.9325353
+    ],
+    "longitude": -114.0169026,
+    "latitude": 50.9325353,
+    "community": "QUEENSLAND",
+    "ward": "QLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

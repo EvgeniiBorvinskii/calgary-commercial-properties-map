@@ -1,0 +1,36 @@
+{
+  "id": "12945572",
+  "fullDetails": {
+    "licenseNumber": "12945572",
+    "name": "STARLITE SALES & RENTALS",
+    "address": "535 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-07T15:27:39.000Z",
+    "expiryDate": "2026-10-06T15:27:39.000Z",
+    "coordinates": [
+      -114.0543125,
+      51.0204943
+    ],
+    "longitude": -114.0543125,
+    "latitude": 51.0204943,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16310625",
+  "fullDetails": {
+    "licenseNumber": "16310625",
+    "name": "GUARD COATINGS",
+    "address": "#1 4315 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2023-04-18T15:45:05.000Z",
+    "expiryDate": "2026-04-17T15:45:05.000Z",
+    "coordinates": [
+      -113.9728414,
+      50.9964099
+    ],
+    "longitude": -113.9728414,
+    "latitude": 50.9964099,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

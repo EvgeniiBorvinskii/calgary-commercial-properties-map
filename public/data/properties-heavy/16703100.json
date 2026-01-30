@@ -1,0 +1,36 @@
+{
+  "id": "16703100",
+  "fullDetails": {
+    "licenseNumber": "16703100",
+    "name": "ROMANA CONSTRUCTION",
+    "address": "4215 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-04T15:53:17.000Z",
+    "expiryDate": "2026-12-03T15:53:16.000Z",
+    "coordinates": [
+      -114.0357667,
+      51.0900809
+    ],
+    "longitude": -114.0357667,
+    "latitude": 51.0900809,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

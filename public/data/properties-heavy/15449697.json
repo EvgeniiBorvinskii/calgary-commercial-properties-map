@@ -1,0 +1,37 @@
+{
+  "id": "15449697",
+  "fullDetails": {
+    "licenseNumber": "15449697",
+    "name": "SOCIAL BEER HAUS",
+    "address": "220 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-08-22T16:16:42.000Z",
+    "expiryDate": "2026-08-21T16:16:42.000Z",
+    "coordinates": [
+      -114.0666545,
+      51.0459206
+    ],
+    "longitude": -114.0666545,
+    "latitude": 51.0459206,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

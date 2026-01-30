@@ -1,0 +1,36 @@
+{
+  "id": "16102311",
+  "fullDetails": {
+    "licenseNumber": "16102311",
+    "name": "NAOMI",
+    "address": "#233 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-22T07:55:13.000Z",
+    "expiryDate": "2026-11-21T07:55:13.000Z",
+    "coordinates": [
+      -113.9856061,
+      51.0741246
+    ],
+    "longitude": -113.9856061,
+    "latitude": 51.0741246,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

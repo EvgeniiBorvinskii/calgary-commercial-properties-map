@@ -1,0 +1,36 @@
+{
+  "id": "12573473",
+  "fullDetails": {
+    "licenseNumber": "12573473",
+    "name": "SUN DRILLING PRODUCTS",
+    "address": "#300 840 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-05-05T05:32:05.000Z",
+    "expiryDate": "2026-05-04T05:32:05.000Z",
+    "coordinates": [
+      -114.0806426,
+      51.048238
+    ],
+    "longitude": -114.0806426,
+    "latitude": 51.048238,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

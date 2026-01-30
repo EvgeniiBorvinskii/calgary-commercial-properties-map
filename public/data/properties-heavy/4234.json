@@ -1,0 +1,36 @@
+{
+  "id": "4234",
+  "fullDetails": {
+    "licenseNumber": "4234",
+    "name": "MAINLINE EQUIPMENT",
+    "address": "4720 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-10-16T15:09:08.000Z",
+    "expiryDate": "2026-10-15T15:09:08.000Z",
+    "coordinates": [
+      -113.9661845,
+      50.9827144
+    ],
+    "longitude": -113.9661845,
+    "latitude": 50.9827144,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

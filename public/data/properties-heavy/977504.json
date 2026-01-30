@@ -1,0 +1,36 @@
+{
+  "id": "977504",
+  "fullDetails": {
+    "licenseNumber": "977504",
+    "name": "OVERHEAD DOOR COMPANY OF CALGARY",
+    "address": "#6 11133 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2018-03-28T14:05:54.000Z",
+    "expiryDate": "2026-03-27T14:05:54.000Z",
+    "coordinates": [
+      -113.9780006,
+      50.955426
+    ],
+    "longitude": -113.9780006,
+    "latitude": 50.955426,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

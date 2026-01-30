@@ -1,0 +1,36 @@
+{
+  "id": "12677357",
+  "fullDetails": {
+    "licenseNumber": "12677357",
+    "name": "ADI-BURTEK",
+    "address": "#117 2312 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-05-21T08:39:52.000Z",
+    "expiryDate": "2026-05-20T08:39:52.000Z",
+    "coordinates": [
+      -114.0052906,
+      51.0074208
+    ],
+    "longitude": -114.0052906,
+    "latitude": 51.0074208,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

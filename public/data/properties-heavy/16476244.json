@@ -1,0 +1,36 @@
+{
+  "id": "16476244",
+  "fullDetails": {
+    "licenseNumber": "16476244",
+    "name": "SOLICO METAL",
+    "address": "1415 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-08-19T14:52:31.000Z",
+    "expiryDate": "2026-08-18T14:52:31.000Z",
+    "coordinates": [
+      -114.0330743,
+      51.0375288
+    ],
+    "longitude": -114.0330743,
+    "latitude": 51.0375288,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

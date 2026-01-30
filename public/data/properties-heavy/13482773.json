@@ -1,0 +1,36 @@
+{
+  "id": "13482773",
+  "fullDetails": {
+    "licenseNumber": "13482773",
+    "name": "KFC #1754",
+    "address": "#600 8338 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-06-11T08:56:48.000Z",
+    "expiryDate": "2026-06-10T08:56:48.000Z",
+    "coordinates": [
+      -114.0151401,
+      50.9777487
+    ],
+    "longitude": -114.0151401,
+    "latitude": 50.9777487,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

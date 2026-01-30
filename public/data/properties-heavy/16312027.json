@@ -1,0 +1,36 @@
+{
+  "id": "16312027",
+  "fullDetails": {
+    "licenseNumber": "16312027",
+    "name": "KATE HEWKO DESIGN",
+    "address": "#100 908 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-16T15:36:29.000Z",
+    "expiryDate": "2026-07-15T15:36:29.000Z",
+    "coordinates": [
+      -114.0825372,
+      51.0380062
+    ],
+    "longitude": -114.0825372,
+    "latitude": 51.0380062,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

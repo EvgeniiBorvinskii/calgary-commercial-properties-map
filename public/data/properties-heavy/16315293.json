@@ -1,0 +1,36 @@
+{
+  "id": "16315293",
+  "fullDetails": {
+    "licenseNumber": "16315293",
+    "name": "PRO-DRIVING SCHOOL",
+    "address": "8400 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2024-12-19T16:07:55.000Z",
+    "expiryDate": "2026-12-18T16:07:55.000Z",
+    "coordinates": [
+      -113.9066534,
+      50.9785137
+    ],
+    "longitude": -113.9066534,
+    "latitude": 50.9785137,
+    "community": "RESIDUAL WARD 12- SUB AREA 12K",
+    "ward": "12K",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

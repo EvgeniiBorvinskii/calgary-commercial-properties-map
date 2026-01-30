@@ -1,0 +1,36 @@
+{
+  "id": "13677919",
+  "fullDetails": {
+    "licenseNumber": "13677919",
+    "name": "X-ACT TECHNOLOGIES",
+    "address": "#151 4447 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-05-08T13:46:17.000Z",
+    "expiryDate": "2026-05-07T13:46:17.000Z",
+    "coordinates": [
+      -113.9679623,
+      51.0126176
+    ],
+    "longitude": -113.9679623,
+    "latitude": 51.0126176,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

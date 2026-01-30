@@ -1,0 +1,36 @@
+{
+  "id": "15853112",
+  "fullDetails": {
+    "licenseNumber": "15853112",
+    "name": "FIRST IN FITNESS",
+    "address": "#206 20 SADDLESTONE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2024-03-09T05:33:37.000Z",
+    "expiryDate": "2026-03-08T05:33:36.000Z",
+    "coordinates": [
+      -113.929015,
+      51.1291595
+    ],
+    "longitude": -113.929015,
+    "latitude": 51.1291595,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

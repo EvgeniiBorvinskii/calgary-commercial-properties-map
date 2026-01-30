@@ -1,0 +1,36 @@
+{
+  "id": "15417215",
+  "fullDetails": {
+    "licenseNumber": "15417215",
+    "name": "SEOUL TRADING",
+    "address": "#4 7408 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-29T05:33:03.000Z",
+    "expiryDate": "2026-06-28T05:33:03.000Z",
+    "coordinates": [
+      -113.9759684,
+      50.9881441
+    ],
+    "longitude": -113.9759684,
+    "latitude": 50.9881441,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

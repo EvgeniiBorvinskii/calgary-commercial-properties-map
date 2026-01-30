@@ -1,0 +1,36 @@
+{
+  "id": "16610933",
+  "fullDetails": {
+    "licenseNumber": "16610933",
+    "name": "ROYS KOREAN KITCHEN",
+    "address": "#170N 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-14T09:19:24.000Z",
+    "expiryDate": "2026-08-13T09:19:24.000Z",
+    "coordinates": [
+      -114.0700072,
+      50.9768124
+    ],
+    "longitude": -114.0700072,
+    "latitude": 50.9768124,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

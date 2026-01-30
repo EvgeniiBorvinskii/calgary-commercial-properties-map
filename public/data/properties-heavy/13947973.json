@@ -1,0 +1,36 @@
+{
+  "id": "13947973",
+  "fullDetails": {
+    "licenseNumber": "13947973",
+    "name": "REFLECTIONS CAR WASH",
+    "address": "#4P 150 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2015-08-05T05:32:44.000Z",
+    "expiryDate": "2026-08-04T05:32:44.000Z",
+    "coordinates": [
+      -114.064494,
+      51.0479915
+    ],
+    "longitude": -114.064494,
+    "latitude": 51.0479915,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

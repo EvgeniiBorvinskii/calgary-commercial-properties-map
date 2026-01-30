@@ -1,0 +1,36 @@
+{
+  "id": "15930795",
+  "fullDetails": {
+    "licenseNumber": "15930795",
+    "name": "TOTAL GLASS",
+    "address": "#13 4001B 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-04-19T12:29:03.000Z",
+    "expiryDate": "2026-04-18T12:29:03.000Z",
+    "coordinates": [
+      -114.0122926,
+      51.0889377
+    ],
+    "longitude": -114.0122926,
+    "latitude": 51.0889377,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

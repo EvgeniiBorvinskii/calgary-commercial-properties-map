@@ -1,0 +1,36 @@
+{
+  "id": "12364071",
+  "fullDetails": {
+    "licenseNumber": "12364071",
+    "name": "ON SIDE RESTORATION",
+    "address": "3905 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-05-05T09:17:18.000Z",
+    "expiryDate": "2026-05-04T09:17:18.000Z",
+    "coordinates": [
+      -113.9886651,
+      51.0883009
+    ],
+    "longitude": -113.9886651,
+    "latitude": 51.0883009,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

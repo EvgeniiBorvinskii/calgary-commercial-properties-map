@@ -1,0 +1,36 @@
+{
+  "id": "16376337",
+  "fullDetails": {
+    "licenseNumber": "16376337",
+    "name": "GOODLEAF COMMUNITY FARMS",
+    "address": "7250 108 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-25T05:33:48.000Z",
+    "expiryDate": "2026-04-24T05:33:48.000Z",
+    "coordinates": [
+      -113.9294259,
+      50.9571744
+    ],
+    "longitude": -113.9294259,
+    "latitude": 50.9571744,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

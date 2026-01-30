@@ -1,0 +1,37 @@
+{
+  "id": "16672834",
+  "fullDetails": {
+    "licenseNumber": "16672834",
+    "name": "GENESIS WELLNESS",
+    "address": "#210 927 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-11T11:43:10.000Z",
+    "expiryDate": "2026-09-10T11:43:09.000Z",
+    "coordinates": [
+      -114.0830585,
+      51.043697
+    ],
+    "longitude": -114.0830585,
+    "latitude": 51.043697,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16047748",
+  "fullDetails": {
+    "licenseNumber": "16047748",
+    "name": "MAPLE GOODS",
+    "address": "#110A 2640 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-13T15:05:36.000Z",
+    "expiryDate": "2026-07-12T15:05:36.000Z",
+    "coordinates": [
+      -113.9561156,
+      51.0754422
+    ],
+    "longitude": -113.9561156,
+    "latitude": 51.0754422,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15721467",
+  "fullDetails": {
+    "licenseNumber": "15721467",
+    "name": "ICON DANCE COMPANY",
+    "address": "#3150 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-08-29T11:05:38.000Z",
+    "expiryDate": "2026-08-28T11:05:38.000Z",
+    "coordinates": [
+      -114.010578,
+      50.8627652
+    ],
+    "longitude": -114.010578,
+    "latitude": 50.8627652,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

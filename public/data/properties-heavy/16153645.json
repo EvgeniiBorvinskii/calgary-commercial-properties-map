@@ -1,0 +1,37 @@
+{
+  "id": "16153645",
+  "fullDetails": {
+    "licenseNumber": "16153645",
+    "name": "BRIDGELAND RIVERSIDE MARKET",
+    "address": "917 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET",
+    "status": "active",
+    "issuedDate": "2022-05-26T15:18:24.000Z",
+    "expiryDate": "2026-05-25T15:18:24.000Z",
+    "coordinates": [
+      -114.0409954,
+      51.0521964
+    ],
+    "longitude": -114.0409954,
+    "latitude": 51.0521964,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

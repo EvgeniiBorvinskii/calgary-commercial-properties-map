@@ -1,0 +1,36 @@
+{
+  "id": "16212680",
+  "fullDetails": {
+    "licenseNumber": "16212680",
+    "name": "PALLAVI HAUTE COUTURE",
+    "address": "#1109 4058 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-18T15:22:14.000Z",
+    "expiryDate": "2026-07-17T15:22:14.000Z",
+    "coordinates": [
+      -113.9760379,
+      51.1532712
+    ],
+    "longitude": -113.9760379,
+    "latitude": 51.1532712,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

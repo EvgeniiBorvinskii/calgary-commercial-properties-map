@@ -1,0 +1,36 @@
+{
+  "id": "16623431",
+  "fullDetails": {
+    "licenseNumber": "16623431",
+    "name": "HAUNTED OBJECTS",
+    "address": "1207 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-12T07:57:26.000Z",
+    "expiryDate": "2026-05-11T07:57:26.000Z",
+    "coordinates": [
+      -114.0361768,
+      51.040675
+    ],
+    "longitude": -114.0361768,
+    "latitude": 51.040675,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14520803",
+  "fullDetails": {
+    "licenseNumber": "14520803",
+    "name": "SUBWAY #51102",
+    "address": "#480 1000 HAMPTONS DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-05-26T09:37:40.000Z",
+    "expiryDate": "2026-05-25T09:37:40.000Z",
+    "coordinates": [
+      -114.1303967,
+      51.1418073
+    ],
+    "longitude": -114.1303967,
+    "latitude": 51.1418073,
+    "community": "HAMPTONS",
+    "ward": "HAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

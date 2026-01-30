@@ -1,0 +1,36 @@
+{
+  "id": "203422",
+  "fullDetails": {
+    "licenseNumber": "203422",
+    "name": "DISPLAY DYNAMICS",
+    "address": "#15 777 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-11-22T05:32:36.000Z",
+    "expiryDate": "2026-11-21T05:32:36.000Z",
+    "coordinates": [
+      -114.0474425,
+      50.996333
+    ],
+    "longitude": -114.0474425,
+    "latitude": 50.996333,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

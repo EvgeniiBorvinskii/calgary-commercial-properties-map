@@ -1,0 +1,36 @@
+{
+  "id": "16490781",
+  "fullDetails": {
+    "licenseNumber": "16490781",
+    "name": "MY PIKNIC SANDWICH & CAFE",
+    "address": "255 BRENTWOOD PL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-06T09:07:03.000Z",
+    "expiryDate": "2026-09-05T09:07:02.000Z",
+    "coordinates": [
+      -114.1276829,
+      51.0866728
+    ],
+    "longitude": -114.1276829,
+    "latitude": 51.0866728,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

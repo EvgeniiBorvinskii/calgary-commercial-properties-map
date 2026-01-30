@@ -1,0 +1,36 @@
+{
+  "id": "100875",
+  "fullDetails": {
+    "licenseNumber": "100875",
+    "name": "PERFECT FIT CAR COVER MFG & INJECTION MOULDING",
+    "address": "5403 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-01-09T05:32:57.000Z",
+    "expiryDate": "2027-01-08T05:32:57.000Z",
+    "coordinates": [
+      -113.9708629,
+      51.0061071
+    ],
+    "longitude": -113.9708629,
+    "latitude": 51.0061071,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

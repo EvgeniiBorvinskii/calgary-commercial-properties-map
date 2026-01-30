@@ -1,0 +1,36 @@
+{
+  "id": "16170219",
+  "fullDetails": {
+    "licenseNumber": "16170219",
+    "name": "MIDAS AUTO SERVICE",
+    "address": "624 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-07-21T14:15:27.000Z",
+    "expiryDate": "2026-07-20T14:15:27.000Z",
+    "coordinates": [
+      -114.0754268,
+      51.0672942
+    ],
+    "longitude": -114.0754268,
+    "latitude": 51.0672942,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

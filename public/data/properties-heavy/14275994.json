@@ -1,0 +1,37 @@
+{
+  "id": "14275994",
+  "fullDetails": {
+    "licenseNumber": "14275994",
+    "name": "CHINOOK RHYTHMIQUE GYMNASTIC CLUB",
+    "address": "2225 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-09-24T05:32:08.000Z",
+    "expiryDate": "2026-09-23T05:32:08.000Z",
+    "coordinates": [
+      -114.063562,
+      51.0344695
+    ],
+    "longitude": -114.063562,
+    "latitude": 51.0344695,
+    "community": "ERLTON",
+    "ward": "ERL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

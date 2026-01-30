@@ -1,0 +1,36 @@
+{
+  "id": "16659211",
+  "fullDetails": {
+    "licenseNumber": "16659211",
+    "name": "CANNA CABANA",
+    "address": "#501 7248 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-12-15T08:42:30.000Z",
+    "expiryDate": "2026-12-14T08:42:29.000Z",
+    "coordinates": [
+      -113.9982518,
+      50.9871388
+    ],
+    "longitude": -113.9982518,
+    "latitude": 50.9871388,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

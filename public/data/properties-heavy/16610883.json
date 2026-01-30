@@ -1,0 +1,36 @@
+{
+  "id": "16610883",
+  "fullDetails": {
+    "licenseNumber": "16610883",
+    "name": "BEAN AND CREAM",
+    "address": "1866 45 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-07-24T13:59:07.000Z",
+    "expiryDate": "2026-07-23T13:59:06.000Z",
+    "coordinates": [
+      -114.1592199,
+      51.0711327
+    ],
+    "longitude": -114.1592199,
+    "latitude": 51.0711327,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

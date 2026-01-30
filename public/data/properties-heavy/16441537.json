@@ -1,0 +1,37 @@
+{
+  "id": "16441537",
+  "fullDetails": {
+    "licenseNumber": "16441537",
+    "name": "AMMOLITE WINDOW FASHIONS",
+    "address": "#118 10707 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-19T10:32:20.000Z",
+    "expiryDate": "2026-03-18T10:32:20.000Z",
+    "coordinates": [
+      -113.9994027,
+      51.1514612
+    ],
+    "longitude": -113.9994027,
+    "latitude": 51.1514612,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

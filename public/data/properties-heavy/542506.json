@@ -1,0 +1,36 @@
+{
+  "id": "542506",
+  "fullDetails": {
+    "licenseNumber": "542506",
+    "name": "CWS FIBERGLASS TECHNOLOGY",
+    "address": "#A 5648 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-09-23T11:30:07.000Z",
+    "expiryDate": "2026-09-22T11:30:07.000Z",
+    "coordinates": [
+      -114.0426312,
+      51.0051924
+    ],
+    "longitude": -114.0426312,
+    "latitude": 51.0051924,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

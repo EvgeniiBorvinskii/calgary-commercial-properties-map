@@ -1,0 +1,37 @@
+{
+  "id": "12806261",
+  "fullDetails": {
+    "licenseNumber": "12806261",
+    "name": "SHAMROCK BEAUTY & SPA",
+    "address": "200N HADDON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2009-08-04T14:51:42.000Z",
+    "expiryDate": "2026-08-03T14:51:42.000Z",
+    "coordinates": [
+      -114.0784436,
+      50.9713079
+    ],
+    "longitude": -114.0784436,
+    "latitude": 50.9713079,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

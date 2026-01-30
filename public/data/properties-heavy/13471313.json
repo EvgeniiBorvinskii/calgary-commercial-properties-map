@@ -1,0 +1,36 @@
+{
+  "id": "13471313",
+  "fullDetails": {
+    "licenseNumber": "13471313",
+    "name": "PRECISION MOUNTING TECHNOLOGIES",
+    "address": "#A 515 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-08-25T11:35:42.000Z",
+    "expiryDate": "2026-08-24T11:35:42.000Z",
+    "coordinates": [
+      -114.052897,
+      51.0004996
+    ],
+    "longitude": -114.052897,
+    "latitude": 51.0004996,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16617227",
+  "fullDetails": {
+    "licenseNumber": "16617227",
+    "name": "CHADWICK MANOR",
+    "address": "527 18 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-07-16T10:38:02.000Z",
+    "expiryDate": "2026-07-15T10:38:02.000Z",
+    "coordinates": [
+      -114.0730822,
+      51.0367112
+    ],
+    "longitude": -114.0730822,
+    "latitude": 51.0367112,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

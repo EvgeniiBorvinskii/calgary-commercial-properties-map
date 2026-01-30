@@ -1,0 +1,36 @@
+{
+  "id": "16651200",
+  "fullDetails": {
+    "licenseNumber": "16651200",
+    "name": "ASTRO VENTURES GROUP / ASTRO AUTO",
+    "address": "2341 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-19T13:09:35.000Z",
+    "expiryDate": "2026-12-18T13:09:35.000Z",
+    "coordinates": [
+      -114.0057826,
+      51.0703656
+    ],
+    "longitude": -114.0057826,
+    "latitude": 51.0703656,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

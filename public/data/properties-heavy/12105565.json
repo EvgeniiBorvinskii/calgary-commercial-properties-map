@@ -1,0 +1,36 @@
+{
+  "id": "12105565",
+  "fullDetails": {
+    "licenseNumber": "12105565",
+    "name": "INTERNATIONAL ORTHOTIC LABS",
+    "address": "#B 1115 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-08-19T10:17:12.000Z",
+    "expiryDate": "2026-08-18T10:17:12.000Z",
+    "coordinates": [
+      -114.0376926,
+      51.0109906
+    ],
+    "longitude": -114.0376926,
+    "latitude": 51.0109906,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12227088",
+  "fullDetails": {
+    "licenseNumber": "12227088",
+    "name": "7-ELEVEN FOOD STORE #33420",
+    "address": "407 HAWKWOOD BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2003-11-11T05:35:19.000Z",
+    "expiryDate": "2026-11-10T05:35:18.000Z",
+    "coordinates": [
+      -114.1766947,
+      51.1302014
+    ],
+    "longitude": -114.1766947,
+    "latitude": 51.1302014,
+    "community": "HAWKWOOD",
+    "ward": "HAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16088460",
+  "fullDetails": {
+    "licenseNumber": "16088460",
+    "name": "MADJESTIC ENTERPRISES",
+    "address": "11646 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-18T15:48:49.000Z",
+    "expiryDate": "2026-11-17T15:48:49.000Z",
+    "coordinates": [
+      -114.0841545,
+      50.9481141
+    ],
+    "longitude": -114.0841545,
+    "latitude": 50.9481141,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

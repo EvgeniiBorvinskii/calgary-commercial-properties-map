@@ -1,0 +1,37 @@
+{
+  "id": "15377211",
+  "fullDetails": {
+    "licenseNumber": "15377211",
+    "name": "BOSTON PIZZA FAIRVIEW",
+    "address": "7 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-05-03T08:06:35.000Z",
+    "expiryDate": "2026-05-02T08:06:35.000Z",
+    "coordinates": [
+      -114.0454367,
+      50.9874381
+    ],
+    "longitude": -114.0454367,
+    "latitude": 50.9874381,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

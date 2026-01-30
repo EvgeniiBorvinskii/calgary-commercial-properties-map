@@ -1,0 +1,36 @@
+{
+  "id": "16566861",
+  "fullDetails": {
+    "licenseNumber": "16566861",
+    "name": "UMMAH HALAL MEATS",
+    "address": "#405 4656 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-18T09:56:41.000Z",
+    "expiryDate": "2026-06-17T09:56:41.000Z",
+    "coordinates": [
+      -113.9671655,
+      51.1008828
+    ],
+    "longitude": -113.9671655,
+    "latitude": 51.1008828,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

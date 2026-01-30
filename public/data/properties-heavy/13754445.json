@@ -1,0 +1,37 @@
+{
+  "id": "13754445",
+  "fullDetails": {
+    "licenseNumber": "13754445",
+    "name": "HIGHLANDER WINE & SPIRITS",
+    "address": "#182 19489 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2013-11-29T11:31:58.000Z",
+    "expiryDate": "2026-11-28T11:31:58.000Z",
+    "coordinates": [
+      -113.9586755,
+      50.8816574
+    ],
+    "longitude": -113.9586755,
+    "latitude": 50.8816574,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

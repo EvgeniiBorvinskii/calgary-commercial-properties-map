@@ -1,0 +1,36 @@
+{
+  "id": "12707295",
+  "fullDetails": {
+    "licenseNumber": "12707295",
+    "name": "MCADOO FLOW SYSTEMS",
+    "address": "#113 5126 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-11-26T12:55:00.000Z",
+    "expiryDate": "2026-11-25T12:55:00.000Z",
+    "coordinates": [
+      -113.9627186,
+      50.9356413
+    ],
+    "longitude": -113.9627186,
+    "latitude": 50.9356413,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

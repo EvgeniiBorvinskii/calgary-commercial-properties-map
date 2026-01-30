@@ -1,0 +1,37 @@
+{
+  "id": "15819469",
+  "fullDetails": {
+    "licenseNumber": "15819469",
+    "name": "TIBET KITCHEN",
+    "address": "318 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-12-23T09:27:45.000Z",
+    "expiryDate": "2026-12-22T09:27:45.000Z",
+    "coordinates": [
+      -114.0856274,
+      51.0548258
+    ],
+    "longitude": -114.0856274,
+    "latitude": 51.0548258,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

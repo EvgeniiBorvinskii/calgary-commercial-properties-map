@@ -1,0 +1,37 @@
+{
+  "id": "16302705",
+  "fullDetails": {
+    "licenseNumber": "16302705",
+    "name": "LONDON DRUGS",
+    "address": "325 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-04-26T14:55:34.000Z",
+    "expiryDate": "2026-04-25T14:55:34.000Z",
+    "coordinates": [
+      -114.0665338,
+      50.9008882
+    ],
+    "longitude": -114.0665338,
+    "latitude": 50.9008882,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

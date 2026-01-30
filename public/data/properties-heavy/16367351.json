@@ -1,0 +1,36 @@
+{
+  "id": "16367351",
+  "fullDetails": {
+    "licenseNumber": "16367351",
+    "name": "REJUVADERM COSMETIC DERMATOLOGY AND LASER CENTRE",
+    "address": "#201 217 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-01-27T05:35:16.000Z",
+    "expiryDate": "2026-01-26T05:35:16.000Z",
+    "coordinates": [
+      -114.1057544,
+      51.0541318
+    ],
+    "longitude": -114.1057544,
+    "latitude": 51.0541318,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

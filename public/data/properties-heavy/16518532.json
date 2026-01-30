@@ -1,0 +1,37 @@
+{
+  "id": "16518532",
+  "fullDetails": {
+    "licenseNumber": "16518532",
+    "name": "AMELECO ELECTRIC",
+    "address": "3659 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-09-06T10:07:01.000Z",
+    "expiryDate": "2026-09-05T10:07:00.000Z",
+    "coordinates": [
+      -114.0123725,
+      51.0849968
+    ],
+    "longitude": -114.0123725,
+    "latitude": 51.0849968,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16162851",
+  "fullDetails": {
+    "licenseNumber": "16162851",
+    "name": "GERMAN AUTOMOTIVE SERVICES",
+    "address": "8240C 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-11-24T10:20:44.000Z",
+    "expiryDate": "2026-11-23T10:20:43.000Z",
+    "coordinates": [
+      -113.9876429,
+      50.9801426
+    ],
+    "longitude": -113.9876429,
+    "latitude": 50.9801426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

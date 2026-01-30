@@ -1,0 +1,36 @@
+{
+  "id": "12315131",
+  "fullDetails": {
+    "licenseNumber": "12315131",
+    "name": "BOUTIQUE LA VIE EN ROSE",
+    "address": "#P15 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-05-03T05:34:40.000Z",
+    "expiryDate": "2026-05-02T05:34:40.000Z",
+    "coordinates": [
+      -114.1539935,
+      51.0837998
+    ],
+    "longitude": -114.1539935,
+    "latitude": 51.0837998,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

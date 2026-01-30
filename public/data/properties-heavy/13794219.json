@@ -1,0 +1,36 @@
+{
+  "id": "13794219",
+  "fullDetails": {
+    "licenseNumber": "13794219",
+    "name": "TRANS CANADA CLEANERS",
+    "address": "#228 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2014-01-09T08:45:44.000Z",
+    "expiryDate": "2027-01-08T08:45:44.000Z",
+    "coordinates": [
+      -113.9557173,
+      51.0643335
+    ],
+    "longitude": -113.9557173,
+    "latitude": 51.0643335,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

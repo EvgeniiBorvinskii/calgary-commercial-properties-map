@@ -1,0 +1,36 @@
+{
+  "id": "12093183",
+  "fullDetails": {
+    "licenseNumber": "12093183",
+    "name": "PDS FIRE PROTECTION",
+    "address": "915A 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2009-02-27T14:19:14.000Z",
+    "expiryDate": "2026-02-26T14:19:14.000Z",
+    "coordinates": [
+      -114.0423416,
+      51.0107106
+    ],
+    "longitude": -114.0423416,
+    "latitude": 51.0107106,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

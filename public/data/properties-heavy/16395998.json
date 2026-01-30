@@ -1,0 +1,36 @@
+{
+  "id": "16395998",
+  "fullDetails": {
+    "licenseNumber": "16395998",
+    "name": "THE PLANT PLACE MARDA LOOP",
+    "address": "3474 18 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-31T16:09:10.000Z",
+    "expiryDate": "2026-10-30T16:09:10.000Z",
+    "coordinates": [
+      -114.1043022,
+      51.0236236
+    ],
+    "longitude": -114.1043022,
+    "latitude": 51.0236236,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14281141",
+  "fullDetails": {
+    "licenseNumber": "14281141",
+    "name": "NORTHERN REFLECTIONS",
+    "address": "#1696 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-08-15T05:32:57.000Z",
+    "expiryDate": "2026-08-14T05:32:57.000Z",
+    "coordinates": [
+      -114.0996877,
+      51.0661328
+    ],
+    "longitude": -114.0996877,
+    "latitude": 51.0661328,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

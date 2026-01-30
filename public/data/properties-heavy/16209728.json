@@ -1,0 +1,37 @@
+{
+  "id": "16209728",
+  "fullDetails": {
+    "licenseNumber": "16209728",
+    "name": "OIL AND GRASS",
+    "address": "1715 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "CANNABIS STORE,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2023-02-28T08:45:48.000Z",
+    "expiryDate": "2026-02-28T08:45:48.000Z",
+    "coordinates": [
+      -114.101362,
+      51.0376668
+    ],
+    "longitude": -114.101362,
+    "latitude": 51.0376668,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

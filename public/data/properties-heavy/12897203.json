@@ -1,0 +1,37 @@
+{
+  "id": "12897203",
+  "fullDetails": {
+    "licenseNumber": "12897203",
+    "name": "SOFFRITTO",
+    "address": "#120 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-26T15:12:25.000Z",
+    "expiryDate": "2026-11-25T15:12:24.000Z",
+    "coordinates": [
+      -114.0685558,
+      50.9569027
+    ],
+    "longitude": -114.0685558,
+    "latitude": 50.9569027,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

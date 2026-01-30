@@ -1,0 +1,36 @@
+{
+  "id": "16142101",
+  "fullDetails": {
+    "licenseNumber": "16142101",
+    "name": "CITYSCAPE PLAZA BUILDING #2000",
+    "address": "30 CITYSIDE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-11-16T14:46:36.000Z",
+    "expiryDate": "2026-11-15T14:46:35.000Z",
+    "coordinates": [
+      -113.966743,
+      51.1455883
+    ],
+    "longitude": -113.966743,
+    "latitude": 51.1455883,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

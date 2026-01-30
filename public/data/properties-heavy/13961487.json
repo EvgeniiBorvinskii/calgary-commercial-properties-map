@@ -1,0 +1,36 @@
+{
+  "id": "13961487",
+  "fullDetails": {
+    "licenseNumber": "13961487",
+    "name": "TV SHOWCASE",
+    "address": "#1172 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-05-29T05:33:29.000Z",
+    "expiryDate": "2026-05-28T05:33:29.000Z",
+    "coordinates": [
+      -113.9782435,
+      51.0549937
+    ],
+    "longitude": -113.9782435,
+    "latitude": 51.0549937,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

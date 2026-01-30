@@ -1,0 +1,36 @@
+{
+  "id": "12311387",
+  "fullDetails": {
+    "licenseNumber": "12311387",
+    "name": "PACIFIC TUBULARS",
+    "address": "#600 734 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2011-06-16T09:30:50.000Z",
+    "expiryDate": "2026-06-15T09:30:50.000Z",
+    "coordinates": [
+      -114.0781635,
+      51.0472243
+    ],
+    "longitude": -114.0781635,
+    "latitude": 51.0472243,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

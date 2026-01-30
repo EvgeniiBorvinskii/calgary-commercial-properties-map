@@ -1,0 +1,36 @@
+{
+  "id": "12605408",
+  "fullDetails": {
+    "licenseNumber": "12605408",
+    "name": "UPPER CANADA FOREST PRODUCTS",
+    "address": "4715 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-10-03T05:33:31.000Z",
+    "expiryDate": "2026-10-02T05:33:31.000Z",
+    "coordinates": [
+      -113.9650969,
+      51.0073451
+    ],
+    "longitude": -113.9650969,
+    "latitude": 51.0073451,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

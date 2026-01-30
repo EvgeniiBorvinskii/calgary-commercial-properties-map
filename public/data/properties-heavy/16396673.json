@@ -1,0 +1,36 @@
+{
+  "id": "16396673",
+  "fullDetails": {
+    "licenseNumber": "16396673",
+    "name": "OPTIMA EYEWEAR AND OPTOMETRY",
+    "address": "#310 318 NOLANRIDGE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-24T15:40:06.000Z",
+    "expiryDate": "2026-10-23T15:40:06.000Z",
+    "coordinates": [
+      -114.1732669,
+      51.1707198
+    ],
+    "longitude": -114.1732669,
+    "latitude": 51.1707198,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "ward": "02C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

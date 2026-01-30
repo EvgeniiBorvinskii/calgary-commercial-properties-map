@@ -1,0 +1,37 @@
+{
+  "id": "16087348",
+  "fullDetails": {
+    "licenseNumber": "16087348",
+    "name": "VINO VOLO",
+    "address": "#4101M 2000D AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-11-15T08:08:05.000Z",
+    "expiryDate": "2026-11-14T08:08:05.000Z",
+    "coordinates": [
+      -114.0111217,
+      51.1310716
+    ],
+    "longitude": -114.0111217,
+    "latitude": 51.1310716,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

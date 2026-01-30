@@ -1,0 +1,36 @@
+{
+  "id": "16043887",
+  "fullDetails": {
+    "licenseNumber": "16043887",
+    "name": "COBS BREAD GLENMORE LANDING",
+    "address": "#110A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-09T10:13:30.000Z",
+    "expiryDate": "2026-07-08T10:13:30.000Z",
+    "coordinates": [
+      -114.0986093,
+      50.9742388
+    ],
+    "longitude": -114.0986093,
+    "latitude": 50.9742388,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

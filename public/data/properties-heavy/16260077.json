@@ -1,0 +1,36 @@
+{
+  "id": "16260077",
+  "fullDetails": {
+    "licenseNumber": "16260077",
+    "name": "CARLSON GRACIE CALGARY",
+    "address": "#D 7060 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2024-03-25T16:27:02.000Z",
+    "expiryDate": "2026-03-24T16:27:02.000Z",
+    "coordinates": [
+      -114.055212,
+      50.9912471
+    ],
+    "longitude": -114.055212,
+    "latitude": 50.9912471,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

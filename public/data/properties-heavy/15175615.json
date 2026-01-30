@@ -1,0 +1,36 @@
+{
+  "id": "15175615",
+  "fullDetails": {
+    "licenseNumber": "15175615",
+    "name": "BARTLETT TREE EXPERTS",
+    "address": "320 MONUMENT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-11-19T10:39:57.000Z",
+    "expiryDate": "2026-11-18T10:39:57.000Z",
+    "coordinates": [
+      -113.9965277,
+      51.0506229
+    ],
+    "longitude": -113.9965277,
+    "latitude": 51.0506229,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

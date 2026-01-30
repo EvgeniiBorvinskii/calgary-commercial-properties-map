@@ -1,0 +1,36 @@
+{
+  "id": "16677411",
+  "fullDetails": {
+    "licenseNumber": "16677411",
+    "name": "GAMEDAY MENS HEALTH ROYAL OAK",
+    "address": "#1120 2 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-28T15:22:46.000Z",
+    "expiryDate": "2026-11-27T15:22:46.000Z",
+    "coordinates": [
+      -114.2045733,
+      51.1535733
+    ],
+    "longitude": -114.2045733,
+    "latitude": 51.1535733,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

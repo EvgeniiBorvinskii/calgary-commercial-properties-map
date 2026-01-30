@@ -1,0 +1,36 @@
+{
+  "id": "16357857",
+  "fullDetails": {
+    "licenseNumber": "16357857",
+    "name": "SENTINEL STORAGE",
+    "address": "4205 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-07-24T14:18:28.000Z",
+    "expiryDate": "2026-07-23T14:18:28.000Z",
+    "coordinates": [
+      -113.9753097,
+      50.9468723
+    ],
+    "longitude": -113.9753097,
+    "latitude": 50.9468723,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

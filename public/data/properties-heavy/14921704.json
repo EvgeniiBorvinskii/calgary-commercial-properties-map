@@ -1,0 +1,36 @@
+{
+  "id": "14921704",
+  "fullDetails": {
+    "licenseNumber": "14921704",
+    "name": "UPS STORE (THE)",
+    "address": "2949 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-23T11:08:03.000Z",
+    "expiryDate": "2026-05-22T11:08:03.000Z",
+    "coordinates": [
+      -113.9910942,
+      51.0373732
+    ],
+    "longitude": -113.9910942,
+    "latitude": 51.0373732,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

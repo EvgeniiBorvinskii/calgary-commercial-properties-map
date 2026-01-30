@@ -1,0 +1,36 @@
+{
+  "id": "14536395",
+  "fullDetails": {
+    "licenseNumber": "14536395",
+    "name": "LIQUOR EMPORIUM",
+    "address": "#236 66 SANDARAC DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2017-08-18T05:33:22.000Z",
+    "expiryDate": "2026-08-17T05:33:22.000Z",
+    "coordinates": [
+      -114.0991894,
+      51.133814
+    ],
+    "longitude": -114.0991894,
+    "latitude": 51.133814,
+    "community": "SANDSTONE VALLEY",
+    "ward": "SAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

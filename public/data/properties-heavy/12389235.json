@@ -1,0 +1,36 @@
+{
+  "id": "12389235",
+  "fullDetails": {
+    "licenseNumber": "12389235",
+    "name": "CHARTER TELECOM",
+    "address": "#134 5700 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2005-03-28T08:29:07.000Z",
+    "expiryDate": "2026-03-27T08:29:07.000Z",
+    "coordinates": [
+      -114.0654858,
+      51.0034739
+    ],
+    "longitude": -114.0654858,
+    "latitude": 51.0034739,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

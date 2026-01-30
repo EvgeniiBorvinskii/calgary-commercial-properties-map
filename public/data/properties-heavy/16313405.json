@@ -1,0 +1,37 @@
+{
+  "id": "16313405",
+  "fullDetails": {
+    "licenseNumber": "16313405",
+    "name": "SUSHI PANDA",
+    "address": "#3220 380 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-04-14T10:58:15.000Z",
+    "expiryDate": "2026-04-13T10:58:15.000Z",
+    "coordinates": [
+      -114.0636591,
+      50.9311621
+    ],
+    "longitude": -114.0636591,
+    "latitude": 50.9311621,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

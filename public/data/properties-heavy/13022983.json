@@ -1,0 +1,36 @@
+{
+  "id": "13022983",
+  "fullDetails": {
+    "licenseNumber": "13022983",
+    "name": "FURLONG STEEL INDUSTRIES",
+    "address": "3005 SHEPARD PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2024-02-29T08:36:31.000Z",
+    "expiryDate": "2026-02-27T08:36:30.000Z",
+    "coordinates": [
+      -113.988276,
+      50.9668951
+    ],
+    "longitude": -113.988276,
+    "latitude": 50.9668951,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

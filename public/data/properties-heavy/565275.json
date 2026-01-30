@@ -1,0 +1,36 @@
+{
+  "id": "565275",
+  "fullDetails": {
+    "licenseNumber": "565275",
+    "name": "QUEST INDUSTRIAL PRODUCTS",
+    "address": "#J 1201 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-03-18T05:31:28.000Z",
+    "expiryDate": "2026-03-17T05:31:28.000Z",
+    "coordinates": [
+      -114.0352105,
+      51.0152993
+    ],
+    "longitude": -114.0352105,
+    "latitude": 51.0152993,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

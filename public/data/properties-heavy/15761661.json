@@ -1,0 +1,37 @@
+{
+  "id": "15761661",
+  "fullDetails": {
+    "licenseNumber": "15761661",
+    "name": "EXECUTIVE RESIDENCY BY BEST WESTERN",
+    "address": "9665 AURORA PARK LI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "HOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-10-24T14:32:42.000Z",
+    "expiryDate": "2026-10-23T14:32:42.000Z",
+    "coordinates": [
+      -114.0604541,
+      51.140188
+    ],
+    "longitude": -114.0604541,
+    "latitude": 51.140188,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

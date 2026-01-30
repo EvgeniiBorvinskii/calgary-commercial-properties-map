@@ -1,0 +1,36 @@
+{
+  "id": "61291",
+  "fullDetails": {
+    "licenseNumber": "61291",
+    "name": "RAINTECH IRRIGATION",
+    "address": "#131 11055 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-05-09T05:32:23.000Z",
+    "expiryDate": "2026-05-08T05:32:23.000Z",
+    "coordinates": [
+      -113.9628643,
+      50.9551
+    ],
+    "longitude": -113.9628643,
+    "latitude": 50.9551,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

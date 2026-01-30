@@ -1,0 +1,36 @@
+{
+  "id": "14285555",
+  "fullDetails": {
+    "licenseNumber": "14285555",
+    "name": "PETALS 'N BLOOMS/NORTHWEST FLORIST CALGARY",
+    "address": "#109 4820 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-19T09:58:08.000Z",
+    "expiryDate": "2026-09-18T09:58:08.000Z",
+    "coordinates": [
+      -114.1407621,
+      51.0946144
+    ],
+    "longitude": -114.1407621,
+    "latitude": 51.0946144,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

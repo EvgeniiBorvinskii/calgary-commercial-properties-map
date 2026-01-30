@@ -1,0 +1,37 @@
+{
+  "id": "372714",
+  "fullDetails": {
+    "licenseNumber": "372714",
+    "name": "ECOSTONE PRODUCTS",
+    "address": "4860 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-07-16T13:10:40.000Z",
+    "expiryDate": "2026-07-15T13:10:40.000Z",
+    "coordinates": [
+      -113.9810628,
+      51.0111933
+    ],
+    "longitude": -113.9810628,
+    "latitude": 51.0111933,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

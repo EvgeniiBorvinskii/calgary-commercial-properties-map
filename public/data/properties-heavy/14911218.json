@@ -1,0 +1,36 @@
+{
+  "id": "14911218",
+  "fullDetails": {
+    "licenseNumber": "14911218",
+    "name": "ALL APPROVED AUTO",
+    "address": "406 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-02-27T11:29:00.000Z",
+    "expiryDate": "2026-02-26T11:29:00.000Z",
+    "coordinates": [
+      -114.0562956,
+      51.01189
+    ],
+    "longitude": -114.0562956,
+    "latitude": 51.01189,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

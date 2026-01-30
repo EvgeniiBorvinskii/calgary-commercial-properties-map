@@ -1,0 +1,36 @@
+{
+  "id": "16540429",
+  "fullDetails": {
+    "licenseNumber": "16540429",
+    "name": "3J FOOT GENIE",
+    "address": "1111 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-31T10:20:21.000Z",
+    "expiryDate": "2026-10-30T10:20:21.000Z",
+    "coordinates": [
+      -113.9868362,
+      51.0622404
+    ],
+    "longitude": -113.9868362,
+    "latitude": 51.0622404,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

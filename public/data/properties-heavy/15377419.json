@@ -1,0 +1,37 @@
+{
+  "id": "15377419",
+  "fullDetails": {
+    "licenseNumber": "15377419",
+    "name": "RENU HEALTH & WELLNESS",
+    "address": "#500 209 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2019-04-15T15:44:50.000Z",
+    "expiryDate": "2024-04-14T15:44:50.000Z",
+    "coordinates": [
+      -114.1058719,
+      51.0538694
+    ],
+    "longitude": -114.1058719,
+    "latitude": 51.0538694,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

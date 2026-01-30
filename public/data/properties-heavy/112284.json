@@ -1,0 +1,36 @@
+{
+  "id": "112284",
+  "fullDetails": {
+    "licenseNumber": "112284",
+    "name": "COMBIE AUTO",
+    "address": "3344 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-14T16:35:19.000Z",
+    "coordinates": [
+      -113.9855557,
+      51.0141435
+    ],
+    "longitude": -113.9855557,
+    "latitude": 51.0141435,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

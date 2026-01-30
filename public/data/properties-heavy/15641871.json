@@ -1,0 +1,37 @@
+{
+  "id": "15641871",
+  "fullDetails": {
+    "licenseNumber": "15641871",
+    "name": "PHO HOAN PASTEUR SAGE HILL",
+    "address": "#130 74 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-09-24T09:06:50.000Z",
+    "expiryDate": "2026-09-23T09:06:50.000Z",
+    "coordinates": [
+      -114.1453318,
+      51.1697801
+    ],
+    "longitude": -114.1453318,
+    "latitude": 51.1697801,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

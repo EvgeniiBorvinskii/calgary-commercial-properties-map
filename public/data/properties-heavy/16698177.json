@@ -1,0 +1,36 @@
+{
+  "id": "16698177",
+  "fullDetails": {
+    "licenseNumber": "16698177",
+    "name": "BOLLYWOOD BOX",
+    "address": "2741 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-20T13:33:03.000Z",
+    "expiryDate": "2026-11-19T13:33:02.000Z",
+    "coordinates": [
+      -114.1260352,
+      51.037417
+    ],
+    "longitude": -114.1260352,
+    "latitude": 51.037417,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16118648",
+  "fullDetails": {
+    "licenseNumber": "16118648",
+    "name": "OSCAR WYLEE",
+    "address": "#159 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-10T15:14:56.000Z",
+    "expiryDate": "2026-03-09T15:14:55.000Z",
+    "coordinates": [
+      -114.0742287,
+      50.9995493
+    ],
+    "longitude": -114.0742287,
+    "latitude": 50.9995493,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

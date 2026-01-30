@@ -1,0 +1,36 @@
+{
+  "id": "698316",
+  "fullDetails": {
+    "licenseNumber": "698316",
+    "name": "UNIVERSAL FLOORING SYSTEMS",
+    "address": "#1100 2600 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-07-19T11:02:12.000Z",
+    "expiryDate": "2026-07-18T11:02:12.000Z",
+    "coordinates": [
+      -114.0319033,
+      51.0308638
+    ],
+    "longitude": -114.0319033,
+    "latitude": 51.0308638,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

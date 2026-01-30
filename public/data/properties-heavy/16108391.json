@@ -1,0 +1,36 @@
+{
+  "id": "16108391",
+  "fullDetails": {
+    "licenseNumber": "16108391",
+    "name": "NANOTESS",
+    "address": "#105 32 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-12-21T15:48:56.000Z",
+    "expiryDate": "2026-12-20T15:48:56.000Z",
+    "coordinates": [
+      -114.2020989,
+      51.151246
+    ],
+    "longitude": -114.2020989,
+    "latitude": 51.151246,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

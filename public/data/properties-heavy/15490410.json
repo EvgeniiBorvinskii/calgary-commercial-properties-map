@@ -1,0 +1,36 @@
+{
+  "id": "15490410",
+  "fullDetails": {
+    "licenseNumber": "15490410",
+    "name": "MIDAS AUTO CALGARY NORTH",
+    "address": "3378 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-07-10T13:27:13.000Z",
+    "expiryDate": "2026-07-09T13:27:13.000Z",
+    "coordinates": [
+      -113.9881171,
+      51.0827843
+    ],
+    "longitude": -113.9881171,
+    "latitude": 51.0827843,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

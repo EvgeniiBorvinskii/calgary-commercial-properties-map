@@ -1,0 +1,36 @@
+{
+  "id": "16099533",
+  "fullDetails": {
+    "licenseNumber": "16099533",
+    "name": "AUTO-CRATS",
+    "address": "1403 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-02-17T17:18:33.000Z",
+    "expiryDate": "2026-02-16T17:18:33.000Z",
+    "coordinates": [
+      -114.056623,
+      51.0644591
+    ],
+    "longitude": -114.056623,
+    "latitude": 51.0644591,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

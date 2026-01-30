@@ -1,0 +1,36 @@
+{
+  "id": "16631749",
+  "fullDetails": {
+    "licenseNumber": "16631749",
+    "name": "BELEZA BEAUTY",
+    "address": "#210 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-07-02T11:18:28.000Z",
+    "expiryDate": "2026-07-01T11:18:28.000Z",
+    "coordinates": [
+      -114.1655523,
+      51.1038329
+    ],
+    "longitude": -114.1655523,
+    "latitude": 51.1038329,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

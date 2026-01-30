@@ -1,0 +1,37 @@
+{
+  "id": "16395493",
+  "fullDetails": {
+    "licenseNumber": "16395493",
+    "name": "TECH-WOOD",
+    "address": "10630 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-05-21T14:32:29.000Z",
+    "expiryDate": "2026-05-20T14:32:29.000Z",
+    "coordinates": [
+      -113.8959849,
+      50.9616978
+    ],
+    "longitude": -113.8959849,
+    "latitude": 50.9616978,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

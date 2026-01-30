@@ -1,0 +1,36 @@
+{
+  "id": "13272125",
+  "fullDetails": {
+    "licenseNumber": "13272125",
+    "name": "BACK TO BACK EXTERIORS",
+    "address": "9504 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2018-03-10T05:32:16.000Z",
+    "expiryDate": "2026-03-09T05:32:16.000Z",
+    "coordinates": [
+      -114.0757469,
+      50.9707689
+    ],
+    "longitude": -114.0757469,
+    "latitude": 50.9707689,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

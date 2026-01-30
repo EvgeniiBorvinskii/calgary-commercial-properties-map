@@ -1,0 +1,37 @@
+{
+  "id": "16303158",
+  "fullDetails": {
+    "licenseNumber": "16303158",
+    "name": "ZENITH MUSIC",
+    "address": "#201 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-01T16:24:04.000Z",
+    "expiryDate": "2026-05-31T16:24:04.000Z",
+    "coordinates": [
+      -114.1658502,
+      51.1036998
+    ],
+    "longitude": -114.1658502,
+    "latitude": 51.1036998,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

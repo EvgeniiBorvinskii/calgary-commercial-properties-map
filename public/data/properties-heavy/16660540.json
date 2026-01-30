@@ -1,0 +1,36 @@
+{
+  "id": "16660540",
+  "fullDetails": {
+    "licenseNumber": "16660540",
+    "name": "CALGARY AUTO MECHANIC",
+    "address": "#A 4012 16A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.020312,
+      51.0198678
+    ],
+    "longitude": -114.020312,
+    "latitude": 51.0198678,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

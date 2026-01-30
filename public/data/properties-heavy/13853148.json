@@ -1,0 +1,37 @@
+{
+  "id": "13853148",
+  "fullDetails": {
+    "licenseNumber": "13853148",
+    "name": "COSENTINO CANADA",
+    "address": "#101 10301 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-04-16T14:00:29.000Z",
+    "expiryDate": "2026-04-15T14:00:29.000Z",
+    "coordinates": [
+      -114.0143504,
+      51.1451495
+    ],
+    "longitude": -114.0143504,
+    "latitude": 51.1451495,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

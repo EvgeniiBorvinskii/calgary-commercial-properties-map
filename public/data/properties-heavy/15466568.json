@@ -1,0 +1,36 @@
+{
+  "id": "15466568",
+  "fullDetails": {
+    "licenseNumber": "15466568",
+    "name": "PROPER MOTOR WORKS",
+    "address": "5220 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-11-05T10:26:45.000Z",
+    "expiryDate": "2026-11-04T10:26:44.000Z",
+    "coordinates": [
+      -114.0668323,
+      51.0079789
+    ],
+    "longitude": -114.0668323,
+    "latitude": 51.0079789,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

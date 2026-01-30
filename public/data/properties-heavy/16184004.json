@@ -1,0 +1,37 @@
+{
+  "id": "16184004",
+  "fullDetails": {
+    "licenseNumber": "16184004",
+    "name": "RESTYLE UNISEX SALON AND SPA",
+    "address": "#1520 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2022-07-29T11:24:42.000Z",
+    "expiryDate": "2026-07-28T11:24:42.000Z",
+    "coordinates": [
+      -113.9518756,
+      51.1553653
+    ],
+    "longitude": -113.9518756,
+    "latitude": 51.1553653,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

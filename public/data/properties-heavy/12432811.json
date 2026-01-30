@@ -1,0 +1,36 @@
+{
+  "id": "12432811",
+  "fullDetails": {
+    "licenseNumber": "12432811",
+    "name": "APOLLO MUFFLER CENTRES SPEEDY BRAKE CENTRES",
+    "address": "15108 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2005-11-02T10:30:10.000Z",
+    "expiryDate": "2026-11-01T10:30:10.000Z",
+    "coordinates": [
+      -114.0674031,
+      50.9183879
+    ],
+    "longitude": -114.0674031,
+    "latitude": 50.9183879,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

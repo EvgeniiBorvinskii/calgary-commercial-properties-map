@@ -1,0 +1,36 @@
+{
+  "id": "16428096",
+  "fullDetails": {
+    "licenseNumber": "16428096",
+    "name": "MICRO GOLD RETAIL CANNABIS",
+    "address": "4825 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-01-04T09:12:43.000Z",
+    "expiryDate": "2027-01-03T09:12:43.000Z",
+    "coordinates": [
+      -114.0676553,
+      51.0102051
+    ],
+    "longitude": -114.0676553,
+    "latitude": 51.0102051,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

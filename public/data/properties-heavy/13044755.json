@@ -1,0 +1,36 @@
+{
+  "id": "13044755",
+  "fullDetails": {
+    "licenseNumber": "13044755",
+    "name": "ALBERTA PIPE FITTINGS",
+    "address": "#2125 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-01-02T11:08:26.000Z",
+    "expiryDate": "2027-01-01T11:08:25.000Z",
+    "coordinates": [
+      -113.9426002,
+      50.9804146
+    ],
+    "longitude": -113.9426002,
+    "latitude": 50.9804146,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

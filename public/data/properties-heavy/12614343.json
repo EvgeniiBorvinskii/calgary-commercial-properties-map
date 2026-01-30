@@ -1,0 +1,36 @@
+{
+  "id": "12614343",
+  "fullDetails": {
+    "licenseNumber": "12614343",
+    "name": "FRONTIER PROPERTIES",
+    "address": "4646 BUILDERS RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-06-10T05:32:04.000Z",
+    "expiryDate": "2026-06-09T05:32:04.000Z",
+    "coordinates": [
+      -114.0598671,
+      51.0117257
+    ],
+    "longitude": -114.0598671,
+    "latitude": 51.0117257,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

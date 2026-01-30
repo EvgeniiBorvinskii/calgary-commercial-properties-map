@@ -1,0 +1,36 @@
+{
+  "id": "15530223",
+  "fullDetails": {
+    "licenseNumber": "15530223",
+    "name": "GLENBOW COLLEGE",
+    "address": "940 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-07-09T10:09:59.000Z",
+    "expiryDate": "2026-07-08T10:09:59.000Z",
+    "coordinates": [
+      -114.0830987,
+      51.0482952
+    ],
+    "longitude": -114.0830987,
+    "latitude": 51.0482952,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16665077",
+  "fullDetails": {
+    "licenseNumber": "16665077",
+    "name": "FUREVER PET",
+    "address": "29B CROWFOOT RI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-05T12:49:09.000Z",
+    "expiryDate": "2026-09-04T12:49:08.000Z",
+    "coordinates": [
+      -114.2110838,
+      51.1259058
+    ],
+    "longitude": -114.2110838,
+    "latitude": 51.1259058,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

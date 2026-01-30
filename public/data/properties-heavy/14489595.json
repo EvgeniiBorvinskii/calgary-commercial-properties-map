@@ -1,0 +1,36 @@
+{
+  "id": "14489595",
+  "fullDetails": {
+    "licenseNumber": "14489595",
+    "name": "NAM VIETNAMESE KITCHEN",
+    "address": "#J16 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-06-30T10:50:52.000Z",
+    "expiryDate": "2026-06-29T10:50:51.000Z",
+    "coordinates": [
+      -114.1536346,
+      51.085214
+    ],
+    "longitude": -114.1536346,
+    "latitude": 51.085214,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

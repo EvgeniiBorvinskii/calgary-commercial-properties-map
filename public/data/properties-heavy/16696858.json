@@ -1,0 +1,36 @@
+{
+  "id": "16696858",
+  "fullDetails": {
+    "licenseNumber": "16696858",
+    "name": "JUGO JUICE",
+    "address": "75 MOUNT ROYAL CI SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-02T10:30:13.000Z",
+    "expiryDate": "2026-12-01T10:30:13.000Z",
+    "coordinates": [
+      -114.1292504,
+      51.0121925
+    ],
+    "longitude": -114.1292504,
+    "latitude": 51.0121925,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

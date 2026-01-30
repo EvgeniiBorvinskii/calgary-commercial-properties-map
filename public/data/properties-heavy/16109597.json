@@ -1,0 +1,37 @@
+{
+  "id": "16109597",
+  "fullDetails": {
+    "licenseNumber": "16109597",
+    "name": "SHOPPERS DRUG MART",
+    "address": "#110 620 MCKENZIE TOWNE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-13T14:22:40.000Z",
+    "expiryDate": "2026-10-12T14:22:40.000Z",
+    "coordinates": [
+      -113.9536347,
+      50.9123621
+    ],
+    "longitude": -113.9536347,
+    "latitude": 50.9123621,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

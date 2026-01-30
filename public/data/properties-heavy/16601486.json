@@ -1,0 +1,36 @@
+{
+  "id": "16601486",
+  "fullDetails": {
+    "licenseNumber": "16601486",
+    "name": "DIAGNOSTIC DIESEL",
+    "address": "#10 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-07-16T12:22:46.000Z",
+    "expiryDate": "2026-07-15T12:22:45.000Z",
+    "coordinates": [
+      -113.9018295,
+      50.9629418
+    ],
+    "longitude": -113.9018295,
+    "latitude": 50.9629418,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

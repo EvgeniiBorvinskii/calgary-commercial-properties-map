@@ -1,0 +1,36 @@
+{
+  "id": "12533154",
+  "fullDetails": {
+    "licenseNumber": "12533154",
+    "name": "BEDFORD LIQUOR STORE",
+    "address": "637 SHAWINIGAN DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2007-03-13T09:28:25.000Z",
+    "expiryDate": "2026-03-12T09:28:25.000Z",
+    "coordinates": [
+      -114.0899581,
+      50.9134026
+    ],
+    "longitude": -114.0899581,
+    "latitude": 50.9134026,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

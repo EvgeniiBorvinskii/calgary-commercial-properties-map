@@ -1,0 +1,37 @@
+{
+  "id": "14266993",
+  "fullDetails": {
+    "licenseNumber": "14266993",
+    "name": "THE DOGWOOD BAR",
+    "address": "#107 456 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-11-03T08:23:07.000Z",
+    "expiryDate": "2026-11-02T08:23:07.000Z",
+    "coordinates": [
+      -113.9809593,
+      51.0554816
+    ],
+    "longitude": -113.9809593,
+    "latitude": 51.0554816,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

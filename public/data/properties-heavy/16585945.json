@@ -1,0 +1,36 @@
+{
+  "id": "16585945",
+  "fullDetails": {
+    "licenseNumber": "16585945",
+    "name": "ENCORE OVERSEAS WAREHOUSE",
+    "address": "7270 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2025-02-14T09:16:35.000Z",
+    "expiryDate": "2027-02-13T09:16:35.000Z",
+    "coordinates": [
+      -113.9308932,
+      50.9628361
+    ],
+    "longitude": -113.9308932,
+    "latitude": 50.9628361,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

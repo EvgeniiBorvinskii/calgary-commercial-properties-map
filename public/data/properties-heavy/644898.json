@@ -1,0 +1,37 @@
+{
+  "id": "644898",
+  "fullDetails": {
+    "licenseNumber": "644898",
+    "name": "PORT O'CALL HOTEL",
+    "address": "1935 MCKNIGHT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "HOTEL/MOTEL,",
+    "licenseTypes": "TOBACCO RETAILER,\nHOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (DRINKING ESTABLISHMENT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-06T00:00:00.000Z",
+    "coordinates": [
+      -114.0124797,
+      51.0917449
+    ],
+    "longitude": -114.0124797,
+    "latitude": 51.0917449,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

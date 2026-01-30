@@ -1,0 +1,37 @@
+{
+  "id": "13590906",
+  "fullDetails": {
+    "licenseNumber": "13590906",
+    "name": "SIGNATURE SITE SERVICES",
+    "address": "#120 1324 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-07-06T05:31:55.000Z",
+    "expiryDate": "2026-07-05T05:31:55.000Z",
+    "coordinates": [
+      -114.0291162,
+      51.0865275
+    ],
+    "longitude": -114.0291162,
+    "latitude": 51.0865275,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

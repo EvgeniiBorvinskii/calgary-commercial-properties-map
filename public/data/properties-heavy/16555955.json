@@ -1,0 +1,36 @@
+{
+  "id": "16555955",
+  "fullDetails": {
+    "licenseNumber": "16555955",
+    "name": "ALVIS COLLEGE",
+    "address": "#222 1338B 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2025-10-29T10:03:52.000Z",
+    "expiryDate": "2026-10-28T10:03:52.000Z",
+    "coordinates": [
+      -114.0269327,
+      51.0855816
+    ],
+    "longitude": -114.0269327,
+    "latitude": 51.0855816,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

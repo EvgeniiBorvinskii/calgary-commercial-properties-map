@@ -1,0 +1,36 @@
+{
+  "id": "13983929",
+  "fullDetails": {
+    "licenseNumber": "13983929",
+    "name": "M T MOTORS",
+    "address": "3351 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-08-21T15:20:20.000Z",
+    "expiryDate": "2026-08-20T15:20:20.000Z",
+    "coordinates": [
+      -113.9855798,
+      51.0122619
+    ],
+    "longitude": -113.9855798,
+    "latitude": 51.0122619,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

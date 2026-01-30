@@ -1,0 +1,37 @@
+{
+  "id": "16583734",
+  "fullDetails": {
+    "licenseNumber": "16583734",
+    "name": "SHOPPERS DRUG MART 7486",
+    "address": "#115 122 COUNTRY VILLAGE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-19T09:26:51.000Z",
+    "expiryDate": "2026-03-18T09:26:50.000Z",
+    "coordinates": [
+      -114.0665844,
+      51.1619835
+    ],
+    "longitude": -114.0665844,
+    "latitude": 51.1619835,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16508616",
+  "fullDetails": {
+    "licenseNumber": "16508616",
+    "name": "WINDUCKS GUTTER AND WINDOW CLEANING CALGARY",
+    "address": "#1800 330 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2024-07-04T08:56:15.000Z",
+    "expiryDate": "2026-07-03T08:56:15.000Z",
+    "coordinates": [
+      -114.0692067,
+      51.0488629
+    ],
+    "longitude": -114.0692067,
+    "latitude": 51.0488629,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

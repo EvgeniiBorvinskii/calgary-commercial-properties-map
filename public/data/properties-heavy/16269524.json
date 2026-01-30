@@ -1,0 +1,37 @@
+{
+  "id": "16269524",
+  "fullDetails": {
+    "licenseNumber": "16269524",
+    "name": "BOWNESS ARTS BOARDGAME CAFE",
+    "address": "6324 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-02-07T07:20:19.000Z",
+    "expiryDate": "2026-02-06T07:20:19.000Z",
+    "coordinates": [
+      -114.1790313,
+      51.0855807
+    ],
+    "longitude": -114.1790313,
+    "latitude": 51.0855807,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

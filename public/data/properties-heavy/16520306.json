@@ -1,0 +1,36 @@
+{
+  "id": "16520306",
+  "fullDetails": {
+    "licenseNumber": "16520306",
+    "name": "JOESALON",
+    "address": "#1 917 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-03-11T08:05:02.000Z",
+    "expiryDate": "2026-03-10T08:05:02.000Z",
+    "coordinates": [
+      -114.0351342,
+      51.0407267
+    ],
+    "longitude": -114.0351342,
+    "latitude": 51.0407267,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

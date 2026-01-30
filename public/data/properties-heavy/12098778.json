@@ -1,0 +1,36 @@
+{
+  "id": "12098778",
+  "fullDetails": {
+    "licenseNumber": "12098778",
+    "name": "FOAM WORKS",
+    "address": "515 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-06-01T10:10:13.000Z",
+    "expiryDate": "2026-05-31T10:10:13.000Z",
+    "coordinates": [
+      -114.0529551,
+      51.0211073
+    ],
+    "longitude": -114.0529551,
+    "latitude": 51.0211073,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

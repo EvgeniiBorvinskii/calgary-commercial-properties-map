@@ -1,0 +1,36 @@
+{
+  "id": "16460941",
+  "fullDetails": {
+    "licenseNumber": "16460941",
+    "name": "SADDLECREST LIVING",
+    "address": "#1230 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-11T10:52:05.000Z",
+    "expiryDate": "2026-03-10T10:52:04.000Z",
+    "coordinates": [
+      -114.2067191,
+      51.152791
+    ],
+    "longitude": -114.2067191,
+    "latitude": 51.152791,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

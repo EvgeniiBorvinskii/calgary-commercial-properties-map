@@ -1,0 +1,36 @@
+{
+  "id": "12884862",
+  "fullDetails": {
+    "licenseNumber": "12884862",
+    "name": "FEEL LIKE TALKING CONNECTIONS",
+    "address": "502 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-30T08:30:17.000Z",
+    "expiryDate": "2026-06-29T08:30:17.000Z",
+    "coordinates": [
+      -113.9681706,
+      51.1468592
+    ],
+    "longitude": -113.9681706,
+    "latitude": 51.1468592,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

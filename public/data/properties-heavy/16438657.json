@@ -1,0 +1,36 @@
+{
+  "id": "16438657",
+  "fullDetails": {
+    "licenseNumber": "16438657",
+    "name": "INSPIRED GO",
+    "address": "4956 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-30T11:13:50.000Z",
+    "expiryDate": "2027-01-29T11:13:50.000Z",
+    "coordinates": [
+      -113.9570346,
+      51.0091137
+    ],
+    "longitude": -113.9570346,
+    "latitude": 51.0091137,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

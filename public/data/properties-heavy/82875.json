@@ -1,0 +1,36 @@
+{
+  "id": "82875",
+  "fullDetails": {
+    "licenseNumber": "82875",
+    "name": "CLASSY IMPORTS",
+    "address": "#21 1410 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-11-11T05:33:43.000Z",
+    "expiryDate": "2026-11-10T05:33:43.000Z",
+    "coordinates": [
+      -114.0297564,
+      51.0892418
+    ],
+    "longitude": -114.0297564,
+    "latitude": 51.0892418,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

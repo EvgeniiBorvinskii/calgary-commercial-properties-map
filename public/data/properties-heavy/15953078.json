@@ -1,0 +1,37 @@
+{
+  "id": "15953078",
+  "fullDetails": {
+    "licenseNumber": "15953078",
+    "name": "FRESH & LOCAL MARKET & KITCHENS",
+    "address": "#426 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "MARKET,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-12-02T11:17:41.000Z",
+    "expiryDate": "2026-12-01T11:17:41.000Z",
+    "coordinates": [
+      -114.0683723,
+      50.9414187
+    ],
+    "longitude": -114.0683723,
+    "latitude": 50.9414187,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16665200",
+  "fullDetails": {
+    "licenseNumber": "16665200",
+    "name": "JAMBO",
+    "address": "#1550 635 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-09-17T16:04:41.000Z",
+    "expiryDate": "2026-09-16T16:04:41.000Z",
+    "coordinates": [
+      -114.0758624,
+      51.0456352
+    ],
+    "longitude": -114.0758624,
+    "latitude": 51.0456352,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

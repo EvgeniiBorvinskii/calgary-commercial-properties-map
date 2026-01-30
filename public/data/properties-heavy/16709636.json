@@ -1,0 +1,36 @@
+{
+  "id": "16709636",
+  "fullDetails": {
+    "licenseNumber": "16709636",
+    "name": "CONTINENTAL GLASS GROUP",
+    "address": "#40 4900 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-12-04T14:59:48.000Z",
+    "expiryDate": "2026-12-03T14:59:47.000Z",
+    "coordinates": [
+      -113.9633373,
+      50.9973529
+    ],
+    "longitude": -113.9633373,
+    "latitude": 50.9973529,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

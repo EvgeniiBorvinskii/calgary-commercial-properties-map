@@ -1,0 +1,36 @@
+{
+  "id": "16672651",
+  "fullDetails": {
+    "licenseNumber": "16672651",
+    "name": "GD COLLEGE - SECOND CAMPUS",
+    "address": "#102 1935 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-22T09:14:46.000Z",
+    "expiryDate": "2026-09-21T09:14:45.000Z",
+    "coordinates": [
+      -114.0124681,
+      51.0763396
+    ],
+    "longitude": -114.0124681,
+    "latitude": 51.0763396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

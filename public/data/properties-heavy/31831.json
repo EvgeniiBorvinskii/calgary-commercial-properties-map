@@ -1,0 +1,36 @@
+{
+  "id": "31831",
+  "fullDetails": {
+    "licenseNumber": "31831",
+    "name": "PRIME COMMUNICATIONS",
+    "address": "#21 1339 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-12-18T05:31:15.000Z",
+    "expiryDate": "2026-12-17T05:31:15.000Z",
+    "coordinates": [
+      -114.0302486,
+      51.0879972
+    ],
+    "longitude": -114.0302486,
+    "latitude": 51.0879972,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

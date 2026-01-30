@@ -1,0 +1,36 @@
+{
+  "id": "13087184",
+  "fullDetails": {
+    "licenseNumber": "13087184",
+    "name": "HUNTER RESIDENTIAL DEVELOPMENTS",
+    "address": "#1101 230 EVERSYDE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-05-26T11:42:05.000Z",
+    "expiryDate": "2026-05-25T11:42:05.000Z",
+    "coordinates": [
+      -114.1100919,
+      50.9094131
+    ],
+    "longitude": -114.1100919,
+    "latitude": 50.9094131,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

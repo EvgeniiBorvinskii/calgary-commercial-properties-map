@@ -1,0 +1,36 @@
+{
+  "id": "13821582",
+  "fullDetails": {
+    "licenseNumber": "13821582",
+    "name": "SUNVIEW CUSTOM HOMES",
+    "address": "#204 110 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-08T15:28:42.000Z",
+    "expiryDate": "2026-12-07T15:28:42.000Z",
+    "coordinates": [
+      -114.0757258,
+      51.1417877
+    ],
+    "longitude": -114.0757258,
+    "latitude": 51.1417877,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

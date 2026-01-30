@@ -1,0 +1,36 @@
+{
+  "id": "16230898",
+  "fullDetails": {
+    "licenseNumber": "16230898",
+    "name": "BETTER BUTCHER (THE)",
+    "address": "377 HERITAGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-11-24T10:13:08.000Z",
+    "expiryDate": "2026-11-23T10:13:08.000Z",
+    "coordinates": [
+      -114.0613113,
+      50.9785945
+    ],
+    "longitude": -114.0613113,
+    "latitude": 50.9785945,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

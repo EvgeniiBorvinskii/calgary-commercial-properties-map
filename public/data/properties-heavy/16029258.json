@@ -1,0 +1,37 @@
+{
+  "id": "16029258",
+  "fullDetails": {
+    "licenseNumber": "16029258",
+    "name": "VALUE BUDS AT TRANSCANADA",
+    "address": "#174 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-10-22T10:13:24.000Z",
+    "expiryDate": "2026-10-21T10:13:24.000Z",
+    "coordinates": [
+      -113.9563474,
+      51.0635266
+    ],
+    "longitude": -113.9563474,
+    "latitude": 51.0635266,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13850797",
+  "fullDetails": {
+    "licenseNumber": "13850797",
+    "name": "NATUROPATHIC VITALITY CLINIC",
+    "address": "#205 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-12-10T12:55:20.000Z",
+    "expiryDate": "2026-12-09T12:55:20.000Z",
+    "coordinates": [
+      -114.1657485,
+      51.1037641
+    ],
+    "longitude": -114.1657485,
+    "latitude": 51.1037641,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

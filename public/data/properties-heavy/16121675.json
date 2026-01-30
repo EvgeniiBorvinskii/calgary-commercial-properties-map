@@ -1,0 +1,36 @@
+{
+  "id": "16121675",
+  "fullDetails": {
+    "licenseNumber": "16121675",
+    "name": "SHINE BROS",
+    "address": "#5P 520 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2023-06-16T05:33:40.000Z",
+    "expiryDate": "2026-06-15T05:33:40.000Z",
+    "coordinates": [
+      -114.0721274,
+      51.0508666
+    ],
+    "longitude": -114.0721274,
+    "latitude": 51.0508666,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

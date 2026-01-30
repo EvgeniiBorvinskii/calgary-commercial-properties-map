@@ -1,0 +1,36 @@
+{
+  "id": "16186355",
+  "fullDetails": {
+    "licenseNumber": "16186355",
+    "name": "GEOSIGHT",
+    "address": "#150 10615 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2022-09-28T14:47:49.000Z",
+    "expiryDate": "2024-09-27T14:47:49.000Z",
+    "coordinates": [
+      -113.9669656,
+      50.9589563
+    ],
+    "longitude": -113.9669656,
+    "latitude": 50.9589563,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14116586",
+  "fullDetails": {
+    "licenseNumber": "14116586",
+    "name": "ROCKY MOUNTAIN STORAGE",
+    "address": "3397 84 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-05-04T05:31:49.000Z",
+    "expiryDate": "2026-05-03T05:31:49.000Z",
+    "coordinates": [
+      -113.9154284,
+      51.0836236
+    ],
+    "longitude": -113.9154284,
+    "latitude": 51.0836236,
+    "community": "RESIDUAL WARD 10 - SUB AREA 10E",
+    "ward": "10E",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

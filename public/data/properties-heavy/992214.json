@@ -1,0 +1,37 @@
+{
+  "id": "992214",
+  "fullDetails": {
+    "licenseNumber": "992214",
+    "name": "CENTRAL AIR EQUIPMENT",
+    "address": "1322 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-10-17T15:17:58.000Z",
+    "expiryDate": "2026-10-16T15:17:58.000Z",
+    "coordinates": [
+      -114.0333401,
+      51.0137314
+    ],
+    "longitude": -114.0333401,
+    "latitude": 51.0137314,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

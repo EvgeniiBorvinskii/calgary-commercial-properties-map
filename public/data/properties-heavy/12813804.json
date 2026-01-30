@@ -1,0 +1,36 @@
+{
+  "id": "12813804",
+  "fullDetails": {
+    "licenseNumber": "12813804",
+    "name": "BRICK MATTRESS STORE (THE)",
+    "address": "5627 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-10-16T09:00:47.000Z",
+    "expiryDate": "2026-10-15T09:00:47.000Z",
+    "coordinates": [
+      -114.1686049,
+      51.0183028
+    ],
+    "longitude": -114.1686049,
+    "latitude": 51.0183028,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

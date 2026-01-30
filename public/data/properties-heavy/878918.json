@@ -1,0 +1,36 @@
+{
+  "id": "878918",
+  "fullDetails": {
+    "licenseNumber": "878918",
+    "name": "CALGARY CENTRE FOR TRADITIONAL CHINESE MEDICINE",
+    "address": "#103 197 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-19T00:00:00.000Z",
+    "coordinates": [
+      -114.0654904,
+      51.0513161
+    ],
+    "longitude": -114.0654904,
+    "latitude": 51.0513161,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

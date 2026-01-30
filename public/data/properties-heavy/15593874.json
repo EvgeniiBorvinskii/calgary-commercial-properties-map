@@ -1,0 +1,37 @@
+{
+  "id": "15593874",
+  "fullDetails": {
+    "licenseNumber": "15593874",
+    "name": "DRAGONWOOD DOORS AND LUMBER",
+    "address": "6027 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-09-04T09:27:49.000Z",
+    "expiryDate": "2024-09-03T09:27:49.000Z",
+    "coordinates": [
+      -114.0644578,
+      50.9995262
+    ],
+    "longitude": -114.0644578,
+    "latitude": 50.9995262,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

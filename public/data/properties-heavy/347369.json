@@ -1,0 +1,36 @@
+{
+  "id": "347369",
+  "fullDetails": {
+    "licenseNumber": "347369",
+    "name": "GREAT NORTHERN PLUMBING",
+    "address": "6939 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-02-24T05:32:01.000Z",
+    "expiryDate": "2027-02-23T05:32:01.000Z",
+    "coordinates": [
+      -114.0608615,
+      50.9917928
+    ],
+    "longitude": -114.0608615,
+    "latitude": 50.9917928,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

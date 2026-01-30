@@ -1,0 +1,37 @@
+{
+  "id": "14276620",
+  "fullDetails": {
+    "licenseNumber": "14276620",
+    "name": "CALGARY SOUTH STORAGE",
+    "address": "35 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-11-01T05:32:19.000Z",
+    "expiryDate": "2026-10-31T05:32:19.000Z",
+    "coordinates": [
+      -113.9088516,
+      50.9671402
+    ],
+    "longitude": -113.9088516,
+    "latitude": 50.9671402,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

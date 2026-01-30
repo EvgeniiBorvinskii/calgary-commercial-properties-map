@@ -1,0 +1,36 @@
+{
+  "id": "215905",
+  "fullDetails": {
+    "licenseNumber": "215905",
+    "name": "MY-THO BARBEQUED & FRESH MEATS",
+    "address": "#111 575 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-01-20T08:08:36.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9898169,
+      51.0473832
+    ],
+    "longitude": -113.9898169,
+    "latitude": 51.0473832,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

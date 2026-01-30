@@ -1,0 +1,36 @@
+{
+  "id": "16465619",
+  "fullDetails": {
+    "licenseNumber": "16465619",
+    "name": "NEAT FILM LAB",
+    "address": "#103 535 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-03-28T16:08:29.000Z",
+    "expiryDate": "2026-03-27T16:08:29.000Z",
+    "coordinates": [
+      -114.0510366,
+      51.0448768
+    ],
+    "longitude": -114.0510366,
+    "latitude": 51.0448768,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

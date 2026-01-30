@@ -1,0 +1,36 @@
+{
+  "id": "16317620",
+  "fullDetails": {
+    "licenseNumber": "16317620",
+    "name": "RITE BARBERSHOP (THE)",
+    "address": "904 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-04-25T08:52:28.000Z",
+    "expiryDate": "2026-04-24T08:52:28.000Z",
+    "coordinates": [
+      -114.0542357,
+      51.0599103
+    ],
+    "longitude": -114.0542357,
+    "latitude": 51.0599103,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

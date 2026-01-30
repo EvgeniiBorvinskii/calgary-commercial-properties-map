@@ -1,0 +1,37 @@
+{
+  "id": "13667340",
+  "fullDetails": {
+    "licenseNumber": "13667340",
+    "name": "ASHTROM CARROT JUICE",
+    "address": "#35 3610 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-02-08T11:07:18.000Z",
+    "expiryDate": "2027-02-07T11:07:18.000Z",
+    "coordinates": [
+      -113.9810863,
+      51.0095635
+    ],
+    "longitude": -113.9810863,
+    "latitude": 51.0095635,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

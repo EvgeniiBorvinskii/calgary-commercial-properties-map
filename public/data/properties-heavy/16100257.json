@@ -1,0 +1,37 @@
+{
+  "id": "16100257",
+  "fullDetails": {
+    "licenseNumber": "16100257",
+    "name": "BARRE BELLE",
+    "address": "#200 1110 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-01-20T08:31:21.000Z",
+    "expiryDate": "2027-01-19T08:31:21.000Z",
+    "coordinates": [
+      -114.0865759,
+      51.052715
+    ],
+    "longitude": -114.0865759,
+    "latitude": 51.052715,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15409501",
+  "fullDetails": {
+    "licenseNumber": "15409501",
+    "name": "LA SENZA #165",
+    "address": "#C11 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-08T13:07:21.000Z",
+    "expiryDate": "2026-07-07T13:07:21.000Z",
+    "coordinates": [
+      -114.1559473,
+      51.084889
+    ],
+    "longitude": -114.1559473,
+    "latitude": 51.084889,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

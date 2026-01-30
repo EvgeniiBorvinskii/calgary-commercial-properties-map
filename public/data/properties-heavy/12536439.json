@@ -1,0 +1,36 @@
+{
+  "id": "12536439",
+  "fullDetails": {
+    "licenseNumber": "12536439",
+    "name": "WRIGHT RESTYLING",
+    "address": "#6 2115 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-05-06T14:32:10.000Z",
+    "expiryDate": "2026-05-05T14:32:10.000Z",
+    "coordinates": [
+      -114.0097755,
+      51.0792652
+    ],
+    "longitude": -114.0097755,
+    "latitude": 51.0792652,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

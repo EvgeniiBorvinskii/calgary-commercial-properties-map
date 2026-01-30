@@ -1,0 +1,36 @@
+{
+  "id": "12231858",
+  "fullDetails": {
+    "licenseNumber": "12231858",
+    "name": "GALVANIC APPLIED SCIENCES",
+    "address": "7000 FISHER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-09-13T05:33:15.000Z",
+    "expiryDate": "2026-09-12T05:33:15.000Z",
+    "coordinates": [
+      -114.0673909,
+      50.9921924
+    ],
+    "longitude": -114.0673909,
+    "latitude": 50.9921924,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

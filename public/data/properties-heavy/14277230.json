@@ -1,0 +1,36 @@
+{
+  "id": "14277230",
+  "fullDetails": {
+    "licenseNumber": "14277230",
+    "name": "COUNTRY LUBE",
+    "address": "4833 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-09-07T14:02:34.000Z",
+    "expiryDate": "2026-09-06T14:02:33.000Z",
+    "coordinates": [
+      -114.0676926,
+      51.0098686
+    ],
+    "longitude": -114.0676926,
+    "latitude": 51.0098686,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

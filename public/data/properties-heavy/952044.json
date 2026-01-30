@@ -1,0 +1,36 @@
+{
+  "id": "952044",
+  "fullDetails": {
+    "licenseNumber": "952044",
+    "name": "KAWALA MASSAGE",
+    "address": "12393 COVENTRY HILLS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (HOME BASED)",
+    "licenseTypes": "MASSAGE CENTRE (HOME BASED)",
+    "status": "pending",
+    "issuedDate": "2004-04-05T12:56:50.000Z",
+    "expiryDate": "2026-04-04T12:56:49.000Z",
+    "coordinates": [
+      -114.0482518,
+      51.1645902
+    ],
+    "longitude": -114.0482518,
+    "latitude": 51.1645902,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

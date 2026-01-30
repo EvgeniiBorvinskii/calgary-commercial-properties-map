@@ -1,0 +1,36 @@
+{
+  "id": "13482765",
+  "fullDetails": {
+    "licenseNumber": "13482765",
+    "name": "KFC#1753",
+    "address": "4315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2012-11-27T14:22:13.000Z",
+    "expiryDate": "2026-11-26T14:22:13.000Z",
+    "coordinates": [
+      -113.9716859,
+      51.0374938
+    ],
+    "longitude": -113.9716859,
+    "latitude": 51.0374938,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

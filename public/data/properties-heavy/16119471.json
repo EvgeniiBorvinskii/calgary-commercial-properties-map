@@ -1,0 +1,37 @@
+{
+  "id": "16119471",
+  "fullDetails": {
+    "licenseNumber": "16119471",
+    "name": "LEAF LIFE",
+    "address": "#310 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2022-01-26T08:48:31.000Z",
+    "expiryDate": "2026-01-25T08:48:31.000Z",
+    "coordinates": [
+      -114.1628768,
+      51.1583194
+    ],
+    "longitude": -114.1628768,
+    "latitude": 51.1583194,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

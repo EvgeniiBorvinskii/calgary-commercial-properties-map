@@ -1,0 +1,37 @@
+{
+  "id": "282475",
+  "fullDetails": {
+    "licenseNumber": "282475",
+    "name": "SOME LIKE IT HOT",
+    "address": "#126 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-02-29T12:26:01.000Z",
+    "expiryDate": "2026-02-27T12:26:01.000Z",
+    "coordinates": [
+      -113.9738158,
+      51.1072778
+    ],
+    "longitude": -113.9738158,
+    "latitude": 51.1072778,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

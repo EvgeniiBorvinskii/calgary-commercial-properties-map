@@ -1,0 +1,36 @@
+{
+  "id": "13822432",
+  "fullDetails": {
+    "licenseNumber": "13822432",
+    "name": "STAR LIQUOR & WINE BOUTIQUE",
+    "address": "#15 3919 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2014-05-28T13:12:51.000Z",
+    "expiryDate": "2026-05-27T13:12:51.000Z",
+    "coordinates": [
+      -114.1431664,
+      51.020607
+    ],
+    "longitude": -114.1431664,
+    "latitude": 51.020607,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

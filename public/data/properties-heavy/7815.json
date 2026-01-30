@@ -1,0 +1,36 @@
+{
+  "id": "7815",
+  "fullDetails": {
+    "licenseNumber": "7815",
+    "name": "SOMERVILLE MEMORIALS",
+    "address": "7134R FISHER ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2011-10-26T08:12:16.000Z",
+    "expiryDate": "2026-10-25T08:12:16.000Z",
+    "coordinates": [
+      -114.0692591,
+      50.990656
+    ],
+    "longitude": -114.0692591,
+    "latitude": 50.990656,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

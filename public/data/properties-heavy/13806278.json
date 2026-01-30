@@ -1,0 +1,36 @@
+{
+  "id": "13806278",
+  "fullDetails": {
+    "licenseNumber": "13806278",
+    "name": "NEMALUX LED LIGHTING",
+    "address": "1881 120 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-07T13:03:19.000Z",
+    "expiryDate": "2026-04-06T13:03:18.000Z",
+    "coordinates": [
+      -114.0172922,
+      51.1609452
+    ],
+    "longitude": -114.0172922,
+    "latitude": 51.1609452,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

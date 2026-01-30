@@ -1,0 +1,36 @@
+{
+  "id": "129486",
+  "fullDetails": {
+    "licenseNumber": "129486",
+    "name": "WINDSHIELD SURGEON'S CALGARY",
+    "address": "#113 1725 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0178456,
+      51.0808161
+    ],
+    "longitude": -114.0178456,
+    "latitude": 51.0808161,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

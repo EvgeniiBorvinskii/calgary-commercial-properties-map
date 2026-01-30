@@ -1,0 +1,37 @@
+{
+  "id": "12043451",
+  "fullDetails": {
+    "licenseNumber": "12043451",
+    "name": "RICKY'S RESTAURANT",
+    "address": "3321 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-11-07T10:20:56.000Z",
+    "expiryDate": "2026-11-05T05:38:36.000Z",
+    "coordinates": [
+      -113.9879784,
+      51.0701248
+    ],
+    "longitude": -113.9879784,
+    "latitude": 51.0701248,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

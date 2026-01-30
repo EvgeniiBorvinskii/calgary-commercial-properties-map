@@ -1,0 +1,36 @@
+{
+  "id": "12884847",
+  "fullDetails": {
+    "licenseNumber": "12884847",
+    "name": "FEEL LIKE TALKING CONNECTIONS",
+    "address": "11714 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-02-10T05:52:53.000Z",
+    "expiryDate": "2027-02-09T05:52:53.000Z",
+    "coordinates": [
+      -114.1617586,
+      51.1575759
+    ],
+    "longitude": -114.1617586,
+    "latitude": 51.1575759,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

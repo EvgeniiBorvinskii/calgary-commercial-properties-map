@@ -1,0 +1,36 @@
+{
+  "id": "13906441",
+  "fullDetails": {
+    "licenseNumber": "13906441",
+    "name": "SAFFRON CATERING & PERSONAL CHEF SERVICES",
+    "address": "#103A 1915 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2015-01-13T09:36:26.000Z",
+    "expiryDate": "2027-01-12T09:36:26.000Z",
+    "coordinates": [
+      -114.0141722,
+      51.0763364
+    ],
+    "longitude": -114.0141722,
+    "latitude": 51.0763364,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14420327",
+  "fullDetails": {
+    "licenseNumber": "14420327",
+    "name": "WINGATE BY WYNDHAM CALGARY AIRPORT",
+    "address": "57 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "HOTEL/MOTEL,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nHOTEL/MOTEL,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-10T05:32:12.000Z",
+    "expiryDate": "2026-05-09T05:32:12.000Z",
+    "coordinates": [
+      -114.0298232,
+      51.1420446
+    ],
+    "longitude": -114.0298232,
+    "latitude": 51.1420446,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

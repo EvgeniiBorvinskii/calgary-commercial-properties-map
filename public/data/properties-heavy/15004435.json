@@ -1,0 +1,36 @@
+{
+  "id": "15004435",
+  "fullDetails": {
+    "licenseNumber": "15004435",
+    "name": "VELOCITY MOTORS",
+    "address": "4412 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-22T09:39:34.000Z",
+    "expiryDate": "2026-10-21T09:39:34.000Z",
+    "coordinates": [
+      -114.0476407,
+      51.0147262
+    ],
+    "longitude": -114.0476407,
+    "latitude": 51.0147262,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

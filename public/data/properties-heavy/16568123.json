@@ -1,0 +1,36 @@
+{
+  "id": "16568123",
+  "fullDetails": {
+    "licenseNumber": "16568123",
+    "name": "YYC WRAPS",
+    "address": "1051 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-05-02T11:16:00.000Z",
+    "expiryDate": "2026-05-01T11:16:00.000Z",
+    "coordinates": [
+      -113.9966825,
+      51.0611066
+    ],
+    "longitude": -113.9966825,
+    "latitude": 51.0611066,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

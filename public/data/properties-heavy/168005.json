@@ -1,0 +1,36 @@
+{
+  "id": "168005",
+  "fullDetails": {
+    "licenseNumber": "168005",
+    "name": "BRADLEE DISTRIBUTORS",
+    "address": "1245 73 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2011-03-19T05:45:46.000Z",
+    "expiryDate": "2026-03-18T05:45:46.000Z",
+    "coordinates": [
+      -114.0377015,
+      50.9878174
+    ],
+    "longitude": -114.0377015,
+    "latitude": 50.9878174,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14882682",
+  "fullDetails": {
+    "licenseNumber": "14882682",
+    "name": "WILLY HEAVY EQUIPMENT AND AUTO REPAIR",
+    "address": "#110 7350 108 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-06-05T11:24:18.000Z",
+    "expiryDate": "2026-06-04T11:24:17.000Z",
+    "coordinates": [
+      -113.9256904,
+      50.9576564
+    ],
+    "longitude": -113.9256904,
+    "latitude": 50.9576564,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

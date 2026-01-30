@@ -1,0 +1,36 @@
+{
+  "id": "15980840",
+  "fullDetails": {
+    "licenseNumber": "15980840",
+    "name": "MBS EQUIPMENT",
+    "address": "7220 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-06T15:31:00.000Z",
+    "expiryDate": "2026-05-05T15:31:00.000Z",
+    "coordinates": [
+      -113.9690271,
+      50.9905433
+    ],
+    "longitude": -113.9690271,
+    "latitude": 50.9905433,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

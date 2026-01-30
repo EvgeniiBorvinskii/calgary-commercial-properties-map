@@ -1,0 +1,36 @@
+{
+  "id": "719310",
+  "fullDetails": {
+    "licenseNumber": "719310",
+    "name": "OFFICE SOLUTIONS",
+    "address": "#230 6025 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-07-28T10:14:07.000Z",
+    "expiryDate": "2026-07-27T10:14:07.000Z",
+    "coordinates": [
+      -114.0355842,
+      50.9987234
+    ],
+    "longitude": -114.0355842,
+    "latitude": 50.9987234,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

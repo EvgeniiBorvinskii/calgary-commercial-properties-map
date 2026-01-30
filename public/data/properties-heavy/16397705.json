@@ -1,0 +1,36 @@
+{
+  "id": "16397705",
+  "fullDetails": {
+    "licenseNumber": "16397705",
+    "name": "A1 LIFT GATE TRUCK BODY REPAIR",
+    "address": "7730 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-11-22T15:28:35.000Z",
+    "expiryDate": "2026-11-21T15:28:35.000Z",
+    "coordinates": [
+      -113.9665697,
+      50.9836402
+    ],
+    "longitude": -113.9665697,
+    "latitude": 50.9836402,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15434020",
+  "fullDetails": {
+    "licenseNumber": "15434020",
+    "name": "RAZOR'S EDGE ROYAL OAK",
+    "address": "#3109 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-04-26T15:37:35.000Z",
+    "expiryDate": "2026-04-25T15:37:35.000Z",
+    "coordinates": [
+      -114.2101948,
+      51.1523826
+    ],
+    "longitude": -114.2101948,
+    "latitude": 51.1523826,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

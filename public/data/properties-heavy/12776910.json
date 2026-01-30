@@ -1,0 +1,36 @@
+{
+  "id": "12776910",
+  "fullDetails": {
+    "licenseNumber": "12776910",
+    "name": "HARMONY HEATING AND AIR CONDITIONING",
+    "address": "#113 427 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2013-03-08T14:07:21.000Z",
+    "expiryDate": "2026-03-07T14:07:21.000Z",
+    "coordinates": [
+      -114.0552322,
+      51.0069527
+    ],
+    "longitude": -114.0552322,
+    "latitude": 51.0069527,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

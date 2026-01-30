@@ -1,0 +1,36 @@
+{
+  "id": "12002978",
+  "fullDetails": {
+    "licenseNumber": "12002978",
+    "name": "HARBOUR AUTO 2001",
+    "address": "#8 1915 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-28T00:00:00.000Z",
+    "coordinates": [
+      -114.0138295,
+      51.0809649
+    ],
+    "longitude": -114.0138295,
+    "latitude": 51.0809649,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

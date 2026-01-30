@@ -1,0 +1,36 @@
+{
+  "id": "409672",
+  "fullDetails": {
+    "licenseNumber": "409672",
+    "name": "TULISSI CONSTRUCTION",
+    "address": "4810 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-02-07T12:50:19.000Z",
+    "expiryDate": "2027-02-06T12:50:19.000Z",
+    "coordinates": [
+      -113.9809644,
+      51.0120808
+    ],
+    "longitude": -113.9809644,
+    "latitude": 51.0120808,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

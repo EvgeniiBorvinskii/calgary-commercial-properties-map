@@ -1,0 +1,36 @@
+{
+  "id": "13183322",
+  "fullDetails": {
+    "licenseNumber": "13183322",
+    "name": "JUGO JUICE",
+    "address": "#276 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-06-22T14:09:49.000Z",
+    "expiryDate": "2026-06-21T14:09:49.000Z",
+    "coordinates": [
+      -113.9856061,
+      51.0741246
+    ],
+    "longitude": -113.9856061,
+    "latitude": 51.0741246,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

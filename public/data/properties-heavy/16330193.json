@@ -1,0 +1,36 @@
+{
+  "id": "16330193",
+  "fullDetails": {
+    "licenseNumber": "16330193",
+    "name": "AFTERSHAVE BARBERSHOP",
+    "address": "#4 1603 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-06-20T16:33:24.000Z",
+    "expiryDate": "2026-06-19T16:33:24.000Z",
+    "coordinates": [
+      -114.0198704,
+      50.9974763
+    ],
+    "longitude": -114.0198704,
+    "latitude": 50.9974763,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13198601",
+  "fullDetails": {
+    "licenseNumber": "13198601",
+    "name": "EXEL SYSTEM",
+    "address": "6145 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-10-31T15:15:09.000Z",
+    "expiryDate": "2026-10-30T15:15:09.000Z",
+    "coordinates": [
+      -114.0518119,
+      50.9971713
+    ],
+    "longitude": -114.0518119,
+    "latitude": 50.9971713,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

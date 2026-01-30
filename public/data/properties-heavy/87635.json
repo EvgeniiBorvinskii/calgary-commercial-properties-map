@@ -1,0 +1,37 @@
+{
+  "id": "87635",
+  "fullDetails": {
+    "licenseNumber": "87635",
+    "name": "A TO Z VACUUMS",
+    "address": "#248 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2005-11-09T22:39:21.000Z",
+    "expiryDate": "2026-11-08T22:39:21.000Z",
+    "coordinates": [
+      -113.9557556,
+      51.0645547
+    ],
+    "longitude": -113.9557556,
+    "latitude": 51.0645547,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

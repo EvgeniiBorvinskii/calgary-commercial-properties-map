@@ -1,0 +1,36 @@
+{
+  "id": "13740097",
+  "fullDetails": {
+    "licenseNumber": "13740097",
+    "name": "EDO JAPAN #195",
+    "address": "#404 19489 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-12-11T10:49:41.000Z",
+    "expiryDate": "2026-12-10T10:49:41.000Z",
+    "coordinates": [
+      -113.957253,
+      50.8807171
+    ],
+    "longitude": -113.957253,
+    "latitude": 50.8807171,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

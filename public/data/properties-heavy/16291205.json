@@ -1,0 +1,36 @@
+{
+  "id": "16291205",
+  "fullDetails": {
+    "licenseNumber": "16291205",
+    "name": "ACH - MOUNTAIN VIEW CAFETERIA #63097",
+    "address": "28 OKI DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-31T13:59:40.000Z",
+    "expiryDate": "2026-03-30T13:59:40.000Z",
+    "coordinates": [
+      -114.1479673,
+      51.0743365
+    ],
+    "longitude": -114.1479673,
+    "latitude": 51.0743365,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

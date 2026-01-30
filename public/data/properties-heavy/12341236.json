@@ -1,0 +1,36 @@
+{
+  "id": "12341236",
+  "fullDetails": {
+    "licenseNumber": "12341236",
+    "name": "CROWN PACKAGING",
+    "address": "#11 4141 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-08T07:34:10.000Z",
+    "expiryDate": "2027-01-07T07:34:10.000Z",
+    "coordinates": [
+      -113.9747291,
+      50.9554064
+    ],
+    "longitude": -113.9747291,
+    "latitude": 50.9554064,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16648891",
+  "fullDetails": {
+    "licenseNumber": "16648891",
+    "name": "MASSMUSCLE MASSAGE & MORE",
+    "address": "#112 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-06-26T08:29:54.000Z",
+    "expiryDate": "2026-06-25T08:29:53.000Z",
+    "coordinates": [
+      -113.997699,
+      51.0803817
+    ],
+    "longitude": -113.997699,
+    "latitude": 51.0803817,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

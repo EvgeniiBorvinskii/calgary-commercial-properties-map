@@ -1,0 +1,36 @@
+{
+  "id": "14640601",
+  "fullDetails": {
+    "licenseNumber": "14640601",
+    "name": "COLOUR THEORY HAIR BOUTIQUE",
+    "address": "#333 508 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "in_progress",
+    "issuedDate": "2017-10-04T09:56:43.000Z",
+    "expiryDate": "2025-10-03T09:56:43.000Z",
+    "coordinates": [
+      -114.0718466,
+      51.0319184
+    ],
+    "longitude": -114.0718466,
+    "latitude": 51.0319184,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

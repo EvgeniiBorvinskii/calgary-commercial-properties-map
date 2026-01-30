@@ -1,0 +1,36 @@
+{
+  "id": "12072039",
+  "fullDetails": {
+    "licenseNumber": "12072039",
+    "name": "BELL HELICOPTER TEXTRON CANADA",
+    "address": "#101 58 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-06-03T15:12:26.000Z",
+    "expiryDate": "2026-06-02T15:12:26.000Z",
+    "coordinates": [
+      -114.0391796,
+      51.1249929
+    ],
+    "longitude": -114.0391796,
+    "latitude": 51.1249929,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

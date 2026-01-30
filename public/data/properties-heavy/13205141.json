@@ -1,0 +1,37 @@
+{
+  "id": "13205141",
+  "fullDetails": {
+    "licenseNumber": "13205141",
+    "name": "THAI PLACE RESTAURANT",
+    "address": "2055 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-07-22T16:31:31.000Z",
+    "expiryDate": "2026-07-21T16:31:31.000Z",
+    "coordinates": [
+      -114.1081866,
+      51.0665761
+    ],
+    "longitude": -114.1081866,
+    "latitude": 51.0665761,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

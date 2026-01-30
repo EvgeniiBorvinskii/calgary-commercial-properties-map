@@ -1,0 +1,37 @@
+{
+  "id": "106005",
+  "fullDetails": {
+    "licenseNumber": "106005",
+    "name": "VIPOND SYSTEMS & FIRE PROTECTION GROUP",
+    "address": "#1 415 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-08-16T05:37:21.000Z",
+    "expiryDate": "2026-08-15T05:37:21.000Z",
+    "coordinates": [
+      -114.0559576,
+      50.9985749
+    ],
+    "longitude": -114.0559576,
+    "latitude": 50.9985749,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

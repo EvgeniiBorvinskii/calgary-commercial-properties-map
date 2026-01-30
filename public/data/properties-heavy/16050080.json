@@ -1,0 +1,37 @@
+{
+  "id": "16050080",
+  "fullDetails": {
+    "licenseNumber": "16050080",
+    "name": "RV NAILS AND SPA",
+    "address": "#1120 11 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "ALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "licenseTypes": "PERSONAL SERVICE,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2021-09-16T09:20:35.000Z",
+    "expiryDate": "2024-09-15T09:20:35.000Z",
+    "coordinates": [
+      -114.2071067,
+      51.1501935
+    ],
+    "longitude": -114.2071067,
+    "latitude": 51.1501935,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

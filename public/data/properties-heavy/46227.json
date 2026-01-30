@@ -1,0 +1,36 @@
+{
+  "id": "46227",
+  "fullDetails": {
+    "licenseNumber": "46227",
+    "name": "SILVER SPRINGS COMMUNITY",
+    "address": "5720 SILVER RIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "licenseTypes": "CHARITABLE ORGANIZATION",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1924934,
+      51.1041337
+    ],
+    "longitude": -114.1924934,
+    "latitude": 51.1041337,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

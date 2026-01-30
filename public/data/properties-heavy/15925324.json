@@ -1,0 +1,36 @@
+{
+  "id": "15925324",
+  "fullDetails": {
+    "licenseNumber": "15925324",
+    "name": "GLOBAL COLLEGE OF BUSINESS AND TECHNOLOGY",
+    "address": "#106 2609 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2024-09-04T16:24:43.000Z",
+    "expiryDate": "2026-09-03T16:24:42.000Z",
+    "coordinates": [
+      -114.0230871,
+      51.0756462
+    ],
+    "longitude": -114.0230871,
+    "latitude": 51.0756462,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

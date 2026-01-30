@@ -1,0 +1,36 @@
+{
+  "id": "16519068",
+  "fullDetails": {
+    "licenseNumber": "16519068",
+    "name": "PET PLANET",
+    "address": "#828 11520 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-26T07:57:15.000Z",
+    "expiryDate": "2026-07-25T07:57:14.000Z",
+    "coordinates": [
+      -113.9992644,
+      50.9527856
+    ],
+    "longitude": -113.9992644,
+    "latitude": 50.9527856,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

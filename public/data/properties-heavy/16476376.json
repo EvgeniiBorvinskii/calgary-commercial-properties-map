@@ -1,0 +1,36 @@
+{
+  "id": "16476376",
+  "fullDetails": {
+    "licenseNumber": "16476376",
+    "name": "NORTHFOUNT COLLEGE",
+    "address": "#200 4718 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-02T16:34:52.000Z",
+    "expiryDate": "2026-05-01T16:34:51.000Z",
+    "coordinates": [
+      -114.0652011,
+      51.0103702
+    ],
+    "longitude": -114.0652011,
+    "latitude": 51.0103702,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

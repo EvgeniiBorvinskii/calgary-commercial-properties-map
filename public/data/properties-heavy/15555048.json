@@ -1,0 +1,36 @@
+{
+  "id": "15555048",
+  "fullDetails": {
+    "licenseNumber": "15555048",
+    "name": "GOOD EARTH COFFEE HOUSE #73",
+    "address": "4995 MARKET ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-06-24T14:13:52.000Z",
+    "expiryDate": "2026-06-23T14:13:52.000Z",
+    "coordinates": [
+      -113.9447901,
+      50.8795716
+    ],
+    "longitude": -113.9447901,
+    "latitude": 50.8795716,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

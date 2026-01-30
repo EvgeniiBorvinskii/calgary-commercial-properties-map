@@ -1,0 +1,37 @@
+{
+  "id": "15370026",
+  "fullDetails": {
+    "licenseNumber": "15370026",
+    "name": "AUTOMAKERS",
+    "address": "#4190 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-07-12T11:37:37.000Z",
+    "expiryDate": "2026-07-11T11:37:37.000Z",
+    "coordinates": [
+      -113.9798412,
+      51.0982205
+    ],
+    "longitude": -113.9798412,
+    "latitude": 51.0982205,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

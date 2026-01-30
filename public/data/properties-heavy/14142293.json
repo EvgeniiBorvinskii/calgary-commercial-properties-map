@@ -1,0 +1,36 @@
+{
+  "id": "14142293",
+  "fullDetails": {
+    "licenseNumber": "14142293",
+    "name": "PURE CERAMICS",
+    "address": "60 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-05-09T15:49:37.000Z",
+    "expiryDate": "2026-05-08T15:49:37.000Z",
+    "coordinates": [
+      -113.9603637,
+      50.9151064
+    ],
+    "longitude": -113.9603637,
+    "latitude": 50.9151064,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

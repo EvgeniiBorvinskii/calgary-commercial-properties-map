@@ -1,0 +1,36 @@
+{
+  "id": "16617532",
+  "fullDetails": {
+    "licenseNumber": "16617532",
+    "name": "RAGE ZONE",
+    "address": "#1 3517 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "active",
+    "issuedDate": "2025-04-24T09:07:45.000Z",
+    "expiryDate": "2026-04-23T09:07:44.000Z",
+    "coordinates": [
+      -113.9833538,
+      51.0374052
+    ],
+    "longitude": -113.9833538,
+    "latitude": 51.0374052,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

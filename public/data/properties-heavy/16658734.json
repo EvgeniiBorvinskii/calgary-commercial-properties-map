@@ -1,0 +1,36 @@
+{
+  "id": "16658734",
+  "fullDetails": {
+    "licenseNumber": "16658734",
+    "name": "NOVA RENEWABLES",
+    "address": "#3807 1055 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-07-22T12:17:49.000Z",
+    "expiryDate": "2026-07-21T12:17:48.000Z",
+    "coordinates": [
+      -114.0894544,
+      51.0433738
+    ],
+    "longitude": -114.0894544,
+    "latitude": 51.0433738,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13812151",
+  "fullDetails": {
+    "licenseNumber": "13812151",
+    "name": "CO-OP WINES SPIRITS BEER",
+    "address": "2530 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2014-04-25T11:51:31.000Z",
+    "expiryDate": "2026-04-24T11:51:31.000Z",
+    "coordinates": [
+      -114.119492,
+      51.0527232
+    ],
+    "longitude": -114.119492,
+    "latitude": 51.0527232,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

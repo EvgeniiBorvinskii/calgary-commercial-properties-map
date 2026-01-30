@@ -1,0 +1,37 @@
+{
+  "id": "14188320",
+  "fullDetails": {
+    "licenseNumber": "14188320",
+    "name": "LOUNGE EIGHTEEN",
+    "address": "1005 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING ESTABLISHMENT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING ESTABLISHMENT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-12-16T12:49:30.000Z",
+    "expiryDate": "2026-12-15T12:49:30.000Z",
+    "coordinates": [
+      -114.08472,
+      51.0376097
+    ],
+    "longitude": -114.08472,
+    "latitude": 51.0376097,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12587473",
+  "fullDetails": {
+    "licenseNumber": "12587473",
+    "name": "MAGNUS INTERIORS",
+    "address": "#77 4511 GLENMORE TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-20T09:01:44.000Z",
+    "expiryDate": "2026-03-19T09:01:43.000Z",
+    "coordinates": [
+      -113.9684774,
+      50.9788128
+    ],
+    "longitude": -113.9684774,
+    "latitude": 50.9788128,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

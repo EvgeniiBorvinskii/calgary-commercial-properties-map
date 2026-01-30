@@ -1,0 +1,36 @@
+{
+  "id": "16630113",
+  "fullDetails": {
+    "licenseNumber": "16630113",
+    "name": "ROADRUNNER WHEELS AND DEALS",
+    "address": "#105 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-20T14:27:31.000Z",
+    "expiryDate": "2026-06-19T14:27:30.000Z",
+    "coordinates": [
+      -113.979416,
+      51.1519492
+    ],
+    "longitude": -113.979416,
+    "latitude": 51.1519492,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

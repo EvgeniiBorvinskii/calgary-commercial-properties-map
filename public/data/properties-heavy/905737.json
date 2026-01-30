@@ -1,0 +1,36 @@
+{
+  "id": "905737",
+  "fullDetails": {
+    "licenseNumber": "905737",
+    "name": "TREND OF BEAUTY",
+    "address": "#909 2220 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2019-03-27T05:33:20.000Z",
+    "expiryDate": "2026-03-26T05:33:20.000Z",
+    "coordinates": [
+      -113.9328869,
+      51.069683
+    ],
+    "longitude": -113.9328869,
+    "latitude": 51.069683,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

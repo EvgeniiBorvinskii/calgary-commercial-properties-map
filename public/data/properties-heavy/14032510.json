@@ -1,0 +1,36 @@
+{
+  "id": "14032510",
+  "fullDetails": {
+    "licenseNumber": "14032510",
+    "name": "LITTLE BURGUNDY",
+    "address": "#214 751 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-09T11:16:35.000Z",
+    "expiryDate": "2026-12-08T11:16:35.000Z",
+    "coordinates": [
+      -114.0709501,
+      51.0462411
+    ],
+    "longitude": -114.0709501,
+    "latitude": 51.0462411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

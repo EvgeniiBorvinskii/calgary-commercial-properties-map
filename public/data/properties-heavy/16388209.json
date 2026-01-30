@@ -1,0 +1,36 @@
+{
+  "id": "16388209",
+  "fullDetails": {
+    "licenseNumber": "16388209",
+    "name": "PASHYNSKA PHOTOGRAPHY",
+    "address": "#57 366 94 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "pending",
+    "issuedDate": "2025-02-28T08:42:16.000Z",
+    "expiryDate": "2026-02-27T08:42:15.000Z",
+    "coordinates": [
+      -114.0604318,
+      50.9698893
+    ],
+    "longitude": -114.0604318,
+    "latitude": 50.9698893,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

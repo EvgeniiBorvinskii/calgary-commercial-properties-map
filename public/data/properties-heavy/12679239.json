@@ -1,0 +1,36 @@
+{
+  "id": "12679239",
+  "fullDetails": {
+    "licenseNumber": "12679239",
+    "name": "HOLLY ACRES",
+    "address": "4501 37 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2008-12-06T05:37:04.000Z",
+    "expiryDate": "2026-12-05T05:37:04.000Z",
+    "coordinates": [
+      -114.1414682,
+      51.0921557
+    ],
+    "longitude": -114.1414682,
+    "latitude": 51.0921557,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

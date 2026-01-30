@@ -1,0 +1,37 @@
+{
+  "id": "16566788",
+  "fullDetails": {
+    "licenseNumber": "16566788",
+    "name": "CALGARY FITNESS KICKBOXING",
+    "address": "#2130 4 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-12-12T07:33:39.000Z",
+    "expiryDate": "2026-12-11T07:33:38.000Z",
+    "coordinates": [
+      -114.2083935,
+      51.1522112
+    ],
+    "longitude": -114.2083935,
+    "latitude": 51.1522112,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

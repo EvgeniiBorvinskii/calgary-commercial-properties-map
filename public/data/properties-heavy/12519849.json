@@ -1,0 +1,37 @@
+{
+  "id": "12519849",
+  "fullDetails": {
+    "licenseNumber": "12519849",
+    "name": "CALGARY CO-OP #22 GAS BAR",
+    "address": "11994 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-05-03T11:09:47.000Z",
+    "expiryDate": "2026-05-02T11:09:47.000Z",
+    "coordinates": [
+      -114.1236815,
+      51.1606867
+    ],
+    "longitude": -114.1236815,
+    "latitude": 51.1606867,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

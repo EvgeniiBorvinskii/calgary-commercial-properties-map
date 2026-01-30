@@ -1,0 +1,37 @@
+{
+  "id": "16429482",
+  "fullDetails": {
+    "licenseNumber": "16429482",
+    "name": "CHINE HOT POT AND NOODLES",
+    "address": "#1110 11 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-03T09:58:34.000Z",
+    "expiryDate": "2026-05-02T09:58:34.000Z",
+    "coordinates": [
+      -114.206958,
+      51.1503126
+    ],
+    "longitude": -114.206958,
+    "latitude": 51.1503126,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

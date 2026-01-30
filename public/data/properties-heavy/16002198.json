@@ -1,0 +1,37 @@
+{
+  "id": "16002198",
+  "fullDetails": {
+    "licenseNumber": "16002198",
+    "name": "FONDA FORA",
+    "address": "630 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-23T10:13:22.000Z",
+    "expiryDate": "2026-06-22T10:13:22.000Z",
+    "coordinates": [
+      -114.0749231,
+      51.0499624
+    ],
+    "longitude": -114.0749231,
+    "latitude": 51.0499624,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

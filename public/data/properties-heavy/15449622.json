@@ -1,0 +1,36 @@
+{
+  "id": "15449622",
+  "fullDetails": {
+    "licenseNumber": "15449622",
+    "name": "ZEE'S GARAGE",
+    "address": "#1126 10923 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-08-30T15:24:58.000Z",
+    "expiryDate": "2026-08-29T15:24:58.000Z",
+    "coordinates": [
+      -113.979111,
+      51.1516082
+    ],
+    "longitude": -113.979111,
+    "latitude": 51.1516082,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

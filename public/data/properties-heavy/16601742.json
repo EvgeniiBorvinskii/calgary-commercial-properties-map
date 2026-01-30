@@ -1,0 +1,36 @@
+{
+  "id": "16601742",
+  "fullDetails": {
+    "licenseNumber": "16601742",
+    "name": "EVERGREEN ORCHARDS PRODUCE & GROCERY",
+    "address": "14 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-13T14:26:28.000Z",
+    "expiryDate": "2026-03-12T14:26:28.000Z",
+    "coordinates": [
+      -114.0647291,
+      50.9148253
+    ],
+    "longitude": -114.0647291,
+    "latitude": 50.9148253,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

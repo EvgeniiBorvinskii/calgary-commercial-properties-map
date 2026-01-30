@@ -1,0 +1,36 @@
+{
+  "id": "13276001",
+  "fullDetails": {
+    "licenseNumber": "13276001",
+    "name": "W ADAMS JEWELLERY",
+    "address": "#120 8989 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-08-23T14:12:00.000Z",
+    "expiryDate": "2026-08-22T14:11:59.000Z",
+    "coordinates": [
+      -114.0728586,
+      50.9736148
+    ],
+    "longitude": -114.0728586,
+    "latitude": 50.9736148,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

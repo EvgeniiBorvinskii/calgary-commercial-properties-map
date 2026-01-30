@@ -1,0 +1,36 @@
+{
+  "id": "12110672",
+  "fullDetails": {
+    "licenseNumber": "12110672",
+    "name": "HYDRA LAWN AND GARDEN",
+    "address": "#110 7110 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-26T11:33:32.000Z",
+    "expiryDate": "2026-11-25T11:33:32.000Z",
+    "coordinates": [
+      -114.0631816,
+      50.9909329
+    ],
+    "longitude": -114.0631816,
+    "latitude": 50.9909329,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16664757",
+  "fullDetails": {
+    "licenseNumber": "16664757",
+    "name": "ORRA WELLNESS PODS",
+    "address": "#300 1918 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-26T09:50:01.000Z",
+    "expiryDate": "2026-08-25T09:50:00.000Z",
+    "coordinates": [
+      -114.1044567,
+      51.0527647
+    ],
+    "longitude": -114.1044567,
+    "latitude": 51.0527647,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16133803",
+  "fullDetails": {
+    "licenseNumber": "16133803",
+    "name": "NORC WINDOWS AND DOORS",
+    "address": "#110 8655 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2022-03-07T16:00:51.000Z",
+    "expiryDate": "2026-03-06T16:00:51.000Z",
+    "coordinates": [
+      -113.979277,
+      51.129069
+    ],
+    "longitude": -113.979277,
+    "latitude": 51.129069,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12581815",
+  "fullDetails": {
+    "licenseNumber": "12581815",
+    "name": "IMAGINE WIRELESS",
+    "address": "11644 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-09-24T14:41:11.000Z",
+    "expiryDate": "2026-09-23T14:41:11.000Z",
+    "coordinates": [
+      -114.1602994,
+      51.1568021
+    ],
+    "longitude": -114.1602994,
+    "latitude": 51.1568021,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

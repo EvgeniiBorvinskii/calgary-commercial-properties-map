@@ -1,0 +1,36 @@
+{
+  "id": "16673428",
+  "fullDetails": {
+    "licenseNumber": "16673428",
+    "name": "MELODY HEARING CLINIC",
+    "address": "#108 5340 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-30T09:19:48.000Z",
+    "expiryDate": "2026-10-29T09:19:48.000Z",
+    "coordinates": [
+      -114.0655747,
+      51.0059134
+    ],
+    "longitude": -114.0655747,
+    "latitude": 51.0059134,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

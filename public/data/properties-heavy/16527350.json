@@ -1,0 +1,37 @@
+{
+  "id": "16527350",
+  "fullDetails": {
+    "licenseNumber": "16527350",
+    "name": "JUBILEE DISTRIBUTORS",
+    "address": "#204 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-26T13:00:51.000Z",
+    "expiryDate": "2026-09-25T13:00:50.000Z",
+    "coordinates": [
+      -114.006609,
+      51.0780975
+    ],
+    "longitude": -114.006609,
+    "latitude": 51.0780975,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

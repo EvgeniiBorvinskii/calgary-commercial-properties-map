@@ -1,0 +1,36 @@
+{
+  "id": "15449275",
+  "fullDetails": {
+    "licenseNumber": "15449275",
+    "name": "GEN AUTOMOTIVE AND TIRE SERVICES",
+    "address": "#613 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-06-05T13:19:56.000Z",
+    "expiryDate": "2026-06-04T13:19:56.000Z",
+    "coordinates": [
+      -113.9877094,
+      51.0591378
+    ],
+    "longitude": -113.9877094,
+    "latitude": 51.0591378,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

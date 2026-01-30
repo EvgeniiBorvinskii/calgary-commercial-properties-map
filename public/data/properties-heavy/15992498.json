@@ -1,0 +1,36 @@
+{
+  "id": "15992498",
+  "fullDetails": {
+    "licenseNumber": "15992498",
+    "name": "PROMPT PHYSIOTHERAPY & MASSAGE CLINIC (SHAWNEE STATION)",
+    "address": "14359 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2021-03-17T05:30:24.000Z",
+    "expiryDate": "2026-03-16T05:30:24.000Z",
+    "coordinates": [
+      -114.0728258,
+      50.9238751
+    ],
+    "longitude": -114.0728258,
+    "latitude": 50.9238751,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

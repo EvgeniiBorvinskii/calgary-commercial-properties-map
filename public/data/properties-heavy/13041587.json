@@ -1,0 +1,36 @@
+{
+  "id": "13041587",
+  "fullDetails": {
+    "licenseNumber": "13041587",
+    "name": "BOWEST APPLIANCES",
+    "address": "#25 3900 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-03-04T13:23:59.000Z",
+    "expiryDate": "2026-03-03T13:23:59.000Z",
+    "coordinates": [
+      -113.9803029,
+      50.9598814
+    ],
+    "longitude": -113.9803029,
+    "latitude": 50.9598814,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

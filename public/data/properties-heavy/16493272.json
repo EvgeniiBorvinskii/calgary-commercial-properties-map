@@ -1,0 +1,36 @@
+{
+  "id": "16493272",
+  "fullDetails": {
+    "licenseNumber": "16493272",
+    "name": "UPHARMACY CALGARY SOUTH",
+    "address": "#230 10201 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-15T15:27:56.000Z",
+    "expiryDate": "2026-11-14T15:27:56.000Z",
+    "coordinates": [
+      -114.0733904,
+      50.9641083
+    ],
+    "longitude": -114.0733904,
+    "latitude": 50.9641083,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

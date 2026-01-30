@@ -1,0 +1,36 @@
+{
+  "id": "16661092",
+  "fullDetails": {
+    "licenseNumber": "16661092",
+    "name": "COMMUNITY LIQUOR STORE",
+    "address": "226 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-07-31T10:42:50.000Z",
+    "expiryDate": "2026-07-30T10:42:49.000Z",
+    "coordinates": [
+      -114.1053718,
+      51.0542293
+    ],
+    "longitude": -114.1053718,
+    "latitude": 51.0542293,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

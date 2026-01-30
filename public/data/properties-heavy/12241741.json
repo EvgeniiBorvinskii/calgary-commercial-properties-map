@@ -1,0 +1,36 @@
+{
+  "id": "12241741",
+  "fullDetails": {
+    "licenseNumber": "12241741",
+    "name": "TK'S TIRE & AUTO",
+    "address": "#5 1115 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2003-11-03T14:26:49.000Z",
+    "expiryDate": "2026-11-02T14:26:49.000Z",
+    "coordinates": [
+      -114.0379096,
+      51.0105432
+    ],
+    "longitude": -114.0379096,
+    "latitude": 51.0105432,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

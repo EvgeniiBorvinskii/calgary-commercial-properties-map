@@ -1,0 +1,37 @@
+{
+  "id": "16277691",
+  "fullDetails": {
+    "licenseNumber": "16277691",
+    "name": "RAIN OR SHINE WINDOW CLEANING AND BUILDING MAINTENANCE",
+    "address": "228 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-01T10:27:10.000Z",
+    "expiryDate": "2026-07-31T10:27:10.000Z",
+    "coordinates": [
+      -114.0583492,
+      51.0880447
+    ],
+    "longitude": -114.0583492,
+    "latitude": 51.0880447,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

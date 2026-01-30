@@ -1,0 +1,37 @@
+{
+  "id": "13950829",
+  "fullDetails": {
+    "licenseNumber": "13950829",
+    "name": "UNWIND THERAPEUTICS",
+    "address": "1104 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-04-24T07:45:24.000Z",
+    "expiryDate": "2026-04-23T07:45:24.000Z",
+    "coordinates": [
+      -114.0861732,
+      51.0427621
+    ],
+    "longitude": -114.0861732,
+    "latitude": 51.0427621,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13740410",
+  "fullDetails": {
+    "licenseNumber": "13740410",
+    "name": "ALIKI'S ART HOUSE",
+    "address": "551 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-03-25T12:07:24.000Z",
+    "expiryDate": "2026-03-24T12:07:24.000Z",
+    "coordinates": [
+      -114.0861224,
+      51.0888029
+    ],
+    "longitude": -114.0861224,
+    "latitude": 51.0888029,
+    "community": "CAMBRIAN HEIGHTS",
+    "ward": "CAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

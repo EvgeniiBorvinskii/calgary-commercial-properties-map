@@ -1,0 +1,37 @@
+{
+  "id": "13431937",
+  "fullDetails": {
+    "licenseNumber": "13431937",
+    "name": "TITAN YARDWORKS",
+    "address": "#214 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-06-30T07:50:30.000Z",
+    "expiryDate": "2026-06-29T07:50:30.000Z",
+    "coordinates": [
+      -114.0056828,
+      51.078096
+    ],
+    "longitude": -114.0056828,
+    "latitude": 51.078096,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

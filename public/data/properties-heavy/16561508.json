@@ -1,0 +1,36 @@
+{
+  "id": "16561508",
+  "fullDetails": {
+    "licenseNumber": "16561508",
+    "name": "SPECSAVERS SETON",
+    "address": "#860 19587 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-19T13:04:33.000Z",
+    "expiryDate": "2026-02-18T13:04:33.000Z",
+    "coordinates": [
+      -113.9623591,
+      50.8785749
+    ],
+    "longitude": -113.9623591,
+    "latitude": 50.8785749,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12627600",
+  "fullDetails": {
+    "licenseNumber": "12627600",
+    "name": "FONG THANH BAKERY",
+    "address": "#I 4710 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2011-05-24T10:42:20.000Z",
+    "expiryDate": "2026-05-23T10:42:20.000Z",
+    "coordinates": [
+      -113.9670394,
+      51.0388737
+    ],
+    "longitude": -113.9670394,
+    "latitude": 51.0388737,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

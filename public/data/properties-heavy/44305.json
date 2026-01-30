@@ -1,0 +1,36 @@
+{
+  "id": "44305",
+  "fullDetails": {
+    "licenseNumber": "44305",
+    "name": "C C A TRUCK DRIVER TRAINING",
+    "address": "6262 6A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-27T00:00:00.000Z",
+    "coordinates": [
+      -114.048282,
+      50.999216
+    ],
+    "longitude": -114.048282,
+    "latitude": 50.999216,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

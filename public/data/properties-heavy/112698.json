@@ -1,0 +1,37 @@
+{
+  "id": "112698",
+  "fullDetails": {
+    "licenseNumber": "112698",
+    "name": "CALGARY HUMANE SOCIETY",
+    "address": "4455 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-05-24T09:42:40.000Z",
+    "expiryDate": "2026-05-23T09:42:40.000Z",
+    "coordinates": [
+      -113.9717751,
+      50.9559485
+    ],
+    "longitude": -113.9717751,
+    "latitude": 50.9559485,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

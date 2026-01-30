@@ -1,0 +1,36 @@
+{
+  "id": "15990179",
+  "fullDetails": {
+    "licenseNumber": "15990179",
+    "name": "EYECARE PLUS - 3",
+    "address": "#730 1110 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-31T08:07:50.000Z",
+    "expiryDate": "2026-05-30T08:07:49.000Z",
+    "coordinates": [
+      -114.0898285,
+      51.1669616
+    ],
+    "longitude": -114.0898285,
+    "latitude": 51.1669616,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

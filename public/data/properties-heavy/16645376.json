@@ -1,0 +1,37 @@
+{
+  "id": "16645376",
+  "fullDetails": {
+    "licenseNumber": "16645376",
+    "name": "MARSHASOPHIA BAKERY AND MORE",
+    "address": "1081 2 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-06T10:54:27.000Z",
+    "expiryDate": "2026-11-05T10:54:27.000Z",
+    "coordinates": [
+      -114.0853582,
+      51.053895
+    ],
+    "longitude": -114.0853582,
+    "latitude": 51.053895,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

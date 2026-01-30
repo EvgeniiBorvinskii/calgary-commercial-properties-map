@@ -1,0 +1,36 @@
+{
+  "id": "14181713",
+  "fullDetails": {
+    "licenseNumber": "14181713",
+    "name": "GRIZZLY EQUIPMENT REPAIR",
+    "address": "8240G 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-07-25T10:35:56.000Z",
+    "expiryDate": "2026-07-24T10:35:56.000Z",
+    "coordinates": [
+      -113.9876429,
+      50.9801426
+    ],
+    "longitude": -113.9876429,
+    "latitude": 50.9801426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

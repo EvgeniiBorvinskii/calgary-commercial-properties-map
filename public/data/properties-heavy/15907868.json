@@ -1,0 +1,37 @@
+{
+  "id": "15907868",
+  "fullDetails": {
+    "licenseNumber": "15907868",
+    "name": "7-ELEVEN (CANADA STORE #37804H)",
+    "address": "759 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FUEL SALES/STORAGE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2020-06-04T11:11:10.000Z",
+    "expiryDate": "2026-06-03T11:11:10.000Z",
+    "coordinates": [
+      -114.0454541,
+      50.9420641
+    ],
+    "longitude": -114.0454541,
+    "latitude": 50.9420641,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

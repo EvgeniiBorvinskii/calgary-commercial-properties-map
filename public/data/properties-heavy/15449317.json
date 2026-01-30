@@ -1,0 +1,36 @@
+{
+  "id": "15449317",
+  "fullDetails": {
+    "licenseNumber": "15449317",
+    "name": "BATH TO BOW GROOMING SALON",
+    "address": "#3 10015 OAKFIELD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2019-05-09T14:29:04.000Z",
+    "expiryDate": "2026-05-08T14:29:03.000Z",
+    "coordinates": [
+      -114.1329153,
+      50.9621087
+    ],
+    "longitude": -114.1329153,
+    "latitude": 50.9621087,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12278719",
+  "fullDetails": {
+    "licenseNumber": "12278719",
+    "name": "SOLE TO SOUL",
+    "address": "#1680 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-08-23T05:32:53.000Z",
+    "expiryDate": "2026-08-22T05:32:52.000Z",
+    "coordinates": [
+      -114.0991574,
+      51.0661333
+    ],
+    "longitude": -114.0991574,
+    "latitude": 51.0661333,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

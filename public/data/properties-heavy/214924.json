@@ -1,0 +1,36 @@
+{
+  "id": "214924",
+  "fullDetails": {
+    "licenseNumber": "214924",
+    "name": "BRT CONSTRUCTION",
+    "address": "601 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-15T09:56:29.000Z",
+    "expiryDate": "2026-05-14T09:56:28.000Z",
+    "coordinates": [
+      -114.0502432,
+      51.0227595
+    ],
+    "longitude": -114.0502432,
+    "latitude": 51.0227595,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

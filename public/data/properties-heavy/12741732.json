@@ -1,0 +1,36 @@
+{
+  "id": "12741732",
+  "fullDetails": {
+    "licenseNumber": "12741732",
+    "name": "PALLET KING (2008)",
+    "address": "7120 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2020-03-11T10:53:58.000Z",
+    "expiryDate": "2026-03-10T10:53:57.000Z",
+    "coordinates": [
+      -113.930439,
+      50.9592403
+    ],
+    "longitude": -113.930439,
+    "latitude": 50.9592403,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16619595",
+  "fullDetails": {
+    "licenseNumber": "16619595",
+    "name": "CALVIN BUTTS BESPOKE",
+    "address": "#105 3470 18 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-23T09:10:49.000Z",
+    "expiryDate": "2026-07-22T09:10:48.000Z",
+    "coordinates": [
+      -114.1038292,
+      51.0237029
+    ],
+    "longitude": -114.1038292,
+    "latitude": 51.0237029,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

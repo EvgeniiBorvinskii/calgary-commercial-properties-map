@@ -1,0 +1,37 @@
+{
+  "id": "12445938",
+  "fullDetails": {
+    "licenseNumber": "12445938",
+    "name": "CALGARY CO-OP COPPERFIELD GAS BAR",
+    "address": "#400 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2006-03-28T09:05:58.000Z",
+    "expiryDate": "2026-03-27T09:05:58.000Z",
+    "coordinates": [
+      -113.9506805,
+      50.9126852
+    ],
+    "longitude": -113.9506805,
+    "latitude": 50.9126852,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

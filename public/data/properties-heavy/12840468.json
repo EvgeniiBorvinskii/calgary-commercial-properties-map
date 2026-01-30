@@ -1,0 +1,36 @@
+{
+  "id": "12840468",
+  "fullDetails": {
+    "licenseNumber": "12840468",
+    "name": "BEST BUY EXPRESS",
+    "address": "#1164 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-27T05:32:13.000Z",
+    "expiryDate": "2026-10-26T05:32:13.000Z",
+    "coordinates": [
+      -113.9782382,
+      51.0548779
+    ],
+    "longitude": -113.9782382,
+    "latitude": 51.0548779,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16618589",
+  "fullDetails": {
+    "licenseNumber": "16618589",
+    "name": "MR SINGHS PIZZA",
+    "address": "59 SAVANNA BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-16T11:10:28.000Z",
+    "expiryDate": "2026-04-15T11:10:27.000Z",
+    "coordinates": [
+      -113.9647176,
+      51.1348333
+    ],
+    "longitude": -113.9647176,
+    "latitude": 51.1348333,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

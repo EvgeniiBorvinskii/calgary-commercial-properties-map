@@ -1,0 +1,36 @@
+{
+  "id": "13703905",
+  "fullDetails": {
+    "licenseNumber": "13703905",
+    "name": "A CHOICE DRIVING SCHOOL",
+    "address": "#324 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2013-07-29T09:49:38.000Z",
+    "expiryDate": "2026-07-28T09:49:38.000Z",
+    "coordinates": [
+      -113.9665244,
+      51.1015569
+    ],
+    "longitude": -113.9665244,
+    "latitude": 51.1015569,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12465753",
+  "fullDetails": {
+    "licenseNumber": "12465753",
+    "name": "SOUTHPORT PHARMACY",
+    "address": "#106 10333 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2006-04-11T12:59:26.000Z",
+    "expiryDate": "2026-04-10T12:59:26.000Z",
+    "coordinates": [
+      -114.072845,
+      50.9630078
+    ],
+    "longitude": -114.072845,
+    "latitude": 50.9630078,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

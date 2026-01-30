@@ -1,0 +1,37 @@
+{
+  "id": "16709743",
+  "fullDetails": {
+    "licenseNumber": "16709743",
+    "name": "SHERWIN-WILLIAMS COMPANY (THE)",
+    "address": "#134 4303 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2026-01-12T11:34:16.000Z",
+    "expiryDate": "2027-01-11T11:34:16.000Z",
+    "coordinates": [
+      -113.9987136,
+      51.0900498
+    ],
+    "longitude": -113.9987136,
+    "latitude": 51.0900498,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16444440",
+  "fullDetails": {
+    "licenseNumber": "16444440",
+    "name": "TASSE BAKERY",
+    "address": "3220 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-07T15:57:52.000Z",
+    "expiryDate": "2026-03-06T15:57:52.000Z",
+    "coordinates": [
+      -113.9874766,
+      51.0575126
+    ],
+    "longitude": -113.9874766,
+    "latitude": 51.0575126,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

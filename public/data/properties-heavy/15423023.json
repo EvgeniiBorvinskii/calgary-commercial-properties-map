@@ -1,0 +1,37 @@
+{
+  "id": "15423023",
+  "fullDetails": {
+    "licenseNumber": "15423023",
+    "name": "ALBERTA HOME SERVICES GROUP",
+    "address": "3343 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-05-06T15:28:44.000Z",
+    "expiryDate": "2026-05-05T15:28:44.000Z",
+    "coordinates": [
+      -113.9855669,
+      51.0136742
+    ],
+    "longitude": -113.9855669,
+    "latitude": 51.0136742,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

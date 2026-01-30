@@ -1,0 +1,36 @@
+{
+  "id": "14393896",
+  "fullDetails": {
+    "licenseNumber": "14393896",
+    "name": "KRISTYN HARDER PHOTOGRAPHY",
+    "address": "#307 908 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2021-10-16T21:47:32.000Z",
+    "expiryDate": "2026-10-15T21:47:32.000Z",
+    "coordinates": [
+      -114.0825372,
+      51.0380062
+    ],
+    "longitude": -114.0825372,
+    "latitude": 51.0380062,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

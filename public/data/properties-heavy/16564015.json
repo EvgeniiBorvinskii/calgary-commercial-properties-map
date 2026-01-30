@@ -1,0 +1,36 @@
+{
+  "id": "16564015",
+  "fullDetails": {
+    "licenseNumber": "16564015",
+    "name": "RAINBOW COTTAGE",
+    "address": "2848 BRECKEN RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2025-01-30T14:52:13.000Z",
+    "expiryDate": "2027-01-29T14:52:12.000Z",
+    "coordinates": [
+      -114.1254011,
+      51.0891925
+    ],
+    "longitude": -114.1254011,
+    "latitude": 51.0891925,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

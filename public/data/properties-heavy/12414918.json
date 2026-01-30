@@ -1,0 +1,36 @@
+{
+  "id": "12414918",
+  "fullDetails": {
+    "licenseNumber": "12414918",
+    "name": "KARSON BUILDERS",
+    "address": "#13 415 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-09-24T05:32:28.000Z",
+    "expiryDate": "2026-09-23T05:32:28.000Z",
+    "coordinates": [
+      -114.0559576,
+      50.9985749
+    ],
+    "longitude": -114.0559576,
+    "latitude": 50.9985749,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

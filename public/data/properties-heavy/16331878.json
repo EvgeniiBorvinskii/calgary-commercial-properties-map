@@ -1,0 +1,36 @@
+{
+  "id": "16331878",
+  "fullDetails": {
+    "licenseNumber": "16331878",
+    "name": "AFFINITY ACADEMY OF MARTIAL ARTS",
+    "address": "#320 318 NOLANRIDGE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-24T14:57:50.000Z",
+    "expiryDate": "2026-05-23T14:57:50.000Z",
+    "coordinates": [
+      -114.1731759,
+      51.1706743
+    ],
+    "longitude": -114.1731759,
+    "latitude": 51.1706743,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "ward": "02C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

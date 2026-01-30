@@ -1,0 +1,36 @@
+{
+  "id": "16187916",
+  "fullDetails": {
+    "licenseNumber": "16187916",
+    "name": "BOTTOMS UP SCRUBS",
+    "address": "3949 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-24T09:06:48.000Z",
+    "expiryDate": "2026-08-23T09:06:48.000Z",
+    "coordinates": [
+      -114.1443637,
+      51.0782036
+    ],
+    "longitude": -114.1443637,
+    "latitude": 51.0782036,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13796677",
+  "fullDetails": {
+    "licenseNumber": "13796677",
+    "name": "SUBWAY RESTAURANT",
+    "address": "#6103 15 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-08-09T13:59:24.000Z",
+    "expiryDate": "2026-08-08T13:59:24.000Z",
+    "coordinates": [
+      -114.0578345,
+      50.90453
+    ],
+    "longitude": -114.0578345,
+    "latitude": 50.90453,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16364192",
+  "fullDetails": {
+    "licenseNumber": "16364192",
+    "name": "GAME OVER ESCAPE ROOMS",
+    "address": "#5 3030 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-02-24T05:34:19.000Z",
+    "expiryDate": "2027-02-23T05:34:19.000Z",
+    "coordinates": [
+      -113.9907367,
+      51.0695828
+    ],
+    "longitude": -113.9907367,
+    "latitude": 51.0695828,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

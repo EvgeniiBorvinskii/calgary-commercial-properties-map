@@ -1,0 +1,37 @@
+{
+  "id": "15866833",
+  "fullDetails": {
+    "licenseNumber": "15866833",
+    "name": "BOW TIE PIZZA",
+    "address": "#106 330 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-06-25T14:26:46.000Z",
+    "expiryDate": "2026-06-24T14:26:46.000Z",
+    "coordinates": [
+      -114.1575178,
+      51.1825039
+    ],
+    "longitude": -114.1575178,
+    "latitude": 51.1825039,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

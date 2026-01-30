@@ -1,0 +1,36 @@
+{
+  "id": "13493580",
+  "fullDetails": {
+    "licenseNumber": "13493580",
+    "name": "JOYDROP",
+    "address": "230 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-07-19T10:45:19.000Z",
+    "expiryDate": "2026-07-18T10:45:19.000Z",
+    "coordinates": [
+      -114.1689851,
+      51.0142878
+    ],
+    "longitude": -114.1689851,
+    "latitude": 51.0142878,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

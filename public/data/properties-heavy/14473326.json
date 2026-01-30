@@ -1,0 +1,36 @@
+{
+  "id": "14473326",
+  "fullDetails": {
+    "licenseNumber": "14473326",
+    "name": "PIZZA 73",
+    "address": "#140 5305 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2017-04-03T15:52:24.000Z",
+    "expiryDate": "2026-04-02T15:52:24.000Z",
+    "coordinates": [
+      -113.9575406,
+      51.1549555
+    ],
+    "longitude": -113.9575406,
+    "latitude": 51.1549555,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

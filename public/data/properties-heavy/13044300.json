@@ -1,0 +1,36 @@
+{
+  "id": "13044300",
+  "fullDetails": {
+    "licenseNumber": "13044300",
+    "name": "HYDRA-TECH JACKS AND TOOLS",
+    "address": "6060 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-09-10T13:44:57.000Z",
+    "expiryDate": "2026-09-09T13:44:56.000Z",
+    "coordinates": [
+      -113.9479341,
+      50.976615
+    ],
+    "longitude": -113.9479341,
+    "latitude": 50.976615,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

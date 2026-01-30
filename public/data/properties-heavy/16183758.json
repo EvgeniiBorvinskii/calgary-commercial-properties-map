@@ -1,0 +1,37 @@
+{
+  "id": "16183758",
+  "fullDetails": {
+    "licenseNumber": "16183758",
+    "name": "REXALL PHARMACIES 7522",
+    "address": "#244 315 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-11T13:15:13.000Z",
+    "expiryDate": "2026-08-10T13:15:13.000Z",
+    "coordinates": [
+      -114.0690566,
+      51.0452367
+    ],
+    "longitude": -114.0690566,
+    "latitude": 51.0452367,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

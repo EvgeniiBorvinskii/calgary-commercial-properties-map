@@ -1,0 +1,36 @@
+{
+  "id": "12577243",
+  "fullDetails": {
+    "licenseNumber": "12577243",
+    "name": "AG CREATIONS",
+    "address": "#125 540 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-13T07:32:26.000Z",
+    "expiryDate": "2026-06-12T07:32:26.000Z",
+    "coordinates": [
+      -114.0737255,
+      51.0419979
+    ],
+    "longitude": -114.0737255,
+    "latitude": 51.0419979,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

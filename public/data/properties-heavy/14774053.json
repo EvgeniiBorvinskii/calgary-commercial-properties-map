@@ -1,0 +1,36 @@
+{
+  "id": "14774053",
+  "fullDetails": {
+    "licenseNumber": "14774053",
+    "name": "STEELHAUS TECHNOLOGIES",
+    "address": "#125 2808 HOPEWELL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2018-03-22T15:38:00.000Z",
+    "expiryDate": "2026-03-21T15:38:00.000Z",
+    "coordinates": [
+      -113.9951976,
+      51.0934487
+    ],
+    "longitude": -113.9951976,
+    "latitude": 51.0934487,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

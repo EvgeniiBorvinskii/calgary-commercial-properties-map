@@ -1,0 +1,37 @@
+{
+  "id": "16338881",
+  "fullDetails": {
+    "licenseNumber": "16338881",
+    "name": "THL GOURMET FOODS",
+    "address": "#121 10710 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-18T11:49:07.000Z",
+    "expiryDate": "2026-04-17T11:49:07.000Z",
+    "coordinates": [
+      -113.9953177,
+      51.1502486
+    ],
+    "longitude": -113.9953177,
+    "latitude": 51.1502486,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

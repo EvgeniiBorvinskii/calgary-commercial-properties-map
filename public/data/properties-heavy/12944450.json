@@ -1,0 +1,36 @@
+{
+  "id": "12944450",
+  "fullDetails": {
+    "licenseNumber": "12944450",
+    "name": "INTEGRATIVE HEALTH CENTRE",
+    "address": "#201 17 INGLEWOOD PA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2012-06-27T09:02:32.000Z",
+    "expiryDate": "2026-06-26T09:02:32.000Z",
+    "coordinates": [
+      -114.0172101,
+      51.0383684
+    ],
+    "longitude": -114.0172101,
+    "latitude": 51.0383684,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

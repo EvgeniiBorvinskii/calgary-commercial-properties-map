@@ -1,0 +1,36 @@
+{
+  "id": "13794078",
+  "fullDetails": {
+    "licenseNumber": "13794078",
+    "name": "SIGLA BOOKS",
+    "address": "1040 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2016-01-07T10:38:25.000Z",
+    "expiryDate": "2027-01-06T10:38:25.000Z",
+    "coordinates": [
+      -114.0858914,
+      51.0465375
+    ],
+    "longitude": -114.0858914,
+    "latitude": 51.0465375,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

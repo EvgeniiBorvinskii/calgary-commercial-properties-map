@@ -1,0 +1,36 @@
+{
+  "id": "15981970",
+  "fullDetails": {
+    "licenseNumber": "15981970",
+    "name": "PARK AVENUE SALON",
+    "address": "2101 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "in_progress",
+    "issuedDate": "2021-02-03T09:10:26.000Z",
+    "expiryDate": "2026-02-02T09:10:26.000Z",
+    "coordinates": [
+      -114.0564164,
+      51.070778
+    ],
+    "longitude": -114.0564164,
+    "latitude": 51.070778,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

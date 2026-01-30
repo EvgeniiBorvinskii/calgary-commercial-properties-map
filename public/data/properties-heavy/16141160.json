@@ -1,0 +1,37 @@
+{
+  "id": "16141160",
+  "fullDetails": {
+    "licenseNumber": "16141160",
+    "name": "ACADIA FOOD MART",
+    "address": "#20 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2022-09-19T15:20:35.000Z",
+    "expiryDate": "2026-09-18T15:20:35.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

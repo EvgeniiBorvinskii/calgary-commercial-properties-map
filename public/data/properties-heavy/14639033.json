@@ -1,0 +1,36 @@
+{
+  "id": "14639033",
+  "fullDetails": {
+    "licenseNumber": "14639033",
+    "name": "BOYD AUTOBODY & GLASS #11106",
+    "address": "#K 1201 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2017-12-08T12:50:46.000Z",
+    "expiryDate": "2026-12-07T12:50:46.000Z",
+    "coordinates": [
+      -114.0353102,
+      51.0149889
+    ],
+    "longitude": -114.0353102,
+    "latitude": 51.0149889,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

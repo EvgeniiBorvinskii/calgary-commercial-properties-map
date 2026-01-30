@@ -1,0 +1,37 @@
+{
+  "id": "16273468",
+  "fullDetails": {
+    "licenseNumber": "16273468",
+    "name": "CRYSTIES COFFEE HOUSE AND BISTRO",
+    "address": "#105 2121 194 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-05-17T12:05:56.000Z",
+    "expiryDate": "2026-05-16T12:05:55.000Z",
+    "coordinates": [
+      -114.0108818,
+      50.8773875
+    ],
+    "longitude": -114.0108818,
+    "latitude": 50.8773875,
+    "community": "WOLF WILLOW",
+    "ward": "WWO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13202429",
+  "fullDetails": {
+    "licenseNumber": "13202429",
+    "name": "JAMESONS IRISH PUB",
+    "address": "1230 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2012-03-22T17:30:37.000Z",
+    "expiryDate": "2026-03-21T17:30:37.000Z",
+    "coordinates": [
+      -114.0908777,
+      51.0380975
+    ],
+    "longitude": -114.0908777,
+    "latitude": 51.0380975,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16665655",
+  "fullDetails": {
+    "licenseNumber": "16665655",
+    "name": "CIRCLE K",
+    "address": "#1 1110 CANTERBURY DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-09-05T12:50:33.000Z",
+    "expiryDate": "2026-09-04T12:50:32.000Z",
+    "coordinates": [
+      -114.0800422,
+      50.9367945
+    ],
+    "longitude": -114.0800422,
+    "latitude": 50.9367945,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14034987",
+  "fullDetails": {
+    "licenseNumber": "14034987",
+    "name": "SERENITY MEMORIALS CANADA",
+    "address": "4119 17 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2016-02-10T07:29:03.000Z",
+    "expiryDate": "2026-02-09T07:29:02.000Z",
+    "coordinates": [
+      -114.0195144,
+      51.0177147
+    ],
+    "longitude": -114.0195144,
+    "latitude": 51.0177147,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

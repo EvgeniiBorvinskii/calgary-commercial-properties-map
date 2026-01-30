@@ -1,0 +1,36 @@
+{
+  "id": "16171233",
+  "fullDetails": {
+    "licenseNumber": "16171233",
+    "name": "TJS PIZZA",
+    "address": "1921 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-08-02T15:56:11.000Z",
+    "expiryDate": "2026-08-01T15:56:11.000Z",
+    "coordinates": [
+      -114.0631113,
+      51.0695292
+    ],
+    "longitude": -114.0631113,
+    "latitude": 51.0695292,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

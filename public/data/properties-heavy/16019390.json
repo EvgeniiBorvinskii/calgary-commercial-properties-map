@@ -1,0 +1,37 @@
+{
+  "id": "16019390",
+  "fullDetails": {
+    "licenseNumber": "16019390",
+    "name": "MEGA MART",
+    "address": "2104 54 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2021-09-09T15:01:05.000Z",
+    "expiryDate": "2026-09-08T15:01:05.000Z",
+    "coordinates": [
+      -114.1096601,
+      51.005293
+    ],
+    "longitude": -114.1096601,
+    "latitude": 51.005293,
+    "community": "NORTH GLENMORE PARK",
+    "ward": "NGM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

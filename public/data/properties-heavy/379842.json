@@ -1,0 +1,37 @@
+{
+  "id": "379842",
+  "fullDetails": {
+    "licenseNumber": "379842",
+    "name": "FOUNTAIN TIRE",
+    "address": "911 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-10T00:00:00.000Z",
+    "coordinates": [
+      -114.1416313,
+      51.044303
+    ],
+    "longitude": -114.1416313,
+    "latitude": 51.044303,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

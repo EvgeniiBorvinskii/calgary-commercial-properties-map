@@ -1,0 +1,37 @@
+{
+  "id": "15837461",
+  "fullDetails": {
+    "licenseNumber": "15837461",
+    "name": "ROYAL MANGO SHIVAA",
+    "address": "#36 55 CASTLERIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-04T16:06:52.000Z",
+    "expiryDate": "2026-10-03T16:06:52.000Z",
+    "coordinates": [
+      -113.9623039,
+      51.0986269
+    ],
+    "longitude": -113.9623039,
+    "latitude": 51.0986269,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

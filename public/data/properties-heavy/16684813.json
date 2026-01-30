@@ -1,0 +1,36 @@
+{
+  "id": "16684813",
+  "fullDetails": {
+    "licenseNumber": "16684813",
+    "name": "LAFAYETTE SYSTEMS CANADA",
+    "address": "7944 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-10-10T11:36:05.000Z",
+    "expiryDate": "2026-10-09T11:36:05.000Z",
+    "coordinates": [
+      -114.0436337,
+      51.1226781
+    ],
+    "longitude": -114.0436337,
+    "latitude": 51.1226781,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16647471",
+  "fullDetails": {
+    "licenseNumber": "16647471",
+    "name": "DELMAR DRYCLEANERS",
+    "address": "#1645 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2025-07-31T15:15:43.000Z",
+    "expiryDate": "2026-07-30T15:15:42.000Z",
+    "coordinates": [
+      -114.09868,
+      51.0657147
+    ],
+    "longitude": -114.09868,
+    "latitude": 51.0657147,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

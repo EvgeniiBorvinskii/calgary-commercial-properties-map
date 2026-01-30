@@ -1,0 +1,36 @@
+{
+  "id": "12885596",
+  "fullDetails": {
+    "licenseNumber": "12885596",
+    "name": "DIGITEX CANADA",
+    "address": "#4155 7005 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2017-02-10T12:02:51.000Z",
+    "expiryDate": "2026-02-09T12:02:51.000Z",
+    "coordinates": [
+      -114.0656598,
+      50.9922938
+    ],
+    "longitude": -114.0656598,
+    "latitude": 50.9922938,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

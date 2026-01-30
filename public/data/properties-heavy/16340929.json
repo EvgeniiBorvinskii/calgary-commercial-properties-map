@@ -1,0 +1,36 @@
+{
+  "id": "16340929",
+  "fullDetails": {
+    "licenseNumber": "16340929",
+    "name": "REITMANS",
+    "address": "#C15 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-14T12:56:46.000Z",
+    "expiryDate": "2026-07-13T12:56:46.000Z",
+    "coordinates": [
+      -114.1561048,
+      51.0851553
+    ],
+    "longitude": -114.1561048,
+    "latitude": 51.0851553,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

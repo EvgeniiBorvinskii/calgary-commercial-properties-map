@@ -1,0 +1,36 @@
+{
+  "id": "12886594",
+  "fullDetails": {
+    "licenseNumber": "12886594",
+    "name": "CRABAPPLE CLOTHING COMPANY",
+    "address": "3526 GARRISON GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-04-28T12:55:30.000Z",
+    "expiryDate": "2026-04-27T12:55:30.000Z",
+    "coordinates": [
+      -114.1139822,
+      51.0228673
+    ],
+    "longitude": -114.1139822,
+    "latitude": 51.0228673,
+    "community": "GARRISON WOODS",
+    "ward": "GAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16621500",
+  "fullDetails": {
+    "licenseNumber": "16621500",
+    "name": "TADEO AUTO & TRUCK CENTER",
+    "address": "#2 700 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-05-12T08:57:11.000Z",
+    "expiryDate": "2026-05-11T08:57:10.000Z",
+    "coordinates": [
+      -113.9850571,
+      51.0577858
+    ],
+    "longitude": -113.9850571,
+    "latitude": 51.0577858,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15428113",
+  "fullDetails": {
+    "licenseNumber": "15428113",
+    "name": "ANNABELLE'S KITCHEN",
+    "address": "3574 GARRISON GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-08-23T13:00:25.000Z",
+    "expiryDate": "2026-08-22T13:00:25.000Z",
+    "coordinates": [
+      -114.1141363,
+      51.0223334
+    ],
+    "longitude": -114.1141363,
+    "latitude": 51.0223334,
+    "community": "GARRISON WOODS",
+    "ward": "GAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

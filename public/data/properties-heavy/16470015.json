@@ -1,0 +1,36 @@
+{
+  "id": "16470015",
+  "fullDetails": {
+    "licenseNumber": "16470015",
+    "name": "SRS PROPERTY MGMT",
+    "address": "#3000 421 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "pending",
+    "issuedDate": "2024-04-04T13:05:43.000Z",
+    "expiryDate": "2026-04-03T13:05:43.000Z",
+    "coordinates": [
+      -114.0709501,
+      51.0462411
+    ],
+    "longitude": -114.0709501,
+    "latitude": 51.0462411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

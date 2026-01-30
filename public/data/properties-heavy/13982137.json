@@ -1,0 +1,36 @@
+{
+  "id": "13982137",
+  "fullDetails": {
+    "licenseNumber": "13982137",
+    "name": "CASHCO",
+    "address": "#1 2111 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER",
+    "licenseTypes": "PAYDAY LENDER",
+    "status": "pending",
+    "issuedDate": "2017-02-02T09:57:08.000Z",
+    "expiryDate": "2026-02-01T09:57:08.000Z",
+    "coordinates": [
+      -114.0630991,
+      51.07121
+    ],
+    "longitude": -114.0630991,
+    "latitude": 51.07121,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16064107",
+  "fullDetails": {
+    "licenseNumber": "16064107",
+    "name": "DOMINO PIZZA",
+    "address": "#22 1015 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-08-27T15:34:18.000Z",
+    "expiryDate": "2026-08-26T15:34:18.000Z",
+    "coordinates": [
+      -114.0628764,
+      51.0613921
+    ],
+    "longitude": -114.0628764,
+    "latitude": 51.0613921,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

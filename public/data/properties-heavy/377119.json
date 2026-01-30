@@ -1,0 +1,36 @@
+{
+  "id": "377119",
+  "fullDetails": {
+    "licenseNumber": "377119",
+    "name": "SYSGEN SOLUTIONS GROUP",
+    "address": "#400 1331 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-11-14T12:20:57.000Z",
+    "expiryDate": "2026-11-13T12:20:56.000Z",
+    "coordinates": [
+      -114.0591686,
+      51.0397397
+    ],
+    "longitude": -114.0591686,
+    "latitude": 51.0397397,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

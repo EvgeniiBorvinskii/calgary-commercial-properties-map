@@ -1,0 +1,36 @@
+{
+  "id": "16280661",
+  "fullDetails": {
+    "licenseNumber": "16280661",
+    "name": "SHOES AND MORE",
+    "address": "#1259 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-03T19:52:18.000Z",
+    "expiryDate": "2026-11-02T19:52:17.000Z",
+    "coordinates": [
+      -113.9787293,
+      51.0558732
+    ],
+    "longitude": -113.9787293,
+    "latitude": 51.0558732,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

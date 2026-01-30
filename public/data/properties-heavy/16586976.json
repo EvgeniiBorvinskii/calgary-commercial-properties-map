@@ -1,0 +1,36 @@
+{
+  "id": "16586976",
+  "fullDetails": {
+    "licenseNumber": "16586976",
+    "name": "PODIUM APARTMENTS",
+    "address": "50 CANADA OLYMPIC CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-02-23T16:28:44.000Z",
+    "expiryDate": "2027-02-22T16:28:43.000Z",
+    "coordinates": [
+      -114.2108727,
+      51.0827618
+    ],
+    "longitude": -114.2108727,
+    "latitude": 51.0827618,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

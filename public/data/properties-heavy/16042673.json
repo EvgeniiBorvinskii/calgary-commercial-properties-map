@@ -1,0 +1,36 @@
+{
+  "id": "16042673",
+  "fullDetails": {
+    "licenseNumber": "16042673",
+    "name": "CUSHY COUCH",
+    "address": "321 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-06-24T08:57:40.000Z",
+    "expiryDate": "2026-06-23T08:57:40.000Z",
+    "coordinates": [
+      -114.0120224,
+      51.0500303
+    ],
+    "longitude": -114.0120224,
+    "latitude": 51.0500303,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

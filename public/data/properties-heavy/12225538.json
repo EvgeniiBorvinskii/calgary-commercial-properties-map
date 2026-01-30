@@ -1,0 +1,37 @@
+{
+  "id": "12225538",
+  "fullDetails": {
+    "licenseNumber": "12225538",
+    "name": "JECO",
+    "address": "9212G HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FURNITURE REFINISHING",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "FURNITURE REFINISHING,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2007-02-09T08:47:42.000Z",
+    "expiryDate": "2026-02-08T08:47:42.000Z",
+    "coordinates": [
+      -114.0738234,
+      50.9731963
+    ],
+    "longitude": -114.0738234,
+    "latitude": 50.9731963,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16322497",
+  "fullDetails": {
+    "licenseNumber": "16322497",
+    "name": "ARVECO",
+    "address": "#202 2003 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-04-26T11:17:24.000Z",
+    "expiryDate": "2026-04-25T11:17:24.000Z",
+    "coordinates": [
+      -114.0951234,
+      51.0699015
+    ],
+    "longitude": -114.0951234,
+    "latitude": 51.0699015,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

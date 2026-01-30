@@ -1,0 +1,36 @@
+{
+  "id": "16159543",
+  "fullDetails": {
+    "licenseNumber": "16159543",
+    "name": "CHA LUA VIEN DONG",
+    "address": "#116 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-06-03T10:03:26.000Z",
+    "expiryDate": "2026-06-02T10:03:26.000Z",
+    "coordinates": [
+      -113.9880312,
+      51.0602449
+    ],
+    "longitude": -113.9880312,
+    "latitude": 51.0602449,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

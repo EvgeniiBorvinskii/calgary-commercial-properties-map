@@ -1,0 +1,37 @@
+{
+  "id": "16362147",
+  "fullDetails": {
+    "licenseNumber": "16362147",
+    "name": "BUFFALO 9 BREWING",
+    "address": "2801 24A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-06-11T09:20:06.000Z",
+    "expiryDate": "2026-06-10T09:20:06.000Z",
+    "coordinates": [
+      -114.1197797,
+      51.0298928
+    ],
+    "longitude": -114.1197797,
+    "latitude": 51.0298928,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

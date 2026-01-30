@@ -1,0 +1,36 @@
+{
+  "id": "14872451",
+  "fullDetails": {
+    "licenseNumber": "14872451",
+    "name": "TIM HORTONS DONUTS",
+    "address": "4015 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-28T14:07:15.000Z",
+    "expiryDate": "2026-03-27T14:07:15.000Z",
+    "coordinates": [
+      -114.0628092,
+      51.0884676
+    ],
+    "longitude": -114.0628092,
+    "latitude": 51.0884676,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

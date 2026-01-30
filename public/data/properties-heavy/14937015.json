@@ -1,0 +1,36 @@
+{
+  "id": "14937015",
+  "fullDetails": {
+    "licenseNumber": "14937015",
+    "name": "FAMILY SQUEEZED 2 (CGY-1128) FSFV",
+    "address": "#132 2730 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2023-07-05T15:07:42.000Z",
+    "expiryDate": "2026-07-04T15:07:42.000Z",
+    "coordinates": [
+      -113.996163,
+      51.0550447
+    ],
+    "longitude": -113.996163,
+    "latitude": 51.0550447,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

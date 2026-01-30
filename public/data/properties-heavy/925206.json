@@ -1,0 +1,37 @@
+{
+  "id": "925206",
+  "fullDetails": {
+    "licenseNumber": "925206",
+    "name": "BEAUTY DEPOT ENTERPRISES & THE ESTHETIC INSTITUTE TRAINING CENTER",
+    "address": "#4110 7005 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-26T16:17:00.000Z",
+    "expiryDate": "2026-09-25T16:17:00.000Z",
+    "coordinates": [
+      -114.0656644,
+      50.9914502
+    ],
+    "longitude": -114.0656644,
+    "latitude": 50.9914502,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

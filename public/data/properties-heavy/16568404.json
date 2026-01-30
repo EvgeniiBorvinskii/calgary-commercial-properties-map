@@ -1,0 +1,37 @@
+{
+  "id": "16568404",
+  "fullDetails": {
+    "licenseNumber": "16568404",
+    "name": "KORITE AMMOLITE",
+    "address": "#167 3953 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-12-09T08:17:04.000Z",
+    "expiryDate": "2026-12-08T08:17:04.000Z",
+    "coordinates": [
+      -113.9801257,
+      50.9510022
+    ],
+    "longitude": -113.9801257,
+    "latitude": 50.9510022,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

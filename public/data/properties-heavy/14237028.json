@@ -1,0 +1,36 @@
+{
+  "id": "14237028",
+  "fullDetails": {
+    "licenseNumber": "14237028",
+    "name": "DOGS RULE PET GROOMING",
+    "address": "4708 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-07-08T10:25:09.000Z",
+    "expiryDate": "2026-07-07T10:25:09.000Z",
+    "coordinates": [
+      -114.1533639,
+      51.0308049
+    ],
+    "longitude": -114.1533639,
+    "latitude": 51.0308049,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

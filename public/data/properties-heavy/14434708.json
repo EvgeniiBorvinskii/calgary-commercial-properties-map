@@ -1,0 +1,36 @@
+{
+  "id": "14434708",
+  "fullDetails": {
+    "licenseNumber": "14434708",
+    "name": "ALTADORE 16TH STREET",
+    "address": "1680 40 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-04-20T15:03:19.000Z",
+    "expiryDate": "2026-04-19T15:03:19.000Z",
+    "coordinates": [
+      -114.100093,
+      51.0182782
+    ],
+    "longitude": -114.100093,
+    "latitude": 51.0182782,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

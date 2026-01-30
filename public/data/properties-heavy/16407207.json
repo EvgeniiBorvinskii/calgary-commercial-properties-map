@@ -1,0 +1,36 @@
+{
+  "id": "16407207",
+  "fullDetails": {
+    "licenseNumber": "16407207",
+    "name": "FLINT",
+    "address": "#3500 205 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-30T12:49:48.000Z",
+    "expiryDate": "2026-10-29T12:49:48.000Z",
+    "coordinates": [
+      -114.0659506,
+      51.0481836
+    ],
+    "longitude": -114.0659506,
+    "latitude": 51.0481836,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

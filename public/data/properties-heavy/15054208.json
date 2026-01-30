@@ -1,0 +1,36 @@
+{
+  "id": "15054208",
+  "fullDetails": {
+    "licenseNumber": "15054208",
+    "name": "MOUNT PLEASANT AUTO SERVICE",
+    "address": "2615 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-10-30T13:17:34.000Z",
+    "expiryDate": "2026-10-29T13:17:34.000Z",
+    "coordinates": [
+      -114.0719419,
+      51.0757805
+    ],
+    "longitude": -114.0719419,
+    "latitude": 51.0757805,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

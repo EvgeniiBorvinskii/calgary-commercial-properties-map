@@ -1,0 +1,36 @@
+{
+  "id": "960823",
+  "fullDetails": {
+    "licenseNumber": "960823",
+    "name": "PANAGO PIZZA",
+    "address": "837 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-06T00:00:00.000Z",
+    "coordinates": [
+      -114.0814279,
+      51.0377106
+    ],
+    "longitude": -114.0814279,
+    "latitude": 51.0377106,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

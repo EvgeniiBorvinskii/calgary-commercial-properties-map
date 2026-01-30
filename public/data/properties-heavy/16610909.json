@@ -1,0 +1,36 @@
+{
+  "id": "16610909",
+  "fullDetails": {
+    "licenseNumber": "16610909",
+    "name": "CHELSEA ESTATES",
+    "address": "1310 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-10-24T15:50:40.000Z",
+    "expiryDate": "2026-10-23T15:50:39.000Z",
+    "coordinates": [
+      -114.0924884,
+      51.0406498
+    ],
+    "longitude": -114.0924884,
+    "latitude": 51.0406498,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

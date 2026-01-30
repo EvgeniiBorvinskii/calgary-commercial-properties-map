@@ -1,0 +1,36 @@
+{
+  "id": "160101",
+  "fullDetails": {
+    "licenseNumber": "160101",
+    "name": "ROBS DRYWALL SERVICES",
+    "address": "#23 7819 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-09T11:34:31.000Z",
+    "expiryDate": "2026-05-08T11:34:31.000Z",
+    "coordinates": [
+      -114.2002984,
+      51.1536464
+    ],
+    "longitude": -114.2002984,
+    "latitude": 51.1536464,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

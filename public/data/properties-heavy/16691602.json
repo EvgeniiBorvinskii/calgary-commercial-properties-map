@@ -1,0 +1,36 @@
+{
+  "id": "16691602",
+  "fullDetails": {
+    "licenseNumber": "16691602",
+    "name": "ROLLINS MACHINERY",
+    "address": "3320 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-12-16T08:24:00.000Z",
+    "expiryDate": "2026-12-15T08:23:59.000Z",
+    "coordinates": [
+      -113.9858835,
+      51.0144276
+    ],
+    "longitude": -113.9858835,
+    "latitude": 51.0144276,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

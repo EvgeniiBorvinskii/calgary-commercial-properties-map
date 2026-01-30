@@ -1,0 +1,36 @@
+{
+  "id": "12226296",
+  "fullDetails": {
+    "licenseNumber": "12226296",
+    "name": "QUICKER ROOTER",
+    "address": "3107 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "",
+    "expiryDate": "2026-11-02T00:00:00.000Z",
+    "coordinates": [
+      -113.9908813,
+      51.022422
+    ],
+    "longitude": -113.9908813,
+    "latitude": 51.022422,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

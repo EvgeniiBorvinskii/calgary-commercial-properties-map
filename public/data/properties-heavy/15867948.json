@@ -1,0 +1,36 @@
+{
+  "id": "15867948",
+  "fullDetails": {
+    "licenseNumber": "15867948",
+    "name": "SENSO LIGHTING",
+    "address": "#4 302 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-06-10T10:02:53.000Z",
+    "expiryDate": "2026-06-09T10:02:53.000Z",
+    "coordinates": [
+      -114.059459,
+      51.0091794
+    ],
+    "longitude": -114.059459,
+    "latitude": 51.0091794,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

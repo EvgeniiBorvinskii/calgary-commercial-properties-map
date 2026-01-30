@@ -1,0 +1,36 @@
+{
+  "id": "13544226",
+  "fullDetails": {
+    "licenseNumber": "13544226",
+    "name": "VLADA PROFESSIONAL TAILORING",
+    "address": "#18 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-09-14T09:32:48.000Z",
+    "expiryDate": "2026-09-13T09:32:48.000Z",
+    "coordinates": [
+      -114.109584,
+      50.9406318
+    ],
+    "longitude": -114.109584,
+    "latitude": 50.9406318,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

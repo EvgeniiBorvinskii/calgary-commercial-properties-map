@@ -1,0 +1,36 @@
+{
+  "id": "16500803",
+  "fullDetails": {
+    "licenseNumber": "16500803",
+    "name": "QIU NAILS AND SPA",
+    "address": "#204 9950 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-06-10T16:06:16.000Z",
+    "expiryDate": "2026-06-09T16:06:16.000Z",
+    "coordinates": [
+      -114.0696467,
+      50.9614988
+    ],
+    "longitude": -114.0696467,
+    "latitude": 50.9614988,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15937451",
+  "fullDetails": {
+    "licenseNumber": "15937451",
+    "name": "PHARMASAVE SIGNATURE DRUGMART #3017",
+    "address": "#509 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-18T14:49:29.000Z",
+    "expiryDate": "2026-11-17T14:49:29.000Z",
+    "coordinates": [
+      -114.1677617,
+      51.0365452
+    ],
+    "longitude": -114.1677617,
+    "latitude": 51.0365452,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14045090",
+  "fullDetails": {
+    "licenseNumber": "14045090",
+    "name": "CLOVERDALE PAINT",
+    "address": "3956 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2016-02-23T09:46:21.000Z",
+    "expiryDate": "2026-02-22T09:46:21.000Z",
+    "coordinates": [
+      -113.9768805,
+      50.9969332
+    ],
+    "longitude": -113.9768805,
+    "latitude": 50.9969332,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

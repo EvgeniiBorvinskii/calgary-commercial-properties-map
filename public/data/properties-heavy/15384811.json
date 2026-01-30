@@ -1,0 +1,37 @@
+{
+  "id": "15384811",
+  "fullDetails": {
+    "licenseNumber": "15384811",
+    "name": "ARAJI AUTOS",
+    "address": "4935 HUBALTA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "SALVAGE YARD/AUTO WRECKER,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nSALVAGE YARD/AUTO WRECKER,\nAUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2019-10-31T05:33:06.000Z",
+    "expiryDate": "2026-10-30T05:33:06.000Z",
+    "coordinates": [
+      -113.9620901,
+      51.0311959
+    ],
+    "longitude": -113.9620901,
+    "latitude": 51.0311959,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

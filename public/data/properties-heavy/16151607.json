@@ -1,0 +1,36 @@
+{
+  "id": "16151607",
+  "fullDetails": {
+    "licenseNumber": "16151607",
+    "name": "ON SITE CONSTRUCTION WEST",
+    "address": "#300 4838 RICHARD RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-04-22T14:30:32.000Z",
+    "expiryDate": "2026-04-21T14:30:31.000Z",
+    "coordinates": [
+      -114.1260936,
+      51.0105027
+    ],
+    "longitude": -114.1260936,
+    "latitude": 51.0105027,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15866122",
+  "fullDetails": {
+    "licenseNumber": "15866122",
+    "name": "DHILLON LIGHTING",
+    "address": "3125 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-07-21T13:36:21.000Z",
+    "expiryDate": "2026-07-20T13:36:21.000Z",
+    "coordinates": [
+      -114.0193753,
+      51.080105
+    ],
+    "longitude": -114.0193753,
+    "latitude": 51.080105,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

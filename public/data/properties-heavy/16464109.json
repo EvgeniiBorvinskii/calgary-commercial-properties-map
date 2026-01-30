@@ -1,0 +1,36 @@
+{
+  "id": "16464109",
+  "fullDetails": {
+    "licenseNumber": "16464109",
+    "name": "612 APARTMENTS LP",
+    "address": "#109 612 67 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-11-12T14:23:02.000Z",
+    "expiryDate": "2026-11-11T14:23:02.000Z",
+    "coordinates": [
+      -114.0745051,
+      50.9936656
+    ],
+    "longitude": -114.0745051,
+    "latitude": 50.9936656,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

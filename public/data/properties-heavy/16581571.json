@@ -1,0 +1,36 @@
+{
+  "id": "16581571",
+  "fullDetails": {
+    "licenseNumber": "16581571",
+    "name": "LUGAW HAUZ",
+    "address": "#517 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-03-24T07:43:01.000Z",
+    "expiryDate": "2026-03-23T07:43:00.000Z",
+    "coordinates": [
+      -113.9852906,
+      51.0608539
+    ],
+    "longitude": -113.9852906,
+    "latitude": 51.0608539,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

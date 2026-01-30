@@ -1,0 +1,37 @@
+{
+  "id": "16562787",
+  "fullDetails": {
+    "licenseNumber": "16562787",
+    "name": "BONO COFFEE",
+    "address": "#B 102 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-12-16T11:03:39.000Z",
+    "expiryDate": "2026-12-15T11:03:39.000Z",
+    "coordinates": [
+      -114.0633799,
+      51.0458263
+    ],
+    "longitude": -114.0633799,
+    "latitude": 51.0458263,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

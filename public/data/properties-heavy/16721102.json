@@ -1,0 +1,36 @@
+{
+  "id": "16721102",
+  "fullDetails": {
+    "licenseNumber": "16721102",
+    "name": "PITA NUTSO SHAWARMA",
+    "address": "#121 555 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0735156,
+      51.0422998
+    ],
+    "longitude": -114.0735156,
+    "latitude": 51.0422998,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

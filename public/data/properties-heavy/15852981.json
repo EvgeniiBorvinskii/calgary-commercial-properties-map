@@ -1,0 +1,36 @@
+{
+  "id": "15852981",
+  "fullDetails": {
+    "licenseNumber": "15852981",
+    "name": "CREATURE COMFORTS ANIMAL CLINIC",
+    "address": "#5140 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-15T14:32:53.000Z",
+    "expiryDate": "2026-10-14T14:32:53.000Z",
+    "coordinates": [
+      -114.0106335,
+      50.8620145
+    ],
+    "longitude": -114.0106335,
+    "latitude": 50.8620145,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

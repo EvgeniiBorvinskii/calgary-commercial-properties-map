@@ -1,0 +1,37 @@
+{
+  "id": "16671141",
+  "fullDetails": {
+    "licenseNumber": "16671141",
+    "name": "CRUX LABORATORY",
+    "address": "3511 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-10-02T12:37:18.000Z",
+    "expiryDate": "2026-10-01T12:37:18.000Z",
+    "coordinates": [
+      -113.9855249,
+      50.9974926
+    ],
+    "longitude": -113.9855249,
+    "latitude": 50.9974926,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

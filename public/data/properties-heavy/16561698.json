@@ -1,0 +1,36 @@
+{
+  "id": "16561698",
+  "fullDetails": {
+    "licenseNumber": "16561698",
+    "name": "PIZZA COMPANY (THE)",
+    "address": "#2104 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-28T14:37:25.000Z",
+    "expiryDate": "2026-11-27T14:37:24.000Z",
+    "coordinates": [
+      -113.9644007,
+      51.1322623
+    ],
+    "longitude": -113.9644007,
+    "latitude": 51.1322623,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

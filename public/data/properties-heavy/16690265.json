@@ -1,0 +1,36 @@
+{
+  "id": "16690265",
+  "fullDetails": {
+    "licenseNumber": "16690265",
+    "name": "QUINTERRA HOMES",
+    "address": "#200 4139 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-18T15:52:46.000Z",
+    "expiryDate": "2026-11-17T15:52:45.000Z",
+    "coordinates": [
+      -114.0224754,
+      51.0171867
+    ],
+    "longitude": -114.0224754,
+    "latitude": 51.0171867,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

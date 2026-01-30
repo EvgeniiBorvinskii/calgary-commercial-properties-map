@@ -1,0 +1,36 @@
+{
+  "id": "595934",
+  "fullDetails": {
+    "licenseNumber": "595934",
+    "name": "ALLIED PROJECTS",
+    "address": "7017 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2003-03-14T05:35:14.000Z",
+    "expiryDate": "2026-03-13T05:35:14.000Z",
+    "coordinates": [
+      -114.0591877,
+      50.9915584
+    ],
+    "longitude": -114.0591877,
+    "latitude": 50.9915584,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

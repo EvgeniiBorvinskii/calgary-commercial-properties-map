@@ -1,0 +1,36 @@
+{
+  "id": "150680",
+  "fullDetails": {
+    "licenseNumber": "150680",
+    "name": "DEGREEVE AUTO UPHOLSTERY",
+    "address": "#C 6224 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2008-06-16T09:40:07.000Z",
+    "expiryDate": "2026-06-15T09:40:07.000Z",
+    "coordinates": [
+      -114.059349,
+      50.9954565
+    ],
+    "longitude": -114.059349,
+    "latitude": 50.9954565,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

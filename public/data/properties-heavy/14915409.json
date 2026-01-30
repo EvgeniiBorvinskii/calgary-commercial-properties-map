@@ -1,0 +1,36 @@
+{
+  "id": "14915409",
+  "fullDetails": {
+    "licenseNumber": "14915409",
+    "name": "MISTER SAFETY SHOES",
+    "address": "#1 5315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-06-21T12:34:56.000Z",
+    "expiryDate": "2026-06-20T12:34:56.000Z",
+    "coordinates": [
+      -113.9581069,
+      51.0373789
+    ],
+    "longitude": -113.9581069,
+    "latitude": 51.0373789,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

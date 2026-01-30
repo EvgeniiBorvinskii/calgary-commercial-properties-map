@@ -1,0 +1,36 @@
+{
+  "id": "16572919",
+  "fullDetails": {
+    "licenseNumber": "16572919",
+    "name": "AXIS DRYWALL",
+    "address": "#3020 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-17T14:39:24.000Z",
+    "expiryDate": "2026-10-16T14:39:24.000Z",
+    "coordinates": [
+      -113.9805875,
+      51.1522529
+    ],
+    "longitude": -113.9805875,
+    "latitude": 51.1522529,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

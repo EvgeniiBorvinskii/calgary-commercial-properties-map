@@ -1,0 +1,36 @@
+{
+  "id": "16077695",
+  "fullDetails": {
+    "licenseNumber": "16077695",
+    "name": "LIME LIQUOR WINE AND SPIRITS",
+    "address": "#119 20 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-09-03T14:36:31.000Z",
+    "expiryDate": "2026-09-02T14:36:31.000Z",
+    "coordinates": [
+      -114.0725882,
+      51.1426585
+    ],
+    "longitude": -114.0725882,
+    "latitude": 51.1426585,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

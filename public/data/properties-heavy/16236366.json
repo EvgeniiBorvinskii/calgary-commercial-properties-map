@@ -1,0 +1,36 @@
+{
+  "id": "16236366",
+  "fullDetails": {
+    "licenseNumber": "16236366",
+    "name": "MIDNAPORE PAINT AND DECOR",
+    "address": "15130 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-26T15:09:59.000Z",
+    "expiryDate": "2027-01-25T15:09:59.000Z",
+    "coordinates": [
+      -114.0673073,
+      50.9181328
+    ],
+    "longitude": -114.0673073,
+    "latitude": 50.9181328,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

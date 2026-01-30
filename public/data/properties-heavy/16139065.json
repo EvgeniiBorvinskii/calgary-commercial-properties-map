@@ -1,0 +1,36 @@
+{
+  "id": "16139065",
+  "fullDetails": {
+    "licenseNumber": "16139065",
+    "name": "SKC MACHINE",
+    "address": "5562 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-10-26T11:59:00.000Z",
+    "expiryDate": "2026-10-25T11:59:00.000Z",
+    "coordinates": [
+      -113.9514907,
+      51.002317
+    ],
+    "longitude": -113.9514907,
+    "latitude": 51.002317,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

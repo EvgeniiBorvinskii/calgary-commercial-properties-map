@@ -1,0 +1,36 @@
+{
+  "id": "16593394",
+  "fullDetails": {
+    "licenseNumber": "16593394",
+    "name": "RPH DISTRIBUTORS",
+    "address": "#A 7915 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-03T10:59:12.000Z",
+    "expiryDate": "2026-03-02T10:59:11.000Z",
+    "coordinates": [
+      -113.9675387,
+      50.980227
+    ],
+    "longitude": -113.9675387,
+    "latitude": 50.980227,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

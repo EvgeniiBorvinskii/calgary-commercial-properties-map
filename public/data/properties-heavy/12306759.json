@@ -1,0 +1,36 @@
+{
+  "id": "12306759",
+  "fullDetails": {
+    "licenseNumber": "12306759",
+    "name": "FOUR ALARM FIRE SERVICES",
+    "address": "#I 2121 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-06-29T08:24:31.000Z",
+    "expiryDate": "2026-06-28T08:24:31.000Z",
+    "coordinates": [
+      -114.009184,
+      51.0879024
+    ],
+    "longitude": -114.009184,
+    "latitude": 51.0879024,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

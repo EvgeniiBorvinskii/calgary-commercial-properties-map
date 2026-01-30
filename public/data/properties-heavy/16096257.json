@@ -1,0 +1,36 @@
+{
+  "id": "16096257",
+  "fullDetails": {
+    "licenseNumber": "16096257",
+    "name": "ALPHA AUTOMOTIVE",
+    "address": "#1040 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-11-04T16:17:42.000Z",
+    "expiryDate": "2026-11-03T16:17:42.000Z",
+    "coordinates": [
+      -113.9807764,
+      51.152731
+    ],
+    "longitude": -113.9807764,
+    "latitude": 51.152731,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

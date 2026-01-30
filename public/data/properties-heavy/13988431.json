@@ -1,0 +1,36 @@
+{
+  "id": "13988431",
+  "fullDetails": {
+    "licenseNumber": "13988431",
+    "name": "SHINE DRIVING SCHOOL",
+    "address": "10982 CITYSCAPE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "in_progress",
+    "issuedDate": "2017-09-01T13:11:46.000Z",
+    "expiryDate": "2025-08-31T13:11:46.000Z",
+    "coordinates": [
+      -113.9600379,
+      51.1525619
+    ],
+    "longitude": -113.9600379,
+    "latitude": 51.1525619,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

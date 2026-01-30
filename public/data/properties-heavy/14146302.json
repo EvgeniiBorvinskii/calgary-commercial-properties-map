@@ -1,0 +1,36 @@
+{
+  "id": "14146302",
+  "fullDetails": {
+    "licenseNumber": "14146302",
+    "name": "CONFINED ESCAPE ROOMS",
+    "address": "#L 2020 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "active",
+    "issuedDate": "2016-08-02T12:58:06.000Z",
+    "expiryDate": "2026-08-01T12:58:06.000Z",
+    "coordinates": [
+      -114.0104168,
+      51.0819933
+    ],
+    "longitude": -114.0104168,
+    "latitude": 51.0819933,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

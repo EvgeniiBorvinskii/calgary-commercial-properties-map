@@ -1,0 +1,36 @@
+{
+  "id": "12250536",
+  "fullDetails": {
+    "licenseNumber": "12250536",
+    "name": "B K LIQUOR STORE",
+    "address": "#A 4708 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2003-12-10T10:13:18.000Z",
+    "expiryDate": "2026-12-09T10:13:18.000Z",
+    "coordinates": [
+      -114.1632045,
+      51.0721856
+    ],
+    "longitude": -114.1632045,
+    "latitude": 51.0721856,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

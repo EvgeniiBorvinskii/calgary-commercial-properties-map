@@ -1,0 +1,36 @@
+{
+  "id": "16045536",
+  "fullDetails": {
+    "licenseNumber": "16045536",
+    "name": "WORKFORCE FITNESS PERFORMANCE CENTER",
+    "address": "#12 2015 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-03-29T12:05:55.000Z",
+    "expiryDate": "2026-03-28T12:05:55.000Z",
+    "coordinates": [
+      -114.0097322,
+      51.0809823
+    ],
+    "longitude": -114.0097322,
+    "latitude": 51.0809823,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

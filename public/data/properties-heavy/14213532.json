@@ -1,0 +1,37 @@
+{
+  "id": "14213532",
+  "fullDetails": {
+    "licenseNumber": "14213532",
+    "name": "FOUNTAIN TIRE",
+    "address": "44 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-07-05T14:30:05.000Z",
+    "expiryDate": "2026-07-04T14:30:05.000Z",
+    "coordinates": [
+      -113.9015103,
+      50.9663179
+    ],
+    "longitude": -113.9015103,
+    "latitude": 50.9663179,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

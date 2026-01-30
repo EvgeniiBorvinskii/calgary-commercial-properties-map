@@ -1,0 +1,36 @@
+{
+  "id": "12771853",
+  "fullDetails": {
+    "licenseNumber": "12771853",
+    "name": "OKSANA'S SPECIAL EVENTS FASHION",
+    "address": "#110 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-13T14:02:08.000Z",
+    "expiryDate": "2026-05-12T14:02:08.000Z",
+    "coordinates": [
+      -113.9861458,
+      51.0738884
+    ],
+    "longitude": -113.9861458,
+    "latitude": 51.0738884,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15370620",
+  "fullDetails": {
+    "licenseNumber": "15370620",
+    "name": "PETROPOLITAN (THE)",
+    "address": "#101 131 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-04-11T14:12:10.000Z",
+    "expiryDate": "2026-04-10T14:12:10.000Z",
+    "coordinates": [
+      -114.0624644,
+      51.0440938
+    ],
+    "longitude": -114.0624644,
+    "latitude": 51.0440938,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15280431",
+  "fullDetails": {
+    "licenseNumber": "15280431",
+    "name": "ER BRIDGE EXPRESS LOGISTICS",
+    "address": "1155 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-11-07T12:46:08.000Z",
+    "expiryDate": "2026-11-06T12:46:08.000Z",
+    "coordinates": [
+      -114.03499,
+      51.0883071
+    ],
+    "longitude": -114.03499,
+    "latitude": 51.0883071,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

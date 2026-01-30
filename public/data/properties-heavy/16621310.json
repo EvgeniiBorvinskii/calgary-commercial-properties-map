@@ -1,0 +1,36 @@
+{
+  "id": "16621310",
+  "fullDetails": {
+    "licenseNumber": "16621310",
+    "name": "GRAYINKX",
+    "address": "#207 2120 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-09-05T16:06:43.000Z",
+    "expiryDate": "2026-09-04T16:06:42.000Z",
+    "coordinates": [
+      -114.1091492,
+      51.0528856
+    ],
+    "longitude": -114.1091492,
+    "latitude": 51.0528856,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

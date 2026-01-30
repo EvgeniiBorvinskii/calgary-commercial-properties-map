@@ -1,0 +1,36 @@
+{
+  "id": "12399119",
+  "fullDetails": {
+    "licenseNumber": "12399119",
+    "name": "TWINS 2",
+    "address": "1323 MCKNIGHT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-08T05:30:24.000Z",
+    "expiryDate": "2026-09-07T05:30:24.000Z",
+    "coordinates": [
+      -114.0324312,
+      51.0955641
+    ],
+    "longitude": -114.0324312,
+    "latitude": 51.0955641,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

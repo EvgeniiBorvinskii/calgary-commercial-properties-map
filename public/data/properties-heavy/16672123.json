@@ -1,0 +1,36 @@
+{
+  "id": "16672123",
+  "fullDetails": {
+    "licenseNumber": "16672123",
+    "name": "LASA BY CARA",
+    "address": "1117 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-02T09:36:32.000Z",
+    "expiryDate": "2026-10-01T09:36:32.000Z",
+    "coordinates": [
+      -114.037465,
+      51.0421537
+    ],
+    "longitude": -114.037465,
+    "latitude": 51.0421537,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

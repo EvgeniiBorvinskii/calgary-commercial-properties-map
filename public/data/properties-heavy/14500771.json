@@ -1,0 +1,36 @@
+{
+  "id": "14500771",
+  "fullDetails": {
+    "licenseNumber": "14500771",
+    "name": "CARTER'S OSHKOSH #3616",
+    "address": "11834 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-04-26T10:24:26.000Z",
+    "expiryDate": "2026-04-25T10:24:26.000Z",
+    "coordinates": [
+      -114.1580858,
+      51.1582449
+    ],
+    "longitude": -114.1580858,
+    "latitude": 51.1582449,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

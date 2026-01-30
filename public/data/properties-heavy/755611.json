@@ -1,0 +1,36 @@
+{
+  "id": "755611",
+  "fullDetails": {
+    "licenseNumber": "755611",
+    "name": "NEWBY ENTERPRISES",
+    "address": "#102 4208 16A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2002-10-12T17:07:47.000Z",
+    "expiryDate": "2026-10-11T05:32:15.000Z",
+    "coordinates": [
+      -114.020264,
+      51.0167194
+    ],
+    "longitude": -114.020264,
+    "latitude": 51.0167194,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

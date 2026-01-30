@@ -1,0 +1,36 @@
+{
+  "id": "15953391",
+  "fullDetails": {
+    "licenseNumber": "15953391",
+    "name": "LITTLE CAESARS",
+    "address": "18 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-14T11:43:55.000Z",
+    "expiryDate": "2026-12-13T11:43:55.000Z",
+    "coordinates": [
+      -114.0714186,
+      51.1651709
+    ],
+    "longitude": -114.0714186,
+    "latitude": 51.1651709,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

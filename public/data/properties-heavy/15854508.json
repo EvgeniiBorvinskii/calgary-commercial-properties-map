@@ -1,0 +1,36 @@
+{
+  "id": "15854508",
+  "fullDetails": {
+    "licenseNumber": "15854508",
+    "name": "CHRONICLE COFFEE ROASTERS",
+    "address": "6733 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-09T15:15:17.000Z",
+    "expiryDate": "2026-10-08T15:15:17.000Z",
+    "coordinates": [
+      -113.9848602,
+      50.99292
+    ],
+    "longitude": -113.9848602,
+    "latitude": 50.99292,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

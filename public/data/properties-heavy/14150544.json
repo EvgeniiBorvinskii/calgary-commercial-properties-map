@@ -1,0 +1,36 @@
+{
+  "id": "14150544",
+  "fullDetails": {
+    "licenseNumber": "14150544",
+    "name": "ALL STAR HYDROVACING",
+    "address": "7028 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-01-25T10:45:50.000Z",
+    "expiryDate": "2026-01-24T10:45:50.000Z",
+    "coordinates": [
+      -113.9827337,
+      50.9910396
+    ],
+    "longitude": -113.9827337,
+    "latitude": 50.9910396,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

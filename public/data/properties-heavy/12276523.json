@@ -1,0 +1,36 @@
+{
+  "id": "12276523",
+  "fullDetails": {
+    "licenseNumber": "12276523",
+    "name": "LA BEER STOP",
+    "address": "#115 3608 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2004-04-05T15:29:14.000Z",
+    "expiryDate": "2026-04-04T15:29:14.000Z",
+    "coordinates": [
+      -113.9827844,
+      51.0383791
+    ],
+    "longitude": -113.9827844,
+    "latitude": 51.0383791,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

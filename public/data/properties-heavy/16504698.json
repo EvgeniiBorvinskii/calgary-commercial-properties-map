@@ -1,0 +1,36 @@
+{
+  "id": "16504698",
+  "fullDetails": {
+    "licenseNumber": "16504698",
+    "name": "PET PLANET ROYAL OAK",
+    "address": "#1121 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-19T15:34:37.000Z",
+    "expiryDate": "2026-06-18T15:34:37.000Z",
+    "coordinates": [
+      -114.2105178,
+      51.1517951
+    ],
+    "longitude": -114.2105178,
+    "latitude": 51.1517951,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

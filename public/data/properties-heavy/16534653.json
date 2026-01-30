@@ -1,0 +1,36 @@
+{
+  "id": "16534653",
+  "fullDetails": {
+    "licenseNumber": "16534653",
+    "name": "STEAMOJI",
+    "address": "#170 3 MAHOGANY RO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-25T11:07:21.000Z",
+    "expiryDate": "2026-09-24T11:07:21.000Z",
+    "coordinates": [
+      -113.9398907,
+      50.8977247
+    ],
+    "longitude": -113.9398907,
+    "latitude": 50.8977247,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

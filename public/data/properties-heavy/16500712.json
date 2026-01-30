@@ -1,0 +1,37 @@
+{
+  "id": "16500712",
+  "fullDetails": {
+    "licenseNumber": "16500712",
+    "name": "CALGARY GRANITE & MARBLE (2008)",
+    "address": "2716 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-01-06T15:08:56.000Z",
+    "expiryDate": "2027-01-05T15:08:56.000Z",
+    "coordinates": [
+      -114.0217034,
+      51.0297841
+    ],
+    "longitude": -114.0217034,
+    "latitude": 51.0297841,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15707284",
+  "fullDetails": {
+    "licenseNumber": "15707284",
+    "name": "GREENSPOT SHOP",
+    "address": "7523 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-11-21T14:23:25.000Z",
+    "expiryDate": "2026-11-20T14:23:25.000Z",
+    "coordinates": [
+      -114.0724101,
+      50.9861877
+    ],
+    "longitude": -114.0724101,
+    "latitude": 50.9861877,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

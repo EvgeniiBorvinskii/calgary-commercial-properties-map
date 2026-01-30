@@ -1,0 +1,36 @@
+{
+  "id": "13459060",
+  "fullDetails": {
+    "licenseNumber": "13459060",
+    "name": "WHAT WOMEN WANT",
+    "address": "#127 333 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-06-02T05:38:57.000Z",
+    "expiryDate": "2026-06-01T05:38:57.000Z",
+    "coordinates": [
+      -114.2075539,
+      51.0396048
+    ],
+    "longitude": -114.2075539,
+    "latitude": 51.0396048,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

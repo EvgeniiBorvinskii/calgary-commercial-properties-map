@@ -1,0 +1,36 @@
+{
+  "id": "16641383",
+  "fullDetails": {
+    "licenseNumber": "16641383",
+    "name": "FULLY PROMOTED",
+    "address": "#700 1816 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-06-09T08:17:08.000Z",
+    "expiryDate": "2026-06-08T08:17:08.000Z",
+    "coordinates": [
+      -114.1163141,
+      51.0688741
+    ],
+    "longitude": -114.1163141,
+    "latitude": 51.0688741,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

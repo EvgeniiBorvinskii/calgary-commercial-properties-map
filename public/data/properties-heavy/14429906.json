@@ -1,0 +1,36 @@
+{
+  "id": "14429906",
+  "fullDetails": {
+    "licenseNumber": "14429906",
+    "name": "SETON INTEGRATIVE HEALTH CLINIC",
+    "address": "#101 3815 FRONT ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-08T10:32:12.000Z",
+    "expiryDate": "2026-02-07T10:32:12.000Z",
+    "coordinates": [
+      -113.9547063,
+      50.8801416
+    ],
+    "longitude": -113.9547063,
+    "latitude": 50.8801416,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

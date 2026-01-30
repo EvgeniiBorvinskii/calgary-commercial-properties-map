@@ -1,0 +1,37 @@
+{
+  "id": "16380636",
+  "fullDetails": {
+    "licenseNumber": "16380636",
+    "name": "SHOP MADE",
+    "address": "#224 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-07T08:28:18.000Z",
+    "expiryDate": "2026-09-06T08:28:18.000Z",
+    "coordinates": [
+      -114.0687733,
+      51.0464502
+    ],
+    "longitude": -114.0687733,
+    "latitude": 51.0464502,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

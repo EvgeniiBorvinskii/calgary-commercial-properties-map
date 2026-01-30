@@ -1,0 +1,36 @@
+{
+  "id": "16089385",
+  "fullDetails": {
+    "licenseNumber": "16089385",
+    "name": "SAHIB TRUCK REPAIR",
+    "address": "#34 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-12-16T12:30:09.000Z",
+    "expiryDate": "2026-12-15T12:30:09.000Z",
+    "coordinates": [
+      -113.9009908,
+      50.9629335
+    ],
+    "longitude": -113.9009908,
+    "latitude": 50.9629335,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

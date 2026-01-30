@@ -1,0 +1,36 @@
+{
+  "id": "47423",
+  "fullDetails": {
+    "licenseNumber": "47423",
+    "name": "ZAZULA PROCESS EQUIPMENT",
+    "address": "4609 MANITOBA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-05-24T05:33:26.000Z",
+    "expiryDate": "2026-05-23T05:33:26.000Z",
+    "coordinates": [
+      -114.0569212,
+      51.0127216
+    ],
+    "longitude": -114.0569212,
+    "latitude": 51.0127216,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

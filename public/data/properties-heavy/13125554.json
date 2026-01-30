@@ -1,0 +1,36 @@
+{
+  "id": "13125554",
+  "fullDetails": {
+    "licenseNumber": "13125554",
+    "name": "GRAHAM INFRASTRUCTURE LP",
+    "address": "10909 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-04-01T05:51:10.000Z",
+    "expiryDate": "2026-03-31T05:51:10.000Z",
+    "coordinates": [
+      -113.9977651,
+      50.9540725
+    ],
+    "longitude": -113.9977651,
+    "latitude": 50.9540725,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

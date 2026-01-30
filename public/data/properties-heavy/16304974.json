@@ -1,0 +1,36 @@
+{
+  "id": "16304974",
+  "fullDetails": {
+    "licenseNumber": "16304974",
+    "name": "LAILA HAIR SALON",
+    "address": "1171 BOW VALLEY LN NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-05-08T11:46:52.000Z",
+    "expiryDate": "2026-05-07T11:46:52.000Z",
+    "coordinates": [
+      -114.0356978,
+      51.0486687
+    ],
+    "longitude": -114.0356978,
+    "latitude": 51.0486687,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

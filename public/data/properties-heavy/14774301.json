@@ -1,0 +1,37 @@
+{
+  "id": "14774301",
+  "fullDetails": {
+    "licenseNumber": "14774301",
+    "name": "PREMIER AUTOBODY",
+    "address": "4204 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-10-10T15:57:35.000Z",
+    "expiryDate": "2026-10-09T15:57:34.000Z",
+    "coordinates": [
+      -114.0373522,
+      51.0895535
+    ],
+    "longitude": -114.0373522,
+    "latitude": 51.0895535,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

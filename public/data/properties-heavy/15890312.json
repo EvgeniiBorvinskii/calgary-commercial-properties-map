@@ -1,0 +1,36 @@
+{
+  "id": "15890312",
+  "fullDetails": {
+    "licenseNumber": "15890312",
+    "name": "GLEN MEADOWS AUTO SERVICE",
+    "address": "2631 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-04-23T11:36:04.000Z",
+    "expiryDate": "2026-04-22T11:36:03.000Z",
+    "coordinates": [
+      -114.1418014,
+      51.0304949
+    ],
+    "longitude": -114.1418014,
+    "latitude": 51.0304949,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

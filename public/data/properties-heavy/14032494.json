@@ -1,0 +1,36 @@
+{
+  "id": "14032494",
+  "fullDetails": {
+    "licenseNumber": "14032494",
+    "name": "CHOI MARTIAL ARTS",
+    "address": "#930 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-07-11T15:27:58.000Z",
+    "expiryDate": "2026-07-10T15:27:58.000Z",
+    "coordinates": [
+      -114.0334183,
+      50.8647325
+    ],
+    "longitude": -114.0334183,
+    "latitude": 50.8647325,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

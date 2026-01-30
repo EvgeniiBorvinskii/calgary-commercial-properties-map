@@ -1,0 +1,37 @@
+{
+  "id": "47175",
+  "fullDetails": {
+    "licenseNumber": "47175",
+    "name": "LYNX BRAND FENCE PRODUCTS",
+    "address": "4330 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-12-05T14:16:09.000Z",
+    "expiryDate": "2026-12-04T14:16:09.000Z",
+    "coordinates": [
+      -113.9736633,
+      50.9856527
+    ],
+    "longitude": -113.9736633,
+    "latitude": 50.9856527,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

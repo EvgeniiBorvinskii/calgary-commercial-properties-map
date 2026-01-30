@@ -1,0 +1,37 @@
+{
+  "id": "15855869",
+  "fullDetails": {
+    "licenseNumber": "15855869",
+    "name": "E-RX PHARMACY AND CAFE E-RX",
+    "address": "1715 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-27T10:50:35.000Z",
+    "expiryDate": "2026-11-26T10:50:35.000Z",
+    "coordinates": [
+      -114.1003218,
+      51.0441388
+    ],
+    "longitude": -114.1003218,
+    "latitude": 51.0441388,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

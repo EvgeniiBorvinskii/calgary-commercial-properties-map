@@ -1,0 +1,36 @@
+{
+  "id": "16469538",
+  "fullDetails": {
+    "licenseNumber": "16469538",
+    "name": "CKD SALON",
+    "address": "1920 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-07-16T08:59:29.000Z",
+    "expiryDate": "2026-07-15T08:59:28.000Z",
+    "coordinates": [
+      -114.1407684,
+      51.037134
+    ],
+    "longitude": -114.1407684,
+    "latitude": 51.037134,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

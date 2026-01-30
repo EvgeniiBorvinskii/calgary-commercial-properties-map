@@ -1,0 +1,37 @@
+{
+  "id": "16471385",
+  "fullDetails": {
+    "licenseNumber": "16471385",
+    "name": "EVERGREEN",
+    "address": "2220 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-09T11:32:18.000Z",
+    "expiryDate": "2026-04-08T11:32:18.000Z",
+    "coordinates": [
+      -114.1083693,
+      50.9078408
+    ],
+    "longitude": -114.1083693,
+    "latitude": 50.9078408,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

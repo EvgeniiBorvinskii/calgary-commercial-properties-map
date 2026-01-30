@@ -1,0 +1,36 @@
+{
+  "id": "16200735",
+  "fullDetails": {
+    "licenseNumber": "16200735",
+    "name": "PAPA JOHN'S PIZZA",
+    "address": "#119 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-13T14:37:35.000Z",
+    "expiryDate": "2026-09-12T14:37:34.000Z",
+    "coordinates": [
+      -114.0689575,
+      50.9447386
+    ],
+    "longitude": -114.0689575,
+    "latitude": 50.9447386,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

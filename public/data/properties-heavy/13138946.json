@@ -1,0 +1,36 @@
+{
+  "id": "13138946",
+  "fullDetails": {
+    "licenseNumber": "13138946",
+    "name": "UPA CONSTRUCTION GROUP (AB)",
+    "address": "#1130 10655 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2012-03-15T11:22:47.000Z",
+    "expiryDate": "2026-03-14T11:22:47.000Z",
+    "coordinates": [
+      -114.0740138,
+      50.9590997
+    ],
+    "longitude": -114.0740138,
+    "latitude": 50.9590997,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

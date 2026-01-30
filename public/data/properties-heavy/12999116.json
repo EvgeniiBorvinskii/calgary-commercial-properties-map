@@ -1,0 +1,36 @@
+{
+  "id": "12999116",
+  "fullDetails": {
+    "licenseNumber": "12999116",
+    "name": "INCLUSIVE ENERGY",
+    "address": "#5050 150 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-02-11T17:13:48.000Z",
+    "expiryDate": "2026-02-10T17:13:48.000Z",
+    "coordinates": [
+      -114.064494,
+      51.0479915
+    ],
+    "longitude": -114.064494,
+    "latitude": 51.0479915,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

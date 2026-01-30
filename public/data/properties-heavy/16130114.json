@@ -1,0 +1,37 @@
+{
+  "id": "16130114",
+  "fullDetails": {
+    "licenseNumber": "16130114",
+    "name": "UPTREND FLOORS",
+    "address": "#11 711 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-10-09T10:29:13.000Z",
+    "expiryDate": "2026-10-08T10:29:12.000Z",
+    "coordinates": [
+      -114.0471103,
+      51.0100665
+    ],
+    "longitude": -114.0471103,
+    "latitude": 51.0100665,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

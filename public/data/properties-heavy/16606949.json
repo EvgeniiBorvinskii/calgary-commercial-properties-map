@@ -1,0 +1,36 @@
+{
+  "id": "16606949",
+  "fullDetails": {
+    "licenseNumber": "16606949",
+    "name": "CREATIVE EDGE FLOWERS",
+    "address": "#404 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-09T17:41:29.000Z",
+    "expiryDate": "2026-05-08T17:41:27.000Z",
+    "coordinates": [
+      -114.0566827,
+      51.1551574
+    ],
+    "longitude": -114.0566827,
+    "latitude": 51.1551574,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

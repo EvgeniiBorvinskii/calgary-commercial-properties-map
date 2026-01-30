@@ -1,0 +1,36 @@
+{
+  "id": "16447922",
+  "fullDetails": {
+    "licenseNumber": "16447922",
+    "name": "THE WINE SHOP",
+    "address": "#157C 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2024-03-14T07:55:37.000Z",
+    "expiryDate": "2026-03-13T07:55:37.000Z",
+    "coordinates": [
+      -114.0969237,
+      50.9731054
+    ],
+    "longitude": -114.0969237,
+    "latitude": 50.9731054,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

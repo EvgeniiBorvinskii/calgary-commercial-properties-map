@@ -1,0 +1,36 @@
+{
+  "id": "16319758",
+  "fullDetails": {
+    "licenseNumber": "16319758",
+    "name": "MYOGRAM",
+    "address": "#200 2705 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2023-04-26T13:02:52.000Z",
+    "expiryDate": "2026-04-25T13:02:52.000Z",
+    "coordinates": [
+      -114.0629112,
+      51.0764274
+    ],
+    "longitude": -114.0629112,
+    "latitude": 51.0764274,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

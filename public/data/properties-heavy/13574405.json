@@ -1,0 +1,36 @@
+{
+  "id": "13574405",
+  "fullDetails": {
+    "licenseNumber": "13574405",
+    "name": "MAERIC WASTE SERVICES",
+    "address": "71 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2013-06-12T14:06:57.000Z",
+    "expiryDate": "2026-06-11T14:06:57.000Z",
+    "coordinates": [
+      -113.9088615,
+      50.9630229
+    ],
+    "longitude": -113.9088615,
+    "latitude": 50.9630229,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

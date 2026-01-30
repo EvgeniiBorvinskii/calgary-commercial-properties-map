@@ -1,0 +1,36 @@
+{
+  "id": "13573118",
+  "fullDetails": {
+    "licenseNumber": "13573118",
+    "name": "LIQUOR BANK DALHOUSIE",
+    "address": "#24 34 EDGEDALE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2012-10-26T07:51:16.000Z",
+    "expiryDate": "2026-10-25T07:51:16.000Z",
+    "coordinates": [
+      -114.1570051,
+      51.118923
+    ],
+    "longitude": -114.1570051,
+    "latitude": 51.118923,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13557913",
+  "fullDetails": {
+    "licenseNumber": "13557913",
+    "name": "EECOL ELECTRIC",
+    "address": "#12 816 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-09-06T10:23:36.000Z",
+    "expiryDate": "2026-09-05T10:23:36.000Z",
+    "coordinates": [
+      -114.0448695,
+      51.0120573
+    ],
+    "longitude": -114.0448695,
+    "latitude": 51.0120573,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

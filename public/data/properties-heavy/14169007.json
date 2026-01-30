@@ -1,0 +1,36 @@
+{
+  "id": "14169007",
+  "fullDetails": {
+    "licenseNumber": "14169007",
+    "name": "MUSTANG SHOP (THE)",
+    "address": "5828 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-04-21T09:15:53.000Z",
+    "expiryDate": "2026-04-20T09:15:53.000Z",
+    "coordinates": [
+      -114.0443636,
+      51.0024191
+    ],
+    "longitude": -114.0443636,
+    "latitude": 51.0024191,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

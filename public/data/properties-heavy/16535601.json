@@ -1,0 +1,37 @@
+{
+  "id": "16535601",
+  "fullDetails": {
+    "licenseNumber": "16535601",
+    "name": "OUR HOUSE NEIGHBORHOOD JOINT",
+    "address": "#101 2411 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-10-22T11:04:36.000Z",
+    "expiryDate": "2026-10-21T11:04:35.000Z",
+    "coordinates": [
+      -114.0725801,
+      51.0735533
+    ],
+    "longitude": -114.0725801,
+    "latitude": 51.0735533,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

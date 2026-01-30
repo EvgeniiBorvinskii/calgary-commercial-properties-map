@@ -1,0 +1,36 @@
+{
+  "id": "12090049",
+  "fullDetails": {
+    "licenseNumber": "12090049",
+    "name": "SCI LOGISTICS",
+    "address": "#16 4100 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2007-11-14T15:40:58.000Z",
+    "expiryDate": "2026-11-13T15:40:58.000Z",
+    "coordinates": [
+      -113.9761342,
+      50.9600787
+    ],
+    "longitude": -113.9761342,
+    "latitude": 50.9600787,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

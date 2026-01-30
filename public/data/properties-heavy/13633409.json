@@ -1,0 +1,36 @@
+{
+  "id": "13633409",
+  "fullDetails": {
+    "licenseNumber": "13633409",
+    "name": "LUCKY TRANSPORT CANADA",
+    "address": "#122 588 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-07-29T05:33:25.000Z",
+    "expiryDate": "2026-07-28T05:33:25.000Z",
+    "coordinates": [
+      -114.0343678,
+      51.135862
+    ],
+    "longitude": -114.0343678,
+    "latitude": 51.135862,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

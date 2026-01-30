@@ -1,0 +1,36 @@
+{
+  "id": "13637152",
+  "fullDetails": {
+    "licenseNumber": "13637152",
+    "name": "LOLA LASH BAR",
+    "address": "#103 150 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2018-02-20T12:17:29.000Z",
+    "expiryDate": "2026-02-19T12:17:29.000Z",
+    "coordinates": [
+      -114.1964616,
+      51.1277239
+    ],
+    "longitude": -114.1964616,
+    "latitude": 51.1277239,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

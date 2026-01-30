@@ -1,0 +1,36 @@
+{
+  "id": "16590028",
+  "fullDetails": {
+    "licenseNumber": "16590028",
+    "name": "NORTH SEA FISH AND FARMS",
+    "address": "3320B 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-25T13:53:54.000Z",
+    "expiryDate": "2026-02-24T13:53:54.000Z",
+    "coordinates": [
+      -114.039807,
+      51.0245508
+    ],
+    "longitude": -114.039807,
+    "latitude": 51.0245508,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

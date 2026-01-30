@@ -1,0 +1,37 @@
+{
+  "id": "14176531",
+  "fullDetails": {
+    "licenseNumber": "14176531",
+    "name": "KT-LUCKY ACUPUNCTURE",
+    "address": "#109 2308 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-29T12:56:32.000Z",
+    "expiryDate": "2026-11-28T12:56:32.000Z",
+    "coordinates": [
+      -114.0622364,
+      51.0728691
+    ],
+    "longitude": -114.0622364,
+    "latitude": 51.0728691,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

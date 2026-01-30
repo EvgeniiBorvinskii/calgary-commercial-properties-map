@@ -1,0 +1,36 @@
+{
+  "id": "16082547",
+  "fullDetails": {
+    "licenseNumber": "16082547",
+    "name": "SOFA LAND",
+    "address": "350 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-29T15:43:02.000Z",
+    "expiryDate": "2026-11-28T15:43:02.000Z",
+    "coordinates": [
+      -114.2092063,
+      51.08185
+    ],
+    "longitude": -114.2092063,
+    "latitude": 51.08185,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "113696",
+  "fullDetails": {
+    "licenseNumber": "113696",
+    "name": "MOONLIGHT JANITORIAL SERVICES",
+    "address": "#416 1711 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "pending",
+    "issuedDate": "2013-04-10T05:42:34.000Z",
+    "expiryDate": "2026-04-09T05:42:34.000Z",
+    "coordinates": [
+      -114.0718548,
+      51.037196
+    ],
+    "longitude": -114.0718548,
+    "latitude": 51.037196,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

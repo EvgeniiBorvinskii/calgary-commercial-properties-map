@@ -1,0 +1,36 @@
+{
+  "id": "16249518",
+  "fullDetails": {
+    "licenseNumber": "16249518",
+    "name": "EIGHTY SIX ROASTING AND COFFEE SUPPLIES",
+    "address": "#R 5304 HUBALTA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-20T08:12:07.000Z",
+    "expiryDate": "2026-06-19T08:12:06.000Z",
+    "coordinates": [
+      -113.9565406,
+      51.0356108
+    ],
+    "longitude": -113.9565406,
+    "latitude": 51.0356108,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

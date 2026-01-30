@@ -1,0 +1,36 @@
+{
+  "id": "16595209",
+  "fullDetails": {
+    "licenseNumber": "16595209",
+    "name": "WESTWINDS DEVELOPMENT AND MANAGEMENT",
+    "address": "#205 32 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-07T09:13:31.000Z",
+    "expiryDate": "2026-03-06T09:13:30.000Z",
+    "coordinates": [
+      -113.9719689,
+      51.1068928
+    ],
+    "longitude": -113.9719689,
+    "latitude": 51.1068928,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

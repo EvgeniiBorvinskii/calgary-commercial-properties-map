@@ -1,0 +1,37 @@
+{
+  "id": "16513152",
+  "fullDetails": {
+    "licenseNumber": "16513152",
+    "name": "OBSIDIAN METALCRAFT",
+    "address": "#9 2824 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-03T15:13:28.000Z",
+    "expiryDate": "2026-09-02T15:13:28.000Z",
+    "coordinates": [
+      -113.9957048,
+      51.0024478
+    ],
+    "longitude": -113.9957048,
+    "latitude": 51.0024478,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

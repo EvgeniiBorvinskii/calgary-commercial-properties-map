@@ -1,0 +1,36 @@
+{
+  "id": "16642126",
+  "fullDetails": {
+    "licenseNumber": "16642126",
+    "name": "SILVERTON DEVELOPMENTS GP",
+    "address": "#210 1824 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-25T09:16:50.000Z",
+    "expiryDate": "2026-06-24T09:16:49.000Z",
+    "coordinates": [
+      -114.1171243,
+      51.0690273
+    ],
+    "longitude": -114.1171243,
+    "latitude": 51.0690273,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

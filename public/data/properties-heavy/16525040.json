@@ -1,0 +1,37 @@
+{
+  "id": "16525040",
+  "fullDetails": {
+    "licenseNumber": "16525040",
+    "name": "CHEONGDAM KOREAN KITCHEN AND BAR",
+    "address": "#1130 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-01T15:47:52.000Z",
+    "expiryDate": "2026-09-30T15:47:51.000Z",
+    "coordinates": [
+      -113.9402406,
+      50.8942382
+    ],
+    "longitude": -113.9402406,
+    "latitude": 50.8942382,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

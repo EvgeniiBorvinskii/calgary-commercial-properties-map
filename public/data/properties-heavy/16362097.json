@@ -1,0 +1,37 @@
+{
+  "id": "16362097",
+  "fullDetails": {
+    "licenseNumber": "16362097",
+    "name": "CHEVRON",
+    "address": "230 SANDARAC DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-10-05T16:16:11.000Z",
+    "expiryDate": "2026-10-04T16:16:11.000Z",
+    "coordinates": [
+      -114.0998967,
+      51.1386288
+    ],
+    "longitude": -114.0998967,
+    "latitude": 51.1386288,
+    "community": "SANDSTONE VALLEY",
+    "ward": "SAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

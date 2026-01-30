@@ -1,0 +1,37 @@
+{
+  "id": "13426952",
+  "fullDetails": {
+    "licenseNumber": "13426952",
+    "name": "STRATHCONA SOBEYS SPIRITS WINE COLD BEER",
+    "address": "#410 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2012-03-30T09:10:32.000Z",
+    "expiryDate": "2026-03-29T09:10:32.000Z",
+    "coordinates": [
+      -114.1854728,
+      51.048214
+    ],
+    "longitude": -114.1854728,
+    "latitude": 51.048214,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

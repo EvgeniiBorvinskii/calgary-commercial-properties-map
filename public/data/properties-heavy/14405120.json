@@ -1,0 +1,36 @@
+{
+  "id": "14405120",
+  "fullDetails": {
+    "licenseNumber": "14405120",
+    "name": "GOLF TOWN",
+    "address": "47 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-22T12:59:42.000Z",
+    "expiryDate": "2026-09-21T12:59:42.000Z",
+    "coordinates": [
+      -114.0683996,
+      50.9064518
+    ],
+    "longitude": -114.0683996,
+    "latitude": 50.9064518,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

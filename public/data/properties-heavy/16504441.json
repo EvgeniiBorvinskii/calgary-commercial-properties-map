@@ -1,0 +1,36 @@
+{
+  "id": "16504441",
+  "fullDetails": {
+    "licenseNumber": "16504441",
+    "name": "FLEET SAFETY INTERNATIONAL",
+    "address": "#119 4999 43 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2024-06-20T10:36:49.000Z",
+    "expiryDate": "2026-06-19T10:36:49.000Z",
+    "coordinates": [
+      -113.9703783,
+      51.0092121
+    ],
+    "longitude": -113.9703783,
+    "latitude": 51.0092121,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

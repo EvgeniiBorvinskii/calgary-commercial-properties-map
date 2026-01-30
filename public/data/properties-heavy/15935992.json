@@ -1,0 +1,36 @@
+{
+  "id": "15935992",
+  "fullDetails": {
+    "licenseNumber": "15935992",
+    "name": "CADENT MILLINGS CENTRE",
+    "address": "#2 4015 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-03-10T16:45:29.000Z",
+    "expiryDate": "2026-03-09T16:45:29.000Z",
+    "coordinates": [
+      -114.060084,
+      51.0174252
+    ],
+    "longitude": -114.060084,
+    "latitude": 51.0174252,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "806448",
+  "fullDetails": {
+    "licenseNumber": "806448",
+    "name": "TOTAL RECON AUTOMOTIVE RESURRECTIONS",
+    "address": "#9A 2115 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2015-04-14T15:11:40.000Z",
+    "expiryDate": "2026-04-13T15:11:40.000Z",
+    "coordinates": [
+      -114.0097755,
+      51.0792652
+    ],
+    "longitude": -114.0097755,
+    "latitude": 51.0792652,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

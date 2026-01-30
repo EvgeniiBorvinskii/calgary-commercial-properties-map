@@ -1,0 +1,36 @@
+{
+  "id": "16503633",
+  "fullDetails": {
+    "licenseNumber": "16503633",
+    "name": "SKNN AESTHETICS",
+    "address": "#201 1029 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-10-01T15:08:35.000Z",
+    "expiryDate": "2026-09-30T15:08:34.000Z",
+    "coordinates": [
+      -114.0860912,
+      51.0376479
+    ],
+    "longitude": -114.0860912,
+    "latitude": 51.0376479,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

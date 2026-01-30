@@ -1,0 +1,36 @@
+{
+  "id": "16421117",
+  "fullDetails": {
+    "licenseNumber": "16421117",
+    "name": "UNIQUE STYLES HAIR & ESTHETICS",
+    "address": "#6180 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-12-01T12:37:21.000Z",
+    "expiryDate": "2026-11-30T12:37:21.000Z",
+    "coordinates": [
+      -113.9494323,
+      51.1335756
+    ],
+    "longitude": -113.9494323,
+    "latitude": 51.1335756,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

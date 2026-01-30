@@ -1,0 +1,36 @@
+{
+  "id": "304519",
+  "fullDetails": {
+    "licenseNumber": "304519",
+    "name": "G K D INDUSTRIES",
+    "address": "7939 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2005-04-13T05:30:45.000Z",
+    "expiryDate": "2026-04-12T05:30:45.000Z",
+    "coordinates": [
+      -113.9569651,
+      50.9818573
+    ],
+    "longitude": -113.9569651,
+    "latitude": 50.9818573,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

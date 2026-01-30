@@ -1,0 +1,36 @@
+{
+  "id": "16546657",
+  "fullDetails": {
+    "licenseNumber": "16546657",
+    "name": "CALGARY CYCLE",
+    "address": "#100 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-01T15:59:47.000Z",
+    "expiryDate": "2026-04-30T15:59:46.000Z",
+    "coordinates": [
+      -114.0863762,
+      50.9618656
+    ],
+    "longitude": -114.0863762,
+    "latitude": 50.9618656,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

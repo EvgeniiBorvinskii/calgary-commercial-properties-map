@@ -1,0 +1,36 @@
+{
+  "id": "16385049",
+  "fullDetails": {
+    "licenseNumber": "16385049",
+    "name": "JR AND CO ROOFING CONTRACTORS",
+    "address": "5775A 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-26T14:59:04.000Z",
+    "expiryDate": "2026-09-25T14:59:04.000Z",
+    "coordinates": [
+      -114.0383501,
+      51.0035588
+    ],
+    "longitude": -114.0383501,
+    "latitude": 51.0035588,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

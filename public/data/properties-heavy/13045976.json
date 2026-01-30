@@ -1,0 +1,36 @@
+{
+  "id": "13045976",
+  "fullDetails": {
+    "licenseNumber": "13045976",
+    "name": "KING ATHLETIQUES",
+    "address": "3827 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-04-19T17:47:57.000Z",
+    "expiryDate": "2026-04-18T17:47:57.000Z",
+    "coordinates": [
+      -113.9926191,
+      51.0876764
+    ],
+    "longitude": -113.9926191,
+    "latitude": 51.0876764,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

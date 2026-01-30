@@ -1,0 +1,36 @@
+{
+  "id": "16621674",
+  "fullDetails": {
+    "licenseNumber": "16621674",
+    "name": "ENZO",
+    "address": "825 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-07-23T12:47:49.000Z",
+    "expiryDate": "2026-07-22T12:47:49.000Z",
+    "coordinates": [
+      -114.0808743,
+      51.0375509
+    ],
+    "longitude": -114.0808743,
+    "latitude": 51.0375509,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

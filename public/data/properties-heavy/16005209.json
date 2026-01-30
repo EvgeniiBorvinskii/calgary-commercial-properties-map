@@ -1,0 +1,37 @@
+{
+  "id": "16005209",
+  "fullDetails": {
+    "licenseNumber": "16005209",
+    "name": "MUSICWORKS CANADA 210",
+    "address": "#230 8560 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-19T15:52:52.000Z",
+    "expiryDate": "2026-03-18T15:52:52.000Z",
+    "coordinates": [
+      -114.210568,
+      51.0620718
+    ],
+    "longitude": -114.210568,
+    "latitude": 51.0620718,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

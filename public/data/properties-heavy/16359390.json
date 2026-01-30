@@ -1,0 +1,36 @@
+{
+  "id": "16359390",
+  "fullDetails": {
+    "licenseNumber": "16359390",
+    "name": "UNIQLO CF CHINOOK CENTRE",
+    "address": "#115 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-31T12:02:03.000Z",
+    "expiryDate": "2026-08-30T12:02:03.000Z",
+    "coordinates": [
+      -114.073448,
+      50.9974777
+    ],
+    "longitude": -114.073448,
+    "latitude": 50.9974777,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14566616",
+  "fullDetails": {
+    "licenseNumber": "14566616",
+    "name": "CALGARY VAPOR",
+    "address": "#74 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2017-10-20T13:41:00.000Z",
+    "expiryDate": "2026-10-19T13:41:00.000Z",
+    "coordinates": [
+      -113.9719164,
+      50.9292815
+    ],
+    "longitude": -113.9719164,
+    "latitude": 50.9292815,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14020846",
+  "fullDetails": {
+    "licenseNumber": "14020846",
+    "name": "TREE ISLAND INDUSTRIES",
+    "address": "2729 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2016-04-05T09:31:28.000Z",
+    "expiryDate": "2026-04-04T09:31:28.000Z",
+    "coordinates": [
+      -113.9960914,
+      51.0098281
+    ],
+    "longitude": -113.9960914,
+    "latitude": 51.0098281,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15449416",
+  "fullDetails": {
+    "licenseNumber": "15449416",
+    "name": "FJALLRAVEN",
+    "address": "#130 815 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-04-17T14:43:57.000Z",
+    "expiryDate": "2026-04-16T14:43:56.000Z",
+    "coordinates": [
+      -114.0802024,
+      51.0376901
+    ],
+    "longitude": -114.0802024,
+    "latitude": 51.0376901,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

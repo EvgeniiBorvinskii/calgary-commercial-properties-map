@@ -1,0 +1,37 @@
+{
+  "id": "16562837",
+  "fullDetails": {
+    "licenseNumber": "16562837",
+    "name": "AK NAILS MASSAGE",
+    "address": "5606 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-04-25T08:57:51.000Z",
+    "expiryDate": "2026-04-24T08:57:51.000Z",
+    "coordinates": [
+      -114.0705008,
+      51.1016449
+    ],
+    "longitude": -114.0705008,
+    "latitude": 51.1016449,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

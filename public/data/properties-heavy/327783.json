@@ -1,0 +1,36 @@
+{
+  "id": "327783",
+  "fullDetails": {
+    "licenseNumber": "327783",
+    "name": "ECONOLITH-PRESS",
+    "address": "3669 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-04-30T16:19:46.000Z",
+    "expiryDate": "2026-04-29T16:19:46.000Z",
+    "coordinates": [
+      -114.0123625,
+      51.0852198
+    ],
+    "longitude": -114.0123625,
+    "latitude": 51.0852198,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

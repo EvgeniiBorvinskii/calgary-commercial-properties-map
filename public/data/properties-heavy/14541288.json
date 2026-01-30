@@ -1,0 +1,36 @@
+{
+  "id": "14541288",
+  "fullDetails": {
+    "licenseNumber": "14541288",
+    "name": "30 MINUTE HIT",
+    "address": "#240 6100 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-06-13T08:55:05.000Z",
+    "expiryDate": "2026-06-12T08:55:04.000Z",
+    "coordinates": [
+      -114.0700207,
+      50.9982945
+    ],
+    "longitude": -114.0700207,
+    "latitude": 50.9982945,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

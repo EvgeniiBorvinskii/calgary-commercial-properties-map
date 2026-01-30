@@ -1,0 +1,36 @@
+{
+  "id": "13736277",
+  "fullDetails": {
+    "licenseNumber": "13736277",
+    "name": "SALLY BEAUTY SUPPLY #5608",
+    "address": "#335 7337 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-10-10T08:46:41.000Z",
+    "expiryDate": "2026-10-09T08:46:41.000Z",
+    "coordinates": [
+      -114.0741885,
+      50.9881469
+    ],
+    "longitude": -114.0741885,
+    "latitude": 50.9881469,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

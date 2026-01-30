@@ -1,0 +1,36 @@
+{
+  "id": "869925",
+  "fullDetails": {
+    "licenseNumber": "869925",
+    "name": "GLOBAL LIQUOR STORE",
+    "address": "#112 5401 TEMPLE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-24T00:00:00.000Z",
+    "coordinates": [
+      -113.9566081,
+      51.0849411
+    ],
+    "longitude": -113.9566081,
+    "latitude": 51.0849411,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

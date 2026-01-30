@@ -1,0 +1,36 @@
+{
+  "id": "12803904",
+  "fullDetails": {
+    "licenseNumber": "12803904",
+    "name": "ENVIRO TREAD",
+    "address": "11411 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-11-07T10:32:48.000Z",
+    "expiryDate": "2026-11-06T10:32:48.000Z",
+    "coordinates": [
+      -113.9560849,
+      50.9522295
+    ],
+    "longitude": -113.9560849,
+    "latitude": 50.9522295,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

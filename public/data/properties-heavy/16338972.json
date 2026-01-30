@@ -1,0 +1,36 @@
+{
+  "id": "16338972",
+  "fullDetails": {
+    "licenseNumber": "16338972",
+    "name": "CALGARY AUTO TECHNICIAN",
+    "address": "#2114 5150 47 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-09-07T05:34:45.000Z",
+    "expiryDate": "2026-09-06T05:34:45.000Z",
+    "coordinates": [
+      -113.9636792,
+      51.09931
+    ],
+    "longitude": -113.9636792,
+    "latitude": 51.09931,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

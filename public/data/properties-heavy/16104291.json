@@ -1,0 +1,36 @@
+{
+  "id": "16104291",
+  "fullDetails": {
+    "licenseNumber": "16104291",
+    "name": "CUSTOM KINGS",
+    "address": "#F17 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-09T11:09:26.000Z",
+    "expiryDate": "2026-06-08T11:09:26.000Z",
+    "coordinates": [
+      -114.1552765,
+      51.0859397
+    ],
+    "longitude": -114.1552765,
+    "latitude": 51.0859397,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

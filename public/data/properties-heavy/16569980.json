@@ -1,0 +1,37 @@
+{
+  "id": "16569980",
+  "fullDetails": {
+    "licenseNumber": "16569980",
+    "name": "LODGE AT VALLEY RIDGE (THE)",
+    "address": "11479 VALLEY RIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "PERSONAL SERVICE,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-10T15:36:06.000Z",
+    "expiryDate": "2026-12-09T15:36:06.000Z",
+    "coordinates": [
+      -114.2522817,
+      51.0900143
+    ],
+    "longitude": -114.2522817,
+    "latitude": 51.0900143,
+    "community": "VALLEY RIDGE",
+    "ward": "VAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16043010",
+  "fullDetails": {
+    "licenseNumber": "16043010",
+    "name": "PARLOUR ICE CREAM",
+    "address": "537 RIVERFRONT AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-24T17:05:26.000Z",
+    "expiryDate": "2026-09-23T17:05:26.000Z",
+    "coordinates": [
+      -114.0508901,
+      51.0474402
+    ],
+    "longitude": -114.0508901,
+    "latitude": 51.0474402,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

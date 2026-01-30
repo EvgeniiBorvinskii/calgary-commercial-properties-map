@@ -1,0 +1,36 @@
+{
+  "id": "16301962",
+  "fullDetails": {
+    "licenseNumber": "16301962",
+    "name": "30 MINUTE HIT CALGARY NW",
+    "address": "#124 302 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-04-26T08:35:36.000Z",
+    "expiryDate": "2026-04-25T08:35:36.000Z",
+    "coordinates": [
+      -114.1573809,
+      51.1822105
+    ],
+    "longitude": -114.1573809,
+    "latitude": 51.1822105,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

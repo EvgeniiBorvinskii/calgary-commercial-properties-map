@@ -1,0 +1,36 @@
+{
+  "id": "881953",
+  "fullDetails": {
+    "licenseNumber": "881953",
+    "name": "TIMES TWO GIFTS AND PROMOTIONS",
+    "address": "424 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-02-13T13:51:14.000Z",
+    "expiryDate": "2027-02-12T13:51:14.000Z",
+    "coordinates": [
+      -113.9925798,
+      51.0556036
+    ],
+    "longitude": -113.9925798,
+    "latitude": 51.0556036,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16453151",
+  "fullDetails": {
+    "licenseNumber": "16453151",
+    "name": "ZAM ZAM HALAL MEAT AND GROCERY",
+    "address": "#430 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-20T16:13:39.000Z",
+    "expiryDate": "2026-06-19T16:13:39.000Z",
+    "coordinates": [
+      -114.0734606,
+      50.9669259
+    ],
+    "longitude": -114.0734606,
+    "latitude": 50.9669259,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

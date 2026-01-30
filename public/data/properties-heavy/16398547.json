@@ -1,0 +1,36 @@
+{
+  "id": "16398547",
+  "fullDetails": {
+    "licenseNumber": "16398547",
+    "name": "ELBOW MISSION APARTMENTS I",
+    "address": "111 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-11-08T09:21:31.000Z",
+    "expiryDate": "2026-11-07T09:21:31.000Z",
+    "coordinates": [
+      -114.0649848,
+      51.0311159
+    ],
+    "longitude": -114.0649848,
+    "latitude": 51.0311159,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

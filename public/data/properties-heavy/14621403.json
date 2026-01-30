@@ -1,0 +1,36 @@
+{
+  "id": "14621403",
+  "fullDetails": {
+    "licenseNumber": "14621403",
+    "name": "ABOUT U SALON AND SPA",
+    "address": "3851 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-09-01T11:00:14.000Z",
+    "expiryDate": "2026-08-31T11:00:14.000Z",
+    "coordinates": [
+      -114.1097063,
+      51.0873922
+    ],
+    "longitude": -114.1097063,
+    "latitude": 51.0873922,
+    "community": "CHARLESWOOD",
+    "ward": "CHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

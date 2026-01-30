@@ -1,0 +1,36 @@
+{
+  "id": "16682452",
+  "fullDetails": {
+    "licenseNumber": "16682452",
+    "name": "DANCYWALKYNG",
+    "address": "623 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-11-17T16:08:11.000Z",
+    "expiryDate": "2026-11-16T16:08:11.000Z",
+    "coordinates": [
+      -114.0778419,
+      51.0010351
+    ],
+    "longitude": -114.0778419,
+    "latitude": 51.0010351,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

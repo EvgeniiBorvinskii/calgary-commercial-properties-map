@@ -1,0 +1,36 @@
+{
+  "id": "678292",
+  "fullDetails": {
+    "licenseNumber": "678292",
+    "name": "INFOLASER",
+    "address": "#14 3140 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-06-02T13:43:50.000Z",
+    "expiryDate": "2026-06-01T13:43:50.000Z",
+    "coordinates": [
+      -113.9890337,
+      51.0658245
+    ],
+    "longitude": -113.9890337,
+    "latitude": 51.0658245,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

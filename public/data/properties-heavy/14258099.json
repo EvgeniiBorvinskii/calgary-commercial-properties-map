@@ -1,0 +1,36 @@
+{
+  "id": "14258099",
+  "fullDetails": {
+    "licenseNumber": "14258099",
+    "name": "IQF QUALITY FOODS",
+    "address": "#203 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER (FOOD PRODUCTS) (DIRECT SALES)",
+    "licenseTypes": "DISTRIBUTION MANAGER (FOOD PRODUCTS) (DIRECT SALES)",
+    "status": "active",
+    "issuedDate": "2017-01-25T05:33:06.000Z",
+    "expiryDate": "2027-01-24T05:33:06.000Z",
+    "coordinates": [
+      -114.0067041,
+      51.0780975
+    ],
+    "longitude": -114.0067041,
+    "latitude": 51.0780975,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16367112",
+  "fullDetails": {
+    "licenseNumber": "16367112",
+    "name": "MAROONS CONSTRUCTION",
+    "address": "#1 2116 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-27T15:01:55.000Z",
+    "expiryDate": "2026-10-26T15:01:54.000Z",
+    "coordinates": [
+      -114.0104402,
+      51.0754401
+    ],
+    "longitude": -114.0104402,
+    "latitude": 51.0754401,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

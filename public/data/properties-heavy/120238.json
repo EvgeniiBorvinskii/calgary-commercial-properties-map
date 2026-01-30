@@ -1,0 +1,37 @@
+{
+  "id": "120238",
+  "fullDetails": {
+    "licenseNumber": "120238",
+    "name": "OLD COUNTRY BAKESHOP & DELI",
+    "address": "5310 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0517731,
+      51.0073851
+    ],
+    "longitude": -114.0517731,
+    "latitude": 51.0073851,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

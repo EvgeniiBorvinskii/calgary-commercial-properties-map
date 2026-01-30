@@ -1,0 +1,36 @@
+{
+  "id": "16420622",
+  "fullDetails": {
+    "licenseNumber": "16420622",
+    "name": "NORTH STAR AUTO GALLERY",
+    "address": "320 39 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-01-25T10:17:11.000Z",
+    "expiryDate": "2026-01-24T10:17:11.000Z",
+    "coordinates": [
+      -114.0614023,
+      51.0185237
+    ],
+    "longitude": -114.0614023,
+    "latitude": 51.0185237,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

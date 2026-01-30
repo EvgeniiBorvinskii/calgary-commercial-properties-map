@@ -1,0 +1,37 @@
+{
+  "id": "16154692",
+  "fullDetails": {
+    "licenseNumber": "16154692",
+    "name": "CENTRE FOR NEWCOMERS",
+    "address": "#125 565 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SCHOOL (DRIVER EDUCATION),",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSCHOOL (DRIVER EDUCATION),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-07-20T12:06:15.000Z",
+    "expiryDate": "2026-07-19T12:06:15.000Z",
+    "coordinates": [
+      -113.9835265,
+      51.0566568
+    ],
+    "longitude": -113.9835265,
+    "latitude": 51.0566568,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "725341",
+  "fullDetails": {
+    "licenseNumber": "725341",
+    "name": "MIR MACHINING",
+    "address": "4440 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-11-24T05:33:28.000Z",
+    "expiryDate": "2026-11-23T05:33:28.000Z",
+    "coordinates": [
+      -113.9710808,
+      50.9853313
+    ],
+    "longitude": -113.9710808,
+    "latitude": 50.9853313,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

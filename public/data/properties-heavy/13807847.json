@@ -1,0 +1,37 @@
+{
+  "id": "13807847",
+  "fullDetails": {
+    "licenseNumber": "13807847",
+    "name": "ASPIRA BRITANNIA",
+    "address": "750 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2014-02-20T12:57:36.000Z",
+    "expiryDate": "2026-02-19T12:57:36.000Z",
+    "coordinates": [
+      -114.0809106,
+      51.0097697
+    ],
+    "longitude": -114.0809106,
+    "latitude": 51.0097697,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

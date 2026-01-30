@@ -1,0 +1,37 @@
+{
+  "id": "13798798",
+  "fullDetails": {
+    "licenseNumber": "13798798",
+    "name": "STONE BOWL",
+    "address": "#175 615 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-04-22T13:38:45.000Z",
+    "expiryDate": "2026-04-21T13:38:45.000Z",
+    "coordinates": [
+      -114.0585959,
+      51.0465551
+    ],
+    "longitude": -114.0585959,
+    "latitude": 51.0465551,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

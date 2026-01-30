@@ -1,0 +1,36 @@
+{
+  "id": "12390233",
+  "fullDetails": {
+    "licenseNumber": "12390233",
+    "name": "PROGRESSIVE LEASING AND AUTO SALES",
+    "address": "4053 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-08-23T12:31:13.000Z",
+    "expiryDate": "2026-08-22T12:31:12.000Z",
+    "coordinates": [
+      -114.0259866,
+      51.0182729
+    ],
+    "longitude": -114.0259866,
+    "latitude": 51.0182729,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

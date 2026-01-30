@@ -1,0 +1,36 @@
+{
+  "id": "12936852",
+  "fullDetails": {
+    "licenseNumber": "12936852",
+    "name": "STUDIO 9 HAIR DESIGN",
+    "address": "#2 1015 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2010-09-16T12:43:52.000Z",
+    "expiryDate": "2026-09-15T12:43:52.000Z",
+    "coordinates": [
+      -114.0630041,
+      51.0612757
+    ],
+    "longitude": -114.0630041,
+    "latitude": 51.0612757,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

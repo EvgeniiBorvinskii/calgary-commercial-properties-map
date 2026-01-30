@@ -1,0 +1,36 @@
+{
+  "id": "16385528",
+  "fullDetails": {
+    "licenseNumber": "16385528",
+    "name": "TRIMARK TUBULARS",
+    "address": "#500 407 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-03-22T05:33:27.000Z",
+    "expiryDate": "2026-03-21T05:33:27.000Z",
+    "coordinates": [
+      -114.0681396,
+      51.049197
+    ],
+    "longitude": -114.0681396,
+    "latitude": 51.049197,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

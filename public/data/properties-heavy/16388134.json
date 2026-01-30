@@ -1,0 +1,37 @@
+{
+  "id": "16388134",
+  "fullDetails": {
+    "licenseNumber": "16388134",
+    "name": "FLIRTY BIRD NASHVILLE HOT CHICKEN",
+    "address": "#8120 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-10-19T10:42:48.000Z",
+    "expiryDate": "2026-10-18T10:42:48.000Z",
+    "coordinates": [
+      -114.2116042,
+      51.1516662
+    ],
+    "longitude": -114.2116042,
+    "latitude": 51.1516662,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

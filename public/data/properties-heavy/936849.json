@@ -1,0 +1,36 @@
+{
+  "id": "936849",
+  "fullDetails": {
+    "licenseNumber": "936849",
+    "name": "CHAPTERS #964",
+    "address": "#1L 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-07T05:31:53.000Z",
+    "coordinates": [
+      -114.0737475,
+      50.9959569
+    ],
+    "longitude": -114.0737475,
+    "latitude": 50.9959569,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

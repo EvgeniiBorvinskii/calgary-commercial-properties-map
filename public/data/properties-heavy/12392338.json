@@ -1,0 +1,36 @@
+{
+  "id": "12392338",
+  "fullDetails": {
+    "licenseNumber": "12392338",
+    "name": "MULTIWOOD",
+    "address": "11580 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-11-30T11:48:40.000Z",
+    "expiryDate": "2026-11-29T11:48:40.000Z",
+    "coordinates": [
+      -113.9777671,
+      50.9476881
+    ],
+    "longitude": -113.9777671,
+    "latitude": 50.9476881,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

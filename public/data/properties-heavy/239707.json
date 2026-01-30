@@ -1,0 +1,36 @@
+{
+  "id": "239707",
+  "fullDetails": {
+    "licenseNumber": "239707",
+    "name": "AUTOGRAPHICS STRIPES 'N GRAPHICS 'N STUFF",
+    "address": "5536 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-24T00:00:00.000Z",
+    "coordinates": [
+      -114.0668275,
+      51.0047397
+    ],
+    "longitude": -114.0668275,
+    "latitude": 51.0047397,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

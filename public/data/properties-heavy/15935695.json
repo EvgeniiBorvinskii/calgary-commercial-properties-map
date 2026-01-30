@@ -1,0 +1,36 @@
+{
+  "id": "15935695",
+  "fullDetails": {
+    "licenseNumber": "15935695",
+    "name": "MOUNT ROYAL UNIVERSITY MARKET PLACE #67014",
+    "address": "4825 MOUNT ROYAL GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-09-14T14:21:56.000Z",
+    "expiryDate": "2026-09-13T14:21:56.000Z",
+    "coordinates": [
+      -114.1327346,
+      51.0128117
+    ],
+    "longitude": -114.1327346,
+    "latitude": 51.0128117,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16542425",
+  "fullDetails": {
+    "licenseNumber": "16542425",
+    "name": "SHIFT HEATING & COOLING SERVICES",
+    "address": "#20 5100 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-02-12T14:20:21.000Z",
+    "expiryDate": "2027-02-11T14:20:20.000Z",
+    "coordinates": [
+      -113.9604795,
+      50.9971217
+    ],
+    "longitude": -113.9604795,
+    "latitude": 50.9971217,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

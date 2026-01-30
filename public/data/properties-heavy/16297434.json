@@ -1,0 +1,36 @@
+{
+  "id": "16297434",
+  "fullDetails": {
+    "licenseNumber": "16297434",
+    "name": "STRONGHOLD ELECTRIC",
+    "address": "3512 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-04-18T15:46:46.000Z",
+    "expiryDate": "2026-04-17T15:46:46.000Z",
+    "coordinates": [
+      -113.9867622,
+      50.9500026
+    ],
+    "longitude": -113.9867622,
+    "latitude": 50.9500026,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

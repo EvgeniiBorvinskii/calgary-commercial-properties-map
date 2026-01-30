@@ -1,0 +1,36 @@
+{
+  "id": "12730750",
+  "fullDetails": {
+    "licenseNumber": "12730750",
+    "name": "ASHLEY FURNITURE HOMESTORE",
+    "address": "88 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-10-24T09:48:43.000Z",
+    "expiryDate": "2026-10-23T09:48:43.000Z",
+    "coordinates": [
+      -114.0429878,
+      50.9892848
+    ],
+    "longitude": -114.0429878,
+    "latitude": 50.9892848,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

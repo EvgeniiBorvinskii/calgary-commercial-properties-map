@@ -1,0 +1,36 @@
+{
+  "id": "671818",
+  "fullDetails": {
+    "licenseNumber": "671818",
+    "name": "CANWEST CONCRETE CUTTING & CORING",
+    "address": "5025 13 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-06-05T05:35:17.000Z",
+    "expiryDate": "2026-06-04T05:35:17.000Z",
+    "coordinates": [
+      -114.0336251,
+      51.0084546
+    ],
+    "longitude": -114.0336251,
+    "latitude": 51.0084546,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12604799",
+  "fullDetails": {
+    "licenseNumber": "12604799",
+    "name": "INDIAN AROMA",
+    "address": "#13 7750 RANCHVIEW DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-12-04T13:06:28.000Z",
+    "expiryDate": "2026-12-03T13:06:28.000Z",
+    "coordinates": [
+      -114.1800763,
+      51.1208224
+    ],
+    "longitude": -114.1800763,
+    "latitude": 51.1208224,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

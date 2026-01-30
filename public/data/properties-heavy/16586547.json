@@ -1,0 +1,37 @@
+{
+  "id": "16586547",
+  "fullDetails": {
+    "licenseNumber": "16586547",
+    "name": "INTERNATIONAL LIQUOR STORE",
+    "address": "#31 8 WESTON DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2025-02-11T12:37:55.000Z",
+    "expiryDate": "2026-02-10T12:37:54.000Z",
+    "coordinates": [
+      -114.1944056,
+      51.0637865
+    ],
+    "longitude": -114.1944056,
+    "latitude": 51.0637865,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

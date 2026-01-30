@@ -1,0 +1,36 @@
+{
+  "id": "16346348",
+  "fullDetails": {
+    "licenseNumber": "16346348",
+    "name": "CREPE DELICIOUS",
+    "address": "#28F 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-17T15:11:44.000Z",
+    "expiryDate": "2026-07-16T15:11:44.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

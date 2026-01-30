@@ -1,0 +1,36 @@
+{
+  "id": "16093692",
+  "fullDetails": {
+    "licenseNumber": "16093692",
+    "name": "HULU TRADING O/A PICHI DESIGN",
+    "address": "4121 23B ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2024-11-27T09:30:43.000Z",
+    "expiryDate": "2026-11-26T09:30:43.000Z",
+    "coordinates": [
+      -114.0031964,
+      51.0897271
+    ],
+    "longitude": -114.0031964,
+    "latitude": 51.0897271,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

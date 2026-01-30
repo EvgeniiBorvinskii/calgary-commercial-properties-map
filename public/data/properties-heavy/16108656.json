@@ -1,0 +1,36 @@
+{
+  "id": "16108656",
+  "fullDetails": {
+    "licenseNumber": "16108656",
+    "name": "PEAK LIQUOR",
+    "address": "2227 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-01-14T11:34:40.000Z",
+    "expiryDate": "2027-01-13T11:34:40.000Z",
+    "coordinates": [
+      -114.0630771,
+      51.0720498
+    ],
+    "longitude": -114.0630771,
+    "latitude": 51.0720498,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

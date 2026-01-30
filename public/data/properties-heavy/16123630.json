@@ -1,0 +1,36 @@
+{
+  "id": "16123630",
+  "fullDetails": {
+    "licenseNumber": "16123630",
+    "name": "HER GYMVMT / GYMVMT",
+    "address": "#160 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-12-14T14:10:14.000Z",
+    "expiryDate": "2026-12-13T14:10:14.000Z",
+    "coordinates": [
+      -113.9560412,
+      51.0632135
+    ],
+    "longitude": -113.9560412,
+    "latitude": 51.0632135,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

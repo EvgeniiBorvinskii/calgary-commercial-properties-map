@@ -1,0 +1,37 @@
+{
+  "id": "14861868",
+  "fullDetails": {
+    "licenseNumber": "14861868",
+    "name": "SPRUCE IT UP GARDEN CENTRE",
+    "address": "159 210 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2018-03-27T05:30:30.000Z",
+    "expiryDate": "2026-03-26T05:30:30.000Z",
+    "coordinates": [
+      -114.0391317,
+      50.8648468
+    ],
+    "longitude": -114.0391317,
+    "latitude": 50.8648468,
+    "community": "BELMONT",
+    "ward": "BLM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

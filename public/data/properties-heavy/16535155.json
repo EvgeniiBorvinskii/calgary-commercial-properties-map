@@ -1,0 +1,37 @@
+{
+  "id": "16535155",
+  "fullDetails": {
+    "licenseNumber": "16535155",
+    "name": "MICHELLE ESTHETICS SKIN LASER BODY",
+    "address": "#120E 2640 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2024-11-15T10:52:35.000Z",
+    "expiryDate": "2026-11-14T10:52:35.000Z",
+    "coordinates": [
+      -113.9563343,
+      51.0757107
+    ],
+    "longitude": -113.9563343,
+    "latitude": 51.0757107,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12690418",
+  "fullDetails": {
+    "licenseNumber": "12690418",
+    "name": "MONDIAL GRANITE AND MARBLE",
+    "address": "#12 11133 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-07-11T10:04:44.000Z",
+    "expiryDate": "2026-07-10T10:04:44.000Z",
+    "coordinates": [
+      -113.9780009,
+      50.9549091
+    ],
+    "longitude": -113.9780009,
+    "latitude": 50.9549091,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

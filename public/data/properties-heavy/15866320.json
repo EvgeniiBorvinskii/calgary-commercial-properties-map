@@ -1,0 +1,36 @@
+{
+  "id": "15866320",
+  "fullDetails": {
+    "licenseNumber": "15866320",
+    "name": "YI FANG TAI WAN FRUIT TEA",
+    "address": "#2106 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2020-02-26T09:20:34.000Z",
+    "expiryDate": "2026-02-25T09:20:34.000Z",
+    "coordinates": [
+      -114.210296,
+      51.1519397
+    ],
+    "longitude": -114.210296,
+    "latitude": 51.1519397,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

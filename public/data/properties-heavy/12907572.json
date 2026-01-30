@@ -1,0 +1,37 @@
+{
+  "id": "12907572",
+  "fullDetails": {
+    "licenseNumber": "12907572",
+    "name": "OLD MOTORCYCLE SHOP",
+    "address": "4240 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2011-09-19T16:49:14.000Z",
+    "expiryDate": "2026-09-18T16:49:14.000Z",
+    "coordinates": [
+      -114.0217989,
+      51.0156719
+    ],
+    "longitude": -114.0217989,
+    "latitude": 51.0156719,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

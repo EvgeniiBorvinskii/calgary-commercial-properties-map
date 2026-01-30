@@ -1,0 +1,36 @@
+{
+  "id": "16183071",
+  "fullDetails": {
+    "licenseNumber": "16183071",
+    "name": "SPECSAVERS MARLBOROUGH",
+    "address": "#1156 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-26T14:00:50.000Z",
+    "expiryDate": "2026-10-25T14:00:50.000Z",
+    "coordinates": [
+      -113.9782416,
+      51.0547685
+    ],
+    "longitude": -113.9782416,
+    "latitude": 51.0547685,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

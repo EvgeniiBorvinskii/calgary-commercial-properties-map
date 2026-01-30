@@ -1,0 +1,36 @@
+{
+  "id": "16200669",
+  "fullDetails": {
+    "licenseNumber": "16200669",
+    "name": "GREEN & GOLD CLEANING",
+    "address": "#214 3916 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2022-08-31T11:09:59.000Z",
+    "expiryDate": "2026-08-30T11:09:59.000Z",
+    "coordinates": [
+      -113.9774941,
+      50.9970244
+    ],
+    "longitude": -113.9774941,
+    "latitude": 50.9970244,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

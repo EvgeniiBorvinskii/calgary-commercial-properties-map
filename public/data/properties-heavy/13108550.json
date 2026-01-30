@@ -1,0 +1,36 @@
+{
+  "id": "13108550",
+  "fullDetails": {
+    "licenseNumber": "13108550",
+    "name": "METRO SUPPLY CHAIN",
+    "address": "#6 5381 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2011-05-11T05:47:35.000Z",
+    "expiryDate": "2026-05-10T05:47:35.000Z",
+    "coordinates": [
+      -113.9545086,
+      50.9888222
+    ],
+    "longitude": -113.9545086,
+    "latitude": 50.9888222,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

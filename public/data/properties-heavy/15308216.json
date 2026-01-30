@@ -1,0 +1,36 @@
+{
+  "id": "15308216",
+  "fullDetails": {
+    "licenseNumber": "15308216",
+    "name": "ACE CAREER COLLEGE",
+    "address": "#215 100 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2019-07-04T11:45:08.000Z",
+    "expiryDate": "2026-07-03T11:45:08.000Z",
+    "coordinates": [
+      -114.0631415,
+      51.0496381
+    ],
+    "longitude": -114.0631415,
+    "latitude": 51.0496381,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

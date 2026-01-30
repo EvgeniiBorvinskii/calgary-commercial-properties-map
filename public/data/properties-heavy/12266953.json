@@ -1,0 +1,36 @@
+{
+  "id": "12266953",
+  "fullDetails": {
+    "licenseNumber": "12266953",
+    "name": "YI LING CHENG HAIR STYLING",
+    "address": "112 10A ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2019-04-18T14:08:52.000Z",
+    "expiryDate": "2026-04-17T14:08:52.000Z",
+    "coordinates": [
+      -114.0861834,
+      51.0521025
+    ],
+    "longitude": -114.0861834,
+    "latitude": 51.0521025,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

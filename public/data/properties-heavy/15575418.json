@@ -1,0 +1,36 @@
+{
+  "id": "15575418",
+  "fullDetails": {
+    "licenseNumber": "15575418",
+    "name": "DIRTT ENVIRONMENTAL SOLUTIONS #1",
+    "address": "#A 7303 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-06-19T15:52:28.000Z",
+    "expiryDate": "2026-06-18T15:52:28.000Z",
+    "coordinates": [
+      -113.9853204,
+      50.9891967
+    ],
+    "longitude": -113.9853204,
+    "latitude": 50.9891967,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

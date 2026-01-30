@@ -1,0 +1,37 @@
+{
+  "id": "16523391",
+  "fullDetails": {
+    "licenseNumber": "16523391",
+    "name": "DAIRY QUEEN",
+    "address": "#900 8180 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-08-07T15:54:57.000Z",
+    "expiryDate": "2026-08-06T15:54:57.000Z",
+    "coordinates": [
+      -114.041081,
+      50.9789406
+    ],
+    "longitude": -114.041081,
+    "latitude": 50.9789406,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

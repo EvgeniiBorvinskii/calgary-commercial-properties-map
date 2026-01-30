@@ -1,0 +1,37 @@
+{
+  "id": "15716947",
+  "fullDetails": {
+    "licenseNumber": "15716947",
+    "name": "DELCAN MANUFACTURING",
+    "address": "#110 7010 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "DISTRIBUTION MANAGER",
+    "licenseTypes": "MANUFACTURER,\nDISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2025-10-29T13:40:18.000Z",
+    "expiryDate": "2026-10-28T13:40:17.000Z",
+    "coordinates": [
+      -113.9346039,
+      50.9631079
+    ],
+    "longitude": -113.9346039,
+    "latitude": 50.9631079,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

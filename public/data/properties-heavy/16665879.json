@@ -1,0 +1,37 @@
+{
+  "id": "16665879",
+  "fullDetails": {
+    "licenseNumber": "16665879",
+    "name": "TASTE ALLEY",
+    "address": "123 3 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-26T11:52:18.000Z",
+    "expiryDate": "2026-11-25T11:52:17.000Z",
+    "coordinates": [
+      -114.0613573,
+      51.049965
+    ],
+    "longitude": -114.0613573,
+    "latitude": 51.049965,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "200063",
+  "fullDetails": {
+    "licenseNumber": "200063",
+    "name": "FINESSE PAINTING & DECORATING/FINESS ARCHITECTURAL COATINGS",
+    "address": "#15 2219 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-03T00:00:00.000Z",
+    "coordinates": [
+      -114.007684,
+      51.0831651
+    ],
+    "longitude": -114.007684,
+    "latitude": 51.0831651,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

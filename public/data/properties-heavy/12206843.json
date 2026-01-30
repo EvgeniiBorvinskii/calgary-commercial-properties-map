@@ -1,0 +1,36 @@
+{
+  "id": "12206843",
+  "fullDetails": {
+    "licenseNumber": "12206843",
+    "name": "4 LIVING",
+    "address": "1445 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-11-28T05:41:17.000Z",
+    "expiryDate": "2026-11-27T05:41:16.000Z",
+    "coordinates": [
+      -114.0957094,
+      51.0375976
+    ],
+    "longitude": -114.0957094,
+    "latitude": 51.0375976,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

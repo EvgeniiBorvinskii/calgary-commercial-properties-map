@@ -1,0 +1,37 @@
+{
+  "id": "14969935",
+  "fullDetails": {
+    "licenseNumber": "14969935",
+    "name": "ESTABLISHMENT BREWING COMPANY (THE)",
+    "address": "4407 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE MANUFACTURER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-12-04T10:46:18.000Z",
+    "expiryDate": "2026-12-03T10:46:18.000Z",
+    "coordinates": [
+      -114.0624994,
+      51.0141738
+    ],
+    "longitude": -114.0624994,
+    "latitude": 51.0141738,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

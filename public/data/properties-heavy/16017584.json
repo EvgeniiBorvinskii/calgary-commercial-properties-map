@@ -1,0 +1,37 @@
+{
+  "id": "16017584",
+  "fullDetails": {
+    "licenseNumber": "16017584",
+    "name": "LEOPOLD'S TAVERN",
+    "address": "#104 302 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-05-19T12:07:04.000Z",
+    "expiryDate": "2026-05-18T12:07:04.000Z",
+    "coordinates": [
+      -114.1573784,
+      51.1820164
+    ],
+    "longitude": -114.1573784,
+    "latitude": 51.1820164,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

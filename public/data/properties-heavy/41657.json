@@ -1,0 +1,36 @@
+{
+  "id": "41657",
+  "fullDetails": {
+    "licenseNumber": "41657",
+    "name": "ELITE MACHINING",
+    "address": "4250 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-11-18T16:52:36.000Z",
+    "expiryDate": "2026-11-17T16:52:36.000Z",
+    "coordinates": [
+      -113.975018,
+      50.9803144
+    ],
+    "longitude": -113.975018,
+    "latitude": 50.9803144,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

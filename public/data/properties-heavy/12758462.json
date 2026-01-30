@@ -1,0 +1,36 @@
+{
+  "id": "12758462",
+  "fullDetails": {
+    "licenseNumber": "12758462",
+    "name": "APPLE STORE MARKET MALL",
+    "address": "#R28 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-03-20T07:34:48.000Z",
+    "expiryDate": "2026-03-19T07:34:48.000Z",
+    "coordinates": [
+      -114.1544647,
+      51.0831035
+    ],
+    "longitude": -114.1544647,
+    "latitude": 51.0831035,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

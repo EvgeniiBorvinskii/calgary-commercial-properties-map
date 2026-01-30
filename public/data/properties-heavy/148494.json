@@ -1,0 +1,36 @@
+{
+  "id": "148494",
+  "fullDetails": {
+    "licenseNumber": "148494",
+    "name": "LEUNG W E DR HO C W DR",
+    "address": "#106 233 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0629501,
+      51.0505735
+    ],
+    "longitude": -114.0629501,
+    "latitude": 51.0505735,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

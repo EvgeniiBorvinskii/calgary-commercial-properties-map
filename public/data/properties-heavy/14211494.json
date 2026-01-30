@@ -1,0 +1,36 @@
+{
+  "id": "14211494",
+  "fullDetails": {
+    "licenseNumber": "14211494",
+    "name": "ASM COMMERCIAL FLOORS",
+    "address": "#2 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-05-13T10:11:23.000Z",
+    "expiryDate": "2026-05-12T10:11:22.000Z",
+    "coordinates": [
+      -113.9850694,
+      50.9908046
+    ],
+    "longitude": -113.9850694,
+    "latitude": 50.9908046,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

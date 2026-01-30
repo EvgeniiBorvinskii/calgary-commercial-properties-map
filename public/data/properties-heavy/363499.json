@@ -1,0 +1,37 @@
+{
+  "id": "363499",
+  "fullDetails": {
+    "licenseNumber": "363499",
+    "name": "NORTH EAST SPORTSPLEX",
+    "address": "5200 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-22T00:00:00.000Z",
+    "coordinates": [
+      -113.933559,
+      51.102235
+    ],
+    "longitude": -113.933559,
+    "latitude": 51.102235,
+    "community": "CORAL SPRINGS",
+    "ward": "COR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

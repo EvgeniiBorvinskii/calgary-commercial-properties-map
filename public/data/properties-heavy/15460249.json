@@ -1,0 +1,36 @@
+{
+  "id": "15460249",
+  "fullDetails": {
+    "licenseNumber": "15460249",
+    "name": "CALIBRE TATTOO",
+    "address": "454 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2022-10-11T11:34:00.000Z",
+    "expiryDate": "2026-10-10T11:34:00.000Z",
+    "coordinates": [
+      -114.0944145,
+      51.0566496
+    ],
+    "longitude": -114.0944145,
+    "latitude": 51.0566496,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

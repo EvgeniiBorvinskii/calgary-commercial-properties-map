@@ -1,0 +1,36 @@
+{
+  "id": "16668469",
+  "fullDetails": {
+    "licenseNumber": "16668469",
+    "name": "METRIC FITNESS CALGARY",
+    "address": "#101B 5421 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-09-05T09:52:49.000Z",
+    "expiryDate": "2026-09-04T09:52:49.000Z",
+    "coordinates": [
+      -114.0372136,
+      51.1003861
+    ],
+    "longitude": -114.0372136,
+    "latitude": 51.1003861,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

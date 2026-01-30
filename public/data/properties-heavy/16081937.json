@@ -1,0 +1,37 @@
+{
+  "id": "16081937",
+  "fullDetails": {
+    "licenseNumber": "16081937",
+    "name": "SHEGER SQUARE MARKET",
+    "address": "3456 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nWHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-22T11:31:36.000Z",
+    "expiryDate": "2026-10-21T11:31:36.000Z",
+    "coordinates": [
+      -113.985096,
+      51.0382926
+    ],
+    "longitude": -113.985096,
+    "latitude": 51.0382926,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

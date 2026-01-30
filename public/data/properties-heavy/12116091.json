@@ -1,0 +1,36 @@
+{
+  "id": "12116091",
+  "fullDetails": {
+    "licenseNumber": "12116091",
+    "name": "BBSPRO SERVICES",
+    "address": "532 38A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-07-18T05:33:27.000Z",
+    "expiryDate": "2026-07-17T05:33:27.000Z",
+    "coordinates": [
+      -114.0545729,
+      51.0199682
+    ],
+    "longitude": -114.0545729,
+    "latitude": 51.0199682,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

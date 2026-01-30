@@ -1,0 +1,36 @@
+{
+  "id": "12189437",
+  "fullDetails": {
+    "licenseNumber": "12189437",
+    "name": "BOWEST APPLIANCES",
+    "address": "7948 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-17T12:07:05.000Z",
+    "expiryDate": "2026-08-16T12:07:05.000Z",
+    "coordinates": [
+      -114.2019025,
+      51.0892026
+    ],
+    "longitude": -114.2019025,
+    "latitude": 51.0892026,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

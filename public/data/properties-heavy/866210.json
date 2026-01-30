@@ -1,0 +1,37 @@
+{
+  "id": "866210",
+  "fullDetails": {
+    "licenseNumber": "866210",
+    "name": "CHILEAN CANADIAN COMMUNITY ASSN OF CALGARY",
+    "address": "#519 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-07-27T14:59:14.000Z",
+    "expiryDate": "2026-07-26T14:59:14.000Z",
+    "coordinates": [
+      -113.9657242,
+      51.1011764
+    ],
+    "longitude": -113.9657242,
+    "latitude": 51.1011764,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

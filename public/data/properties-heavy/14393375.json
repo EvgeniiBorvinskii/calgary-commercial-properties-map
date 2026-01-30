@@ -1,0 +1,37 @@
+{
+  "id": "14393375",
+  "fullDetails": {
+    "licenseNumber": "14393375",
+    "name": "OLYMPIA LIQUOR JACKSONPORT",
+    "address": "#138 3840 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2018-04-17T09:06:03.000Z",
+    "expiryDate": "2026-04-16T09:06:03.000Z",
+    "coordinates": [
+      -113.9784069,
+      51.1476937
+    ],
+    "longitude": -113.9784069,
+    "latitude": 51.1476937,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

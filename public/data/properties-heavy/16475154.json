@@ -1,0 +1,36 @@
+{
+  "id": "16475154",
+  "fullDetails": {
+    "licenseNumber": "16475154",
+    "name": "SUPPLIES KING CALGARY",
+    "address": "#201 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-04-16T11:17:58.000Z",
+    "expiryDate": "2026-04-15T11:17:58.000Z",
+    "coordinates": [
+      -114.0068854,
+      51.0780959
+    ],
+    "longitude": -114.0068854,
+    "latitude": 51.0780959,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

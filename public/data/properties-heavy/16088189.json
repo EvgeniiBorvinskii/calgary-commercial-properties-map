@@ -1,0 +1,36 @@
+{
+  "id": "16088189",
+  "fullDetails": {
+    "licenseNumber": "16088189",
+    "name": "CANADIAN FIBER OPTICS",
+    "address": "#240 2723 37 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-13T10:55:22.000Z",
+    "expiryDate": "2026-05-12T10:55:22.000Z",
+    "coordinates": [
+      -113.9970004,
+      51.086133
+    ],
+    "longitude": -113.9970004,
+    "latitude": 51.086133,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

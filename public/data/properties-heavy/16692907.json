@@ -1,0 +1,37 @@
+{
+  "id": "16692907",
+  "fullDetails": {
+    "licenseNumber": "16692907",
+    "name": "COLOR CAFE",
+    "address": "#102 1414 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2026-01-09T10:56:11.000Z",
+    "expiryDate": "2027-01-08T10:56:11.000Z",
+    "coordinates": [
+      -114.0927075,
+      51.0528753
+    ],
+    "longitude": -114.0927075,
+    "latitude": 51.0528753,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

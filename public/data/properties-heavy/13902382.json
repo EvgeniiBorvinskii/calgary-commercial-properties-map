@@ -1,0 +1,36 @@
+{
+  "id": "13902382",
+  "fullDetails": {
+    "licenseNumber": "13902382",
+    "name": "PAN-GLO CANADA PAN COATINGS",
+    "address": "#3 4215 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-04-27T09:27:38.000Z",
+    "expiryDate": "2026-04-26T09:27:38.000Z",
+    "coordinates": [
+      -113.9745497,
+      50.9985366
+    ],
+    "longitude": -113.9745497,
+    "latitude": 50.9985366,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

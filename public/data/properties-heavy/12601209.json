@@ -1,0 +1,37 @@
+{
+  "id": "12601209",
+  "fullDetails": {
+    "licenseNumber": "12601209",
+    "name": "STARBUCKS COFFEE #4853",
+    "address": "#500 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2008-02-07T14:55:44.000Z",
+    "expiryDate": "2026-02-06T14:55:44.000Z",
+    "coordinates": [
+      -113.9502596,
+      50.9133209
+    ],
+    "longitude": -113.9502596,
+    "latitude": 50.9133209,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

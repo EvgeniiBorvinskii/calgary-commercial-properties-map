@@ -1,0 +1,37 @@
+{
+  "id": "12963864",
+  "fullDetails": {
+    "licenseNumber": "12963864",
+    "name": "MANDARIN NOODLE / CALCO CALGARY",
+    "address": "#300 229 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-12T10:19:52.000Z",
+    "expiryDate": "2026-11-11T10:19:52.000Z",
+    "coordinates": [
+      -113.9877357,
+      51.0526663
+    ],
+    "longitude": -113.9877357,
+    "latitude": 51.0526663,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

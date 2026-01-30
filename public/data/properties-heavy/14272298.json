@@ -1,0 +1,37 @@
+{
+  "id": "14272298",
+  "fullDetails": {
+    "licenseNumber": "14272298",
+    "name": "7-ELEVEN (CANADA STORE #37779)",
+    "address": "#600 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-02T15:43:28.000Z",
+    "expiryDate": "2026-11-01T15:43:28.000Z",
+    "coordinates": [
+      -113.9577549,
+      51.0626544
+    ],
+    "longitude": -113.9577549,
+    "latitude": 51.0626544,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

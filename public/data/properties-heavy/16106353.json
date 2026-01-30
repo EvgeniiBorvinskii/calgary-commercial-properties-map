@@ -1,0 +1,36 @@
+{
+  "id": "16106353",
+  "fullDetails": {
+    "licenseNumber": "16106353",
+    "name": "JIP TELECOM",
+    "address": "#4A 3911A BRANDON ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-30T09:40:19.000Z",
+    "expiryDate": "2026-10-29T09:40:18.000Z",
+    "coordinates": [
+      -114.0525698,
+      51.0193203
+    ],
+    "longitude": -114.0525698,
+    "latitude": 51.0193203,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

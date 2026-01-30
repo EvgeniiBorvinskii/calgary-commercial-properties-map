@@ -1,0 +1,36 @@
+{
+  "id": "16217986",
+  "fullDetails": {
+    "licenseNumber": "16217986",
+    "name": "CALGARY FLOORING BOUTIQUE",
+    "address": "290 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-20T12:32:15.000Z",
+    "expiryDate": "2026-10-19T12:32:15.000Z",
+    "coordinates": [
+      -114.208316,
+      51.081727
+    ],
+    "longitude": -114.208316,
+    "latitude": 51.081727,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

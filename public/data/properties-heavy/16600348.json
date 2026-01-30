@@ -1,0 +1,36 @@
+{
+  "id": "16600348",
+  "fullDetails": {
+    "licenseNumber": "16600348",
+    "name": "WELLINGTON (THE)",
+    "address": "2719 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-05-09T14:07:03.000Z",
+    "expiryDate": "2026-05-08T14:07:01.000Z",
+    "coordinates": [
+      -114.1256015,
+      51.0375243
+    ],
+    "longitude": -114.1256015,
+    "latitude": 51.0375243,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

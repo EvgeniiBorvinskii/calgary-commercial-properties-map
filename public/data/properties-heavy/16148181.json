@@ -1,0 +1,36 @@
+{
+  "id": "16148181",
+  "fullDetails": {
+    "licenseNumber": "16148181",
+    "name": "ADAM THIBERT PHOTOGRAPHY",
+    "address": "#1 227 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2022-04-22T19:40:09.000Z",
+    "expiryDate": "2026-04-21T19:40:09.000Z",
+    "coordinates": [
+      -114.0950365,
+      51.0544318
+    ],
+    "longitude": -114.0950365,
+    "latitude": 51.0544318,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

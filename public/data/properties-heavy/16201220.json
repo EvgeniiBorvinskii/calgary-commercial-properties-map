@@ -1,0 +1,37 @@
+{
+  "id": "16201220",
+  "fullDetails": {
+    "licenseNumber": "16201220",
+    "name": "SINA FOOTWEAR",
+    "address": "#1667 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-28T14:02:25.000Z",
+    "expiryDate": "2026-10-27T14:02:25.000Z",
+    "coordinates": [
+      -114.0990806,
+      51.0657898
+    ],
+    "longitude": -114.0990806,
+    "latitude": 51.0657898,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

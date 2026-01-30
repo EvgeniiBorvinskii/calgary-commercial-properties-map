@@ -1,0 +1,36 @@
+{
+  "id": "12118097",
+  "fullDetails": {
+    "licenseNumber": "12118097",
+    "name": "OLYMPIA DANCE CLUB",
+    "address": "517 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2006-04-10T08:52:58.000Z",
+    "expiryDate": "2026-04-09T08:52:58.000Z",
+    "coordinates": [
+      -114.0522502,
+      51.0665484
+    ],
+    "longitude": -114.0522502,
+    "latitude": 51.0665484,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16202483",
+  "fullDetails": {
+    "licenseNumber": "16202483",
+    "name": "MUSICWORKS CANADA LEGACY",
+    "address": "#310 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-26T11:24:39.000Z",
+    "expiryDate": "2026-09-25T11:24:39.000Z",
+    "coordinates": [
+      -114.0254154,
+      50.8617248
+    ],
+    "longitude": -114.0254154,
+    "latitude": 50.8617248,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16542532",
+  "fullDetails": {
+    "licenseNumber": "16542532",
+    "name": "VUE OPTIX",
+    "address": "#1 7112 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-26T11:03:32.000Z",
+    "expiryDate": "2026-09-25T11:03:31.000Z",
+    "coordinates": [
+      -114.0705874,
+      50.9900831
+    ],
+    "longitude": -114.0705874,
+    "latitude": 50.9900831,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

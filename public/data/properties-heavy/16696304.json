@@ -1,0 +1,36 @@
+{
+  "id": "16696304",
+  "fullDetails": {
+    "licenseNumber": "16696304",
+    "name": "AURION RENEWABLES",
+    "address": "#500 112 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-19T09:36:02.000Z",
+    "expiryDate": "2026-11-18T09:36:02.000Z",
+    "coordinates": [
+      -114.0637075,
+      51.0498088
+    ],
+    "longitude": -114.0637075,
+    "latitude": 51.0498088,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

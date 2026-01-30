@@ -1,0 +1,36 @@
+{
+  "id": "208710",
+  "fullDetails": {
+    "licenseNumber": "208710",
+    "name": "REGISTRY OFFICE CALGARY SOUTH (THE)",
+    "address": "#630 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-04-23T08:54:05.000Z",
+    "expiryDate": "2026-04-22T08:54:05.000Z",
+    "coordinates": [
+      -114.031185,
+      50.8659891
+    ],
+    "longitude": -114.031185,
+    "latitude": 50.8659891,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

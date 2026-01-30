@@ -1,0 +1,37 @@
+{
+  "id": "16518052",
+  "fullDetails": {
+    "licenseNumber": "16518052",
+    "name": "LAKESIDE HUMIDOR - VAPE SMOKES CIGARS",
+    "address": "#1120 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-08-02T14:29:52.000Z",
+    "expiryDate": "2026-08-01T14:29:52.000Z",
+    "coordinates": [
+      -113.9401458,
+      50.8942372
+    ],
+    "longitude": -113.9401458,
+    "latitude": 50.8942372,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

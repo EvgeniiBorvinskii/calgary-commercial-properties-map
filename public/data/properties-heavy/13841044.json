@@ -1,0 +1,36 @@
+{
+  "id": "13841044",
+  "fullDetails": {
+    "licenseNumber": "13841044",
+    "name": "FABULOUS FELINE GROOMING",
+    "address": "4707 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-01-31T05:34:53.000Z",
+    "expiryDate": "2026-01-30T05:34:53.000Z",
+    "coordinates": [
+      -113.9664296,
+      51.0374201
+    ],
+    "longitude": -113.9664296,
+    "latitude": 51.0374201,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

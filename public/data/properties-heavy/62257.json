@@ -1,0 +1,36 @@
+{
+  "id": "62257",
+  "fullDetails": {
+    "licenseNumber": "62257",
+    "name": "M J LOGS",
+    "address": "2410 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.116607,
+      51.0459655
+    ],
+    "longitude": -114.116607,
+    "latitude": 51.0459655,
+    "community": "SCARBORO/SUNALTA WEST",
+    "ward": "SSW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

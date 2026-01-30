@@ -1,0 +1,36 @@
+{
+  "id": "16151219",
+  "fullDetails": {
+    "licenseNumber": "16151219",
+    "name": "THE UPS STORE 568",
+    "address": "#200 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-07T13:05:16.000Z",
+    "expiryDate": "2026-06-06T13:05:16.000Z",
+    "coordinates": [
+      -114.2132776,
+      51.1536759
+    ],
+    "longitude": -114.2132776,
+    "latitude": 51.1536759,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16238164",
+  "fullDetails": {
+    "licenseNumber": "16238164",
+    "name": "QUARTERS",
+    "address": "370 QUARRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2023-02-01T12:22:17.000Z",
+    "expiryDate": "2026-01-31T12:22:17.000Z",
+    "coordinates": [
+      -114.0189217,
+      50.9602453
+    ],
+    "longitude": -114.0189217,
+    "latitude": 50.9602453,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

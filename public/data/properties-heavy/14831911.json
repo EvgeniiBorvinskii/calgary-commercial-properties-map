@@ -1,0 +1,36 @@
+{
+  "id": "14831911",
+  "fullDetails": {
+    "licenseNumber": "14831911",
+    "name": "EMPIRE SHAWARMA AND DONAIR",
+    "address": "787 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-06-13T15:37:19.000Z",
+    "expiryDate": "2026-06-12T15:37:18.000Z",
+    "coordinates": [
+      -114.0966515,
+      51.0825259
+    ],
+    "longitude": -114.0966515,
+    "latitude": 51.0825259,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

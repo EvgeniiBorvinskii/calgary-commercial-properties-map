@@ -1,0 +1,37 @@
+{
+  "id": "16270993",
+  "fullDetails": {
+    "licenseNumber": "16270993",
+    "name": "SWEETLAND DAY SPA",
+    "address": "#102 2763 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-04-13T14:25:38.000Z",
+    "expiryDate": "2026-04-12T14:25:38.000Z",
+    "coordinates": [
+      -113.9997702,
+      51.0721221
+    ],
+    "longitude": -113.9997702,
+    "latitude": 51.0721221,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

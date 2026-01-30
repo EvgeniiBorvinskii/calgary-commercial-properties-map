@@ -1,0 +1,36 @@
+{
+  "id": "16483083",
+  "fullDetails": {
+    "licenseNumber": "16483083",
+    "name": "FUR TREE VETERINARY CLINIC",
+    "address": "#108 500 ROYAL OAK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-27T12:09:55.000Z",
+    "expiryDate": "2026-05-26T12:09:54.000Z",
+    "coordinates": [
+      -114.233283,
+      51.1389137
+    ],
+    "longitude": -114.233283,
+    "latitude": 51.1389137,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

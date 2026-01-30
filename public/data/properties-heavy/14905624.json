@@ -1,0 +1,36 @@
+{
+  "id": "14905624",
+  "fullDetails": {
+    "licenseNumber": "14905624",
+    "name": "STAGE COMPLETIONS",
+    "address": "5710 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-04-25T08:49:12.000Z",
+    "expiryDate": "2026-04-24T08:49:12.000Z",
+    "coordinates": [
+      -113.9593659,
+      51.0019306
+    ],
+    "longitude": -113.9593659,
+    "latitude": 51.0019306,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

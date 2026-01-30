@@ -1,0 +1,37 @@
+{
+  "id": "16564585",
+  "fullDetails": {
+    "licenseNumber": "16564585",
+    "name": "VAPE WORLD",
+    "address": "#120 815 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-09-04T08:09:22.000Z",
+    "expiryDate": "2026-09-03T08:09:22.000Z",
+    "coordinates": [
+      -114.0800985,
+      51.037685
+    ],
+    "longitude": -114.0800985,
+    "latitude": 51.037685,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

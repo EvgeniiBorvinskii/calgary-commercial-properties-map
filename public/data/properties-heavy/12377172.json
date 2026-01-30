@@ -1,0 +1,36 @@
+{
+  "id": "12377172",
+  "fullDetails": {
+    "licenseNumber": "12377172",
+    "name": "MOGA DRIVING SCHOOL",
+    "address": "#501 4656 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2005-12-12T15:04:12.000Z",
+    "expiryDate": "2027-02-02T00:00:00.000Z",
+    "coordinates": [
+      -113.9671638,
+      51.1007919
+    ],
+    "longitude": -113.9671638,
+    "latitude": 51.1007919,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

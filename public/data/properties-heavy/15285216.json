@@ -1,0 +1,37 @@
+{
+  "id": "15285216",
+  "fullDetails": {
+    "licenseNumber": "15285216",
+    "name": "VINYL WINDOW PRO",
+    "address": "4576 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-07-03T11:10:07.000Z",
+    "expiryDate": "2026-07-02T11:10:07.000Z",
+    "coordinates": [
+      -114.0262233,
+      51.0932012
+    ],
+    "longitude": -114.0262233,
+    "latitude": 51.0932012,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

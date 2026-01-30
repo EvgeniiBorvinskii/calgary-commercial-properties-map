@@ -1,0 +1,36 @@
+{
+  "id": "12806378",
+  "fullDetails": {
+    "licenseNumber": "12806378",
+    "name": "PITTSBURGH GLASSWORKS",
+    "address": "#1 4069 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-06-25T05:33:31.000Z",
+    "expiryDate": "2026-06-24T05:33:31.000Z",
+    "coordinates": [
+      -113.9772484,
+      50.9508947
+    ],
+    "longitude": -113.9772484,
+    "latitude": 50.9508947,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

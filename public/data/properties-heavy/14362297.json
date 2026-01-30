@@ -1,0 +1,36 @@
+{
+  "id": "14362297",
+  "fullDetails": {
+    "licenseNumber": "14362297",
+    "name": "S & V MOTORS",
+    "address": "#9 1115 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2017-02-09T11:28:38.000Z",
+    "expiryDate": "2026-02-08T11:28:38.000Z",
+    "coordinates": [
+      -114.0379097,
+      51.0102147
+    ],
+    "longitude": -114.0379097,
+    "latitude": 51.0102147,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

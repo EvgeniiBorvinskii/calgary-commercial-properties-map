@@ -1,0 +1,37 @@
+{
+  "id": "16278947",
+  "fullDetails": {
+    "licenseNumber": "16278947",
+    "name": "BULK BARN",
+    "address": "#13 4889 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-09T07:45:51.000Z",
+    "expiryDate": "2026-03-08T07:45:51.000Z",
+    "coordinates": [
+      -113.9649222,
+      50.9300889
+    ],
+    "longitude": -113.9649222,
+    "latitude": 50.9300889,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

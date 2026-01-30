@@ -1,0 +1,36 @@
+{
+  "id": "14144497",
+  "fullDetails": {
+    "licenseNumber": "14144497",
+    "name": "APS OF CALGARY, ULC",
+    "address": "#170 10 SMED LN SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-05-13T10:45:51.000Z",
+    "expiryDate": "2026-05-12T10:45:51.000Z",
+    "coordinates": [
+      -113.9557607,
+      50.9965865
+    ],
+    "longitude": -113.9557607,
+    "latitude": 50.9965865,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

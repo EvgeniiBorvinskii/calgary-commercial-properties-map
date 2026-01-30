@@ -1,0 +1,36 @@
+{
+  "id": "15979347",
+  "fullDetails": {
+    "licenseNumber": "15979347",
+    "name": "HEIST BOUTIQUE",
+    "address": "430 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-09T10:52:46.000Z",
+    "expiryDate": "2026-07-08T10:52:46.000Z",
+    "coordinates": [
+      -114.2075945,
+      51.0820712
+    ],
+    "longitude": -114.2075945,
+    "latitude": 51.0820712,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

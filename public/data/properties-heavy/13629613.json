@@ -1,0 +1,36 @@
+{
+  "id": "13629613",
+  "fullDetails": {
+    "licenseNumber": "13629613",
+    "name": "NEW DIMENSION TATTOOS",
+    "address": "#2 808 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2013-04-11T09:49:59.000Z",
+    "expiryDate": "2026-04-10T09:49:59.000Z",
+    "coordinates": [
+      -114.0539808,
+      51.0587317
+    ],
+    "longitude": -114.0539808,
+    "latitude": 51.0587317,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

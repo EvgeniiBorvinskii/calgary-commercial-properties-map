@@ -1,0 +1,37 @@
+{
+  "id": "16390569",
+  "fullDetails": {
+    "licenseNumber": "16390569",
+    "name": "AYCE KBBQ",
+    "address": "2320 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-10-31T10:34:51.000Z",
+    "expiryDate": "2026-10-30T10:34:50.000Z",
+    "coordinates": [
+      -114.0710989,
+      51.0730453
+    ],
+    "longitude": -114.0710989,
+    "latitude": 51.0730453,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

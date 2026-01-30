@@ -1,0 +1,36 @@
+{
+  "id": "15463441",
+  "fullDetails": {
+    "licenseNumber": "15463441",
+    "name": "MIRAGE LANDSCAPING",
+    "address": "7024 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-07T15:41:13.000Z",
+    "expiryDate": "2026-11-06T15:41:13.000Z",
+    "coordinates": [
+      -114.0587439,
+      50.9925996
+    ],
+    "longitude": -114.0587439,
+    "latitude": 50.9925996,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

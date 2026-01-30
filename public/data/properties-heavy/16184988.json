@@ -1,0 +1,36 @@
+{
+  "id": "16184988",
+  "fullDetails": {
+    "licenseNumber": "16184988",
+    "name": "WELLNECITY",
+    "address": "2320 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2026-01-14T09:13:04.000Z",
+    "expiryDate": "2027-01-13T09:13:04.000Z",
+    "coordinates": [
+      -114.0058658,
+      51.0903311
+    ],
+    "longitude": -114.0058658,
+    "latitude": 51.0903311,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

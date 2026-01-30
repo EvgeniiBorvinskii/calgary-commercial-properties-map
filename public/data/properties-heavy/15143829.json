@@ -1,0 +1,36 @@
+{
+  "id": "15143829",
+  "fullDetails": {
+    "licenseNumber": "15143829",
+    "name": "BONNYBROOK TRUCK & TRAILER",
+    "address": "3812 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-01-21T15:48:56.000Z",
+    "expiryDate": "2027-01-20T15:48:56.000Z",
+    "coordinates": [
+      -114.0219711,
+      51.0212831
+    ],
+    "longitude": -114.0219711,
+    "latitude": 51.0212831,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

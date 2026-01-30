@@ -1,0 +1,36 @@
+{
+  "id": "15850753",
+  "fullDetails": {
+    "licenseNumber": "15850753",
+    "name": "GLOBAL DYNAMICS",
+    "address": "1043 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-01-12T14:54:10.000Z",
+    "expiryDate": "2027-01-11T14:54:10.000Z",
+    "coordinates": [
+      -113.9966769,
+      51.060946
+    ],
+    "longitude": -113.9966769,
+    "latitude": 51.060946,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

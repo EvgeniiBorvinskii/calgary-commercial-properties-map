@@ -1,0 +1,37 @@
+{
+  "id": "16401994",
+  "fullDetails": {
+    "licenseNumber": "16401994",
+    "name": "BIGWINGS CALGARY",
+    "address": "#5 140 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-05T13:20:53.000Z",
+    "expiryDate": "2026-04-04T13:20:53.000Z",
+    "coordinates": [
+      -114.0651676,
+      51.0427865
+    ],
+    "longitude": -114.0651676,
+    "latitude": 51.0427865,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

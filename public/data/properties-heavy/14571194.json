@@ -1,0 +1,36 @@
+{
+  "id": "14571194",
+  "fullDetails": {
+    "licenseNumber": "14571194",
+    "name": "DIAMONDS BANK",
+    "address": "#1440 540 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2022-09-21T14:18:26.000Z",
+    "expiryDate": "2026-09-20T14:18:26.000Z",
+    "coordinates": [
+      -114.0731692,
+      51.0489393
+    ],
+    "longitude": -114.0731692,
+    "latitude": 51.0489393,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16089377",
+  "fullDetails": {
+    "licenseNumber": "16089377",
+    "name": "TAELOR PATERSON MASSAGE",
+    "address": "#204 1802 1 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-05T17:54:44.000Z",
+    "expiryDate": "2026-09-04T17:54:43.000Z",
+    "coordinates": [
+      -114.0647374,
+      51.0681107
+    ],
+    "longitude": -114.0647374,
+    "latitude": 51.0681107,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

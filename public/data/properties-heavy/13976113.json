@@ -1,0 +1,36 @@
+{
+  "id": "13976113",
+  "fullDetails": {
+    "licenseNumber": "13976113",
+    "name": "HOPE STREET INVESTMENTS",
+    "address": "717 17 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2015-09-02T11:04:54.000Z",
+    "expiryDate": "2026-09-01T11:04:54.000Z",
+    "coordinates": [
+      -114.0774513,
+      51.067664
+    ],
+    "longitude": -114.0774513,
+    "latitude": 51.067664,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

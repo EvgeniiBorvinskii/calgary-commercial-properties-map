@@ -1,0 +1,36 @@
+{
+  "id": "138149",
+  "fullDetails": {
+    "licenseNumber": "138149",
+    "name": "YEAR ROUND LANDSCAPING",
+    "address": "8916 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2020-01-07T09:59:34.000Z",
+    "expiryDate": "2027-01-06T09:59:34.000Z",
+    "coordinates": [
+      -113.9693202,
+      50.9735763
+    ],
+    "longitude": -113.9693202,
+    "latitude": 50.9735763,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

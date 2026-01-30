@@ -1,0 +1,37 @@
+{
+  "id": "977751",
+  "fullDetails": {
+    "licenseNumber": "977751",
+    "name": "CANADIAN WATER TECHNOLOGIES",
+    "address": "4357 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-08-08T14:12:06.000Z",
+    "expiryDate": "2026-08-07T14:12:06.000Z",
+    "coordinates": [
+      -113.9718486,
+      51.0035221
+    ],
+    "longitude": -113.9718486,
+    "latitude": 51.0035221,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

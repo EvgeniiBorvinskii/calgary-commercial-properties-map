@@ -1,0 +1,36 @@
+{
+  "id": "13101845",
+  "fullDetails": {
+    "licenseNumber": "13101845",
+    "name": "HOLLYBURN PROPERTIES",
+    "address": "725 15 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2011-03-11T14:23:37.000Z",
+    "expiryDate": "2026-03-10T14:23:37.000Z",
+    "coordinates": [
+      -114.0785075,
+      51.0387903
+    ],
+    "longitude": -114.0785075,
+    "latitude": 51.0387903,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14075105",
+  "fullDetails": {
+    "licenseNumber": "14075105",
+    "name": "BMW ROYAL OAK / MINI CALGARY",
+    "address": "7699 110 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2016-02-08T10:59:52.000Z",
+    "expiryDate": "2026-02-07T10:59:52.000Z",
+    "coordinates": [
+      -114.1955045,
+      51.1522578
+    ],
+    "longitude": -114.1955045,
+    "latitude": 51.1522578,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

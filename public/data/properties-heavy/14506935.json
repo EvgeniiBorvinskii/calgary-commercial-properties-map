@@ -1,0 +1,37 @@
+{
+  "id": "14506935",
+  "fullDetails": {
+    "licenseNumber": "14506935",
+    "name": "CHICKEN AVENUE",
+    "address": "#113 128 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-05-25T12:08:49.000Z",
+    "expiryDate": "2026-05-24T12:08:49.000Z",
+    "coordinates": [
+      -114.0614753,
+      51.0513791
+    ],
+    "longitude": -114.0614753,
+    "latitude": 51.0513791,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

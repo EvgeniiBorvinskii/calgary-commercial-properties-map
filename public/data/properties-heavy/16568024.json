@@ -1,0 +1,37 @@
+{
+  "id": "16568024",
+  "fullDetails": {
+    "licenseNumber": "16568024",
+    "name": "TELUS SECURITY AND AUTOMATION",
+    "address": "#800 120 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-04-04T09:35:51.000Z",
+    "expiryDate": "2026-04-03T09:35:51.000Z",
+    "coordinates": [
+      -114.0642928,
+      51.0467888
+    ],
+    "longitude": -114.0642928,
+    "latitude": 51.0467888,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

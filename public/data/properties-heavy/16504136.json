@@ -1,0 +1,36 @@
+{
+  "id": "16504136",
+  "fullDetails": {
+    "licenseNumber": "16504136",
+    "name": "CLEVER CANINES",
+    "address": "5513 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2024-07-02T19:25:05.000Z",
+    "expiryDate": "2026-07-01T19:25:05.000Z",
+    "coordinates": [
+      -114.0576057,
+      51.0052616
+    ],
+    "longitude": -114.0576057,
+    "latitude": 51.0052616,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

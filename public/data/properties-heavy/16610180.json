@@ -1,0 +1,36 @@
+{
+  "id": "16610180",
+  "fullDetails": {
+    "licenseNumber": "16610180",
+    "name": "WORLD CLASS TAEKWONDO",
+    "address": "#2110 88 SHAWNEE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-28T11:29:12.000Z",
+    "expiryDate": "2026-05-27T11:29:11.000Z",
+    "coordinates": [
+      -114.0803367,
+      50.9216033
+    ],
+    "longitude": -114.0803367,
+    "latitude": 50.9216033,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15154644",
+  "fullDetails": {
+    "licenseNumber": "15154644",
+    "name": "J.X. PRINTING - AMAZING CARDS CUSTOM STATIONERY",
+    "address": "#8 4101 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-09-08T08:35:32.000Z",
+    "expiryDate": "2026-09-07T08:35:31.000Z",
+    "coordinates": [
+      -114.0123994,
+      51.0893452
+    ],
+    "longitude": -114.0123994,
+    "latitude": 51.0893452,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

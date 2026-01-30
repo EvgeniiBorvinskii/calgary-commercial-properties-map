@@ -1,0 +1,37 @@
+{
+  "id": "16548943",
+  "fullDetails": {
+    "licenseNumber": "16548943",
+    "name": "NUTRITION HUB",
+    "address": "1005 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-07T11:59:41.000Z",
+    "expiryDate": "2027-01-06T11:59:41.000Z",
+    "coordinates": [
+      -114.0399521,
+      51.0531039
+    ],
+    "longitude": -114.0399521,
+    "latitude": 51.0531039,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

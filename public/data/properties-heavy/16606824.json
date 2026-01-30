@@ -1,0 +1,36 @@
+{
+  "id": "16606824",
+  "fullDetails": {
+    "licenseNumber": "16606824",
+    "name": "SZIDITATTOO",
+    "address": "405 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-06-23T13:12:13.000Z",
+    "expiryDate": "2026-06-22T13:12:13.000Z",
+    "coordinates": [
+      -114.0553473,
+      51.0419782
+    ],
+    "longitude": -114.0553473,
+    "latitude": 51.0419782,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

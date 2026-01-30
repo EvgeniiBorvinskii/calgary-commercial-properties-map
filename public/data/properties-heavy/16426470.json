@@ -1,0 +1,36 @@
+{
+  "id": "16426470",
+  "fullDetails": {
+    "licenseNumber": "16426470",
+    "name": "ABLX-PRESS",
+    "address": "#8 7115 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-01-02T12:01:42.000Z",
+    "expiryDate": "2027-01-01T12:01:42.000Z",
+    "coordinates": [
+      -113.9651943,
+      50.9919199
+    ],
+    "longitude": -113.9651943,
+    "latitude": 50.9919199,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

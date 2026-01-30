@@ -1,0 +1,36 @@
+{
+  "id": "16398695",
+  "fullDetails": {
+    "licenseNumber": "16398695",
+    "name": "MISSION RIVERSIDE APARTMENTS",
+    "address": "234 21 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-11-08T11:54:59.000Z",
+    "expiryDate": "2026-11-07T11:54:59.000Z",
+    "coordinates": [
+      -114.0682878,
+      51.0345259
+    ],
+    "longitude": -114.0682878,
+    "latitude": 51.0345259,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

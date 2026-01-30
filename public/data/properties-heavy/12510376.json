@@ -1,0 +1,37 @@
+{
+  "id": "12510376",
+  "fullDetails": {
+    "licenseNumber": "12510376",
+    "name": "DAVENPORT MOTORSPORTS",
+    "address": "1530 AVIATION RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2013-02-27T05:34:41.000Z",
+    "expiryDate": "2027-02-26T05:34:41.000Z",
+    "coordinates": [
+      -114.0261881,
+      51.0963654
+    ],
+    "longitude": -114.0261881,
+    "latitude": 51.0963654,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

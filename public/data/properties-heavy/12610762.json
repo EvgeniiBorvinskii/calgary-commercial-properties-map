@@ -1,0 +1,37 @@
+{
+  "id": "12610762",
+  "fullDetails": {
+    "licenseNumber": "12610762",
+    "name": "WONDERLAND HEALTHCARE CENTRE",
+    "address": "914 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "subType": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "FOOD SERVICE - PREMISES,\nBODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2012-07-04T05:54:26.000Z",
+    "expiryDate": "2026-07-03T05:54:26.000Z",
+    "coordinates": [
+      -114.0815235,
+      51.0492027
+    ],
+    "longitude": -114.0815235,
+    "latitude": 51.0492027,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

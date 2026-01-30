@@ -1,0 +1,37 @@
+{
+  "id": "16190159",
+  "fullDetails": {
+    "licenseNumber": "16190159",
+    "name": "THE LOCAL MARKET",
+    "address": "#149 315 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-03T14:46:21.000Z",
+    "expiryDate": "2026-08-02T14:46:21.000Z",
+    "coordinates": [
+      -114.0691962,
+      51.0451808
+    ],
+    "longitude": -114.0691962,
+    "latitude": 51.0451808,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

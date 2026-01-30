@@ -1,0 +1,37 @@
+{
+  "id": "98442",
+  "fullDetails": {
+    "licenseNumber": "98442",
+    "name": "CAL-IMAGING SPECIALISTS",
+    "address": "#8 415 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-03-19T05:32:53.000Z",
+    "expiryDate": "2026-03-18T05:32:53.000Z",
+    "coordinates": [
+      -114.0559576,
+      50.9985749
+    ],
+    "longitude": -114.0559576,
+    "latitude": 50.9985749,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

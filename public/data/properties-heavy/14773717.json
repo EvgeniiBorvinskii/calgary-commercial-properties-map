@@ -1,0 +1,37 @@
+{
+  "id": "14773717",
+  "fullDetails": {
+    "licenseNumber": "14773717",
+    "name": "MCDONALD'S RESTAURANT",
+    "address": "2320 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-01-25T15:00:13.000Z",
+    "expiryDate": "2027-01-24T15:00:13.000Z",
+    "coordinates": [
+      -114.1152089,
+      51.0674033
+    ],
+    "longitude": -114.1152089,
+    "latitude": 51.0674033,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "126896",
+  "fullDetails": {
+    "licenseNumber": "126896",
+    "name": "SWAN HOMES",
+    "address": "#462 301 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-05-31T05:30:16.000Z",
+    "expiryDate": "2026-05-30T05:30:16.000Z",
+    "coordinates": [
+      -114.0951804,
+      51.0549824
+    ],
+    "longitude": -114.0951804,
+    "latitude": 51.0549824,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

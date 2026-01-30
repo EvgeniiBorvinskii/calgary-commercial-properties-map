@@ -1,0 +1,36 @@
+{
+  "id": "12803367",
+  "fullDetails": {
+    "licenseNumber": "12803367",
+    "name": "CHICK PEA (THE)",
+    "address": "#212 202 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-20T13:07:11.000Z",
+    "expiryDate": "2026-09-19T13:07:11.000Z",
+    "coordinates": [
+      -114.0658254,
+      51.0478252
+    ],
+    "longitude": -114.0658254,
+    "latitude": 51.0478252,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

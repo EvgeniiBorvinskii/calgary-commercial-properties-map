@@ -1,0 +1,36 @@
+{
+  "id": "12304879",
+  "fullDetails": {
+    "licenseNumber": "12304879",
+    "name": "IMS INNOVATIVE MANUFACTURING SOURCE",
+    "address": "#4 3855 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-06-25T05:31:32.000Z",
+    "expiryDate": "2026-06-24T05:31:32.000Z",
+    "coordinates": [
+      -113.9779414,
+      50.9961293
+    ],
+    "longitude": -113.9779414,
+    "latitude": 50.9961293,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

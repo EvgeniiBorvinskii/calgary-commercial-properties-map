@@ -1,0 +1,36 @@
+{
+  "id": "16124232",
+  "fullDetails": {
+    "licenseNumber": "16124232",
+    "name": "INFINITI PRINTING AND COPYING",
+    "address": "#100 1010 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-06-01T14:58:19.000Z",
+    "expiryDate": "2026-05-31T14:58:19.000Z",
+    "coordinates": [
+      -114.0845698,
+      51.0464394
+    ],
+    "longitude": -114.0845698,
+    "latitude": 51.0464394,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

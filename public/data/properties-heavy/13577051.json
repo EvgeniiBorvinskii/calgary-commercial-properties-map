@@ -1,0 +1,36 @@
+{
+  "id": "13577051",
+  "fullDetails": {
+    "licenseNumber": "13577051",
+    "name": "FREEDOM MOBILE",
+    "address": "18 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-11-23T10:25:05.000Z",
+    "expiryDate": "2026-11-22T10:25:05.000Z",
+    "coordinates": [
+      -114.198193,
+      51.1266924
+    ],
+    "longitude": -114.198193,
+    "latitude": 51.1266924,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

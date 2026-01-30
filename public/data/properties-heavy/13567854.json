@@ -1,0 +1,36 @@
+{
+  "id": "13567854",
+  "fullDetails": {
+    "licenseNumber": "13567854",
+    "name": "MOBILE SNAP",
+    "address": "#9K 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-03-10T05:34:47.000Z",
+    "expiryDate": "2026-03-09T05:34:47.000Z",
+    "coordinates": [
+      -113.9862723,
+      51.0735767
+    ],
+    "longitude": -113.9862723,
+    "latitude": 51.0735767,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

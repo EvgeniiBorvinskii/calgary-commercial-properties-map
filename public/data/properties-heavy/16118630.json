@@ -1,0 +1,36 @@
+{
+  "id": "16118630",
+  "fullDetails": {
+    "licenseNumber": "16118630",
+    "name": "LIL SOLES FOOTWEAR",
+    "address": "#H9 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-04-26T11:34:58.000Z",
+    "expiryDate": "2026-04-25T11:34:58.000Z",
+    "coordinates": [
+      -114.1544428,
+      51.085364
+    ],
+    "longitude": -114.1544428,
+    "latitude": 51.085364,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

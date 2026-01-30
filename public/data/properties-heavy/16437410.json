@@ -1,0 +1,36 @@
+{
+  "id": "16437410",
+  "fullDetails": {
+    "licenseNumber": "16437410",
+    "name": "CERATECH ELECTRONICS",
+    "address": "#203 5240 1A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2024-02-26T08:50:17.000Z",
+    "expiryDate": "2027-02-25T08:50:17.000Z",
+    "coordinates": [
+      -114.060925,
+      51.0073937
+    ],
+    "longitude": -114.060925,
+    "latitude": 51.0073937,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

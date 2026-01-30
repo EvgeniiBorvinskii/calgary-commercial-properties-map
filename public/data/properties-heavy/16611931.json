@@ -1,0 +1,36 @@
+{
+  "id": "16611931",
+  "fullDetails": {
+    "licenseNumber": "16611931",
+    "name": "EMBUILD",
+    "address": "#1220 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2025-04-09T11:53:47.000Z",
+    "expiryDate": "2026-04-08T11:53:46.000Z",
+    "coordinates": [
+      -113.9654308,
+      51.1322671
+    ],
+    "longitude": -113.9654308,
+    "latitude": 51.1322671,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

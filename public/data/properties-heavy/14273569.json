@@ -1,0 +1,37 @@
+{
+  "id": "14273569",
+  "fullDetails": {
+    "licenseNumber": "14273569",
+    "name": "7-ELEVEN (CANADA STORE #37784)",
+    "address": "2619 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-03T14:37:26.000Z",
+    "expiryDate": "2026-11-02T14:37:26.000Z",
+    "coordinates": [
+      -114.0951881,
+      51.0307875
+    ],
+    "longitude": -114.0951881,
+    "latitude": 51.0307875,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13992029",
+  "fullDetails": {
+    "licenseNumber": "13992029",
+    "name": "J I T POWDER COATERS",
+    "address": "7815 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-10-04T15:10:31.000Z",
+    "expiryDate": "2026-10-03T15:10:31.000Z",
+    "coordinates": [
+      -113.9677545,
+      50.9829081
+    ],
+    "longitude": -113.9677545,
+    "latitude": 50.9829081,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

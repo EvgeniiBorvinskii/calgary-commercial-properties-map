@@ -1,0 +1,36 @@
+{
+  "id": "14946693",
+  "fullDetails": {
+    "licenseNumber": "14946693",
+    "name": "NAKED SOAP CO",
+    "address": "#100 1316 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-02-19T15:08:54.000Z",
+    "expiryDate": "2026-02-18T15:08:53.000Z",
+    "coordinates": [
+      -114.065388,
+      51.0400092
+    ],
+    "longitude": -114.065388,
+    "latitude": 51.0400092,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13742036",
+  "fullDetails": {
+    "licenseNumber": "13742036",
+    "name": "SOBEYS WEST #60-8686",
+    "address": "3440 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-01-21T05:33:21.000Z",
+    "expiryDate": "2027-01-20T05:33:21.000Z",
+    "coordinates": [
+      -113.9838012,
+      51.0027594
+    ],
+    "longitude": -113.9838012,
+    "latitude": 51.0027594,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

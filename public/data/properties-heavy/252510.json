@@ -1,0 +1,36 @@
+{
+  "id": "252510",
+  "fullDetails": {
+    "licenseNumber": "252510",
+    "name": "ISOMASS SCIENTIFIC",
+    "address": "#140 5700 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2004-09-27T15:58:08.000Z",
+    "expiryDate": "2026-09-26T15:58:08.000Z",
+    "coordinates": [
+      -114.0654855,
+      51.0032674
+    ],
+    "longitude": -114.0654855,
+    "latitude": 51.0032674,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

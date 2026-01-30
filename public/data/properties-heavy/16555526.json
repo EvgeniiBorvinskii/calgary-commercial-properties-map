@@ -1,0 +1,36 @@
+{
+  "id": "16555526",
+  "fullDetails": {
+    "licenseNumber": "16555526",
+    "name": "CONTINENTAL AUTO - MACLEOD TRAIL",
+    "address": "#101 7510 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-12-09T11:53:56.000Z",
+    "expiryDate": "2026-12-08T11:53:56.000Z",
+    "coordinates": [
+      -114.0695323,
+      50.9866598
+    ],
+    "longitude": -114.0695323,
+    "latitude": 50.9866598,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

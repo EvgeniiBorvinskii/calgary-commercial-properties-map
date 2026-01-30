@@ -1,0 +1,36 @@
+{
+  "id": "12380978",
+  "fullDetails": {
+    "licenseNumber": "12380978",
+    "name": "KNIGHT SIGNS ALBERTA",
+    "address": "4940 102 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-12-02T05:32:45.000Z",
+    "expiryDate": "2026-12-01T05:32:45.000Z",
+    "coordinates": [
+      -113.9622456,
+      50.9633129
+    ],
+    "longitude": -113.9622456,
+    "latitude": 50.9633129,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

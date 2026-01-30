@@ -1,0 +1,36 @@
+{
+  "id": "16608531",
+  "fullDetails": {
+    "licenseNumber": "16608531",
+    "name": "NOOR USED APPLIANCES",
+    "address": "#6 3610 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-07-07T14:47:28.000Z",
+    "expiryDate": "2026-07-06T14:47:27.000Z",
+    "coordinates": [
+      -113.9909847,
+      51.0850377
+    ],
+    "longitude": -113.9909847,
+    "latitude": 51.0850377,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

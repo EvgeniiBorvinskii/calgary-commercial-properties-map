@@ -1,0 +1,37 @@
+{
+  "id": "12877015",
+  "fullDetails": {
+    "licenseNumber": "12877015",
+    "name": "MEDINA CAFE & GRILL",
+    "address": "1004 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2010-03-11T13:43:41.000Z",
+    "expiryDate": "2026-03-10T13:43:41.000Z",
+    "coordinates": [
+      -114.0653413,
+      51.0432539
+    ],
+    "longitude": -114.0653413,
+    "latitude": 51.0432539,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

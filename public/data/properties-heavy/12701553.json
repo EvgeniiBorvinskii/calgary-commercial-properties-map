@@ -1,0 +1,36 @@
+{
+  "id": "12701553",
+  "fullDetails": {
+    "licenseNumber": "12701553",
+    "name": "FOOTHILLS HEAT TREATING",
+    "address": "8240B 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-11-13T05:44:13.000Z",
+    "expiryDate": "2026-11-12T05:44:13.000Z",
+    "coordinates": [
+      -113.9876429,
+      50.9801426
+    ],
+    "longitude": -113.9876429,
+    "latitude": 50.9801426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

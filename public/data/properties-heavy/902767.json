@@ -1,0 +1,36 @@
+{
+  "id": "902767",
+  "fullDetails": {
+    "licenseNumber": "902767",
+    "name": "QUILTS ETC",
+    "address": "#213 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-10-02T05:46:00.000Z",
+    "expiryDate": "2026-10-01T05:45:59.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

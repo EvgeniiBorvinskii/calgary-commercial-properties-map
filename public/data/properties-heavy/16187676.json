@@ -1,0 +1,37 @@
+{
+  "id": "16187676",
+  "fullDetails": {
+    "licenseNumber": "16187676",
+    "name": "SOCAL BOULDERING",
+    "address": "75 SHAWVILLE LI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO,\nPERSONAL SERVICE (FITNESS CONDITIONING),\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2022-10-11T12:38:26.000Z",
+    "expiryDate": "2026-10-10T12:38:26.000Z",
+    "coordinates": [
+      -114.066356,
+      50.900232
+    ],
+    "longitude": -114.066356,
+    "latitude": 50.900232,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

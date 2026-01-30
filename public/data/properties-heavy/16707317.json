@@ -1,0 +1,36 @@
+{
+  "id": "16707317",
+  "fullDetails": {
+    "licenseNumber": "16707317",
+    "name": "YAM'S LIQUOR",
+    "address": "#104 3716 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-12-10T14:40:22.000Z",
+    "expiryDate": "2026-12-09T14:40:22.000Z",
+    "coordinates": [
+      -113.9799867,
+      50.9999072
+    ],
+    "longitude": -113.9799867,
+    "latitude": 50.9999072,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16573602",
+  "fullDetails": {
+    "licenseNumber": "16573602",
+    "name": "UKRAINE PANTRY",
+    "address": "#111F 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-28T07:39:06.000Z",
+    "expiryDate": "2026-02-27T07:39:06.000Z",
+    "coordinates": [
+      -113.9856061,
+      51.0741246
+    ],
+    "longitude": -113.9856061,
+    "latitude": 51.0741246,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

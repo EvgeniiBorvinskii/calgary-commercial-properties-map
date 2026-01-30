@@ -1,0 +1,36 @@
+{
+  "id": "16614646",
+  "fullDetails": {
+    "licenseNumber": "16614646",
+    "name": "PEAK SOURCE PRODUCTS",
+    "address": "#108 10450 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-04-17T14:25:31.000Z",
+    "expiryDate": "2026-04-16T14:25:30.000Z",
+    "coordinates": [
+      -113.9604472,
+      50.9611951
+    ],
+    "longitude": -113.9604472,
+    "latitude": 50.9611951,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16520496",
+  "fullDetails": {
+    "licenseNumber": "16520496",
+    "name": "CORNERSTONE STORAGE AND RV PARKING",
+    "address": "8450 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-09-12T09:38:08.000Z",
+    "expiryDate": "2026-09-11T09:38:07.000Z",
+    "coordinates": [
+      -113.9154703,
+      50.9509073
+    ],
+    "longitude": -113.9154703,
+    "latitude": 50.9509073,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

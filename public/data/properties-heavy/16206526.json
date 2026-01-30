@@ -1,0 +1,37 @@
+{
+  "id": "16206526",
+  "fullDetails": {
+    "licenseNumber": "16206526",
+    "name": "URBAN WHOLESALE",
+    "address": "#110 9631 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-14T13:30:14.000Z",
+    "expiryDate": "2026-07-13T13:30:14.000Z",
+    "coordinates": [
+      -114.0732667,
+      50.9690289
+    ],
+    "longitude": -114.0732667,
+    "latitude": 50.9690289,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

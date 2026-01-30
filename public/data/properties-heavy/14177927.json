@@ -1,0 +1,36 @@
+{
+  "id": "14177927",
+  "fullDetails": {
+    "licenseNumber": "14177927",
+    "name": "DUKE HOMES",
+    "address": "#1105 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-12-03T13:06:20.000Z",
+    "expiryDate": "2026-12-02T13:06:20.000Z",
+    "coordinates": [
+      -113.9810881,
+      51.1513221
+    ],
+    "longitude": -113.9810881,
+    "latitude": 51.1513221,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

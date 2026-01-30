@@ -1,0 +1,36 @@
+{
+  "id": "16662538",
+  "fullDetails": {
+    "licenseNumber": "16662538",
+    "name": "TOP SHOT LIQUOR",
+    "address": "#120 901 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-08-18T12:10:13.000Z",
+    "expiryDate": "2026-08-17T12:10:12.000Z",
+    "coordinates": [
+      -114.0628761,
+      51.0601116
+    ],
+    "longitude": -114.0628761,
+    "latitude": 51.0601116,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

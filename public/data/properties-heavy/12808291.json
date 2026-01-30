@@ -1,0 +1,36 @@
+{
+  "id": "12808291",
+  "fullDetails": {
+    "licenseNumber": "12808291",
+    "name": "MIDAS CALGARY FOOTHILLS",
+    "address": "#250 3619 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2009-10-27T09:28:31.000Z",
+    "expiryDate": "2026-10-26T09:28:31.000Z",
+    "coordinates": [
+      -113.9812324,
+      50.9987176
+    ],
+    "longitude": -113.9812324,
+    "latitude": 50.9987176,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "822478",
+  "fullDetails": {
+    "licenseNumber": "822478",
+    "name": "NORTHEAST WHOLESALE CASH & CARRY",
+    "address": "#3119 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-04-15T15:15:10.000Z",
+    "expiryDate": "2026-04-14T15:15:10.000Z",
+    "coordinates": [
+      -113.9800559,
+      51.0993295
+    ],
+    "longitude": -113.9800559,
+    "latitude": 51.0993295,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15100167",
+  "fullDetails": {
+    "licenseNumber": "15100167",
+    "name": "M&M FOOD MARKET #332 SOUTH TRAIL CROSSING",
+    "address": "#11 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-03T08:39:04.000Z",
+    "expiryDate": "2026-12-02T08:39:04.000Z",
+    "coordinates": [
+      -113.9712591,
+      50.9305992
+    ],
+    "longitude": -113.9712591,
+    "latitude": 50.9305992,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12423851",
+  "fullDetails": {
+    "licenseNumber": "12423851",
+    "name": "POTTERY BARN #760",
+    "address": "#106B 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-01-23T09:02:04.000Z",
+    "expiryDate": "2027-01-22T09:02:04.000Z",
+    "coordinates": [
+      -114.073607,
+      50.9970009
+    ],
+    "longitude": -114.073607,
+    "latitude": 50.9970009,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

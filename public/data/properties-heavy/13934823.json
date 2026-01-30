@@ -1,0 +1,36 @@
+{
+  "id": "13934823",
+  "fullDetails": {
+    "licenseNumber": "13934823",
+    "name": "TRUSTORI",
+    "address": "#1103 230 EVERSYDE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-05-20T15:18:46.000Z",
+    "expiryDate": "2026-05-19T15:18:46.000Z",
+    "coordinates": [
+      -114.1101095,
+      50.9093628
+    ],
+    "longitude": -114.1101095,
+    "latitude": 50.9093628,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

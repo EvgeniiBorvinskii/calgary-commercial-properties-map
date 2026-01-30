@@ -1,0 +1,36 @@
+{
+  "id": "15954803",
+  "fullDetails": {
+    "licenseNumber": "15954803",
+    "name": "ABLO  BRAECENTRE",
+    "address": "#25A 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-11-19T12:11:11.000Z",
+    "expiryDate": "2026-11-18T12:11:10.000Z",
+    "coordinates": [
+      -114.1163088,
+      50.9529217
+    ],
+    "longitude": -114.1163088,
+    "latitude": 50.9529217,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

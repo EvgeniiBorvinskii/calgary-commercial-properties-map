@@ -1,0 +1,36 @@
+{
+  "id": "16631640",
+  "fullDetails": {
+    "licenseNumber": "16631640",
+    "name": "MAGIC BUDS CRANSTON",
+    "address": "#9 90 CRANLEIGH DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-06-19T14:03:29.000Z",
+    "expiryDate": "2026-06-18T14:03:29.000Z",
+    "coordinates": [
+      -113.9883723,
+      50.8934717
+    ],
+    "longitude": -113.9883723,
+    "latitude": 50.8934717,
+    "community": "CRANSTON",
+    "ward": "CRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

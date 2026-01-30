@@ -1,0 +1,37 @@
+{
+  "id": "12109534",
+  "fullDetails": {
+    "licenseNumber": "12109534",
+    "name": "CENTINI RESTAURANT & LOUNGE",
+    "address": "160 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2002-06-01T17:27:46.000Z",
+    "expiryDate": "2026-05-31T05:32:25.000Z",
+    "coordinates": [
+      -114.0608121,
+      51.0456316
+    ],
+    "longitude": -114.0608121,
+    "latitude": 51.0456316,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

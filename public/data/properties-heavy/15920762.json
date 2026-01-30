@@ -1,0 +1,36 @@
+{
+  "id": "15920762",
+  "fullDetails": {
+    "licenseNumber": "15920762",
+    "name": "BARROW COFFEE ROASTERS",
+    "address": "4806 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-07-30T09:50:31.000Z",
+    "expiryDate": "2026-07-29T09:50:31.000Z",
+    "coordinates": [
+      -114.0654161,
+      51.009946
+    ],
+    "longitude": -114.0654161,
+    "latitude": 51.009946,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

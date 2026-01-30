@@ -1,0 +1,36 @@
+{
+  "id": "632547",
+  "fullDetails": {
+    "licenseNumber": "632547",
+    "name": "FOX AIR SYSTEMS",
+    "address": "#8 4045 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-20T16:17:39.000Z",
+    "expiryDate": "2026-08-19T16:17:38.000Z",
+    "coordinates": [
+      -113.9799995,
+      50.9872635
+    ],
+    "longitude": -113.9799995,
+    "latitude": 50.9872635,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

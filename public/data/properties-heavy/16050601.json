@@ -1,0 +1,37 @@
+{
+  "id": "16050601",
+  "fullDetails": {
+    "licenseNumber": "16050601",
+    "name": "MARBLE SLAB ROYAL OAK",
+    "address": "#2114 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-23T11:14:55.000Z",
+    "expiryDate": "2026-06-22T11:14:55.000Z",
+    "coordinates": [
+      -114.2101149,
+      51.1520316
+    ],
+    "longitude": -114.2101149,
+    "latitude": 51.1520316,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

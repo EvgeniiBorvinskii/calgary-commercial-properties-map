@@ -1,0 +1,37 @@
+{
+  "id": "12546164",
+  "fullDetails": {
+    "licenseNumber": "12546164",
+    "name": "HEATING & COOLING FUNDAMENTS",
+    "address": "#2150 76 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-31T14:11:27.000Z",
+    "expiryDate": "2026-12-30T14:11:26.000Z",
+    "coordinates": [
+      -113.9709826,
+      51.1079191
+    ],
+    "longitude": -113.9709826,
+    "latitude": 51.1079191,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

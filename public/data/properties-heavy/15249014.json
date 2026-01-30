@@ -1,0 +1,37 @@
+{
+  "id": "15249014",
+  "fullDetails": {
+    "licenseNumber": "15249014",
+    "name": "ICON AGENCY",
+    "address": "#3 3925 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2019-04-15T11:11:06.000Z",
+    "expiryDate": "2026-04-14T11:11:06.000Z",
+    "coordinates": [
+      -113.9775468,
+      51.0016076
+    ],
+    "longitude": -113.9775468,
+    "latitude": 51.0016076,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12916573",
+  "fullDetails": {
+    "licenseNumber": "12916573",
+    "name": "GLP CANADA",
+    "address": "#15 7503 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2010-03-23T14:17:17.000Z",
+    "expiryDate": "2026-03-22T14:17:17.000Z",
+    "coordinates": [
+      -113.9833844,
+      50.9861496
+    ],
+    "longitude": -113.9833844,
+    "latitude": 50.9861496,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

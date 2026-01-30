@@ -1,0 +1,36 @@
+{
+  "id": "980441",
+  "fullDetails": {
+    "licenseNumber": "980441",
+    "name": "PANDELL TECHNOLOGY",
+    "address": "#400 4954 RICHARD RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-01-16T05:35:08.000Z",
+    "expiryDate": "2027-01-15T05:35:08.000Z",
+    "coordinates": [
+      -114.126986,
+      51.0098878
+    ],
+    "longitude": -114.126986,
+    "latitude": 51.0098878,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

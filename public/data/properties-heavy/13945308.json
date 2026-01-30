@@ -1,0 +1,36 @@
+{
+  "id": "13945308",
+  "fullDetails": {
+    "licenseNumber": "13945308",
+    "name": "INTERNATIONAL ANIMAL LOUNGE",
+    "address": "119 AERO WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2015-04-28T08:18:41.000Z",
+    "expiryDate": "2026-04-27T08:18:41.000Z",
+    "coordinates": [
+      -114.0361803,
+      51.1326912
+    ],
+    "longitude": -114.0361803,
+    "latitude": 51.1326912,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

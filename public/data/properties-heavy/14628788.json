@@ -1,0 +1,36 @@
+{
+  "id": "14628788",
+  "fullDetails": {
+    "licenseNumber": "14628788",
+    "name": "BEACON HEIGHTS PAINT AND DESIGN",
+    "address": "#310 12024 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-18T09:44:12.000Z",
+    "expiryDate": "2026-08-17T09:44:12.000Z",
+    "coordinates": [
+      -114.1620632,
+      51.1615803
+    ],
+    "longitude": -114.1620632,
+    "latitude": 51.1615803,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

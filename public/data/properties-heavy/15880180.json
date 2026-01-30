@@ -1,0 +1,37 @@
+{
+  "id": "15880180",
+  "fullDetails": {
+    "licenseNumber": "15880180",
+    "name": "NOBLE AUTOBODY REPAIR",
+    "address": "4128 17 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "subType": "AUTO BODY SHOP",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES,\nAUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2020-04-03T12:56:24.000Z",
+    "expiryDate": "2026-04-02T12:56:24.000Z",
+    "coordinates": [
+      -114.0187583,
+      51.0172639
+    ],
+    "longitude": -114.0187583,
+    "latitude": 51.0172639,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

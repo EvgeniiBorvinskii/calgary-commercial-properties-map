@@ -1,0 +1,36 @@
+{
+  "id": "12966917",
+  "fullDetails": {
+    "licenseNumber": "12966917",
+    "name": "MO FAN TAICHI & WUSHU ACADEMY",
+    "address": "#108 5621 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-04-23T15:14:20.000Z",
+    "expiryDate": "2026-04-22T15:14:20.000Z",
+    "coordinates": [
+      -114.0372061,
+      51.1028632
+    ],
+    "longitude": -114.0372061,
+    "latitude": 51.1028632,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

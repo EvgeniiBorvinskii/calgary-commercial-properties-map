@@ -1,0 +1,36 @@
+{
+  "id": "53090",
+  "fullDetails": {
+    "licenseNumber": "53090",
+    "name": "ROCKWELL AUTOMATION CANADA",
+    "address": "#103 709 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-08-10T05:32:23.000Z",
+    "expiryDate": "2026-08-09T05:32:22.000Z",
+    "coordinates": [
+      -114.048716,
+      50.9958064
+    ],
+    "longitude": -114.048716,
+    "latitude": 50.9958064,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

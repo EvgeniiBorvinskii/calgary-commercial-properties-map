@@ -1,0 +1,37 @@
+{
+  "id": "16131633",
+  "fullDetails": {
+    "licenseNumber": "16131633",
+    "name": "GURU INDIA RESTAURANT",
+    "address": "618 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2022-04-06T13:42:06.000Z",
+    "expiryDate": "2026-04-05T13:42:06.000Z",
+    "coordinates": [
+      -113.9694133,
+      51.1468434
+    ],
+    "longitude": -113.9694133,
+    "latitude": 51.1468434,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

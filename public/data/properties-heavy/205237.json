@@ -1,0 +1,36 @@
+{
+  "id": "205237",
+  "fullDetails": {
+    "licenseNumber": "205237",
+    "name": "BOTTING AND ASSOCIATES ALBERTA",
+    "address": "#107 3445 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-04-11T14:20:35.000Z",
+    "expiryDate": "2026-04-10T14:20:35.000Z",
+    "coordinates": [
+      -113.9880822,
+      50.9486551
+    ],
+    "longitude": -113.9880822,
+    "latitude": 50.9486551,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

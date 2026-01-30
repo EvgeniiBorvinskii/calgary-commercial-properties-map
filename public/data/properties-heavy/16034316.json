@@ -1,0 +1,36 @@
+{
+  "id": "16034316",
+  "fullDetails": {
+    "licenseNumber": "16034316",
+    "name": "HAIRSENSE BEAUTY SUPPLY",
+    "address": "9659 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-06-02T07:57:29.000Z",
+    "expiryDate": "2026-06-01T07:57:29.000Z",
+    "coordinates": [
+      -114.0736671,
+      50.9680705
+    ],
+    "longitude": -114.0736671,
+    "latitude": 50.9680705,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

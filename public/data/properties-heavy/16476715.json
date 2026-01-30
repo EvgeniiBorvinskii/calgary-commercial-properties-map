@@ -1,0 +1,37 @@
+{
+  "id": "16476715",
+  "fullDetails": {
+    "licenseNumber": "16476715",
+    "name": "HIMALAYAN MOOSE (THE)",
+    "address": "#321 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-09T15:53:55.000Z",
+    "expiryDate": "2026-04-08T15:53:55.000Z",
+    "coordinates": [
+      -113.9851506,
+      51.0825362
+    ],
+    "longitude": -113.9851506,
+    "latitude": 51.0825362,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

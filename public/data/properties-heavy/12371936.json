@@ -1,0 +1,36 @@
+{
+  "id": "12371936",
+  "fullDetails": {
+    "licenseNumber": "12371936",
+    "name": "CGI INFORMATION SYSTEMS AND MANAGEMENT CONSULTANTS",
+    "address": "#500 444 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-12-27T09:08:11.000Z",
+    "expiryDate": "2026-12-26T09:08:11.000Z",
+    "coordinates": [
+      -114.0709171,
+      51.0469931
+    ],
+    "longitude": -114.0709171,
+    "latitude": 51.0469931,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

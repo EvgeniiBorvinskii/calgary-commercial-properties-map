@@ -1,0 +1,36 @@
+{
+  "id": "16022212",
+  "fullDetails": {
+    "licenseNumber": "16022212",
+    "name": "PETSMART 2782",
+    "address": "110 NA'A PZ SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-03T14:29:59.000Z",
+    "expiryDate": "2026-05-02T14:29:58.000Z",
+    "coordinates": [
+      -114.194474,
+      51.0787483
+    ],
+    "longitude": -114.194474,
+    "latitude": 51.0787483,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

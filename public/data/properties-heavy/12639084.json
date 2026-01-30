@@ -1,0 +1,36 @@
+{
+  "id": "12639084",
+  "fullDetails": {
+    "licenseNumber": "12639084",
+    "name": "LAD POWER AND CONTROLS",
+    "address": "318 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2016-03-30T12:42:33.000Z",
+    "expiryDate": "2026-03-29T12:42:33.000Z",
+    "coordinates": [
+      -114.0565389,
+      51.0890287
+    ],
+    "longitude": -114.0565389,
+    "latitude": 51.0890287,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

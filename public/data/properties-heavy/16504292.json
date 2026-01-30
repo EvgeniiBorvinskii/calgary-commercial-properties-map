@@ -1,0 +1,36 @@
+{
+  "id": "16504292",
+  "fullDetails": {
+    "licenseNumber": "16504292",
+    "name": "PWF FLOORS AND DECORS",
+    "address": "1010 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-10T12:38:35.000Z",
+    "expiryDate": "2026-10-09T12:38:35.000Z",
+    "coordinates": [
+      -114.0399969,
+      51.0165494
+    ],
+    "longitude": -114.0399969,
+    "latitude": 51.0165494,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

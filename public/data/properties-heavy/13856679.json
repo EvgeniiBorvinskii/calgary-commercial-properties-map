@@ -1,0 +1,36 @@
+{
+  "id": "13856679",
+  "fullDetails": {
+    "licenseNumber": "13856679",
+    "name": "MODERN PLASTICS",
+    "address": "9330 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2015-03-12T14:33:47.000Z",
+    "expiryDate": "2026-03-11T14:33:47.000Z",
+    "coordinates": [
+      -113.9633014,
+      50.9702305
+    ],
+    "longitude": -113.9633014,
+    "latitude": 50.9702305,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

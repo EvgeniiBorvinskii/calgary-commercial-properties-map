@@ -1,0 +1,36 @@
+{
+  "id": "13707492",
+  "fullDetails": {
+    "licenseNumber": "13707492",
+    "name": "IRON BOW FLY SHOP",
+    "address": "#163 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-09-05T09:52:40.000Z",
+    "expiryDate": "2026-09-04T09:52:40.000Z",
+    "coordinates": [
+      -114.1600997,
+      51.106058
+    ],
+    "longitude": -114.1600997,
+    "latitude": 51.106058,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

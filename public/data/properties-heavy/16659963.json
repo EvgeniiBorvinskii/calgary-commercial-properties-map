@@ -1,0 +1,36 @@
+{
+  "id": "16659963",
+  "fullDetails": {
+    "licenseNumber": "16659963",
+    "name": "KILLARNEY ANIMAL HOSPITAL",
+    "address": "#2 2711 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-29T11:36:29.000Z",
+    "expiryDate": "2026-07-28T11:36:29.000Z",
+    "coordinates": [
+      -114.1247594,
+      51.0375115
+    ],
+    "longitude": -114.1247594,
+    "latitude": 51.0375115,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

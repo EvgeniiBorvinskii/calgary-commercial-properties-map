@@ -1,0 +1,37 @@
+{
+  "id": "261198",
+  "fullDetails": {
+    "licenseNumber": "261198",
+    "name": "HERITAGE PARK",
+    "address": "1900 HERITAGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "CHARITABLE ORGANIZATION,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nCHARITABLE ORGANIZATION,\nMARKET,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1082581,
+      50.9848379
+    ],
+    "longitude": -114.1082581,
+    "latitude": 50.9848379,
+    "community": "GLENMORE PARK",
+    "ward": "GPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

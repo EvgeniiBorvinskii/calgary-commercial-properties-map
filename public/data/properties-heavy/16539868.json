@@ -1,0 +1,36 @@
+{
+  "id": "16539868",
+  "fullDetails": {
+    "licenseNumber": "16539868",
+    "name": "MEHAR MOTORS",
+    "address": "#103 3360 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-25T08:23:20.000Z",
+    "expiryDate": "2026-10-24T08:23:19.000Z",
+    "coordinates": [
+      -113.9971258,
+      51.0829784
+    ],
+    "longitude": -113.9971258,
+    "latitude": 51.0829784,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

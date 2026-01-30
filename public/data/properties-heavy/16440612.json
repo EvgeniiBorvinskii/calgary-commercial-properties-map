@@ -1,0 +1,37 @@
+{
+  "id": "16440612",
+  "fullDetails": {
+    "licenseNumber": "16440612",
+    "name": "PINK PEARL",
+    "address": "4351 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-02-05T13:40:53.000Z",
+    "expiryDate": "2027-02-04T13:40:53.000Z",
+    "coordinates": [
+      -114.0656078,
+      51.0146789
+    ],
+    "longitude": -114.0656078,
+    "latitude": 51.0146789,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

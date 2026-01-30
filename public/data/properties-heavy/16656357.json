@@ -1,0 +1,36 @@
+{
+  "id": "16656357",
+  "fullDetails": {
+    "licenseNumber": "16656357",
+    "name": "COREPOINT MECHANICAL",
+    "address": "4393 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-03T12:01:51.000Z",
+    "expiryDate": "2026-12-02T12:01:50.000Z",
+    "coordinates": [
+      -114.0284261,
+      51.0914235
+    ],
+    "longitude": -114.0284261,
+    "latitude": 51.0914235,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

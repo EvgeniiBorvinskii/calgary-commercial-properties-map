@@ -1,0 +1,36 @@
+{
+  "id": "14648190",
+  "fullDetails": {
+    "licenseNumber": "14648190",
+    "name": "CANTERRA MARKET & DELI",
+    "address": "#210 634 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-06T10:58:06.000Z",
+    "expiryDate": "2026-10-05T10:58:06.000Z",
+    "coordinates": [
+      -114.075746,
+      51.0481283
+    ],
+    "longitude": -114.075746,
+    "latitude": 51.0481283,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

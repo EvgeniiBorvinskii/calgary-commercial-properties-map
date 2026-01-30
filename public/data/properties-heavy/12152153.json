@@ -1,0 +1,36 @@
+{
+  "id": "12152153",
+  "fullDetails": {
+    "licenseNumber": "12152153",
+    "name": "ELITE SPORTSWEAR AWARDS PROMOTIONAL PRODUCTS",
+    "address": "#10 2239 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2004-03-13T05:35:11.000Z",
+    "expiryDate": "2026-03-12T05:35:11.000Z",
+    "coordinates": [
+      -114.0067897,
+      51.0950198
+    ],
+    "longitude": -114.0067897,
+    "latitude": 51.0950198,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

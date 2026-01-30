@@ -1,0 +1,37 @@
+{
+  "id": "16206971",
+  "fullDetails": {
+    "licenseNumber": "16206971",
+    "name": "CITRUS LOUNGE",
+    "address": "1131 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2023-04-03T07:57:37.000Z",
+    "expiryDate": "2026-04-02T07:57:37.000Z",
+    "coordinates": [
+      -114.088917,
+      51.0375377
+    ],
+    "longitude": -114.088917,
+    "latitude": 51.0375377,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

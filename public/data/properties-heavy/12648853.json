@@ -1,0 +1,36 @@
+{
+  "id": "12648853",
+  "fullDetails": {
+    "licenseNumber": "12648853",
+    "name": "310-DUMP",
+    "address": "6865 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "status": "active",
+    "issuedDate": "2022-11-10T11:26:08.000Z",
+    "expiryDate": "2026-11-09T11:26:08.000Z",
+    "coordinates": [
+      -113.9131573,
+      50.9915909
+    ],
+    "longitude": -113.9131573,
+    "latitude": 50.9915909,
+    "community": "GREAT PLAINS EAST",
+    "ward": "GPE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

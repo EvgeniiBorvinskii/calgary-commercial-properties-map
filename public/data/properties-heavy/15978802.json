@@ -1,0 +1,36 @@
+{
+  "id": "15978802",
+  "fullDetails": {
+    "licenseNumber": "15978802",
+    "name": "FAMILY DISCOUNT TIRE CENTRE",
+    "address": "3515G 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-03-25T08:59:26.000Z",
+    "expiryDate": "2026-03-24T08:59:26.000Z",
+    "coordinates": [
+      -113.9898473,
+      51.08455
+    ],
+    "longitude": -113.9898473,
+    "latitude": 51.08455,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

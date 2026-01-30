@@ -1,0 +1,36 @@
+{
+  "id": "16223372",
+  "fullDetails": {
+    "licenseNumber": "16223372",
+    "name": "EDO JAPAN",
+    "address": "#140 3420 69 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-10-19T07:54:21.000Z",
+    "expiryDate": "2026-10-18T07:54:20.000Z",
+    "coordinates": [
+      -114.1873151,
+      51.0828776
+    ],
+    "longitude": -114.1873151,
+    "latitude": 51.0828776,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16328536",
+  "fullDetails": {
+    "licenseNumber": "16328536",
+    "name": "3 LINES TATTOO",
+    "address": "#220A 15229 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (PIERCING) (TATTOO)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (PIERCING) (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-08-29T15:38:48.000Z",
+    "expiryDate": "2026-08-28T15:38:48.000Z",
+    "coordinates": [
+      -114.0675999,
+      50.9161815
+    ],
+    "longitude": -114.0675999,
+    "latitude": 50.9161815,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

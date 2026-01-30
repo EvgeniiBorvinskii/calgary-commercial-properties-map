@@ -1,0 +1,37 @@
+{
+  "id": "15341613",
+  "fullDetails": {
+    "licenseNumber": "15341613",
+    "name": "VENUE 308",
+    "address": "#110 308 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-23T10:25:56.000Z",
+    "expiryDate": "2026-10-22T10:25:55.000Z",
+    "coordinates": [
+      -114.0579974,
+      51.04248
+    ],
+    "longitude": -114.0579974,
+    "latitude": 51.04248,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

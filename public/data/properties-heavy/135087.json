@@ -1,0 +1,37 @@
+{
+  "id": "135087",
+  "fullDetails": {
+    "licenseNumber": "135087",
+    "name": "LONDON DRUGS STORE #30",
+    "address": "#C1 8330 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.069696,
+      50.9785797
+    ],
+    "longitude": -114.069696,
+    "latitude": 50.9785797,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

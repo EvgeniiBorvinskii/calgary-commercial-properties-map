@@ -1,0 +1,36 @@
+{
+  "id": "14956502",
+  "fullDetails": {
+    "licenseNumber": "14956502",
+    "name": "ROAD RUNNER DRIVING SCHOOL",
+    "address": "#245 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2024-10-03T10:51:32.000Z",
+    "expiryDate": "2026-10-02T10:51:32.000Z",
+    "coordinates": [
+      -113.9575595,
+      51.0365403
+    ],
+    "longitude": -113.9575595,
+    "latitude": 51.0365403,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

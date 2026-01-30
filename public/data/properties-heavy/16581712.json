@@ -1,0 +1,36 @@
+{
+  "id": "16581712",
+  "fullDetails": {
+    "licenseNumber": "16581712",
+    "name": "CALGARY RECOVERY LOUNGE",
+    "address": "#101 3507 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-02-27T16:07:43.000Z",
+    "expiryDate": "2026-02-26T16:07:42.000Z",
+    "coordinates": [
+      -114.1372577,
+      51.03752
+    ],
+    "longitude": -114.1372577,
+    "latitude": 51.03752,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

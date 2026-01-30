@@ -1,0 +1,37 @@
+{
+  "id": "16465692",
+  "fullDetails": {
+    "licenseNumber": "16465692",
+    "name": "BOBBYS PLACE PUB",
+    "address": "#2150 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2024-03-19T13:15:06.000Z",
+    "expiryDate": "2026-03-18T13:15:05.000Z",
+    "coordinates": [
+      -114.0098012,
+      50.8627294
+    ],
+    "longitude": -114.0098012,
+    "latitude": 50.8627294,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

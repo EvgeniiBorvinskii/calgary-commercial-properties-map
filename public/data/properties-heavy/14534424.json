@@ -1,0 +1,36 @@
+{
+  "id": "14534424",
+  "fullDetails": {
+    "licenseNumber": "14534424",
+    "name": "MAHOGANY VETERINARY CLINIC",
+    "address": "#1440 7 MAHOGANY PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-06-21T12:05:44.000Z",
+    "expiryDate": "2026-06-20T12:05:44.000Z",
+    "coordinates": [
+      -113.9411601,
+      50.8983231
+    ],
+    "longitude": -113.9411601,
+    "latitude": 50.8983231,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15583826",
+  "fullDetails": {
+    "licenseNumber": "15583826",
+    "name": "ESSENCE WELLNESS CLINIC",
+    "address": "#100 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-29T10:11:54.000Z",
+    "expiryDate": "2026-11-28T10:11:54.000Z",
+    "coordinates": [
+      -114.0698659,
+      50.9574243
+    ],
+    "longitude": -114.0698659,
+    "latitude": 50.9574243,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

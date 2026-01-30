@@ -1,0 +1,36 @@
+{
+  "id": "15969926",
+  "fullDetails": {
+    "licenseNumber": "15969926",
+    "name": "SPECLIGHT VENTURES",
+    "address": "#1 5656 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "active",
+    "issuedDate": "2021-07-16T14:52:48.000Z",
+    "expiryDate": "2026-07-15T14:52:48.000Z",
+    "coordinates": [
+      -114.0381601,
+      51.103668
+    ],
+    "longitude": -114.0381601,
+    "latitude": 51.103668,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

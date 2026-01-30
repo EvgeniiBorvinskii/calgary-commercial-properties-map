@@ -1,0 +1,36 @@
+{
+  "id": "13154323",
+  "fullDetails": {
+    "licenseNumber": "13154323",
+    "name": "ALL THINGS JILL",
+    "address": "529 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-02-26T16:09:45.000Z",
+    "expiryDate": "2027-02-25T16:09:45.000Z",
+    "coordinates": [
+      -114.0521271,
+      51.0098486
+    ],
+    "longitude": -114.0521271,
+    "latitude": 51.0098486,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

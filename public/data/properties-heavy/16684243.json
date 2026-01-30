@@ -1,0 +1,36 @@
+{
+  "id": "16684243",
+  "fullDetails": {
+    "licenseNumber": "16684243",
+    "name": "STINGLINE TATTOO",
+    "address": "#130 10 BRENTWOOD CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-11-06T15:13:34.000Z",
+    "expiryDate": "2026-11-05T15:13:33.000Z",
+    "coordinates": [
+      -114.1283015,
+      51.086808
+    ],
+    "longitude": -114.1283015,
+    "latitude": 51.086808,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

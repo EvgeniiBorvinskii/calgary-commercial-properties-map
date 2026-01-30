@@ -1,0 +1,36 @@
+{
+  "id": "16636284",
+  "fullDetails": {
+    "licenseNumber": "16636284",
+    "name": "JSK GROUP CANADA",
+    "address": "#340 600 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-21T10:11:11.000Z",
+    "expiryDate": "2026-07-20T10:11:11.000Z",
+    "coordinates": [
+      -114.2041298,
+      51.1295294
+    ],
+    "longitude": -114.2041298,
+    "latitude": 51.1295294,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

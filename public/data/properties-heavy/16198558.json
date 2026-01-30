@@ -1,0 +1,36 @@
+{
+  "id": "16198558",
+  "fullDetails": {
+    "licenseNumber": "16198558",
+    "name": "MILANO NAILS SPA",
+    "address": "#380 1000 HAMPTONS DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2022-12-07T12:39:09.000Z",
+    "expiryDate": "2026-12-06T12:39:09.000Z",
+    "coordinates": [
+      -114.1308141,
+      51.1412721
+    ],
+    "longitude": -114.1308141,
+    "latitude": 51.1412721,
+    "community": "HAMPTONS",
+    "ward": "HAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

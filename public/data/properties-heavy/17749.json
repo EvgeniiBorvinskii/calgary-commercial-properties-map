@@ -1,0 +1,36 @@
+{
+  "id": "17749",
+  "fullDetails": {
+    "licenseNumber": "17749",
+    "name": "STUDIO MOUNT ROYAL",
+    "address": "#500 1550 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2014-02-04T07:45:51.000Z",
+    "expiryDate": "2026-02-03T07:45:51.000Z",
+    "coordinates": [
+      -114.0811884,
+      51.0384166
+    ],
+    "longitude": -114.0811884,
+    "latitude": 51.0384166,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

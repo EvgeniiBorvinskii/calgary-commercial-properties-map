@@ -1,0 +1,36 @@
+{
+  "id": "14474142",
+  "fullDetails": {
+    "licenseNumber": "14474142",
+    "name": "MILLRISE SENIORS VILLAGE",
+    "address": "14911 5 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "status": "pending",
+    "issuedDate": "2017-03-28T12:02:14.000Z",
+    "expiryDate": "2026-03-27T12:02:14.000Z",
+    "coordinates": [
+      -114.073439,
+      50.9193635
+    ],
+    "longitude": -114.073439,
+    "latitude": 50.9193635,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

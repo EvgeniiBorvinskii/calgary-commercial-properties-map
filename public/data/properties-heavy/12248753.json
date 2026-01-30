@@ -1,0 +1,36 @@
+{
+  "id": "12248753",
+  "fullDetails": {
+    "licenseNumber": "12248753",
+    "name": "FANATTIC",
+    "address": "#154 555 SADDLEDOME RI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-12-02T05:45:52.000Z",
+    "expiryDate": "2026-12-01T05:45:52.000Z",
+    "coordinates": [
+      -114.0519846,
+      51.0374055
+    ],
+    "longitude": -114.0519846,
+    "latitude": 51.0374055,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

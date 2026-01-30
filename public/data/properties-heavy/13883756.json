@@ -1,0 +1,36 @@
+{
+  "id": "13883756",
+  "fullDetails": {
+    "licenseNumber": "13883756",
+    "name": "MODERN PURAIR CALGARY",
+    "address": "#14A 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2018-06-01T12:15:22.000Z",
+    "expiryDate": "2026-05-31T12:15:22.000Z",
+    "coordinates": [
+      -114.0001831,
+      51.0502634
+    ],
+    "longitude": -114.0001831,
+    "latitude": 51.0502634,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

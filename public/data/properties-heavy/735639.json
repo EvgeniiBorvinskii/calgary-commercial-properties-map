@@ -1,0 +1,36 @@
+{
+  "id": "735639",
+  "fullDetails": {
+    "licenseNumber": "735639",
+    "name": "SUMMIT SALON SERVICES",
+    "address": "#3 6320 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2011-02-18T08:28:49.000Z",
+    "expiryDate": "2026-02-17T08:28:49.000Z",
+    "coordinates": [
+      -114.0374572,
+      50.9966349
+    ],
+    "longitude": -114.0374572,
+    "latitude": 50.9966349,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

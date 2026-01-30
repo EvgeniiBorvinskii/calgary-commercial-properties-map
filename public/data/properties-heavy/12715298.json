@@ -1,0 +1,36 @@
+{
+  "id": "12715298",
+  "fullDetails": {
+    "licenseNumber": "12715298",
+    "name": "LILYS FASHION CREATIONS",
+    "address": "#140 155 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-02T05:33:31.000Z",
+    "expiryDate": "2026-11-01T05:33:31.000Z",
+    "coordinates": [
+      -114.1665655,
+      51.1698797
+    ],
+    "longitude": -114.1665655,
+    "latitude": 51.1698797,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

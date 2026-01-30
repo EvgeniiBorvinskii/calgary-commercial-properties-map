@@ -1,0 +1,37 @@
+{
+  "id": "15981921",
+  "fullDetails": {
+    "licenseNumber": "15981921",
+    "name": "PRECISION ENGRAVING",
+    "address": "938 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-12-06T16:11:36.000Z",
+    "expiryDate": "2026-12-05T16:11:36.000Z",
+    "coordinates": [
+      -114.040698,
+      51.0116834
+    ],
+    "longitude": -114.040698,
+    "latitude": 51.0116834,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

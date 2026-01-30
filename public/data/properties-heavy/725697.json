@@ -1,0 +1,36 @@
+{
+  "id": "725697",
+  "fullDetails": {
+    "licenseNumber": "725697",
+    "name": "GERMAN AUTOMOTIVE REPAIR",
+    "address": "11 CROWFOOT RI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-25T00:00:00.000Z",
+    "coordinates": [
+      -114.2113088,
+      51.1256513
+    ],
+    "longitude": -114.2113088,
+    "latitude": 51.1256513,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

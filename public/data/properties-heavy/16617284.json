@@ -1,0 +1,37 @@
+{
+  "id": "16617284",
+  "fullDetails": {
+    "licenseNumber": "16617284",
+    "name": "TACOS LOCOS",
+    "address": "#1502AT 2016D AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-07-14T16:14:07.000Z",
+    "expiryDate": "2026-07-13T16:14:06.000Z",
+    "coordinates": [
+      -114.0045825,
+      51.1303398
+    ],
+    "longitude": -114.0045825,
+    "latitude": 51.1303398,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

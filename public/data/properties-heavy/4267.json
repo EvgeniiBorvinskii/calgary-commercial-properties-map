@@ -1,0 +1,36 @@
+{
+  "id": "4267",
+  "fullDetails": {
+    "licenseNumber": "4267",
+    "name": "W F F FITTINGS & FLANGES",
+    "address": "#2 2807 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "pending",
+    "issuedDate": "2022-03-14T09:03:15.000Z",
+    "expiryDate": "2026-03-13T09:03:15.000Z",
+    "coordinates": [
+      -113.9965676,
+      50.956394
+    ],
+    "longitude": -113.9965676,
+    "latitude": 50.956394,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

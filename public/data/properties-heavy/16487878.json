@@ -1,0 +1,36 @@
+{
+  "id": "16487878",
+  "fullDetails": {
+    "licenseNumber": "16487878",
+    "name": "TRUSTPRO DEVELOPMENT",
+    "address": "130 BOWNESS CE NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-06T10:21:07.000Z",
+    "expiryDate": "2026-08-05T10:21:06.000Z",
+    "coordinates": [
+      -114.2009508,
+      51.090415
+    ],
+    "longitude": -114.2009508,
+    "latitude": 51.090415,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

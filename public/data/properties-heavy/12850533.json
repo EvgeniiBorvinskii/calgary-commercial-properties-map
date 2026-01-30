@@ -1,0 +1,36 @@
+{
+  "id": "12850533",
+  "fullDetails": {
+    "licenseNumber": "12850533",
+    "name": "BANANA REPUBLIC OUTLET #1060",
+    "address": "#220 8180 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-12-30T09:28:52.000Z",
+    "expiryDate": "2026-12-29T09:28:52.000Z",
+    "coordinates": [
+      -114.043941,
+      50.9790195
+    ],
+    "longitude": -114.043941,
+    "latitude": 50.9790195,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

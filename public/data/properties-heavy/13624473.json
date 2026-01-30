@@ -1,0 +1,36 @@
+{
+  "id": "13624473",
+  "fullDetails": {
+    "licenseNumber": "13624473",
+    "name": "SFC ENERGY",
+    "address": "#160 5730 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-09-22T12:43:46.000Z",
+    "expiryDate": "2026-09-21T12:43:46.000Z",
+    "coordinates": [
+      -113.9495798,
+      50.9830084
+    ],
+    "longitude": -113.9495798,
+    "latitude": 50.9830084,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

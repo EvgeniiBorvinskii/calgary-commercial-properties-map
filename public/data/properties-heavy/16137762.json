@@ -1,0 +1,36 @@
+{
+  "id": "16137762",
+  "fullDetails": {
+    "licenseNumber": "16137762",
+    "name": "MINGXIA CONSTRUCTION",
+    "address": "#5 2020 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-21T14:54:27.000Z",
+    "expiryDate": "2026-03-20T14:54:27.000Z",
+    "coordinates": [
+      -114.010314,
+      51.0842698
+    ],
+    "longitude": -114.010314,
+    "latitude": 51.0842698,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

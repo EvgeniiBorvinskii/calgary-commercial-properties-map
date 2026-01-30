@@ -1,0 +1,36 @@
+{
+  "id": "13813324",
+  "fullDetails": {
+    "licenseNumber": "13813324",
+    "name": "PUPPY IN MY POCKET",
+    "address": "34 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-05T08:56:40.000Z",
+    "expiryDate": "2026-05-04T08:56:40.000Z",
+    "coordinates": [
+      -113.9602468,
+      50.9153992
+    ],
+    "longitude": -113.9602468,
+    "latitude": 50.9153992,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

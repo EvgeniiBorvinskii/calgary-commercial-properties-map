@@ -1,0 +1,36 @@
+{
+  "id": "16630527",
+  "fullDetails": {
+    "licenseNumber": "16630527",
+    "name": "VALUE BUDS AT CORNERSTONE",
+    "address": "#260 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-08-15T16:06:18.000Z",
+    "expiryDate": "2026-08-14T16:06:18.000Z",
+    "coordinates": [
+      -113.9405171,
+      51.1558133
+    ],
+    "longitude": -113.9405171,
+    "latitude": 51.1558133,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

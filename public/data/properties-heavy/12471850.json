@@ -1,0 +1,36 @@
+{
+  "id": "12471850",
+  "fullDetails": {
+    "licenseNumber": "12471850",
+    "name": "MICHAEL HILL JEWELLER",
+    "address": "#263 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2006-03-22T05:33:34.000Z",
+    "expiryDate": "2026-03-21T05:33:34.000Z",
+    "coordinates": [
+      -113.9856061,
+      51.0741246
+    ],
+    "longitude": -113.9856061,
+    "latitude": 51.0741246,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

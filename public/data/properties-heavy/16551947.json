@@ -1,0 +1,36 @@
+{
+  "id": "16551947",
+  "fullDetails": {
+    "licenseNumber": "16551947",
+    "name": "MARAND ENGINES",
+    "address": "#9 1667 38 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-03T09:35:35.000Z",
+    "expiryDate": "2026-04-02T09:35:34.000Z",
+    "coordinates": [
+      -114.0232231,
+      51.0199093
+    ],
+    "longitude": -114.0232231,
+    "latitude": 51.0199093,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

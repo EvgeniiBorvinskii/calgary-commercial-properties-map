@@ -1,0 +1,37 @@
+{
+  "id": "15978844",
+  "fullDetails": {
+    "licenseNumber": "15978844",
+    "name": "GLOBE AUCTIONS",
+    "address": "#14 2010 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-09-27T12:17:01.000Z",
+    "expiryDate": "2026-09-26T12:17:01.000Z",
+    "coordinates": [
+      -114.01035,
+      51.0800513
+    ],
+    "longitude": -114.01035,
+    "latitude": 51.0800513,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

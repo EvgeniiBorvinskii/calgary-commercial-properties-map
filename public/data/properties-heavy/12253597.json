@@ -1,0 +1,36 @@
+{
+  "id": "12253597",
+  "fullDetails": {
+    "licenseNumber": "12253597",
+    "name": "ANDERSEN STEEL FABRICATION",
+    "address": "515B 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-01-30T15:55:52.000Z",
+    "expiryDate": "2027-01-29T15:55:52.000Z",
+    "coordinates": [
+      -114.0514521,
+      51.0847353
+    ],
+    "longitude": -114.0514521,
+    "latitude": 51.0847353,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

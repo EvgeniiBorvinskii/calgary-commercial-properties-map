@@ -1,0 +1,36 @@
+{
+  "id": "16199432",
+  "fullDetails": {
+    "licenseNumber": "16199432",
+    "name": "SURI MANUFACTURING",
+    "address": "#12 4045 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-01-16T15:16:31.000Z",
+    "expiryDate": "2027-01-15T15:16:31.000Z",
+    "coordinates": [
+      -113.9799974,
+      50.9869823
+    ],
+    "longitude": -113.9799974,
+    "latitude": 50.9869823,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

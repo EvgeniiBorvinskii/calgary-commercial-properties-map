@@ -1,0 +1,36 @@
+{
+  "id": "15913320",
+  "fullDetails": {
+    "licenseNumber": "15913320",
+    "name": "TRIPLE O'S #215 DUFFERIN",
+    "address": "5315 DUFFERIN BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-07-22T12:35:58.000Z",
+    "expiryDate": "2026-07-21T12:35:58.000Z",
+    "coordinates": [
+      -113.9576793,
+      50.9536997
+    ],
+    "longitude": -113.9576793,
+    "latitude": 50.9536997,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

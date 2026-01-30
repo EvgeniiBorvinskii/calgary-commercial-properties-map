@@ -1,0 +1,36 @@
+{
+  "id": "16435919",
+  "fullDetails": {
+    "licenseNumber": "16435919",
+    "name": "THE PINNACLE - AVENUE LIVING",
+    "address": "9600 SOUTHLAND CI SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-11-01T16:21:04.000Z",
+    "expiryDate": "2026-10-31T16:21:04.000Z",
+    "coordinates": [
+      -114.0740777,
+      50.96758
+    ],
+    "longitude": -114.0740777,
+    "latitude": 50.96758,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

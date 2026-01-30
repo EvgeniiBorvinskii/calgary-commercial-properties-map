@@ -1,0 +1,36 @@
+{
+  "id": "13731419",
+  "fullDetails": {
+    "licenseNumber": "13731419",
+    "name": "PARTSOURCE #716",
+    "address": "3708 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-01-24T05:33:47.000Z",
+    "expiryDate": "2027-01-23T05:33:47.000Z",
+    "coordinates": [
+      -114.1398454,
+      51.0385545
+    ],
+    "longitude": -114.1398454,
+    "latitude": 51.0385545,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

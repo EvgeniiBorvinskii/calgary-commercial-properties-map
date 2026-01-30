@@ -1,0 +1,37 @@
+{
+  "id": "16218521",
+  "fullDetails": {
+    "licenseNumber": "16218521",
+    "name": "CYNTECH",
+    "address": "31 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-12-15T11:21:49.000Z",
+    "expiryDate": "2026-12-14T11:21:49.000Z",
+    "coordinates": [
+      -113.9099415,
+      50.9676327
+    ],
+    "longitude": -113.9099415,
+    "latitude": 50.9676327,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

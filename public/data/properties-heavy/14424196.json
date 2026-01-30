@@ -1,0 +1,37 @@
+{
+  "id": "14424196",
+  "fullDetails": {
+    "licenseNumber": "14424196",
+    "name": "TWISTED ELEMENT (THE)",
+    "address": "1006 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-02-02T11:56:58.000Z",
+    "expiryDate": "2027-02-01T11:56:58.000Z",
+    "coordinates": [
+      -114.0843875,
+      51.0432329
+    ],
+    "longitude": -114.0843875,
+    "latitude": 51.0432329,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

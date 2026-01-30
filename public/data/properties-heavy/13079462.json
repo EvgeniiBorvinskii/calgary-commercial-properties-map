@@ -1,0 +1,36 @@
+{
+  "id": "13079462",
+  "fullDetails": {
+    "licenseNumber": "13079462",
+    "name": "BLACK EARTH FLORAL GALLERY",
+    "address": "808 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-30T07:26:14.000Z",
+    "expiryDate": "2026-03-29T07:26:14.000Z",
+    "coordinates": [
+      -114.0820704,
+      51.0098008
+    ],
+    "longitude": -114.0820704,
+    "latitude": 51.0098008,
+    "community": "BRITANNIA",
+    "ward": "BRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

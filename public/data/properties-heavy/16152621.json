@@ -1,0 +1,37 @@
+{
+  "id": "16152621",
+  "fullDetails": {
+    "licenseNumber": "16152621",
+    "name": "SAIGON PEARL RESTAURANT",
+    "address": "#901 9650 HARVEST HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-05-19T08:51:46.000Z",
+    "expiryDate": "2026-05-18T08:51:46.000Z",
+    "coordinates": [
+      -114.0672961,
+      51.1405201
+    ],
+    "longitude": -114.0672961,
+    "latitude": 51.1405201,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

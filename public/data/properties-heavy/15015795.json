@@ -1,0 +1,37 @@
+{
+  "id": "15015795",
+  "fullDetails": {
+    "licenseNumber": "15015795",
+    "name": "JMJ TOP EXPERTS CANADA",
+    "address": "4930 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-04-29T14:39:35.000Z",
+    "expiryDate": "2026-04-28T14:39:35.000Z",
+    "coordinates": [
+      -113.9634884,
+      50.9880257
+    ],
+    "longitude": -113.9634884,
+    "latitude": 50.9880257,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

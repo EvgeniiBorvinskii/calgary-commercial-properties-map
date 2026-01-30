@@ -1,0 +1,37 @@
+{
+  "id": "15851017",
+  "fullDetails": {
+    "licenseNumber": "15851017",
+    "name": "MANNA KOREAN CUISINE",
+    "address": "#104 3400 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-12-13T08:42:56.000Z",
+    "expiryDate": "2026-12-12T08:42:55.000Z",
+    "coordinates": [
+      -114.0943796,
+      51.082577
+    ],
+    "longitude": -114.0943796,
+    "latitude": 51.082577,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

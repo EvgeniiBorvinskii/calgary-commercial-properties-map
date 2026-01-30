@@ -1,0 +1,36 @@
+{
+  "id": "12343646",
+  "fullDetails": {
+    "licenseNumber": "12343646",
+    "name": "HARVEST HILLS ACCUPUNCTURE & MASSAGE CLINIC",
+    "address": "#205 178 96 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2005-02-24T12:35:52.000Z",
+    "expiryDate": "2026-02-23T12:35:52.000Z",
+    "coordinates": [
+      -114.0661973,
+      51.1420838
+    ],
+    "longitude": -114.0661973,
+    "latitude": 51.1420838,
+    "community": "HARVEST HILLS",
+    "ward": "HAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16039265",
+  "fullDetails": {
+    "licenseNumber": "16039265",
+    "name": "BB TAEKWONDO",
+    "address": "#9004 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-27T09:41:25.000Z",
+    "expiryDate": "2026-08-26T09:41:25.000Z",
+    "coordinates": [
+      -114.1085905,
+      51.1760414
+    ],
+    "longitude": -114.1085905,
+    "latitude": 51.1760414,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13067038",
+  "fullDetails": {
+    "licenseNumber": "13067038",
+    "name": "PANELFLEX",
+    "address": "#9 7408 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-01-18T14:43:46.000Z",
+    "expiryDate": "2027-01-17T14:43:46.000Z",
+    "coordinates": [
+      -113.9759664,
+      50.9877076
+    ],
+    "longitude": -113.9759664,
+    "latitude": 50.9877076,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

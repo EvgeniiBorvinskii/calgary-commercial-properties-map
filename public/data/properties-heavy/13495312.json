@@ -1,0 +1,36 @@
+{
+  "id": "13495312",
+  "fullDetails": {
+    "licenseNumber": "13495312",
+    "name": "STEALTH MONITORING / UCIT ONLINE SECURITY",
+    "address": "4636 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2017-06-13T08:46:05.000Z",
+    "expiryDate": "2026-06-12T08:46:05.000Z",
+    "coordinates": [
+      -114.0359383,
+      51.0942523
+    ],
+    "longitude": -114.0359383,
+    "latitude": 51.0942523,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

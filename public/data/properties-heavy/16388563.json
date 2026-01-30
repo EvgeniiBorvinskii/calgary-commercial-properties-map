@@ -1,0 +1,37 @@
+{
+  "id": "16388563",
+  "fullDetails": {
+    "licenseNumber": "16388563",
+    "name": "CHUFF HOUSE THE SMOKERS SPOT",
+    "address": "#2 5555 STRATHCONA HL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-09-19T05:34:17.000Z",
+    "expiryDate": "2026-09-18T05:34:17.000Z",
+    "coordinates": [
+      -114.1684624,
+      51.0516394
+    ],
+    "longitude": -114.1684624,
+    "latitude": 51.0516394,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

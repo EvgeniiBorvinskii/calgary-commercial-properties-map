@@ -1,0 +1,37 @@
+{
+  "id": "16058349",
+  "fullDetails": {
+    "licenseNumber": "16058349",
+    "name": "BOWNESS ARTS",
+    "address": "6326 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2021-10-21T13:11:17.000Z",
+    "expiryDate": "2026-10-20T13:11:17.000Z",
+    "coordinates": [
+      -114.1790313,
+      51.0855807
+    ],
+    "longitude": -114.1790313,
+    "latitude": 51.0855807,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

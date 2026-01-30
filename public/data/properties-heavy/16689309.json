@@ -1,0 +1,37 @@
+{
+  "id": "16689309",
+  "fullDetails": {
+    "licenseNumber": "16689309",
+    "name": "LAND ROVER ROYAL OAK",
+    "address": "7755 110 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-10-29T09:27:52.000Z",
+    "expiryDate": "2026-10-28T09:27:52.000Z",
+    "coordinates": [
+      -114.1979223,
+      51.151588
+    ],
+    "longitude": -114.1979223,
+    "latitude": 51.151588,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

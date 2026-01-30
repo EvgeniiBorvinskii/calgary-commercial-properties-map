@@ -1,0 +1,37 @@
+{
+  "id": "16197980",
+  "fullDetails": {
+    "licenseNumber": "16197980",
+    "name": "SKATE LAB (THE)",
+    "address": "#130 7777 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2022-12-15T16:48:52.000Z",
+    "expiryDate": "2026-12-14T16:48:52.000Z",
+    "coordinates": [
+      -114.0726695,
+      50.9841472
+    ],
+    "longitude": -114.0726695,
+    "latitude": 50.9841472,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

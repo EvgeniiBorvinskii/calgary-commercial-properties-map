@@ -1,0 +1,37 @@
+{
+  "id": "12585063",
+  "fullDetails": {
+    "licenseNumber": "12585063",
+    "name": "DOLLARAMA",
+    "address": "#180 8220 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-06-21T09:59:41.000Z",
+    "expiryDate": "2026-06-20T09:59:41.000Z",
+    "coordinates": [
+      -114.0696509,
+      51.1274241
+    ],
+    "longitude": -114.0696509,
+    "latitude": 51.1274241,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

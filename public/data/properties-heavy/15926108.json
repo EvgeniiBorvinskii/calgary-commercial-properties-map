@@ -1,0 +1,37 @@
+{
+  "id": "15926108",
+  "fullDetails": {
+    "licenseNumber": "15926108",
+    "name": "SMS APPLIANCES",
+    "address": "#105 5855 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-10-22T13:23:56.000Z",
+    "expiryDate": "2026-10-21T13:23:55.000Z",
+    "coordinates": [
+      -114.0414902,
+      51.0030393
+    ],
+    "longitude": -114.0414902,
+    "latitude": 51.0030393,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

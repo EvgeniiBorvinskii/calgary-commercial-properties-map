@@ -1,0 +1,36 @@
+{
+  "id": "114108",
+  "fullDetails": {
+    "licenseNumber": "114108",
+    "name": "MASTERBUILT MECHANICAL",
+    "address": "#1 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2004-08-25T05:36:37.000Z",
+    "expiryDate": "2026-08-24T05:36:36.000Z",
+    "coordinates": [
+      -114.0502756,
+      51.1019333
+    ],
+    "longitude": -114.0502756,
+    "latitude": 51.1019333,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

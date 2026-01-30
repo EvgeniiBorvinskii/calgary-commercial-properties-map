@@ -1,0 +1,37 @@
+{
+  "id": "16474413",
+  "fullDetails": {
+    "licenseNumber": "16474413",
+    "name": "ELBOW ESSO",
+    "address": "10241 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-05-02T15:50:49.000Z",
+    "expiryDate": "2026-05-01T15:50:49.000Z",
+    "coordinates": [
+      -114.0852117,
+      50.9611821
+    ],
+    "longitude": -114.0852117,
+    "latitude": 50.9611821,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

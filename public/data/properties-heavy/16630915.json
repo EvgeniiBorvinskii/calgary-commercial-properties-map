@@ -1,0 +1,36 @@
+{
+  "id": "16630915",
+  "fullDetails": {
+    "licenseNumber": "16630915",
+    "name": "WOLF WILLOW PARK",
+    "address": "#4119 215 LEGACY BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-22T07:58:39.000Z",
+    "expiryDate": "2026-05-21T07:58:39.000Z",
+    "coordinates": [
+      -114.0220629,
+      50.8606166
+    ],
+    "longitude": -114.0220629,
+    "latitude": 50.8606166,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

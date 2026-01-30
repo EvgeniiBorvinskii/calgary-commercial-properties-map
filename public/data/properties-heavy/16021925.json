@@ -1,0 +1,36 @@
+{
+  "id": "16021925",
+  "fullDetails": {
+    "licenseNumber": "16021925",
+    "name": "SUBWAY 11859",
+    "address": "#711 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-01T14:12:42.000Z",
+    "expiryDate": "2026-05-31T14:12:42.000Z",
+    "coordinates": [
+      -114.1634731,
+      51.1060366
+    ],
+    "longitude": -114.1634731,
+    "latitude": 51.1060366,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

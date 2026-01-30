@@ -1,0 +1,37 @@
+{
+  "id": "13355318",
+  "fullDetails": {
+    "licenseNumber": "13355318",
+    "name": "BETTER BOOKS AND BIBLES",
+    "address": "#5 1825 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-18T14:52:34.000Z",
+    "expiryDate": "2026-11-17T14:52:33.000Z",
+    "coordinates": [
+      -114.0154845,
+      51.0808682
+    ],
+    "longitude": -114.0154845,
+    "latitude": 51.0808682,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

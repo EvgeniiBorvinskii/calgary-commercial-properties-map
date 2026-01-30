@@ -1,0 +1,37 @@
+{
+  "id": "16164535",
+  "fullDetails": {
+    "licenseNumber": "16164535",
+    "name": "CLOUD NAAN",
+    "address": "1614 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2023-10-13T12:40:34.000Z",
+    "expiryDate": "2026-10-12T12:40:34.000Z",
+    "coordinates": [
+      -114.0863903,
+      51.0380194
+    ],
+    "longitude": -114.0863903,
+    "latitude": 51.0380194,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

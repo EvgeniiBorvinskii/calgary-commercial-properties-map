@@ -1,0 +1,36 @@
+{
+  "id": "13945233",
+  "fullDetails": {
+    "licenseNumber": "13945233",
+    "name": "CONNECT HEARING",
+    "address": "#211 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-04-13T13:17:10.000Z",
+    "expiryDate": "2026-04-12T13:17:10.000Z",
+    "coordinates": [
+      -114.0686887,
+      50.9424139
+    ],
+    "longitude": -114.0686887,
+    "latitude": 50.9424139,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

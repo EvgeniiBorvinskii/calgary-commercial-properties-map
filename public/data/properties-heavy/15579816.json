@@ -1,0 +1,36 @@
+{
+  "id": "15579816",
+  "fullDetails": {
+    "licenseNumber": "15579816",
+    "name": "FABUTAN / HUSH LASH STUDIO - NORTHMOUNT",
+    "address": "781 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-07-08T11:22:26.000Z",
+    "expiryDate": "2026-07-07T11:22:26.000Z",
+    "coordinates": [
+      -114.0964097,
+      51.0824869
+    ],
+    "longitude": -114.0964097,
+    "latitude": 51.0824869,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

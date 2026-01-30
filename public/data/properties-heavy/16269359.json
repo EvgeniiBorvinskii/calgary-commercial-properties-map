@@ -1,0 +1,36 @@
+{
+  "id": "16269359",
+  "fullDetails": {
+    "licenseNumber": "16269359",
+    "name": "LOTUS JANITORIAL SERVICES",
+    "address": "#1129 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2023-06-06T09:26:37.000Z",
+    "expiryDate": "2026-06-05T09:26:36.000Z",
+    "coordinates": [
+      -113.9773915,
+      51.0997019
+    ],
+    "longitude": -113.9773915,
+    "latitude": 51.0997019,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

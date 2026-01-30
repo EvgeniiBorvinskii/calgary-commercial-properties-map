@@ -1,0 +1,36 @@
+{
+  "id": "16113771",
+  "fullDetails": {
+    "licenseNumber": "16113771",
+    "name": "RCB COLLEGE",
+    "address": "#350 2618 HOPEWELL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-02-02T05:36:58.000Z",
+    "expiryDate": "2026-02-01T05:36:58.000Z",
+    "coordinates": [
+      -113.999764,
+      51.0919113
+    ],
+    "longitude": -113.999764,
+    "latitude": 51.0919113,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

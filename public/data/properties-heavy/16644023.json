@@ -1,0 +1,36 @@
+{
+  "id": "16644023",
+  "fullDetails": {
+    "licenseNumber": "16644023",
+    "name": "AMAZONIA AQUATICS",
+    "address": "#630 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-15T10:41:55.000Z",
+    "expiryDate": "2026-12-14T10:41:55.000Z",
+    "coordinates": [
+      -114.1629418,
+      51.1592549
+    ],
+    "longitude": -114.1629418,
+    "latitude": 51.1592549,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

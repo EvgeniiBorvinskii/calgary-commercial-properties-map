@@ -1,0 +1,36 @@
+{
+  "id": "652602",
+  "fullDetails": {
+    "licenseNumber": "652602",
+    "name": "FIRST MEMORIAL FUNERAL SERVICES & SOUTH CALGARY FUNERAL CENTRE AND CREMATORIUM",
+    "address": "12700 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-14T00:00:00.000Z",
+    "coordinates": [
+      -114.0683684,
+      50.9390768
+    ],
+    "longitude": -114.0683684,
+    "latitude": 50.9390768,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

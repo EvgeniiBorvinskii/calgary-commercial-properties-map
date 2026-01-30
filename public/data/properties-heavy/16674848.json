@@ -1,0 +1,36 @@
+{
+  "id": "16674848",
+  "fullDetails": {
+    "licenseNumber": "16674848",
+    "name": "SHOPPERS DRUG MART 2326",
+    "address": "#115 1410 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-27T11:43:23.000Z",
+    "expiryDate": "2026-09-26T11:43:23.000Z",
+    "coordinates": [
+      -114.0604236,
+      51.0392034
+    ],
+    "longitude": -114.0604236,
+    "latitude": 51.0392034,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

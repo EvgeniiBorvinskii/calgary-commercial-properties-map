@@ -1,0 +1,36 @@
+{
+  "id": "16368706",
+  "fullDetails": {
+    "licenseNumber": "16368706",
+    "name": "HAPPY LOGISTICS",
+    "address": "3205 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-09-20T11:24:56.000Z",
+    "expiryDate": "2026-09-19T11:24:56.000Z",
+    "coordinates": [
+      -114.0411218,
+      51.0254741
+    ],
+    "longitude": -114.0411218,
+    "latitude": 51.0254741,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

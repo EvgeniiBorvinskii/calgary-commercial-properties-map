@@ -1,0 +1,36 @@
+{
+  "id": "16636920",
+  "fullDetails": {
+    "licenseNumber": "16636920",
+    "name": "PET PLANET OAKRIDGE",
+    "address": "#130 2580 SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-12T15:02:48.000Z",
+    "expiryDate": "2026-11-11T15:02:47.000Z",
+    "coordinates": [
+      -114.1195288,
+      50.9623096
+    ],
+    "longitude": -114.1195288,
+    "latitude": 50.9623096,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

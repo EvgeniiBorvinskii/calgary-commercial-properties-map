@@ -1,0 +1,36 @@
+{
+  "id": "16660482",
+  "fullDetails": {
+    "licenseNumber": "16660482",
+    "name": "CUSTOM FRAMING",
+    "address": "#1100 3702 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-17T10:37:20.000Z",
+    "expiryDate": "2026-12-16T10:37:20.000Z",
+    "coordinates": [
+      -114.0478114,
+      51.0852038
+    ],
+    "longitude": -114.0478114,
+    "latitude": 51.0852038,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

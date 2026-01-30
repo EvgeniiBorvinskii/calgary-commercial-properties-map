@@ -1,0 +1,36 @@
+{
+  "id": "16142168",
+  "fullDetails": {
+    "licenseNumber": "16142168",
+    "name": "QB BUILDING SOLUTIONS",
+    "address": "#A 1201 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2022-04-11T09:25:46.000Z",
+    "expiryDate": "2026-04-10T09:25:46.000Z",
+    "coordinates": [
+      -114.0359019,
+      51.0156242
+    ],
+    "longitude": -114.0359019,
+    "latitude": 51.0156242,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

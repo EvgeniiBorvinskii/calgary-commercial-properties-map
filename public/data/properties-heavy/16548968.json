@@ -1,0 +1,36 @@
+{
+  "id": "16548968",
+  "fullDetails": {
+    "licenseNumber": "16548968",
+    "name": "NEW FACE BEAUTY",
+    "address": "#211 306 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-10-17T13:06:17.000Z",
+    "expiryDate": "2026-10-16T13:06:16.000Z",
+    "coordinates": [
+      -114.0855061,
+      51.0542182
+    ],
+    "longitude": -114.0855061,
+    "latitude": 51.0542182,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

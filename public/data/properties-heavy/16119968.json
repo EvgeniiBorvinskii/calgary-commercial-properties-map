@@ -1,0 +1,36 @@
+{
+  "id": "16119968",
+  "fullDetails": {
+    "licenseNumber": "16119968",
+    "name": "PANAGO PIZZA",
+    "address": "#1610 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-01-28T15:55:47.000Z",
+    "expiryDate": "2027-01-27T15:55:47.000Z",
+    "coordinates": [
+      -113.9420715,
+      50.8949101
+    ],
+    "longitude": -113.9420715,
+    "latitude": 50.8949101,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

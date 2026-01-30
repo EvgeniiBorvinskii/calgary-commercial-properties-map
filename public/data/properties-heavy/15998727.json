@@ -1,0 +1,37 @@
+{
+  "id": "15998727",
+  "fullDetails": {
+    "licenseNumber": "15998727",
+    "name": "ACE LIQUOR DISCOUNTER AT COPPERFIELD",
+    "address": "#107 10 COPPERSTONE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-21T07:42:09.000Z",
+    "expiryDate": "2026-04-20T07:42:09.000Z",
+    "coordinates": [
+      -113.9336658,
+      50.9157633
+    ],
+    "longitude": -113.9336658,
+    "latitude": 50.9157633,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

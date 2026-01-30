@@ -1,0 +1,36 @@
+{
+  "id": "12593380",
+  "fullDetails": {
+    "licenseNumber": "12593380",
+    "name": "FERGUSON",
+    "address": "419 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-08-27T11:30:13.000Z",
+    "expiryDate": "2026-08-26T11:30:12.000Z",
+    "coordinates": [
+      -114.0536147,
+      51.0230287
+    ],
+    "longitude": -114.0536147,
+    "latitude": 51.0230287,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

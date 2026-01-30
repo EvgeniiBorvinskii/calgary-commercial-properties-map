@@ -1,0 +1,36 @@
+{
+  "id": "12193975",
+  "fullDetails": {
+    "licenseNumber": "12193975",
+    "name": "SELECT PACKAGING",
+    "address": "1008 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2003-12-19T05:35:56.000Z",
+    "expiryDate": "2026-12-18T05:35:56.000Z",
+    "coordinates": [
+      -114.0391134,
+      51.1023062
+    ],
+    "longitude": -114.0391134,
+    "latitude": 51.1023062,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13971486",
+  "fullDetails": {
+    "licenseNumber": "13971486",
+    "name": "MONTAUK",
+    "address": "617 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-12-02T05:32:48.000Z",
+    "expiryDate": "2026-12-01T05:32:48.000Z",
+    "coordinates": [
+      -114.0750588,
+      51.0434341
+    ],
+    "longitude": -114.0750588,
+    "latitude": 51.0434341,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

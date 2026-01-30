@@ -1,0 +1,37 @@
+{
+  "id": "102376",
+  "fullDetails": {
+    "licenseNumber": "102376",
+    "name": "CLOVERDALE PAINT - BRANCH 57",
+    "address": "#1 1820 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-08-17T15:38:29.000Z",
+    "expiryDate": "2026-08-16T15:38:28.000Z",
+    "coordinates": [
+      -114.0162193,
+      51.0801492
+    ],
+    "longitude": -114.0162193,
+    "latitude": 51.0801492,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

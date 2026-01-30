@@ -1,0 +1,36 @@
+{
+  "id": "897108",
+  "fullDetails": {
+    "licenseNumber": "897108",
+    "name": "JVW AUTO REPAIR CENTER",
+    "address": "#189 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-07T00:00:00.000Z",
+    "coordinates": [
+      -113.9693238,
+      50.9307149
+    ],
+    "longitude": -113.9693238,
+    "latitude": 50.9307149,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

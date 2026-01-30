@@ -1,0 +1,37 @@
+{
+  "id": "12238754",
+  "fullDetails": {
+    "licenseNumber": "12238754",
+    "name": "CARLINE AUTOMOTIVE",
+    "address": "#6 727 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2003-11-25T05:47:40.000Z",
+    "expiryDate": "2026-11-24T05:47:40.000Z",
+    "coordinates": [
+      -113.986723,
+      51.0586022
+    ],
+    "longitude": -113.986723,
+    "latitude": 51.0586022,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

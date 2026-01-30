@@ -1,0 +1,37 @@
+{
+  "id": "977157",
+  "fullDetails": {
+    "licenseNumber": "977157",
+    "name": "BODYMIND SYNERGY HEALTH CENTRE",
+    "address": "#300 1824 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-04-22T11:02:35.000Z",
+    "expiryDate": "2026-04-21T11:02:35.000Z",
+    "coordinates": [
+      -114.1171242,
+      51.0690274
+    ],
+    "longitude": -114.1171242,
+    "latitude": 51.0690274,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

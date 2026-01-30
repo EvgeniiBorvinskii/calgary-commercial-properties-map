@@ -1,0 +1,36 @@
+{
+  "id": "16604274",
+  "fullDetails": {
+    "licenseNumber": "16604274",
+    "name": "ACI HOMES",
+    "address": "#115 1925 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-01T10:38:26.000Z",
+    "expiryDate": "2026-11-30T10:38:26.000Z",
+    "coordinates": [
+      -114.0158663,
+      51.0679823
+    ],
+    "longitude": -114.0158663,
+    "latitude": 51.0679823,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

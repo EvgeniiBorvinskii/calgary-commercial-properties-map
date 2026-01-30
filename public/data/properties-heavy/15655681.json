@@ -1,0 +1,36 @@
+{
+  "id": "15655681",
+  "fullDetails": {
+    "licenseNumber": "15655681",
+    "name": "REVODERM PHARMA",
+    "address": "#242 4411 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-02-11T11:51:23.000Z",
+    "expiryDate": "2027-02-10T11:51:23.000Z",
+    "coordinates": [
+      -114.158977,
+      51.0679344
+    ],
+    "longitude": -114.158977,
+    "latitude": 51.0679344,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12333290",
+  "fullDetails": {
+    "licenseNumber": "12333290",
+    "name": "EXPLORATION PLASTICS & VICTORY PLASTICS",
+    "address": "2320 24 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-10-06T11:16:40.000Z",
+    "expiryDate": "2026-10-05T11:16:40.000Z",
+    "coordinates": [
+      -114.0062973,
+      51.0747396
+    ],
+    "longitude": -114.0062973,
+    "latitude": 51.0747396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

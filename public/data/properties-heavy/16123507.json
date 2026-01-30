@@ -1,0 +1,37 @@
+{
+  "id": "16123507",
+  "fullDetails": {
+    "licenseNumber": "16123507",
+    "name": "BESTIES",
+    "address": "920 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-23T18:20:15.000Z",
+    "expiryDate": "2026-02-22T18:20:15.000Z",
+    "coordinates": [
+      -114.0622707,
+      51.0604516
+    ],
+    "longitude": -114.0622707,
+    "latitude": 51.0604516,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

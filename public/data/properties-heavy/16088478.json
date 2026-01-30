@@ -1,0 +1,37 @@
+{
+  "id": "16088478",
+  "fullDetails": {
+    "licenseNumber": "16088478",
+    "name": "DARWINS CHARCOAL BBQ CHICKEN",
+    "address": "#424 2550 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-10-17T08:07:35.000Z",
+    "expiryDate": "2026-10-16T08:07:35.000Z",
+    "coordinates": [
+      -113.9989352,
+      51.1551732
+    ],
+    "longitude": -113.9989352,
+    "latitude": 51.1551732,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

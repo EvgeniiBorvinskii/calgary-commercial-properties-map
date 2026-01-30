@@ -1,0 +1,36 @@
+{
+  "id": "12333365",
+  "fullDetails": {
+    "licenseNumber": "12333365",
+    "name": "MUSKOKA KITCHENS",
+    "address": "#18 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2013-02-12T11:32:46.000Z",
+    "expiryDate": "2026-02-11T11:32:46.000Z",
+    "coordinates": [
+      -114.0369814,
+      51.1040709
+    ],
+    "longitude": -114.0369814,
+    "latitude": 51.1040709,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

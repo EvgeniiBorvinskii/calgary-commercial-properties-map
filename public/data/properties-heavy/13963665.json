@@ -1,0 +1,36 @@
+{
+  "id": "13963665",
+  "fullDetails": {
+    "licenseNumber": "13963665",
+    "name": "NEW DISCOVERY FINE WINES & SPIRITS",
+    "address": "#916 10 DISCOVERY RIDGE HL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2015-06-01T11:28:02.000Z",
+    "expiryDate": "2026-05-31T11:28:01.000Z",
+    "coordinates": [
+      -114.2129314,
+      51.0154958
+    ],
+    "longitude": -114.2129314,
+    "latitude": 51.0154958,
+    "community": "DISCOVERY RIDGE",
+    "ward": "DIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

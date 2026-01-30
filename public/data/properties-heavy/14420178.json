@@ -1,0 +1,37 @@
+{
+  "id": "14420178",
+  "fullDetails": {
+    "licenseNumber": "14420178",
+    "name": "WINNERS APPAREL - STORE #465",
+    "address": "#331 130 COUNTRY VILLAGE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-08T09:31:30.000Z",
+    "expiryDate": "2026-03-07T09:31:30.000Z",
+    "coordinates": [
+      -114.0641969,
+      51.1625021
+    ],
+    "longitude": -114.0641969,
+    "latitude": 51.1625021,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

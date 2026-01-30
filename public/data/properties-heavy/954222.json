@@ -1,0 +1,36 @@
+{
+  "id": "954222",
+  "fullDetails": {
+    "licenseNumber": "954222",
+    "name": "ANIXTER CANADA",
+    "address": "#105 1820 100 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-07-29T13:18:57.000Z",
+    "expiryDate": "2026-07-28T13:18:57.000Z",
+    "coordinates": [
+      -114.0192159,
+      51.1442368
+    ],
+    "longitude": -114.0192159,
+    "latitude": 51.1442368,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

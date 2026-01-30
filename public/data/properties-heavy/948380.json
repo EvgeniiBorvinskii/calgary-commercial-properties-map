@@ -1,0 +1,36 @@
+{
+  "id": "948380",
+  "fullDetails": {
+    "licenseNumber": "948380",
+    "name": "POP PDC BITS",
+    "address": "#K 7003 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2017-04-04T13:34:55.000Z",
+    "expiryDate": "2026-04-03T13:34:55.000Z",
+    "coordinates": [
+      -114.0514288,
+      50.9921249
+    ],
+    "longitude": -114.0514288,
+    "latitude": 50.9921249,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

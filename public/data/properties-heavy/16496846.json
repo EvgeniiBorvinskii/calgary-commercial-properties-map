@@ -1,0 +1,36 @@
+{
+  "id": "16496846",
+  "fullDetails": {
+    "licenseNumber": "16496846",
+    "name": "BUD MART",
+    "address": "#1 1704 61 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-05-31T09:11:43.000Z",
+    "expiryDate": "2026-05-30T09:11:43.000Z",
+    "coordinates": [
+      -113.941965,
+      51.0384651
+    ],
+    "longitude": -113.941965,
+    "latitude": 51.0384651,
+    "community": "RED CARPET",
+    "ward": "RED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

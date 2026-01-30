@@ -1,0 +1,37 @@
+{
+  "id": "15943186",
+  "fullDetails": {
+    "licenseNumber": "15943186",
+    "name": "1268548 ALBERTA O/A SIP CAFÉ",
+    "address": "2835 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-05-05T12:18:37.000Z",
+    "expiryDate": "2026-05-04T12:18:37.000Z",
+    "coordinates": [
+      -114.0949979,
+      51.0287243
+    ],
+    "longitude": -114.0949979,
+    "latitude": 51.0287243,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15238017",
+  "fullDetails": {
+    "licenseNumber": "15238017",
+    "name": "MADHATTER'S SUPERSTORE (THE)",
+    "address": "#1152 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-02-01T10:30:26.000Z",
+    "expiryDate": "2027-01-31T10:30:26.000Z",
+    "coordinates": [
+      -113.9782699,
+      51.0547006
+    ],
+    "longitude": -113.9782699,
+    "latitude": 51.0547006,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16217937",
+  "fullDetails": {
+    "licenseNumber": "16217937",
+    "name": "VASTECH AUTO SERVICES",
+    "address": "#E 9805 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2026-01-12T12:56:03.000Z",
+    "expiryDate": "2027-01-11T12:56:02.000Z",
+    "coordinates": [
+      -114.0764207,
+      50.9668822
+    ],
+    "longitude": -114.0764207,
+    "latitude": 50.9668822,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16388258",
+  "fullDetails": {
+    "licenseNumber": "16388258",
+    "name": "NAT'S BEAUTY",
+    "address": "174 YPRES GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-26T12:26:19.000Z",
+    "expiryDate": "2026-09-25T12:26:19.000Z",
+    "coordinates": [
+      -114.1166178,
+      51.016337
+    ],
+    "longitude": -114.1166178,
+    "latitude": 51.016337,
+    "community": "GARRISON WOODS",
+    "ward": "GAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

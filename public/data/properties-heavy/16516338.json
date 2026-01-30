@@ -1,0 +1,36 @@
+{
+  "id": "16516338",
+  "fullDetails": {
+    "licenseNumber": "16516338",
+    "name": "BRILLIANCE HOMES",
+    "address": "#104 200 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-24T11:36:00.000Z",
+    "expiryDate": "2026-07-23T11:35:59.000Z",
+    "coordinates": [
+      -114.0738896,
+      51.142978
+    ],
+    "longitude": -114.0738896,
+    "latitude": 51.142978,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

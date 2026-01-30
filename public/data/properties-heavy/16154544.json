@@ -1,0 +1,37 @@
+{
+  "id": "16154544",
+  "fullDetails": {
+    "licenseNumber": "16154544",
+    "name": "ANYTIME FITNESS BRIDGELAND",
+    "address": "57 9 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-05-30T08:29:50.000Z",
+    "expiryDate": "2026-05-29T08:29:49.000Z",
+    "coordinates": [
+      -114.0406005,
+      51.0503845
+    ],
+    "longitude": -114.0406005,
+    "latitude": 51.0503845,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

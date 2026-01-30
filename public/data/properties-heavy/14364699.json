@@ -1,0 +1,36 @@
+{
+  "id": "14364699",
+  "fullDetails": {
+    "licenseNumber": "14364699",
+    "name": "FURNITURE WORLD",
+    "address": "1157 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-12-20T11:10:32.000Z",
+    "expiryDate": "2026-12-19T11:10:32.000Z",
+    "coordinates": [
+      -114.03499,
+      51.0883071
+    ],
+    "longitude": -114.03499,
+    "latitude": 51.0883071,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

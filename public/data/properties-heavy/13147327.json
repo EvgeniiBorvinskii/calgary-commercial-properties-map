@@ -1,0 +1,36 @@
+{
+  "id": "13147327",
+  "fullDetails": {
+    "licenseNumber": "13147327",
+    "name": "PREMIUM MECHANICAL",
+    "address": "225 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-04-26T15:15:44.000Z",
+    "expiryDate": "2026-04-25T15:15:44.000Z",
+    "coordinates": [
+      -113.9073016,
+      50.9619582
+    ],
+    "longitude": -113.9073016,
+    "latitude": 50.9619582,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16513558",
+  "fullDetails": {
+    "licenseNumber": "16513558",
+    "name": "DOODLE DOGS",
+    "address": "#143 755 LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-15T09:34:23.000Z",
+    "expiryDate": "2026-07-14T09:34:23.000Z",
+    "coordinates": [
+      -114.0471035,
+      50.9422547
+    ],
+    "longitude": -114.0471035,
+    "latitude": 50.9422547,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

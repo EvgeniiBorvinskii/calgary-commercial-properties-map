@@ -1,0 +1,36 @@
+{
+  "id": "14824460",
+  "fullDetails": {
+    "licenseNumber": "14824460",
+    "name": "WARRIOR CONCRETE",
+    "address": "216 INITIATIVE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-04-11T05:34:20.000Z",
+    "expiryDate": "2026-04-10T05:34:20.000Z",
+    "coordinates": [
+      -113.9078429,
+      50.96138
+    ],
+    "longitude": -113.9078429,
+    "latitude": 50.96138,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

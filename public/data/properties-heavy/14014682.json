@@ -1,0 +1,36 @@
+{
+  "id": "14014682",
+  "fullDetails": {
+    "licenseNumber": "14014682",
+    "name": "EDO JAPAN",
+    "address": "#1FC 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-02-03T14:43:42.000Z",
+    "expiryDate": "2027-02-02T14:43:42.000Z",
+    "coordinates": [
+      -114.0651495,
+      50.9530113
+    ],
+    "longitude": -114.0651495,
+    "latitude": 50.9530113,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

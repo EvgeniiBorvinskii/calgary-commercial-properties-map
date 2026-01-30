@@ -1,0 +1,36 @@
+{
+  "id": "96735",
+  "fullDetails": {
+    "licenseNumber": "96735",
+    "name": "NORTHWEST POINT",
+    "address": "2905 UNWIN RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-01T00:00:00.000Z",
+    "coordinates": [
+      -114.1272166,
+      51.0715522
+    ],
+    "longitude": -114.1272166,
+    "latitude": 51.0715522,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14427710",
+  "fullDetails": {
+    "licenseNumber": "14427710",
+    "name": "OMEGA FIRE PROTECTION",
+    "address": "#14 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-01-29T12:40:06.000Z",
+    "expiryDate": "2027-01-28T12:40:06.000Z",
+    "coordinates": [
+      -114.0288097,
+      51.0877772
+    ],
+    "longitude": -114.0288097,
+    "latitude": 51.0877772,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

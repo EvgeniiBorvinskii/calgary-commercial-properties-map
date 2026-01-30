@@ -1,0 +1,36 @@
+{
+  "id": "16204802",
+  "fullDetails": {
+    "licenseNumber": "16204802",
+    "name": "YOGEN FRUZ MARKET MALL",
+    "address": "#L9 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-11-09T08:26:25.000Z",
+    "expiryDate": "2026-11-08T08:26:25.000Z",
+    "coordinates": [
+      -114.1543539,
+      51.085191
+    ],
+    "longitude": -114.1543539,
+    "latitude": 51.085191,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

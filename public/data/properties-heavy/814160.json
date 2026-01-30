@@ -1,0 +1,36 @@
+{
+  "id": "814160",
+  "fullDetails": {
+    "licenseNumber": "814160",
+    "name": "SHOE COMPANY (THE)",
+    "address": "#220 350 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-14T00:00:00.000Z",
+    "coordinates": [
+      -114.0625391,
+      50.8990373
+    ],
+    "longitude": -114.0625391,
+    "latitude": 50.8990373,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

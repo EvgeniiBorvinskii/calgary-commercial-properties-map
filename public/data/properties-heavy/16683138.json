@@ -1,0 +1,36 @@
+{
+  "id": "16683138",
+  "fullDetails": {
+    "licenseNumber": "16683138",
+    "name": "ECONOMY AUTOMOTIVE & TRANSMISSION/ECONOMY AUTO CENTRE AND TRANSMISSIONS",
+    "address": "#3 5725 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-10-27T12:30:49.000Z",
+    "expiryDate": "2026-10-26T12:30:49.000Z",
+    "coordinates": [
+      -113.9524353,
+      51.0374278
+    ],
+    "longitude": -113.9524353,
+    "latitude": 51.0374278,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

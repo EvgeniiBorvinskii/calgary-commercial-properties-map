@@ -1,0 +1,36 @@
+{
+  "id": "14031827",
+  "fullDetails": {
+    "licenseNumber": "14031827",
+    "name": "CARVEL CREATIVE",
+    "address": "1607 41 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-11-18T15:53:43.000Z",
+    "expiryDate": "2026-11-17T15:53:43.000Z",
+    "coordinates": [
+      -114.0233187,
+      51.0167027
+    ],
+    "longitude": -114.0233187,
+    "latitude": 51.0167027,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

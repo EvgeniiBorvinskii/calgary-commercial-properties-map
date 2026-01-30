@@ -1,0 +1,37 @@
+{
+  "id": "12403374",
+  "fullDetails": {
+    "licenseNumber": "12403374",
+    "name": "CALGARY FLAMES (MCMAHON STADIUM)",
+    "address": "#C 1817 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2005-05-26T15:30:16.000Z",
+    "expiryDate": "2026-05-25T15:30:16.000Z",
+    "coordinates": [
+      -114.1222163,
+      51.0713863
+    ],
+    "longitude": -114.1222163,
+    "latitude": 51.0713863,
+    "community": "UNIVERSITY OF CALGARY",
+    "ward": "UOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

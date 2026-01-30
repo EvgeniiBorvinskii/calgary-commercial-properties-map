@@ -1,0 +1,36 @@
+{
+  "id": "16273286",
+  "fullDetails": {
+    "licenseNumber": "16273286",
+    "name": "BOMBSHELL PARTY STRIPPERS",
+    "address": "#2500 500 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "EXOTIC ENTERTAINMENT AGENCY",
+    "licenseTypes": "EXOTIC ENTERTAINMENT AGENCY",
+    "status": "pending",
+    "issuedDate": "2023-01-31T14:08:19.000Z",
+    "expiryDate": "2026-01-30T14:08:19.000Z",
+    "coordinates": [
+      -114.0719538,
+      51.0498817
+    ],
+    "longitude": -114.0719538,
+    "latitude": 51.0498817,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

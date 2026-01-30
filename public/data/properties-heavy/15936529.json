@@ -1,0 +1,37 @@
+{
+  "id": "15936529",
+  "fullDetails": {
+    "licenseNumber": "15936529",
+    "name": "CANELA",
+    "address": "1319 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2022-04-07T10:26:57.000Z",
+    "expiryDate": "2026-04-06T10:26:57.000Z",
+    "coordinates": [
+      -114.0333012,
+      51.0406209
+    ],
+    "longitude": -114.0333012,
+    "latitude": 51.0406209,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

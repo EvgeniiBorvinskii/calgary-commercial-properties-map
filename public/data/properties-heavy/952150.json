@@ -1,0 +1,36 @@
+{
+  "id": "952150",
+  "fullDetails": {
+    "licenseNumber": "952150",
+    "name": "ROYAL VIEW APARTMENTS",
+    "address": "1320 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-12T00:00:00.000Z",
+    "coordinates": [
+      -114.093043,
+      51.0387207
+    ],
+    "longitude": -114.093043,
+    "latitude": 51.0387207,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

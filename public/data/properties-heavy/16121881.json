@@ -1,0 +1,36 @@
+{
+  "id": "16121881",
+  "fullDetails": {
+    "licenseNumber": "16121881",
+    "name": "TIGER MASSAGE",
+    "address": "#146 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2022-01-26T10:39:22.000Z",
+    "expiryDate": "2026-01-25T10:39:22.000Z",
+    "coordinates": [
+      -113.9967728,
+      51.0803825
+    ],
+    "longitude": -113.9967728,
+    "latitude": 51.0803825,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

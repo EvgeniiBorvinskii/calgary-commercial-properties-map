@@ -1,0 +1,36 @@
+{
+  "id": "737577",
+  "fullDetails": {
+    "licenseNumber": "737577",
+    "name": "CHINOOK CENTRE",
+    "address": "#B 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "licenseTypes": "MARKET",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-20T00:00:00.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16511677",
+  "fullDetails": {
+    "licenseNumber": "16511677",
+    "name": "TUNEDUB",
+    "address": "4503 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-08-02T12:55:54.000Z",
+    "expiryDate": "2026-08-01T12:55:53.000Z",
+    "coordinates": [
+      -114.0626737,
+      51.0136168
+    ],
+    "longitude": -114.0626737,
+    "latitude": 51.0136168,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

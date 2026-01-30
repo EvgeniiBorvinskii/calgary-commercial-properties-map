@@ -1,0 +1,36 @@
+{
+  "id": "841445",
+  "fullDetails": {
+    "licenseNumber": "841445",
+    "name": "AK COATINGS",
+    "address": "#24 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-09-24T07:22:11.000Z",
+    "expiryDate": "2026-09-23T07:22:11.000Z",
+    "coordinates": [
+      -113.9756828,
+      51.0049293
+    ],
+    "longitude": -113.9756828,
+    "latitude": 51.0049293,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

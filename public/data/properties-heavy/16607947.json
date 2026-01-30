@@ -1,0 +1,36 @@
+{
+  "id": "16607947",
+  "fullDetails": {
+    "licenseNumber": "16607947",
+    "name": "RSGAS",
+    "address": "#M 1007 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-04-21T16:40:19.000Z",
+    "expiryDate": "2026-04-20T16:40:18.000Z",
+    "coordinates": [
+      -114.0411013,
+      51.1013788
+    ],
+    "longitude": -114.0411013,
+    "latitude": 51.1013788,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

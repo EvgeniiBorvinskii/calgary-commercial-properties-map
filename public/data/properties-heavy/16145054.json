@@ -1,0 +1,37 @@
+{
+  "id": "16145054",
+  "fullDetails": {
+    "licenseNumber": "16145054",
+    "name": "ABSOLUTE HYDRAULEX",
+    "address": "10528 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-04-22T10:36:48.000Z",
+    "expiryDate": "2026-04-21T10:36:48.000Z",
+    "coordinates": [
+      -113.9677826,
+      50.9596485
+    ],
+    "longitude": -113.9677826,
+    "latitude": 50.9596485,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

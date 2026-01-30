@@ -1,0 +1,37 @@
+{
+  "id": "16165219",
+  "fullDetails": {
+    "licenseNumber": "16165219",
+    "name": "BREATHE HOT YOGA AND MASSAGE BRITANNIA",
+    "address": "818 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-19T15:33:17.000Z",
+    "expiryDate": "2026-07-18T15:33:17.000Z",
+    "coordinates": [
+      -114.0827064,
+      51.0097813
+    ],
+    "longitude": -114.0827064,
+    "latitude": 51.0097813,
+    "community": "BRITANNIA",
+    "ward": "BRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

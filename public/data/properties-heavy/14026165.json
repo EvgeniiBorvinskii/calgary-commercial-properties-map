@@ -1,0 +1,37 @@
+{
+  "id": "14026165",
+  "fullDetails": {
+    "licenseNumber": "14026165",
+    "name": "TOP SHELF KITCHENS",
+    "address": "4710 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-30T05:34:26.000Z",
+    "expiryDate": "2026-12-29T05:34:26.000Z",
+    "coordinates": [
+      -114.0650003,
+      51.0106883
+    ],
+    "longitude": -114.0650003,
+    "latitude": 51.0106883,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

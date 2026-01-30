@@ -1,0 +1,36 @@
+{
+  "id": "15433410",
+  "fullDetails": {
+    "licenseNumber": "15433410",
+    "name": "LEGACY LIQUOR",
+    "address": "#421 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2019-04-29T10:41:56.000Z",
+    "expiryDate": "2026-04-28T10:41:56.000Z",
+    "coordinates": [
+      -113.9848375,
+      51.0830714
+    ],
+    "longitude": -113.9848375,
+    "latitude": 51.0830714,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

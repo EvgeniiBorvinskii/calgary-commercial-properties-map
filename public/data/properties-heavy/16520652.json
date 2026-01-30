@@ -1,0 +1,36 @@
+{
+  "id": "16520652",
+  "fullDetails": {
+    "licenseNumber": "16520652",
+    "name": "BIG ART",
+    "address": "#26 5555 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-05-21T10:32:17.000Z",
+    "expiryDate": "2026-05-20T10:32:16.000Z",
+    "coordinates": [
+      -113.9517292,
+      51.0070804
+    ],
+    "longitude": -113.9517292,
+    "latitude": 51.0070804,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

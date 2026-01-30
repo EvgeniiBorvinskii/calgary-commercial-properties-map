@@ -1,0 +1,36 @@
+{
+  "id": "16634891",
+  "fullDetails": {
+    "licenseNumber": "16634891",
+    "name": "PROPELL ALBERTA",
+    "address": "#105 7350 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-08-19T10:53:20.000Z",
+    "expiryDate": "2026-08-18T10:53:19.000Z",
+    "coordinates": [
+      -113.9268688,
+      50.9546563
+    ],
+    "longitude": -113.9268688,
+    "latitude": 50.9546563,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

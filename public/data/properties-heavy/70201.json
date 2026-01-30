@@ -1,0 +1,37 @@
+{
+  "id": "70201",
+  "fullDetails": {
+    "licenseNumber": "70201",
+    "name": "MASTERS GALLERY",
+    "address": "#107 2115 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-07-01T05:29:51.000Z",
+    "expiryDate": "2026-06-30T05:29:50.000Z",
+    "coordinates": [
+      -114.0718823,
+      51.0335227
+    ],
+    "longitude": -114.0718823,
+    "latitude": 51.0335227,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

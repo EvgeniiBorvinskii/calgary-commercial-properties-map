@@ -1,0 +1,36 @@
+{
+  "id": "16072654",
+  "fullDetails": {
+    "licenseNumber": "16072654",
+    "name": "ARLO MEDICAL INJECTIONS",
+    "address": "1331 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-27T12:02:18.000Z",
+    "expiryDate": "2026-10-26T12:02:18.000Z",
+    "coordinates": [
+      -114.0935167,
+      51.0380086
+    ],
+    "longitude": -114.0935167,
+    "latitude": 51.0380086,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

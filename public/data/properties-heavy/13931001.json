@@ -1,0 +1,36 @@
+{
+  "id": "13931001",
+  "fullDetails": {
+    "licenseNumber": "13931001",
+    "name": "TEEZE HAIR BAR",
+    "address": "2063 146 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2015-05-19T15:10:31.000Z",
+    "expiryDate": "2026-05-18T15:10:31.000Z",
+    "coordinates": [
+      -114.0148717,
+      50.9196381
+    ],
+    "longitude": -114.0148717,
+    "latitude": 50.9196381,
+    "community": "DEER RUN",
+    "ward": "DRN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

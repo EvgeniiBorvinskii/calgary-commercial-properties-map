@@ -1,0 +1,36 @@
+{
+  "id": "12576914",
+  "fullDetails": {
+    "licenseNumber": "12576914",
+    "name": "HCM CONTRACTORS",
+    "address": "7162 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-04-21T05:31:38.000Z",
+    "expiryDate": "2026-04-20T05:31:38.000Z",
+    "coordinates": [
+      -113.930235,
+      50.955184
+    ],
+    "longitude": -113.930235,
+    "latitude": 50.955184,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

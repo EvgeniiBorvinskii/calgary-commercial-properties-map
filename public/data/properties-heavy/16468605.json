@@ -1,0 +1,37 @@
+{
+  "id": "16468605",
+  "fullDetails": {
+    "licenseNumber": "16468605",
+    "name": "PARIS BAGUETTE MISSION",
+    "address": "2004 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-30T14:59:46.000Z",
+    "expiryDate": "2026-04-29T14:59:46.000Z",
+    "coordinates": [
+      -114.0712734,
+      51.0351522
+    ],
+    "longitude": -114.0712734,
+    "latitude": 51.0351522,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

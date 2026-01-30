@@ -1,0 +1,37 @@
+{
+  "id": "14814941",
+  "fullDetails": {
+    "licenseNumber": "14814941",
+    "name": "EL FURNITURE WAREHOUSE",
+    "address": "107 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "TOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-07-04T11:59:31.000Z",
+    "expiryDate": "2026-07-03T11:59:31.000Z",
+    "coordinates": [
+      -114.0635304,
+      51.0452935
+    ],
+    "longitude": -114.0635304,
+    "latitude": 51.0452935,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

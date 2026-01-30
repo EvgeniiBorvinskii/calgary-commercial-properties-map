@@ -1,0 +1,36 @@
+{
+  "id": "16183055",
+  "fullDetails": {
+    "licenseNumber": "16183055",
+    "name": "FRONTIER DENTAL SUPPLY",
+    "address": "#102 10707 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2023-06-22T05:35:38.000Z",
+    "expiryDate": "2026-06-21T05:35:38.000Z",
+    "coordinates": [
+      -114.0006956,
+      51.1514734
+    ],
+    "longitude": -114.0006956,
+    "latitude": 51.1514734,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

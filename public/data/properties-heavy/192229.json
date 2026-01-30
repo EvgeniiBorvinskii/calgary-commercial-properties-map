@@ -1,0 +1,36 @@
+{
+  "id": "192229",
+  "fullDetails": {
+    "licenseNumber": "192229",
+    "name": "CASTLE TOYS",
+    "address": "#101 5718 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-12-09T12:23:55.000Z",
+    "expiryDate": "2026-12-08T12:23:55.000Z",
+    "coordinates": [
+      -114.0665242,
+      51.0038766
+    ],
+    "longitude": -114.0665242,
+    "latitude": 51.0038766,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

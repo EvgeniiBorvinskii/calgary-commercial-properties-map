@@ -1,0 +1,36 @@
+{
+  "id": "16662496",
+  "fullDetails": {
+    "licenseNumber": "16662496",
+    "name": "SIDHU CONTRACTING",
+    "address": "#300 12 MANNING CL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-07T10:51:02.000Z",
+    "expiryDate": "2026-08-06T10:51:01.000Z",
+    "coordinates": [
+      -114.0175786,
+      51.0553403
+    ],
+    "longitude": -114.0175786,
+    "latitude": 51.0553403,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

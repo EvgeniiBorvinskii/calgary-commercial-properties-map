@@ -1,0 +1,36 @@
+{
+  "id": "764993",
+  "fullDetails": {
+    "licenseNumber": "764993",
+    "name": "ACCENTRIC DESIGNS",
+    "address": "#146 450 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2006-12-21T11:57:20.000Z",
+    "expiryDate": "2026-12-20T11:57:20.000Z",
+    "coordinates": [
+      -114.0594147,
+      51.1551409
+    ],
+    "longitude": -114.0594147,
+    "latitude": 51.1551409,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

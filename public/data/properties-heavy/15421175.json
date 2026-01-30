@@ -1,0 +1,36 @@
+{
+  "id": "15421175",
+  "fullDetails": {
+    "licenseNumber": "15421175",
+    "name": "MIDAS AUTO SERVICE",
+    "address": "4121 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-05-16T15:36:28.000Z",
+    "expiryDate": "2026-05-15T15:36:28.000Z",
+    "coordinates": [
+      -114.0644864,
+      51.0168924
+    ],
+    "longitude": -114.0644864,
+    "latitude": 51.0168924,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

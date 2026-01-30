@@ -1,0 +1,37 @@
+{
+  "id": "62240",
+  "fullDetails": {
+    "licenseNumber": "62240",
+    "name": "CAPITOL HILL COMMUNITY CHARITY ORGANIZATION",
+    "address": "1531 21 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0964447,
+      51.0712611
+    ],
+    "longitude": -114.0964447,
+    "latitude": 51.0712611,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

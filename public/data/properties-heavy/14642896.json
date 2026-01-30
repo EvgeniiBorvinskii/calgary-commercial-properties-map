@@ -1,0 +1,36 @@
+{
+  "id": "14642896",
+  "fullDetails": {
+    "licenseNumber": "14642896",
+    "name": "SUNGLASS HUT #8964",
+    "address": "200 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-07T08:08:17.000Z",
+    "expiryDate": "2026-03-06T08:08:17.000Z",
+    "coordinates": [
+      -114.0660928,
+      51.0461343
+    ],
+    "longitude": -114.0660928,
+    "latitude": 51.0461343,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

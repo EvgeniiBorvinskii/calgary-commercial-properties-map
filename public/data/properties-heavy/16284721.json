@@ -1,0 +1,36 @@
+{
+  "id": "16284721",
+  "fullDetails": {
+    "licenseNumber": "16284721",
+    "name": "DIVINITY SPA",
+    "address": "1340 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2023-02-21T14:01:08.000Z",
+    "expiryDate": "2026-02-20T14:01:08.000Z",
+    "coordinates": [
+      -114.0933354,
+      51.042564
+    ],
+    "longitude": -114.0933354,
+    "latitude": 51.042564,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

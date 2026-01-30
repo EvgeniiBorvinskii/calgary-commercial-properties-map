@@ -1,0 +1,37 @@
+{
+  "id": "12807525",
+  "fullDetails": {
+    "licenseNumber": "12807525",
+    "name": "DRAGON PEARL",
+    "address": "1223A 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-07-14T11:38:04.000Z",
+    "expiryDate": "2026-07-13T11:38:03.000Z",
+    "coordinates": [
+      -114.035311,
+      51.0414079
+    ],
+    "longitude": -114.035311,
+    "latitude": 51.0414079,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

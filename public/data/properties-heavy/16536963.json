@@ -1,0 +1,37 @@
+{
+  "id": "16536963",
+  "fullDetails": {
+    "licenseNumber": "16536963",
+    "name": "THERENTALGUYS CA LANDSCAPESUPPLYGUYS COM",
+    "address": "#A 7503 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-09-09T12:22:39.000Z",
+    "expiryDate": "2026-09-08T12:22:38.000Z",
+    "coordinates": [
+      -113.9864115,
+      50.9868528
+    ],
+    "longitude": -113.9864115,
+    "latitude": 50.9868528,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

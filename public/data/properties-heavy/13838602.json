@@ -1,0 +1,37 @@
+{
+  "id": "13838602",
+  "fullDetails": {
+    "licenseNumber": "13838602",
+    "name": "TRILINK BUILDERS",
+    "address": "#2 5915 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-09-09T09:08:26.000Z",
+    "expiryDate": "2026-09-08T09:08:26.000Z",
+    "coordinates": [
+      -113.9775026,
+      51.0003606
+    ],
+    "longitude": -113.9775026,
+    "latitude": 51.0003606,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13886296",
+  "fullDetails": {
+    "licenseNumber": "13886296",
+    "name": "SPORT CHEK/MARKS DISTRIBUTION CENTRE (C930)",
+    "address": "5855 68 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2014-12-29T15:09:53.000Z",
+    "expiryDate": "2026-12-28T15:09:53.000Z",
+    "coordinates": [
+      -113.9433755,
+      50.993468
+    ],
+    "longitude": -113.9433755,
+    "latitude": 50.993468,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

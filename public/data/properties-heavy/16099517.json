@@ -1,0 +1,36 @@
+{
+  "id": "16099517",
+  "fullDetails": {
+    "licenseNumber": "16099517",
+    "name": "CHINOOK CANNABIS",
+    "address": "4026 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "in_progress",
+    "issuedDate": "2021-12-29T14:52:57.000Z",
+    "expiryDate": "2025-12-28T14:52:57.000Z",
+    "coordinates": [
+      -114.1002901,
+      51.0184638
+    ],
+    "longitude": -114.1002901,
+    "latitude": 51.0184638,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

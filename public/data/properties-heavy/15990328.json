@@ -1,0 +1,37 @@
+{
+  "id": "15990328",
+  "fullDetails": {
+    "licenseNumber": "15990328",
+    "name": "SCHANKS SPORTS GRILL",
+    "address": "9627 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-05-25T09:37:34.000Z",
+    "expiryDate": "2026-05-24T09:37:34.000Z",
+    "coordinates": [
+      -114.0735015,
+      50.9694177
+    ],
+    "longitude": -114.0735015,
+    "latitude": 50.9694177,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

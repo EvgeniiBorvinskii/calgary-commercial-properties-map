@@ -1,0 +1,36 @@
+{
+  "id": "16423873",
+  "fullDetails": {
+    "licenseNumber": "16423873",
+    "name": "KBL PROJECTS",
+    "address": "9919 SHEPARD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-19T09:40:08.000Z",
+    "expiryDate": "2026-12-18T09:40:08.000Z",
+    "coordinates": [
+      -113.983134,
+      50.9621429
+    ],
+    "longitude": -113.983134,
+    "latitude": 50.9621429,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

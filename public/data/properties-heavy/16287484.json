@@ -1,0 +1,36 @@
+{
+  "id": "16287484",
+  "fullDetails": {
+    "licenseNumber": "16287484",
+    "name": "AGA ACADEMY",
+    "address": "#15 1305 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "pending",
+    "issuedDate": "2023-03-08T11:18:07.000Z",
+    "expiryDate": "2026-03-07T11:18:07.000Z",
+    "coordinates": [
+      -113.9868119,
+      51.0636459
+    ],
+    "longitude": -113.9868119,
+    "latitude": 51.0636459,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

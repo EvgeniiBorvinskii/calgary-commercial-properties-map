@@ -1,0 +1,36 @@
+{
+  "id": "894378",
+  "fullDetails": {
+    "licenseNumber": "894378",
+    "name": "JUSTIN TIME FURNACE",
+    "address": "320B 65 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-03-07T11:14:33.000Z",
+    "expiryDate": "2026-03-06T11:14:33.000Z",
+    "coordinates": [
+      -114.0588446,
+      50.9945958
+    ],
+    "longitude": -114.0588446,
+    "latitude": 50.9945958,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

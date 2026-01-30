@@ -1,0 +1,37 @@
+{
+  "id": "13621677",
+  "fullDetails": {
+    "licenseNumber": "13621677",
+    "name": "BECKHAM'S PUB & EATERY",
+    "address": "1355 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2013-02-14T11:27:32.000Z",
+    "expiryDate": "2026-02-13T11:27:32.000Z",
+    "coordinates": [
+      -114.0247307,
+      51.0808105
+    ],
+    "longitude": -114.0247307,
+    "latitude": 51.0808105,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

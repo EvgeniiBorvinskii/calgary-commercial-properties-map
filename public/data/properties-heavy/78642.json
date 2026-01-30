@@ -1,0 +1,37 @@
+{
+  "id": "78642",
+  "fullDetails": {
+    "licenseNumber": "78642",
+    "name": "YMCA CALGARY",
+    "address": "11300 ROCKY RIDGE RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-02-09T06:23:31.000Z",
+    "expiryDate": "2027-02-08T06:23:31.000Z",
+    "coordinates": [
+      -114.2312356,
+      51.1570548
+    ],
+    "longitude": -114.2312356,
+    "latitude": 51.1570548,
+    "community": "RESIDUAL WARD 1 - SUB AREA 1K",
+    "ward": "01K",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

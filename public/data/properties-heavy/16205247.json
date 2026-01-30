@@ -1,0 +1,36 @@
+{
+  "id": "16205247",
+  "fullDetails": {
+    "licenseNumber": "16205247",
+    "name": "GRAFTA NANOTECH",
+    "address": "#121 7155 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-01-05T05:45:18.000Z",
+    "expiryDate": "2027-01-04T05:45:18.000Z",
+    "coordinates": [
+      -113.9475371,
+      50.9900722
+    ],
+    "longitude": -113.9475371,
+    "latitude": 50.9900722,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12452116",
+  "fullDetails": {
+    "licenseNumber": "12452116",
+    "name": "DOCTORS OPTICAL LAB",
+    "address": "#12 2219 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2006-03-29T10:19:08.000Z",
+    "expiryDate": "2026-03-28T10:19:08.000Z",
+    "coordinates": [
+      -114.007684,
+      51.0831651
+    ],
+    "longitude": -114.007684,
+    "latitude": 51.0831651,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

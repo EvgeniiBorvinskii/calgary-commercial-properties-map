@@ -1,0 +1,36 @@
+{
+  "id": "16415358",
+  "fullDetails": {
+    "licenseNumber": "16415358",
+    "name": "TSAS AUTOMOTIVE",
+    "address": "#14 2235 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-02-29T14:43:19.000Z",
+    "expiryDate": "2026-02-27T14:43:19.000Z",
+    "coordinates": [
+      -114.0075842,
+      51.0789634
+    ],
+    "longitude": -114.0075842,
+    "latitude": 51.0789634,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

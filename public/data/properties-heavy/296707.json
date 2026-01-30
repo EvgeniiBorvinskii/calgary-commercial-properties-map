@@ -1,0 +1,36 @@
+{
+  "id": "296707",
+  "fullDetails": {
+    "licenseNumber": "296707",
+    "name": "FIX AUTO CALGARY PEIGAN",
+    "address": "3596 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-14T00:00:00.000Z",
+    "coordinates": [
+      -113.9820538,
+      51.0144923
+    ],
+    "longitude": -113.9820538,
+    "latitude": 51.0144923,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

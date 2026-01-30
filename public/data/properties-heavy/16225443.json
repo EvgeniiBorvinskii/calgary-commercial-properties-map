@@ -1,0 +1,36 @@
+{
+  "id": "16225443",
+  "fullDetails": {
+    "licenseNumber": "16225443",
+    "name": "EYSANA",
+    "address": "30 SHANNON PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2023-04-10T13:31:36.000Z",
+    "expiryDate": "2026-04-09T13:31:36.000Z",
+    "coordinates": [
+      -114.0842294,
+      50.9134793
+    ],
+    "longitude": -114.0842294,
+    "latitude": 50.9134793,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

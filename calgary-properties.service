@@ -1,0 +1,18 @@
+[Unit]
+Description=Calgary Properties Next.js Application
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/srv/calgary.ypilo.com
+Environment=NODE_ENV=production
+Environment=PORT=3052
+ExecStart=/opt/node-v20.20.0-linux-x64/lib/node_modules/npm/bin/npm-cli.js start
+Restart=on-failure
+RestartSec=10s
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

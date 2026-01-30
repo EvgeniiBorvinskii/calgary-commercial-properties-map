@@ -1,0 +1,36 @@
+{
+  "id": "14161699",
+  "fullDetails": {
+    "licenseNumber": "14161699",
+    "name": "NATIONAL GLASS (2015)",
+    "address": "#118 610 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2022-03-14T15:50:51.000Z",
+    "expiryDate": "2026-03-13T15:50:51.000Z",
+    "coordinates": [
+      -114.0303897,
+      51.1357897
+    ],
+    "longitude": -114.0303897,
+    "latitude": 51.1357897,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

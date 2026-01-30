@@ -1,0 +1,36 @@
+{
+  "id": "14472344",
+  "fullDetails": {
+    "licenseNumber": "14472344",
+    "name": "SARJESA",
+    "address": "#15 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-07T05:33:21.000Z",
+    "expiryDate": "2026-11-06T05:33:21.000Z",
+    "coordinates": [
+      -113.9842355,
+      50.9911435
+    ],
+    "longitude": -113.9842355,
+    "latitude": 50.9911435,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

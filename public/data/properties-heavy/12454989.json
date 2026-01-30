@@ -1,0 +1,36 @@
+{
+  "id": "12454989",
+  "fullDetails": {
+    "licenseNumber": "12454989",
+    "name": "EDINBURGH LIQUOR STORE",
+    "address": "1247 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2006-02-14T09:07:57.000Z",
+    "expiryDate": "2026-02-13T09:07:57.000Z",
+    "coordinates": [
+      -114.0907272,
+      51.0420064
+    ],
+    "longitude": -114.0907272,
+    "latitude": 51.0420064,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

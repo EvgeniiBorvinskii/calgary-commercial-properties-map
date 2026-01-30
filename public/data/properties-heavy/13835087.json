@@ -1,0 +1,36 @@
+{
+  "id": "13835087",
+  "fullDetails": {
+    "licenseNumber": "13835087",
+    "name": "HEARINGLIFE CANADA",
+    "address": "#180 401 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-09-18T05:37:35.000Z",
+    "expiryDate": "2026-09-17T05:37:35.000Z",
+    "coordinates": [
+      -114.0697761,
+      51.0442974
+    ],
+    "longitude": -114.0697761,
+    "latitude": 51.0442974,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

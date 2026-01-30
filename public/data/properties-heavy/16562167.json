@@ -1,0 +1,37 @@
+{
+  "id": "16562167",
+  "fullDetails": {
+    "licenseNumber": "16562167",
+    "name": "COBS BREAD KINGSLAND",
+    "address": "7610 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-21T12:05:25.000Z",
+    "expiryDate": "2027-01-20T12:05:24.000Z",
+    "coordinates": [
+      -114.082518,
+      50.9855263
+    ],
+    "longitude": -114.082518,
+    "latitude": 50.9855263,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

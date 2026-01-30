@@ -1,0 +1,36 @@
+{
+  "id": "13499447",
+  "fullDetails": {
+    "licenseNumber": "13499447",
+    "name": "ORANGE DEVELOPMENTS",
+    "address": "#913 530 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-12-04T09:15:17.000Z",
+    "expiryDate": "2026-12-03T09:15:17.000Z",
+    "coordinates": [
+      -114.0729638,
+      51.0461498
+    ],
+    "longitude": -114.0729638,
+    "latitude": 51.0461498,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

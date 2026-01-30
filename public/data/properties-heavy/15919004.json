@@ -1,0 +1,37 @@
+{
+  "id": "15919004",
+  "fullDetails": {
+    "licenseNumber": "15919004",
+    "name": "RAINY CHIEF TRADING POST AND INDIGENOUS ART MARKET",
+    "address": "#10 3419 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-08-28T15:07:46.000Z",
+    "expiryDate": "2026-08-27T15:07:46.000Z",
+    "coordinates": [
+      -114.0308257,
+      51.08227
+    ],
+    "longitude": -114.0308257,
+    "latitude": 51.08227,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

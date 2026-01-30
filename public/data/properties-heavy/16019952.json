@@ -1,0 +1,36 @@
+{
+  "id": "16019952",
+  "fullDetails": {
+    "licenseNumber": "16019952",
+    "name": "DAVES DRIVING SCHOOL",
+    "address": "12710 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2025-12-19T11:37:06.000Z",
+    "expiryDate": "2026-12-18T11:37:05.000Z",
+    "coordinates": [
+      -113.9929905,
+      51.16663
+    ],
+    "longitude": -113.9929905,
+    "latitude": 51.16663,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

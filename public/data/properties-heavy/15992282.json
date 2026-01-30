@@ -1,0 +1,36 @@
+{
+  "id": "15992282",
+  "fullDetails": {
+    "licenseNumber": "15992282",
+    "name": "CONCRETE IMPRESSIONS",
+    "address": "6935 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-09-09T10:46:29.000Z",
+    "expiryDate": "2026-09-08T10:46:29.000Z",
+    "coordinates": [
+      -114.0615407,
+      50.9910166
+    ],
+    "longitude": -114.0615407,
+    "latitude": 50.9910166,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16553562",
+  "fullDetails": {
+    "licenseNumber": "16553562",
+    "name": "UNIFIED ENGINEERING",
+    "address": "#A 2915 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -113.9928193,
+      51.0053645
+    ],
+    "longitude": -113.9928193,
+    "latitude": 51.0053645,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

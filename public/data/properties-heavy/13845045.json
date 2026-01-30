@@ -1,0 +1,36 @@
+{
+  "id": "13845045",
+  "fullDetails": {
+    "licenseNumber": "13845045",
+    "name": "PARKER JOHNSTON INDUSTRIES ALBERTA",
+    "address": "4104 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-02-23T14:27:36.000Z",
+    "expiryDate": "2027-02-22T14:27:36.000Z",
+    "coordinates": [
+      -114.0398993,
+      51.0180415
+    ],
+    "longitude": -114.0398993,
+    "latitude": 51.0180415,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

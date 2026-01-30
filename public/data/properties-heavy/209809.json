@@ -1,0 +1,36 @@
+{
+  "id": "209809",
+  "fullDetails": {
+    "licenseNumber": "209809",
+    "name": "INTERNATIONAL PACIFIC SALES",
+    "address": "#147 4999 43 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-27T00:00:00.000Z",
+    "coordinates": [
+      -113.97109,
+      51.009207
+    ],
+    "longitude": -113.97109,
+    "latitude": 51.009207,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

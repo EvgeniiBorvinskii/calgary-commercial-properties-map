@@ -1,0 +1,36 @@
+{
+  "id": "12147625",
+  "fullDetails": {
+    "licenseNumber": "12147625",
+    "name": "UNCLE MOE'S DONAIRS",
+    "address": "4524C EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2003-01-25T05:36:42.000Z",
+    "expiryDate": "2026-01-24T05:36:42.000Z",
+    "coordinates": [
+      -114.0527775,
+      51.0936481
+    ],
+    "longitude": -114.0527775,
+    "latitude": 51.0936481,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

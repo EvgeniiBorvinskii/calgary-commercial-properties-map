@@ -1,0 +1,36 @@
+{
+  "id": "12146627",
+  "fullDetails": {
+    "licenseNumber": "12146627",
+    "name": "SAM CHAN'S TRADING",
+    "address": "3137 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-01T14:14:39.000Z",
+    "expiryDate": "2026-10-31T14:14:39.000Z",
+    "coordinates": [
+      -113.9877869,
+      51.0566304
+    ],
+    "longitude": -113.9877869,
+    "latitude": 51.0566304,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

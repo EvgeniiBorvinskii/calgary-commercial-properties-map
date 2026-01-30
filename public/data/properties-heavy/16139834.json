@@ -1,0 +1,36 @@
+{
+  "id": "16139834",
+  "fullDetails": {
+    "licenseNumber": "16139834",
+    "name": "KOOZA LIQUOR",
+    "address": "705 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2022-04-06T09:49:25.000Z",
+    "expiryDate": "2026-04-05T09:49:25.000Z",
+    "coordinates": [
+      -114.0764925,
+      51.0486042
+    ],
+    "longitude": -114.0764925,
+    "latitude": 51.0486042,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

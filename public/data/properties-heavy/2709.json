@@ -1,0 +1,36 @@
+{
+  "id": "2709",
+  "fullDetails": {
+    "licenseNumber": "2709",
+    "name": "CUSTOM METAL CONTRACTING",
+    "address": "#49 5342 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2006-09-12T18:20:05.000Z",
+    "expiryDate": "2026-09-11T18:20:05.000Z",
+    "coordinates": [
+      -113.9562193,
+      50.9904702
+    ],
+    "longitude": -113.9562193,
+    "latitude": 50.9904702,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

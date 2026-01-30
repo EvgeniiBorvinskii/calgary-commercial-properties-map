@@ -1,0 +1,37 @@
+{
+  "id": "16204414",
+  "fullDetails": {
+    "licenseNumber": "16204414",
+    "name": "BIG FISH & OPEN RANGE",
+    "address": "2018 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-11-17T10:40:17.000Z",
+    "expiryDate": "2026-11-16T10:40:17.000Z",
+    "coordinates": [
+      -114.1079321,
+      51.0241958
+    ],
+    "longitude": -114.1079321,
+    "latitude": 51.0241958,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

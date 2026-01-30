@@ -1,0 +1,36 @@
+{
+  "id": "14405211",
+  "fullDetails": {
+    "licenseNumber": "14405211",
+    "name": "SIGNARAMA CALGARY NORTH",
+    "address": "#12 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-16T08:38:22.000Z",
+    "expiryDate": "2026-02-15T08:38:22.000Z",
+    "coordinates": [
+      -114.0373083,
+      51.1040707
+    ],
+    "longitude": -114.0373083,
+    "latitude": 51.1040707,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

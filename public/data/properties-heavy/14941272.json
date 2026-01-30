@@ -1,0 +1,36 @@
+{
+  "id": "14941272",
+  "fullDetails": {
+    "licenseNumber": "14941272",
+    "name": "CDN CONTROLS",
+    "address": "#1400 311 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-10-11T13:57:21.000Z",
+    "expiryDate": "2026-10-10T13:57:20.000Z",
+    "coordinates": [
+      -114.0684544,
+      51.0473307
+    ],
+    "longitude": -114.0684544,
+    "latitude": 51.0473307,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

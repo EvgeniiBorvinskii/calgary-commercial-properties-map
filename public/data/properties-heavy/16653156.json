@@ -1,0 +1,36 @@
+{
+  "id": "16653156",
+  "fullDetails": {
+    "licenseNumber": "16653156",
+    "name": "UNCLE FATIH S PIZZA",
+    "address": "1521 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-06T14:06:02.000Z",
+    "expiryDate": "2026-08-05T14:06:02.000Z",
+    "coordinates": [
+      -114.0718638,
+      51.0382932
+    ],
+    "longitude": -114.0718638,
+    "latitude": 51.0382932,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

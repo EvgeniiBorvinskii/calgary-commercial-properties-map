@@ -1,0 +1,36 @@
+{
+  "id": "15992118",
+  "fullDetails": {
+    "licenseNumber": "15992118",
+    "name": "ZAETL ELECTROLYSIS",
+    "address": "#308 2204 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2021-03-12T14:51:12.000Z",
+    "expiryDate": "2026-03-11T14:51:12.000Z",
+    "coordinates": [
+      -114.0684241,
+      51.0329979
+    ],
+    "longitude": -114.0684241,
+    "latitude": 51.0329979,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

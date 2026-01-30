@@ -1,0 +1,36 @@
+{
+  "id": "16585028",
+  "fullDetails": {
+    "licenseNumber": "16585028",
+    "name": "PLUNGE AUDIO",
+    "address": "#9 213 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-02T15:51:21.000Z",
+    "expiryDate": "2026-04-01T15:51:20.000Z",
+    "coordinates": [
+      -114.1058726,
+      51.0539821
+    ],
+    "longitude": -114.1058726,
+    "latitude": 51.0539821,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

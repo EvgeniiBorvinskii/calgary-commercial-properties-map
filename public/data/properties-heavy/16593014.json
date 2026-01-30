@@ -1,0 +1,36 @@
+{
+  "id": "16593014",
+  "fullDetails": {
+    "licenseNumber": "16593014",
+    "name": "CCH UNIVERSITY DISTRICT GP",
+    "address": "6010A 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-04-23T13:40:17.000Z",
+    "expiryDate": "2026-04-22T13:40:16.000Z",
+    "coordinates": [
+      -114.034018,
+      50.9989281
+    ],
+    "longitude": -114.034018,
+    "latitude": 50.9989281,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

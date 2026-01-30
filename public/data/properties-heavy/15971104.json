@@ -1,0 +1,36 @@
+{
+  "id": "15971104",
+  "fullDetails": {
+    "licenseNumber": "15971104",
+    "name": "MIRRA MASA FASHION STUDIO",
+    "address": "911 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-26T08:41:25.000Z",
+    "expiryDate": "2026-04-25T08:41:25.000Z",
+    "coordinates": [
+      -114.0824076,
+      51.0377122
+    ],
+    "longitude": -114.0824076,
+    "latitude": 51.0377122,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

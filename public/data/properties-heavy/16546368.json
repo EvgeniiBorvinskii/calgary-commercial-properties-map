@@ -1,0 +1,36 @@
+{
+  "id": "16546368",
+  "fullDetails": {
+    "licenseNumber": "16546368",
+    "name": "J-M BOY MOBILE MECHANIC",
+    "address": "4540 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-11-12T11:07:41.000Z",
+    "expiryDate": "2026-11-11T11:07:40.000Z",
+    "coordinates": [
+      -114.027447,
+      51.0926775
+    ],
+    "longitude": -114.027447,
+    "latitude": 51.0926775,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

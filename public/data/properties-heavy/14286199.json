@@ -1,0 +1,36 @@
+{
+  "id": "14286199",
+  "fullDetails": {
+    "licenseNumber": "14286199",
+    "name": "DEBUTANTE DESIGN",
+    "address": "3606 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-01-04T15:02:01.000Z",
+    "expiryDate": "2027-01-03T15:02:01.000Z",
+    "coordinates": [
+      -114.0463273,
+      51.0222058
+    ],
+    "longitude": -114.0463273,
+    "latitude": 51.0222058,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

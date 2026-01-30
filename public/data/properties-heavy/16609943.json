@@ -1,0 +1,36 @@
+{
+  "id": "16609943",
+  "fullDetails": {
+    "licenseNumber": "16609943",
+    "name": "STACK + PRESS",
+    "address": "#1501AC 2016A AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-06T14:06:03.000Z",
+    "expiryDate": "2026-05-05T14:06:01.000Z",
+    "coordinates": [
+      -114.0043176,
+      51.1308753
+    ],
+    "longitude": -114.0043176,
+    "latitude": 51.1308753,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

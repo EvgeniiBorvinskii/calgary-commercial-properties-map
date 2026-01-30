@@ -1,0 +1,37 @@
+{
+  "id": "14590632",
+  "fullDetails": {
+    "licenseNumber": "14590632",
+    "name": "ATMOSPHERE HEALTH",
+    "address": "#215 4039 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-24T05:30:19.000Z",
+    "expiryDate": "2026-07-23T05:30:19.000Z",
+    "coordinates": [
+      -114.1330814,
+      51.0887791
+    ],
+    "longitude": -114.1330814,
+    "latitude": 51.0887791,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15942162",
+  "fullDetails": {
+    "licenseNumber": "15942162",
+    "name": "CUPBOARDS EXPRESS",
+    "address": "#C 2020 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2020-11-02T13:43:02.000Z",
+    "expiryDate": "2026-11-01T13:43:02.000Z",
+    "coordinates": [
+      -114.0088761,
+      51.0819744
+    ],
+    "longitude": -114.0088761,
+    "latitude": 51.0819744,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "21501",
+  "fullDetails": {
+    "licenseNumber": "21501",
+    "name": "CREDIT UNION CENTRAL ALBERTA",
+    "address": "#500 227 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-11-18T14:31:31.000Z",
+    "expiryDate": "2026-11-17T14:31:31.000Z",
+    "coordinates": [
+      -114.0677954,
+      51.0420886
+    ],
+    "longitude": -114.0677954,
+    "latitude": 51.0420886,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

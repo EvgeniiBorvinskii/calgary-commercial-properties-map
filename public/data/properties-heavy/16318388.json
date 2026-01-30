@@ -1,0 +1,36 @@
+{
+  "id": "16318388",
+  "fullDetails": {
+    "licenseNumber": "16318388",
+    "name": "AGAR CANADA",
+    "address": "#7 7819 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-05-19T09:54:09.000Z",
+    "expiryDate": "2026-05-18T09:54:09.000Z",
+    "coordinates": [
+      -114.1997764,
+      51.1536472
+    ],
+    "longitude": -114.1997764,
+    "latitude": 51.1536472,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "705392",
+  "fullDetails": {
+    "licenseNumber": "705392",
+    "name": "PRIME PROJECTS",
+    "address": "#1440 400 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-12-21T14:36:26.000Z",
+    "expiryDate": "2026-12-20T14:36:26.000Z",
+    "coordinates": [
+      -114.0709605,
+      51.051085
+    ],
+    "longitude": -114.0709605,
+    "latitude": 51.051085,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

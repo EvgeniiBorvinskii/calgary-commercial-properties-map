@@ -1,0 +1,36 @@
+{
+  "id": "16063711",
+  "fullDetails": {
+    "licenseNumber": "16063711",
+    "name": "BUD BAR CANNABIS",
+    "address": "#101 206 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-08-09T14:59:10.000Z",
+    "expiryDate": "2026-08-08T14:59:10.000Z",
+    "coordinates": [
+      -114.0603692,
+      51.0425517
+    ],
+    "longitude": -114.0603692,
+    "latitude": 51.0425517,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

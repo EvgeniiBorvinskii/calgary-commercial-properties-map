@@ -1,0 +1,36 @@
+{
+  "id": "14919625",
+  "fullDetails": {
+    "licenseNumber": "14919625",
+    "name": "MASTER RIM'S TAEKWONDO",
+    "address": "#240 12024 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-12T11:04:14.000Z",
+    "expiryDate": "2026-12-11T11:04:13.000Z",
+    "coordinates": [
+      -114.1620714,
+      51.1610212
+    ],
+    "longitude": -114.1620714,
+    "latitude": 51.1610212,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16356289",
+  "fullDetails": {
+    "licenseNumber": "16356289",
+    "name": "SWEET RICE",
+    "address": "4204 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-24T12:36:36.000Z",
+    "expiryDate": "2026-08-23T12:36:36.000Z",
+    "coordinates": [
+      -114.0314772,
+      51.0890662
+    ],
+    "longitude": -114.0314772,
+    "latitude": 51.0890662,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

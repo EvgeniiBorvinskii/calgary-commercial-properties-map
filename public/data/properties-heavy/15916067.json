@@ -1,0 +1,37 @@
+{
+  "id": "15916067",
+  "fullDetails": {
+    "licenseNumber": "15916067",
+    "name": "E F C AFRO-CARIBBEAN",
+    "address": "#3 2235 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-19T16:40:27.000Z",
+    "expiryDate": "2026-11-18T16:40:27.000Z",
+    "coordinates": [
+      -114.0073838,
+      51.0794393
+    ],
+    "longitude": -114.0073838,
+    "latitude": 51.0794393,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

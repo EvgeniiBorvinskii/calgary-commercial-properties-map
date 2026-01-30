@@ -1,0 +1,36 @@
+{
+  "id": "16341299",
+  "fullDetails": {
+    "licenseNumber": "16341299",
+    "name": "NFISDRCANADAULC",
+    "address": "#10 11550 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-07-27T16:00:18.000Z",
+    "expiryDate": "2026-07-26T16:00:18.000Z",
+    "coordinates": [
+      -113.9996465,
+      51.1578697
+    ],
+    "longitude": -113.9996465,
+    "latitude": 51.1578697,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

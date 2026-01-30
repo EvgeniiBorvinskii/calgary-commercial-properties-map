@@ -1,0 +1,36 @@
+{
+  "id": "13835798",
+  "fullDetails": {
+    "licenseNumber": "13835798",
+    "name": "FIVE SPICE KITCHEN",
+    "address": "#3 5111 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-05-09T12:04:25.000Z",
+    "expiryDate": "2026-05-08T12:04:24.000Z",
+    "coordinates": [
+      -114.1674713,
+      51.0750364
+    ],
+    "longitude": -114.1674713,
+    "latitude": 51.0750364,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

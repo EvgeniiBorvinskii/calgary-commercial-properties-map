@@ -1,0 +1,36 @@
+{
+  "id": "16274847",
+  "fullDetails": {
+    "licenseNumber": "16274847",
+    "name": "PACIFIC COAST WAREHOUSING",
+    "address": "#20 4216 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2023-02-13T14:33:06.000Z",
+    "expiryDate": "2026-02-12T14:33:06.000Z",
+    "coordinates": [
+      -113.9735886,
+      50.9995857
+    ],
+    "longitude": -113.9735886,
+    "latitude": 50.9995857,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

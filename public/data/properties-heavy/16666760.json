@@ -1,0 +1,36 @@
+{
+  "id": "16666760",
+  "fullDetails": {
+    "licenseNumber": "16666760",
+    "name": "LITTLE LEBANON",
+    "address": "3515E 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-09-25T15:52:17.000Z",
+    "expiryDate": "2026-09-24T15:52:16.000Z",
+    "coordinates": [
+      -114.1379977,
+      51.0374699
+    ],
+    "longitude": -114.1379977,
+    "latitude": 51.0374699,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

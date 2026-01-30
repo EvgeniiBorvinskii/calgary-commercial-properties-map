@@ -1,0 +1,36 @@
+{
+  "id": "12329934",
+  "fullDetails": {
+    "licenseNumber": "12329934",
+    "name": "ALBERTA MOTOR ASSOCIATION",
+    "address": "3809 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2013-11-14T11:03:19.000Z",
+    "expiryDate": "2026-11-13T11:03:19.000Z",
+    "coordinates": [
+      -114.0460371,
+      51.0210921
+    ],
+    "longitude": -114.0460371,
+    "latitude": 51.0210921,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

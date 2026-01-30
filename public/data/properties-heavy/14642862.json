@@ -1,0 +1,36 @@
+{
+  "id": "14642862",
+  "fullDetails": {
+    "licenseNumber": "14642862",
+    "name": "KEM'S FASHION",
+    "address": "#13 1431 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-10-18T09:08:22.000Z",
+    "expiryDate": "2026-10-17T09:08:22.000Z",
+    "coordinates": [
+      -114.0295387,
+      51.0878908
+    ],
+    "longitude": -114.0295387,
+    "latitude": 51.0878908,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

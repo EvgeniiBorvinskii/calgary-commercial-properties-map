@@ -1,0 +1,36 @@
+{
+  "id": "267021",
+  "fullDetails": {
+    "licenseNumber": "267021",
+    "name": "EXCELL AUTO CENTER",
+    "address": "323 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-15T00:00:00.000Z",
+    "coordinates": [
+      -114.0585283,
+      51.0211211
+    ],
+    "longitude": -114.0585283,
+    "latitude": 51.0211211,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

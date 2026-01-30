@@ -1,0 +1,36 @@
+{
+  "id": "12429403",
+  "fullDetails": {
+    "licenseNumber": "12429403",
+    "name": "SOUNDWAVE HEARING CARE",
+    "address": "#103 803 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-22T12:51:53.000Z",
+    "expiryDate": "2026-08-21T12:51:53.000Z",
+    "coordinates": [
+      -114.0452853,
+      51.0530341
+    ],
+    "longitude": -114.0452853,
+    "latitude": 51.0530341,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

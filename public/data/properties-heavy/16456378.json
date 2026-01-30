@@ -1,0 +1,36 @@
+{
+  "id": "16456378",
+  "fullDetails": {
+    "licenseNumber": "16456378",
+    "name": "GENIE DISTRIBUTORS",
+    "address": "#200 1808 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-05-07T08:29:52.000Z",
+    "expiryDate": "2026-05-06T08:29:52.000Z",
+    "coordinates": [
+      -114.0173133,
+      51.0681984
+    ],
+    "longitude": -114.0173133,
+    "latitude": 51.0681984,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

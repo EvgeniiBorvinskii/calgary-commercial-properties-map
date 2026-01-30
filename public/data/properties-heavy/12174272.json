@@ -1,0 +1,36 @@
+{
+  "id": "12174272",
+  "fullDetails": {
+    "licenseNumber": "12174272",
+    "name": "TRIMET BUILDING PRODUCTS",
+    "address": "4545 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2009-03-04T10:34:21.000Z",
+    "expiryDate": "2026-03-03T10:34:21.000Z",
+    "coordinates": [
+      -113.9692721,
+      51.0031371
+    ],
+    "longitude": -113.9692721,
+    "latitude": 51.0031371,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

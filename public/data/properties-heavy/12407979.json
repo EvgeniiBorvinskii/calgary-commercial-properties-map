@@ -1,0 +1,37 @@
+{
+  "id": "12407979",
+  "fullDetails": {
+    "licenseNumber": "12407979",
+    "name": "WESTWINDS SUPERSTORE GAS BAR",
+    "address": "#300 3633 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2006-02-02T11:52:38.000Z",
+    "expiryDate": "2027-02-01T11:52:38.000Z",
+    "coordinates": [
+      -113.9668367,
+      51.1090525
+    ],
+    "longitude": -113.9668367,
+    "latitude": 51.1090525,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

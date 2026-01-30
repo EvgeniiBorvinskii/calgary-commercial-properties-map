@@ -1,0 +1,36 @@
+{
+  "id": "15976087",
+  "fullDetails": {
+    "licenseNumber": "15976087",
+    "name": "RISIO INSTITUTE FOR DIGITAL DENTAL EDUCATION",
+    "address": "#900 10655 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2021-03-02T07:23:59.000Z",
+    "expiryDate": "2027-03-01T07:23:59.000Z",
+    "coordinates": [
+      -114.0740138,
+      50.9590997
+    ],
+    "longitude": -114.0740138,
+    "latitude": 50.9590997,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

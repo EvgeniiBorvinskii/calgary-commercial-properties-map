@@ -1,0 +1,36 @@
+{
+  "id": "773648",
+  "fullDetails": {
+    "licenseNumber": "773648",
+    "name": "ALBERTA LAMINATION",
+    "address": "#141 2727 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-01-22T14:19:25.000Z",
+    "expiryDate": "2026-01-21T14:19:25.000Z",
+    "coordinates": [
+      -113.9950018,
+      51.051456
+    ],
+    "longitude": -113.9950018,
+    "latitude": 51.051456,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

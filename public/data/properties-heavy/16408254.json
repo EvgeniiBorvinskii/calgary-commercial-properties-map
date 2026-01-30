@@ -1,0 +1,36 @@
+{
+  "id": "16408254",
+  "fullDetails": {
+    "licenseNumber": "16408254",
+    "name": "PIZZA LAND AND DONAIR",
+    "address": "4311 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-04T15:43:35.000Z",
+    "expiryDate": "2026-03-03T15:43:35.000Z",
+    "coordinates": [
+      -114.0628471,
+      51.0908923
+    ],
+    "longitude": -114.0628471,
+    "latitude": 51.0908923,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16249872",
+  "fullDetails": {
+    "licenseNumber": "16249872",
+    "name": "EVOLVED SPORTS PERFROMANCE",
+    "address": "#128 5726 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-08-17T12:30:05.000Z",
+    "expiryDate": "2026-08-16T12:30:05.000Z",
+    "coordinates": [
+      -114.042887,
+      51.0031605
+    ],
+    "longitude": -114.042887,
+    "latitude": 51.0031605,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

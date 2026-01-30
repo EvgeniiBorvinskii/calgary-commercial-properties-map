@@ -1,0 +1,36 @@
+{
+  "id": "14954119",
+  "fullDetails": {
+    "licenseNumber": "14954119",
+    "name": "BIKINI VILLAGE",
+    "address": "#Q43 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-27T10:35:49.000Z",
+    "expiryDate": "2026-12-26T10:35:49.000Z",
+    "coordinates": [
+      -114.153935,
+      51.0829448
+    ],
+    "longitude": -114.153935,
+    "latitude": 51.0829448,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

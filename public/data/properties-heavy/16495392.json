@@ -1,0 +1,36 @@
+{
+  "id": "16495392",
+  "fullDetails": {
+    "licenseNumber": "16495392",
+    "name": "BROW FOR YOU (THE)",
+    "address": "#18 1324 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "pending",
+    "issuedDate": "2025-03-04T10:36:29.000Z",
+    "expiryDate": "2026-03-03T10:36:28.000Z",
+    "coordinates": [
+      -114.0925259,
+      51.0446362
+    ],
+    "longitude": -114.0925259,
+    "latitude": 51.0446362,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

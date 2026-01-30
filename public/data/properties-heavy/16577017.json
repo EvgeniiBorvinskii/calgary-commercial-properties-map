@@ -1,0 +1,37 @@
+{
+  "id": "16577017",
+  "fullDetails": {
+    "licenseNumber": "16577017",
+    "name": "D BISHOP FAMINC WP",
+    "address": "#575 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-16T15:14:54.000Z",
+    "expiryDate": "2027-01-15T15:14:54.000Z",
+    "coordinates": [
+      -114.0707579,
+      50.9570496
+    ],
+    "longitude": -114.0707579,
+    "latitude": 50.9570496,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

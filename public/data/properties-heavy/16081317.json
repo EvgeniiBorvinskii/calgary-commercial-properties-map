@@ -1,0 +1,37 @@
+{
+  "id": "16081317",
+  "fullDetails": {
+    "licenseNumber": "16081317",
+    "name": "HALAN FLOORING",
+    "address": "113 42 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-01T10:38:18.000Z",
+    "expiryDate": "2026-11-30T10:38:18.000Z",
+    "coordinates": [
+      -114.0634995,
+      51.0151569
+    ],
+    "longitude": -114.0634995,
+    "latitude": 51.0151569,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

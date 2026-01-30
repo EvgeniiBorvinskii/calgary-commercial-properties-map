@@ -1,0 +1,36 @@
+{
+  "id": "16346249",
+  "fullDetails": {
+    "licenseNumber": "16346249",
+    "name": "PVOLVE",
+    "address": "#103 1217 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-01-02T12:58:23.000Z",
+    "expiryDate": "2027-01-01T12:58:23.000Z",
+    "coordinates": [
+      -114.0902692,
+      51.0523538
+    ],
+    "longitude": -114.0902692,
+    "latitude": 51.0523538,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15406812",
+  "fullDetails": {
+    "licenseNumber": "15406812",
+    "name": "SAME STARS WELLNESS",
+    "address": "#306 1010 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2023-01-30T15:24:49.000Z",
+    "expiryDate": "2026-01-29T15:24:49.000Z",
+    "coordinates": [
+      -114.0399925,
+      51.0535322
+    ],
+    "longitude": -114.0399925,
+    "latitude": 51.0535322,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

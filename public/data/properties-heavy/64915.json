@@ -1,0 +1,36 @@
+{
+  "id": "64915",
+  "fullDetails": {
+    "licenseNumber": "64915",
+    "name": "PCL CONSTRUCTION MANAGEMENT",
+    "address": "#140 3030 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-05-23T13:01:01.000Z",
+    "expiryDate": "2026-05-22T13:01:01.000Z",
+    "coordinates": [
+      -113.9902882,
+      51.0510652
+    ],
+    "longitude": -113.9902882,
+    "latitude": 51.0510652,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16446197",
+  "fullDetails": {
+    "licenseNumber": "16446197",
+    "name": "WYLDEWOOD ESTATES",
+    "address": "9790 BONAVENTURE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-04-26T15:15:35.000Z",
+    "expiryDate": "2026-04-25T15:15:35.000Z",
+    "coordinates": [
+      -114.0674923,
+      50.9655518
+    ],
+    "longitude": -114.0674923,
+    "latitude": 50.9655518,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

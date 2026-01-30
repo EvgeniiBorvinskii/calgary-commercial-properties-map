@@ -1,0 +1,36 @@
+{
+  "id": "16702326",
+  "fullDetails": {
+    "licenseNumber": "16702326",
+    "name": "DRIP VAPE",
+    "address": "#16 7930 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-12-08T15:56:52.000Z",
+    "expiryDate": "2026-12-07T15:56:51.000Z",
+    "coordinates": [
+      -114.2010972,
+      51.0895905
+    ],
+    "longitude": -114.2010972,
+    "latitude": 51.0895905,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

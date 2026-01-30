@@ -1,0 +1,36 @@
+{
+  "id": "16518011",
+  "fullDetails": {
+    "licenseNumber": "16518011",
+    "name": "DR PHONE FIX",
+    "address": "#2130 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-01T08:11:00.000Z",
+    "expiryDate": "2026-07-31T08:10:59.000Z",
+    "coordinates": [
+      -114.0421801,
+      51.1093883
+    ],
+    "longitude": -114.0421801,
+    "latitude": 51.1093883,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

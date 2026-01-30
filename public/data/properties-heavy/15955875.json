@@ -1,0 +1,37 @@
+{
+  "id": "15955875",
+  "fullDetails": {
+    "licenseNumber": "15955875",
+    "name": "ORIGINAL JOE'S RESTAURANT & BAR",
+    "address": "#1009 163 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-05-25T13:45:11.000Z",
+    "expiryDate": "2026-05-24T13:45:11.000Z",
+    "coordinates": [
+      -114.0101084,
+      50.9626936
+    ],
+    "longitude": -114.0101084,
+    "latitude": 50.9626936,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

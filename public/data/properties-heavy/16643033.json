@@ -1,0 +1,36 @@
+{
+  "id": "16643033",
+  "fullDetails": {
+    "licenseNumber": "16643033",
+    "name": "LITTLE LUCILLE",
+    "address": "#109 3445 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - NO PREMISES",
+    "licenseTypes": "RETAIL DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-16T12:09:11.000Z",
+    "expiryDate": "2026-06-15T12:09:11.000Z",
+    "coordinates": [
+      -113.9883774,
+      50.9486542
+    ],
+    "longitude": -113.9883774,
+    "latitude": 50.9486542,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

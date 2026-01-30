@@ -1,0 +1,36 @@
+{
+  "id": "16470890",
+  "fullDetails": {
+    "licenseNumber": "16470890",
+    "name": "BENTO SUSHI",
+    "address": "8818 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-09T11:19:59.000Z",
+    "expiryDate": "2026-07-08T11:19:59.000Z",
+    "coordinates": [
+      -114.0692622,
+      50.9745607
+    ],
+    "longitude": -114.0692622,
+    "latitude": 50.9745607,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

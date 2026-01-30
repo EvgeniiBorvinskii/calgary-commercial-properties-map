@@ -1,0 +1,36 @@
+{
+  "id": "16693459",
+  "fullDetails": {
+    "licenseNumber": "16693459",
+    "name": "SELECT TAXIDERMY SUPPLY",
+    "address": "#109 1829 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-11-12T15:55:50.000Z",
+    "expiryDate": "2026-11-11T15:55:50.000Z",
+    "coordinates": [
+      -113.956413,
+      51.0362459
+    ],
+    "longitude": -113.956413,
+    "latitude": 51.0362459,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

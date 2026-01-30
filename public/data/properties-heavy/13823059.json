@@ -1,0 +1,36 @@
+{
+  "id": "13823059",
+  "fullDetails": {
+    "licenseNumber": "13823059",
+    "name": "SELKIRK SIGNS",
+    "address": "#200 3700 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-14T15:33:53.000Z",
+    "expiryDate": "2026-11-13T15:33:52.000Z",
+    "coordinates": [
+      -113.9809037,
+      50.9830073
+    ],
+    "longitude": -113.9809037,
+    "latitude": 50.9830073,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12379350",
+  "fullDetails": {
+    "licenseNumber": "12379350",
+    "name": "KIT INTERIOR OBJECTS",
+    "address": "739 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-18T11:14:40.000Z",
+    "expiryDate": "2026-09-17T11:14:39.000Z",
+    "coordinates": [
+      -114.0787819,
+      51.0425852
+    ],
+    "longitude": -114.0787819,
+    "latitude": 51.0425852,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

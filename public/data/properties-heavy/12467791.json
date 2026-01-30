@@ -1,0 +1,36 @@
+{
+  "id": "12467791",
+  "fullDetails": {
+    "licenseNumber": "12467791",
+    "name": "EUROPEAN BAKERY & DELI",
+    "address": "#160 515 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2006-03-20T10:23:27.000Z",
+    "expiryDate": "2026-03-19T10:23:27.000Z",
+    "coordinates": [
+      -114.0723176,
+      51.0375697
+    ],
+    "longitude": -114.0723176,
+    "latitude": 51.0375697,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

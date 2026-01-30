@@ -1,0 +1,37 @@
+{
+  "id": "16000853",
+  "fullDetails": {
+    "licenseNumber": "16000853",
+    "name": "PARTY CITY",
+    "address": "#4 9950 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-14T07:40:20.000Z",
+    "expiryDate": "2026-09-13T07:40:20.000Z",
+    "coordinates": [
+      -114.070761,
+      50.9620821
+    ],
+    "longitude": -114.070761,
+    "latitude": 50.9620821,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

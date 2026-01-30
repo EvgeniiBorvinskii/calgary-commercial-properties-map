@@ -1,0 +1,36 @@
+{
+  "id": "445726",
+  "fullDetails": {
+    "licenseNumber": "445726",
+    "name": "TEXACANA TURBINES",
+    "address": "#130 7356 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-01-17T08:42:18.000Z",
+    "expiryDate": "2027-01-16T08:42:18.000Z",
+    "coordinates": [
+      -113.9260571,
+      50.959235
+    ],
+    "longitude": -113.9260571,
+    "latitude": 50.959235,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13125265",
+  "fullDetails": {
+    "licenseNumber": "13125265",
+    "name": "JARDEG CONSTRUCTION SERVICES",
+    "address": "10840 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-03-08T09:42:25.000Z",
+    "expiryDate": "2026-03-07T09:42:25.000Z",
+    "coordinates": [
+      -113.9968969,
+      50.9550734
+    ],
+    "longitude": -113.9968969,
+    "latitude": 50.9550734,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16494460",
+  "fullDetails": {
+    "licenseNumber": "16494460",
+    "name": "1210 MEMORIAL",
+    "address": "1210 MEMORIAL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-01-08T07:41:14.000Z",
+    "expiryDate": "2027-01-07T07:41:14.000Z",
+    "coordinates": [
+      -114.0903186,
+      51.0513067
+    ],
+    "longitude": -114.0903186,
+    "latitude": 51.0513067,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

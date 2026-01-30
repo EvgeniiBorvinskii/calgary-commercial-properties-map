@@ -1,0 +1,36 @@
+{
+  "id": "16288862",
+  "fullDetails": {
+    "licenseNumber": "16288862",
+    "name": "HAO BOWL LLC",
+    "address": "#270F 605 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-19T11:13:09.000Z",
+    "expiryDate": "2026-09-18T11:13:08.000Z",
+    "coordinates": [
+      -114.0745489,
+      51.0484318
+    ],
+    "longitude": -114.0745489,
+    "latitude": 51.0484318,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

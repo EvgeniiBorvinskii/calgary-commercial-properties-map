@@ -1,0 +1,36 @@
+{
+  "id": "13796289",
+  "fullDetails": {
+    "licenseNumber": "13796289",
+    "name": "CASCADES CONTAINERBOARD PACKAGING",
+    "address": "416 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-11-07T12:35:19.000Z",
+    "expiryDate": "2026-11-06T12:35:19.000Z",
+    "coordinates": [
+      -114.0557092,
+      51.0021385
+    ],
+    "longitude": -114.0557092,
+    "latitude": 51.0021385,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

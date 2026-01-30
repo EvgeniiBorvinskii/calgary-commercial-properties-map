@@ -1,0 +1,36 @@
+{
+  "id": "16110009",
+  "fullDetails": {
+    "licenseNumber": "16110009",
+    "name": "COVE PROPERTIES ELBOW 5 EIGHT",
+    "address": "#1100 300 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-02T16:13:42.000Z",
+    "expiryDate": "2026-12-01T16:13:42.000Z",
+    "coordinates": [
+      -114.0683248,
+      51.0488411
+    ],
+    "longitude": -114.0683248,
+    "latitude": 51.0488411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

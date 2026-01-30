@@ -1,0 +1,37 @@
+{
+  "id": "12338885",
+  "fullDetails": {
+    "licenseNumber": "12338885",
+    "name": "GOODLIFE FITNESS CLUB /  GOODLIFE FITNESS CLUB FOR WOMEN",
+    "address": "#120 13226 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2005-04-18T10:00:32.000Z",
+    "expiryDate": "2026-04-17T10:00:32.000Z",
+    "coordinates": [
+      -114.066609,
+      50.9324879
+    ],
+    "longitude": -114.066609,
+    "latitude": 50.9324879,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

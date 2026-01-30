@@ -1,0 +1,36 @@
+{
+  "id": "14820088",
+  "fullDetails": {
+    "licenseNumber": "14820088",
+    "name": "UHAUL/COLD SHOT COURIER FLYING J SE",
+    "address": "11511 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-04-11T13:13:29.000Z",
+    "expiryDate": "2026-04-10T13:13:29.000Z",
+    "coordinates": [
+      -113.9797668,
+      50.9493718
+    ],
+    "longitude": -113.9797668,
+    "latitude": 50.9493718,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

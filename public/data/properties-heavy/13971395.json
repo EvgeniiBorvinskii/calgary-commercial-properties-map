@@ -1,0 +1,36 @@
+{
+  "id": "13971395",
+  "fullDetails": {
+    "licenseNumber": "13971395",
+    "name": "ALTITUDE RESTAURANT EQUIPMENT SERVICE",
+    "address": "#4 1815 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-15T09:20:53.000Z",
+    "expiryDate": "2026-05-14T09:20:53.000Z",
+    "coordinates": [
+      -114.0162637,
+      51.0764754
+    ],
+    "longitude": -114.0162637,
+    "latitude": 51.0764754,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

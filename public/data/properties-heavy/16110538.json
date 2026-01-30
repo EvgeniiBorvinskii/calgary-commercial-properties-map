@@ -1,0 +1,37 @@
+{
+  "id": "16110538",
+  "fullDetails": {
+    "licenseNumber": "16110538",
+    "name": "VOLLEYBALL ACADEMY",
+    "address": "#150 5423 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-12-09T10:15:08.000Z",
+    "expiryDate": "2026-12-08T10:15:08.000Z",
+    "coordinates": [
+      -113.9537473,
+      50.9984585
+    ],
+    "longitude": -113.9537473,
+    "latitude": 50.9984585,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

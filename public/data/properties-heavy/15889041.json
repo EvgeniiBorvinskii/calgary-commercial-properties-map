@@ -1,0 +1,36 @@
+{
+  "id": "15889041",
+  "fullDetails": {
+    "licenseNumber": "15889041",
+    "name": "SAVANNA EYECARE",
+    "address": "#8160 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-06-09T13:55:14.000Z",
+    "expiryDate": "2026-06-08T13:55:14.000Z",
+    "coordinates": [
+      -113.9502301,
+      51.1328158
+    ],
+    "longitude": -113.9502301,
+    "latitude": 51.1328158,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

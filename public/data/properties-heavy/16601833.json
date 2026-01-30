@@ -1,0 +1,36 @@
+{
+  "id": "16601833",
+  "fullDetails": {
+    "licenseNumber": "16601833",
+    "name": "KANS COMMERCIAL PROPERTIES",
+    "address": "#1 1828 29 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2025-03-27T09:01:35.000Z",
+    "expiryDate": "2026-03-26T09:01:34.000Z",
+    "coordinates": [
+      -114.1038043,
+      51.0278854
+    ],
+    "longitude": -114.1038043,
+    "latitude": 51.0278854,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "88310",
+  "fullDetails": {
+    "licenseNumber": "88310",
+    "name": "G M WOODWORK",
+    "address": "7810 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-06-20T05:53:03.000Z",
+    "expiryDate": "2026-06-19T05:53:03.000Z",
+    "coordinates": [
+      -113.9600084,
+      50.9830225
+    ],
+    "longitude": -113.9600084,
+    "latitude": 50.9830225,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

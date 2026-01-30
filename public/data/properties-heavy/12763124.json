@@ -1,0 +1,36 @@
+{
+  "id": "12763124",
+  "fullDetails": {
+    "licenseNumber": "12763124",
+    "name": "NEW WEST CUSTOM HOMES",
+    "address": "#280 15 ROYAL VISTA PL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-08T15:02:03.000Z",
+    "expiryDate": "2027-01-07T15:02:03.000Z",
+    "coordinates": [
+      -114.2100853,
+      51.1508984
+    ],
+    "longitude": -114.2100853,
+    "latitude": 51.1508984,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

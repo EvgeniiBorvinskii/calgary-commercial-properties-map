@@ -1,0 +1,37 @@
+{
+  "id": "12754537",
+  "fullDetails": {
+    "licenseNumber": "12754537",
+    "name": "TREASURE OF SAIGON",
+    "address": "6432 OLD BANFF COACH RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-05-07T08:25:47.000Z",
+    "expiryDate": "2026-05-06T08:25:47.000Z",
+    "coordinates": [
+      -114.1800313,
+      51.0608063
+    ],
+    "longitude": -114.1800313,
+    "latitude": 51.0608063,
+    "community": "PATTERSON",
+    "ward": "PAT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

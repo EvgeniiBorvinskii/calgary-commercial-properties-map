@@ -1,0 +1,37 @@
+{
+  "id": "15017429",
+  "fullDetails": {
+    "licenseNumber": "15017429",
+    "name": "ALPHADIGITAL PRINT AND SIGNS",
+    "address": "#1 701 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-10T12:02:15.000Z",
+    "expiryDate": "2026-07-09T12:02:14.000Z",
+    "coordinates": [
+      -113.9901231,
+      51.0584104
+    ],
+    "longitude": -113.9901231,
+    "latitude": 51.0584104,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

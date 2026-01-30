@@ -1,0 +1,37 @@
+{
+  "id": "525444",
+  "fullDetails": {
+    "licenseNumber": "525444",
+    "name": "MUSTARD SEED SOCIETY (THE)",
+    "address": "#1B 102 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-07-11T05:33:45.000Z",
+    "expiryDate": "2026-07-10T05:33:45.000Z",
+    "coordinates": [
+      -114.0629957,
+      51.0426412
+    ],
+    "longitude": -114.0629957,
+    "latitude": 51.0426412,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

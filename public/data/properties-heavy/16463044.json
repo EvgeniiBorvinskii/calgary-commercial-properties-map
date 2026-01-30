@@ -1,0 +1,37 @@
+{
+  "id": "16463044",
+  "fullDetails": {
+    "licenseNumber": "16463044",
+    "name": "LOCKMASTERS",
+    "address": "#2 3434 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-04-28T15:47:30.000Z",
+    "expiryDate": "2026-04-27T15:47:30.000Z",
+    "coordinates": [
+      -113.9870301,
+      51.0841074
+    ],
+    "longitude": -113.9870301,
+    "latitude": 51.0841074,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

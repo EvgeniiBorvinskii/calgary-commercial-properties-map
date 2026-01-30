@@ -1,0 +1,36 @@
+{
+  "id": "16679920",
+  "fullDetails": {
+    "licenseNumber": "16679920",
+    "name": "SUBTLE HINT FLAVOUR COMPANY",
+    "address": "4517 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2025-11-05T11:05:00.000Z",
+    "expiryDate": "2026-11-04T11:04:59.000Z",
+    "coordinates": [
+      -114.0628047,
+      51.0132348
+    ],
+    "longitude": -114.0628047,
+    "latitude": 51.0132348,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

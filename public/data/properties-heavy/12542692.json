@@ -1,0 +1,36 @@
+{
+  "id": "12542692",
+  "fullDetails": {
+    "licenseNumber": "12542692",
+    "name": "BURTON GENERAL CONTRACTING",
+    "address": "#A 8223 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-10-15T15:53:57.000Z",
+    "expiryDate": "2026-10-14T15:53:57.000Z",
+    "coordinates": [
+      -113.9882971,
+      50.980761
+    ],
+    "longitude": -113.9882971,
+    "latitude": 50.980761,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

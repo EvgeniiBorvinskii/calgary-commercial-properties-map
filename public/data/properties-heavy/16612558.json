@@ -1,0 +1,37 @@
+{
+  "id": "16612558",
+  "fullDetails": {
+    "licenseNumber": "16612558",
+    "name": "CONFIDENTS TEETH WHITENING",
+    "address": "#210 1934 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-07T15:12:09.000Z",
+    "expiryDate": "2026-07-06T15:12:08.000Z",
+    "coordinates": [
+      -114.1065548,
+      51.0234092
+    ],
+    "longitude": -114.1065548,
+    "latitude": 51.0234092,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

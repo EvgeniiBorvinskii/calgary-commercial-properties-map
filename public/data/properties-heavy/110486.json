@@ -1,0 +1,36 @@
+{
+  "id": "110486",
+  "fullDetails": {
+    "licenseNumber": "110486",
+    "name": "HIBBERT INTERNATIONAL",
+    "address": "#161 10301 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2014-03-12T11:05:46.000Z",
+    "expiryDate": "2026-03-11T11:05:46.000Z",
+    "coordinates": [
+      -114.0143978,
+      51.1465161
+    ],
+    "longitude": -114.0143978,
+    "latitude": 51.1465161,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

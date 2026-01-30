@@ -1,0 +1,37 @@
+{
+  "id": "574277",
+  "fullDetails": {
+    "licenseNumber": "574277",
+    "name": "ARTIC TRUCK PARTS & SERVICE",
+    "address": "5351 94 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-11-21T14:53:32.000Z",
+    "expiryDate": "2026-11-20T14:53:32.000Z",
+    "coordinates": [
+      -113.9576919,
+      50.9680684
+    ],
+    "longitude": -113.9576919,
+    "latitude": 50.9680684,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

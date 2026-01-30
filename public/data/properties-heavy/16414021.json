@@ -1,0 +1,36 @@
+{
+  "id": "16414021",
+  "fullDetails": {
+    "licenseNumber": "16414021",
+    "name": "REDPATH RELOCATIONS ALBERTA",
+    "address": "#A 2904 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-08-14T12:18:15.000Z",
+    "expiryDate": "2026-08-13T12:18:14.000Z",
+    "coordinates": [
+      -114.0356055,
+      51.0279206
+    ],
+    "longitude": -114.0356055,
+    "latitude": 51.0279206,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

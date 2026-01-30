@@ -1,0 +1,36 @@
+{
+  "id": "16637670",
+  "fullDetails": {
+    "licenseNumber": "16637670",
+    "name": "CALGARY HOUSE",
+    "address": "655 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-06-26T16:14:56.000Z",
+    "expiryDate": "2026-06-25T16:14:56.000Z",
+    "coordinates": [
+      -114.0633847,
+      51.0468287
+    ],
+    "longitude": -114.0633847,
+    "latitude": 51.0468287,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

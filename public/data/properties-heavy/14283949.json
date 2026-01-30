@@ -1,0 +1,37 @@
+{
+  "id": "14283949",
+  "fullDetails": {
+    "licenseNumber": "14283949",
+    "name": "OLLY FRESCO'S MARKET & DELI",
+    "address": "#120 10301 SOUTHPORT LN SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-09-21T10:14:42.000Z",
+    "expiryDate": "2026-09-20T10:14:42.000Z",
+    "coordinates": [
+      -114.0750774,
+      50.9634635
+    ],
+    "longitude": -114.0750774,
+    "latitude": 50.9634635,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "980193",
+  "fullDetails": {
+    "licenseNumber": "980193",
+    "name": "STAR PRODUCE",
+    "address": "4956 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-20T05:35:59.000Z",
+    "coordinates": [
+      -113.9570346,
+      51.0091137
+    ],
+    "longitude": -113.9570346,
+    "latitude": 51.0091137,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

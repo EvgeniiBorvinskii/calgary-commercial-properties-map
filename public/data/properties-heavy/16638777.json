@@ -1,0 +1,37 @@
+{
+  "id": "16638777",
+  "fullDetails": {
+    "licenseNumber": "16638777",
+    "name": "INS MARKET 8242",
+    "address": "#200 220 4 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-06-17T13:17:54.000Z",
+    "expiryDate": "2026-06-16T13:17:54.000Z",
+    "coordinates": [
+      -114.0590353,
+      51.049955
+    ],
+    "longitude": -114.0590353,
+    "latitude": 51.049955,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

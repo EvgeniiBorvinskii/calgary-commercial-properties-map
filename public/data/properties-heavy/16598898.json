@@ -1,0 +1,36 @@
+{
+  "id": "16598898",
+  "fullDetails": {
+    "licenseNumber": "16598898",
+    "name": "KAYO NAILS AND SPA",
+    "address": "621 SHAWCLIFFE GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-03-27T11:58:49.000Z",
+    "expiryDate": "2026-03-26T11:58:49.000Z",
+    "coordinates": [
+      -114.0744971,
+      50.9112864
+    ],
+    "longitude": -114.0744971,
+    "latitude": 50.9112864,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

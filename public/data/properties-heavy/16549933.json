@@ -1,0 +1,36 @@
+{
+  "id": "16549933",
+  "fullDetails": {
+    "licenseNumber": "16549933",
+    "name": "BLUEBIRD SELF STORAGE",
+    "address": "#5000 2600 48 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2025-01-28T13:11:16.000Z",
+    "expiryDate": "2026-01-27T13:11:15.000Z",
+    "coordinates": [
+      -113.9979308,
+      51.0980705
+    ],
+    "longitude": -113.9979308,
+    "latitude": 51.0980705,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14640809",
+  "fullDetails": {
+    "licenseNumber": "14640809",
+    "name": "SUGAR HAIR SALON",
+    "address": "#330 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-09-12T09:53:14.000Z",
+    "expiryDate": "2026-09-11T09:53:14.000Z",
+    "coordinates": [
+      -114.0735415,
+      50.9674339
+    ],
+    "longitude": -114.0735415,
+    "latitude": 50.9674339,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

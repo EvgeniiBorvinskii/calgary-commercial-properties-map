@@ -1,0 +1,37 @@
+{
+  "id": "14237564",
+  "fullDetails": {
+    "licenseNumber": "14237564",
+    "name": "CHINOOK TRADITIONAL CHINESE MEDICINE ACUPUNCTURE CENTRE",
+    "address": "#6 41 CHELSEA ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-07-12T13:00:20.000Z",
+    "expiryDate": "2026-07-11T13:00:20.000Z",
+    "coordinates": [
+      -114.0942252,
+      51.0819537
+    ],
+    "longitude": -114.0942252,
+    "latitude": 51.0819537,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

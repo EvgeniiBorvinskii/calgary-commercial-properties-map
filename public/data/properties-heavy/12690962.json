@@ -1,0 +1,36 @@
+{
+  "id": "12690962",
+  "fullDetails": {
+    "licenseNumber": "12690962",
+    "name": "INSUL-LITE MANUFACTURING",
+    "address": "7100 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2024-04-01T09:56:12.000Z",
+    "expiryDate": "2026-03-31T09:56:12.000Z",
+    "coordinates": [
+      -113.9304127,
+      50.9523768
+    ],
+    "longitude": -113.9304127,
+    "latitude": 50.9523768,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

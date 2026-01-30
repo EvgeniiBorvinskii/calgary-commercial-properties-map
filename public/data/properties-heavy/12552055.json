@@ -1,0 +1,36 @@
+{
+  "id": "12552055",
+  "fullDetails": {
+    "licenseNumber": "12552055",
+    "name": "WORK AUTHORITY",
+    "address": "#117 465 AVIATION RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-06T13:53:26.000Z",
+    "expiryDate": "2026-03-05T13:53:26.000Z",
+    "coordinates": [
+      -114.0308407,
+      51.0973478
+    ],
+    "longitude": -114.0308407,
+    "latitude": 51.0973478,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

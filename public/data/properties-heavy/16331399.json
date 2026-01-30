@@ -1,0 +1,36 @@
+{
+  "id": "16331399",
+  "fullDetails": {
+    "licenseNumber": "16331399",
+    "name": "TEAM TOWN SPORTS",
+    "address": "#100 3412 49 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-09T08:32:50.000Z",
+    "expiryDate": "2026-06-08T08:32:50.000Z",
+    "coordinates": [
+      -114.157387,
+      51.0823253
+    ],
+    "longitude": -114.157387,
+    "latitude": 51.0823253,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

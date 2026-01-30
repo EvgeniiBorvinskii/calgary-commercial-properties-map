@@ -1,0 +1,36 @@
+{
+  "id": "850271",
+  "fullDetails": {
+    "licenseNumber": "850271",
+    "name": "DEERFOOT BOTTLE DEPOT",
+    "address": "11440 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-06T00:00:00.000Z",
+    "coordinates": [
+      -113.9943677,
+      50.9522201
+    ],
+    "longitude": -113.9943677,
+    "latitude": 50.9522201,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15908114",
+  "fullDetails": {
+    "licenseNumber": "15908114",
+    "name": "INNOV8 DIGITAL SOLUTIONS",
+    "address": "#131 11929 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2024-03-06T11:54:39.000Z",
+    "expiryDate": "2026-03-05T11:54:39.000Z",
+    "coordinates": [
+      -113.9767239,
+      50.9436342
+    ],
+    "longitude": -113.9767239,
+    "latitude": 50.9436342,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

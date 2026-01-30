@@ -1,0 +1,36 @@
+{
+  "id": "15555642",
+  "fullDetails": {
+    "licenseNumber": "15555642",
+    "name": "LODGING HOUSE",
+    "address": "4206 40 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2019-08-02T12:11:31.000Z",
+    "expiryDate": "2026-08-01T12:11:31.000Z",
+    "coordinates": [
+      -114.149657,
+      51.0885265
+    ],
+    "longitude": -114.149657,
+    "latitude": 51.0885265,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

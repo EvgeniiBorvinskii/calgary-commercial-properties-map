@@ -1,0 +1,37 @@
+{
+  "id": "16176885",
+  "fullDetails": {
+    "licenseNumber": "16176885",
+    "name": "DREI BEAUCHAMP HAIR",
+    "address": "#200 909 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-29T07:49:26.000Z",
+    "expiryDate": "2026-10-28T07:49:25.000Z",
+    "coordinates": [
+      -114.0815495,
+      51.0486387
+    ],
+    "longitude": -114.0815495,
+    "latitude": 51.0486387,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

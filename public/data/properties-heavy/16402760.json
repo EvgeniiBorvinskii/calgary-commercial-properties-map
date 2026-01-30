@@ -1,0 +1,36 @@
+{
+  "id": "16402760",
+  "fullDetails": {
+    "licenseNumber": "16402760",
+    "name": "SOMERVILLE NATIONAL LEASING AND RENTALS / ZEEMAC",
+    "address": "2806 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-03-08T08:49:49.000Z",
+    "expiryDate": "2026-03-07T08:49:49.000Z",
+    "coordinates": [
+      -114.030755,
+      51.0292928
+    ],
+    "longitude": -114.030755,
+    "latitude": 51.0292928,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

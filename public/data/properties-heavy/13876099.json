@@ -1,0 +1,37 @@
+{
+  "id": "13876099",
+  "fullDetails": {
+    "licenseNumber": "13876099",
+    "name": "NASH RESTAURANT (THE)",
+    "address": "925 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2014-11-18T07:51:18.000Z",
+    "expiryDate": "2026-11-17T07:51:18.000Z",
+    "coordinates": [
+      -114.0369991,
+      51.0415188
+    ],
+    "longitude": -114.0369991,
+    "latitude": 51.0415188,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

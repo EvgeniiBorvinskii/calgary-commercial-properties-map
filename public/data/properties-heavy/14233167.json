@@ -1,0 +1,37 @@
+{
+  "id": "14233167",
+  "fullDetails": {
+    "licenseNumber": "14233167",
+    "name": "DESI AUTO BODY",
+    "address": "#109 3424 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-07-25T12:16:55.000Z",
+    "expiryDate": "2026-07-24T12:16:55.000Z",
+    "coordinates": [
+      -113.9937545,
+      51.0837476
+    ],
+    "longitude": -113.9937545,
+    "latitude": 51.0837476,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

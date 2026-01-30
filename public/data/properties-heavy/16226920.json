@@ -1,0 +1,37 @@
+{
+  "id": "16226920",
+  "fullDetails": {
+    "licenseNumber": "16226920",
+    "name": "SAFEWAY LIQUOR SOUTHCENTRE MALL",
+    "address": "11007 BONAVENTURE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-09T09:00:18.000Z",
+    "expiryDate": "2027-01-08T09:00:18.000Z",
+    "coordinates": [
+      -114.0617532,
+      50.953439
+    ],
+    "longitude": -114.0617532,
+    "latitude": 50.953439,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

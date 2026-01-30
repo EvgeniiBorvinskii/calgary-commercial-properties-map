@@ -1,0 +1,37 @@
+{
+  "id": "16543779",
+  "fullDetails": {
+    "licenseNumber": "16543779",
+    "name": "MARKETPLACE LIQUIDATION",
+    "address": "1808B 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-12-16T13:03:53.000Z",
+    "expiryDate": "2026-12-15T13:03:52.000Z",
+    "coordinates": [
+      -114.0191611,
+      51.038099
+    ],
+    "longitude": -114.0191611,
+    "latitude": 51.038099,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

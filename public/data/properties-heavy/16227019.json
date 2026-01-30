@@ -1,0 +1,36 @@
+{
+  "id": "16227019",
+  "fullDetails": {
+    "licenseNumber": "16227019",
+    "name": "KRYSTAL NAILS & SPA",
+    "address": "#102 5211 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-12-12T12:49:30.000Z",
+    "expiryDate": "2026-12-11T12:49:30.000Z",
+    "coordinates": [
+      -114.0691032,
+      51.0083277
+    ],
+    "longitude": -114.0691032,
+    "latitude": 51.0083277,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

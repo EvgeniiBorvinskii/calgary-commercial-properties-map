@@ -1,0 +1,36 @@
+{
+  "id": "12808564",
+  "fullDetails": {
+    "licenseNumber": "12808564",
+    "name": "SUPERLOW LIQUOR",
+    "address": "2232 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2009-07-28T15:40:48.000Z",
+    "expiryDate": "2026-07-27T15:40:48.000Z",
+    "coordinates": [
+      -113.9579917,
+      51.0339936
+    ],
+    "longitude": -113.9579917,
+    "latitude": 51.0339936,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

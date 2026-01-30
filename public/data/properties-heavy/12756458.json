@@ -1,0 +1,37 @@
+{
+  "id": "12756458",
+  "fullDetails": {
+    "licenseNumber": "12756458",
+    "name": "ANZ COLLISION",
+    "address": "#3131 5150 47 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-02-20T05:42:30.000Z",
+    "expiryDate": "2027-02-19T05:42:30.000Z",
+    "coordinates": [
+      -113.9635742,
+      51.0997705
+    ],
+    "longitude": -113.9635742,
+    "latitude": 51.0997705,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

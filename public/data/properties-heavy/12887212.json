@@ -1,0 +1,36 @@
+{
+  "id": "12887212",
+  "fullDetails": {
+    "licenseNumber": "12887212",
+    "name": "VERSACOLD LOGISTICS SERVICES",
+    "address": "5600 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-04-20T05:48:02.000Z",
+    "expiryDate": "2026-04-19T05:48:02.000Z",
+    "coordinates": [
+      -113.9536513,
+      50.9863607
+    ],
+    "longitude": -113.9536513,
+    "latitude": 50.9863607,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

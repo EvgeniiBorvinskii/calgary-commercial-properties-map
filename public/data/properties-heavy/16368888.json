@@ -1,0 +1,36 @@
+{
+  "id": "16368888",
+  "fullDetails": {
+    "licenseNumber": "16368888",
+    "name": "EVANSTON RIDGE BUILDING 3000",
+    "address": "#3000 905 EVANSTON DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-11-23T11:46:28.000Z",
+    "expiryDate": "2026-11-22T11:46:28.000Z",
+    "coordinates": [
+      -114.1170304,
+      51.1799512
+    ],
+    "longitude": -114.1170304,
+    "latitude": 51.1799512,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

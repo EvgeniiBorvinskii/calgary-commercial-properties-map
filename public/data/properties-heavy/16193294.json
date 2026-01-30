@@ -1,0 +1,36 @@
+{
+  "id": "16193294",
+  "fullDetails": {
+    "licenseNumber": "16193294",
+    "name": "HUSSAN AUTO REPAIR",
+    "address": "#3050 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-09-23T11:20:45.000Z",
+    "expiryDate": "2026-09-22T11:20:45.000Z",
+    "coordinates": [
+      -113.9809142,
+      51.152252
+    ],
+    "longitude": -113.9809142,
+    "latitude": 51.152252,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

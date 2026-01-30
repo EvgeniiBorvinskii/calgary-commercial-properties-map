@@ -1,0 +1,36 @@
+{
+  "id": "14235097",
+  "fullDetails": {
+    "licenseNumber": "14235097",
+    "name": "UPS STORE #260 (THE)",
+    "address": "#104 1240 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-07-25T14:55:06.000Z",
+    "expiryDate": "2026-07-24T14:55:05.000Z",
+    "coordinates": [
+      -114.0913168,
+      51.0527707
+    ],
+    "longitude": -114.0913168,
+    "latitude": 51.0527707,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

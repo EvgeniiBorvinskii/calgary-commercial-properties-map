@@ -1,0 +1,36 @@
+{
+  "id": "831503",
+  "fullDetails": {
+    "licenseNumber": "831503",
+    "name": "GUITARWORKS",
+    "address": "7110 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2009-03-25T08:13:14.000Z",
+    "expiryDate": "2026-03-24T08:13:14.000Z",
+    "coordinates": [
+      -114.0706153,
+      50.9902167
+    ],
+    "longitude": -114.0706153,
+    "latitude": 50.9902167,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

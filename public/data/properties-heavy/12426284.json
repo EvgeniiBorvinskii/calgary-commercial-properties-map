@@ -1,0 +1,37 @@
+{
+  "id": "12426284",
+  "fullDetails": {
+    "licenseNumber": "12426284",
+    "name": "PURE FORM SALON/STUDIO",
+    "address": "#100 326 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-10-17T12:20:26.000Z",
+    "expiryDate": "2026-10-16T12:20:26.000Z",
+    "coordinates": [
+      -114.0690909,
+      51.0427198
+    ],
+    "longitude": -114.0690909,
+    "latitude": 51.0427198,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15280811",
+  "fullDetails": {
+    "licenseNumber": "15280811",
+    "name": "ERA STYLE LOFT",
+    "address": "917 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-03-07T09:06:07.000Z",
+    "expiryDate": "2026-03-06T09:06:07.000Z",
+    "coordinates": [
+      -114.0827863,
+      51.0377077
+    ],
+    "longitude": -114.0827863,
+    "latitude": 51.0377077,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

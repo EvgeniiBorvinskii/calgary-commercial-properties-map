@@ -1,0 +1,36 @@
+{
+  "id": "16698987",
+  "fullDetails": {
+    "licenseNumber": "16698987",
+    "name": "AKASH PAINTING & DECORATING",
+    "address": "#105 2620 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-07T08:59:30.000Z",
+    "expiryDate": "2027-01-06T08:59:29.000Z",
+    "coordinates": [
+      -113.9975432,
+      51.0529121
+    ],
+    "longitude": -113.9975432,
+    "latitude": 51.0529121,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

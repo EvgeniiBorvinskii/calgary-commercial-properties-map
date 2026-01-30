@@ -1,0 +1,37 @@
+{
+  "id": "13572185",
+  "fullDetails": {
+    "licenseNumber": "13572185",
+    "name": "ANNA JEWELLERS",
+    "address": "3831A BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2012-11-01T05:44:14.000Z",
+    "expiryDate": "2026-10-31T05:44:14.000Z",
+    "coordinates": [
+      -114.1431846,
+      51.0454839
+    ],
+    "longitude": -114.1431846,
+    "latitude": 51.0454839,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12425674",
+  "fullDetails": {
+    "licenseNumber": "12425674",
+    "name": "VISION Q OPTICAL",
+    "address": "#42 1324 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-10-25T08:48:58.000Z",
+    "expiryDate": "2026-10-24T08:48:58.000Z",
+    "coordinates": [
+      -114.0925259,
+      51.0446362
+    ],
+    "longitude": -114.0925259,
+    "latitude": 51.0446362,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13482807",
+  "fullDetails": {
+    "licenseNumber": "13482807",
+    "name": "KFC #1757",
+    "address": "170 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-05-14T07:39:32.000Z",
+    "expiryDate": "2026-05-13T07:39:32.000Z",
+    "coordinates": [
+      -114.1674109,
+      51.0161371
+    ],
+    "longitude": -114.1674109,
+    "latitude": 51.0161371,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

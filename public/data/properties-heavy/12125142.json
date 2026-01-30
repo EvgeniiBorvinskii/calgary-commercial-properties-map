@@ -1,0 +1,36 @@
+{
+  "id": "12125142",
+  "fullDetails": {
+    "licenseNumber": "12125142",
+    "name": "CORROSION SERVICE COMPANY",
+    "address": "#7 820 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-07-04T16:41:10.000Z",
+    "expiryDate": "2026-07-03T16:41:10.000Z",
+    "coordinates": [
+      -113.991584,
+      51.0594649
+    ],
+    "longitude": -113.991584,
+    "latitude": 51.0594649,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

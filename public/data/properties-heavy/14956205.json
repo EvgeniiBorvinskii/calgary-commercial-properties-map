@@ -1,0 +1,37 @@
+{
+  "id": "14956205",
+  "fullDetails": {
+    "licenseNumber": "14956205",
+    "name": "MANOR VILLAGE AT FISH CREEK PARK (THE)",
+    "address": "22 SHAWNEE HL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-08-24T08:38:25.000Z",
+    "expiryDate": "2026-08-23T08:38:25.000Z",
+    "coordinates": [
+      -114.0764113,
+      50.9219955
+    ],
+    "longitude": -114.0764113,
+    "latitude": 50.9219955,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16267247",
+  "fullDetails": {
+    "licenseNumber": "16267247",
+    "name": "SIPS AT THE MARKET",
+    "address": "25 GREENBRIAR DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "pending",
+    "issuedDate": "2023-03-01T14:47:22.000Z",
+    "expiryDate": "2026-02-28T14:47:22.000Z",
+    "coordinates": [
+      -114.2224815,
+      51.0884205
+    ],
+    "longitude": -114.2224815,
+    "latitude": 51.0884205,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

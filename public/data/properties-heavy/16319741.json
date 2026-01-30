@@ -1,0 +1,36 @@
+{
+  "id": "16319741",
+  "fullDetails": {
+    "licenseNumber": "16319741",
+    "name": "RANGE MOBILITY",
+    "address": "246 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-10-09T13:57:48.000Z",
+    "expiryDate": "2026-10-08T13:57:47.000Z",
+    "coordinates": [
+      -114.0606149,
+      50.9968045
+    ],
+    "longitude": -114.0606149,
+    "latitude": 50.9968045,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

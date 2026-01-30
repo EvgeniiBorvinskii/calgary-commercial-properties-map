@@ -1,0 +1,36 @@
+{
+  "id": "13171798",
+  "fullDetails": {
+    "licenseNumber": "13171798",
+    "name": "DOLLARAMA",
+    "address": "#800 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-05-25T14:54:15.000Z",
+    "expiryDate": "2026-05-24T14:54:15.000Z",
+    "coordinates": [
+      -114.2167807,
+      51.1539544
+    ],
+    "longitude": -114.2167807,
+    "latitude": 51.1539544,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13138177",
+  "fullDetails": {
+    "licenseNumber": "13138177",
+    "name": "HALLIBURTON GROUP CANADA",
+    "address": "#2000 700 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-10-27T10:10:28.000Z",
+    "expiryDate": "2026-10-26T10:10:27.000Z",
+    "coordinates": [
+      -114.076928,
+      51.0452602
+    ],
+    "longitude": -114.076928,
+    "latitude": 51.0452602,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

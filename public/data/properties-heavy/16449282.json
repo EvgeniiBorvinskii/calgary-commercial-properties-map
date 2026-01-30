@@ -1,0 +1,36 @@
+{
+  "id": "16449282",
+  "fullDetails": {
+    "licenseNumber": "16449282",
+    "name": "PLAZA APARTMENTS",
+    "address": "5055 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-03-04T10:15:45.000Z",
+    "expiryDate": "2027-03-03T10:15:45.000Z",
+    "coordinates": [
+      -114.1418654,
+      51.0985743
+    ],
+    "longitude": -114.1418654,
+    "latitude": 51.0985743,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

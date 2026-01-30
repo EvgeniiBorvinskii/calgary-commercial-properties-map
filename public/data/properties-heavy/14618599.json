@@ -1,0 +1,37 @@
+{
+  "id": "14618599",
+  "fullDetails": {
+    "licenseNumber": "14618599",
+    "name": "SPARK HEALTH",
+    "address": "2929 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-07T11:49:42.000Z",
+    "expiryDate": "2026-11-06T11:49:41.000Z",
+    "coordinates": [
+      -114.0629792,
+      51.0785773
+    ],
+    "longitude": -114.0629792,
+    "latitude": 51.0785773,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

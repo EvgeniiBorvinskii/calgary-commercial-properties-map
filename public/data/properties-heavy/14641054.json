@@ -1,0 +1,37 @@
+{
+  "id": "14641054",
+  "fullDetails": {
+    "licenseNumber": "14641054",
+    "name": "WE DO ESTHETICS",
+    "address": "#104 6036 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2017-08-29T11:53:33.000Z",
+    "expiryDate": "2026-08-28T11:53:33.000Z",
+    "coordinates": [
+      -114.0691235,
+      50.999289
+    ],
+    "longitude": -114.0691235,
+    "latitude": 50.999289,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

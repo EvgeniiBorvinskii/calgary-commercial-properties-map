@@ -1,0 +1,36 @@
+{
+  "id": "14165963",
+  "fullDetails": {
+    "licenseNumber": "14165963",
+    "name": "BLACKBYRD (MYOOZIK)",
+    "address": "1126 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-05-03T15:53:25.000Z",
+    "expiryDate": "2026-05-02T15:53:25.000Z",
+    "coordinates": [
+      -114.0881952,
+      51.0380893
+    ],
+    "longitude": -114.0881952,
+    "latitude": 51.0380893,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

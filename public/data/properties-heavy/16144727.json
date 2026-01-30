@@ -1,0 +1,37 @@
+{
+  "id": "16144727",
+  "fullDetails": {
+    "licenseNumber": "16144727",
+    "name": "TWO HOUSE BREWING COMPANY",
+    "address": "1901 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-07-15T10:10:18.000Z",
+    "expiryDate": "2026-07-14T10:10:18.000Z",
+    "coordinates": [
+      -114.1044689,
+      51.0443739
+    ],
+    "longitude": -114.1044689,
+    "latitude": 51.0443739,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

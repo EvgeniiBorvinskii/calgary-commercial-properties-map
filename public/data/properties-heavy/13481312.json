@@ -1,0 +1,36 @@
+{
+  "id": "13481312",
+  "fullDetails": {
+    "licenseNumber": "13481312",
+    "name": "BELMONT (THE) - A BARBER COLLECTIVE",
+    "address": "915 GENERAL AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2012-07-19T05:51:20.000Z",
+    "expiryDate": "2026-07-18T05:51:20.000Z",
+    "coordinates": [
+      -114.0412477,
+      51.0529351
+    ],
+    "longitude": -114.0412477,
+    "latitude": 51.0529351,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

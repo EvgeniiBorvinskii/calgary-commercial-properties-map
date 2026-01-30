@@ -1,0 +1,36 @@
+{
+  "id": "12716783",
+  "fullDetails": {
+    "licenseNumber": "12716783",
+    "name": "BERNARD ANDERSON WHOLESALE FLORISTS",
+    "address": "533 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-10-29T15:17:04.000Z",
+    "expiryDate": "2026-10-28T15:17:04.000Z",
+    "coordinates": [
+      -114.0521263,
+      51.0096619
+    ],
+    "longitude": -114.0521263,
+    "latitude": 51.0096619,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

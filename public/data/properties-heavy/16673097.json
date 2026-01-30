@@ -1,0 +1,36 @@
+{
+  "id": "16673097",
+  "fullDetails": {
+    "licenseNumber": "16673097",
+    "name": "COWBOY TRAIL TREE SERVICE",
+    "address": "#A 154 BOWNESS CE NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-05T08:48:32.000Z",
+    "expiryDate": "2027-01-04T08:48:32.000Z",
+    "coordinates": [
+      -114.201902,
+      51.0904286
+    ],
+    "longitude": -114.201902,
+    "latitude": 51.0904286,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13793765",
+  "fullDetails": {
+    "licenseNumber": "13793765",
+    "name": "LEAP STUDIOS",
+    "address": "#4108 288 ST MORITZ DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2014-04-10T12:04:43.000Z",
+    "expiryDate": "2026-04-09T12:04:43.000Z",
+    "coordinates": [
+      -114.2128138,
+      51.0335648
+    ],
+    "longitude": -114.2128138,
+    "latitude": 51.0335648,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

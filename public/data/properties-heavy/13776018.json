@@ -1,0 +1,36 @@
+{
+  "id": "13776018",
+  "fullDetails": {
+    "licenseNumber": "13776018",
+    "name": "K9 TO 5 DOG DAYCARE AND GROOMING",
+    "address": "4618B BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-12-04T10:36:20.000Z",
+    "expiryDate": "2026-12-03T10:36:20.000Z",
+    "coordinates": [
+      -114.1594274,
+      51.072173
+    ],
+    "longitude": -114.1594274,
+    "latitude": 51.072173,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

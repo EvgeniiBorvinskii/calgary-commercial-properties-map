@@ -1,0 +1,36 @@
+{
+  "id": "15856313",
+  "fullDetails": {
+    "licenseNumber": "15856313",
+    "name": "COSMO PROF",
+    "address": "#109 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-05-20T11:40:15.000Z",
+    "expiryDate": "2026-05-19T11:40:14.000Z",
+    "coordinates": [
+      -114.0057363,
+      51.0808746
+    ],
+    "longitude": -114.0057363,
+    "latitude": 51.0808746,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15778665",
+  "fullDetails": {
+    "licenseNumber": "15778665",
+    "name": "K & G BUILDING MAINTENANCE SERVICES",
+    "address": "#3210 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2024-11-05T14:44:33.000Z",
+    "expiryDate": "2026-11-04T14:44:32.000Z",
+    "coordinates": [
+      -113.9720786,
+      51.1536883
+    ],
+    "longitude": -113.9720786,
+    "latitude": 51.1536883,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

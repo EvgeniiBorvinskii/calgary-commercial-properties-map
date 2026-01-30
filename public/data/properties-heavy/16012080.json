@@ -1,0 +1,36 @@
+{
+  "id": "16012080",
+  "fullDetails": {
+    "licenseNumber": "16012080",
+    "name": "ABBEY'S CREATIONS",
+    "address": "#112 4925 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-30T16:39:23.000Z",
+    "expiryDate": "2026-12-29T16:39:23.000Z",
+    "coordinates": [
+      -114.0031301,
+      51.0968706
+    ],
+    "longitude": -114.0031301,
+    "latitude": 51.0968706,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

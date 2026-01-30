@@ -1,0 +1,36 @@
+{
+  "id": "12161782",
+  "fullDetails": {
+    "licenseNumber": "12161782",
+    "name": "WESTSIDE CHIROPRACTIC SPORTS & DANCE",
+    "address": "#22 7337 SIERRA MORENA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2003-02-18T11:05:20.000Z",
+    "expiryDate": "2027-02-17T11:05:20.000Z",
+    "coordinates": [
+      -114.1752484,
+      51.0155948
+    ],
+    "longitude": -114.1752484,
+    "latitude": 51.0155948,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

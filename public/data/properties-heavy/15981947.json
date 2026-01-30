@@ -1,0 +1,36 @@
+{
+  "id": "15981947",
+  "fullDetails": {
+    "licenseNumber": "15981947",
+    "name": "CANADIAN SELTZER COMPANY (THE)",
+    "address": "4724 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-04-30T11:45:59.000Z",
+    "expiryDate": "2026-04-29T11:45:59.000Z",
+    "coordinates": [
+      -114.0277618,
+      51.0941628
+    ],
+    "longitude": -114.0277618,
+    "latitude": 51.0941628,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

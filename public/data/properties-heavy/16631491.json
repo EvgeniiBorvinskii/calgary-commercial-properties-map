@@ -1,0 +1,36 @@
+{
+  "id": "16631491",
+  "fullDetails": {
+    "licenseNumber": "16631491",
+    "name": "HIGHPOINT CONSTRUCTION",
+    "address": "#3200 700 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-10T15:40:07.000Z",
+    "expiryDate": "2026-06-09T15:40:07.000Z",
+    "coordinates": [
+      -114.0674602,
+      51.0461506
+    ],
+    "longitude": -114.0674602,
+    "latitude": 51.0461506,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

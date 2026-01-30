@@ -1,0 +1,36 @@
+{
+  "id": "14276760",
+  "fullDetails": {
+    "licenseNumber": "14276760",
+    "name": "TITAN HEALTH & SAFETY",
+    "address": "#252 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-09-23T13:30:36.000Z",
+    "expiryDate": "2026-09-22T13:30:36.000Z",
+    "coordinates": [
+      -114.0998231,
+      51.0659281
+    ],
+    "longitude": -114.0998231,
+    "latitude": 51.0659281,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12417192",
+  "fullDetails": {
+    "licenseNumber": "12417192",
+    "name": "APARTMENT BUILDING OPERATOR",
+    "address": "72 38A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2006-01-30T10:12:53.000Z",
+    "expiryDate": "2026-01-29T10:12:53.000Z",
+    "coordinates": [
+      -114.0640437,
+      51.0198562
+    ],
+    "longitude": -114.0640437,
+    "latitude": 51.0198562,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

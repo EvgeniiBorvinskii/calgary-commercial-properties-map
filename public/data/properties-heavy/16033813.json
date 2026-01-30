@@ -1,0 +1,36 @@
+{
+  "id": "16033813",
+  "fullDetails": {
+    "licenseNumber": "16033813",
+    "name": "SLEEP COUNTRY CANADA",
+    "address": "260 NA'A PZ SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-06T12:56:07.000Z",
+    "expiryDate": "2026-07-05T12:56:07.000Z",
+    "coordinates": [
+      -114.195621,
+      51.0785276
+    ],
+    "longitude": -114.195621,
+    "latitude": 51.0785276,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

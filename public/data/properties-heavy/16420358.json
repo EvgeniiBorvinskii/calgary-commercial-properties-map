@@ -1,0 +1,36 @@
+{
+  "id": "16420358",
+  "fullDetails": {
+    "licenseNumber": "16420358",
+    "name": "J & J LIQUOR",
+    "address": "1809 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-01-16T16:23:31.000Z",
+    "expiryDate": "2027-01-15T16:23:31.000Z",
+    "coordinates": [
+      -114.0718409,
+      51.0366885
+    ],
+    "longitude": -114.0718409,
+    "latitude": 51.0366885,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

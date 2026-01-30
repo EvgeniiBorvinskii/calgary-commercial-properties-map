@@ -1,0 +1,36 @@
+{
+  "id": "12309654",
+  "fullDetails": {
+    "licenseNumber": "12309654",
+    "name": "B & L PRINTING",
+    "address": "#14 4407 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-04-05T05:41:10.000Z",
+    "expiryDate": "2026-04-04T05:41:10.000Z",
+    "coordinates": [
+      -113.9724718,
+      50.946676
+    ],
+    "longitude": -113.9724718,
+    "latitude": 50.946676,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

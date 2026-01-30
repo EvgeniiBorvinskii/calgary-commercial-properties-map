@@ -1,0 +1,36 @@
+{
+  "id": "16300907",
+  "fullDetails": {
+    "licenseNumber": "16300907",
+    "name": "LOFT CANNABIS MARKET",
+    "address": "#117 817 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2023-04-21T16:14:43.000Z",
+    "expiryDate": "2026-04-20T16:14:43.000Z",
+    "coordinates": [
+      -114.0145278,
+      51.058164
+    ],
+    "longitude": -114.0145278,
+    "latitude": 51.058164,
+    "community": "MAYLAND HEIGHTS",
+    "ward": "MAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

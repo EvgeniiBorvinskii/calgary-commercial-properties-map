@@ -1,0 +1,36 @@
+{
+  "id": "16242349",
+  "fullDetails": {
+    "licenseNumber": "16242349",
+    "name": "HNY HAUS",
+    "address": "1963 2 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-01-17T09:25:23.000Z",
+    "expiryDate": "2027-01-16T09:25:22.000Z",
+    "coordinates": [
+      -114.105061,
+      51.054452
+    ],
+    "longitude": -114.105061,
+    "latitude": 51.054452,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

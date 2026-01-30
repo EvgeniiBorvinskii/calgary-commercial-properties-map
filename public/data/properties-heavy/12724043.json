@@ -1,0 +1,36 @@
+{
+  "id": "12724043",
+  "fullDetails": {
+    "licenseNumber": "12724043",
+    "name": "OHC CALGARY",
+    "address": "#116 1212 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2013-01-21T10:47:15.000Z",
+    "expiryDate": "2027-01-20T10:47:15.000Z",
+    "coordinates": [
+      -114.0601685,
+      51.0405922
+    ],
+    "longitude": -114.0601685,
+    "latitude": 51.0405922,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

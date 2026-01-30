@@ -1,0 +1,36 @@
+{
+  "id": "12709382",
+  "fullDetails": {
+    "licenseNumber": "12709382",
+    "name": "MOUNT ROYAL COURT",
+    "address": "2410 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2008-09-26T10:21:57.000Z",
+    "expiryDate": "2026-09-25T10:21:57.000Z",
+    "coordinates": [
+      -114.0941678,
+      51.0337504
+    ],
+    "longitude": -114.0941678,
+    "latitude": 51.0337504,
+    "community": "UPPER MOUNT ROYAL",
+    "ward": "UMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16093023",
+  "fullDetails": {
+    "licenseNumber": "16093023",
+    "name": "CANNA CABANA",
+    "address": "#6110 250 EAST HILLS SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-11-04T12:20:26.000Z",
+    "expiryDate": "2026-11-03T12:20:26.000Z",
+    "coordinates": [
+      -113.910372,
+      51.0404409
+    ],
+    "longitude": -113.910372,
+    "latitude": 51.0404409,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

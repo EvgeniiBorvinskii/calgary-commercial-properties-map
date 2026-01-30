@@ -1,0 +1,36 @@
+{
+  "id": "783928",
+  "fullDetails": {
+    "licenseNumber": "783928",
+    "name": "FUJITEC CANADA",
+    "address": "#112 1220 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-05-27T09:32:07.000Z",
+    "expiryDate": "2026-05-26T09:32:07.000Z",
+    "coordinates": [
+      -113.9924907,
+      51.0622438
+    ],
+    "longitude": -113.9924907,
+    "latitude": 51.0622438,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

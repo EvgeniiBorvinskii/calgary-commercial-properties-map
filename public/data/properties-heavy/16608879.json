@@ -1,0 +1,36 @@
+{
+  "id": "16608879",
+  "fullDetails": {
+    "licenseNumber": "16608879",
+    "name": "TRIDENT AUTOMOTIVE SALES",
+    "address": "#A 2815 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-27T14:06:49.000Z",
+    "expiryDate": "2026-06-26T14:06:49.000Z",
+    "coordinates": [
+      -114.0295727,
+      51.0291533
+    ],
+    "longitude": -114.0295727,
+    "latitude": 51.0291533,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

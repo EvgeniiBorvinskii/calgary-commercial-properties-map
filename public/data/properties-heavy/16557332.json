@@ -1,0 +1,36 @@
+{
+  "id": "16557332",
+  "fullDetails": {
+    "licenseNumber": "16557332",
+    "name": "HEALTH AND WELLNESS MEDICAL CENTRE",
+    "address": "3333 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "in_progress",
+    "issuedDate": "2024-11-18T10:32:55.000Z",
+    "expiryDate": "2025-11-17T10:32:53.000Z",
+    "coordinates": [
+      -114.0432149,
+      51.0248284
+    ],
+    "longitude": -114.0432149,
+    "latitude": 51.0248284,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

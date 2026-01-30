@@ -1,0 +1,36 @@
+{
+  "id": "15657471",
+  "fullDetails": {
+    "licenseNumber": "15657471",
+    "name": "MH 2 LIQUOR STORE",
+    "address": "3106A 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2019-10-02T15:03:16.000Z",
+    "expiryDate": "2026-10-01T15:03:16.000Z",
+    "coordinates": [
+      -114.0710477,
+      51.0799259
+    ],
+    "longitude": -114.0710477,
+    "latitude": 51.0799259,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

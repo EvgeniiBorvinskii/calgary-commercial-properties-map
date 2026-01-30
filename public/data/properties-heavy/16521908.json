@@ -1,0 +1,36 @@
+{
+  "id": "16521908",
+  "fullDetails": {
+    "licenseNumber": "16521908",
+    "name": "HTC FURNITURE",
+    "address": "#3 3220 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-09T07:36:57.000Z",
+    "expiryDate": "2026-09-08T07:36:56.000Z",
+    "coordinates": [
+      -113.9884196,
+      51.0573984
+    ],
+    "longitude": -113.9884196,
+    "latitude": 51.0573984,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

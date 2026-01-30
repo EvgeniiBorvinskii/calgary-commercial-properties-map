@@ -1,0 +1,36 @@
+{
+  "id": "16446221",
+  "fullDetails": {
+    "licenseNumber": "16446221",
+    "name": "DRIP VAPE",
+    "address": "#302 9036 46 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2024-03-01T12:29:36.000Z",
+    "expiryDate": "2026-02-28T12:29:36.000Z",
+    "coordinates": [
+      -113.9648432,
+      51.1342018
+    ],
+    "longitude": -113.9648432,
+    "latitude": 51.1342018,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

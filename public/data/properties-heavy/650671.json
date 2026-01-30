@@ -1,0 +1,36 @@
+{
+  "id": "650671",
+  "fullDetails": {
+    "licenseNumber": "650671",
+    "name": "HANDYMAN CONNECTION",
+    "address": "#206 2915 21 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-11-28T05:33:49.000Z",
+    "expiryDate": "2026-11-27T05:33:49.000Z",
+    "coordinates": [
+      -114.0100209,
+      51.078378
+    ],
+    "longitude": -114.0100209,
+    "latitude": 51.078378,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

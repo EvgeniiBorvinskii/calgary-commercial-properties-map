@@ -1,0 +1,36 @@
+{
+  "id": "13648605",
+  "fullDetails": {
+    "licenseNumber": "13648605",
+    "name": "FIRST CLASS ENGRAVING",
+    "address": "#110 575 PALMER RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-09-18T14:35:43.000Z",
+    "expiryDate": "2026-09-17T14:35:43.000Z",
+    "coordinates": [
+      -114.0118093,
+      51.0988355
+    ],
+    "longitude": -114.0118093,
+    "latitude": 51.0988355,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

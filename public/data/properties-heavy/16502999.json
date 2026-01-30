@@ -1,0 +1,37 @@
+{
+  "id": "16502999",
+  "fullDetails": {
+    "licenseNumber": "16502999",
+    "name": "AUDI ROYAL OAK",
+    "address": "7770 110 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-06-14T14:31:07.000Z",
+    "expiryDate": "2026-06-13T14:31:07.000Z",
+    "coordinates": [
+      -114.1986622,
+      51.1527695
+    ],
+    "longitude": -114.1986622,
+    "latitude": 51.1527695,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

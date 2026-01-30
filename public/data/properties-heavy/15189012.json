@@ -1,0 +1,37 @@
+{
+  "id": "15189012",
+  "fullDetails": {
+    "licenseNumber": "15189012",
+    "name": "PURLIEU",
+    "address": "#14 3109 PALLISER DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-01-25T10:12:29.000Z",
+    "expiryDate": "2027-01-24T10:12:29.000Z",
+    "coordinates": [
+      -114.1303785,
+      50.9699233
+    ],
+    "longitude": -114.1303785,
+    "latitude": 50.9699233,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

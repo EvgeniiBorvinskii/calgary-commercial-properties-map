@@ -1,0 +1,36 @@
+{
+  "id": "16317141",
+  "fullDetails": {
+    "licenseNumber": "16317141",
+    "name": "MILANI PLUMBING HEATING AND AIR CONDITIONING",
+    "address": "#A 1802 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-10-26T14:33:23.000Z",
+    "expiryDate": "2026-10-25T14:33:23.000Z",
+    "coordinates": [
+      -114.0203292,
+      51.038093
+    ],
+    "longitude": -114.0203292,
+    "latitude": 51.038093,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16600991",
+  "fullDetails": {
+    "licenseNumber": "16600991",
+    "name": "FOXY BOX LASER AND WAX BAR",
+    "address": "3921 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-03-03T16:00:32.000Z",
+    "expiryDate": "2026-03-02T16:00:32.000Z",
+    "coordinates": [
+      -114.1435859,
+      51.0781989
+    ],
+    "longitude": -114.1435859,
+    "latitude": 51.0781989,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

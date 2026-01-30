@@ -1,0 +1,36 @@
+{
+  "id": "591214",
+  "fullDetails": {
+    "licenseNumber": "591214",
+    "name": "DALHOUSIE AUTO SERVICE",
+    "address": "5302 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-29T00:00:00.000Z",
+    "coordinates": [
+      -114.1408226,
+      51.1014269
+    ],
+    "longitude": -114.1408226,
+    "latitude": 51.1014269,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

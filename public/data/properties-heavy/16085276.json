@@ -1,0 +1,36 @@
+{
+  "id": "16085276",
+  "fullDetails": {
+    "licenseNumber": "16085276",
+    "name": "VALENTINO STONE",
+    "address": "#120 610 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-07-18T08:33:02.000Z",
+    "expiryDate": "2026-07-17T08:33:02.000Z",
+    "coordinates": [
+      -114.0302676,
+      51.1358577
+    ],
+    "longitude": -114.0302676,
+    "latitude": 51.1358577,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16516577",
+  "fullDetails": {
+    "licenseNumber": "16516577",
+    "name": "UHI MACHINERY",
+    "address": "#8 49 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-07-23T12:53:34.000Z",
+    "expiryDate": "2026-07-22T12:53:33.000Z",
+    "coordinates": [
+      -114.0401418,
+      51.1229283
+    ],
+    "longitude": -114.0401418,
+    "latitude": 51.1229283,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

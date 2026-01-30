@@ -1,0 +1,37 @@
+{
+  "id": "13931977",
+  "fullDetails": {
+    "licenseNumber": "13931977",
+    "name": "ALL FLOORS",
+    "address": "4950 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-10-29T14:57:57.000Z",
+    "expiryDate": "2026-10-28T14:57:57.000Z",
+    "coordinates": [
+      -113.9634059,
+      50.9544266
+    ],
+    "longitude": -113.9634059,
+    "latitude": 50.9544266,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

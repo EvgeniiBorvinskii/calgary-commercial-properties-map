@@ -1,0 +1,37 @@
+{
+  "id": "44602",
+  "fullDetails": {
+    "licenseNumber": "44602",
+    "name": "CALGARY CO-OP GAS BAR #06",
+    "address": "4930 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-01-27T14:34:44.000Z",
+    "expiryDate": "2027-01-26T14:34:44.000Z",
+    "coordinates": [
+      -114.1574591,
+      51.0190026
+    ],
+    "longitude": -114.1574591,
+    "latitude": 51.0190026,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

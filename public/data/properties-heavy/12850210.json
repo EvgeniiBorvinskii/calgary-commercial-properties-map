@@ -1,0 +1,36 @@
+{
+  "id": "12850210",
+  "fullDetails": {
+    "licenseNumber": "12850210",
+    "name": "NORTHEAST AUTOMOTIVE SERVICE & REPAIR",
+    "address": "4205 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-05-08T06:48:04.000Z",
+    "expiryDate": "2026-05-07T06:48:04.000Z",
+    "coordinates": [
+      -113.97378,
+      51.0376064
+    ],
+    "longitude": -113.97378,
+    "latitude": 51.0376064,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

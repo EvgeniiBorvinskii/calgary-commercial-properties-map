@@ -1,0 +1,37 @@
+{
+  "id": "16282782",
+  "fullDetails": {
+    "licenseNumber": "16282782",
+    "name": "4EVER STREET",
+    "address": "124A 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "MANUFACTURER,",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nMANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-08T13:48:18.000Z",
+    "expiryDate": "2026-05-07T13:48:17.000Z",
+    "coordinates": [
+      -114.0622711,
+      51.0380094
+    ],
+    "longitude": -114.0622711,
+    "latitude": 51.0380094,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16185761",
+  "fullDetails": {
+    "licenseNumber": "16185761",
+    "name": "PIASSA CUISINE",
+    "address": "#100 3515 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-08-18T10:26:51.000Z",
+    "expiryDate": "2026-08-17T10:26:51.000Z",
+    "coordinates": [
+      -113.9835808,
+      51.0374152
+    ],
+    "longitude": -113.9835808,
+    "latitude": 51.0374152,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

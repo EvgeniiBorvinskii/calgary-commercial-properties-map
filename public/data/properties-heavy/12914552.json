@@ -1,0 +1,36 @@
+{
+  "id": "12914552",
+  "fullDetails": {
+    "licenseNumber": "12914552",
+    "name": "LAKEVIEW ON 90TH",
+    "address": "#131 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2010-04-13T12:52:17.000Z",
+    "expiryDate": "2026-04-12T12:52:17.000Z",
+    "coordinates": [
+      -114.1203018,
+      50.9714711
+    ],
+    "longitude": -114.1203018,
+    "latitude": 50.9714711,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15713712",
+  "fullDetails": {
+    "licenseNumber": "15713712",
+    "name": "CLEANSOURCE SERVICES",
+    "address": "#2 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "WHOLESALER,\nCLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2019-08-28T11:36:55.000Z",
+    "expiryDate": "2026-08-27T11:36:55.000Z",
+    "coordinates": [
+      -114.0378485,
+      51.1040734
+    ],
+    "longitude": -114.0378485,
+    "latitude": 51.1040734,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

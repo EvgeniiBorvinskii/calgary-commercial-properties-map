@@ -1,0 +1,37 @@
+{
+  "id": "12432589",
+  "fullDetails": {
+    "licenseNumber": "12432589",
+    "name": "DIGITAL LIFESTYLES",
+    "address": "#231 11979 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2021-05-21T15:47:54.000Z",
+    "expiryDate": "2026-05-20T15:47:54.000Z",
+    "coordinates": [
+      -113.9765187,
+      50.9422458
+    ],
+    "longitude": -113.9765187,
+    "latitude": 50.9422458,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

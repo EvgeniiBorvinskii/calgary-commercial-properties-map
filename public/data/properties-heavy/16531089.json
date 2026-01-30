@@ -1,0 +1,36 @@
+{
+  "id": "16531089",
+  "fullDetails": {
+    "licenseNumber": "16531089",
+    "name": "Y NAILS AND SPA",
+    "address": "#245 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-10-03T14:12:21.000Z",
+    "expiryDate": "2026-10-02T14:12:20.000Z",
+    "coordinates": [
+      -114.0730415,
+      50.9677294
+    ],
+    "longitude": -114.0730415,
+    "latitude": 50.9677294,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

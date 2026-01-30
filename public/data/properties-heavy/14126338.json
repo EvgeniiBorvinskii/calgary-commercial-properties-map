@@ -1,0 +1,37 @@
+{
+  "id": "14126338",
+  "fullDetails": {
+    "licenseNumber": "14126338",
+    "name": "ROSSO COFFEE ROASTERS INGLEWOOD",
+    "address": "1400 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2016-03-18T05:30:55.000Z",
+    "expiryDate": "2026-03-17T05:30:55.000Z",
+    "coordinates": [
+      -114.0312779,
+      51.0402535
+    ],
+    "longitude": -114.0312779,
+    "latitude": 51.0402535,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

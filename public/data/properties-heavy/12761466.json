@@ -1,0 +1,36 @@
+{
+  "id": "12761466",
+  "fullDetails": {
+    "licenseNumber": "12761466",
+    "name": "A TOUCH OF WOOD CONSTRUCTION",
+    "address": "#1 1255 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2014-09-12T05:35:06.000Z",
+    "expiryDate": "2026-09-11T05:35:06.000Z",
+    "coordinates": [
+      -114.0339668,
+      51.0931282
+    ],
+    "longitude": -114.0339668,
+    "latitude": 51.0931282,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

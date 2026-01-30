@@ -1,0 +1,36 @@
+{
+  "id": "214106",
+  "fullDetails": {
+    "licenseNumber": "214106",
+    "name": "LENSCRAFTERS #902",
+    "address": "#202 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-12-16T11:19:50.000Z",
+    "expiryDate": "2026-12-15T11:19:50.000Z",
+    "coordinates": [
+      -113.9856061,
+      51.0741246
+    ],
+    "longitude": -113.9856061,
+    "latitude": 51.0741246,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

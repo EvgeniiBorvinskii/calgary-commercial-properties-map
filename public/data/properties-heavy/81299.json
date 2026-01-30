@@ -1,0 +1,37 @@
+{
+  "id": "81299",
+  "fullDetails": {
+    "licenseNumber": "81299",
+    "name": "CALGARY CURLING CLUB",
+    "address": "720 3 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0693818,
+      51.0582873
+    ],
+    "longitude": -114.0693818,
+    "latitude": 51.0582873,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

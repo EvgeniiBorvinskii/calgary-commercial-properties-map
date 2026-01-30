@@ -1,0 +1,37 @@
+{
+  "id": "14320295",
+  "fullDetails": {
+    "licenseNumber": "14320295",
+    "name": "RAZOR'S EDGE HAIR SALON",
+    "address": "#A 4608 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-10T11:43:33.000Z",
+    "expiryDate": "2026-11-09T11:43:33.000Z",
+    "coordinates": [
+      -114.1589969,
+      51.0718673
+    ],
+    "longitude": -114.1589969,
+    "latitude": 51.0718673,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

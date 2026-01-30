@@ -1,0 +1,36 @@
+{
+  "id": "16406704",
+  "fullDetails": {
+    "licenseNumber": "16406704",
+    "name": "BALTO SPORTS",
+    "address": "#129 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-17T15:12:32.000Z",
+    "expiryDate": "2026-09-16T15:12:31.000Z",
+    "coordinates": [
+      -113.9696277,
+      50.9514292
+    ],
+    "longitude": -113.9696277,
+    "latitude": 50.9514292,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

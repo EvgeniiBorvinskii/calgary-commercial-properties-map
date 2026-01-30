@@ -1,0 +1,36 @@
+{
+  "id": "16394736",
+  "fullDetails": {
+    "licenseNumber": "16394736",
+    "name": "PURE DRY ICE DETAILING",
+    "address": "5339A 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2023-12-18T09:55:50.000Z",
+    "expiryDate": "2026-12-17T09:55:50.000Z",
+    "coordinates": [
+      -114.0675822,
+      51.0058112
+    ],
+    "longitude": -114.0675822,
+    "latitude": 51.0058112,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

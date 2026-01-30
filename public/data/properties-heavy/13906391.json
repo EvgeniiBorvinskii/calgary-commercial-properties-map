@@ -1,0 +1,36 @@
+{
+  "id": "13906391",
+  "fullDetails": {
+    "licenseNumber": "13906391",
+    "name": "CANWEST FLOORING",
+    "address": "#1 2419 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2016-03-18T15:03:23.000Z",
+    "expiryDate": "2026-03-17T15:03:23.000Z",
+    "coordinates": [
+      -114.0038307,
+      51.0065259
+    ],
+    "longitude": -114.0038307,
+    "latitude": 51.0065259,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14832265",
+  "fullDetails": {
+    "licenseNumber": "14832265",
+    "name": "MEDILINK PHARMACY",
+    "address": "#120 9825 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-30T12:54:05.000Z",
+    "expiryDate": "2026-08-29T12:54:05.000Z",
+    "coordinates": [
+      -114.0592476,
+      50.9644957
+    ],
+    "longitude": -114.0592476,
+    "latitude": 50.9644957,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

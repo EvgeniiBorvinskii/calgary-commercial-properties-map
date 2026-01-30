@@ -1,0 +1,36 @@
+{
+  "id": "22145",
+  "fullDetails": {
+    "licenseNumber": "22145",
+    "name": "SHANE HOMES",
+    "address": "5661 7 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-20T00:00:00.000Z",
+    "coordinates": [
+      -114.0446192,
+      51.1040138
+    ],
+    "longitude": -114.0446192,
+    "latitude": 51.1040138,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

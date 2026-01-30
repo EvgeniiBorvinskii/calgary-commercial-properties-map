@@ -1,0 +1,37 @@
+{
+  "id": "12198826",
+  "fullDetails": {
+    "licenseNumber": "12198826",
+    "name": "SPRUCE LODGE",
+    "address": "1055 BOW VALLEY DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2003-11-04T05:35:27.000Z",
+    "expiryDate": "2026-11-03T05:35:27.000Z",
+    "coordinates": [
+      -114.0383115,
+      51.0491419
+    ],
+    "longitude": -114.0383115,
+    "latitude": 51.0491419,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14339709",
+  "fullDetails": {
+    "licenseNumber": "14339709",
+    "name": "CITY NAILS & SPA",
+    "address": "#217 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-01-12T12:49:48.000Z",
+    "expiryDate": "2027-01-11T12:49:48.000Z",
+    "coordinates": [
+      -113.9851707,
+      51.0820019
+    ],
+    "longitude": -113.9851707,
+    "latitude": 51.0820019,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

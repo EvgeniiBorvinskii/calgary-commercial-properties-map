@@ -1,0 +1,36 @@
+{
+  "id": "16284762",
+  "fullDetails": {
+    "licenseNumber": "16284762",
+    "name": "AXIOM INDUSTRIAL SOLUTIONS",
+    "address": "#A 3541 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-05T11:41:29.000Z",
+    "expiryDate": "2026-12-04T11:41:29.000Z",
+    "coordinates": [
+      -113.9833276,
+      50.9812862
+    ],
+    "longitude": -113.9833276,
+    "latitude": 50.9812862,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16289845",
+  "fullDetails": {
+    "licenseNumber": "16289845",
+    "name": "SETON DAIRYQUEEN  GRILL AND CHILL",
+    "address": "#180 3775 202 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-03-02T11:51:35.000Z",
+    "expiryDate": "2026-03-01T11:51:35.000Z",
+    "coordinates": [
+      -113.951164,
+      50.866081
+    ],
+    "longitude": -113.951164,
+    "latitude": 50.866081,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

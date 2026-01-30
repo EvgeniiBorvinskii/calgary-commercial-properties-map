@@ -1,0 +1,36 @@
+{
+  "id": "13978036",
+  "fullDetails": {
+    "licenseNumber": "13978036",
+    "name": "SONATA DESIGN",
+    "address": "#114 6170 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-04-16T05:33:15.000Z",
+    "expiryDate": "2026-04-15T05:33:14.000Z",
+    "coordinates": [
+      -114.0351119,
+      50.9974189
+    ],
+    "longitude": -114.0351119,
+    "latitude": 50.9974189,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

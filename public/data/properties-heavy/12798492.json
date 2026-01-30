@@ -1,0 +1,36 @@
+{
+  "id": "12798492",
+  "fullDetails": {
+    "licenseNumber": "12798492",
+    "name": "BOW CYCLE & SPORTS",
+    "address": "6501 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-06-15T16:11:31.000Z",
+    "expiryDate": "2026-06-14T16:11:31.000Z",
+    "coordinates": [
+      -114.1822733,
+      51.0865187
+    ],
+    "longitude": -114.1822733,
+    "latitude": 51.0865187,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

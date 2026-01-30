@@ -1,0 +1,36 @@
+{
+  "id": "16638702",
+  "fullDetails": {
+    "licenseNumber": "16638702",
+    "name": "ANONYMOUS ARCHITECTURE",
+    "address": "1226A 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0350717,
+      51.0418211
+    ],
+    "longitude": -114.0350717,
+    "latitude": 51.0418211,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

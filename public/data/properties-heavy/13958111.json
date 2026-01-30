@@ -1,0 +1,37 @@
+{
+  "id": "13958111",
+  "fullDetails": {
+    "licenseNumber": "13958111",
+    "name": "WENDYS",
+    "address": "#400 303 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-12-11T10:59:11.000Z",
+    "expiryDate": "2026-12-10T10:59:11.000Z",
+    "coordinates": [
+      -114.0655633,
+      50.8992439
+    ],
+    "longitude": -114.0655633,
+    "latitude": 50.8992439,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

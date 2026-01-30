@@ -1,0 +1,36 @@
+{
+  "id": "157917",
+  "fullDetails": {
+    "licenseNumber": "157917",
+    "name": "AVANTI SOFTWARE",
+    "address": "#900 140 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2019-10-04T05:32:58.000Z",
+    "expiryDate": "2026-10-03T05:32:58.000Z",
+    "coordinates": [
+      -114.0614448,
+      51.0435163
+    ],
+    "longitude": -114.0614448,
+    "latitude": 51.0435163,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

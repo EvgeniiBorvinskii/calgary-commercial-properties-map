@@ -1,0 +1,36 @@
+{
+  "id": "16138299",
+  "fullDetails": {
+    "licenseNumber": "16138299",
+    "name": "CASA BONITA FOODS",
+    "address": "7111H 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-09T11:33:59.000Z",
+    "expiryDate": "2026-08-08T11:33:59.000Z",
+    "coordinates": [
+      -114.0496323,
+      50.9906902
+    ],
+    "longitude": -114.0496323,
+    "latitude": 50.9906902,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

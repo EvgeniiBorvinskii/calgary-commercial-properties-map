@@ -1,0 +1,36 @@
+{
+  "id": "12712295",
+  "fullDetails": {
+    "licenseNumber": "12712295",
+    "name": "HUNOR OIL TOOLS",
+    "address": "#1 4275 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-10-07T13:08:36.000Z",
+    "expiryDate": "2026-10-06T13:08:36.000Z",
+    "coordinates": [
+      -113.9749478,
+      50.9821572
+    ],
+    "longitude": -113.9749478,
+    "latitude": 50.9821572,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

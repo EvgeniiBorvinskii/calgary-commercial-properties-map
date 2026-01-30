@@ -1,0 +1,37 @@
+{
+  "id": "15245657",
+  "fullDetails": {
+    "licenseNumber": "15245657",
+    "name": "BULLET COFFEE HOUSE (THE)",
+    "address": "#2 728 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2019-02-19T11:03:29.000Z",
+    "expiryDate": "2027-02-18T11:03:28.000Z",
+    "coordinates": [
+      -114.0921586,
+      51.0824641
+    ],
+    "longitude": -114.0921586,
+    "latitude": 51.0824641,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

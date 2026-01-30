@@ -1,0 +1,36 @@
+{
+  "id": "16558462",
+  "fullDetails": {
+    "licenseNumber": "16558462",
+    "name": "EVEREST WINE AND SPIRITS",
+    "address": "#105 45 CARRINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-02-07T10:55:22.000Z",
+    "expiryDate": "2027-02-06T10:55:21.000Z",
+    "coordinates": [
+      -114.0738396,
+      51.1827869
+    ],
+    "longitude": -114.0738396,
+    "latitude": 51.1827869,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

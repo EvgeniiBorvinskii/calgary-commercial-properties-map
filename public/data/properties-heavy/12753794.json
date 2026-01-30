@@ -1,0 +1,36 @@
+{
+  "id": "12753794",
+  "fullDetails": {
+    "licenseNumber": "12753794",
+    "name": "GREAT CLIPS FOR HAIR",
+    "address": "#100 1210 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2009-02-17T15:56:05.000Z",
+    "expiryDate": "2027-02-16T15:56:05.000Z",
+    "coordinates": [
+      -114.0811839,
+      51.0416609
+    ],
+    "longitude": -114.0811839,
+    "latitude": 51.0416609,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

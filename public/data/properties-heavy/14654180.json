@@ -1,0 +1,36 @@
+{
+  "id": "14654180",
+  "fullDetails": {
+    "licenseNumber": "14654180",
+    "name": "MAINSTREET EQUITY",
+    "address": "127 13 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-09-19T08:11:29.000Z",
+    "expiryDate": "2026-09-18T08:11:28.000Z",
+    "coordinates": [
+      -114.0650801,
+      51.0403367
+    ],
+    "longitude": -114.0650801,
+    "latitude": 51.0403367,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

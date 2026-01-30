@@ -1,0 +1,37 @@
+{
+  "id": "14419774",
+  "fullDetails": {
+    "licenseNumber": "14419774",
+    "name": "MEDICARE PHARMACY",
+    "address": "#103 70 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-01T10:14:23.000Z",
+    "expiryDate": "2026-01-31T10:14:23.000Z",
+    "coordinates": [
+      -114.0727397,
+      51.1416117
+    ],
+    "longitude": -114.0727397,
+    "latitude": 51.1416117,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

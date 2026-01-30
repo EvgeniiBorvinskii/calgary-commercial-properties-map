@@ -1,0 +1,36 @@
+{
+  "id": "16492522",
+  "fullDetails": {
+    "licenseNumber": "16492522",
+    "name": "HANKKI (CGY-1886) FSFV",
+    "address": "1058 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2024-05-29T15:03:03.000Z",
+    "expiryDate": "2026-05-28T15:03:03.000Z",
+    "coordinates": [
+      -114.0863903,
+      51.0380194
+    ],
+    "longitude": -114.0863903,
+    "latitude": 51.0380194,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

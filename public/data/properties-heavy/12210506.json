@@ -1,0 +1,36 @@
+{
+  "id": "12210506",
+  "fullDetails": {
+    "licenseNumber": "12210506",
+    "name": "MASTER-HALCO",
+    "address": "6839 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-10-29T10:00:00.000Z",
+    "expiryDate": "2026-10-28T10:00:00.000Z",
+    "coordinates": [
+      -113.9709539,
+      50.9945005
+    ],
+    "longitude": -113.9709539,
+    "latitude": 50.9945005,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

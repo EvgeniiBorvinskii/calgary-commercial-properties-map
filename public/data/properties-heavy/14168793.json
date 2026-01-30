@@ -1,0 +1,36 @@
+{
+  "id": "14168793",
+  "fullDetails": {
+    "licenseNumber": "14168793",
+    "name": "MR MIKES PLUMBING",
+    "address": "218 INITIATIVE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-28T16:24:04.000Z",
+    "expiryDate": "2026-08-27T16:24:04.000Z",
+    "coordinates": [
+      -113.9077355,
+      50.9613806
+    ],
+    "longitude": -113.9077355,
+    "latitude": 50.9613806,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

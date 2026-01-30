@@ -1,0 +1,37 @@
+{
+  "id": "15577422",
+  "fullDetails": {
+    "licenseNumber": "15577422",
+    "name": "PEACE OF MIND MASSAGE",
+    "address": "#740 1110 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-24T13:35:01.000Z",
+    "expiryDate": "2026-06-23T13:35:01.000Z",
+    "coordinates": [
+      -114.0897441,
+      51.1669757
+    ],
+    "longitude": -114.0897441,
+    "latitude": 51.1669757,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

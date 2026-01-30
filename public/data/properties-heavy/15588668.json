@@ -1,0 +1,36 @@
+{
+  "id": "15588668",
+  "fullDetails": {
+    "licenseNumber": "15588668",
+    "name": "9 ELEMENT TATTOO STUDIO",
+    "address": "1136 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-05-24T12:22:15.000Z",
+    "expiryDate": "2026-05-23T12:22:15.000Z",
+    "coordinates": [
+      -114.0879401,
+      51.0443938
+    ],
+    "longitude": -114.0879401,
+    "latitude": 51.0443938,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

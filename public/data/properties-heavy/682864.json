@@ -1,0 +1,37 @@
+{
+  "id": "682864",
+  "fullDetails": {
+    "licenseNumber": "682864",
+    "name": "7 ELEVEN FOOD STORE #32192",
+    "address": "10099 HIDDEN VALLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-13T00:00:00.000Z",
+    "coordinates": [
+      -114.1057959,
+      51.146794
+    ],
+    "longitude": -114.1057959,
+    "latitude": 51.146794,
+    "community": "HIDDEN VALLEY",
+    "ward": "HID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

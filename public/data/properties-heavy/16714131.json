@@ -1,0 +1,36 @@
+{
+  "id": "16714131",
+  "fullDetails": {
+    "licenseNumber": "16714131",
+    "name": "CRESCENT LIQUOR",
+    "address": "#3106 8561 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-12-18T11:59:15.000Z",
+    "expiryDate": "2026-12-17T11:59:15.000Z",
+    "coordinates": [
+      -114.2104646,
+      51.060838
+    ],
+    "longitude": -114.2104646,
+    "latitude": 51.060838,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "767327",
+  "fullDetails": {
+    "licenseNumber": "767327",
+    "name": "CANADIAN EXTERIORS",
+    "address": "#1A 3516 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2008-03-20T05:44:08.000Z",
+    "expiryDate": "2026-03-19T05:44:07.000Z",
+    "coordinates": [
+      -113.9968655,
+      51.0844448
+    ],
+    "longitude": -113.9968655,
+    "latitude": 51.0844448,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

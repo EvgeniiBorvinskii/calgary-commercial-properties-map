@@ -1,0 +1,36 @@
+{
+  "id": "13440888",
+  "fullDetails": {
+    "licenseNumber": "13440888",
+    "name": "MIND BODY MASSAGE THERAPY",
+    "address": "2030B 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2012-03-29T11:53:51.000Z",
+    "expiryDate": "2026-03-28T11:53:51.000Z",
+    "coordinates": [
+      -114.1084357,
+      51.0243386
+    ],
+    "longitude": -114.1084357,
+    "latitude": 51.0243386,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

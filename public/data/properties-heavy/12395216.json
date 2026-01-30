@@ -1,0 +1,36 @@
+{
+  "id": "12395216",
+  "fullDetails": {
+    "licenseNumber": "12395216",
+    "name": "TACTICAL INNOVATIONS CANADA",
+    "address": "#2 3300 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "pending",
+    "issuedDate": "2024-04-13T05:33:22.000Z",
+    "expiryDate": "2026-04-12T05:33:22.000Z",
+    "coordinates": [
+      -113.9873334,
+      51.0658063
+    ],
+    "longitude": -113.9873334,
+    "latitude": 51.0658063,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

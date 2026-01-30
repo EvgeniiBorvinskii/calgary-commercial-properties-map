@@ -1,0 +1,36 @@
+{
+  "id": "12120895",
+  "fullDetails": {
+    "licenseNumber": "12120895",
+    "name": "COLAS WESTERN CANADA",
+    "address": "9660 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-06-30T05:33:32.000Z",
+    "expiryDate": "2026-06-29T05:33:32.000Z",
+    "coordinates": [
+      -113.8954394,
+      50.966406
+    ],
+    "longitude": -113.8954394,
+    "latitude": 50.966406,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

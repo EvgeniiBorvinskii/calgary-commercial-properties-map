@@ -1,0 +1,37 @@
+{
+  "id": "14405872",
+  "fullDetails": {
+    "licenseNumber": "14405872",
+    "name": "TREEHOUSE INDOOR PLAYGROUND SOUTH CALGARY",
+    "address": "#13 240 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "ENTERTAINMENT ESTABLISHMENT,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2017-01-26T14:13:18.000Z",
+    "expiryDate": "2026-01-25T14:13:18.000Z",
+    "coordinates": [
+      -114.0629088,
+      50.913779
+    ],
+    "longitude": -114.0629088,
+    "latitude": 50.913779,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

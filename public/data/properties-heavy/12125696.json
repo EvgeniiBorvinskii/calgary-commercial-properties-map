@@ -1,0 +1,36 @@
+{
+  "id": "12125696",
+  "fullDetails": {
+    "licenseNumber": "12125696",
+    "name": "SANDHER FURNITURE MANUFACTURING",
+    "address": "#8 3033 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-11-22T08:14:31.000Z",
+    "expiryDate": "2026-11-21T08:14:31.000Z",
+    "coordinates": [
+      -113.991101,
+      51.082854
+    ],
+    "longitude": -113.991101,
+    "latitude": 51.082854,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

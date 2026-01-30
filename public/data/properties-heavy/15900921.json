@@ -1,0 +1,37 @@
+{
+  "id": "15900921",
+  "fullDetails": {
+    "licenseNumber": "15900921",
+    "name": "BELTLINER (THE)",
+    "address": "243 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-06-19T12:23:45.000Z",
+    "expiryDate": "2026-06-18T12:23:45.000Z",
+    "coordinates": [
+      -114.0679321,
+      51.0414258
+    ],
+    "longitude": -114.0679321,
+    "latitude": 51.0414258,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

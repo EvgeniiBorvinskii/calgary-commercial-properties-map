@@ -1,0 +1,36 @@
+{
+  "id": "16423402",
+  "fullDetails": {
+    "licenseNumber": "16423402",
+    "name": "MV SALES",
+    "address": "7410B 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-10T11:19:10.000Z",
+    "expiryDate": "2027-01-09T11:19:10.000Z",
+    "coordinates": [
+      -114.0495494,
+      50.9874391
+    ],
+    "longitude": -114.0495494,
+    "latitude": 50.9874391,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

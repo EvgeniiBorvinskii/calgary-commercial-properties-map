@@ -1,0 +1,36 @@
+{
+  "id": "16569485",
+  "fullDetails": {
+    "licenseNumber": "16569485",
+    "name": "LOCAL DETAILERS (THE)",
+    "address": "#B 412 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-01-22T12:30:29.000Z",
+    "expiryDate": "2026-01-21T12:30:28.000Z",
+    "coordinates": [
+      -114.0548118,
+      51.0217603
+    ],
+    "longitude": -114.0548118,
+    "latitude": 51.0217603,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

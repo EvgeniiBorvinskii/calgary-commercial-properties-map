@@ -1,0 +1,36 @@
+{
+  "id": "16129231",
+  "fullDetails": {
+    "licenseNumber": "16129231",
+    "name": "NABI INK",
+    "address": "#200 1001 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-05-16T08:21:20.000Z",
+    "expiryDate": "2026-05-15T08:21:20.000Z",
+    "coordinates": [
+      -114.061255,
+      51.0430128
+    ],
+    "longitude": -114.061255,
+    "latitude": 51.0430128,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12022250",
+  "fullDetails": {
+    "licenseNumber": "12022250",
+    "name": "WESTCHEM TECHNOLOGIES",
+    "address": "#2141 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-26T16:21:47.000Z",
+    "expiryDate": "2026-11-25T16:21:47.000Z",
+    "coordinates": [
+      -113.9416182,
+      50.9804163
+    ],
+    "longitude": -113.9416182,
+    "latitude": 50.9804163,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15003155",
+  "fullDetails": {
+    "licenseNumber": "15003155",
+    "name": "CONCORDIA CONSTRUCTION",
+    "address": "4748 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-09-23T05:31:02.000Z",
+    "expiryDate": "2026-09-22T05:31:02.000Z",
+    "coordinates": [
+      -114.0268993,
+      51.093824
+    ],
+    "longitude": -114.0268993,
+    "latitude": 51.093824,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

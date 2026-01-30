@@ -1,0 +1,36 @@
+{
+  "id": "16072076",
+  "fullDetails": {
+    "licenseNumber": "16072076",
+    "name": "CITY CENTRE BARBERSHOP",
+    "address": "#225 401 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-09-02T14:28:57.000Z",
+    "expiryDate": "2026-09-01T14:28:57.000Z",
+    "coordinates": [
+      -114.0697462,
+      51.044433
+    ],
+    "longitude": -114.0697462,
+    "latitude": 51.044433,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "319400",
+  "fullDetails": {
+    "licenseNumber": "319400",
+    "name": "AVENIDA DENTURE CLINIC",
+    "address": "#209 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0685585,
+      50.9424315
+    ],
+    "longitude": -114.0685585,
+    "latitude": 50.9424315,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

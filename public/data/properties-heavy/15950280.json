@@ -1,0 +1,36 @@
+{
+  "id": "15950280",
+  "fullDetails": {
+    "licenseNumber": "15950280",
+    "name": "ARMADA AUTO WORKS O/A CALGARY CAR LOT",
+    "address": "929 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-21T16:30:50.000Z",
+    "expiryDate": "2026-12-20T16:30:50.000Z",
+    "coordinates": [
+      -114.0416957,
+      51.0157472
+    ],
+    "longitude": -114.0416957,
+    "latitude": 51.0157472,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

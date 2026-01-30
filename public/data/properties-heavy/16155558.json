@@ -1,0 +1,37 @@
+{
+  "id": "16155558",
+  "fullDetails": {
+    "licenseNumber": "16155558",
+    "name": "HUNTERHORN DAIRY QUEEN",
+    "address": "6732 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-05-09T14:20:58.000Z",
+    "expiryDate": "2026-05-08T14:20:58.000Z",
+    "coordinates": [
+      -114.0559838,
+      51.1123342
+    ],
+    "longitude": -114.0559838,
+    "latitude": 51.1123342,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

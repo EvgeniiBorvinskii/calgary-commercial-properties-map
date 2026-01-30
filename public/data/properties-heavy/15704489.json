@@ -1,0 +1,36 @@
+{
+  "id": "15704489",
+  "fullDetails": {
+    "licenseNumber": "15704489",
+    "name": "EMBROIDERY MARKETPLACE",
+    "address": "#120 1212 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2025-07-03T13:08:43.000Z",
+    "expiryDate": "2026-07-02T13:08:42.000Z",
+    "coordinates": [
+      -114.0373361,
+      51.0235188
+    ],
+    "longitude": -114.0373361,
+    "latitude": 51.0235188,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

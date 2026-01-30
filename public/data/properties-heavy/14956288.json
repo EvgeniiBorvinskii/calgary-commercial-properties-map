@@ -1,0 +1,37 @@
+{
+  "id": "14956288",
+  "fullDetails": {
+    "licenseNumber": "14956288",
+    "name": "CALGARY SOUTH WEST UNITED SOCCER ASSOCIATION",
+    "address": "#116 10450 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-09-19T07:32:05.000Z",
+    "expiryDate": "2026-09-18T07:32:05.000Z",
+    "coordinates": [
+      -113.9604477,
+      50.960913
+    ],
+    "longitude": -113.9604477,
+    "latitude": 50.960913,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12111837",
+  "fullDetails": {
+    "licenseNumber": "12111837",
+    "name": "FRENCH MAID CAT HOUSE (THE)",
+    "address": "3064 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "ENTERTAINMENT ESTABLISHMENT,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2002-07-06T17:22:24.000Z",
+    "expiryDate": "2026-07-05T05:32:19.000Z",
+    "coordinates": [
+      -113.9878177,
+      51.0799032
+    ],
+    "longitude": -113.9878177,
+    "latitude": 51.0799032,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

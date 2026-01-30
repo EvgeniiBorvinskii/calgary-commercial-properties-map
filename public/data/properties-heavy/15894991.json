@@ -1,0 +1,36 @@
+{
+  "id": "15894991",
+  "fullDetails": {
+    "licenseNumber": "15894991",
+    "name": "FRANKO'S MECHANICAL (TLQ)",
+    "address": "#38 5610 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-04-13T10:17:31.000Z",
+    "expiryDate": "2026-04-12T10:17:31.000Z",
+    "coordinates": [
+      -113.9660055,
+      51.0024279
+    ],
+    "longitude": -113.9660055,
+    "latitude": 51.0024279,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

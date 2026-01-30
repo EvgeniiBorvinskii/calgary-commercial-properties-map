@@ -1,0 +1,37 @@
+{
+  "id": "16095200",
+  "fullDetails": {
+    "licenseNumber": "16095200",
+    "name": "PHO MR Q",
+    "address": "#730 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-04-25T14:55:03.000Z",
+    "expiryDate": "2026-04-24T14:55:03.000Z",
+    "coordinates": [
+      -114.1979453,
+      51.1254168
+    ],
+    "longitude": -114.1979453,
+    "latitude": 51.1254168,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

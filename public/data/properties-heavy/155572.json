@@ -1,0 +1,36 @@
+{
+  "id": "155572",
+  "fullDetails": {
+    "licenseNumber": "155572",
+    "name": "CENTURY ROOFING",
+    "address": "1103 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2025-04-24T10:58:39.000Z",
+    "expiryDate": "2026-04-23T10:58:38.000Z",
+    "coordinates": [
+      -114.0394234,
+      51.1018953
+    ],
+    "longitude": -114.0394234,
+    "latitude": 51.1018953,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

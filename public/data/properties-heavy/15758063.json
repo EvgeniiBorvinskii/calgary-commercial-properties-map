@@ -1,0 +1,36 @@
+{
+  "id": "15758063",
+  "fullDetails": {
+    "licenseNumber": "15758063",
+    "name": "VALVOLINE GREAT CANADIAN OIL CHANGE",
+    "address": "1412 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-02-27T15:33:57.000Z",
+    "expiryDate": "2027-02-26T15:33:57.000Z",
+    "coordinates": [
+      -114.0931134,
+      51.0672137
+    ],
+    "longitude": -114.0931134,
+    "latitude": 51.0672137,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

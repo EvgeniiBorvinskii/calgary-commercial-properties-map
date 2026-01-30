@@ -1,0 +1,36 @@
+{
+  "id": "15198211",
+  "fullDetails": {
+    "licenseNumber": "15198211",
+    "name": "FALKBUILT",
+    "address": "#2 4100 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-02-18T09:44:01.000Z",
+    "expiryDate": "2027-02-17T09:44:01.000Z",
+    "coordinates": [
+      -113.9761346,
+      50.958492
+    ],
+    "longitude": -113.9761346,
+    "latitude": 50.958492,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

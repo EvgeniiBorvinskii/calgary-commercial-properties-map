@@ -1,0 +1,36 @@
+{
+  "id": "13690987",
+  "fullDetails": {
+    "licenseNumber": "13690987",
+    "name": "PET VALU #3209",
+    "address": "#208 70 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-06-14T14:58:41.000Z",
+    "expiryDate": "2026-06-13T14:58:41.000Z",
+    "coordinates": [
+      -114.0646106,
+      50.9065723
+    ],
+    "longitude": -114.0646106,
+    "latitude": 50.9065723,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

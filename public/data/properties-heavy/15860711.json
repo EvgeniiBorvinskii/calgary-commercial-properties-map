@@ -1,0 +1,36 @@
+{
+  "id": "15860711",
+  "fullDetails": {
+    "licenseNumber": "15860711",
+    "name": "SUBWAY RESTAURANT",
+    "address": "#9 3919 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-01-14T07:42:06.000Z",
+    "expiryDate": "2027-01-13T07:42:05.000Z",
+    "coordinates": [
+      -114.1433057,
+      51.0206386
+    ],
+    "longitude": -114.1433057,
+    "latitude": 51.0206386,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "802637",
+  "fullDetails": {
+    "licenseNumber": "802637",
+    "name": "MAGTEC PRODUCTS",
+    "address": "#150 12143 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-11-04T13:43:28.000Z",
+    "expiryDate": "2026-11-03T13:43:28.000Z",
+    "coordinates": [
+      -113.9758594,
+      50.9415914
+    ],
+    "longitude": -113.9758594,
+    "latitude": 50.9415914,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

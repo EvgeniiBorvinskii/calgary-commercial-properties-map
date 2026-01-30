@@ -1,0 +1,37 @@
+{
+  "id": "852004",
+  "fullDetails": {
+    "licenseNumber": "852004",
+    "name": "SOCIÉTÉ LA CITÉ DES ROCHEUSES",
+    "address": "4800 RICHARD RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-22T00:00:00.000Z",
+    "coordinates": [
+      -114.1229049,
+      51.0110638
+    ],
+    "longitude": -114.1229049,
+    "latitude": 51.0110638,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

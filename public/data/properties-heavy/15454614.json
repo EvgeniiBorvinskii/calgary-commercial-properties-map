@@ -1,0 +1,36 @@
+{
+  "id": "15454614",
+  "fullDetails": {
+    "licenseNumber": "15454614",
+    "name": "JACUZZI HOT TUBS OF CALGARY",
+    "address": "6204 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-02T14:15:56.000Z",
+    "expiryDate": "2026-05-01T14:15:56.000Z",
+    "coordinates": [
+      -114.0633976,
+      50.9962266
+    ],
+    "longitude": -114.0633976,
+    "latitude": 50.9962266,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

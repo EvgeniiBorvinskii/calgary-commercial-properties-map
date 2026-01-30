@@ -1,0 +1,36 @@
+{
+  "id": "14940399",
+  "fullDetails": {
+    "licenseNumber": "14940399",
+    "name": "NETSUI SUSHI",
+    "address": "#1501AN 2016T AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-07-06T08:58:45.000Z",
+    "expiryDate": "2026-07-05T08:58:45.000Z",
+    "coordinates": [
+      -114.0037988,
+      51.1297998
+    ],
+    "longitude": -114.0037988,
+    "latitude": 51.1297998,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

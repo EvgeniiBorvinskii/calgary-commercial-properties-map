@@ -1,0 +1,37 @@
+{
+  "id": "16454944",
+  "fullDetails": {
+    "licenseNumber": "16454944",
+    "name": "MILESTONES",
+    "address": "#9100 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2024-03-18T16:50:41.000Z",
+    "expiryDate": "2026-03-17T16:50:41.000Z",
+    "coordinates": [
+      -114.2115875,
+      51.1511176
+    ],
+    "longitude": -114.2115875,
+    "latitude": 51.1511176,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

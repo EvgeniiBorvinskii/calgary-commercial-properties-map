@@ -1,0 +1,37 @@
+{
+  "id": "13930698",
+  "fullDetails": {
+    "licenseNumber": "13930698",
+    "name": "SERENE ESCAPES DAY SPA",
+    "address": "#12 12192 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nBODY RUB CENTRE",
+    "status": "pending",
+    "issuedDate": "2015-04-16T05:44:04.000Z",
+    "expiryDate": "2026-04-15T05:44:04.000Z",
+    "coordinates": [
+      -114.1254056,
+      51.1626146
+    ],
+    "longitude": -114.1254056,
+    "latitude": 51.1626146,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

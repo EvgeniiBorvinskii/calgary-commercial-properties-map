@@ -1,0 +1,36 @@
+{
+  "id": "14817662",
+  "fullDetails": {
+    "licenseNumber": "14817662",
+    "name": "CALGARY GOLD",
+    "address": "154 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2018-02-23T05:30:33.000Z",
+    "expiryDate": "2027-02-22T05:30:33.000Z",
+    "coordinates": [
+      -114.0668821,
+      51.0017145
+    ],
+    "longitude": -114.0668821,
+    "latitude": 51.0017145,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

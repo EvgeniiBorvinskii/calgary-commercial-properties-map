@@ -1,0 +1,36 @@
+{
+  "id": "15877400",
+  "fullDetails": {
+    "licenseNumber": "15877400",
+    "name": "FULCRUMAIR",
+    "address": "#429 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-08-25T13:32:15.000Z",
+    "expiryDate": "2026-08-24T13:32:15.000Z",
+    "coordinates": [
+      -113.9682796,
+      50.9510191
+    ],
+    "longitude": -113.9682796,
+    "latitude": 50.9510191,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

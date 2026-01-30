@@ -1,0 +1,36 @@
+{
+  "id": "854372",
+  "fullDetails": {
+    "licenseNumber": "854372",
+    "name": "CALGARY PILATES CENTRE",
+    "address": "#231 6707 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2022-03-10T08:33:59.000Z",
+    "expiryDate": "2026-03-09T08:33:59.000Z",
+    "coordinates": [
+      -114.0841407,
+      50.9935419
+    ],
+    "longitude": -114.0841407,
+    "latitude": 50.9935419,
+    "community": "KELVIN GROVE",
+    "ward": "KEL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

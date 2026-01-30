@@ -1,0 +1,37 @@
+{
+  "id": "14006712",
+  "fullDetails": {
+    "licenseNumber": "14006712",
+    "name": "TIFFANY NAILS & SPA STUDIO",
+    "address": "#112 45 EDENWOLD DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-05T08:20:55.000Z",
+    "expiryDate": "2026-10-04T08:20:55.000Z",
+    "coordinates": [
+      -114.139421,
+      51.1269448
+    ],
+    "longitude": -114.139421,
+    "latitude": 51.1269448,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

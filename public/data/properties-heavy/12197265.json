@@ -1,0 +1,37 @@
+{
+  "id": "12197265",
+  "fullDetails": {
+    "licenseNumber": "12197265",
+    "name": "E & M SMOKE SHOP",
+    "address": "#116 8120 BEDDINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2006-04-05T14:12:03.000Z",
+    "expiryDate": "2026-04-04T14:12:03.000Z",
+    "coordinates": [
+      -114.0737394,
+      51.1270198
+    ],
+    "longitude": -114.0737394,
+    "latitude": 51.1270198,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

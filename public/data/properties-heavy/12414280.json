@@ -1,0 +1,36 @@
+{
+  "id": "12414280",
+  "fullDetails": {
+    "licenseNumber": "12414280",
+    "name": "BUILDING CONTROL GUYS",
+    "address": "3919 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-07-14T14:13:36.000Z",
+    "expiryDate": "2026-07-13T14:13:36.000Z",
+    "coordinates": [
+      -114.053929,
+      51.0878026
+    ],
+    "longitude": -114.053929,
+    "latitude": 51.0878026,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

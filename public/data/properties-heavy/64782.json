@@ -1,0 +1,36 @@
+{
+  "id": "64782",
+  "fullDetails": {
+    "licenseNumber": "64782",
+    "name": "BOW CITY PHILATELICS",
+    "address": "#204 5240 1A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2012-10-12T12:31:31.000Z",
+    "expiryDate": "2026-10-11T12:31:31.000Z",
+    "coordinates": [
+      -114.060925,
+      51.0073937
+    ],
+    "longitude": -114.060925,
+    "latitude": 51.0073937,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

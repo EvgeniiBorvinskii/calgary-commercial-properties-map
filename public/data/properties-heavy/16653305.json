@@ -1,0 +1,36 @@
+{
+  "id": "16653305",
+  "fullDetails": {
+    "licenseNumber": "16653305",
+    "name": "COST CANNABIS AT FAIRMOUNT DRIVE",
+    "address": "#130 9919 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-07-11T08:41:13.000Z",
+    "expiryDate": "2026-07-10T08:41:13.000Z",
+    "coordinates": [
+      -114.0601795,
+      50.9627808
+    ],
+    "longitude": -114.0601795,
+    "latitude": 50.9627808,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

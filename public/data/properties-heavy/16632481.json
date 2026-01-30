@@ -1,0 +1,37 @@
+{
+  "id": "16632481",
+  "fullDetails": {
+    "licenseNumber": "16632481",
+    "name": "ART CAFE",
+    "address": "#102 750 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-29T09:37:58.000Z",
+    "expiryDate": "2026-10-28T09:37:57.000Z",
+    "coordinates": [
+      -114.0883855,
+      51.0464761
+    ],
+    "longitude": -114.0883855,
+    "latitude": 51.0464761,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

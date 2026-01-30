@@ -1,0 +1,37 @@
+{
+  "id": "12924395",
+  "fullDetails": {
+    "licenseNumber": "12924395",
+    "name": "SHEFIELD EXPRESS #93",
+    "address": "#117 751 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2010-07-27T15:21:49.000Z",
+    "expiryDate": "2026-07-26T15:21:49.000Z",
+    "coordinates": [
+      -114.0709501,
+      51.0462411
+    ],
+    "longitude": -114.0709501,
+    "latitude": 51.0462411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

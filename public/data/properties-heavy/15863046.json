@@ -1,0 +1,36 @@
+{
+  "id": "15863046",
+  "fullDetails": {
+    "licenseNumber": "15863046",
+    "name": "KEYSTONE EXTERIORS",
+    "address": "#8 4315 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-29T05:33:26.000Z",
+    "expiryDate": "2026-03-28T05:33:26.000Z",
+    "coordinates": [
+      -113.9728432,
+      50.995945
+    ],
+    "longitude": -113.9728432,
+    "latitude": 50.995945,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13906292",
+  "fullDetails": {
+    "licenseNumber": "13906292",
+    "name": "PHO AN VIETNAMESE CUISINE",
+    "address": "#2 8989 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-01-28T09:34:02.000Z",
+    "expiryDate": "2027-01-27T09:34:02.000Z",
+    "coordinates": [
+      -114.0725786,
+      50.9737596
+    ],
+    "longitude": -114.0725786,
+    "latitude": 50.9737596,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12314167",
+  "fullDetails": {
+    "licenseNumber": "12314167",
+    "name": "7 DAY LIQUOR",
+    "address": "4503 26 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2004-12-28T12:24:33.000Z",
+    "expiryDate": "2026-12-27T12:24:33.000Z",
+    "coordinates": [
+      -113.9697417,
+      51.0301202
+    ],
+    "longitude": -113.9697417,
+    "latitude": 51.0301202,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

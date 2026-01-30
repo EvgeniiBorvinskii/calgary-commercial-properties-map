@@ -1,0 +1,37 @@
+{
+  "id": "13623921",
+  "fullDetails": {
+    "licenseNumber": "13623921",
+    "name": "GANGNAM STYLE ALTERATIONS & DRYCLEANING",
+    "address": "#1 805 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2013-02-20T12:25:30.000Z",
+    "expiryDate": "2026-02-19T12:25:30.000Z",
+    "coordinates": [
+      -114.0658321,
+      51.0453615
+    ],
+    "longitude": -114.0658321,
+    "latitude": 51.0453615,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

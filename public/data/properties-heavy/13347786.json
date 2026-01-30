@@ -1,0 +1,37 @@
+{
+  "id": "13347786",
+  "fullDetails": {
+    "licenseNumber": "13347786",
+    "name": "NORTH SEA FISH MARKET",
+    "address": "#300 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-01-05T15:38:58.000Z",
+    "expiryDate": "2027-01-04T15:38:58.000Z",
+    "coordinates": [
+      -114.0692703,
+      50.9556704
+    ],
+    "longitude": -114.0692703,
+    "latitude": 50.9556704,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

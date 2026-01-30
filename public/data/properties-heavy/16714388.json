@@ -1,0 +1,36 @@
+{
+  "id": "16714388",
+  "fullDetails": {
+    "licenseNumber": "16714388",
+    "name": "CRESCENT LIQUOR",
+    "address": "#225 11135 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-12-31T15:36:34.000Z",
+    "expiryDate": "2026-12-30T15:36:33.000Z",
+    "coordinates": [
+      -114.0298904,
+      51.1530271
+    ],
+    "longitude": -114.0298904,
+    "latitude": 51.1530271,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

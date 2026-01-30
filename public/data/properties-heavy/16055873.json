@@ -1,0 +1,37 @@
+{
+  "id": "16055873",
+  "fullDetails": {
+    "licenseNumber": "16055873",
+    "name": "SMUGGLERS RESTAURANT/OPEN SESAME/TANGO",
+    "address": "#130 6920 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2023-04-10T10:25:42.000Z",
+    "expiryDate": "2026-04-09T10:25:42.000Z",
+    "coordinates": [
+      -114.0707714,
+      50.992022
+    ],
+    "longitude": -114.0707714,
+    "latitude": 50.992022,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

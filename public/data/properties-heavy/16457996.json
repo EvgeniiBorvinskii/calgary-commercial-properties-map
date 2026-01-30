@@ -1,0 +1,36 @@
+{
+  "id": "16457996",
+  "fullDetails": {
+    "licenseNumber": "16457996",
+    "name": "FLOORING COMPANY (THE)",
+    "address": "#115 3510 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-18T07:47:43.000Z",
+    "expiryDate": "2026-07-17T07:47:42.000Z",
+    "coordinates": [
+      -113.9911767,
+      51.0844496
+    ],
+    "longitude": -113.9911767,
+    "latitude": 51.0844496,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12894093",
+  "fullDetails": {
+    "licenseNumber": "12894093",
+    "name": "A & C STARTEK AUTO",
+    "address": "#109 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2010-03-25T15:20:26.000Z",
+    "expiryDate": "2026-03-24T15:20:26.000Z",
+    "coordinates": [
+      -113.9878539,
+      51.06004
+    ],
+    "longitude": -113.9878539,
+    "latitude": 51.06004,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

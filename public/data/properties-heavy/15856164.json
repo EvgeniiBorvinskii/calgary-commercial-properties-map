@@ -1,0 +1,36 @@
+{
+  "id": "15856164",
+  "fullDetails": {
+    "licenseNumber": "15856164",
+    "name": "DOUBLE CLEAN",
+    "address": "5826 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2025-11-19T10:36:31.000Z",
+    "expiryDate": "2026-11-18T10:36:30.000Z",
+    "coordinates": [
+      -114.0443343,
+      51.0025061
+    ],
+    "longitude": -114.0443343,
+    "latitude": 51.0025061,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

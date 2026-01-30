@@ -1,0 +1,36 @@
+{
+  "id": "12144325",
+  "fullDetails": {
+    "licenseNumber": "12144325",
+    "name": "MARLBOROUGH MALL MASSAGE THERAPIST",
+    "address": "#340 433 MARLBOROUGH WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2002-12-06T05:46:03.000Z",
+    "expiryDate": "2026-12-05T05:46:03.000Z",
+    "coordinates": [
+      -113.9780369,
+      51.0559972
+    ],
+    "longitude": -113.9780369,
+    "latitude": 51.0559972,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

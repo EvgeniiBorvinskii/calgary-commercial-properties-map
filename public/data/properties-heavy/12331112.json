@@ -1,0 +1,36 @@
+{
+  "id": "12331112",
+  "fullDetails": {
+    "licenseNumber": "12331112",
+    "name": "VARSTEEL METALS PROCESSING CENTRE",
+    "address": "5250 94 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-27T15:52:58.000Z",
+    "expiryDate": "2026-03-26T15:52:57.000Z",
+    "coordinates": [
+      -113.9595792,
+      50.9689628
+    ],
+    "longitude": -113.9595792,
+    "latitude": 50.9689628,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12244182",
+  "fullDetails": {
+    "licenseNumber": "12244182",
+    "name": "MERCATO  INTERNATIONAL",
+    "address": "2224 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2005-03-24T05:30:37.000Z",
+    "expiryDate": "2026-03-23T05:30:37.000Z",
+    "coordinates": [
+      -114.0711908,
+      51.032699
+    ],
+    "longitude": -114.0711908,
+    "latitude": 51.032699,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

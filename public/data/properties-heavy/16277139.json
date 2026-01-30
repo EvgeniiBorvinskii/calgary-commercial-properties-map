@@ -1,0 +1,36 @@
+{
+  "id": "16277139",
+  "fullDetails": {
+    "licenseNumber": "16277139",
+    "name": "STRATEUPFITNESS&HEALTH",
+    "address": "#125 2985 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-01-26T08:59:42.000Z",
+    "expiryDate": "2027-01-25T08:59:42.000Z",
+    "coordinates": [
+      -113.9941212,
+      51.0712089
+    ],
+    "longitude": -113.9941212,
+    "latitude": 51.0712089,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

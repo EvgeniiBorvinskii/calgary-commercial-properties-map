@@ -1,0 +1,36 @@
+{
+  "id": "195958",
+  "fullDetails": {
+    "licenseNumber": "195958",
+    "name": "FAIRVIEW STUDIOS",
+    "address": "5650C BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2009-03-23T09:43:36.000Z",
+    "expiryDate": "2026-03-22T09:43:35.000Z",
+    "coordinates": [
+      -114.0447549,
+      51.0041861
+    ],
+    "longitude": -114.0447549,
+    "latitude": 51.0041861,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

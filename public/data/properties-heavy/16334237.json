@@ -1,0 +1,36 @@
+{
+  "id": "16334237",
+  "fullDetails": {
+    "licenseNumber": "16334237",
+    "name": "ELITE DIESEL",
+    "address": "6148 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-05-17T11:48:41.000Z",
+    "expiryDate": "2026-05-16T11:48:41.000Z",
+    "coordinates": [
+      -113.9669566,
+      50.9993532
+    ],
+    "longitude": -113.9669566,
+    "latitude": 50.9993532,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

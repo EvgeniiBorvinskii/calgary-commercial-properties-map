@@ -1,0 +1,36 @@
+{
+  "id": "15898430",
+  "fullDetails": {
+    "licenseNumber": "15898430",
+    "name": "GLOW GARDENS",
+    "address": "1817 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - NO PREMISES",
+    "licenseTypes": "RETAIL DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2020-04-29T05:31:52.000Z",
+    "expiryDate": "2026-04-28T05:31:52.000Z",
+    "coordinates": [
+      -114.1209315,
+      51.0694965
+    ],
+    "longitude": -114.1209315,
+    "latitude": 51.0694965,
+    "community": "UNIVERSITY OF CALGARY",
+    "ward": "UOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13279435",
+  "fullDetails": {
+    "licenseNumber": "13279435",
+    "name": "CALGARY CO-OP GAS BAR #37",
+    "address": "1111 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2013-04-13T05:33:11.000Z",
+    "expiryDate": "2026-04-12T05:33:10.000Z",
+    "coordinates": [
+      -114.0911558,
+      51.1688353
+    ],
+    "longitude": -114.0911558,
+    "latitude": 51.1688353,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

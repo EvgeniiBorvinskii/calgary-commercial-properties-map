@@ -1,0 +1,36 @@
+{
+  "id": "16019721",
+  "fullDetails": {
+    "licenseNumber": "16019721",
+    "name": "WATTS",
+    "address": "3500 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-08-26T20:57:31.000Z",
+    "expiryDate": "2026-08-25T20:57:31.000Z",
+    "coordinates": [
+      -113.9872494,
+      50.9499852
+    ],
+    "longitude": -113.9872494,
+    "latitude": 50.9499852,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16491169",
+  "fullDetails": {
+    "licenseNumber": "16491169",
+    "name": "CERTIFIED SAFETY TRAINING",
+    "address": "#5 2216 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-21T15:04:16.000Z",
+    "expiryDate": "2026-05-20T15:04:16.000Z",
+    "coordinates": [
+      -114.0075723,
+      51.0773718
+    ],
+    "longitude": -114.0075723,
+    "latitude": 51.0773718,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

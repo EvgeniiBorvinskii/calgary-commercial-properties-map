@@ -1,0 +1,36 @@
+{
+  "id": "16382483",
+  "fullDetails": {
+    "licenseNumber": "16382483",
+    "name": "DDIESEL TRUCK AND TRAILER REPAIR",
+    "address": "#26 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-12-05T15:16:01.000Z",
+    "expiryDate": "2026-12-04T15:16:00.000Z",
+    "coordinates": [
+      -113.9012433,
+      50.9629337
+    ],
+    "longitude": -113.9012433,
+    "latitude": 50.9629337,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

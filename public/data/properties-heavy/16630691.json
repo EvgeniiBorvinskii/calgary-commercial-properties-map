@@ -1,0 +1,36 @@
+{
+  "id": "16630691",
+  "fullDetails": {
+    "licenseNumber": "16630691",
+    "name": "HB RV SELF STORAGE",
+    "address": "16535 104 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-08-27T10:19:23.000Z",
+    "expiryDate": "2026-08-26T10:19:23.000Z",
+    "coordinates": [
+      -113.8842732,
+      50.9037563
+    ],
+    "longitude": -113.8842732,
+    "latitude": 50.9037563,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12J",
+    "ward": "12J",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

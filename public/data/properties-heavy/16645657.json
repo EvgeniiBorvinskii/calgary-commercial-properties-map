@@ -1,0 +1,36 @@
+{
+  "id": "16645657",
+  "fullDetails": {
+    "licenseNumber": "16645657",
+    "name": "SHAWNEE PHARMACY",
+    "address": "#2160 88 SHAWNEE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-28T08:49:08.000Z",
+    "expiryDate": "2026-08-27T08:49:08.000Z",
+    "coordinates": [
+      -114.0796931,
+      50.9220062
+    ],
+    "longitude": -114.0796931,
+    "latitude": 50.9220062,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

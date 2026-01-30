@@ -1,0 +1,37 @@
+{
+  "id": "15003676",
+  "fullDetails": {
+    "licenseNumber": "15003676",
+    "name": "UNION ALARM & CONTRACT SECURITY",
+    "address": "5534 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-15T08:24:29.000Z",
+    "expiryDate": "2026-05-14T08:24:29.000Z",
+    "coordinates": [
+      -114.0668275,
+      51.0047397
+    ],
+    "longitude": -114.0668275,
+    "latitude": 51.0047397,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

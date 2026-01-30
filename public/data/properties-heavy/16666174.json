@@ -1,0 +1,36 @@
+{
+  "id": "16666174",
+  "fullDetails": {
+    "licenseNumber": "16666174",
+    "name": "PUNJAB TEXTURE",
+    "address": "#3010 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-02T10:33:15.000Z",
+    "expiryDate": "2026-12-01T10:33:15.000Z",
+    "coordinates": [
+      -113.9804756,
+      51.1522519
+    ],
+    "longitude": -113.9804756,
+    "latitude": 51.1522519,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

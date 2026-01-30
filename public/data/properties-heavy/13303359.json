@@ -1,0 +1,36 @@
+{
+  "id": "13303359",
+  "fullDetails": {
+    "licenseNumber": "13303359",
+    "name": "PEPPINO GOURMET",
+    "address": "717 2 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-07-06T09:42:12.000Z",
+    "expiryDate": "2026-07-05T09:42:12.000Z",
+    "coordinates": [
+      -114.0466581,
+      51.0545341
+    ],
+    "longitude": -114.0466581,
+    "latitude": 51.0545341,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

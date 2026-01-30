@@ -1,0 +1,37 @@
+{
+  "id": "16674988",
+  "fullDetails": {
+    "licenseNumber": "16674988",
+    "name": "MEEST CANADA",
+    "address": "560 CLEVELAND CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-10-06T14:43:05.000Z",
+    "expiryDate": "2026-10-05T14:43:05.000Z",
+    "coordinates": [
+      -114.0527052,
+      51.0176003
+    ],
+    "longitude": -114.0527052,
+    "latitude": 51.0176003,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

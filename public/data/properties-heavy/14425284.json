@@ -1,0 +1,37 @@
+{
+  "id": "14425284",
+  "fullDetails": {
+    "licenseNumber": "14425284",
+    "name": "RED'S IN KENSINGTON",
+    "address": "292 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2017-02-03T08:53:52.000Z",
+    "expiryDate": "2026-02-02T08:53:52.000Z",
+    "coordinates": [
+      -114.0856827,
+      51.05386
+    ],
+    "longitude": -114.0856827,
+    "latitude": 51.05386,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

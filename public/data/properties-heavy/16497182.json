@@ -1,0 +1,36 @@
+{
+  "id": "16497182",
+  "fullDetails": {
+    "licenseNumber": "16497182",
+    "name": "VIOLET AND IRIS",
+    "address": "#205 45 GREENBRIAR LN NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-07-19T16:56:19.000Z",
+    "expiryDate": "2026-07-18T16:56:18.000Z",
+    "coordinates": [
+      -114.2207914,
+      51.0877959
+    ],
+    "longitude": -114.2207914,
+    "latitude": 51.0877959,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

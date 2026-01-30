@@ -1,0 +1,37 @@
+{
+  "id": "12427001",
+  "fullDetails": {
+    "licenseNumber": "12427001",
+    "name": "SHOPPERS DRUG MART",
+    "address": "5628 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2006-08-10T13:00:22.000Z",
+    "expiryDate": "2026-08-09T13:00:22.000Z",
+    "coordinates": [
+      -114.0705656,
+      51.1022938
+    ],
+    "longitude": -114.0705656,
+    "latitude": 51.1022938,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16174401",
+  "fullDetails": {
+    "licenseNumber": "16174401",
+    "name": "WINE TALES",
+    "address": "809 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "LIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-17T11:54:38.000Z",
+    "expiryDate": "2026-08-16T11:54:38.000Z",
+    "coordinates": [
+      -114.0789746,
+      51.0495288
+    ],
+    "longitude": -114.0789746,
+    "latitude": 51.0495288,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

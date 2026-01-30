@@ -1,0 +1,37 @@
+{
+  "id": "16338816",
+  "fullDetails": {
+    "licenseNumber": "16338816",
+    "name": "INUVIALUIT CRAFT SHOP",
+    "address": "112 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-07-03T15:01:48.000Z",
+    "expiryDate": "2026-07-02T15:01:47.000Z",
+    "coordinates": [
+      -114.064047,
+      51.0447719
+    ],
+    "longitude": -114.064047,
+    "latitude": 51.0447719,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

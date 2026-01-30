@@ -1,0 +1,37 @@
+{
+  "id": "15972995",
+  "fullDetails": {
+    "licenseNumber": "15972995",
+    "name": "MOBILTEX DATA",
+    "address": "#36 56 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-02-26T09:08:18.000Z",
+    "expiryDate": "2026-02-25T09:08:18.000Z",
+    "coordinates": [
+      -114.027439,
+      51.1430651
+    ],
+    "longitude": -114.027439,
+    "latitude": 51.1430651,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

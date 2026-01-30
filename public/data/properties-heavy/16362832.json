@@ -1,0 +1,36 @@
+{
+  "id": "16362832",
+  "fullDetails": {
+    "licenseNumber": "16362832",
+    "name": "REDSTONE BUILDERS",
+    "address": "1937 44 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-08-07T05:30:20.000Z",
+    "expiryDate": "2026-08-06T05:30:20.000Z",
+    "coordinates": [
+      -114.1056732,
+      51.0140204
+    ],
+    "longitude": -114.1056732,
+    "latitude": 51.0140204,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

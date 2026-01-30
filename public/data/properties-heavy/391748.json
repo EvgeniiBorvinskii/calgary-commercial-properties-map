@@ -1,0 +1,36 @@
+{
+  "id": "391748",
+  "fullDetails": {
+    "licenseNumber": "391748",
+    "name": "GOULD STAINLESS PRODUCTS",
+    "address": "#1141 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-02-24T14:25:57.000Z",
+    "expiryDate": "2026-02-23T14:25:57.000Z",
+    "coordinates": [
+      -113.9416086,
+      50.9813541
+    ],
+    "longitude": -113.9416086,
+    "latitude": 50.9813541,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

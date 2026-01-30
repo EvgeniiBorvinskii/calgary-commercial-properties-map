@@ -1,0 +1,36 @@
+{
+  "id": "15984818",
+  "fullDetails": {
+    "licenseNumber": "15984818",
+    "name": "ULTRAPRO AUTO DETAIL",
+    "address": "#1 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2023-02-28T15:08:31.000Z",
+    "expiryDate": "2026-02-28T15:08:31.000Z",
+    "coordinates": [
+      -113.9851914,
+      50.9908259
+    ],
+    "longitude": -113.9851914,
+    "latitude": 50.9908259,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

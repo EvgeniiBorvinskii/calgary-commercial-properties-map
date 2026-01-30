@@ -1,0 +1,36 @@
+{
+  "id": "16412686",
+  "fullDetails": {
+    "licenseNumber": "16412686",
+    "name": "ALI AUTO & MUFFLER",
+    "address": "#407 4655 54 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-02-13T15:11:18.000Z",
+    "expiryDate": "2026-02-12T15:11:18.000Z",
+    "coordinates": [
+      -113.9670095,
+      51.1012905
+    ],
+    "longitude": -113.9670095,
+    "latitude": 51.1012905,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

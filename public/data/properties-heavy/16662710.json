@@ -1,0 +1,36 @@
+{
+  "id": "16662710",
+  "fullDetails": {
+    "licenseNumber": "16662710",
+    "name": "PMU_KAROLINASIAW",
+    "address": "#203 1039 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-10-15T08:34:41.000Z",
+    "expiryDate": "2026-10-14T08:34:40.000Z",
+    "coordinates": [
+      -114.0866596,
+      51.0376087
+    ],
+    "longitude": -114.0866596,
+    "latitude": 51.0376087,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

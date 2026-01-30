@@ -1,0 +1,36 @@
+{
+  "id": "12074142",
+  "fullDetails": {
+    "licenseNumber": "12074142",
+    "name": "ADVANCED ENERGY SOLUTIONS",
+    "address": "#1 1916A 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2004-12-10T05:34:25.000Z",
+    "expiryDate": "2026-12-09T05:34:25.000Z",
+    "coordinates": [
+      -114.0143187,
+      51.0804796
+    ],
+    "longitude": -114.0143187,
+    "latitude": 51.0804796,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

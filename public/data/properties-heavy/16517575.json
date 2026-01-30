@@ -1,0 +1,37 @@
+{
+  "id": "16517575",
+  "fullDetails": {
+    "licenseNumber": "16517575",
+    "name": "MARIA MONAHAN HAIR SALON",
+    "address": "#202 1907 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-19T15:43:51.000Z",
+    "expiryDate": "2026-09-18T15:43:50.000Z",
+    "coordinates": [
+      -114.1050666,
+      51.0230094
+    ],
+    "longitude": -114.1050666,
+    "latitude": 51.0230094,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

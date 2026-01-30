@@ -1,0 +1,36 @@
+{
+  "id": "16473563",
+  "fullDetails": {
+    "licenseNumber": "16473563",
+    "name": "PERFECT HOMES",
+    "address": "2021 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-04-10T07:49:40.000Z",
+    "expiryDate": "2026-04-09T07:49:40.000Z",
+    "coordinates": [
+      -114.0075549,
+      51.0518462
+    ],
+    "longitude": -114.0075549,
+    "latitude": 51.0518462,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

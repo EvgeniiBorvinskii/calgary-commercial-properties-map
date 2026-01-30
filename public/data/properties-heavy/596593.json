@@ -1,0 +1,36 @@
+{
+  "id": "596593",
+  "fullDetails": {
+    "licenseNumber": "596593",
+    "name": "LUNG KEE DRIED GOOD STORE",
+    "address": "#4 132 3 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2024-08-29T00:00:00.000Z",
+    "coordinates": [
+      -114.060847,
+      51.0506081
+    ],
+    "longitude": -114.060847,
+    "latitude": 51.0506081,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

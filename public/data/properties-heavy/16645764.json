@@ -1,0 +1,37 @@
+{
+  "id": "16645764",
+  "fullDetails": {
+    "licenseNumber": "16645764",
+    "name": "FITHUB YYC",
+    "address": "4530 QUESNAY WOOD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-06-24T11:22:25.000Z",
+    "expiryDate": "2026-06-23T11:22:24.000Z",
+    "coordinates": [
+      -114.1230177,
+      51.0141512
+    ],
+    "longitude": -114.1230177,
+    "latitude": 51.0141512,
+    "community": "CURRIE BARRACKS",
+    "ward": "CUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

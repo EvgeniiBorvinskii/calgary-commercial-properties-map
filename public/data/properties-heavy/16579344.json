@@ -1,0 +1,37 @@
+{
+  "id": "16579344",
+  "fullDetails": {
+    "licenseNumber": "16579344",
+    "name": "SHOPPERS DRUG MART 316",
+    "address": "#18 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-20T14:12:14.000Z",
+    "expiryDate": "2027-01-19T14:12:13.000Z",
+    "coordinates": [
+      -114.0668228,
+      50.953473
+    ],
+    "longitude": -114.0668228,
+    "latitude": 50.953473,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

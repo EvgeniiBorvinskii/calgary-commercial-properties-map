@@ -1,0 +1,36 @@
+{
+  "id": "51029",
+  "fullDetails": {
+    "licenseNumber": "51029",
+    "name": "MARTHA'S MASTER DRY CLEANING",
+    "address": "#2 1403 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-14T00:00:00.000Z",
+    "coordinates": [
+      -114.0821362,
+      51.0397927
+    ],
+    "longitude": -114.0821362,
+    "latitude": 51.0397927,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

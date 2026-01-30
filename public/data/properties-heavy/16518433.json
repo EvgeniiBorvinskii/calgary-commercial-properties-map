@@ -1,0 +1,37 @@
+{
+  "id": "16518433",
+  "fullDetails": {
+    "licenseNumber": "16518433",
+    "name": "BEYOND HEALTH PHYSIOTHERAPY AND MASSAGE",
+    "address": "#417 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-23T14:55:24.000Z",
+    "expiryDate": "2026-07-22T14:55:23.000Z",
+    "coordinates": [
+      -114.0687364,
+      50.9416664
+    ],
+    "longitude": -114.0687364,
+    "latitude": 50.9416664,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

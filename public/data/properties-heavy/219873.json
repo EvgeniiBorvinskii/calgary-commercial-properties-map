@@ -1,0 +1,36 @@
+{
+  "id": "219873",
+  "fullDetails": {
+    "licenseNumber": "219873",
+    "name": "LENSCRAFTERS #954",
+    "address": "#106 971 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-11-18T09:03:46.000Z",
+    "expiryDate": "2026-11-17T09:03:46.000Z",
+    "coordinates": [
+      -114.0407283,
+      51.1100884
+    ],
+    "longitude": -114.0407283,
+    "latitude": 51.1100884,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

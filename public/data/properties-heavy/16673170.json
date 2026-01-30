@@ -1,0 +1,36 @@
+{
+  "id": "16673170",
+  "fullDetails": {
+    "licenseNumber": "16673170",
+    "name": "PIZZAHOLIC BRIDGELAND",
+    "address": "989 MCPHERSON RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-28T15:26:04.000Z",
+    "expiryDate": "2026-08-27T15:26:04.000Z",
+    "coordinates": [
+      -114.0405738,
+      51.0499108
+    ],
+    "longitude": -114.0405738,
+    "latitude": 51.0499108,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

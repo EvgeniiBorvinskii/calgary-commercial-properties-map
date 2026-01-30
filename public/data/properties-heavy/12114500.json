@@ -1,0 +1,37 @@
+{
+  "id": "12114500",
+  "fullDetails": {
+    "licenseNumber": "12114500",
+    "name": "7 ELEVEN FOOD STORE #33296H",
+    "address": "#100 11488 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2003-02-22T05:36:51.000Z",
+    "expiryDate": "2026-02-21T05:36:51.000Z",
+    "coordinates": [
+      -113.9998775,
+      50.9538868
+    ],
+    "longitude": -113.9998775,
+    "latitude": 50.9538868,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

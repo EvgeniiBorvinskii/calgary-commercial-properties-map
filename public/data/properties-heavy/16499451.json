@@ -1,0 +1,37 @@
+{
+  "id": "16499451",
+  "fullDetails": {
+    "licenseNumber": "16499451",
+    "name": "CRUMBL- WESTHILLS",
+    "address": "274 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-06-24T16:07:29.000Z",
+    "expiryDate": "2026-06-23T16:07:29.000Z",
+    "coordinates": [
+      -114.1708319,
+      51.0142637
+    ],
+    "longitude": -114.1708319,
+    "latitude": 51.0142637,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

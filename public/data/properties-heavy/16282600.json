@@ -1,0 +1,36 @@
+{
+  "id": "16282600",
+  "fullDetails": {
+    "licenseNumber": "16282600",
+    "name": "ADVANCE LUMBER CGY",
+    "address": "#124 10720 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-09-21T12:08:19.000Z",
+    "expiryDate": "2026-09-20T12:08:19.000Z",
+    "coordinates": [
+      -113.9956247,
+      51.1511896
+    ],
+    "longitude": -113.9956247,
+    "latitude": 51.1511896,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

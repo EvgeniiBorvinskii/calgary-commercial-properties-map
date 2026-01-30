@@ -1,0 +1,37 @@
+{
+  "id": "15902034",
+  "fullDetails": {
+    "licenseNumber": "15902034",
+    "name": "ACE LIQUOR DISCOUNTER AT BANKVIEW",
+    "address": "2601 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-25T16:05:49.000Z",
+    "expiryDate": "2026-05-24T16:05:49.000Z",
+    "coordinates": [
+      -114.0952182,
+      51.0312565
+    ],
+    "longitude": -114.0952182,
+    "latitude": 51.0312565,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

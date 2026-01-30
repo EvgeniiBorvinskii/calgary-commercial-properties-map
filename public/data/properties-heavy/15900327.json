@@ -1,0 +1,36 @@
+{
+  "id": "15900327",
+  "fullDetails": {
+    "licenseNumber": "15900327",
+    "name": "CHOICE DISTRIBUTION",
+    "address": "#16 3740 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-11T11:33:10.000Z",
+    "expiryDate": "2026-05-10T11:33:10.000Z",
+    "coordinates": [
+      -113.9940021,
+      51.085757
+    ],
+    "longitude": -113.9940021,
+    "latitude": 51.085757,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

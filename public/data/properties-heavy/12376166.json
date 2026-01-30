@@ -1,0 +1,36 @@
+{
+  "id": "12376166",
+  "fullDetails": {
+    "licenseNumber": "12376166",
+    "name": "ALL CAN MACHINE SHOP",
+    "address": "#1 1732 41 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2005-04-14T10:22:45.000Z",
+    "expiryDate": "2026-04-13T10:22:45.000Z",
+    "coordinates": [
+      -114.01941,
+      51.0172605
+    ],
+    "longitude": -114.01941,
+    "latitude": 51.0172605,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

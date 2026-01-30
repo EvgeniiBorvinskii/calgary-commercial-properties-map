@@ -1,0 +1,36 @@
+{
+  "id": "39164",
+  "fullDetails": {
+    "licenseNumber": "39164",
+    "name": "K B M COMMERCIAL FLOOR COVERINGS",
+    "address": "1260 26 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2003-02-22T05:37:15.000Z",
+    "expiryDate": "2026-02-21T05:37:15.000Z",
+    "coordinates": [
+      -114.0339019,
+      51.0310498
+    ],
+    "longitude": -114.0339019,
+    "latitude": 51.0310498,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

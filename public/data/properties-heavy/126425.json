@@ -1,0 +1,36 @@
+{
+  "id": "126425",
+  "fullDetails": {
+    "licenseNumber": "126425",
+    "name": "OPTIMA MANUFACTURING",
+    "address": "2480 PEGASUS RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-13T00:00:00.000Z",
+    "coordinates": [
+      -114.0041223,
+      51.0959846
+    ],
+    "longitude": -114.0041223,
+    "latitude": 51.0959846,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

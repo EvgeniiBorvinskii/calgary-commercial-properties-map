@@ -1,0 +1,36 @@
+{
+  "id": "15942105",
+  "fullDetails": {
+    "licenseNumber": "15942105",
+    "name": "GREENLIFE CANNABIS",
+    "address": "#6 3304 64 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-06-30T14:36:58.000Z",
+    "expiryDate": "2026-06-29T14:36:58.000Z",
+    "coordinates": [
+      -113.9403715,
+      51.0819034
+    ],
+    "longitude": -113.9403715,
+    "latitude": 51.0819034,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

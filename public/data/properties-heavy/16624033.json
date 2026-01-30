@@ -1,0 +1,37 @@
+{
+  "id": "16624033",
+  "fullDetails": {
+    "licenseNumber": "16624033",
+    "name": "WELLWISE HOME HEALTH AND WELLNESS",
+    "address": "#25A 180 94 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-08T13:58:23.000Z",
+    "expiryDate": "2026-05-07T13:58:22.000Z",
+    "coordinates": [
+      -114.0695302,
+      50.9696498
+    ],
+    "longitude": -114.0695302,
+    "latitude": 50.9696498,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "717868",
+  "fullDetails": {
+    "licenseNumber": "717868",
+    "name": "CALGARY OCULAR PROSTHETICS",
+    "address": "#415 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-05-05T15:48:59.000Z",
+    "expiryDate": "2026-05-04T15:48:59.000Z",
+    "coordinates": [
+      -114.0728131,
+      50.9908199
+    ],
+    "longitude": -114.0728131,
+    "latitude": 50.9908199,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

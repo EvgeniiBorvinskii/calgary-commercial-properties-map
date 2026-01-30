@@ -1,0 +1,36 @@
+{
+  "id": "119891",
+  "fullDetails": {
+    "licenseNumber": "119891",
+    "name": "PERSIMMON CONTRACTING",
+    "address": "10 SPRUCE CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-01-24T05:40:02.000Z",
+    "expiryDate": "2027-01-23T05:40:02.000Z",
+    "coordinates": [
+      -114.1367664,
+      51.0481795
+    ],
+    "longitude": -114.1367664,
+    "latitude": 51.0481795,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

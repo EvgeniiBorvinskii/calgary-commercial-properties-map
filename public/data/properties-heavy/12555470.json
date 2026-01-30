@@ -1,0 +1,36 @@
+{
+  "id": "12555470",
+  "fullDetails": {
+    "licenseNumber": "12555470",
+    "name": "ADAIR TREE CARE",
+    "address": "2323B 24 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-05-23T05:30:42.000Z",
+    "expiryDate": "2026-05-22T05:30:42.000Z",
+    "coordinates": [
+      -114.0060906,
+      51.0741404
+    ],
+    "longitude": -114.0060906,
+    "latitude": 51.0741404,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

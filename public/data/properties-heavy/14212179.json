@@ -1,0 +1,36 @@
+{
+  "id": "14212179",
+  "fullDetails": {
+    "licenseNumber": "14212179",
+    "name": "RILEYS ENTERPRISE SOLUTIONS",
+    "address": "621 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-07-07T07:59:22.000Z",
+    "expiryDate": "2026-07-06T07:59:22.000Z",
+    "coordinates": [
+      -114.0754485,
+      51.0456242
+    ],
+    "longitude": -114.0754485,
+    "latitude": 51.0456242,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

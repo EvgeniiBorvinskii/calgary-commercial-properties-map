@@ -1,0 +1,36 @@
+{
+  "id": "12503421",
+  "fullDetails": {
+    "licenseNumber": "12503421",
+    "name": "SHOE COMPANY (THE)",
+    "address": "11692 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-09-15T13:06:05.000Z",
+    "expiryDate": "2026-09-14T13:06:05.000Z",
+    "coordinates": [
+      -114.1563716,
+      51.1569769
+    ],
+    "longitude": -114.1563716,
+    "latitude": 51.1569769,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

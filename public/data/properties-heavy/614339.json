@@ -1,0 +1,36 @@
+{
+  "id": "614339",
+  "fullDetails": {
+    "licenseNumber": "614339",
+    "name": "GLOBAL LIQUORS",
+    "address": "#5 33 HARVEST HILLS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-05T00:00:00.000Z",
+    "coordinates": [
+      -114.0504814,
+      51.150906
+    ],
+    "longitude": -114.0504814,
+    "latitude": 51.150906,
+    "community": "HARVEST HILLS",
+    "ward": "HAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

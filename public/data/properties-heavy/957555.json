@@ -1,0 +1,36 @@
+{
+  "id": "957555",
+  "fullDetails": {
+    "licenseNumber": "957555",
+    "name": "VIPER MECHANICAL PLUMBING & HEATING",
+    "address": "#317 10820 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-09-15T11:17:42.000Z",
+    "expiryDate": "2026-09-14T11:17:42.000Z",
+    "coordinates": [
+      -113.9990669,
+      50.9555539
+    ],
+    "longitude": -113.9990669,
+    "latitude": 50.9555539,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

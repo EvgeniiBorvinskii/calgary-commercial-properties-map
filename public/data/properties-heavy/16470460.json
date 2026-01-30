@@ -1,0 +1,37 @@
+{
+  "id": "16470460",
+  "fullDetails": {
+    "licenseNumber": "16470460",
+    "name": "STAY AWHILE TATTOO",
+    "address": "1048 21 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-19T16:09:59.000Z",
+    "expiryDate": "2026-06-18T16:09:59.000Z",
+    "coordinates": [
+      -114.0369755,
+      51.0347475
+    ],
+    "longitude": -114.0369755,
+    "latitude": 51.0347475,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

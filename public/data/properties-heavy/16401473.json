@@ -1,0 +1,36 @@
+{
+  "id": "16401473",
+  "fullDetails": {
+    "licenseNumber": "16401473",
+    "name": "YYC PREP, PACK AND SHIP",
+    "address": "#4 4315 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2024-06-22T05:33:43.000Z",
+    "expiryDate": "2026-06-21T05:33:43.000Z",
+    "coordinates": [
+      -113.9728431,
+      50.9962138
+    ],
+    "longitude": -113.9728431,
+    "latitude": 50.9962138,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16058554",
+  "fullDetails": {
+    "licenseNumber": "16058554",
+    "name": "SEAN HOPE-ROSS STRENGTH AND CONDITIONING",
+    "address": "#240 2240 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-08-17T15:43:55.000Z",
+    "expiryDate": "2026-08-16T15:43:55.000Z",
+    "coordinates": [
+      -114.1136597,
+      51.0243394
+    ],
+    "longitude": -114.1136597,
+    "latitude": 51.0243394,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

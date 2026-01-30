@@ -1,0 +1,36 @@
+{
+  "id": "16625220",
+  "fullDetails": {
+    "licenseNumber": "16625220",
+    "name": "UNIQUE BUNNY",
+    "address": "#F16 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-02T10:11:03.000Z",
+    "expiryDate": "2026-06-01T10:11:03.000Z",
+    "coordinates": [
+      -114.1553598,
+      51.0860022
+    ],
+    "longitude": -114.1553598,
+    "latitude": 51.0860022,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16133308",
+  "fullDetails": {
+    "licenseNumber": "16133308",
+    "name": "SPIRITLEAF SETON",
+    "address": "#325 19587 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2022-03-30T15:02:30.000Z",
+    "expiryDate": "2026-03-29T15:02:30.000Z",
+    "coordinates": [
+      -113.9613446,
+      50.8782625
+    ],
+    "longitude": -113.9613446,
+    "latitude": 50.8782625,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

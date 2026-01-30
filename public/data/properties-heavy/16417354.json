@@ -1,0 +1,36 @@
+{
+  "id": "16417354",
+  "fullDetails": {
+    "licenseNumber": "16417354",
+    "name": "CIRCLE B TRAILER REPAIR",
+    "address": "9905 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-12-20T15:35:23.000Z",
+    "expiryDate": "2026-12-19T15:35:23.000Z",
+    "coordinates": [
+      -113.9553492,
+      50.964449
+    ],
+    "longitude": -113.9553492,
+    "latitude": 50.964449,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

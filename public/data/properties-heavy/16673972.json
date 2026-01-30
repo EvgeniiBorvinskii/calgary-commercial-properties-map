@@ -1,0 +1,36 @@
+{
+  "id": "16673972",
+  "fullDetails": {
+    "licenseNumber": "16673972",
+    "name": "NORDIC BUILD",
+    "address": "#2900 350 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-11T17:56:34.000Z",
+    "expiryDate": "2026-12-10T17:56:34.000Z",
+    "coordinates": [
+      -114.0698758,
+      51.0471154
+    ],
+    "longitude": -114.0698758,
+    "latitude": 51.0471154,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

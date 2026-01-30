@@ -1,0 +1,36 @@
+{
+  "id": "16357220",
+  "fullDetails": {
+    "licenseNumber": "16357220",
+    "name": "SUZI BEAUTY SALON",
+    "address": "#4 908 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-08-03T14:25:56.000Z",
+    "expiryDate": "2026-08-02T14:25:56.000Z",
+    "coordinates": [
+      -114.053994,
+      51.0600592
+    ],
+    "longitude": -114.053994,
+    "latitude": 51.0600592,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

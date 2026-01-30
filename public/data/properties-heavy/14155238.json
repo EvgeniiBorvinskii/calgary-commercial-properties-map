@@ -1,0 +1,36 @@
+{
+  "id": "14155238",
+  "fullDetails": {
+    "licenseNumber": "14155238",
+    "name": "LENSCRAFTERS #5269",
+    "address": "#E26 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-06-22T16:26:07.000Z",
+    "expiryDate": "2026-06-21T16:26:07.000Z",
+    "coordinates": [
+      -114.1549717,
+      51.0845968
+    ],
+    "longitude": -114.1549717,
+    "latitude": 51.0845968,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12756466",
+  "fullDetails": {
+    "licenseNumber": "12756466",
+    "name": "MAYFAIR PHARMACY",
+    "address": "#128 6707 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2010-05-10T08:43:34.000Z",
+    "expiryDate": "2026-05-09T08:43:34.000Z",
+    "coordinates": [
+      -114.0843647,
+      50.9933983
+    ],
+    "longitude": -114.0843647,
+    "latitude": 50.9933983,
+    "community": "KELVIN GROVE",
+    "ward": "KEL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

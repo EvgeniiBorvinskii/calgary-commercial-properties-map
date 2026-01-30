@@ -1,0 +1,36 @@
+{
+  "id": "12585279",
+  "fullDetails": {
+    "licenseNumber": "12585279",
+    "name": "SPIDER ELECTRIC",
+    "address": "23 MILLRISE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-06-21T10:55:06.000Z",
+    "expiryDate": "2026-06-20T10:55:06.000Z",
+    "coordinates": [
+      -114.0736573,
+      50.9160084
+    ],
+    "longitude": -114.0736573,
+    "latitude": 50.9160084,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

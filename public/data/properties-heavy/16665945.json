@@ -1,0 +1,37 @@
+{
+  "id": "16665945",
+  "fullDetails": {
+    "licenseNumber": "16665945",
+    "name": "GREENWICH PHARMACY",
+    "address": "#109 45 GREENBRIAR LN NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-05T09:09:52.000Z",
+    "expiryDate": "2026-09-04T09:09:51.000Z",
+    "coordinates": [
+      -114.2207534,
+      51.0879625
+    ],
+    "longitude": -114.2207534,
+    "latitude": 51.0879625,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

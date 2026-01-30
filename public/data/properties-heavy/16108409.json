@@ -1,0 +1,36 @@
+{
+  "id": "16108409",
+  "fullDetails": {
+    "licenseNumber": "16108409",
+    "name": "45 LIQUOR",
+    "address": "#4140 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-01-21T14:03:50.000Z",
+    "expiryDate": "2027-01-20T14:03:50.000Z",
+    "coordinates": [
+      -113.9730814,
+      51.1532109
+    ],
+    "longitude": -113.9730814,
+    "latitude": 51.1532109,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

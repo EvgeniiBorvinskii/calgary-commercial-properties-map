@@ -1,0 +1,37 @@
+{
+  "id": "12216206",
+  "fullDetails": {
+    "licenseNumber": "12216206",
+    "name": "BK BOWFORT LIQUOR",
+    "address": "97 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-08-29T05:33:32.000Z",
+    "expiryDate": "2026-08-28T05:33:32.000Z",
+    "coordinates": [
+      -114.2074037,
+      51.0846058
+    ],
+    "longitude": -114.2074037,
+    "latitude": 51.0846058,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

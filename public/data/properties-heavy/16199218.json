@@ -1,0 +1,37 @@
+{
+  "id": "16199218",
+  "fullDetails": {
+    "licenseNumber": "16199218",
+    "name": "GINGER BEEF EXPRESS",
+    "address": "#580 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-08-31T16:01:31.000Z",
+    "expiryDate": "2026-08-30T16:01:31.000Z",
+    "coordinates": [
+      -114.0705172,
+      50.9571891
+    ],
+    "longitude": -114.0705172,
+    "latitude": 50.9571891,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

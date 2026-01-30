@@ -1,0 +1,36 @@
+{
+  "id": "12077715",
+  "fullDetails": {
+    "licenseNumber": "12077715",
+    "name": "HOOD PACKAGING",
+    "address": "5615 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2002-03-16T17:19:40.000Z",
+    "expiryDate": "2026-03-15T05:32:16.000Z",
+    "coordinates": [
+      -113.9721207,
+      51.0024296
+    ],
+    "longitude": -113.9721207,
+    "latitude": 51.0024296,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

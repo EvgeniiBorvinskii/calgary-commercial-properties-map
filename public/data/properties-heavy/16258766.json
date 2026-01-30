@@ -1,0 +1,36 @@
+{
+  "id": "16258766",
+  "fullDetails": {
+    "licenseNumber": "16258766",
+    "name": "TARGET SPECIALTY PRODUCTS",
+    "address": "#125 79 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-05-18T12:45:29.000Z",
+    "expiryDate": "2026-05-17T12:45:28.000Z",
+    "coordinates": [
+      -114.0297877,
+      51.1432086
+    ],
+    "longitude": -114.0297877,
+    "latitude": 51.1432086,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

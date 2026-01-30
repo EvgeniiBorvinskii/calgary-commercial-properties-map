@@ -1,0 +1,36 @@
+{
+  "id": "16055790",
+  "fullDetails": {
+    "licenseNumber": "16055790",
+    "name": "RAY-Z MECHANICAL",
+    "address": "#131 4999 43 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-01-26T09:54:34.000Z",
+    "expiryDate": "2027-01-25T09:54:34.000Z",
+    "coordinates": [
+      -113.9706829,
+      51.0092091
+    ],
+    "longitude": -113.9706829,
+    "latitude": 51.0092091,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

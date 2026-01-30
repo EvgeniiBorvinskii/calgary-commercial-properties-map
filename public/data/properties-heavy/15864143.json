@@ -1,0 +1,36 @@
+{
+  "id": "15864143",
+  "fullDetails": {
+    "licenseNumber": "15864143",
+    "name": "BDS DRYWALL",
+    "address": "#205 10960 42 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-04T14:59:13.000Z",
+    "expiryDate": "2026-11-03T14:59:12.000Z",
+    "coordinates": [
+      -113.9708336,
+      51.1521727
+    ],
+    "longitude": -113.9708336,
+    "latitude": 51.1521727,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

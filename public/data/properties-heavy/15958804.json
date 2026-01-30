@@ -1,0 +1,37 @@
+{
+  "id": "15958804",
+  "fullDetails": {
+    "licenseNumber": "15958804",
+    "name": "LIL E COFFEE CAFE",
+    "address": "#140 140 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-02-03T10:08:24.000Z",
+    "expiryDate": "2026-02-02T10:08:23.000Z",
+    "coordinates": [
+      -114.064174,
+      51.0498938
+    ],
+    "longitude": -114.064174,
+    "latitude": 51.0498938,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

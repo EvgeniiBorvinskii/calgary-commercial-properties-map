@@ -1,0 +1,36 @@
+{
+  "id": "92106",
+  "fullDetails": {
+    "licenseNumber": "92106",
+    "name": "AMRIZE CANADA",
+    "address": "#300 115 QUARRY PARK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-11-13T09:11:33.000Z",
+    "expiryDate": "2026-11-12T09:11:33.000Z",
+    "coordinates": [
+      -114.0088921,
+      50.9603534
+    ],
+    "longitude": -114.0088921,
+    "latitude": 50.9603534,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

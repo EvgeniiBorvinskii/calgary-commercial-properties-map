@@ -1,0 +1,36 @@
+{
+  "id": "12825352",
+  "fullDetails": {
+    "licenseNumber": "12825352",
+    "name": "INK, TONER & MOORE",
+    "address": "#3B 1200 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-09-11T07:49:43.000Z",
+    "expiryDate": "2026-09-10T07:49:43.000Z",
+    "coordinates": [
+      -114.1396405,
+      51.0415822
+    ],
+    "longitude": -114.1396405,
+    "latitude": 51.0415822,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12063558",
+  "fullDetails": {
+    "licenseNumber": "12063558",
+    "name": "BRYDON STAIRS",
+    "address": "4375 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2004-03-17T15:05:14.000Z",
+    "expiryDate": "2026-03-16T15:05:14.000Z",
+    "coordinates": [
+      -114.0274565,
+      51.0913196
+    ],
+    "longitude": -114.0274565,
+    "latitude": 51.0913196,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

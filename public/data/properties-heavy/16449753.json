@@ -1,0 +1,36 @@
+{
+  "id": "16449753",
+  "fullDetails": {
+    "licenseNumber": "16449753",
+    "name": "STRETCHLAB",
+    "address": "#158C 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-10T10:40:28.000Z",
+    "expiryDate": "2026-04-09T10:40:28.000Z",
+    "coordinates": [
+      -114.0973044,
+      50.9731062
+    ],
+    "longitude": -114.0973044,
+    "latitude": 50.9731062,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

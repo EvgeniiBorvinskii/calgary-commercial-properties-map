@@ -1,0 +1,36 @@
+{
+  "id": "13347125",
+  "fullDetails": {
+    "licenseNumber": "13347125",
+    "name": "STRATA CONTROLS",
+    "address": "#7 1815 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2014-10-17T14:21:19.000Z",
+    "expiryDate": "2026-10-16T14:21:19.000Z",
+    "coordinates": [
+      -114.0162648,
+      51.0762302
+    ],
+    "longitude": -114.0162648,
+    "latitude": 51.0762302,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

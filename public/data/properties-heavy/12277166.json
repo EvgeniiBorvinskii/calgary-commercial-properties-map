@@ -1,0 +1,36 @@
+{
+  "id": "12277166",
+  "fullDetails": {
+    "licenseNumber": "12277166",
+    "name": "DOMINO'S DOUGH FACILITY",
+    "address": "#126 7139 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-08-24T05:35:00.000Z",
+    "expiryDate": "2026-08-23T05:35:00.000Z",
+    "coordinates": [
+      -113.9728187,
+      50.992408
+    ],
+    "longitude": -113.9728187,
+    "latitude": 50.992408,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

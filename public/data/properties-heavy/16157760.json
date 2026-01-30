@@ -1,0 +1,36 @@
+{
+  "id": "16157760",
+  "fullDetails": {
+    "licenseNumber": "16157760",
+    "name": "TRUE DEVELOPMENTS",
+    "address": "#210 9705A HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-06-16T08:56:07.000Z",
+    "expiryDate": "2026-06-15T08:56:07.000Z",
+    "coordinates": [
+      -114.0763181,
+      50.9680093
+    ],
+    "longitude": -114.0763181,
+    "latitude": 50.9680093,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

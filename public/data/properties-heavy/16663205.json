@@ -1,0 +1,36 @@
+{
+  "id": "16663205",
+  "fullDetails": {
+    "licenseNumber": "16663205",
+    "name": "MIGHTY AUTO REPAIRS",
+    "address": "#2 3640 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-09-15T08:01:07.000Z",
+    "expiryDate": "2026-09-14T08:01:07.000Z",
+    "coordinates": [
+      -113.9970101,
+      51.0855204
+    ],
+    "longitude": -113.9970101,
+    "latitude": 51.0855204,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

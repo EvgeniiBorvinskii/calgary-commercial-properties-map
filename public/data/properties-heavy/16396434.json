@@ -1,0 +1,37 @@
+{
+  "id": "16396434",
+  "fullDetails": {
+    "licenseNumber": "16396434",
+    "name": "MOGOUYAN HAND PULLED NOODLE",
+    "address": "#959 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-12-13T15:52:35.000Z",
+    "expiryDate": "2026-12-12T15:52:35.000Z",
+    "coordinates": [
+      -113.9840348,
+      51.0617514
+    ],
+    "longitude": -113.9840348,
+    "latitude": 51.0617514,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

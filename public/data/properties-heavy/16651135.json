@@ -1,0 +1,37 @@
+{
+  "id": "16651135",
+  "fullDetails": {
+    "licenseNumber": "16651135",
+    "name": "TRINITY NAIL SALON",
+    "address": "821 NA'A DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-08-15T12:13:31.000Z",
+    "expiryDate": "2026-08-14T12:13:30.000Z",
+    "coordinates": [
+      -114.194202,
+      51.0792566
+    ],
+    "longitude": -114.194202,
+    "latitude": 51.0792566,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

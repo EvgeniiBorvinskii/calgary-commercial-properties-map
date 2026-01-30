@@ -1,0 +1,37 @@
+{
+  "id": "16523136",
+  "fullDetails": {
+    "licenseNumber": "16523136",
+    "name": "KAL TIRE #745",
+    "address": "#105 12330 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-11-15T10:49:08.000Z",
+    "expiryDate": "2026-11-14T10:49:08.000Z",
+    "coordinates": [
+      -114.1268025,
+      51.1643003
+    ],
+    "longitude": -114.1268025,
+    "latitude": 51.1643003,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

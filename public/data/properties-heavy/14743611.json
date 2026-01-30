@@ -1,0 +1,36 @@
+{
+  "id": "14743611",
+  "fullDetails": {
+    "licenseNumber": "14743611",
+    "name": "NEW LOOK HAIR CARE GROUP",
+    "address": "3028 DON ETHELL BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-12-27T07:08:28.000Z",
+    "expiryDate": "2026-12-26T07:08:28.000Z",
+    "coordinates": [
+      -114.1276382,
+      51.0052388
+    ],
+    "longitude": -114.1276382,
+    "latitude": 51.0052388,
+    "community": "GARRISON GREEN",
+    "ward": "GAG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

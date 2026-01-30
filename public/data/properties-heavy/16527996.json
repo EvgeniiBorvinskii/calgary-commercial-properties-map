@@ -1,0 +1,36 @@
+{
+  "id": "16527996",
+  "fullDetails": {
+    "licenseNumber": "16527996",
+    "name": "EVERGREENEARTH CLEANING SERVICES",
+    "address": "23 SHAWMEADOWS PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-26T07:20:31.000Z",
+    "expiryDate": "2026-09-25T07:20:30.000Z",
+    "coordinates": [
+      -114.0726017,
+      50.9084379
+    ],
+    "longitude": -114.0726017,
+    "latitude": 50.9084379,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16384687",
+  "fullDetails": {
+    "licenseNumber": "16384687",
+    "name": "ST LOUIS BAR AND GRILL",
+    "address": "220 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2023-11-22T15:30:40.000Z",
+    "expiryDate": "2026-11-21T15:30:40.000Z",
+    "coordinates": [
+      -114.2074139,
+      51.0815588
+    ],
+    "longitude": -114.2074139,
+    "latitude": 51.0815588,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

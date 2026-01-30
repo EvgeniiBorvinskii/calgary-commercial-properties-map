@@ -1,0 +1,36 @@
+{
+  "id": "16692139",
+  "fullDetails": {
+    "licenseNumber": "16692139",
+    "name": "NOCTURNE BOOKS",
+    "address": "#15 1934 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-12T14:42:53.000Z",
+    "expiryDate": "2026-11-11T14:42:53.000Z",
+    "coordinates": [
+      -114.1064707,
+      51.0233845
+    ],
+    "longitude": -114.1064707,
+    "latitude": 51.0233845,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

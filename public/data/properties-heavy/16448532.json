@@ -1,0 +1,36 @@
+{
+  "id": "16448532",
+  "fullDetails": {
+    "licenseNumber": "16448532",
+    "name": "PANDORA",
+    "address": "#P7 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-16T11:14:53.000Z",
+    "expiryDate": "2026-02-15T11:14:53.000Z",
+    "coordinates": [
+      -114.1544651,
+      51.0844017
+    ],
+    "longitude": -114.1544651,
+    "latitude": 51.0844017,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

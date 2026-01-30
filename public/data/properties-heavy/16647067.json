@@ -1,0 +1,36 @@
+{
+  "id": "16647067",
+  "fullDetails": {
+    "licenseNumber": "16647067",
+    "name": "SMS APPLIANCES CALGARY NORTH",
+    "address": "1623 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-23T07:48:23.000Z",
+    "expiryDate": "2026-06-22T07:48:23.000Z",
+    "coordinates": [
+      -114.0223272,
+      51.0810087
+    ],
+    "longitude": -114.0223272,
+    "latitude": 51.0810087,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

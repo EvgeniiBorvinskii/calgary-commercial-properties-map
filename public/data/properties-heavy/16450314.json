@@ -1,0 +1,37 @@
+{
+  "id": "16450314",
+  "fullDetails": {
+    "licenseNumber": "16450314",
+    "name": "FEAST OF INDIA",
+    "address": "#10 5329 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-04-23T15:23:19.000Z",
+    "expiryDate": "2026-04-22T15:23:19.000Z",
+    "coordinates": [
+      -113.9572116,
+      50.9888017
+    ],
+    "longitude": -113.9572116,
+    "latitude": 50.9888017,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

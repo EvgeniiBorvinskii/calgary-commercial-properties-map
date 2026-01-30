@@ -1,0 +1,36 @@
+{
+  "id": "12393625",
+  "fullDetails": {
+    "licenseNumber": "12393625",
+    "name": "BENPRO TECHNOLOGIES",
+    "address": "4715 GLENMORE TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-12-01T05:36:04.000Z",
+    "expiryDate": "2026-11-30T05:36:04.000Z",
+    "coordinates": [
+      -113.9663611,
+      50.9779707
+    ],
+    "longitude": -113.9663611,
+    "latitude": 50.9779707,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

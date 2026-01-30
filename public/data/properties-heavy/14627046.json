@@ -1,0 +1,36 @@
+{
+  "id": "14627046",
+  "fullDetails": {
+    "licenseNumber": "14627046",
+    "name": "WINDY POINT SOAP MAKING SUPPLIES",
+    "address": "#14 6125 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-09T07:25:44.000Z",
+    "expiryDate": "2026-05-08T07:25:44.000Z",
+    "coordinates": [
+      -114.0363202,
+      50.9972461
+    ],
+    "longitude": -114.0363202,
+    "latitude": 50.9972461,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

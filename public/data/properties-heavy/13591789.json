@@ -1,0 +1,36 @@
+{
+  "id": "13591789",
+  "fullDetails": {
+    "licenseNumber": "13591789",
+    "name": "NUTRI-LAWN CALGARY",
+    "address": "4980 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-12-31T08:48:57.000Z",
+    "expiryDate": "2026-12-30T08:48:56.000Z",
+    "coordinates": [
+      -113.9910413,
+      51.0098479
+    ],
+    "longitude": -113.9910413,
+    "latitude": 51.0098479,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

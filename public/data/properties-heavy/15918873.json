@@ -1,0 +1,36 @@
+{
+  "id": "15918873",
+  "fullDetails": {
+    "licenseNumber": "15918873",
+    "name": "ELBOW LABORATORIES",
+    "address": "3505P 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-08-07T07:43:29.000Z",
+    "expiryDate": "2026-08-06T07:43:29.000Z",
+    "coordinates": [
+      -113.9899768,
+      51.0840674
+    ],
+    "longitude": -113.9899768,
+    "latitude": 51.0840674,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

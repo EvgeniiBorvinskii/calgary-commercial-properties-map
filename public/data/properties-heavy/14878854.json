@@ -1,0 +1,36 @@
+{
+  "id": "14878854",
+  "fullDetails": {
+    "licenseNumber": "14878854",
+    "name": "SKOAH",
+    "address": "260 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2018-04-10T15:53:58.000Z",
+    "expiryDate": "2026-04-09T15:53:58.000Z",
+    "coordinates": [
+      -114.1702548,
+      51.0142017
+    ],
+    "longitude": -114.1702548,
+    "latitude": 51.0142017,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

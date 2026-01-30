@@ -1,0 +1,36 @@
+{
+  "id": "12040556",
+  "fullDetails": {
+    "licenseNumber": "12040556",
+    "name": "BOYD AUTOBODY & GLASS #11101",
+    "address": "#109 11450 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2002-01-04T18:15:11.000Z",
+    "expiryDate": "2027-01-03T14:48:52.000Z",
+    "coordinates": [
+      -113.9941359,
+      50.9518729
+    ],
+    "longitude": -113.9941359,
+    "latitude": 50.9518729,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16353724",
+  "fullDetails": {
+    "licenseNumber": "16353724",
+    "name": "ERPRE BARBER AND SHOP",
+    "address": "#200 1012 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-18T14:04:11.000Z",
+    "expiryDate": "2026-08-17T14:04:10.000Z",
+    "coordinates": [
+      -114.0837063,
+      51.0671313
+    ],
+    "longitude": -114.0837063,
+    "latitude": 51.0671313,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

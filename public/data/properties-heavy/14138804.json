@@ -1,0 +1,36 @@
+{
+  "id": "14138804",
+  "fullDetails": {
+    "licenseNumber": "14138804",
+    "name": "BERLITZ CANADA",
+    "address": "#300 407 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-02-01T15:07:41.000Z",
+    "expiryDate": "2027-01-31T15:07:41.000Z",
+    "coordinates": [
+      -114.0681396,
+      51.049197
+    ],
+    "longitude": -114.0681396,
+    "latitude": 51.049197,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13562061",
+  "fullDetails": {
+    "licenseNumber": "13562061",
+    "name": "OPTIMUM WELLNESS CENTRE",
+    "address": "#124 13226 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2022-04-05T07:33:24.000Z",
+    "expiryDate": "2026-04-04T07:33:24.000Z",
+    "coordinates": [
+      -114.066609,
+      50.9324879
+    ],
+    "longitude": -114.066609,
+    "latitude": 50.9324879,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16571986",
+  "fullDetails": {
+    "licenseNumber": "16571986",
+    "name": "THE STORAGE SPOT",
+    "address": "6423A BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-02-25T08:30:15.000Z",
+    "expiryDate": "2027-02-24T08:30:14.000Z",
+    "coordinates": [
+      -114.0476455,
+      50.9972636
+    ],
+    "longitude": -114.0476455,
+    "latitude": 50.9972636,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15849847",
+  "fullDetails": {
+    "licenseNumber": "15849847",
+    "name": "PHARMASAVE MACLEOD",
+    "address": "#106 7500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-12T09:13:31.000Z",
+    "expiryDate": "2026-11-11T09:13:31.000Z",
+    "coordinates": [
+      -114.0699717,
+      50.9866321
+    ],
+    "longitude": -114.0699717,
+    "latitude": 50.9866321,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

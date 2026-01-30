@@ -1,0 +1,36 @@
+{
+  "id": "12519575",
+  "fullDetails": {
+    "licenseNumber": "12519575",
+    "name": "TAIL BLAZERS",
+    "address": "#107 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-09-29T15:35:34.000Z",
+    "expiryDate": "2026-09-28T15:35:34.000Z",
+    "coordinates": [
+      -113.9492508,
+      50.9135273
+    ],
+    "longitude": -113.9492508,
+    "latitude": 50.9135273,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

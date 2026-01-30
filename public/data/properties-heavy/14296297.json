@@ -1,0 +1,36 @@
+{
+  "id": "14296297",
+  "fullDetails": {
+    "licenseNumber": "14296297",
+    "name": "JULIAN TILE",
+    "address": "1125 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-12-07T05:32:26.000Z",
+    "expiryDate": "2026-12-06T05:32:26.000Z",
+    "coordinates": [
+      -114.0386425,
+      51.0155256
+    ],
+    "longitude": -114.0386425,
+    "latitude": 51.0155256,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

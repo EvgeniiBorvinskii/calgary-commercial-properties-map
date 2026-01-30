@@ -1,0 +1,36 @@
+{
+  "id": "14140586",
+  "fullDetails": {
+    "licenseNumber": "14140586",
+    "name": "ADVANCED COMPLETIONS TECHNOLOGY SERVICES",
+    "address": "#1120 10645 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-05-06T15:24:57.000Z",
+    "expiryDate": "2026-05-05T15:24:57.000Z",
+    "coordinates": [
+      -113.9286823,
+      50.9632606
+    ],
+    "longitude": -113.9286823,
+    "latitude": 50.9632606,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

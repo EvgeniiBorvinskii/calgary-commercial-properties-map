@@ -1,0 +1,36 @@
+{
+  "id": "16587586",
+  "fullDetails": {
+    "licenseNumber": "16587586",
+    "name": "NOOREN SAMOSA",
+    "address": "#106 9036 46 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-07T15:54:26.000Z",
+    "expiryDate": "2026-05-06T15:54:25.000Z",
+    "coordinates": [
+      -113.9651586,
+      51.134673
+    ],
+    "longitude": -113.9651586,
+    "latitude": 51.134673,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

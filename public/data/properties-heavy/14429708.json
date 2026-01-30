@@ -1,0 +1,36 @@
+{
+  "id": "14429708",
+  "fullDetails": {
+    "licenseNumber": "14429708",
+    "name": "PREMIER EYE CARE SETON",
+    "address": "#107 3815 FRONT ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-02-17T08:48:31.000Z",
+    "expiryDate": "2027-02-16T08:48:30.000Z",
+    "coordinates": [
+      -113.954679,
+      50.8803671
+    ],
+    "longitude": -113.954679,
+    "latitude": 50.8803671,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

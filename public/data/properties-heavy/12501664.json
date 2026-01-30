@@ -1,0 +1,36 @@
+{
+  "id": "12501664",
+  "fullDetails": {
+    "licenseNumber": "12501664",
+    "name": "CANADIAN WOODWORKER",
+    "address": "105E 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-03-15T09:42:09.000Z",
+    "expiryDate": "2026-03-14T09:42:09.000Z",
+    "coordinates": [
+      -114.0628712,
+      51.0009499
+    ],
+    "longitude": -114.0628712,
+    "latitude": 51.0009499,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15976053",
+  "fullDetails": {
+    "licenseNumber": "15976053",
+    "name": "DR CELL",
+    "address": "#420 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-01-22T11:37:17.000Z",
+    "expiryDate": "2026-01-21T11:37:17.000Z",
+    "coordinates": [
+      -114.0735481,
+      50.9669851
+    ],
+    "longitude": -114.0735481,
+    "latitude": 50.9669851,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16592750",
+  "fullDetails": {
+    "licenseNumber": "16592750",
+    "name": "FAZOLIS",
+    "address": "#1520 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-03T16:17:23.000Z",
+    "expiryDate": "2026-06-02T16:17:23.000Z",
+    "coordinates": [
+      -113.942022,
+      50.8944584
+    ],
+    "longitude": -113.942022,
+    "latitude": 50.8944584,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

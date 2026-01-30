@@ -1,0 +1,36 @@
+{
+  "id": "15954936",
+  "fullDetails": {
+    "licenseNumber": "15954936",
+    "name": "PREPARY (THE)",
+    "address": "703 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-05-28T15:19:16.000Z",
+    "expiryDate": "2026-05-27T15:19:16.000Z",
+    "coordinates": [
+      -114.0950493,
+      51.0578875
+    ],
+    "longitude": -114.0950493,
+    "latitude": 51.0578875,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

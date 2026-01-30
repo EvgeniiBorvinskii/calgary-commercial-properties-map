@@ -1,0 +1,36 @@
+{
+  "id": "12913976",
+  "fullDetails": {
+    "licenseNumber": "12913976",
+    "name": "DUBLDZ AUTO DETAILING",
+    "address": "#110 6230 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2010-07-08T11:24:31.000Z",
+    "expiryDate": "2026-07-07T11:24:31.000Z",
+    "coordinates": [
+      -114.0632931,
+      50.9953742
+    ],
+    "longitude": -114.0632931,
+    "latitude": 50.9953742,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12883187",
+  "fullDetails": {
+    "licenseNumber": "12883187",
+    "name": "PALADIN TECHNOLOGIES",
+    "address": "#120 6330 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-05-04T14:13:07.000Z",
+    "expiryDate": "2026-05-03T14:13:07.000Z",
+    "coordinates": [
+      -114.0356751,
+      50.9963107
+    ],
+    "longitude": -114.0356751,
+    "latitude": 50.9963107,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

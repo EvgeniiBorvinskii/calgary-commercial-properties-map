@@ -1,0 +1,37 @@
+{
+  "id": "16408379",
+  "fullDetails": {
+    "licenseNumber": "16408379",
+    "name": "SMART PHARMA",
+    "address": "1116 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-18T11:19:22.000Z",
+    "expiryDate": "2026-12-17T11:19:22.000Z",
+    "coordinates": [
+      -114.0621994,
+      51.0621938
+    ],
+    "longitude": -114.0621994,
+    "latitude": 51.0621938,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

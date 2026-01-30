@@ -1,0 +1,37 @@
+{
+  "id": "13192844",
+  "fullDetails": {
+    "licenseNumber": "13192844",
+    "name": "GIANT OIL TOOLS",
+    "address": "8 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-09-25T13:31:51.000Z",
+    "expiryDate": "2026-09-24T13:31:51.000Z",
+    "coordinates": [
+      -113.9072211,
+      50.9697312
+    ],
+    "longitude": -113.9072211,
+    "latitude": 50.9697312,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

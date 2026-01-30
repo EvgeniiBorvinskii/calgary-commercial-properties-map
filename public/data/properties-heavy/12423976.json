@@ -1,0 +1,37 @@
+{
+  "id": "12423976",
+  "fullDetails": {
+    "licenseNumber": "12423976",
+    "name": "RIVERSIDE SPA",
+    "address": "#A 110 POINT MCKAY CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-02-14T12:12:08.000Z",
+    "expiryDate": "2027-02-13T12:12:08.000Z",
+    "coordinates": [
+      -114.1481137,
+      51.0621788
+    ],
+    "longitude": -114.1481137,
+    "latitude": 51.0621788,
+    "community": "POINT MCKAY",
+    "ward": "POI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

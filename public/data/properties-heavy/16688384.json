@@ -1,0 +1,36 @@
+{
+  "id": "16688384",
+  "fullDetails": {
+    "licenseNumber": "16688384",
+    "name": "RANDY'S GARAGE",
+    "address": "#24 920 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-10-17T14:50:22.000Z",
+    "expiryDate": "2026-10-16T14:50:21.000Z",
+    "coordinates": [
+      -113.9913334,
+      51.0602997
+    ],
+    "longitude": -113.9913334,
+    "latitude": 51.0602997,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

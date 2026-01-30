@@ -1,0 +1,36 @@
+{
+  "id": "13574199",
+  "fullDetails": {
+    "licenseNumber": "13574199",
+    "name": "ALBERTA HARDWOOD FLOORING",
+    "address": "#136 4550 25 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-07-12T08:09:13.000Z",
+    "expiryDate": "2026-07-11T08:09:13.000Z",
+    "coordinates": [
+      -113.9985328,
+      51.0138029
+    ],
+    "longitude": -113.9985328,
+    "latitude": 51.0138029,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

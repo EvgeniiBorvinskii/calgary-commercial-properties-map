@@ -1,0 +1,36 @@
+{
+  "id": "15992746",
+  "fullDetails": {
+    "licenseNumber": "15992746",
+    "name": "TARADALE EYECARE",
+    "address": "#515 6520 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-06-15T07:53:34.000Z",
+    "expiryDate": "2026-06-14T07:53:34.000Z",
+    "coordinates": [
+      -113.9453806,
+      51.1118607
+    ],
+    "longitude": -113.9453806,
+    "latitude": 51.1118607,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

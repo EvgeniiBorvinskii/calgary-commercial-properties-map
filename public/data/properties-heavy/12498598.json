@@ -1,0 +1,36 @@
+{
+  "id": "12498598",
+  "fullDetails": {
+    "licenseNumber": "12498598",
+    "name": "SUBWAY",
+    "address": "2105 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2006-09-08T14:50:14.000Z",
+    "expiryDate": "2026-09-07T14:50:14.000Z",
+    "coordinates": [
+      -114.1100467,
+      51.0238066
+    ],
+    "longitude": -114.1100467,
+    "latitude": 51.0238066,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

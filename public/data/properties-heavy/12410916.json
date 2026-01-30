@@ -1,0 +1,36 @@
+{
+  "id": "12410916",
+  "fullDetails": {
+    "licenseNumber": "12410916",
+    "name": "MARK'S WORK WEARHOUSE #235",
+    "address": "#453 130 COUNTRY VILLAGE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-08-04T15:13:48.000Z",
+    "expiryDate": "2026-08-03T15:13:48.000Z",
+    "coordinates": [
+      -114.0653314,
+      51.1626027
+    ],
+    "longitude": -114.0653314,
+    "latitude": 51.1626027,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

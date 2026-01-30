@@ -1,0 +1,37 @@
+{
+  "id": "12340006",
+  "fullDetails": {
+    "licenseNumber": "12340006",
+    "name": "HAYDEN BLOCK SMOKE & WHISKEY",
+    "address": "1136 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2005-02-08T07:46:45.000Z",
+    "expiryDate": "2026-02-07T07:46:45.000Z",
+    "coordinates": [
+      -114.0882735,
+      51.0526792
+    ],
+    "longitude": -114.0882735,
+    "latitude": 51.0526792,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

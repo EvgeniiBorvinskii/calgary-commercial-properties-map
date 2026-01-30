@@ -1,0 +1,36 @@
+{
+  "id": "14892269",
+  "fullDetails": {
+    "licenseNumber": "14892269",
+    "name": "CREATIONS BY CHELSEY HAIR AND DESIGN",
+    "address": "#3 338 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2018-04-13T09:32:17.000Z",
+    "expiryDate": "2026-04-12T09:32:17.000Z",
+    "coordinates": [
+      -114.0856407,
+      51.0553518
+    ],
+    "longitude": -114.0856407,
+    "latitude": 51.0553518,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

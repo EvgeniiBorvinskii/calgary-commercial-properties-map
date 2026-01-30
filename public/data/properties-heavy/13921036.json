@@ -1,0 +1,36 @@
+{
+  "id": "13921036",
+  "fullDetails": {
+    "licenseNumber": "13921036",
+    "name": "SUBWAY SANDWICHES & SALADS",
+    "address": "911 HERITAGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2015-03-06T13:39:28.000Z",
+    "expiryDate": "2026-03-05T13:39:28.000Z",
+    "coordinates": [
+      -114.0840399,
+      50.9792245
+    ],
+    "longitude": -114.0840399,
+    "latitude": 50.9792245,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

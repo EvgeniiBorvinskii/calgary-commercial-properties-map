@@ -1,0 +1,36 @@
+{
+  "id": "16464984",
+  "fullDetails": {
+    "licenseNumber": "16464984",
+    "name": "LASER NICE BEAUTY",
+    "address": "#209 264 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-08-13T15:58:45.000Z",
+    "expiryDate": "2026-08-12T15:58:44.000Z",
+    "coordinates": [
+      -114.0652849,
+      50.9115618
+    ],
+    "longitude": -114.0652849,
+    "latitude": 50.9115618,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

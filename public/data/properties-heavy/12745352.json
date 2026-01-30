@@ -1,0 +1,36 @@
+{
+  "id": "12745352",
+  "fullDetails": {
+    "licenseNumber": "12745352",
+    "name": "FOURMOST TECHNOLOGY",
+    "address": "#303 3750 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2009-02-10T09:15:33.000Z",
+    "expiryDate": "2026-02-09T09:15:33.000Z",
+    "coordinates": [
+      -113.9754764,
+      51.0135816
+    ],
+    "longitude": -113.9754764,
+    "latitude": 51.0135816,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

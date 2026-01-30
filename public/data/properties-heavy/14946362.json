@@ -1,0 +1,36 @@
+{
+  "id": "14946362",
+  "fullDetails": {
+    "licenseNumber": "14946362",
+    "name": "WEAVE LIFE EXTENSIONS",
+    "address": "#115 9950 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-05-27T11:14:07.000Z",
+    "expiryDate": "2026-05-26T11:14:07.000Z",
+    "coordinates": [
+      -114.0692919,
+      50.962205
+    ],
+    "longitude": -114.0692919,
+    "latitude": 50.962205,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

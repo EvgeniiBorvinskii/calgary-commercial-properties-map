@@ -1,0 +1,36 @@
+{
+  "id": "14234108",
+  "fullDetails": {
+    "licenseNumber": "14234108",
+    "name": "COLUMBIA VALLEY FOOD SERVICES",
+    "address": "#101 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-06T19:18:14.000Z",
+    "expiryDate": "2026-07-05T19:18:14.000Z",
+    "coordinates": [
+      -114.0068799,
+      51.0784887
+    ],
+    "longitude": -114.0068799,
+    "latitude": 51.0784887,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

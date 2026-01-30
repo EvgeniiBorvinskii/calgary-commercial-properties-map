@@ -1,0 +1,36 @@
+{
+  "id": "16207896",
+  "fullDetails": {
+    "licenseNumber": "16207896",
+    "name": "SUNALTA 1509 DEVELOPMENT",
+    "address": "#1700 300 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-23T05:34:01.000Z",
+    "expiryDate": "2026-12-22T05:34:01.000Z",
+    "coordinates": [
+      -114.0683248,
+      51.0488411
+    ],
+    "longitude": -114.0683248,
+    "latitude": 51.0488411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

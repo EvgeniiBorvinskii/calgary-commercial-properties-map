@@ -1,0 +1,36 @@
+{
+  "id": "16477911",
+  "fullDetails": {
+    "licenseNumber": "16477911",
+    "name": "AFFORDABLE LASER CARE",
+    "address": "#103 60 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-05-03T13:03:23.000Z",
+    "expiryDate": "2026-05-02T13:03:23.000Z",
+    "coordinates": [
+      -114.14649,
+      51.1696146
+    ],
+    "longitude": -114.14649,
+    "latitude": 51.1696146,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13714068",
+  "fullDetails": {
+    "licenseNumber": "13714068",
+    "name": "CLOVERDALE PAINT",
+    "address": "4880 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-05-20T15:36:56.000Z",
+    "expiryDate": "2026-05-19T15:36:56.000Z",
+    "coordinates": [
+      -113.9646977,
+      50.9611909
+    ],
+    "longitude": -113.9646977,
+    "latitude": 50.9611909,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

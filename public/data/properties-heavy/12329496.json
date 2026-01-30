@@ -1,0 +1,36 @@
+{
+  "id": "12329496",
+  "fullDetails": {
+    "licenseNumber": "12329496",
+    "name": "SANDWICHES 'N MORE LUNCH & CATERING CO",
+    "address": "#2 3530 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-03-28T07:53:17.000Z",
+    "expiryDate": "2026-03-27T07:53:17.000Z",
+    "coordinates": [
+      -114.0335798,
+      51.0841708
+    ],
+    "longitude": -114.0335798,
+    "latitude": 51.0841708,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

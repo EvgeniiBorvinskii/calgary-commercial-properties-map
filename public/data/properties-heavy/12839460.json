@@ -1,0 +1,36 @@
+{
+  "id": "12839460",
+  "fullDetails": {
+    "licenseNumber": "12839460",
+    "name": "SAFETY NET SECURITY",
+    "address": "#201 6204 6A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "pending",
+    "issuedDate": "2025-03-17T07:50:56.000Z",
+    "expiryDate": "2026-03-16T07:50:56.000Z",
+    "coordinates": [
+      -114.0472028,
+      50.9995545
+    ],
+    "longitude": -114.0472028,
+    "latitude": 50.9995545,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

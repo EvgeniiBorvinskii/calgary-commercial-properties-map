@@ -1,0 +1,36 @@
+{
+  "id": "16206351",
+  "fullDetails": {
+    "licenseNumber": "16206351",
+    "name": "LAW BARBER SHOP",
+    "address": "#122 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-10-17T12:33:16.000Z",
+    "expiryDate": "2026-10-16T12:33:15.000Z",
+    "coordinates": [
+      -113.9974417,
+      51.0803819
+    ],
+    "longitude": -113.9974417,
+    "latitude": 51.0803819,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

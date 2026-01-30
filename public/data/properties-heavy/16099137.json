@@ -1,0 +1,36 @@
+{
+  "id": "16099137",
+  "fullDetails": {
+    "licenseNumber": "16099137",
+    "name": "TELUS/KOODO",
+    "address": "#1114 4818 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-03T15:46:16.000Z",
+    "expiryDate": "2026-11-02T15:46:16.000Z",
+    "coordinates": [
+      -113.9652511,
+      51.1014772
+    ],
+    "longitude": -113.9652511,
+    "latitude": 51.1014772,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

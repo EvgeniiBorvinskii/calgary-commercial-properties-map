@@ -1,0 +1,36 @@
+{
+  "id": "16505539",
+  "fullDetails": {
+    "licenseNumber": "16505539",
+    "name": "EUROSPEC MOTORWERKS",
+    "address": "#149 11450 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-09-10T15:16:13.000Z",
+    "expiryDate": "2026-09-09T15:16:13.000Z",
+    "coordinates": [
+      -113.9942448,
+      50.9509819
+    ],
+    "longitude": -113.9942448,
+    "latitude": 50.9509819,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

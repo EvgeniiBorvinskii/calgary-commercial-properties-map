@@ -1,0 +1,37 @@
+{
+  "id": "14654784",
+  "fullDetails": {
+    "licenseNumber": "14654784",
+    "name": "ENQUEST ENERGY SOLUTIONS",
+    "address": "5015 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-09-22T15:59:08.000Z",
+    "expiryDate": "2026-09-21T15:59:08.000Z",
+    "coordinates": [
+      -113.9620729,
+      50.9984426
+    ],
+    "longitude": -113.9620729,
+    "latitude": 50.9984426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

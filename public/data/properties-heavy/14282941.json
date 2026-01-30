@@ -1,0 +1,36 @@
+{
+  "id": "14282941",
+  "fullDetails": {
+    "licenseNumber": "14282941",
+    "name": "KAT MARKS VENTURES",
+    "address": "#1 8241 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-03-18T15:26:41.000Z",
+    "expiryDate": "2026-03-17T15:26:40.000Z",
+    "coordinates": [
+      -113.9926428,
+      50.980164
+    ],
+    "longitude": -113.9926428,
+    "latitude": 50.980164,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

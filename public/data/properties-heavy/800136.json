@@ -1,0 +1,36 @@
+{
+  "id": "800136",
+  "fullDetails": {
+    "licenseNumber": "800136",
+    "name": "FOOTHILLS MILLWRIGHT SERVICE",
+    "address": "3531C 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-12T00:00:00.000Z",
+    "coordinates": [
+      -113.9840273,
+      50.9815559
+    ],
+    "longitude": -113.9840273,
+    "latitude": 50.9815559,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

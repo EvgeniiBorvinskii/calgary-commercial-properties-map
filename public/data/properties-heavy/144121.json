@@ -1,0 +1,36 @@
+{
+  "id": "144121",
+  "fullDetails": {
+    "licenseNumber": "144121",
+    "name": "CAL TECH ELECTRICAL SERVICES",
+    "address": "#4 3227 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-01-31T15:26:56.000Z",
+    "expiryDate": "2027-01-30T15:26:56.000Z",
+    "coordinates": [
+      -113.9864054,
+      51.001988
+    ],
+    "longitude": -113.9864054,
+    "latitude": 51.001988,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

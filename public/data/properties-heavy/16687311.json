@@ -1,0 +1,36 @@
+{
+  "id": "16687311",
+  "fullDetails": {
+    "licenseNumber": "16687311",
+    "name": "THE CHAI BAR",
+    "address": "#610 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-20T16:05:19.000Z",
+    "expiryDate": "2026-11-19T16:05:19.000Z",
+    "coordinates": [
+      -113.9419951,
+      51.1549864
+    ],
+    "longitude": -113.9419951,
+    "latitude": 51.1549864,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15910367",
+  "fullDetails": {
+    "licenseNumber": "15910367",
+    "name": "AMRITSARI TADKA",
+    "address": "#315 7 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2020-07-28T14:29:33.000Z",
+    "expiryDate": "2026-07-27T14:29:33.000Z",
+    "coordinates": [
+      -113.9703625,
+      51.1065968
+    ],
+    "longitude": -113.9703625,
+    "latitude": 51.1065968,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16232332",
+  "fullDetails": {
+    "licenseNumber": "16232332",
+    "name": "STUDIO SEVEN ON CENTRE",
+    "address": "4315 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2024-01-22T10:07:07.000Z",
+    "expiryDate": "2027-01-21T10:07:07.000Z",
+    "coordinates": [
+      -114.0628453,
+      51.0909997
+    ],
+    "longitude": -114.0628453,
+    "latitude": 51.0909997,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

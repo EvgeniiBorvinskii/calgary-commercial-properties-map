@@ -1,0 +1,37 @@
+{
+  "id": "12830030",
+  "fullDetails": {
+    "licenseNumber": "12830030",
+    "name": "TIM HORTONS",
+    "address": "#1223 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-12-07T14:17:35.000Z",
+    "expiryDate": "2026-12-06T14:17:35.000Z",
+    "coordinates": [
+      -113.9786509,
+      51.0552627
+    ],
+    "longitude": -113.9786509,
+    "latitude": 51.0552627,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

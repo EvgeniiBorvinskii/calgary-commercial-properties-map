@@ -1,0 +1,36 @@
+{
+  "id": "16651119",
+  "fullDetails": {
+    "licenseNumber": "16651119",
+    "name": "AN VAPES",
+    "address": "#2K 5401 TEMPLE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-07-22T09:47:32.000Z",
+    "expiryDate": "2026-07-21T09:47:32.000Z",
+    "coordinates": [
+      -113.9564461,
+      51.0849482
+    ],
+    "longitude": -113.9564461,
+    "latitude": 51.0849482,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

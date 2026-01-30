@@ -1,0 +1,36 @@
+{
+  "id": "16146060",
+  "fullDetails": {
+    "licenseNumber": "16146060",
+    "name": "STYLE153 DENTAL LAB",
+    "address": "#10 4310 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-24T09:09:35.000Z",
+    "expiryDate": "2026-06-23T09:09:35.000Z",
+    "coordinates": [
+      -114.0640986,
+      51.0155263
+    ],
+    "longitude": -114.0640986,
+    "latitude": 51.0155263,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12503744",
+  "fullDetails": {
+    "licenseNumber": "12503744",
+    "name": "MIDWEST MECHANICAL",
+    "address": "8715 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2006-11-02T12:25:36.000Z",
+    "expiryDate": "2026-11-01T12:25:36.000Z",
+    "coordinates": [
+      -113.9711771,
+      50.9754181
+    ],
+    "longitude": -113.9711771,
+    "latitude": 50.9754181,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

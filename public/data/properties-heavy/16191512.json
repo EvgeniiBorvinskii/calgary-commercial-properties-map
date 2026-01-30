@@ -1,0 +1,37 @@
+{
+  "id": "16191512",
+  "fullDetails": {
+    "licenseNumber": "16191512",
+    "name": "MUSICWORKS CANADA 310",
+    "address": "#4 15425 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-11T14:43:34.000Z",
+    "expiryDate": "2026-08-10T14:43:34.000Z",
+    "coordinates": [
+      -114.0672124,
+      50.914801
+    ],
+    "longitude": -114.0672124,
+    "latitude": 50.914801,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

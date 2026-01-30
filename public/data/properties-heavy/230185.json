@@ -1,0 +1,36 @@
+{
+  "id": "230185",
+  "fullDetails": {
+    "licenseNumber": "230185",
+    "name": "BIKE SHOP (THE)",
+    "address": "7413 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-02-14T11:11:43.000Z",
+    "expiryDate": "2026-02-13T11:11:42.000Z",
+    "coordinates": [
+      -114.072602,
+      50.9873588
+    ],
+    "longitude": -114.072602,
+    "latitude": 50.9873588,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

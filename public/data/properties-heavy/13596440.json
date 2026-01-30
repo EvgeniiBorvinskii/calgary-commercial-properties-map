@@ -1,0 +1,36 @@
+{
+  "id": "13596440",
+  "fullDetails": {
+    "licenseNumber": "13596440",
+    "name": "BUDGET BLINDS OF WEST CALGARY AND COCHRANE",
+    "address": "#5 5918 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-10-26T14:57:32.000Z",
+    "expiryDate": "2026-10-25T14:57:32.000Z",
+    "coordinates": [
+      -114.0503544,
+      50.9999123
+    ],
+    "longitude": -114.0503544,
+    "latitude": 50.9999123,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

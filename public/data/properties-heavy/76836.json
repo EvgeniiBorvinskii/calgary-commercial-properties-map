@@ -1,0 +1,37 @@
+{
+  "id": "76836",
+  "fullDetails": {
+    "licenseNumber": "76836",
+    "name": "ALBERTA BIBLE COLLEGE",
+    "address": "635 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-03T00:00:00.000Z",
+    "coordinates": [
+      -114.090017,
+      51.0863781
+    ],
+    "longitude": -114.090017,
+    "latitude": 51.0863781,
+    "community": "CAMBRIAN HEIGHTS",
+    "ward": "CAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15869977",
+  "fullDetails": {
+    "licenseNumber": "15869977",
+    "name": "VISUAL CONSTRUCTION",
+    "address": "#6 3601 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-02-14T10:14:04.000Z",
+    "expiryDate": "2027-02-13T10:14:04.000Z",
+    "coordinates": [
+      -114.0125872,
+      51.0843494
+    ],
+    "longitude": -114.0125872,
+    "latitude": 51.0843494,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

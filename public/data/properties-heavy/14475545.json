@@ -1,0 +1,37 @@
+{
+  "id": "14475545",
+  "fullDetails": {
+    "licenseNumber": "14475545",
+    "name": "STUDIO HAIR & NAIL ESTHETICS",
+    "address": "#3 5102 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-24T13:46:13.000Z",
+    "expiryDate": "2026-03-23T13:46:13.000Z",
+    "coordinates": [
+      -113.9608257,
+      51.0719705
+    ],
+    "longitude": -113.9608257,
+    "latitude": 51.0719705,
+    "community": "RUNDLE",
+    "ward": "RUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

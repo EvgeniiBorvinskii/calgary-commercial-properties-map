@@ -1,0 +1,36 @@
+{
+  "id": "16621948",
+  "fullDetails": {
+    "licenseNumber": "16621948",
+    "name": "INKED BEAUTY CLINIC",
+    "address": "#103 7004 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-04-29T13:15:25.000Z",
+    "expiryDate": "2026-04-28T13:15:24.000Z",
+    "coordinates": [
+      -114.0707863,
+      50.991617
+    ],
+    "longitude": -114.0707863,
+    "latitude": 50.991617,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

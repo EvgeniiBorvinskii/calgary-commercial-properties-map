@@ -1,0 +1,36 @@
+{
+  "id": "16472094",
+  "fullDetails": {
+    "licenseNumber": "16472094",
+    "name": "ABRIS CONSTRUCTION CALGARY",
+    "address": "#101 4116 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-04-16T13:53:13.000Z",
+    "expiryDate": "2026-04-15T13:53:13.000Z",
+    "coordinates": [
+      -113.976092,
+      50.9969382
+    ],
+    "longitude": -113.976092,
+    "latitude": 50.9969382,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

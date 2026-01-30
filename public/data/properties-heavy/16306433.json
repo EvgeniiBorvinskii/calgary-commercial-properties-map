@@ -1,0 +1,36 @@
+{
+  "id": "16306433",
+  "fullDetails": {
+    "licenseNumber": "16306433",
+    "name": "ALIGN PROSTHETICS AND ORTHOTICS",
+    "address": "#13 6143 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-07-28T15:10:46.000Z",
+    "expiryDate": "2026-07-27T15:10:46.000Z",
+    "coordinates": [
+      -114.0543335,
+      50.9968132
+    ],
+    "longitude": -114.0543335,
+    "latitude": 50.9968132,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

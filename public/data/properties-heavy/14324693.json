@@ -1,0 +1,37 @@
+{
+  "id": "14324693",
+  "fullDetails": {
+    "licenseNumber": "14324693",
+    "name": "CARESTAR PHARMACY",
+    "address": "#217 45 EDENWOLD DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-12-27T10:35:53.000Z",
+    "expiryDate": "2026-12-26T10:35:53.000Z",
+    "coordinates": [
+      -114.1393238,
+      51.1264046
+    ],
+    "longitude": -114.1393238,
+    "latitude": 51.1264046,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

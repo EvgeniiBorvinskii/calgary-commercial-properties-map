@@ -1,0 +1,36 @@
+{
+  "id": "12804928",
+  "fullDetails": {
+    "licenseNumber": "12804928",
+    "name": "FASTENAL CANADA INDUSTRIAL & CONSTRUCTION SUPPLIES",
+    "address": "#20 5200 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-05-12T09:33:45.000Z",
+    "expiryDate": "2026-05-11T09:33:45.000Z",
+    "coordinates": [
+      -113.9594737,
+      50.997177
+    ],
+    "longitude": -113.9594737,
+    "latitude": 50.997177,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

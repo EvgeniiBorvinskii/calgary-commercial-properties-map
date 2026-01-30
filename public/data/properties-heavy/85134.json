@@ -1,0 +1,36 @@
+{
+  "id": "85134",
+  "fullDetails": {
+    "licenseNumber": "85134",
+    "name": "CANAROPA (1954)",
+    "address": "3015 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-06-16T13:30:22.000Z",
+    "expiryDate": "2026-06-15T13:30:22.000Z",
+    "coordinates": [
+      -114.0190982,
+      51.0792254
+    ],
+    "longitude": -114.0190982,
+    "latitude": 51.0792254,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

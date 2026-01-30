@@ -1,0 +1,36 @@
+{
+  "id": "351221",
+  "fullDetails": {
+    "licenseNumber": "351221",
+    "name": "FOUNTAIN TIRE",
+    "address": "7007 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0724503,
+      50.991183
+    ],
+    "longitude": -114.0724503,
+    "latitude": 50.991183,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

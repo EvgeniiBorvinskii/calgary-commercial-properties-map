@@ -1,0 +1,36 @@
+{
+  "id": "12300539",
+  "fullDetails": {
+    "licenseNumber": "12300539",
+    "name": "LIFEMARK PHYSIOTHERAPY ROYAL OAK",
+    "address": "#192 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2004-08-26T15:58:57.000Z",
+    "expiryDate": "2026-08-25T15:58:57.000Z",
+    "coordinates": [
+      -114.2129794,
+      51.1505397
+    ],
+    "longitude": -114.2129794,
+    "latitude": 51.1505397,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

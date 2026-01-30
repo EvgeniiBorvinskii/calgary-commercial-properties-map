@@ -1,0 +1,37 @@
+{
+  "id": "765479",
+  "fullDetails": {
+    "licenseNumber": "765479",
+    "name": "CALGARY CO-OP GAS BAR",
+    "address": "6520 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-30T00:00:00.000Z",
+    "coordinates": [
+      -113.9465223,
+      51.1114759
+    ],
+    "longitude": -113.9465223,
+    "latitude": 51.1114759,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

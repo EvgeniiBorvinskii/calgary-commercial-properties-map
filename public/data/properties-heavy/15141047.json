@@ -1,0 +1,37 @@
+{
+  "id": "15141047",
+  "fullDetails": {
+    "licenseNumber": "15141047",
+    "name": "AUTOMAXX",
+    "address": "715 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-05-26T15:45:12.000Z",
+    "expiryDate": "2026-05-25T15:45:12.000Z",
+    "coordinates": [
+      -114.0469308,
+      51.0899673
+    ],
+    "longitude": -114.0469308,
+    "latitude": 51.0899673,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

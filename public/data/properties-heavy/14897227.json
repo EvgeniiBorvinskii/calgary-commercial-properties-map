@@ -1,0 +1,36 @@
+{
+  "id": "14897227",
+  "fullDetails": {
+    "licenseNumber": "14897227",
+    "name": "PANGARY FLORAL SUPPLY",
+    "address": "#14 2219 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-07-19T11:00:01.000Z",
+    "expiryDate": "2026-07-18T11:00:01.000Z",
+    "coordinates": [
+      -114.007684,
+      51.0831651
+    ],
+    "longitude": -114.007684,
+    "latitude": 51.0831651,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

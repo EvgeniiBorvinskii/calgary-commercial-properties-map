@@ -1,0 +1,36 @@
+{
+  "id": "13347802",
+  "fullDetails": {
+    "licenseNumber": "13347802",
+    "name": "MISSION TATTOO PARLOUR",
+    "address": "2103 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "in_progress",
+    "issuedDate": "2012-01-26T14:45:49.000Z",
+    "expiryDate": "2026-01-25T14:45:49.000Z",
+    "coordinates": [
+      -114.0717569,
+      51.0340502
+    ],
+    "longitude": -114.0717569,
+    "latitude": 51.0340502,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

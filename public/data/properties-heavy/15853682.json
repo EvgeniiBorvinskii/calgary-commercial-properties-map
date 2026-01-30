@@ -1,0 +1,36 @@
+{
+  "id": "15853682",
+  "fullDetails": {
+    "licenseNumber": "15853682",
+    "name": "PRAIRIE WESTERN COLLEGE",
+    "address": "915 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2020-01-09T10:44:59.000Z",
+    "expiryDate": "2027-01-08T10:44:59.000Z",
+    "coordinates": [
+      -113.9870459,
+      51.0603862
+    ],
+    "longitude": -113.9870459,
+    "latitude": 51.0603862,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

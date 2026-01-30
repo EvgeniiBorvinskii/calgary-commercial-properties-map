@@ -1,0 +1,36 @@
+{
+  "id": "14916977",
+  "fullDetails": {
+    "licenseNumber": "14916977",
+    "name": "SUPPORT BOTTLE DEPOT",
+    "address": "#130 10725 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2018-05-16T10:24:15.000Z",
+    "expiryDate": "2026-05-15T10:24:15.000Z",
+    "coordinates": [
+      -113.9263906,
+      50.9600412
+    ],
+    "longitude": -113.9263906,
+    "latitude": 50.9600412,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

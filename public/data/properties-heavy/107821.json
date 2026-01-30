@@ -1,0 +1,36 @@
+{
+  "id": "107821",
+  "fullDetails": {
+    "licenseNumber": "107821",
+    "name": "CONTINENTAL AUTO BODY",
+    "address": "#14 3300 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2003-01-15T05:34:42.000Z",
+    "expiryDate": "2027-01-14T05:34:42.000Z",
+    "coordinates": [
+      -113.9873334,
+      51.0658063
+    ],
+    "longitude": -113.9873334,
+    "latitude": 51.0658063,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

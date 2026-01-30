@@ -1,0 +1,37 @@
+{
+  "id": "16618084",
+  "fullDetails": {
+    "licenseNumber": "16618084",
+    "name": "HELEN HAIR EXTENSIONS",
+    "address": "#11 2650 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-12T12:07:14.000Z",
+    "expiryDate": "2026-06-11T12:07:14.000Z",
+    "coordinates": [
+      -113.9811348,
+      51.0307245
+    ],
+    "longitude": -113.9811348,
+    "latitude": 51.0307245,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

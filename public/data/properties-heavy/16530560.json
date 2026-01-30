@@ -1,0 +1,36 @@
+{
+  "id": "16530560",
+  "fullDetails": {
+    "licenseNumber": "16530560",
+    "name": "THE MINI SCHOOL OF MUSIC",
+    "address": "#210 1608 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-14T09:32:11.000Z",
+    "expiryDate": "2026-05-13T09:32:10.000Z",
+    "coordinates": [
+      -114.0975754,
+      51.0380787
+    ],
+    "longitude": -114.0975754,
+    "latitude": 51.0380787,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

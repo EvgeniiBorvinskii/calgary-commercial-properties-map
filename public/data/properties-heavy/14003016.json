@@ -1,0 +1,36 @@
+{
+  "id": "14003016",
+  "fullDetails": {
+    "licenseNumber": "14003016",
+    "name": "AUTO WORLD",
+    "address": "#107 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2019-03-28T11:18:10.000Z",
+    "expiryDate": "2026-03-27T11:18:10.000Z",
+    "coordinates": [
+      -113.987854,
+      51.0599704
+    ],
+    "longitude": -113.987854,
+    "latitude": 51.0599704,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

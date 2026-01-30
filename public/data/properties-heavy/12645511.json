@@ -1,0 +1,36 @@
+{
+  "id": "12645511",
+  "fullDetails": {
+    "licenseNumber": "12645511",
+    "name": "B A ROBINSON",
+    "address": "5452 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-08-11T05:33:21.000Z",
+    "expiryDate": "2026-08-10T05:33:21.000Z",
+    "coordinates": [
+      -113.9549114,
+      51.005758
+    ],
+    "longitude": -113.9549114,
+    "latitude": 51.005758,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

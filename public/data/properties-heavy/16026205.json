@@ -1,0 +1,36 @@
+{
+  "id": "16026205",
+  "fullDetails": {
+    "licenseNumber": "16026205",
+    "name": "NORTH WEST VIBRATIONAL ACUPUNCTURE AND MASSAGE",
+    "address": "#403 1640 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2021-08-20T07:55:03.000Z",
+    "expiryDate": "2026-08-19T07:55:03.000Z",
+    "coordinates": [
+      -114.0993342,
+      51.0672069
+    ],
+    "longitude": -114.0993342,
+    "latitude": 51.0672069,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

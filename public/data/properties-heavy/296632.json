@@ -1,0 +1,36 @@
+{
+  "id": "296632",
+  "fullDetails": {
+    "licenseNumber": "296632",
+    "name": "D J LIQUOR STORE",
+    "address": "#1A 817 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-22T00:00:00.000Z",
+    "coordinates": [
+      -114.0145153,
+      51.0590392
+    ],
+    "longitude": -114.0145153,
+    "latitude": 51.0590392,
+    "community": "MAYLAND HEIGHTS",
+    "ward": "MAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

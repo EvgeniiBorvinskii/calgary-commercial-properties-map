@@ -1,0 +1,36 @@
+{
+  "id": "14774715",
+  "fullDetails": {
+    "licenseNumber": "14774715",
+    "name": "TRACKSVR VIRTUAL RACING",
+    "address": "625 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "active",
+    "issuedDate": "2018-04-25T08:58:49.000Z",
+    "expiryDate": "2026-04-24T08:58:49.000Z",
+    "coordinates": [
+      -114.0501299,
+      51.0099528
+    ],
+    "longitude": -114.0501299,
+    "latitude": 51.0099528,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

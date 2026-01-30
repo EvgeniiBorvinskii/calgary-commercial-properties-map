@@ -1,0 +1,36 @@
+{
+  "id": "16360539",
+  "fullDetails": {
+    "licenseNumber": "16360539",
+    "name": "VARSITY SQUARE APARTMENTS",
+    "address": "4510 VALIANT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-08-01T08:48:18.000Z",
+    "expiryDate": "2026-07-31T08:48:18.000Z",
+    "coordinates": [
+      -114.1507349,
+      51.091097
+    ],
+    "longitude": -114.1507349,
+    "latitude": 51.091097,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

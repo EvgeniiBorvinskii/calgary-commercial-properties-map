@@ -1,0 +1,36 @@
+{
+  "id": "13350319",
+  "fullDetails": {
+    "licenseNumber": "13350319",
+    "name": "PURE RESTORATION",
+    "address": "6010 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-09-18T05:47:41.000Z",
+    "expiryDate": "2026-09-17T05:47:41.000Z",
+    "coordinates": [
+      -114.034018,
+      50.9989281
+    ],
+    "longitude": -114.034018,
+    "latitude": 50.9989281,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14011134",
+  "fullDetails": {
+    "licenseNumber": "14011134",
+    "name": "WILFRED",
+    "address": "#128 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-11-23T15:10:20.000Z",
+    "expiryDate": "2026-11-22T15:10:20.000Z",
+    "coordinates": [
+      -114.0735028,
+      50.998803
+    ],
+    "longitude": -114.0735028,
+    "latitude": 50.998803,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

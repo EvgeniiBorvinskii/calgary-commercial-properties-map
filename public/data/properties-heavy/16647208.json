@@ -1,0 +1,36 @@
+{
+  "id": "16647208",
+  "fullDetails": {
+    "licenseNumber": "16647208",
+    "name": "VALUE BUDS AT VARSITY",
+    "address": "#406 4625 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-07-02T13:17:36.000Z",
+    "expiryDate": "2026-07-01T13:17:36.000Z",
+    "coordinates": [
+      -114.1542228,
+      51.0927134
+    ],
+    "longitude": -114.1542228,
+    "latitude": 51.0927134,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

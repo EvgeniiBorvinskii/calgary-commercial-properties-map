@@ -1,0 +1,36 @@
+{
+  "id": "12471660",
+  "fullDetails": {
+    "licenseNumber": "12471660",
+    "name": "A PROACTIVE-DRIVING SCHOOL AND TRAFFIC SAFETY CONSULTING",
+    "address": "#23A 9620 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2006-05-11T12:58:11.000Z",
+    "expiryDate": "2026-05-10T12:58:11.000Z",
+    "coordinates": [
+      -114.0839783,
+      50.9689942
+    ],
+    "longitude": -114.0839783,
+    "latitude": 50.9689942,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

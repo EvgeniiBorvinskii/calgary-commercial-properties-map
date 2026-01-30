@@ -1,0 +1,36 @@
+{
+  "id": "13802210",
+  "fullDetails": {
+    "licenseNumber": "13802210",
+    "name": "EXTERIORS BY DESIGN",
+    "address": "4523 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2016-03-29T05:30:49.000Z",
+    "expiryDate": "2026-03-28T05:30:49.000Z",
+    "coordinates": [
+      -114.0627091,
+      51.0127867
+    ],
+    "longitude": -114.0627091,
+    "latitude": 51.0127867,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

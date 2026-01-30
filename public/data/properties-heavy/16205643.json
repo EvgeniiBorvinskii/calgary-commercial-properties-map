@@ -1,0 +1,36 @@
+{
+  "id": "16205643",
+  "fullDetails": {
+    "licenseNumber": "16205643",
+    "name": "STRONGHOLD MECHANICAL",
+    "address": "3514D 73 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-04-15T11:30:27.000Z",
+    "expiryDate": "2026-04-14T11:30:26.000Z",
+    "coordinates": [
+      -113.9828725,
+      50.9887985
+    ],
+    "longitude": -113.9828725,
+    "latitude": 50.9887985,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

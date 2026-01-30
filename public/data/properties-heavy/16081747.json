@@ -1,0 +1,36 @@
+{
+  "id": "16081747",
+  "fullDetails": {
+    "licenseNumber": "16081747",
+    "name": "GOLF DENTAL LABORATORIES",
+    "address": "#103 429 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-12-03T12:31:31.000Z",
+    "expiryDate": "2026-12-02T12:31:31.000Z",
+    "coordinates": [
+      -114.0949975,
+      51.0562959
+    ],
+    "longitude": -114.0949975,
+    "latitude": 51.0562959,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16201006",
+  "fullDetails": {
+    "licenseNumber": "16201006",
+    "name": "DEFENSE FIRE PROTECTION",
+    "address": "6560 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-16T16:01:34.000Z",
+    "expiryDate": "2026-08-15T16:01:33.000Z",
+    "coordinates": [
+      -114.0595191,
+      50.9946144
+    ],
+    "longitude": -114.0595191,
+    "latitude": 50.9946144,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

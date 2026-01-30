@@ -1,0 +1,36 @@
+{
+  "id": "13624465",
+  "fullDetails": {
+    "licenseNumber": "13624465",
+    "name": "VOLCOM",
+    "address": "#C3 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-03-20T11:06:25.000Z",
+    "expiryDate": "2026-03-19T11:06:25.000Z",
+    "coordinates": [
+      -114.1557441,
+      51.0844085
+    ],
+    "longitude": -114.1557441,
+    "latitude": 51.0844085,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

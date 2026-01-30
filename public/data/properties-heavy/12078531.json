@@ -1,0 +1,36 @@
+{
+  "id": "12078531",
+  "fullDetails": {
+    "licenseNumber": "12078531",
+    "name": "MANN BROS MEAT SHOP",
+    "address": "#618 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-07-05T17:20:29.000Z",
+    "expiryDate": "2026-07-04T05:32:08.000Z",
+    "coordinates": [
+      -113.9625297,
+      51.0968165
+    ],
+    "longitude": -113.9625297,
+    "latitude": 51.0968165,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16438749",
+  "fullDetails": {
+    "licenseNumber": "16438749",
+    "name": "RADIANCE PHARMACY",
+    "address": "#100 10201 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-16T19:59:01.000Z",
+    "expiryDate": "2027-01-15T19:59:01.000Z",
+    "coordinates": [
+      -114.0731776,
+      50.9636544
+    ],
+    "longitude": -114.0731776,
+    "latitude": 50.9636544,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

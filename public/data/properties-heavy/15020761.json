@@ -1,0 +1,37 @@
+{
+  "id": "15020761",
+  "fullDetails": {
+    "licenseNumber": "15020761",
+    "name": "BOBILICIOUS VAPES",
+    "address": "#330 19369 SHERIFF KING ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2019-01-10T10:21:37.000Z",
+    "expiryDate": "2027-01-09T10:21:37.000Z",
+    "coordinates": [
+      -114.0726797,
+      50.878562
+    ],
+    "longitude": -114.0726797,
+    "latitude": 50.878562,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

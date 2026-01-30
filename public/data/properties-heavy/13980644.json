@@ -1,0 +1,36 @@
+{
+  "id": "13980644",
+  "fullDetails": {
+    "licenseNumber": "13980644",
+    "name": "ELEMENT REFRIGERATION",
+    "address": "#110 4029 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-02-19T12:04:48.000Z",
+    "expiryDate": "2027-02-18T12:04:47.000Z",
+    "coordinates": [
+      -114.0437133,
+      51.0187573
+    ],
+    "longitude": -114.0437133,
+    "latitude": 51.0187573,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

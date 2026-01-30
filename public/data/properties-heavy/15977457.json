@@ -1,0 +1,36 @@
+{
+  "id": "15977457",
+  "fullDetails": {
+    "licenseNumber": "15977457",
+    "name": "YYC USED APPLIANCES, PARTS & REPAIR",
+    "address": "#134 1530 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2021-02-04T10:46:58.000Z",
+    "expiryDate": "2026-02-03T10:46:58.000Z",
+    "coordinates": [
+      -114.022916,
+      51.0777909
+    ],
+    "longitude": -114.022916,
+    "latitude": 51.0777909,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

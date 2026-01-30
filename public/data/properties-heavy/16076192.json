@@ -1,0 +1,36 @@
+{
+  "id": "16076192",
+  "fullDetails": {
+    "licenseNumber": "16076192",
+    "name": "TWO GIRAFFES CHILDRENS FOOTWEAR",
+    "address": "#476 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-28T13:33:36.000Z",
+    "expiryDate": "2026-09-27T13:33:36.000Z",
+    "coordinates": [
+      -114.0705376,
+      50.9561206
+    ],
+    "longitude": -114.0705376,
+    "latitude": 50.9561206,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

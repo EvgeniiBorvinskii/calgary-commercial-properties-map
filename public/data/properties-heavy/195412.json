@@ -1,0 +1,36 @@
+{
+  "id": "195412",
+  "fullDetails": {
+    "licenseNumber": "195412",
+    "name": "RAPID BRAKE CENTRE",
+    "address": "3515C 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2010-02-25T11:05:17.000Z",
+    "expiryDate": "2026-02-24T11:05:17.000Z",
+    "coordinates": [
+      -113.9893274,
+      51.0845504
+    ],
+    "longitude": -113.9893274,
+    "latitude": 51.0845504,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

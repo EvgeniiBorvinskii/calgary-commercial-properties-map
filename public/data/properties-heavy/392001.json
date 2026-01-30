@@ -1,0 +1,37 @@
+{
+  "id": "392001",
+  "fullDetails": {
+    "licenseNumber": "392001",
+    "name": "CONTEMPORARY OFFICE INTERIORS",
+    "address": "2206 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-11T00:00:00.000Z",
+    "coordinates": [
+      -114.035295,
+      51.0345798
+    ],
+    "longitude": -114.035295,
+    "latitude": 51.0345798,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

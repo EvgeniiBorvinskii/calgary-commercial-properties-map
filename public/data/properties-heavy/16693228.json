@@ -1,0 +1,36 @@
+{
+  "id": "16693228",
+  "fullDetails": {
+    "licenseNumber": "16693228",
+    "name": "FLAMES AND GRILLS",
+    "address": "#440 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-15T09:10:33.000Z",
+    "expiryDate": "2026-12-14T09:10:31.000Z",
+    "coordinates": [
+      -114.1634628,
+      51.1584641
+    ],
+    "longitude": -114.1634628,
+    "latitude": 51.1584641,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

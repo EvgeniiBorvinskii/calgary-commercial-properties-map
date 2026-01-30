@@ -1,0 +1,36 @@
+{
+  "id": "12086252",
+  "fullDetails": {
+    "licenseNumber": "12086252",
+    "name": "APARTMENT BUILDING",
+    "address": "308 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2003-03-01T05:34:41.000Z",
+    "expiryDate": "2026-02-28T05:34:41.000Z",
+    "coordinates": [
+      -114.0688933,
+      51.0399196
+    ],
+    "longitude": -114.0688933,
+    "latitude": 51.0399196,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

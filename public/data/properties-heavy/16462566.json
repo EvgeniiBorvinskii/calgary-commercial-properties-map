@@ -1,0 +1,36 @@
+{
+  "id": "16462566",
+  "fullDetails": {
+    "licenseNumber": "16462566",
+    "name": "RICHARDS DRY CLEANING",
+    "address": "#16 34 EDGEDALE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2024-05-05T15:28:44.000Z",
+    "expiryDate": "2026-05-04T15:28:44.000Z",
+    "coordinates": [
+      -114.1567058,
+      51.1190863
+    ],
+    "longitude": -114.1567058,
+    "latitude": 51.1190863,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

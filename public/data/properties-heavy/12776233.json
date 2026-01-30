@@ -1,0 +1,36 @@
+{
+  "id": "12776233",
+  "fullDetails": {
+    "licenseNumber": "12776233",
+    "name": "MULTI-NATIONAL FOODS A DIV OF CENTENNIAL FOODSERVICE",
+    "address": "1210 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-11-05T10:19:52.000Z",
+    "expiryDate": "2026-11-04T10:19:51.000Z",
+    "coordinates": [
+      -114.0382735,
+      51.002213
+    ],
+    "longitude": -114.0382735,
+    "latitude": 51.002213,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

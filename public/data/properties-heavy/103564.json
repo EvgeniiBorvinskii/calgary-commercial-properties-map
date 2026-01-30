@@ -1,0 +1,37 @@
+{
+  "id": "103564",
+  "fullDetails": {
+    "licenseNumber": "103564",
+    "name": "DENCA DISTRIBUTORS",
+    "address": "555 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.051778,
+      50.9982612
+    ],
+    "longitude": -114.051778,
+    "latitude": 50.9982612,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

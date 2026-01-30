@@ -1,0 +1,36 @@
+{
+  "id": "14184584",
+  "fullDetails": {
+    "licenseNumber": "14184584",
+    "name": "BOOKS BETWEEN FRIENDS",
+    "address": "#14 3434 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2018-11-09T07:51:44.000Z",
+    "expiryDate": "2026-07-07T00:00:00.000Z",
+    "coordinates": [
+      -113.986402,
+      51.0841067
+    ],
+    "longitude": -113.986402,
+    "latitude": 51.0841067,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

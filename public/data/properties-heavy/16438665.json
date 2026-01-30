@@ -1,0 +1,36 @@
+{
+  "id": "16438665",
+  "fullDetails": {
+    "licenseNumber": "16438665",
+    "name": "AVONA AESTHETICS",
+    "address": "#201 1029 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-07-09T16:12:32.000Z",
+    "expiryDate": "2026-07-08T16:12:31.000Z",
+    "coordinates": [
+      -114.0860912,
+      51.0376479
+    ],
+    "longitude": -114.0860912,
+    "latitude": 51.0376479,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

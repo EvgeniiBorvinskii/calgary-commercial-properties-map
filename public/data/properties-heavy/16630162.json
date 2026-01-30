@@ -1,0 +1,36 @@
+{
+  "id": "16630162",
+  "fullDetails": {
+    "licenseNumber": "16630162",
+    "name": "PERFUME BOUTIQUE",
+    "address": "#370 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-15T08:33:20.000Z",
+    "expiryDate": "2026-05-14T08:33:20.000Z",
+    "coordinates": [
+      -114.0687687,
+      51.0464481
+    ],
+    "longitude": -114.0687687,
+    "latitude": 51.0464481,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

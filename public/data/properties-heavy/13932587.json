@@ -1,0 +1,36 @@
+{
+  "id": "13932587",
+  "fullDetails": {
+    "licenseNumber": "13932587",
+    "name": "MARIA AUTOMALL",
+    "address": "#4 4035 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-04-15T06:41:18.000Z",
+    "expiryDate": "2026-04-14T06:41:18.000Z",
+    "coordinates": [
+      -114.028292,
+      51.0183657
+    ],
+    "longitude": -114.028292,
+    "latitude": 51.0183657,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14027981",
+  "fullDetails": {
+    "licenseNumber": "14027981",
+    "name": "ON POWER SYSTEMS",
+    "address": "#3 3916 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "licenseTypes": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "pending",
+    "issuedDate": "2019-03-28T05:33:51.000Z",
+    "expiryDate": "2026-03-27T05:33:51.000Z",
+    "coordinates": [
+      -113.9774941,
+      50.9970244
+    ],
+    "longitude": -113.9774941,
+    "latitude": 50.9970244,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

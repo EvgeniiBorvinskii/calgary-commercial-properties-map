@@ -1,0 +1,37 @@
+{
+  "id": "16597825",
+  "fullDetails": {
+    "licenseNumber": "16597825",
+    "name": "MEKUS KITCHEN",
+    "address": "277 FALSHIRE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-25T14:24:49.000Z",
+    "expiryDate": "2026-03-24T14:24:47.000Z",
+    "coordinates": [
+      -113.9399686,
+      51.106391
+    ],
+    "longitude": -113.9399686,
+    "latitude": 51.106391,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

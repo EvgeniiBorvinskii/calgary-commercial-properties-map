@@ -1,0 +1,36 @@
+{
+  "id": "14061709",
+  "fullDetails": {
+    "licenseNumber": "14061709",
+    "name": "RENEGADE HM SERVICES",
+    "address": "#D 1145 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2018-04-10T14:53:09.000Z",
+    "expiryDate": "2026-04-09T14:53:08.000Z",
+    "coordinates": [
+      -114.0394023,
+      51.0135707
+    ],
+    "longitude": -114.0394023,
+    "latitude": 51.0135707,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12697595",
+  "fullDetails": {
+    "licenseNumber": "12697595",
+    "name": "SEQUOIA ENVIRONMENTAL REMEDIATION",
+    "address": "3611 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-09-16T07:58:34.000Z",
+    "expiryDate": "2026-09-15T07:58:34.000Z",
+    "coordinates": [
+      -113.981299,
+      51.0101516
+    ],
+    "longitude": -113.981299,
+    "latitude": 51.0101516,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

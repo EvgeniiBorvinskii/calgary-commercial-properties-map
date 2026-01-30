@@ -1,0 +1,36 @@
+{
+  "id": "16199697",
+  "fullDetails": {
+    "licenseNumber": "16199697",
+    "name": "BLUE DANUBE RESTAURANT",
+    "address": "7800D 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-23T11:02:06.000Z",
+    "expiryDate": "2026-09-22T11:02:06.000Z",
+    "coordinates": [
+      -113.9868592,
+      50.983014
+    ],
+    "longitude": -113.9868592,
+    "latitude": 50.983014,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

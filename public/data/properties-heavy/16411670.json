@@ -1,0 +1,36 @@
+{
+  "id": "16411670",
+  "fullDetails": {
+    "licenseNumber": "16411670",
+    "name": "CALGARY TIRE HUB",
+    "address": "9777 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-03-13T15:15:54.000Z",
+    "expiryDate": "2026-03-12T15:15:53.000Z",
+    "coordinates": [
+      -113.8983507,
+      50.9656944
+    ],
+    "longitude": -113.8983507,
+    "latitude": 50.9656944,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

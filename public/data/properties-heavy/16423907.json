@@ -1,0 +1,36 @@
+{
+  "id": "16423907",
+  "fullDetails": {
+    "licenseNumber": "16423907",
+    "name": "SJHHAIR",
+    "address": "#10 1206 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2024-01-22T14:05:44.000Z",
+    "expiryDate": "2026-01-21T14:05:44.000Z",
+    "coordinates": [
+      -114.055748,
+      51.040947
+    ],
+    "longitude": -114.055748,
+    "latitude": 51.040947,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16328825",
+  "fullDetails": {
+    "licenseNumber": "16328825",
+    "name": "JOTHI DOSA CORNER",
+    "address": "#301 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-01T05:34:59.000Z",
+    "expiryDate": "2026-05-31T05:34:58.000Z",
+    "coordinates": [
+      -113.9979614,
+      51.0798056
+    ],
+    "longitude": -113.9979614,
+    "latitude": 51.0798056,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16606055",
+  "fullDetails": {
+    "licenseNumber": "16606055",
+    "name": "BELLA DONNA CLOTHING AND ACCESSORIES",
+    "address": "#252 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-13T19:46:48.000Z",
+    "expiryDate": "2026-08-12T19:46:48.000Z",
+    "coordinates": [
+      -113.9859537,
+      51.0733813
+    ],
+    "longitude": -113.9859537,
+    "latitude": 51.0733813,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

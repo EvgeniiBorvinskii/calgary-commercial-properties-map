@@ -1,0 +1,37 @@
+{
+  "id": "178764",
+  "fullDetails": {
+    "licenseNumber": "178764",
+    "name": "JOHNSON CONTROLS CANADA",
+    "address": "#104 6046 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0346679,
+      50.9983092
+    ],
+    "longitude": -114.0346679,
+    "latitude": 50.9983092,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

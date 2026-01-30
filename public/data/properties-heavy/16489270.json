@@ -1,0 +1,37 @@
+{
+  "id": "16489270",
+  "fullDetails": {
+    "licenseNumber": "16489270",
+    "name": "SOBEYS BRIDLEWOOD",
+    "address": "#100 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-27T10:56:08.000Z",
+    "expiryDate": "2026-08-26T10:56:07.000Z",
+    "coordinates": [
+      -114.1132502,
+      50.9052107
+    ],
+    "longitude": -114.1132502,
+    "latitude": 50.9052107,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

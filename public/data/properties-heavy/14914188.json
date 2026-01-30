@@ -1,0 +1,37 @@
+{
+  "id": "14914188",
+  "fullDetails": {
+    "licenseNumber": "14914188",
+    "name": "CALGARY CO-OP CANNABIS DALHOUSIE",
+    "address": "5505 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-05-21T15:00:03.000Z",
+    "expiryDate": "2026-05-20T15:00:03.000Z",
+    "coordinates": [
+      -114.1458769,
+      51.1019579
+    ],
+    "longitude": -114.1458769,
+    "latitude": 51.1019579,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

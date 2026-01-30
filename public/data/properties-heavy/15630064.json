@@ -1,0 +1,36 @@
+{
+  "id": "15630064",
+  "fullDetails": {
+    "licenseNumber": "15630064",
+    "name": "HAIRPOP",
+    "address": "3501 18 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-09-09T15:29:14.000Z",
+    "expiryDate": "2026-09-08T15:29:14.000Z",
+    "coordinates": [
+      -114.1052036,
+      51.0227819
+    ],
+    "longitude": -114.1052036,
+    "latitude": 51.0227819,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

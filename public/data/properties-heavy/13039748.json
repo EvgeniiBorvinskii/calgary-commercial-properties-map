@@ -1,0 +1,36 @@
+{
+  "id": "13039748",
+  "fullDetails": {
+    "licenseNumber": "13039748",
+    "name": "ADVANCED ELECTRICAL SERVICES",
+    "address": "#143 4999 43 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-03-21T14:05:12.000Z",
+    "expiryDate": "2026-03-20T14:05:12.000Z",
+    "coordinates": [
+      -113.9709884,
+      51.0092106
+    ],
+    "longitude": -113.9709884,
+    "latitude": 51.0092106,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12770459",
+  "fullDetails": {
+    "licenseNumber": "12770459",
+    "name": "SUBWAY RESTAURANT",
+    "address": "#1070 11300 TUSCANY BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2009-04-09T08:30:51.000Z",
+    "expiryDate": "2026-04-08T08:30:50.000Z",
+    "coordinates": [
+      -114.2488373,
+      51.1241087
+    ],
+    "longitude": -114.2488373,
+    "latitude": 51.1241087,
+    "community": "TUSCANY",
+    "ward": "TUS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

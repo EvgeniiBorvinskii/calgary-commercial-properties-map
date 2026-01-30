@@ -1,0 +1,36 @@
+{
+  "id": "59253",
+  "fullDetails": {
+    "licenseNumber": "59253",
+    "name": "PREMIERE VAN LINES",
+    "address": "3950 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-07T00:00:00.000Z",
+    "coordinates": [
+      -113.9766891,
+      51.1006574
+    ],
+    "longitude": -113.9766891,
+    "latitude": 51.1006574,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

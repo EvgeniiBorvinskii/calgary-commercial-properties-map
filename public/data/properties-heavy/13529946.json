@@ -1,0 +1,36 @@
+{
+  "id": "13529946",
+  "fullDetails": {
+    "licenseNumber": "13529946",
+    "name": "NABCO CANADA",
+    "address": "3117 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-08-01T10:31:35.000Z",
+    "expiryDate": "2026-07-31T10:31:35.000Z",
+    "coordinates": [
+      -114.019765,
+      51.0801125
+    ],
+    "longitude": -114.019765,
+    "latitude": 51.0801125,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12825204",
+  "fullDetails": {
+    "licenseNumber": "12825204",
+    "name": "CARGILL",
+    "address": "10 FREEPORT WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-08-30T05:52:46.000Z",
+    "expiryDate": "2026-08-29T05:52:46.000Z",
+    "coordinates": [
+      -114.0095723,
+      51.1495182
+    ],
+    "longitude": -114.0095723,
+    "latitude": 51.1495182,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13793633",
+  "fullDetails": {
+    "licenseNumber": "13793633",
+    "name": "AVANT-GARDE MUSIC STUDIO",
+    "address": "#7227 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-04-05T05:32:49.000Z",
+    "expiryDate": "2026-04-04T05:32:49.000Z",
+    "coordinates": [
+      -114.2114441,
+      51.1522058
+    ],
+    "longitude": -114.2114441,
+    "latitude": 51.1522058,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

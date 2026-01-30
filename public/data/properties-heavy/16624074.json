@@ -1,0 +1,36 @@
+{
+  "id": "16624074",
+  "fullDetails": {
+    "licenseNumber": "16624074",
+    "name": "WINMAR CALGARY",
+    "address": "11919 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-27T15:00:03.000Z",
+    "expiryDate": "2026-05-26T15:00:02.000Z",
+    "coordinates": [
+      -113.9725145,
+      50.9442183
+    ],
+    "longitude": -113.9725145,
+    "latitude": 50.9442183,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

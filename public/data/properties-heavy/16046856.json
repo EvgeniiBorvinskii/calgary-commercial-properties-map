@@ -1,0 +1,36 @@
+{
+  "id": "16046856",
+  "fullDetails": {
+    "licenseNumber": "16046856",
+    "name": "DOUBLE STAR DRILLING (2021)",
+    "address": "#110 56 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-02T08:43:15.000Z",
+    "expiryDate": "2026-05-01T08:43:15.000Z",
+    "coordinates": [
+      -113.9078213,
+      50.9646273
+    ],
+    "longitude": -113.9078213,
+    "latitude": 50.9646273,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

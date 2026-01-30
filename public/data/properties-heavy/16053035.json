@@ -1,0 +1,37 @@
+{
+  "id": "16053035",
+  "fullDetails": {
+    "licenseNumber": "16053035",
+    "name": "ELBOW VALLEY SOCCER ASSOCIATION",
+    "address": "830 59 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-08-23T11:46:10.000Z",
+    "expiryDate": "2026-08-22T11:46:10.000Z",
+    "coordinates": [
+      -114.0433213,
+      51.0005249
+    ],
+    "longitude": -114.0433213,
+    "latitude": 51.0005249,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

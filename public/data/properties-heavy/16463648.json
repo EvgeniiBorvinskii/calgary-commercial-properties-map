@@ -1,0 +1,37 @@
+{
+  "id": "16463648",
+  "fullDetails": {
+    "licenseNumber": "16463648",
+    "name": "YYC VAPES",
+    "address": "#11 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-04-30T15:35:35.000Z",
+    "expiryDate": "2026-04-29T15:35:35.000Z",
+    "coordinates": [
+      -114.1097303,
+      50.9407411
+    ],
+    "longitude": -114.1097303,
+    "latitude": 50.9407411,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

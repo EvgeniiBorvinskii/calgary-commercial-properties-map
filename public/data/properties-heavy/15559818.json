@@ -1,0 +1,36 @@
+{
+  "id": "15559818",
+  "fullDetails": {
+    "licenseNumber": "15559818",
+    "name": "MAHOGANY PAINT AND CO",
+    "address": "#150 3 MAHOGANY RO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-06T10:55:50.000Z",
+    "expiryDate": "2026-12-05T10:55:50.000Z",
+    "coordinates": [
+      -113.9398872,
+      50.898015
+    ],
+    "longitude": -113.9398872,
+    "latitude": 50.898015,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

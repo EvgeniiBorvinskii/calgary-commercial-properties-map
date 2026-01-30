@@ -1,0 +1,36 @@
+{
+  "id": "15418619",
+  "fullDetails": {
+    "licenseNumber": "15418619",
+    "name": "A STEP AHEAD",
+    "address": "#130 3 MAHOGANY RO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-03-26T08:48:25.000Z",
+    "expiryDate": "2026-03-25T08:48:25.000Z",
+    "coordinates": [
+      -113.9399061,
+      50.898205
+    ],
+    "longitude": -113.9399061,
+    "latitude": 50.898205,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

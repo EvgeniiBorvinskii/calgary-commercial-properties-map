@@ -1,0 +1,37 @@
+{
+  "id": "697813",
+  "fullDetails": {
+    "licenseNumber": "697813",
+    "name": "NATIONAL FIRE EQUIPMENT",
+    "address": "#30 5000 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2019-06-26T09:33:36.000Z",
+    "expiryDate": "2026-06-25T09:33:36.000Z",
+    "coordinates": [
+      -113.9617409,
+      50.9973616
+    ],
+    "longitude": -113.9617409,
+    "latitude": 50.9973616,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

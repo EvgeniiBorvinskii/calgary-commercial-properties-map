@@ -1,0 +1,36 @@
+{
+  "id": "16533283",
+  "fullDetails": {
+    "licenseNumber": "16533283",
+    "name": "8844 AUTO SALES",
+    "address": "5530 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2026-01-14T09:31:34.000Z",
+    "expiryDate": "2027-01-13T09:31:33.000Z",
+    "coordinates": [
+      -114.0702737,
+      51.0044309
+    ],
+    "longitude": -114.0702737,
+    "latitude": 51.0044309,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

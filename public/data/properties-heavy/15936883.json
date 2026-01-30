@@ -1,0 +1,36 @@
+{
+  "id": "15936883",
+  "fullDetails": {
+    "licenseNumber": "15936883",
+    "name": "LUX GROUP",
+    "address": "9550 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-27T07:58:35.000Z",
+    "expiryDate": "2026-10-26T07:58:34.000Z",
+    "coordinates": [
+      -113.8964009,
+      50.966943
+    ],
+    "longitude": -113.8964009,
+    "latitude": 50.966943,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "138859",
+  "fullDetails": {
+    "licenseNumber": "138859",
+    "name": "MCCALL BRAKE & MUFFLER",
+    "address": "2233 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2004-02-06T05:35:42.000Z",
+    "expiryDate": "2027-02-05T05:35:42.000Z",
+    "coordinates": [
+      -114.0069147,
+      51.0950064
+    ],
+    "longitude": -114.0069147,
+    "latitude": 51.0950064,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

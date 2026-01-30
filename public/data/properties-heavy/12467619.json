@@ -1,0 +1,36 @@
+{
+  "id": "12467619",
+  "fullDetails": {
+    "licenseNumber": "12467619",
+    "name": "A-1 AUTO REPAIR",
+    "address": "4520 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-12-02T10:06:11.000Z",
+    "expiryDate": "2026-12-01T10:06:11.000Z",
+    "coordinates": [
+      -114.0327659,
+      51.0926214
+    ],
+    "longitude": -114.0327659,
+    "latitude": 51.0926214,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

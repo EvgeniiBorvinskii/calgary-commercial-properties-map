@@ -1,0 +1,36 @@
+{
+  "id": "13859509",
+  "fullDetails": {
+    "licenseNumber": "13859509",
+    "name": "ALBERTA CONSTRUCTION TRAINING INSTITUTE (ACTI)",
+    "address": "#10 1305 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2019-11-01T11:52:52.000Z",
+    "expiryDate": "2024-10-31T11:52:52.000Z",
+    "coordinates": [
+      -113.9868119,
+      51.0636459
+    ],
+    "longitude": -113.9868119,
+    "latitude": 51.0636459,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

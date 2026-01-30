@@ -1,0 +1,36 @@
+{
+  "id": "13858683",
+  "fullDetails": {
+    "licenseNumber": "13858683",
+    "name": "BARLOW AUTO BODY CARE",
+    "address": "#9 3800 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2014-08-20T15:03:40.000Z",
+    "expiryDate": "2026-08-19T15:03:40.000Z",
+    "coordinates": [
+      -114.0106507,
+      51.0867785
+    ],
+    "longitude": -114.0106507,
+    "latitude": 51.0867785,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

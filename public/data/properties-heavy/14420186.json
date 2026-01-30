@@ -1,0 +1,36 @@
+{
+  "id": "14420186",
+  "fullDetails": {
+    "licenseNumber": "14420186",
+    "name": "MCCARTHY UNIFORMS",
+    "address": "5911 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2017-02-23T05:32:34.000Z",
+    "expiryDate": "2026-02-22T05:32:34.000Z",
+    "coordinates": [
+      -114.057604,
+      51.0004571
+    ],
+    "longitude": -114.057604,
+    "latitude": 51.0004571,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

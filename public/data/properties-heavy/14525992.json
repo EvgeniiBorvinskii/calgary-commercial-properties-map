@@ -1,0 +1,36 @@
+{
+  "id": "14525992",
+  "fullDetails": {
+    "licenseNumber": "14525992",
+    "name": "LANDMARK PHARMACY",
+    "address": "#283 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-10T11:29:58.000Z",
+    "expiryDate": "2026-07-09T11:29:58.000Z",
+    "coordinates": [
+      -114.06388,
+      51.0665477
+    ],
+    "longitude": -114.06388,
+    "latitude": 51.0665477,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

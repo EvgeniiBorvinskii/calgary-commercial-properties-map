@@ -1,0 +1,37 @@
+{
+  "id": "13103577",
+  "fullDetails": {
+    "licenseNumber": "13103577",
+    "name": "SASA CAFE",
+    "address": "#113 237 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2011-03-09T12:34:03.000Z",
+    "expiryDate": "2026-03-08T12:34:03.000Z",
+    "coordinates": [
+      -114.0586468,
+      51.0452506
+    ],
+    "longitude": -114.0586468,
+    "latitude": 51.0452506,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

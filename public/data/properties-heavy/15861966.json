@@ -1,0 +1,36 @@
+{
+  "id": "15861966",
+  "fullDetails": {
+    "licenseNumber": "15861966",
+    "name": "SONIC TRUCK AND TRAILER SALES",
+    "address": "4710 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-06T16:11:21.000Z",
+    "expiryDate": "2026-03-05T16:11:21.000Z",
+    "coordinates": [
+      -113.9666571,
+      50.9829649
+    ],
+    "longitude": -113.9666571,
+    "latitude": 50.9829649,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

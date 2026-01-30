@@ -1,0 +1,36 @@
+{
+  "id": "14026280",
+  "fullDetails": {
+    "licenseNumber": "14026280",
+    "name": "SPEED PRO SIGNS",
+    "address": "#100 9727 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-03-19T15:26:34.000Z",
+    "expiryDate": "2026-03-18T15:26:34.000Z",
+    "coordinates": [
+      -114.0753995,
+      50.9672522
+    ],
+    "longitude": -114.0753995,
+    "latitude": 50.9672522,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

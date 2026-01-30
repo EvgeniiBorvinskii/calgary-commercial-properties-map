@@ -1,0 +1,36 @@
+{
+  "id": "16394116",
+  "fullDetails": {
+    "licenseNumber": "16394116",
+    "name": "OASIS BEAUTY AND HAIR - STUDIO FIRST",
+    "address": "#4120 4150 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2024-01-19T08:02:48.000Z",
+    "expiryDate": "2027-01-18T08:02:48.000Z",
+    "coordinates": [
+      -113.9744366,
+      51.1533725
+    ],
+    "longitude": -113.9744366,
+    "latitude": 51.1533725,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

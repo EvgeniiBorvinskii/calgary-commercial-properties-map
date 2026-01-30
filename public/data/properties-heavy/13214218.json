@@ -1,0 +1,36 @@
+{
+  "id": "13214218",
+  "fullDetails": {
+    "licenseNumber": "13214218",
+    "name": "SUBWAY",
+    "address": "#160 3440 69 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-11-29T14:36:39.000Z",
+    "expiryDate": "2026-11-28T14:36:39.000Z",
+    "coordinates": [
+      -114.1873095,
+      51.0835108
+    ],
+    "longitude": -114.1873095,
+    "latitude": 51.0835108,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

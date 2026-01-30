@@ -1,0 +1,37 @@
+{
+  "id": "16276883",
+  "fullDetails": {
+    "licenseNumber": "16276883",
+    "name": "EVOLVE STRENGTH ROYAL OAK",
+    "address": "#600 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-06-28T05:33:36.000Z",
+    "expiryDate": "2026-06-27T05:33:36.000Z",
+    "coordinates": [
+      -114.2157339,
+      51.1538186
+    ],
+    "longitude": -114.2157339,
+    "latitude": 51.1538186,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

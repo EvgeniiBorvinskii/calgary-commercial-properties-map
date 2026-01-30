@@ -1,0 +1,36 @@
+{
+  "id": "12934923",
+  "fullDetails": {
+    "licenseNumber": "12934923",
+    "name": "STREAM CALGARY WAREHOUSE",
+    "address": "#118 6900 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2015-04-23T11:10:55.000Z",
+    "expiryDate": "2026-04-22T11:10:55.000Z",
+    "coordinates": [
+      -113.9542815,
+      50.9933342
+    ],
+    "longitude": -113.9542815,
+    "latitude": 50.9933342,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

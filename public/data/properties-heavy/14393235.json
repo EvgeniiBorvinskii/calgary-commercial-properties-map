@@ -1,0 +1,36 @@
+{
+  "id": "14393235",
+  "fullDetails": {
+    "licenseNumber": "14393235",
+    "name": "TORNADO INFRASTRUCTURE EQUIPMENT",
+    "address": "#1800 300 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-08-05T11:14:56.000Z",
+    "expiryDate": "2026-08-04T11:14:56.000Z",
+    "coordinates": [
+      -114.0683248,
+      51.0488411
+    ],
+    "longitude": -114.0683248,
+    "latitude": 51.0488411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

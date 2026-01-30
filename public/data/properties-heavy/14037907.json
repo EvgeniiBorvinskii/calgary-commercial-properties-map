@@ -1,0 +1,36 @@
+{
+  "id": "14037907",
+  "fullDetails": {
+    "licenseNumber": "14037907",
+    "name": "GLO ANTI-AGING TREATMENT BAR",
+    "address": "#100 1601 WESTMOUNT RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-07-13T11:21:48.000Z",
+    "expiryDate": "2026-07-12T11:21:48.000Z",
+    "coordinates": [
+      -114.0951841,
+      51.0517953
+    ],
+    "longitude": -114.0951841,
+    "latitude": 51.0517953,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

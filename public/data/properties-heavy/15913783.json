@@ -1,0 +1,37 @@
+{
+  "id": "15913783",
+  "fullDetails": {
+    "licenseNumber": "15913783",
+    "name": "NE AUTO MALL",
+    "address": "#200 7330 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-09T16:06:03.000Z",
+    "expiryDate": "2026-04-08T16:06:02.000Z",
+    "coordinates": [
+      -114.0705176,
+      50.9878299
+    ],
+    "longitude": -114.0705176,
+    "latitude": 50.9878299,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

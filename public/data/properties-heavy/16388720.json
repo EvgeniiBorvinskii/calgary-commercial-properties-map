@@ -1,0 +1,36 @@
+{
+  "id": "16388720",
+  "fullDetails": {
+    "licenseNumber": "16388720",
+    "name": "LIBERTYSTREAM",
+    "address": "#1105 8800 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-11-01T16:20:22.000Z",
+    "expiryDate": "2026-10-31T16:20:22.000Z",
+    "coordinates": [
+      -113.906479,
+      50.9707869
+    ],
+    "longitude": -113.906479,
+    "latitude": 50.9707869,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

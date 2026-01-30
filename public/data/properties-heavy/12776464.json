@@ -1,0 +1,37 @@
+{
+  "id": "12776464",
+  "fullDetails": {
+    "licenseNumber": "12776464",
+    "name": "STARBUCKS COFFEE #3138",
+    "address": "#178 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-07-29T05:45:31.000Z",
+    "expiryDate": "2026-07-28T05:45:31.000Z",
+    "coordinates": [
+      -114.0646174,
+      50.9530437
+    ],
+    "longitude": -114.0646174,
+    "latitude": 50.9530437,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

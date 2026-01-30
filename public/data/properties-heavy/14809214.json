@@ -1,0 +1,37 @@
+{
+  "id": "14809214",
+  "fullDetails": {
+    "licenseNumber": "14809214",
+    "name": "TERMEH CAFE RESTAURANT",
+    "address": "#2 7337 SIERRA MORENA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-05-22T08:21:49.000Z",
+    "expiryDate": "2026-05-21T08:21:49.000Z",
+    "coordinates": [
+      -114.1752332,
+      51.0150716
+    ],
+    "longitude": -114.1752332,
+    "latitude": 51.0150716,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

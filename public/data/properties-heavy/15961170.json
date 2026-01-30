@@ -1,0 +1,36 @@
+{
+  "id": "15961170",
+  "fullDetails": {
+    "licenseNumber": "15961170",
+    "name": "ARC PREMIUM USED APPLIANCES",
+    "address": "4317 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2024-02-01T12:54:13.000Z",
+    "expiryDate": "2027-01-31T12:54:12.000Z",
+    "coordinates": [
+      -113.9727018,
+      51.0035261
+    ],
+    "longitude": -113.9727018,
+    "latitude": 51.0035261,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

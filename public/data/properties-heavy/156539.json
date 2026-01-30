@@ -1,0 +1,36 @@
+{
+  "id": "156539",
+  "fullDetails": {
+    "licenseNumber": "156539",
+    "name": "WHITEHORN COMMUNITY",
+    "address": "228 WHITEHORN RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "licenseTypes": "CHARITABLE ORGANIZATION",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9681787,
+      51.0877737
+    ],
+    "longitude": -113.9681787,
+    "latitude": 51.0877737,
+    "community": "WHITEHORN",
+    "ward": "WHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

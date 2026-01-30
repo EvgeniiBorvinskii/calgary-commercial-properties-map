@@ -1,0 +1,36 @@
+{
+  "id": "15893357",
+  "fullDetails": {
+    "licenseNumber": "15893357",
+    "name": "RIDE BIKES AND SERVICE",
+    "address": "506 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2023-04-04T12:52:36.000Z",
+    "expiryDate": "2025-04-03T12:52:36.000Z",
+    "coordinates": [
+      -114.0520909,
+      51.0161588
+    ],
+    "longitude": -114.0520909,
+    "latitude": 51.0161588,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

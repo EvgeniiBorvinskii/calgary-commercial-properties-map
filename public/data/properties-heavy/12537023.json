@@ -1,0 +1,36 @@
+{
+  "id": "12537023",
+  "fullDetails": {
+    "licenseNumber": "12537023",
+    "name": "X-TREME PACKAGING SERVICES",
+    "address": "5805 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2023-02-24T13:47:04.000Z",
+    "expiryDate": "2026-02-23T13:47:04.000Z",
+    "coordinates": [
+      -113.9614501,
+      51.0010501
+    ],
+    "longitude": -113.9614501,
+    "latitude": 51.0010501,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

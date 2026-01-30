@@ -1,0 +1,36 @@
+{
+  "id": "16446288",
+  "fullDetails": {
+    "licenseNumber": "16446288",
+    "name": "VELOURS BEAUTY INNOVATION",
+    "address": "#2300 777 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "pending",
+    "issuedDate": "2024-03-20T05:33:52.000Z",
+    "expiryDate": "2026-03-19T05:33:52.000Z",
+    "coordinates": [
+      -114.0781881,
+      51.0456854
+    ],
+    "longitude": -114.0781881,
+    "latitude": 51.0456854,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

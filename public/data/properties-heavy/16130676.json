@@ -1,0 +1,36 @@
+{
+  "id": "16130676",
+  "fullDetails": {
+    "licenseNumber": "16130676",
+    "name": "ALL ABOUT EXTERIORS",
+    "address": "4051 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-03-01T15:31:24.000Z",
+    "expiryDate": "2026-02-28T15:31:24.000Z",
+    "coordinates": [
+      -114.0376977,
+      51.0179698
+    ],
+    "longitude": -114.0376977,
+    "latitude": 51.0179698,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

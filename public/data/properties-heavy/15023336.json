@@ -1,0 +1,36 @@
+{
+  "id": "15023336",
+  "fullDetails": {
+    "licenseNumber": "15023336",
+    "name": "MORROS MANOR",
+    "address": "1520 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-04-23T14:12:16.000Z",
+    "expiryDate": "2026-04-22T14:12:16.000Z",
+    "coordinates": [
+      -114.0960484,
+      51.0426025
+    ],
+    "longitude": -114.0960484,
+    "latitude": 51.0426025,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

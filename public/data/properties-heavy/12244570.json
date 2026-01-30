@@ -1,0 +1,37 @@
+{
+  "id": "12244570",
+  "fullDetails": {
+    "licenseNumber": "12244570",
+    "name": "NEXT LEVEL LIFESTYLE ACCESSORIES (THE)",
+    "address": "#101 3608 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2004-06-04T08:19:41.000Z",
+    "expiryDate": "2026-06-03T08:19:41.000Z",
+    "coordinates": [
+      -113.9829123,
+      51.0382439
+    ],
+    "longitude": -113.9829123,
+    "latitude": 51.0382439,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16635427",
+  "fullDetails": {
+    "licenseNumber": "16635427",
+    "name": "MARINA DOSA AND TANDOORI GRILL",
+    "address": "#306 3690 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-07-29T15:42:14.000Z",
+    "expiryDate": "2026-07-28T15:42:13.000Z",
+    "coordinates": [
+      -113.9700912,
+      51.108504
+    ],
+    "longitude": -113.9700912,
+    "latitude": 51.108504,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

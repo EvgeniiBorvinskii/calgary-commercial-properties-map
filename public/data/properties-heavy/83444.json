@@ -1,0 +1,36 @@
+{
+  "id": "83444",
+  "fullDetails": {
+    "licenseNumber": "83444",
+    "name": "PRINTING HOUSE (THE)",
+    "address": "#110 1122 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-08-13T13:10:50.000Z",
+    "expiryDate": "2026-08-12T13:10:50.000Z",
+    "coordinates": [
+      -114.0711319,
+      51.0419317
+    ],
+    "longitude": -114.0711319,
+    "latitude": 51.0419317,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

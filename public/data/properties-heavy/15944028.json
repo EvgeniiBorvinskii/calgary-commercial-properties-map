@@ -1,0 +1,37 @@
+{
+  "id": "15944028",
+  "fullDetails": {
+    "licenseNumber": "15944028",
+    "name": "SCENIC GRANDE",
+    "address": "8720 SCURFIELD DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-12-10T14:21:43.000Z",
+    "expiryDate": "2026-12-09T14:21:43.000Z",
+    "coordinates": [
+      -114.213364,
+      51.1231061
+    ],
+    "longitude": -114.213364,
+    "latitude": 51.1231061,
+    "community": "SCENIC ACRES",
+    "ward": "SCE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

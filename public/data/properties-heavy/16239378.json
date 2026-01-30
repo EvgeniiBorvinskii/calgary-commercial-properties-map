@@ -1,0 +1,36 @@
+{
+  "id": "16239378",
+  "fullDetails": {
+    "licenseNumber": "16239378",
+    "name": "11-ELEVEN LIQUOR & WINE",
+    "address": "3005 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-12-15T08:18:13.000Z",
+    "expiryDate": "2026-12-14T08:18:13.000Z",
+    "coordinates": [
+      -114.1299552,
+      51.0299337
+    ],
+    "longitude": -114.1299552,
+    "latitude": 51.0299337,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15958085",
+  "fullDetails": {
+    "licenseNumber": "15958085",
+    "name": "DEELZ TOOLS & SUCH",
+    "address": "3313 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2021-02-18T08:53:37.000Z",
+    "expiryDate": "2027-02-17T08:53:37.000Z",
+    "coordinates": [
+      -113.987336,
+      51.0366579
+    ],
+    "longitude": -113.987336,
+    "latitude": 51.0366579,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

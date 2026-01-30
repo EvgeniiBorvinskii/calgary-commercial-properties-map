@@ -1,0 +1,36 @@
+{
+  "id": "16359051",
+  "fullDetails": {
+    "licenseNumber": "16359051",
+    "name": "PATRICIAN VILLAGE C",
+    "address": "1919C UNIVERSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-08-01T07:51:28.000Z",
+    "expiryDate": "2026-07-31T07:51:28.000Z",
+    "coordinates": [
+      -114.1254496,
+      51.0692217
+    ],
+    "longitude": -114.1254496,
+    "latitude": 51.0692217,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

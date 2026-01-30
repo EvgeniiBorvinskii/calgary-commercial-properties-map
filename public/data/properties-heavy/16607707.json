@@ -1,0 +1,36 @@
+{
+  "id": "16607707",
+  "fullDetails": {
+    "licenseNumber": "16607707",
+    "name": "AVENIR ENERGY",
+    "address": "#225 4000 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-08T12:37:47.000Z",
+    "expiryDate": "2026-08-07T12:37:47.000Z",
+    "coordinates": [
+      -114.0497548,
+      51.0189591
+    ],
+    "longitude": -114.0497548,
+    "latitude": 51.0189591,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

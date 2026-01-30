@@ -1,0 +1,36 @@
+{
+  "id": "16186637",
+  "fullDetails": {
+    "licenseNumber": "16186637",
+    "name": "CHICKING YYC",
+    "address": "#A 1817 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-18T15:38:08.000Z",
+    "expiryDate": "2026-10-17T15:38:08.000Z",
+    "coordinates": [
+      -114.0628596,
+      51.0685432
+    ],
+    "longitude": -114.0628596,
+    "latitude": 51.0685432,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

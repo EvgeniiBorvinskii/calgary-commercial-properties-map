@@ -1,0 +1,36 @@
+{
+  "id": "16308918",
+  "fullDetails": {
+    "licenseNumber": "16308918",
+    "name": "ARISE HOUSING - BOWNESS",
+    "address": "4340 73 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-05-26T10:31:57.000Z",
+    "expiryDate": "2026-05-25T10:31:57.000Z",
+    "coordinates": [
+      -114.1949967,
+      51.0907113
+    ],
+    "longitude": -114.1949967,
+    "latitude": 51.0907113,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

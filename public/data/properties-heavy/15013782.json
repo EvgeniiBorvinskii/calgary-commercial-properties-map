@@ -1,0 +1,36 @@
+{
+  "id": "15013782",
+  "fullDetails": {
+    "licenseNumber": "15013782",
+    "name": "YRK YPK",
+    "address": "#C 4207 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-02-12T05:31:35.000Z",
+    "expiryDate": "2026-02-11T05:31:35.000Z",
+    "coordinates": [
+      -114.0172744,
+      51.0167215
+    ],
+    "longitude": -114.0172744,
+    "latitude": 51.0167215,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "526657",
+  "fullDetails": {
+    "licenseNumber": "526657",
+    "name": "CANADIAN IMMIGRANT WOMEN'S ASSOCIATION",
+    "address": "#200 138 4 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-08-29T05:32:55.000Z",
+    "expiryDate": "2026-08-28T05:32:55.000Z",
+    "coordinates": [
+      -114.0606922,
+      51.0495595
+    ],
+    "longitude": -114.0606922,
+    "latitude": 51.0495595,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

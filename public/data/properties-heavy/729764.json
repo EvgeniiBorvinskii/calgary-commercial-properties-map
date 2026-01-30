@@ -1,0 +1,36 @@
+{
+  "id": "729764",
+  "fullDetails": {
+    "licenseNumber": "729764",
+    "name": "D V S DRYWALL CONTRACTORS",
+    "address": "2325 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-07-25T05:30:14.000Z",
+    "expiryDate": "2026-07-24T05:30:14.000Z",
+    "coordinates": [
+      -114.0063762,
+      51.0703683
+    ],
+    "longitude": -114.0063762,
+    "latitude": 51.0703683,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

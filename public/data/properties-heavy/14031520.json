@@ -1,0 +1,36 @@
+{
+  "id": "14031520",
+  "fullDetails": {
+    "licenseNumber": "14031520",
+    "name": "J R MECHANICAL",
+    "address": "#38 12180 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-11-04T08:18:37.000Z",
+    "expiryDate": "2026-11-03T08:18:37.000Z",
+    "coordinates": [
+      -113.9701486,
+      50.9416793
+    ],
+    "longitude": -113.9701486,
+    "latitude": 50.9416793,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

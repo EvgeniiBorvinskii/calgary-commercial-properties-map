@@ -1,0 +1,36 @@
+{
+  "id": "13813159",
+  "fullDetails": {
+    "licenseNumber": "13813159",
+    "name": "MARTEX TEXTURING 1979",
+    "address": "#119 11769 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2014-03-31T11:15:53.000Z",
+    "expiryDate": "2026-03-30T11:15:53.000Z",
+    "coordinates": [
+      -113.9778699,
+      50.9453469
+    ],
+    "longitude": -113.9778699,
+    "latitude": 50.9453469,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

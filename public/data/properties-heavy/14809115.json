@@ -1,0 +1,36 @@
+{
+  "id": "14809115",
+  "fullDetails": {
+    "licenseNumber": "14809115",
+    "name": "REDWING SHOE STORE",
+    "address": "#120 2550 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-04-06T09:52:50.000Z",
+    "expiryDate": "2026-04-05T09:52:50.000Z",
+    "coordinates": [
+      -113.9997908,
+      51.1549713
+    ],
+    "longitude": -113.9997908,
+    "latitude": 51.1549713,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

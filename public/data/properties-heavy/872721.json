@@ -1,0 +1,36 @@
+{
+  "id": "872721",
+  "fullDetails": {
+    "licenseNumber": "872721",
+    "name": "MTE LOGISTIX",
+    "address": "6505 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2015-09-18T15:07:44.000Z",
+    "expiryDate": "2026-09-17T15:07:44.000Z",
+    "coordinates": [
+      -113.9658717,
+      50.9959573
+    ],
+    "longitude": -113.9658717,
+    "latitude": 50.9959573,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

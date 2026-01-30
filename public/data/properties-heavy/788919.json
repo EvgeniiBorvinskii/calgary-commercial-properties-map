@@ -1,0 +1,36 @@
+{
+  "id": "788919",
+  "fullDetails": {
+    "licenseNumber": "788919",
+    "name": "C S D CALGARY SALVAGE DISPOSAL",
+    "address": "#4 2004 ALYTH CO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-06T00:00:00.000Z",
+    "coordinates": [
+      -114.0293953,
+      51.035562
+    ],
+    "longitude": -114.0293953,
+    "latitude": 51.035562,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

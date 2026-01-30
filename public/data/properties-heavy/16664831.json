@@ -1,0 +1,36 @@
+{
+  "id": "16664831",
+  "fullDetails": {
+    "licenseNumber": "16664831",
+    "name": "CEEPIECUTZ",
+    "address": "#32 6130 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-09-11T15:19:20.000Z",
+    "expiryDate": "2026-09-10T15:19:20.000Z",
+    "coordinates": [
+      -114.0667882,
+      50.9983689
+    ],
+    "longitude": -114.0667882,
+    "latitude": 50.9983689,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

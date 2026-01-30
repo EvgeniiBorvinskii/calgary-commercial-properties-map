@@ -1,0 +1,36 @@
+{
+  "id": "12319539",
+  "fullDetails": {
+    "licenseNumber": "12319539",
+    "name": "PETLAND",
+    "address": "#300 4915 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "pending",
+    "issuedDate": "2005-03-14T08:14:47.000Z",
+    "expiryDate": "2026-03-13T08:14:47.000Z",
+    "coordinates": [
+      -113.9627351,
+      50.9303684
+    ],
+    "longitude": -113.9627351,
+    "latitude": 50.9303684,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

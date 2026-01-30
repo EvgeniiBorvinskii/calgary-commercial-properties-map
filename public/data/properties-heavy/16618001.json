@@ -1,0 +1,37 @@
+{
+  "id": "16618001",
+  "fullDetails": {
+    "licenseNumber": "16618001",
+    "name": "TFTOYS CA",
+    "address": "#1679 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-05-14T15:17:40.000Z",
+    "expiryDate": "2026-05-13T15:17:40.000Z",
+    "coordinates": [
+      -114.0993249,
+      51.0657999
+    ],
+    "longitude": -114.0993249,
+    "latitude": 51.0657999,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

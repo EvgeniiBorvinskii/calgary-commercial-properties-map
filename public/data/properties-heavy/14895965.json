@@ -1,0 +1,36 @@
+{
+  "id": "14895965",
+  "fullDetails": {
+    "licenseNumber": "14895965",
+    "name": "GROW AND COMPANY",
+    "address": "#9 11651 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-04-18T08:37:56.000Z",
+    "expiryDate": "2026-04-17T08:37:56.000Z",
+    "coordinates": [
+      -113.9779567,
+      50.9458792
+    ],
+    "longitude": -113.9779567,
+    "latitude": 50.9458792,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

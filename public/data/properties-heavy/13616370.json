@@ -1,0 +1,36 @@
+{
+  "id": "13616370",
+  "fullDetails": {
+    "licenseNumber": "13616370",
+    "name": "BEAUTY SALON",
+    "address": "1939 VETERAN'S WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2013-09-04T09:29:38.000Z",
+    "expiryDate": "2026-09-03T09:29:38.000Z",
+    "coordinates": [
+      -114.14309,
+      51.0618623
+    ],
+    "longitude": -114.14309,
+    "latitude": 51.0618623,
+    "community": "PARKDALE",
+    "ward": "PKD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

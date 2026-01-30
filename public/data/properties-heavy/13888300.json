@@ -1,0 +1,36 @@
+{
+  "id": "13888300",
+  "fullDetails": {
+    "licenseNumber": "13888300",
+    "name": "CUTTERUP AUTO",
+    "address": "#B 6224 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-05-12T05:31:56.000Z",
+    "expiryDate": "2026-05-11T05:31:56.000Z",
+    "coordinates": [
+      -114.0593398,
+      50.995601
+    ],
+    "longitude": -114.0593398,
+    "latitude": 50.995601,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

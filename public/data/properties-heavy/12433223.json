@@ -1,0 +1,37 @@
+{
+  "id": "12433223",
+  "fullDetails": {
+    "licenseNumber": "12433223",
+    "name": "JARVIS HALL FINE FRAMES",
+    "address": "#B 333 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-02-03T14:45:03.000Z",
+    "expiryDate": "2027-02-02T14:45:03.000Z",
+    "coordinates": [
+      -114.0580559,
+      51.021248
+    ],
+    "longitude": -114.0580559,
+    "latitude": 51.021248,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

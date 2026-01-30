@@ -1,0 +1,36 @@
+{
+  "id": "14081178",
+  "fullDetails": {
+    "licenseNumber": "14081178",
+    "name": "QUANTIFI",
+    "address": "#203 508 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-26T08:55:21.000Z",
+    "expiryDate": "2026-10-25T08:55:21.000Z",
+    "coordinates": [
+      -114.0718697,
+      51.0318448
+    ],
+    "longitude": -114.0718697,
+    "latitude": 51.0318448,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

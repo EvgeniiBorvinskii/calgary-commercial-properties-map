@@ -1,0 +1,36 @@
+{
+  "id": "16692493",
+  "fullDetails": {
+    "licenseNumber": "16692493",
+    "name": "CALGARY ANAND FASHION MANDI",
+    "address": "#3158 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-30T16:07:12.000Z",
+    "expiryDate": "2026-10-29T16:07:11.000Z",
+    "coordinates": [
+      -113.9725836,
+      51.1483395
+    ],
+    "longitude": -113.9725836,
+    "latitude": 51.1483395,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16542169",
+  "fullDetails": {
+    "licenseNumber": "16542169",
+    "name": "COSMIC PIZZA AND DONAIR",
+    "address": "#145 150 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-29T12:41:42.000Z",
+    "expiryDate": "2026-10-28T12:41:41.000Z",
+    "coordinates": [
+      -114.1658724,
+      51.1704834
+    ],
+    "longitude": -114.1658724,
+    "latitude": 51.1704834,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

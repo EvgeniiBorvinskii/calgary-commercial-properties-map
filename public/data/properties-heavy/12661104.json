@@ -1,0 +1,36 @@
+{
+  "id": "12661104",
+  "fullDetails": {
+    "licenseNumber": "12661104",
+    "name": "VERN'S PIZZA",
+    "address": "#127 575 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2008-06-30T08:29:33.000Z",
+    "expiryDate": "2026-06-29T08:29:33.000Z",
+    "coordinates": [
+      -113.9904629,
+      51.0475217
+    ],
+    "longitude": -113.9904629,
+    "latitude": 51.0475217,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

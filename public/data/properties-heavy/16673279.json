@@ -1,0 +1,36 @@
+{
+  "id": "16673279",
+  "fullDetails": {
+    "licenseNumber": "16673279",
+    "name": "ADVANCED LEVEL SOLAR",
+    "address": "#A 5110 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-19T07:52:52.000Z",
+    "expiryDate": "2026-11-18T07:52:51.000Z",
+    "coordinates": [
+      -113.9608371,
+      50.9837213
+    ],
+    "longitude": -113.9608371,
+    "latitude": 50.9837213,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

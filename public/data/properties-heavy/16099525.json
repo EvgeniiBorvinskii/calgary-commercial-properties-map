@@ -1,0 +1,37 @@
+{
+  "id": "16099525",
+  "fullDetails": {
+    "licenseNumber": "16099525",
+    "name": "HAIR TROPICS",
+    "address": "#366 8338 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-15T16:04:23.000Z",
+    "expiryDate": "2026-11-14T16:04:23.000Z",
+    "coordinates": [
+      -114.0138869,
+      50.976901
+    ],
+    "longitude": -114.0138869,
+    "latitude": 50.976901,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

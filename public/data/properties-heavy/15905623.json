@@ -1,0 +1,36 @@
+{
+  "id": "15905623",
+  "fullDetails": {
+    "licenseNumber": "15905623",
+    "name": "BRASS BEAUTY BAR",
+    "address": "455 MARSH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2020-06-22T08:07:38.000Z",
+    "expiryDate": "2026-06-21T08:07:37.000Z",
+    "coordinates": [
+      -114.0524167,
+      51.0526618
+    ],
+    "longitude": -114.0524167,
+    "latitude": 51.0526618,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

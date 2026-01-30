@@ -1,0 +1,36 @@
+{
+  "id": "289322",
+  "fullDetails": {
+    "licenseNumber": "289322",
+    "name": "COWAN GRAPHICS",
+    "address": "5565 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-01-29T08:47:53.000Z",
+    "expiryDate": "2026-01-28T08:47:53.000Z",
+    "coordinates": [
+      -113.95147,
+      51.0017374
+    ],
+    "longitude": -113.95147,
+    "latitude": 51.0017374,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13632302",
+  "fullDetails": {
+    "licenseNumber": "13632302",
+    "name": "DOLCE SALON",
+    "address": "#H3 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-05-15T09:38:17.000Z",
+    "expiryDate": "2026-05-14T09:38:17.000Z",
+    "coordinates": [
+      -114.1545799,
+      51.0857818
+    ],
+    "longitude": -114.1545799,
+    "latitude": 51.0857818,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

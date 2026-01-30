@@ -1,0 +1,37 @@
+{
+  "id": "16572927",
+  "fullDetails": {
+    "licenseNumber": "16572927",
+    "name": "KOKO",
+    "address": "620A 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-16T12:00:08.000Z",
+    "expiryDate": "2026-12-15T12:00:07.000Z",
+    "coordinates": [
+      -114.0757197,
+      51.0380657
+    ],
+    "longitude": -114.0757197,
+    "latitude": 51.0380657,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

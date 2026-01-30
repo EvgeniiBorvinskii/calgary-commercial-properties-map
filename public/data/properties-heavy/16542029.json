@@ -1,0 +1,36 @@
+{
+  "id": "16542029",
+  "fullDetails": {
+    "licenseNumber": "16542029",
+    "name": "FIERCE FITNESS CALGARY",
+    "address": "#5 4393 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-26T17:07:42.000Z",
+    "expiryDate": "2026-09-25T17:07:41.000Z",
+    "coordinates": [
+      -114.0286042,
+      51.0914964
+    ],
+    "longitude": -114.0286042,
+    "latitude": 51.0914964,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

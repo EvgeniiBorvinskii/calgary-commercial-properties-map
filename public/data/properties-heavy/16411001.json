@@ -1,0 +1,36 @@
+{
+  "id": "16411001",
+  "fullDetails": {
+    "licenseNumber": "16411001",
+    "name": "THE CHOPPED LEAF",
+    "address": "#1311 163 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-11-22T14:02:27.000Z",
+    "expiryDate": "2026-11-21T14:02:27.000Z",
+    "coordinates": [
+      -114.0100943,
+      50.9631191
+    ],
+    "longitude": -114.0100943,
+    "latitude": 50.9631191,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

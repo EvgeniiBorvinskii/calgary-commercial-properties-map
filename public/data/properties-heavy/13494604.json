@@ -1,0 +1,37 @@
+{
+  "id": "13494604",
+  "fullDetails": {
+    "licenseNumber": "13494604",
+    "name": "SPACE PLACE SELF STORAGE (SOUTH)",
+    "address": "4810 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-06-18T05:33:12.000Z",
+    "expiryDate": "2026-06-17T05:33:12.000Z",
+    "coordinates": [
+      -113.9657306,
+      50.9803644
+    ],
+    "longitude": -113.9657306,
+    "latitude": 50.9803644,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

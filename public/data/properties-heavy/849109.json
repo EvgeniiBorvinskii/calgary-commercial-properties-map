@@ -1,0 +1,36 @@
+{
+  "id": "849109",
+  "fullDetails": {
+    "licenseNumber": "849109",
+    "name": "EMM LABS/MEITNER AUDIO",
+    "address": "#119 5065 13 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-09T00:00:00.000Z",
+    "coordinates": [
+      -114.0342234,
+      51.0074204
+    ],
+    "longitude": -114.0342234,
+    "latitude": 51.0074204,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

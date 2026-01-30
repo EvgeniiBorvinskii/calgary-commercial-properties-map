@@ -1,0 +1,37 @@
+{
+  "id": "15993090",
+  "fullDetails": {
+    "licenseNumber": "15993090",
+    "name": "LATIN FOOD SPECIALTIES MARKET & KITCHEN",
+    "address": "6103 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-11T11:10:37.000Z",
+    "expiryDate": "2026-06-10T11:10:37.000Z",
+    "coordinates": [
+      -114.0643293,
+      50.997379
+    ],
+    "longitude": -114.0643293,
+    "latitude": 50.997379,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

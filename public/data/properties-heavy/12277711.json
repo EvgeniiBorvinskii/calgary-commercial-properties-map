@@ -1,0 +1,37 @@
+{
+  "id": "12277711",
+  "fullDetails": {
+    "licenseNumber": "12277711",
+    "name": "FRILLY LILLY",
+    "address": "2105 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2010-02-19T08:36:25.000Z",
+    "expiryDate": "2026-02-18T08:36:25.000Z",
+    "coordinates": [
+      -114.0717854,
+      51.0339328
+    ],
+    "longitude": -114.0717854,
+    "latitude": 51.0339328,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

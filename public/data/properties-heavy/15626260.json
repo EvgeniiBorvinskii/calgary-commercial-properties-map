@@ -1,0 +1,36 @@
+{
+  "id": "15626260",
+  "fullDetails": {
+    "licenseNumber": "15626260",
+    "name": "DOMINIUM RESIDENTIAL",
+    "address": "#201 120 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-13T19:17:50.000Z",
+    "expiryDate": "2026-08-12T19:17:49.000Z",
+    "coordinates": [
+      -114.0763391,
+      51.142009
+    ],
+    "longitude": -114.0763391,
+    "latitude": 51.142009,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

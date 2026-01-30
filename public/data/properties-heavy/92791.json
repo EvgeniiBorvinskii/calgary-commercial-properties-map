@@ -1,0 +1,36 @@
+{
+  "id": "92791",
+  "fullDetails": {
+    "licenseNumber": "92791",
+    "name": "CANYON PLUMBING & HEATING*",
+    "address": "3185 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9924736,
+      50.9488382
+    ],
+    "longitude": -113.9924736,
+    "latitude": 50.9488382,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12178158",
+  "fullDetails": {
+    "licenseNumber": "12178158",
+    "name": "DENNY'S RESTAURANT",
+    "address": "2450 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2003-09-05T13:58:53.000Z",
+    "expiryDate": "2026-09-04T13:58:53.000Z",
+    "coordinates": [
+      -114.1172166,
+      51.0674626
+    ],
+    "longitude": -114.1172166,
+    "latitude": 51.0674626,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12552741",
+  "fullDetails": {
+    "licenseNumber": "12552741",
+    "name": "PRIMARY COMPUTER SYSTEMS",
+    "address": "#131 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-04-09T12:36:32.000Z",
+    "expiryDate": "2026-04-08T12:36:32.000Z",
+    "coordinates": [
+      -114.0631644,
+      51.0666527
+    ],
+    "longitude": -114.0631644,
+    "latitude": 51.0666527,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

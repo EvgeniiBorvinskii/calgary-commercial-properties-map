@@ -1,0 +1,36 @@
+{
+  "id": "16490864",
+  "fullDetails": {
+    "licenseNumber": "16490864",
+    "name": "PRECISIONSCAPES DESIGN AND BUILD",
+    "address": "#106 2850 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-05-28T11:08:05.000Z",
+    "expiryDate": "2026-05-27T11:08:04.000Z",
+    "coordinates": [
+      -113.9952903,
+      50.9572529
+    ],
+    "longitude": -113.9952903,
+    "latitude": 50.9572529,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

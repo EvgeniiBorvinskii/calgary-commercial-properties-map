@@ -1,0 +1,37 @@
+{
+  "id": "15861693",
+  "fullDetails": {
+    "licenseNumber": "15861693",
+    "name": "BSW LIQUOR EAST HILLS",
+    "address": "#4120 250 EAST HILLS SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2020-02-07T09:19:35.000Z",
+    "expiryDate": "2026-02-06T09:19:35.000Z",
+    "coordinates": [
+      -113.9090756,
+      51.040534
+    ],
+    "longitude": -113.9090756,
+    "latitude": 51.040534,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

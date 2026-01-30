@@ -1,0 +1,36 @@
+{
+  "id": "12234332",
+  "fullDetails": {
+    "licenseNumber": "12234332",
+    "name": "WESTCOR CONSTRUCTION",
+    "address": "2420 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-05-04T05:50:23.000Z",
+    "expiryDate": "2026-05-03T05:50:23.000Z",
+    "coordinates": [
+      -114.0044836,
+      51.0885828
+    ],
+    "longitude": -114.0044836,
+    "latitude": 51.0885828,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

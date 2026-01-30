@@ -1,0 +1,36 @@
+{
+  "id": "180703",
+  "fullDetails": {
+    "licenseNumber": "180703",
+    "name": "GPI OUTDOOR DESIGNS",
+    "address": "#2 3015 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-04-03T08:43:11.000Z",
+    "expiryDate": "2026-04-02T08:43:11.000Z",
+    "coordinates": [
+      -113.9940009,
+      51.0008027
+    ],
+    "longitude": -113.9940009,
+    "latitude": 51.0008027,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

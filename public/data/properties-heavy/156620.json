@@ -1,0 +1,36 @@
+{
+  "id": "156620",
+  "fullDetails": {
+    "licenseNumber": "156620",
+    "name": "CALIBRE COATINGS",
+    "address": "6224 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-10-11T13:47:33.000Z",
+    "expiryDate": "2026-10-10T13:47:33.000Z",
+    "coordinates": [
+      -113.988447,
+      50.9968012
+    ],
+    "longitude": -113.988447,
+    "latitude": 50.9968012,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

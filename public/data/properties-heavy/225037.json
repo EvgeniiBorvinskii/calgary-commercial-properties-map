@@ -1,0 +1,36 @@
+{
+  "id": "225037",
+  "fullDetails": {
+    "licenseNumber": "225037",
+    "name": "REMI'S MECHANICAL SERVICES",
+    "address": "552 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-05T00:00:00.000Z",
+    "coordinates": [
+      -114.0509945,
+      51.0169466
+    ],
+    "longitude": -114.0509945,
+    "latitude": 51.0169466,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

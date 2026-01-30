@@ -1,0 +1,37 @@
+{
+  "id": "16543712",
+  "fullDetails": {
+    "licenseNumber": "16543712",
+    "name": "TOMMY GUNS BARBER SHOP",
+    "address": "#310 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2024-09-30T16:58:22.000Z",
+    "expiryDate": "2026-09-29T16:58:21.000Z",
+    "coordinates": [
+      -114.0302672,
+      50.8650017
+    ],
+    "longitude": -114.0302672,
+    "latitude": 50.8650017,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

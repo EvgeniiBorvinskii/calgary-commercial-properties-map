@@ -1,0 +1,37 @@
+{
+  "id": "15992522",
+  "fullDetails": {
+    "licenseNumber": "15992522",
+    "name": "KING SOLOMON'S KITCHEN",
+    "address": "104 MERIDIAN RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-29T15:02:13.000Z",
+    "expiryDate": "2026-08-28T15:02:13.000Z",
+    "coordinates": [
+      -114.0006714,
+      51.0526445
+    ],
+    "longitude": -114.0006714,
+    "latitude": 51.0526445,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

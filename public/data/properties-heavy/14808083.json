@@ -1,0 +1,37 @@
+{
+  "id": "14808083",
+  "fullDetails": {
+    "licenseNumber": "14808083",
+    "name": "SOUTH EAST COLLISION AND REFINISHING CENTRE",
+    "address": "4207 17 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2018-06-07T13:57:52.000Z",
+    "expiryDate": "2026-06-06T13:57:52.000Z",
+    "coordinates": [
+      -114.0194886,
+      51.016691
+    ],
+    "longitude": -114.0194886,
+    "latitude": 51.016691,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

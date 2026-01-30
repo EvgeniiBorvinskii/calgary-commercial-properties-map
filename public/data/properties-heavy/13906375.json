@@ -1,0 +1,36 @@
+{
+  "id": "13906375",
+  "fullDetails": {
+    "licenseNumber": "13906375",
+    "name": "MAXIM BUILDING RESTORATION",
+    "address": "4770 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-08-04T11:39:20.000Z",
+    "expiryDate": "2026-08-03T11:39:20.000Z",
+    "coordinates": [
+      -113.9668637,
+      50.9607556
+    ],
+    "longitude": -113.9668637,
+    "latitude": 50.9607556,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

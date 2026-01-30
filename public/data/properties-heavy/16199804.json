@@ -1,0 +1,36 @@
+{
+  "id": "16199804",
+  "fullDetails": {
+    "licenseNumber": "16199804",
+    "name": "CRASH CONDITIONING",
+    "address": "5907 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-08-25T09:04:03.000Z",
+    "expiryDate": "2026-08-24T09:04:03.000Z",
+    "coordinates": [
+      -114.0576262,
+      51.0006413
+    ],
+    "longitude": -114.0576262,
+    "latitude": 51.0006413,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

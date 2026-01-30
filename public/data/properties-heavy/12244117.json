@@ -1,0 +1,36 @@
+{
+  "id": "12244117",
+  "fullDetails": {
+    "licenseNumber": "12244117",
+    "name": "RAPID RENT OUTLAW SPORTS",
+    "address": "903 HERITAGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-11-20T05:40:52.000Z",
+    "expiryDate": "2026-11-19T05:40:52.000Z",
+    "coordinates": [
+      -114.0837657,
+      50.9791767
+    ],
+    "longitude": -114.0837657,
+    "latitude": 50.9791767,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14313100",
+  "fullDetails": {
+    "licenseNumber": "14313100",
+    "name": "METALSMITHS (YYC TRANSBOARDER)",
+    "address": "#1701AS 2016T AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-10-31T15:37:43.000Z",
+    "expiryDate": "2026-10-30T15:37:43.000Z",
+    "coordinates": [
+      -114.0037988,
+      51.1297998
+    ],
+    "longitude": -114.0037988,
+    "latitude": 51.1297998,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "216325",
+  "fullDetails": {
+    "licenseNumber": "216325",
+    "name": "CBS BIO PLATFORMS",
+    "address": "4389 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-10-06T09:55:06.000Z",
+    "expiryDate": "2026-10-05T09:55:06.000Z",
+    "coordinates": [
+      -113.9734325,
+      50.9520116
+    ],
+    "longitude": -113.9734325,
+    "latitude": 50.9520116,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

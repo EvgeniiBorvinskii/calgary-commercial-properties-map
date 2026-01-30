@@ -1,0 +1,36 @@
+{
+  "id": "16247520",
+  "fullDetails": {
+    "licenseNumber": "16247520",
+    "name": "IN N OUT AUTO REPAIR",
+    "address": "#6 3600 21 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2023-03-06T10:19:05.000Z",
+    "expiryDate": "2026-03-05T10:19:05.000Z",
+    "coordinates": [
+      -114.0074831,
+      51.0843378
+    ],
+    "longitude": -114.0074831,
+    "latitude": 51.0843378,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

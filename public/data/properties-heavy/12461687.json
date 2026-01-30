@@ -1,0 +1,36 @@
+{
+  "id": "12461687",
+  "fullDetails": {
+    "licenseNumber": "12461687",
+    "name": "CALGARY COLD STORAGE FACILITY",
+    "address": "10559 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-07-27T06:53:12.000Z",
+    "expiryDate": "2026-07-26T06:53:12.000Z",
+    "coordinates": [
+      -113.9689239,
+      50.95931
+    ],
+    "longitude": -113.9689239,
+    "latitude": 50.95931,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

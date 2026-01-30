@@ -1,0 +1,36 @@
+{
+  "id": "14034086",
+  "fullDetails": {
+    "licenseNumber": "14034086",
+    "name": "BOOSTER JUICE",
+    "address": "#131 971 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-02-03T09:15:03.000Z",
+    "expiryDate": "2027-02-02T09:15:03.000Z",
+    "coordinates": [
+      -114.0400603,
+      51.1100632
+    ],
+    "longitude": -114.0400603,
+    "latitude": 51.1100632,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

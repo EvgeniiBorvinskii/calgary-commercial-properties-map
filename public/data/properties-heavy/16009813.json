@@ -1,0 +1,37 @@
+{
+  "id": "16009813",
+  "fullDetails": {
+    "licenseNumber": "16009813",
+    "name": "FLOWER CHIX",
+    "address": "#4 2333 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-07-30T15:49:30.000Z",
+    "expiryDate": "2026-07-29T15:49:30.000Z",
+    "coordinates": [
+      -114.0052914,
+      51.0685348
+    ],
+    "longitude": -114.0052914,
+    "latitude": 51.0685348,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

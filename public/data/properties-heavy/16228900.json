@@ -1,0 +1,36 @@
+{
+  "id": "16228900",
+  "fullDetails": {
+    "licenseNumber": "16228900",
+    "name": "SPARTAN TRAINING INSTITUTE",
+    "address": "#201 5700 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2023-09-19T16:33:24.000Z",
+    "expiryDate": "2026-09-18T16:33:23.000Z",
+    "coordinates": [
+      -113.9547985,
+      51.0985977
+    ],
+    "longitude": -113.9547985,
+    "latitude": 51.0985977,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16346363",
+  "fullDetails": {
+    "licenseNumber": "16346363",
+    "name": "VSTELLA DESIGN BUILD AND VSTELLA HOMES",
+    "address": "#20 2333 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-19T16:10:34.000Z",
+    "expiryDate": "2026-08-18T16:10:33.000Z",
+    "coordinates": [
+      -114.0049953,
+      51.068687
+    ],
+    "longitude": -114.0049953,
+    "latitude": 51.068687,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

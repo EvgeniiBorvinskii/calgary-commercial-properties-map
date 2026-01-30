@@ -1,0 +1,36 @@
+{
+  "id": "15938806",
+  "fullDetails": {
+    "licenseNumber": "15938806",
+    "name": "COUCH9",
+    "address": "#500 8180 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-19T13:40:11.000Z",
+    "expiryDate": "2026-09-18T13:40:11.000Z",
+    "coordinates": [
+      -114.0434245,
+      50.9778133
+    ],
+    "longitude": -114.0434245,
+    "latitude": 50.9778133,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

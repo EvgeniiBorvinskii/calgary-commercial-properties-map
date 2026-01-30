@@ -1,0 +1,37 @@
+{
+  "id": "14296701",
+  "fullDetails": {
+    "licenseNumber": "14296701",
+    "name": "COVENANT LIVING -EVANSTON SUMMIT FOOD SERVICES",
+    "address": "150 EVANSPARK MR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2017-03-23T10:52:14.000Z",
+    "expiryDate": "2026-03-22T10:52:14.000Z",
+    "coordinates": [
+      -114.1110874,
+      51.1744636
+    ],
+    "longitude": -114.1110874,
+    "latitude": 51.1744636,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

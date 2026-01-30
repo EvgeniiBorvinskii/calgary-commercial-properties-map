@@ -1,0 +1,37 @@
+{
+  "id": "15959075",
+  "fullDetails": {
+    "licenseNumber": "15959075",
+    "name": "FRIEND'S PIZZA & PASTA",
+    "address": "#312 2066 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-21T14:25:15.000Z",
+    "expiryDate": "2026-12-20T14:25:15.000Z",
+    "coordinates": [
+      -114.0116339,
+      51.0692595
+    ],
+    "longitude": -114.0116339,
+    "latitude": 51.0692595,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

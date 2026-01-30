@@ -1,0 +1,36 @@
+{
+  "id": "16001729",
+  "fullDetails": {
+    "licenseNumber": "16001729",
+    "name": "5 VINES WINE, CRAFT BEER & SPIRITS",
+    "address": "#110 4620 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-08-20T08:57:50.000Z",
+    "expiryDate": "2026-08-19T08:57:50.000Z",
+    "coordinates": [
+      -114.1532838,
+      51.0493934
+    ],
+    "longitude": -114.1532838,
+    "latitude": 51.0493934,
+    "community": "WILDWOOD",
+    "ward": "WLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

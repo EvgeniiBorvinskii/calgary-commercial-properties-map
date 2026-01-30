@@ -1,0 +1,36 @@
+{
+  "id": "16112211",
+  "fullDetails": {
+    "licenseNumber": "16112211",
+    "name": "WINGTECH AUTO SERVICES",
+    "address": "3505O 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-03-11T11:39:45.000Z",
+    "expiryDate": "2026-03-10T11:39:45.000Z",
+    "coordinates": [
+      -113.9898547,
+      51.0840702
+    ],
+    "longitude": -113.9898547,
+    "latitude": 51.0840702,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

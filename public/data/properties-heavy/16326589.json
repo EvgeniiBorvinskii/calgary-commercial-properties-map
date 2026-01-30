@@ -1,0 +1,37 @@
+{
+  "id": "16326589",
+  "fullDetails": {
+    "licenseNumber": "16326589",
+    "name": "BOLDER CLIMBING ELEVATED",
+    "address": "12686 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-14T12:37:24.000Z",
+    "expiryDate": "2026-06-13T12:37:23.000Z",
+    "coordinates": [
+      -113.9643833,
+      50.9355291
+    ],
+    "longitude": -113.9643833,
+    "latitude": 50.9355291,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12316154",
+  "fullDetails": {
+    "licenseNumber": "12316154",
+    "name": "ANN-LOUISE JEWELLERS",
+    "address": "#L3 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-05-29T05:33:30.000Z",
+    "expiryDate": "2026-05-28T05:33:30.000Z",
+    "coordinates": [
+      -114.1544227,
+      51.0850462
+    ],
+    "longitude": -114.1544227,
+    "latitude": 51.0850462,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

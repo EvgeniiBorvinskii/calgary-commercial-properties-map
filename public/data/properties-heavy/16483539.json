@@ -1,0 +1,36 @@
+{
+  "id": "16483539",
+  "fullDetails": {
+    "licenseNumber": "16483539",
+    "name": "CHICKADEE REFILLERY",
+    "address": "#412 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-06T09:16:03.000Z",
+    "expiryDate": "2026-05-05T09:16:03.000Z",
+    "coordinates": [
+      -114.0686102,
+      50.9416984
+    ],
+    "longitude": -114.0686102,
+    "latitude": 50.9416984,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

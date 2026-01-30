@@ -1,0 +1,37 @@
+{
+  "id": "15692106",
+  "fullDetails": {
+    "licenseNumber": "15692106",
+    "name": "REVITAL HEALTH PHYSIOTHERAPY & MASSAGE",
+    "address": "116 SAVANNA AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-05T15:08:21.000Z",
+    "expiryDate": "2026-09-04T15:08:21.000Z",
+    "coordinates": [
+      -113.9648513,
+      51.1340646
+    ],
+    "longitude": -113.9648513,
+    "latitude": 51.1340646,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

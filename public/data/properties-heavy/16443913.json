@@ -1,0 +1,36 @@
+{
+  "id": "16443913",
+  "fullDetails": {
+    "licenseNumber": "16443913",
+    "name": "ALR COMMERCIAL",
+    "address": "#A 5110 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-24T15:56:24.000Z",
+    "expiryDate": "2026-09-23T15:56:24.000Z",
+    "coordinates": [
+      -113.9608371,
+      50.9837213
+    ],
+    "longitude": -113.9608371,
+    "latitude": 50.9837213,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16470338",
+  "fullDetails": {
+    "licenseNumber": "16470338",
+    "name": "KEYWE LOCKSMITH CALGARY",
+    "address": "#102B 1933 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-05T10:42:53.000Z",
+    "expiryDate": "2026-09-04T10:42:52.000Z",
+    "coordinates": [
+      -114.1061852,
+      51.0443155
+    ],
+    "longitude": -114.1061852,
+    "latitude": 51.0443155,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

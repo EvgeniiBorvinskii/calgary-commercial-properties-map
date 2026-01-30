@@ -1,0 +1,37 @@
+{
+  "id": "16227944",
+  "fullDetails": {
+    "licenseNumber": "16227944",
+    "name": "DOLLARAMA 1481",
+    "address": "#17 728 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-05T11:46:00.000Z",
+    "expiryDate": "2027-01-04T11:46:00.000Z",
+    "coordinates": [
+      -114.0935901,
+      51.0824877
+    ],
+    "longitude": -114.0935901,
+    "latitude": 51.0824877,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12199527",
+  "fullDetails": {
+    "licenseNumber": "12199527",
+    "name": "EQUIPCO",
+    "address": "#27 4948 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-06-08T14:33:14.000Z",
+    "expiryDate": "2026-06-07T14:33:14.000Z",
+    "coordinates": [
+      -113.9636045,
+      50.9356337
+    ],
+    "longitude": -113.9636045,
+    "latitude": 50.9356337,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

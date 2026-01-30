@@ -1,0 +1,36 @@
+{
+  "id": "14289748",
+  "fullDetails": {
+    "licenseNumber": "14289748",
+    "name": "ROCKY MOUNTAIN CHOCOLATE",
+    "address": "#1702AU 2016T AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-11-02T11:32:33.000Z",
+    "expiryDate": "2026-11-01T11:32:33.000Z",
+    "coordinates": [
+      -114.0037988,
+      51.1297998
+    ],
+    "longitude": -114.0037988,
+    "latitude": 51.1297998,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

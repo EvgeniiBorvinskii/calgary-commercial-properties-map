@@ -1,0 +1,36 @@
+{
+  "id": "12228573",
+  "fullDetails": {
+    "licenseNumber": "12228573",
+    "name": "GREAT WESTERN INTERIORS",
+    "address": "#40 12221 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2008-02-13T05:38:40.000Z",
+    "expiryDate": "2026-02-12T05:38:40.000Z",
+    "coordinates": [
+      -113.9722378,
+      50.9409577
+    ],
+    "longitude": -113.9722378,
+    "latitude": 50.9409577,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12146346",
+  "fullDetails": {
+    "licenseNumber": "12146346",
+    "name": "STARBUCKS COFFEE #4446",
+    "address": "7624 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2003-02-14T12:44:42.000Z",
+    "expiryDate": "2026-02-13T12:44:42.000Z",
+    "coordinates": [
+      -114.0825156,
+      50.9854221
+    ],
+    "longitude": -114.0825156,
+    "latitude": 50.9854221,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

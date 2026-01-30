@@ -1,0 +1,36 @@
+{
+  "id": "16595282",
+  "fullDetails": {
+    "licenseNumber": "16595282",
+    "name": "LEVANT AUTO HAUS",
+    "address": "6127 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-22T15:39:44.000Z",
+    "expiryDate": "2026-07-21T15:39:43.000Z",
+    "coordinates": [
+      -113.9857035,
+      50.9992413
+    ],
+    "longitude": -113.9857035,
+    "latitude": 50.9992413,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

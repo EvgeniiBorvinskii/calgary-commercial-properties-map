@@ -1,0 +1,37 @@
+{
+  "id": "16206153",
+  "fullDetails": {
+    "licenseNumber": "16206153",
+    "name": "MARY BROWNS KENSINGTON",
+    "address": "425 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2023-02-10T11:36:06.000Z",
+    "expiryDate": "2026-02-09T11:36:06.000Z",
+    "coordinates": [
+      -114.0862495,
+      51.0562225
+    ],
+    "longitude": -114.0862495,
+    "latitude": 51.0562225,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

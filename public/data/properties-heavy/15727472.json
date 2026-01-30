@@ -1,0 +1,36 @@
+{
+  "id": "15727472",
+  "fullDetails": {
+    "licenseNumber": "15727472",
+    "name": "UGROW CALGARY",
+    "address": "#31 4948 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-09-30T11:05:07.000Z",
+    "expiryDate": "2024-09-29T11:05:06.000Z",
+    "coordinates": [
+      -113.9636047,
+      50.9357022
+    ],
+    "longitude": -113.9636047,
+    "latitude": 50.9357022,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

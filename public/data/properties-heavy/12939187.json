@@ -1,0 +1,37 @@
+{
+  "id": "12939187",
+  "fullDetails": {
+    "licenseNumber": "12939187",
+    "name": "SUSHI BBQ INN",
+    "address": "1222 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2010-05-19T15:11:59.000Z",
+    "expiryDate": "2026-05-18T15:11:59.000Z",
+    "coordinates": [
+      -114.0885859,
+      51.0672403
+    ],
+    "longitude": -114.0885859,
+    "latitude": 51.0672403,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

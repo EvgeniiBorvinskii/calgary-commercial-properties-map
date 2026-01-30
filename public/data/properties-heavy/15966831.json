@@ -1,0 +1,36 @@
+{
+  "id": "15966831",
+  "fullDetails": {
+    "licenseNumber": "15966831",
+    "name": "CAPER PLUMBING",
+    "address": "#A 4030 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-07T05:30:48.000Z",
+    "expiryDate": "2026-12-06T05:30:48.000Z",
+    "coordinates": [
+      -114.0423967,
+      51.0182913
+    ],
+    "longitude": -114.0423967,
+    "latitude": 51.0182913,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

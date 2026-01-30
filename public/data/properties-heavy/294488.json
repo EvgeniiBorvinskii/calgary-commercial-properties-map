@@ -1,0 +1,36 @@
+{
+  "id": "294488",
+  "fullDetails": {
+    "licenseNumber": "294488",
+    "name": "EXTRA-TECH AUTOMOTIVE",
+    "address": "#5 5622 BURBANK CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-19T00:00:00.000Z",
+    "coordinates": [
+      -114.0464208,
+      51.0059429
+    ],
+    "longitude": -114.0464208,
+    "latitude": 51.0059429,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

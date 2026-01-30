@@ -1,0 +1,37 @@
+{
+  "id": "12216362",
+  "fullDetails": {
+    "licenseNumber": "12216362",
+    "name": "GREEN CEDARS FOOD MART",
+    "address": "#M 4710 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-09-13T05:34:21.000Z",
+    "expiryDate": "2026-09-12T05:34:21.000Z",
+    "coordinates": [
+      -113.9663105,
+      51.0388749
+    ],
+    "longitude": -113.9663105,
+    "latitude": 51.0388749,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

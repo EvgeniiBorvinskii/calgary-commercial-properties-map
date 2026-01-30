@@ -1,0 +1,36 @@
+{
+  "id": "16669475",
+  "fullDetails": {
+    "licenseNumber": "16669475",
+    "name": "SAKURA EYELASH SALON",
+    "address": "#109B 1526 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-09-23T11:18:27.000Z",
+    "expiryDate": "2026-09-22T11:18:27.000Z",
+    "coordinates": [
+      -114.0272202,
+      51.0386333
+    ],
+    "longitude": -114.0272202,
+    "latitude": 51.0386333,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

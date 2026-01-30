@@ -1,0 +1,36 @@
+{
+  "id": "16239162",
+  "fullDetails": {
+    "licenseNumber": "16239162",
+    "name": "REDLEAF MOULDING",
+    "address": "#K 1235 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-11-28T09:18:16.000Z",
+    "expiryDate": "2026-11-27T09:18:16.000Z",
+    "coordinates": [
+      -114.0329475,
+      51.0883177
+    ],
+    "longitude": -114.0329475,
+    "latitude": 51.0883177,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12327516",
+  "fullDetails": {
+    "licenseNumber": "12327516",
+    "name": "BURNT TOAST STUDIO",
+    "address": "#5 215 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-06-12T05:39:45.000Z",
+    "expiryDate": "2026-06-11T05:39:44.000Z",
+    "coordinates": [
+      -114.0584379,
+      51.0847254
+    ],
+    "longitude": -114.0584379,
+    "latitude": 51.0847254,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

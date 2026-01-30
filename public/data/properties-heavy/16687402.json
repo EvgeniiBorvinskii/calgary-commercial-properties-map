@@ -1,0 +1,36 @@
+{
+  "id": "16687402",
+  "fullDetails": {
+    "licenseNumber": "16687402",
+    "name": "KEY WEST HEALTH",
+    "address": "#100 7110 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-15T15:20:26.000Z",
+    "expiryDate": "2026-10-14T15:20:25.000Z",
+    "coordinates": [
+      -114.0634234,
+      50.9908623
+    ],
+    "longitude": -114.0634234,
+    "latitude": 50.9908623,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

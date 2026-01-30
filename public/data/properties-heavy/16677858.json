@@ -1,0 +1,36 @@
+{
+  "id": "16677858",
+  "fullDetails": {
+    "licenseNumber": "16677858",
+    "name": "FLUID DANCE STUDIO",
+    "address": "1204 89 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-03T12:28:07.000Z",
+    "expiryDate": "2026-10-02T12:28:07.000Z",
+    "coordinates": [
+      -114.0877977,
+      50.9747501
+    ],
+    "longitude": -114.0877977,
+    "latitude": 50.9747501,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

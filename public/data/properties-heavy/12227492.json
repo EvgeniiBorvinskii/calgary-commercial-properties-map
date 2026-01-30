@@ -1,0 +1,36 @@
+{
+  "id": "12227492",
+  "fullDetails": {
+    "licenseNumber": "12227492",
+    "name": "BRIDLEWOOD FINE DRY CLEANING",
+    "address": "#219 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2004-08-06T05:34:20.000Z",
+    "expiryDate": "2026-08-05T05:34:20.000Z",
+    "coordinates": [
+      -114.1120278,
+      50.9052965
+    ],
+    "longitude": -114.1120278,
+    "latitude": 50.9052965,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

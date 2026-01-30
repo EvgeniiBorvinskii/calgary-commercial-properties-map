@@ -1,0 +1,36 @@
+{
+  "id": "15966336",
+  "fullDetails": {
+    "licenseNumber": "15966336",
+    "name": "AVIS KABOB HOUSE",
+    "address": "#103 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-10T15:51:35.000Z",
+    "expiryDate": "2026-12-09T15:51:35.000Z",
+    "coordinates": [
+      -113.9492604,
+      50.9135892
+    ],
+    "longitude": -113.9492604,
+    "latitude": 50.9135892,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

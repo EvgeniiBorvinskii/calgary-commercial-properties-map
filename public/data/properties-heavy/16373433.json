@@ -1,0 +1,36 @@
+{
+  "id": "16373433",
+  "fullDetails": {
+    "licenseNumber": "16373433",
+    "name": "PRETTY WYLDE BEAUTY BAR",
+    "address": "#108 10325 BONAVENTURE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-09-07T15:04:00.000Z",
+    "expiryDate": "2026-09-06T15:04:00.000Z",
+    "coordinates": [
+      -114.0695844,
+      50.9603164
+    ],
+    "longitude": -114.0695844,
+    "latitude": 50.9603164,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

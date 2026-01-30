@@ -1,0 +1,36 @@
+{
+  "id": "12608501",
+  "fullDetails": {
+    "licenseNumber": "12608501",
+    "name": "ANGEL'S ROOFING",
+    "address": "3624 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-16T07:27:17.000Z",
+    "expiryDate": "2026-12-15T07:27:17.000Z",
+    "coordinates": [
+      -114.0561788,
+      51.0225162
+    ],
+    "longitude": -114.0561788,
+    "latitude": 51.0225162,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

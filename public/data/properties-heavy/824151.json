@@ -1,0 +1,37 @@
+{
+  "id": "824151",
+  "fullDetails": {
+    "licenseNumber": "824151",
+    "name": "HEARTH FIREPLACES/FIREPLACE DEPOT",
+    "address": "416 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-08T00:00:00.000Z",
+    "coordinates": [
+      -114.0533202,
+      51.0515832
+    ],
+    "longitude": -114.0533202,
+    "latitude": 51.0515832,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

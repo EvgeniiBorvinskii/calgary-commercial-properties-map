@@ -1,0 +1,36 @@
+{
+  "id": "13673991",
+  "fullDetails": {
+    "licenseNumber": "13673991",
+    "name": "CALGARY PET WELLNESS AND SPAY NEUTER CLINIC",
+    "address": "3559 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-01T15:48:32.000Z",
+    "expiryDate": "2026-03-31T15:48:32.000Z",
+    "coordinates": [
+      -113.959142,
+      51.0226847
+    ],
+    "longitude": -113.959142,
+    "latitude": 51.0226847,
+    "community": "ERIN WOODS",
+    "ward": "ERI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16407462",
+  "fullDetails": {
+    "licenseNumber": "16407462",
+    "name": "1900 MARDA GP",
+    "address": "1861 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-08T12:27:23.000Z",
+    "expiryDate": "2026-11-07T12:27:23.000Z",
+    "coordinates": [
+      -114.1032531,
+      51.0376515
+    ],
+    "longitude": -114.1032531,
+    "latitude": 51.0376515,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12508073",
+  "fullDetails": {
+    "licenseNumber": "12508073",
+    "name": "SANDMAN HOTEL & SUITES CALGARY WEST",
+    "address": "125 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2007-08-15T15:55:06.000Z",
+    "expiryDate": "2026-08-14T15:55:06.000Z",
+    "coordinates": [
+      -114.2089433,
+      51.0852789
+    ],
+    "longitude": -114.2089433,
+    "latitude": 51.0852789,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

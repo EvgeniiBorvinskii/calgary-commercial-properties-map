@@ -1,0 +1,36 @@
+{
+  "id": "14296917",
+  "fullDetails": {
+    "licenseNumber": "14296917",
+    "name": "EDO JAPAN",
+    "address": "#110 428 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-10-25T15:26:54.000Z",
+    "expiryDate": "2026-10-24T15:26:54.000Z",
+    "coordinates": [
+      -113.9807906,
+      51.0545675
+    ],
+    "longitude": -113.9807906,
+    "latitude": 51.0545675,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12940581",
+  "fullDetails": {
+    "licenseNumber": "12940581",
+    "name": "JOEY TOMATO'S KITCHEN",
+    "address": "50 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2010-07-20T05:49:29.000Z",
+    "expiryDate": "2026-07-19T05:49:29.000Z",
+    "coordinates": [
+      -114.2024724,
+      51.1247499
+    ],
+    "longitude": -114.2024724,
+    "latitude": 51.1247499,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

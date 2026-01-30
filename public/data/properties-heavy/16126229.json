@@ -1,0 +1,36 @@
+{
+  "id": "16126229",
+  "fullDetails": {
+    "licenseNumber": "16126229",
+    "name": "FLOWER CULTURE",
+    "address": "550A NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-14T07:41:52.000Z",
+    "expiryDate": "2026-02-13T07:41:52.000Z",
+    "coordinates": [
+      -114.0855897,
+      51.0884279
+    ],
+    "longitude": -114.0855897,
+    "latitude": 51.0884279,
+    "community": "CAMBRIAN HEIGHTS",
+    "ward": "CAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

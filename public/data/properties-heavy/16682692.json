@@ -1,0 +1,36 @@
+{
+  "id": "16682692",
+  "fullDetails": {
+    "licenseNumber": "16682692",
+    "name": "ALYSON TAYLOR HAIR",
+    "address": "#1 1002 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-10-02T10:33:03.000Z",
+    "expiryDate": "2026-10-01T10:33:02.000Z",
+    "coordinates": [
+      -114.0547837,
+      51.0607975
+    ],
+    "longitude": -114.0547837,
+    "latitude": 51.0607975,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

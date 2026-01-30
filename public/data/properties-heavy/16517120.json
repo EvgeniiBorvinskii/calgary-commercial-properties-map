@@ -1,0 +1,36 @@
+{
+  "id": "16517120",
+  "fullDetails": {
+    "licenseNumber": "16517120",
+    "name": "CARSTAR CALGARY BLACKFOOT - SHAW",
+    "address": "815 HIGHFIELD AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2025-05-09T14:57:12.000Z",
+    "expiryDate": "2026-05-08T14:57:10.000Z",
+    "coordinates": [
+      -114.0450195,
+      51.0142936
+    ],
+    "longitude": -114.0450195,
+    "latitude": 51.0142936,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

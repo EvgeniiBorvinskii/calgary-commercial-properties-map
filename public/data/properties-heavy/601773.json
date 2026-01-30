@@ -1,0 +1,36 @@
+{
+  "id": "601773",
+  "fullDetails": {
+    "licenseNumber": "601773",
+    "name": "MARATHON FASTENERS AND HARDWARE",
+    "address": "#40 5251 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-08-27T09:14:54.000Z",
+    "expiryDate": "2026-08-26T09:14:54.000Z",
+    "coordinates": [
+      -113.9597289,
+      51.010155
+    ],
+    "longitude": -113.9597289,
+    "latitude": 51.010155,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

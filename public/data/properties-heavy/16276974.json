@@ -1,0 +1,37 @@
+{
+  "id": "16276974",
+  "fullDetails": {
+    "licenseNumber": "16276974",
+    "name": "WINGS FOOD STORE",
+    "address": "#1 735 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-11T08:54:01.000Z",
+    "expiryDate": "2026-07-10T08:54:01.000Z",
+    "coordinates": [
+      -114.1807082,
+      51.1160732
+    ],
+    "longitude": -114.1807082,
+    "latitude": 51.1160732,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

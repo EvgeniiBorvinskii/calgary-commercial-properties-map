@@ -1,0 +1,36 @@
+{
+  "id": "14593412",
+  "fullDetails": {
+    "licenseNumber": "14593412",
+    "name": "ATLAS PAIN & PERFORMANCE CENTRE",
+    "address": "#305 2912 MEMORIAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-04T09:43:46.000Z",
+    "expiryDate": "2026-12-03T09:43:46.000Z",
+    "coordinates": [
+      -113.9912082,
+      51.0500296
+    ],
+    "longitude": -113.9912082,
+    "latitude": 51.0500296,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

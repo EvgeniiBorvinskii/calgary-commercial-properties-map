@@ -1,0 +1,36 @@
+{
+  "id": "16490252",
+  "fullDetails": {
+    "licenseNumber": "16490252",
+    "name": "LEVA SLEEP",
+    "address": "9250 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-26T10:14:51.000Z",
+    "expiryDate": "2026-06-25T10:14:51.000Z",
+    "coordinates": [
+      -114.0702814,
+      50.9706089
+    ],
+    "longitude": -114.0702814,
+    "latitude": 50.9706089,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

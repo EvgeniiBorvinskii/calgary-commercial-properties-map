@@ -1,0 +1,36 @@
+{
+  "id": "193813",
+  "fullDetails": {
+    "licenseNumber": "193813",
+    "name": "CASCADE EQUIPMENT",
+    "address": "5728 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-07-03T11:35:06.000Z",
+    "expiryDate": "2026-07-02T11:35:06.000Z",
+    "coordinates": [
+      -114.0381071,
+      51.1045868
+    ],
+    "longitude": -114.0381071,
+    "latitude": 51.1045868,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

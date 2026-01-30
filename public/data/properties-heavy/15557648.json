@@ -1,0 +1,36 @@
+{
+  "id": "15557648",
+  "fullDetails": {
+    "licenseNumber": "15557648",
+    "name": "IMPERIAL TRUCK & TRAILER REPAIR",
+    "address": "8815 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-02-14T14:17:56.000Z",
+    "expiryDate": "2026-02-13T14:17:56.000Z",
+    "coordinates": [
+      -113.9707106,
+      50.9746225
+    ],
+    "longitude": -113.9707106,
+    "latitude": 50.9746225,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

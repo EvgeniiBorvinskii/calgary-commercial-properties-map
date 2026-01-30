@@ -1,0 +1,37 @@
+{
+  "id": "16188435",
+  "fullDetails": {
+    "licenseNumber": "16188435",
+    "name": "EVANSTON FRESHCO",
+    "address": "#7048 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-07-27T12:28:31.000Z",
+    "expiryDate": "2026-07-26T12:28:31.000Z",
+    "coordinates": [
+      -114.1097018,
+      51.1755372
+    ],
+    "longitude": -114.1097018,
+    "latitude": 51.1755372,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

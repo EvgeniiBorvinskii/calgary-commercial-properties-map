@@ -1,0 +1,36 @@
+{
+  "id": "15949860",
+  "fullDetails": {
+    "licenseNumber": "15949860",
+    "name": "AZALEA NAIL BOUTIQUE",
+    "address": "38 RIVERGLEN DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2020-10-30T11:29:49.000Z",
+    "expiryDate": "2026-10-29T11:29:49.000Z",
+    "coordinates": [
+      -114.0144494,
+      50.9762737
+    ],
+    "longitude": -114.0144494,
+    "latitude": 50.9762737,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

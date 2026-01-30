@@ -1,0 +1,36 @@
+{
+  "id": "13133889",
+  "fullDetails": {
+    "licenseNumber": "13133889",
+    "name": "NEW-LINE PRODUCTS",
+    "address": "6130 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-08-13T05:32:17.000Z",
+    "expiryDate": "2026-08-12T05:32:17.000Z",
+    "coordinates": [
+      -113.9693249,
+      50.9996531
+    ],
+    "longitude": -113.9693249,
+    "latitude": 50.9996531,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

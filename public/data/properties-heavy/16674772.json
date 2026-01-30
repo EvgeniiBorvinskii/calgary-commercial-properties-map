@@ -1,0 +1,37 @@
+{
+  "id": "16674772",
+  "fullDetails": {
+    "licenseNumber": "16674772",
+    "name": "WSPAWELLNESS",
+    "address": "#103 723 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-22T14:35:38.000Z",
+    "expiryDate": "2026-09-21T14:35:37.000Z",
+    "coordinates": [
+      -114.0950508,
+      51.0586428
+    ],
+    "longitude": -114.0950508,
+    "latitude": 51.0586428,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

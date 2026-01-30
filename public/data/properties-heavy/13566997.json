@@ -1,0 +1,36 @@
+{
+  "id": "13566997",
+  "fullDetails": {
+    "licenseNumber": "13566997",
+    "name": "SOUTH HEALTH CAMPUS FOOD SERVICES #63051",
+    "address": "4448 FRONT ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-11-01T09:26:11.000Z",
+    "expiryDate": "2026-10-31T09:26:11.000Z",
+    "coordinates": [
+      -113.952358,
+      50.8817196
+    ],
+    "longitude": -113.952358,
+    "latitude": 50.8817196,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

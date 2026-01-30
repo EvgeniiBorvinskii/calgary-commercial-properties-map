@@ -1,0 +1,36 @@
+{
+  "id": "13871702",
+  "fullDetails": {
+    "licenseNumber": "13871702",
+    "name": "PENSKE TRUCK LEASING CANADA/PENSKE TRUCK RENTALS",
+    "address": "3650 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-11-24T15:18:11.000Z",
+    "expiryDate": "2026-11-23T15:18:11.000Z",
+    "coordinates": [
+      -113.9788769,
+      51.0127198
+    ],
+    "longitude": -113.9788769,
+    "latitude": 51.0127198,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16134066",
+  "fullDetails": {
+    "licenseNumber": "16134066",
+    "name": "CORE PARKADE SERVICES",
+    "address": "#F 7139 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-03-07T10:10:12.000Z",
+    "expiryDate": "2026-03-06T10:10:12.000Z",
+    "coordinates": [
+      -113.9780724,
+      50.991895
+    ],
+    "longitude": -113.9780724,
+    "latitude": 50.991895,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

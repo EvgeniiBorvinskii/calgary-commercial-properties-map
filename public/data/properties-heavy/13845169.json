@@ -1,0 +1,36 @@
+{
+  "id": "13845169",
+  "fullDetails": {
+    "licenseNumber": "13845169",
+    "name": "RADIUS SECURITY",
+    "address": "#14 10672 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2022-11-24T10:13:26.000Z",
+    "expiryDate": "2026-11-23T10:13:26.000Z",
+    "coordinates": [
+      -113.9674773,
+      50.9588392
+    ],
+    "longitude": -113.9674773,
+    "latitude": 50.9588392,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

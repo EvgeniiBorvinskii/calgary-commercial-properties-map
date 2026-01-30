@@ -1,0 +1,36 @@
+{
+  "id": "110882",
+  "fullDetails": {
+    "licenseNumber": "110882",
+    "name": "RINAX COMPUTER SYSTEMS",
+    "address": "#44 4807 32 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-08-18T11:55:38.000Z",
+    "expiryDate": "2026-08-17T11:55:38.000Z",
+    "coordinates": [
+      -113.9879108,
+      51.0106953
+    ],
+    "longitude": -113.9879108,
+    "latitude": 51.0106953,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

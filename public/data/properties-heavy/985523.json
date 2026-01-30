@@ -1,0 +1,37 @@
+{
+  "id": "985523",
+  "fullDetails": {
+    "licenseNumber": "985523",
+    "name": "GOODWILL INDUSTRIES OF ALBERTA",
+    "address": "#136A 4625 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-30T09:03:11.000Z",
+    "coordinates": [
+      -114.1533959,
+      51.0921755
+    ],
+    "longitude": -114.1533959,
+    "latitude": 51.0921755,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12969325",
+  "fullDetails": {
+    "licenseNumber": "12969325",
+    "name": "DUCKTOES COMPUTER SERVICES",
+    "address": "107 12 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-30T10:45:10.000Z",
+    "expiryDate": "2026-05-29T10:45:09.000Z",
+    "coordinates": [
+      -114.0629944,
+      51.0632473
+    ],
+    "longitude": -114.0629944,
+    "latitude": 51.0632473,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

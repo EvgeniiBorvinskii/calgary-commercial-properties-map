@@ -1,0 +1,37 @@
+{
+  "id": "16677254",
+  "fullDetails": {
+    "licenseNumber": "16677254",
+    "name": "ROSSO PEPPER",
+    "address": "436 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-09T13:34:43.000Z",
+    "expiryDate": "2026-10-08T13:34:43.000Z",
+    "coordinates": [
+      -114.0944142,
+      51.0564387
+    ],
+    "longitude": -114.0944142,
+    "latitude": 51.0564387,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

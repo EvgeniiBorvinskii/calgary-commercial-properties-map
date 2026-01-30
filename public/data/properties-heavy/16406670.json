@@ -1,0 +1,36 @@
+{
+  "id": "16406670",
+  "fullDetails": {
+    "licenseNumber": "16406670",
+    "name": "LIQUORANO",
+    "address": "#110 20 COPPERPOND PS SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-07-12T13:22:07.000Z",
+    "expiryDate": "2026-07-11T13:22:06.000Z",
+    "coordinates": [
+      -113.934212,
+      50.9265741
+    ],
+    "longitude": -113.934212,
+    "latitude": 50.9265741,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

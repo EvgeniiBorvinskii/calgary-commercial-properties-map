@@ -1,0 +1,36 @@
+{
+  "id": "14970099",
+  "fullDetails": {
+    "licenseNumber": "14970099",
+    "name": "BOTTOMS UP SCRUBS",
+    "address": "#140 3 MAHOGANY RO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-07T13:15:07.000Z",
+    "expiryDate": "2026-08-06T13:15:07.000Z",
+    "coordinates": [
+      -113.9398971,
+      50.898148
+    ],
+    "longitude": -113.9398971,
+    "latitude": 50.898148,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

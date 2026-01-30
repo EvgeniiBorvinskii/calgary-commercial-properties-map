@@ -1,0 +1,36 @@
+{
+  "id": "12650453",
+  "fullDetails": {
+    "licenseNumber": "12650453",
+    "name": "BAUER FOUNDATIONS CANADA",
+    "address": "#200 251 MIDPARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-04T12:16:05.000Z",
+    "expiryDate": "2026-05-03T12:16:05.000Z",
+    "coordinates": [
+      -114.0629079,
+      50.9111896
+    ],
+    "longitude": -114.0629079,
+    "latitude": 50.9111896,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

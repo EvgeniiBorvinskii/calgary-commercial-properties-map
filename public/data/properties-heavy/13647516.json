@@ -1,0 +1,36 @@
+{
+  "id": "13647516",
+  "fullDetails": {
+    "licenseNumber": "13647516",
+    "name": "DENT SQUAD",
+    "address": "252 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP (MOBILE DENT REPAIR)",
+    "licenseTypes": "AUTO BODY SHOP (MOBILE DENT REPAIR)",
+    "status": "active",
+    "issuedDate": "2013-04-25T17:46:39.000Z",
+    "expiryDate": "2026-04-24T17:46:39.000Z",
+    "coordinates": [
+      -114.0602395,
+      50.9968119
+    ],
+    "longitude": -114.0602395,
+    "latitude": 50.9968119,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

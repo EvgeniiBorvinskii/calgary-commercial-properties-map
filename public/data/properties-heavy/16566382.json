@@ -1,0 +1,36 @@
+{
+  "id": "16566382",
+  "fullDetails": {
+    "licenseNumber": "16566382",
+    "name": "KABOB CITY",
+    "address": "910 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-13T11:34:34.000Z",
+    "expiryDate": "2026-12-12T11:34:34.000Z",
+    "coordinates": [
+      -113.9674609,
+      51.146159
+    ],
+    "longitude": -113.9674609,
+    "latitude": 51.146159,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

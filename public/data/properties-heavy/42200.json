@@ -1,0 +1,36 @@
+{
+  "id": "42200",
+  "fullDetails": {
+    "licenseNumber": "42200",
+    "name": "BONAVISTA DOWNS COMMUNITY ASSOCIATION",
+    "address": "1418 LAKE ONTARIO RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "licenseTypes": "CHARITABLE ORGANIZATION",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0319291,
+      50.9418957
+    ],
+    "longitude": -114.0319291,
+    "latitude": 50.9418957,
+    "community": "BONAVISTA DOWNS",
+    "ward": "BDO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

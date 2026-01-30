@@ -1,0 +1,36 @@
+{
+  "id": "16243479",
+  "fullDetails": {
+    "licenseNumber": "16243479",
+    "name": "BOW TIE PIZZA CGY-1840 (FSFV)",
+    "address": "112 MAHOGANY ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2023-05-08T14:29:29.000Z",
+    "expiryDate": "2026-05-07T14:29:29.000Z",
+    "coordinates": [
+      -113.9397162,
+      50.8968976
+    ],
+    "longitude": -113.9397162,
+    "latitude": 50.8968976,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

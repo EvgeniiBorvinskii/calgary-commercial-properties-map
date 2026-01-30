@@ -1,0 +1,36 @@
+{
+  "id": "12260543",
+  "fullDetails": {
+    "licenseNumber": "12260543",
+    "name": "ABACUS STEEL",
+    "address": "9415 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2010-03-02T16:04:17.000Z",
+    "expiryDate": "2026-03-01T16:04:17.000Z",
+    "coordinates": [
+      -113.9661332,
+      50.9694026
+    ],
+    "longitude": -113.9661332,
+    "latitude": 50.9694026,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

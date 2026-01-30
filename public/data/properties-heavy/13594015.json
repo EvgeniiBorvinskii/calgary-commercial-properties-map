@@ -1,0 +1,36 @@
+{
+  "id": "13594015",
+  "fullDetails": {
+    "licenseNumber": "13594015",
+    "name": "ANZAC SECURITY SERVICES",
+    "address": "#1221 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECURITY CONSULTING AGENCY",
+    "licenseTypes": "SECURITY CONSULTING AGENCY",
+    "status": "active",
+    "issuedDate": "2021-06-21T08:50:25.000Z",
+    "expiryDate": "2026-06-20T08:50:25.000Z",
+    "coordinates": [
+      -113.9798015,
+      51.1512273
+    ],
+    "longitude": -113.9798015,
+    "latitude": 51.1512273,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

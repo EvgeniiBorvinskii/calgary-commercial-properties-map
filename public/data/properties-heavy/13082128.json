@@ -1,0 +1,36 @@
+{
+  "id": "13082128",
+  "fullDetails": {
+    "licenseNumber": "13082128",
+    "name": "A/X ARMANI EXCHANGE #0090",
+    "address": "#1127 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-07-13T11:52:00.000Z",
+    "expiryDate": "2026-07-12T11:52:00.000Z",
+    "coordinates": [
+      -114.0725695,
+      50.999732
+    ],
+    "longitude": -114.0725695,
+    "latitude": 50.999732,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16697476",
+  "fullDetails": {
+    "licenseNumber": "16697476",
+    "name": "FREEDOM MOBILE",
+    "address": "#1233 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-25T15:11:47.000Z",
+    "expiryDate": "2026-11-24T15:11:46.000Z",
+    "coordinates": [
+      -113.9786847,
+      51.0554644
+    ],
+    "longitude": -113.9786847,
+    "latitude": 51.0554644,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

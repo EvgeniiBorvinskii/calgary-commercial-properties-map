@@ -1,0 +1,37 @@
+{
+  "id": "16597270",
+  "fullDetails": {
+    "licenseNumber": "16597270",
+    "name": "FASTENERS AND FITTING DIVISION OF LINDSTROM FASTENERS CANADA",
+    "address": "#105 5630 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-18T14:17:40.000Z",
+    "expiryDate": "2026-03-17T14:17:39.000Z",
+    "coordinates": [
+      -113.9502108,
+      50.9996773
+    ],
+    "longitude": -113.9502108,
+    "latitude": 50.9996773,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

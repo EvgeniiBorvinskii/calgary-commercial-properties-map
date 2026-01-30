@@ -1,0 +1,36 @@
+{
+  "id": "12711719",
+  "fullDetails": {
+    "licenseNumber": "12711719",
+    "name": "HENNESSEY WELDING",
+    "address": "11500 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2012-03-23T05:54:55.000Z",
+    "expiryDate": "2026-03-22T05:54:55.000Z",
+    "coordinates": [
+      -113.866914,
+      50.9514578
+    ],
+    "longitude": -113.866914,
+    "latitude": 50.9514578,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16081010",
+  "fullDetails": {
+    "licenseNumber": "16081010",
+    "name": "SATGUR CONSTRUCTION",
+    "address": "#220 6424 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-02T08:03:11.000Z",
+    "expiryDate": "2026-09-01T08:03:11.000Z",
+    "coordinates": [
+      -113.9806559,
+      51.1101446
+    ],
+    "longitude": -113.9806559,
+    "latitude": 51.1101446,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

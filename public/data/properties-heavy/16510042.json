@@ -1,0 +1,36 @@
+{
+  "id": "16510042",
+  "fullDetails": {
+    "licenseNumber": "16510042",
+    "name": "POINT8 POWER SYSTEMS",
+    "address": "#8 343 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0566507,
+      50.9931093
+    ],
+    "longitude": -114.0566507,
+    "latitude": 50.9931093,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

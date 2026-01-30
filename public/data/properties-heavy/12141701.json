@@ -1,0 +1,36 @@
+{
+  "id": "12141701",
+  "fullDetails": {
+    "licenseNumber": "12141701",
+    "name": "APARTMENT OPERATOR",
+    "address": "309 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2003-07-10T05:35:21.000Z",
+    "expiryDate": "2026-07-09T05:35:21.000Z",
+    "coordinates": [
+      -114.0569767,
+      51.0551765
+    ],
+    "longitude": -114.0569767,
+    "latitude": 51.0551765,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

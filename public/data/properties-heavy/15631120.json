@@ -1,0 +1,37 @@
+{
+  "id": "15631120",
+  "fullDetails": {
+    "licenseNumber": "15631120",
+    "name": "DOLLARAMA",
+    "address": "#1659 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-08-08T09:16:08.000Z",
+    "expiryDate": "2026-08-07T09:16:08.000Z",
+    "coordinates": [
+      -114.0988795,
+      51.0657898
+    ],
+    "longitude": -114.0988795,
+    "latitude": 51.0657898,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

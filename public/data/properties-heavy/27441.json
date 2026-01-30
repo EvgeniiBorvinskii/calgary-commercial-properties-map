@@ -1,0 +1,37 @@
+{
+  "id": "27441",
+  "fullDetails": {
+    "licenseNumber": "27441",
+    "name": "CALGARY LOCK & SAFE / BUDGET LOCK",
+    "address": "1655 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2016-09-28T14:06:19.000Z",
+    "expiryDate": "2026-09-27T14:06:19.000Z",
+    "coordinates": [
+      -114.0206305,
+      51.0809084
+    ],
+    "longitude": -114.0206305,
+    "latitude": 51.0809084,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

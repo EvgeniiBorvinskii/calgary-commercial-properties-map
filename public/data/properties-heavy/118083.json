@@ -1,0 +1,36 @@
+{
+  "id": "118083",
+  "fullDetails": {
+    "licenseNumber": "118083",
+    "name": "BODYTHINGS",
+    "address": "#236 7337 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2020-02-18T15:38:49.000Z",
+    "expiryDate": "2026-02-17T15:38:49.000Z",
+    "coordinates": [
+      -114.0738182,
+      50.989018
+    ],
+    "longitude": -114.0738182,
+    "latitude": 50.989018,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

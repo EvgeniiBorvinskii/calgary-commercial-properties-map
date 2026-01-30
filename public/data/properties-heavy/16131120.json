@@ -1,0 +1,36 @@
+{
+  "id": "16131120",
+  "fullDetails": {
+    "licenseNumber": "16131120",
+    "name": "BACCHUS WINE AND SPIRITS",
+    "address": "2527 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-12-05T15:22:57.000Z",
+    "expiryDate": "2026-12-04T15:22:57.000Z",
+    "coordinates": [
+      -114.1195752,
+      51.0566767
+    ],
+    "longitude": -114.1195752,
+    "latitude": 51.0566767,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

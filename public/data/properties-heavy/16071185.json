@@ -1,0 +1,36 @@
+{
+  "id": "16071185",
+  "fullDetails": {
+    "licenseNumber": "16071185",
+    "name": "OSMOWS SHAWARMA",
+    "address": "4129 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-08-19T11:31:06.000Z",
+    "expiryDate": "2026-08-18T11:31:06.000Z",
+    "coordinates": [
+      -114.1465131,
+      51.0777794
+    ],
+    "longitude": -114.1465131,
+    "latitude": 51.0777794,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

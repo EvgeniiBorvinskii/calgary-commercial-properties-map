@@ -1,0 +1,37 @@
+{
+  "id": "16122582",
+  "fullDetails": {
+    "licenseNumber": "16122582",
+    "name": "ALL THE SMOKE PREMIUM CANNABIS MARKET",
+    "address": "#1 6219 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2022-02-02T09:38:20.000Z",
+    "expiryDate": "2026-02-01T09:38:20.000Z",
+    "coordinates": [
+      -114.0635095,
+      51.1078347
+    ],
+    "longitude": -114.0635095,
+    "latitude": 51.1078347,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

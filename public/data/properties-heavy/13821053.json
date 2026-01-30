@@ -1,0 +1,37 @@
+{
+  "id": "13821053",
+  "fullDetails": {
+    "licenseNumber": "13821053",
+    "name": "STARBELLY",
+    "address": "#220 19489 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2014-11-25T08:31:57.000Z",
+    "expiryDate": "2026-11-24T08:31:57.000Z",
+    "coordinates": [
+      -113.957955,
+      50.8817903
+    ],
+    "longitude": -113.957955,
+    "latitude": 50.8817903,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

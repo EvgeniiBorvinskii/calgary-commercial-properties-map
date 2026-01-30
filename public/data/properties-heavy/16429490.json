@@ -1,0 +1,36 @@
+{
+  "id": "16429490",
+  "fullDetails": {
+    "licenseNumber": "16429490",
+    "name": "ASHU AFRICAN IMPORT EXPORT",
+    "address": "1155B 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-24T11:40:07.000Z",
+    "expiryDate": "2026-10-23T11:40:07.000Z",
+    "coordinates": [
+      -114.0386378,
+      51.0134372
+    ],
+    "longitude": -114.0386378,
+    "latitude": 51.0134372,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

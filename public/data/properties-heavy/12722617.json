@@ -1,0 +1,36 @@
+{
+  "id": "12722617",
+  "fullDetails": {
+    "licenseNumber": "12722617",
+    "name": "SOLEMATES (THE NAOT STORE)",
+    "address": "#120A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-10-09T11:57:39.000Z",
+    "expiryDate": "2026-10-08T11:57:39.000Z",
+    "coordinates": [
+      -114.0982119,
+      50.9743332
+    ],
+    "longitude": -114.0982119,
+    "latitude": 50.9743332,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

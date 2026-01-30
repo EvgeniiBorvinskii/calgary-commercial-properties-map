@@ -1,0 +1,36 @@
+{
+  "id": "12031639",
+  "fullDetails": {
+    "licenseNumber": "12031639",
+    "name": "OPEN DOOR TECHNOLOGY",
+    "address": "#200 7710 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2013-03-06T15:10:59.000Z",
+    "expiryDate": "2026-03-05T15:10:59.000Z",
+    "coordinates": [
+      -114.0490317,
+      50.9850648
+    ],
+    "longitude": -114.0490317,
+    "latitude": 50.9850648,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

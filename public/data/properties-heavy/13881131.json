@@ -1,0 +1,36 @@
+{
+  "id": "13881131",
+  "fullDetails": {
+    "licenseNumber": "13881131",
+    "name": "S & T GROCERY",
+    "address": "#312 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-01-28T07:45:01.000Z",
+    "expiryDate": "2026-01-27T07:45:01.000Z",
+    "coordinates": [
+      -113.974635,
+      51.1071132
+    ],
+    "longitude": -113.974635,
+    "latitude": 51.1071132,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

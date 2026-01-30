@@ -1,0 +1,36 @@
+{
+  "id": "14462907",
+  "fullDetails": {
+    "licenseNumber": "14462907",
+    "name": "MH LIQUOR",
+    "address": "#420 2550 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2017-06-19T11:13:28.000Z",
+    "expiryDate": "2026-06-18T11:13:28.000Z",
+    "coordinates": [
+      -113.9989349,
+      51.1551216
+    ],
+    "longitude": -113.9989349,
+    "latitude": 51.1551216,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

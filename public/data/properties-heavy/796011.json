@@ -1,0 +1,36 @@
+{
+  "id": "796011",
+  "fullDetails": {
+    "licenseNumber": "796011",
+    "name": "WOLSELEY",
+    "address": "5516 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-15T00:00:00.000Z",
+    "coordinates": [
+      -114.0561834,
+      51.0050219
+    ],
+    "longitude": -114.0561834,
+    "latitude": 51.0050219,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

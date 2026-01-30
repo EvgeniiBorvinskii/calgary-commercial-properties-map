@@ -1,0 +1,36 @@
+{
+  "id": "12130696",
+  "fullDetails": {
+    "licenseNumber": "12130696",
+    "name": "SOUND-RITE",
+    "address": "#1 2916 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-11-12T14:39:16.000Z",
+    "expiryDate": "2026-11-11T14:39:16.000Z",
+    "coordinates": [
+      -113.992025,
+      51.0571406
+    ],
+    "longitude": -113.992025,
+    "latitude": 51.0571406,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

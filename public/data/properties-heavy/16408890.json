@@ -1,0 +1,36 @@
+{
+  "id": "16408890",
+  "fullDetails": {
+    "licenseNumber": "16408890",
+    "name": "VANGUARD COMMERCIAL CRATING",
+    "address": "6423 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-12-18T12:41:46.000Z",
+    "expiryDate": "2026-12-17T12:41:46.000Z",
+    "coordinates": [
+      -113.9859641,
+      50.9955206
+    ],
+    "longitude": -113.9859641,
+    "latitude": 50.9955206,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

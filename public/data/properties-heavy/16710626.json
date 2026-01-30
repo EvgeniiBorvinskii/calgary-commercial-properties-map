@@ -1,0 +1,36 @@
+{
+  "id": "16710626",
+  "fullDetails": {
+    "licenseNumber": "16710626",
+    "name": "CRANSTON VETERINARY HOSPITAL",
+    "address": "#4020 356 CRANSTON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2026-01-06T09:10:05.000Z",
+    "expiryDate": "2027-01-05T09:10:05.000Z",
+    "coordinates": [
+      -113.9761856,
+      50.8801276
+    ],
+    "longitude": -113.9761856,
+    "latitude": 50.8801276,
+    "community": "CRANSTON",
+    "ward": "CRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

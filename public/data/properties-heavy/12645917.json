@@ -1,0 +1,37 @@
+{
+  "id": "12645917",
+  "fullDetails": {
+    "licenseNumber": "12645917",
+    "name": "ANDERSON ROAD AREA WELLNESS CLINIC",
+    "address": "#8 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2008-03-10T13:12:41.000Z",
+    "expiryDate": "2026-03-09T13:12:41.000Z",
+    "coordinates": [
+      -114.1158265,
+      50.9533072
+    ],
+    "longitude": -114.1158265,
+    "latitude": 50.9533072,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

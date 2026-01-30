@@ -1,0 +1,36 @@
+{
+  "id": "16164790",
+  "fullDetails": {
+    "licenseNumber": "16164790",
+    "name": "GRACE OF INDIA",
+    "address": "4629 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-12-07T10:36:01.000Z",
+    "expiryDate": "2026-12-06T10:36:00.000Z",
+    "coordinates": [
+      -114.0342369,
+      51.0942458
+    ],
+    "longitude": -114.0342369,
+    "latitude": 51.0942458,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

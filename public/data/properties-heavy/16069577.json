@@ -1,0 +1,36 @@
+{
+  "id": "16069577",
+  "fullDetails": {
+    "licenseNumber": "16069577",
+    "name": "FRESHII 1235",
+    "address": "#630 26 MCKENZIE TOWNE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-23T13:54:15.000Z",
+    "expiryDate": "2026-09-22T13:54:15.000Z",
+    "coordinates": [
+      -113.9619173,
+      50.915634
+    ],
+    "longitude": -113.9619173,
+    "latitude": 50.915634,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

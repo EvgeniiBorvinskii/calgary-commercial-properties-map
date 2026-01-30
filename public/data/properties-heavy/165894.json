@@ -1,0 +1,36 @@
+{
+  "id": "165894",
+  "fullDetails": {
+    "licenseNumber": "165894",
+    "name": "ROSEDALE COMMUNITY",
+    "address": "901 11 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "licenseTypes": "CHARITABLE ORGANIZATION",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0816039,
+      51.0621369
+    ],
+    "longitude": -114.0816039,
+    "latitude": 51.0621369,
+    "community": "ROSEDALE",
+    "ward": "RDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

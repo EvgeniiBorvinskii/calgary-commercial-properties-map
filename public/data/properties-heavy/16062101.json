@@ -1,0 +1,37 @@
+{
+  "id": "16062101",
+  "fullDetails": {
+    "licenseNumber": "16062101",
+    "name": "WILLOW PARK VILLAGE CHIROPRACTIC AND NATURAL HEALTH",
+    "address": "#108 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-31T12:14:21.000Z",
+    "expiryDate": "2026-08-30T12:14:21.000Z",
+    "coordinates": [
+      -114.0696193,
+      50.9575247
+    ],
+    "longitude": -114.0696193,
+    "latitude": 50.9575247,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

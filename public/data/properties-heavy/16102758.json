@@ -1,0 +1,36 @@
+{
+  "id": "16102758",
+  "fullDetails": {
+    "licenseNumber": "16102758",
+    "name": "KONIGTIGER",
+    "address": "#1429 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-01T12:31:51.000Z",
+    "expiryDate": "2026-11-30T12:31:51.000Z",
+    "coordinates": [
+      -113.9789193,
+      51.0564131
+    ],
+    "longitude": -113.9789193,
+    "latitude": 51.0564131,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12275392",
+  "fullDetails": {
+    "licenseNumber": "12275392",
+    "name": "MESSER CANADA",
+    "address": "7905 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-07-03T12:38:03.000Z",
+    "expiryDate": "2026-07-02T12:38:03.000Z",
+    "coordinates": [
+      -113.9607739,
+      50.9820971
+    ],
+    "longitude": -113.9607739,
+    "latitude": 50.9820971,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16646051",
+  "fullDetails": {
+    "licenseNumber": "16646051",
+    "name": "COCOCO CHOCOLATIERS",
+    "address": "#110 5842 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-17T11:57:16.000Z",
+    "expiryDate": "2026-10-16T11:57:16.000Z",
+    "coordinates": [
+      -113.9511317,
+      50.9765804
+    ],
+    "longitude": -113.9511317,
+    "latitude": 50.9765804,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

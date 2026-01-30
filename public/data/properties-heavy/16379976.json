@@ -1,0 +1,36 @@
+{
+  "id": "16379976",
+  "fullDetails": {
+    "licenseNumber": "16379976",
+    "name": "OPA",
+    "address": "#1601AN 2016T AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-19T10:22:48.000Z",
+    "expiryDate": "2026-10-18T10:22:48.000Z",
+    "coordinates": [
+      -114.0037988,
+      51.1297998
+    ],
+    "longitude": -114.0037988,
+    "latitude": 51.1297998,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

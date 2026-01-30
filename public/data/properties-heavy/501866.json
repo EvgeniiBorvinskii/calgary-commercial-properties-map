@@ -1,0 +1,36 @@
+{
+  "id": "501866",
+  "fullDetails": {
+    "licenseNumber": "501866",
+    "name": "LEHIGH HANSON MATERIALS",
+    "address": "2303 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-12-12T05:39:19.000Z",
+    "expiryDate": "2026-12-11T05:39:19.000Z",
+    "coordinates": [
+      -114.0375015,
+      51.0320122
+    ],
+    "longitude": -114.0375015,
+    "latitude": 51.0320122,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

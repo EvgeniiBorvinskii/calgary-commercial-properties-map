@@ -1,0 +1,36 @@
+{
+  "id": "13630082",
+  "fullDetails": {
+    "licenseNumber": "13630082",
+    "name": "SPLIT CONTRACTING SERVICES",
+    "address": "#14 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-03T11:26:25.000Z",
+    "expiryDate": "2026-06-02T11:26:25.000Z",
+    "coordinates": [
+      -114.0371992,
+      51.1040709
+    ],
+    "longitude": -114.0371992,
+    "latitude": 51.1040709,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

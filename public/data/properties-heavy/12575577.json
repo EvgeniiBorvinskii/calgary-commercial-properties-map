@@ -1,0 +1,36 @@
+{
+  "id": "12575577",
+  "fullDetails": {
+    "licenseNumber": "12575577",
+    "name": "PULSE DIRECTIONAL TECHNOLOGIES",
+    "address": "7004R 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-11-04T11:45:14.000Z",
+    "expiryDate": "2026-11-03T11:45:14.000Z",
+    "coordinates": [
+      -114.0495856,
+      50.992957
+    ],
+    "longitude": -114.0495856,
+    "latitude": 50.992957,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

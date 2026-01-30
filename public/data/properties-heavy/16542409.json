@@ -1,0 +1,36 @@
+{
+  "id": "16542409",
+  "fullDetails": {
+    "licenseNumber": "16542409",
+    "name": "SPECSAVERS SHAWNESSY",
+    "address": "#104 250 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-02T15:23:48.000Z",
+    "expiryDate": "2026-10-01T15:23:48.000Z",
+    "coordinates": [
+      -114.063382,
+      50.9025788
+    ],
+    "longitude": -114.063382,
+    "latitude": 50.9025788,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

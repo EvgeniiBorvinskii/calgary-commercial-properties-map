@@ -1,0 +1,36 @@
+{
+  "id": "12326492",
+  "fullDetails": {
+    "licenseNumber": "12326492",
+    "name": "CHARM DRY CLEANERS",
+    "address": "3907 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2004-11-10T09:05:09.000Z",
+    "expiryDate": "2026-11-09T09:05:09.000Z",
+    "coordinates": [
+      -114.1434046,
+      51.0368839
+    ],
+    "longitude": -114.1434046,
+    "latitude": 51.0368839,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

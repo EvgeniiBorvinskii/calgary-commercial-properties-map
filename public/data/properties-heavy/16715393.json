@@ -1,0 +1,36 @@
+{
+  "id": "16715393",
+  "fullDetails": {
+    "licenseNumber": "16715393",
+    "name": "NOVA VET",
+    "address": "3905 MARKET ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-23T14:03:00.000Z",
+    "expiryDate": "2026-12-22T14:02:59.000Z",
+    "coordinates": [
+      -113.9534049,
+      50.8793834
+    ],
+    "longitude": -113.9534049,
+    "latitude": 50.8793834,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

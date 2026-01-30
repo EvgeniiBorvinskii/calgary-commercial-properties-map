@@ -1,0 +1,36 @@
+{
+  "id": "16531808",
+  "fullDetails": {
+    "licenseNumber": "16531808",
+    "name": "BOLT WIRELESS",
+    "address": "42 SAGE HILL PS NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-21T16:28:43.000Z",
+    "expiryDate": "2026-11-20T16:28:41.000Z",
+    "coordinates": [
+      -114.1465637,
+      51.1695968
+    ],
+    "longitude": -114.1465637,
+    "latitude": 51.1695968,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

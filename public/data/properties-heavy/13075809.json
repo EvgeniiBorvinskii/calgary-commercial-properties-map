@@ -1,0 +1,36 @@
+{
+  "id": "13075809",
+  "fullDetails": {
+    "licenseNumber": "13075809",
+    "name": "LT EARTH SERVICES",
+    "address": "#120 280 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-02-15T09:16:20.000Z",
+    "expiryDate": "2027-02-14T09:16:20.000Z",
+    "coordinates": [
+      -113.9030386,
+      50.9628876
+    ],
+    "longitude": -113.9030386,
+    "latitude": 50.9628876,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

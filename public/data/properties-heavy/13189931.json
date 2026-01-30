@@ -1,0 +1,36 @@
+{
+  "id": "13189931",
+  "fullDetails": {
+    "licenseNumber": "13189931",
+    "name": "PURE HOT YOGA",
+    "address": "#251 30 SPRINGBOROUGH BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2011-12-09T09:14:55.000Z",
+    "expiryDate": "2026-12-08T09:14:55.000Z",
+    "coordinates": [
+      -114.1920587,
+      51.0343679
+    ],
+    "longitude": -114.1920587,
+    "latitude": 51.0343679,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

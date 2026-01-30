@@ -1,0 +1,36 @@
+{
+  "id": "16573214",
+  "fullDetails": {
+    "licenseNumber": "16573214",
+    "name": "FIT PAWS VETERINARY SERVICES",
+    "address": "#101 8408 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-13T11:41:26.000Z",
+    "expiryDate": "2027-01-12T11:41:25.000Z",
+    "coordinates": [
+      -114.0826014,
+      50.9793334
+    ],
+    "longitude": -114.0826014,
+    "latitude": 50.9793334,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

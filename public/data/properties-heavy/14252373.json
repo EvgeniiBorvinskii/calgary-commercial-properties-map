@@ -1,0 +1,36 @@
+{
+  "id": "14252373",
+  "fullDetails": {
+    "licenseNumber": "14252373",
+    "name": "BEER WORX",
+    "address": "#6 1259 HIGHFIELD CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-06-22T17:47:54.000Z",
+    "expiryDate": "2026-06-21T17:47:54.000Z",
+    "coordinates": [
+      -114.0360671,
+      51.0109104
+    ],
+    "longitude": -114.0360671,
+    "latitude": 51.0109104,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16060386",
+  "fullDetails": {
+    "licenseNumber": "16060386",
+    "name": "CDI COLLEGE CALGARY SOUTH",
+    "address": "#12 6624 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2022-08-23T08:27:08.000Z",
+    "expiryDate": "2026-08-22T08:27:08.000Z",
+    "coordinates": [
+      -114.0621093,
+      50.9951077
+    ],
+    "longitude": -114.0621093,
+    "latitude": 50.9951077,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

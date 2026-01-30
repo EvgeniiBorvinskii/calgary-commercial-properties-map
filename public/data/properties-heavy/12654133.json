@@ -1,0 +1,37 @@
+{
+  "id": "12654133",
+  "fullDetails": {
+    "licenseNumber": "12654133",
+    "name": "PHO DAU BO",
+    "address": "#110 4909 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2008-04-01T11:23:44.000Z",
+    "expiryDate": "2026-03-31T11:23:44.000Z",
+    "coordinates": [
+      -113.9635215,
+      51.0374279
+    ],
+    "longitude": -113.9635215,
+    "latitude": 51.0374279,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

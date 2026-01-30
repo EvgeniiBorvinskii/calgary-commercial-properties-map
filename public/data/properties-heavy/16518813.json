@@ -1,0 +1,36 @@
+{
+  "id": "16518813",
+  "fullDetails": {
+    "licenseNumber": "16518813",
+    "name": "SUNTEA",
+    "address": "#120 10 BRENTWOOD CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-08T12:58:29.000Z",
+    "expiryDate": "2026-08-07T12:58:29.000Z",
+    "coordinates": [
+      -114.1285142,
+      51.0869301
+    ],
+    "longitude": -114.1285142,
+    "latitude": 51.0869301,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

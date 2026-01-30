@@ -1,0 +1,36 @@
+{
+  "id": "12389334",
+  "fullDetails": {
+    "licenseNumber": "12389334",
+    "name": "BMP MECHANICAL",
+    "address": "#110 6420 6A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-12-29T05:30:28.000Z",
+    "expiryDate": "2026-12-28T05:30:28.000Z",
+    "coordinates": [
+      -114.0486295,
+      50.9975447
+    ],
+    "longitude": -114.0486295,
+    "latitude": 50.9975447,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

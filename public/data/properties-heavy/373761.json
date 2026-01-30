@@ -1,0 +1,37 @@
+{
+  "id": "373761",
+  "fullDetails": {
+    "licenseNumber": "373761",
+    "name": "COSTUME SHOPPE (THE)",
+    "address": "4307 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-02-23T09:59:42.000Z",
+    "expiryDate": "2026-02-22T09:59:42.000Z",
+    "coordinates": [
+      -114.0494021,
+      51.0156165
+    ],
+    "longitude": -114.0494021,
+    "latitude": 51.0156165,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

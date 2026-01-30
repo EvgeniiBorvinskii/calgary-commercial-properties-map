@@ -1,0 +1,37 @@
+{
+  "id": "983973",
+  "fullDetails": {
+    "licenseNumber": "983973",
+    "name": "FAMOUS PLAYERS PARAMOUNT CHINOOK",
+    "address": "#4Y 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "CINEMA,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nCINEMA,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-11T05:33:50.000Z",
+    "coordinates": [
+      -114.0743133,
+      50.9955328
+    ],
+    "longitude": -114.0743133,
+    "latitude": 50.9955328,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12800892",
+  "fullDetails": {
+    "licenseNumber": "12800892",
+    "name": "PET PLANET",
+    "address": "#840 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-20T07:48:42.000Z",
+    "expiryDate": "2026-10-19T07:48:41.000Z",
+    "coordinates": [
+      -114.1985376,
+      51.1252084
+    ],
+    "longitude": -114.1985376,
+    "latitude": 51.1252084,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

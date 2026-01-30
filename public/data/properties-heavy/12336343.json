@@ -1,0 +1,36 @@
+{
+  "id": "12336343",
+  "fullDetails": {
+    "licenseNumber": "12336343",
+    "name": "REVOLVE FURNISHINGS",
+    "address": "#8 7070 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-08-16T05:29:15.000Z",
+    "expiryDate": "2026-08-15T05:29:15.000Z",
+    "coordinates": [
+      -114.0390487,
+      50.9906777
+    ],
+    "longitude": -114.0390487,
+    "latitude": 50.9906777,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

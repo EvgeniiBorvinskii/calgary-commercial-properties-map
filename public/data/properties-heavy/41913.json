@@ -1,0 +1,36 @@
+{
+  "id": "41913",
+  "fullDetails": {
+    "licenseNumber": "41913",
+    "name": "ENGINEERED AIR",
+    "address": "#14 6324 10 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2004-02-04T05:35:46.000Z",
+    "expiryDate": "2026-02-03T05:35:46.000Z",
+    "coordinates": [
+      -114.0401148,
+      50.9968065
+    ],
+    "longitude": -114.0401148,
+    "latitude": 50.9968065,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16318354",
+  "fullDetails": {
+    "licenseNumber": "16318354",
+    "name": "ABLO LEGACY",
+    "address": "#240 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-05-03T16:15:55.000Z",
+    "expiryDate": "2026-05-02T16:15:55.000Z",
+    "coordinates": [
+      -114.0250494,
+      50.8612068
+    ],
+    "longitude": -114.0250494,
+    "latitude": 50.8612068,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

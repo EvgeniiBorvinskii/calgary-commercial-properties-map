@@ -1,0 +1,36 @@
+{
+  "id": "12132536",
+  "fullDetails": {
+    "licenseNumber": "12132536",
+    "name": "GRAND WEST ELECTRIC",
+    "address": "2408 91 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-08-14T05:32:48.000Z",
+    "expiryDate": "2026-08-13T05:32:48.000Z",
+    "coordinates": [
+      -114.0034721,
+      50.9720071
+    ],
+    "longitude": -114.0034721,
+    "latitude": 50.9720071,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

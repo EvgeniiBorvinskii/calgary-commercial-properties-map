@@ -1,0 +1,36 @@
+{
+  "id": "111856",
+  "fullDetails": {
+    "licenseNumber": "111856",
+    "name": "A-ASTRO PLUMBING & GASFITTING",
+    "address": "#117 1919 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2004-02-06T05:35:35.000Z",
+    "expiryDate": "2026-02-05T05:35:35.000Z",
+    "coordinates": [
+      -114.013532,
+      51.0763906
+    ],
+    "longitude": -114.013532,
+    "latitude": 51.0763906,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

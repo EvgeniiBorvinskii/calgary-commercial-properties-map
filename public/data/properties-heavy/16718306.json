@@ -1,0 +1,36 @@
+{
+  "id": "16718306",
+  "fullDetails": {
+    "licenseNumber": "16718306",
+    "name": "YANA MAY TATTOO",
+    "address": "#208 40 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2026-01-09T11:14:05.000Z",
+    "expiryDate": "2027-01-08T11:14:04.000Z",
+    "coordinates": [
+      -114.0571085,
+      50.901958
+    ],
+    "longitude": -114.0571085,
+    "latitude": 50.901958,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

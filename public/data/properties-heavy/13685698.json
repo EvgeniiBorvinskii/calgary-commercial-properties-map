@@ -1,0 +1,36 @@
+{
+  "id": "13685698",
+  "fullDetails": {
+    "licenseNumber": "13685698",
+    "name": "CARTER'S OSHKOSH #3458",
+    "address": "#2 4777 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-07-16T15:24:37.000Z",
+    "expiryDate": "2026-07-15T15:24:37.000Z",
+    "coordinates": [
+      -113.965619,
+      50.9316351
+    ],
+    "longitude": -113.965619,
+    "latitude": 50.9316351,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16464075",
+  "fullDetails": {
+    "licenseNumber": "16464075",
+    "name": "COUNTRYHILLS AUTO",
+    "address": "180 GEORGE CRAIG BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-07T14:39:34.000Z",
+    "expiryDate": "2026-05-06T14:39:34.000Z",
+    "coordinates": [
+      -114.0145354,
+      51.0963322
+    ],
+    "longitude": -114.0145354,
+    "latitude": 51.0963322,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

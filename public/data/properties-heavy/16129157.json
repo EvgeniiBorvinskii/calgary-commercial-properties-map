@@ -1,0 +1,36 @@
+{
+  "id": "16129157",
+  "fullDetails": {
+    "licenseNumber": "16129157",
+    "name": "GREEN CHILI",
+    "address": "#450 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-02-07T17:28:02.000Z",
+    "expiryDate": "2026-02-06T17:28:02.000Z",
+    "coordinates": [
+      -114.1852365,
+      51.0483731
+    ],
+    "longitude": -114.1852365,
+    "latitude": 51.0483731,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

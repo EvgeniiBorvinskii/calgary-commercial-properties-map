@@ -1,0 +1,37 @@
+{
+  "id": "13872387",
+  "fullDetails": {
+    "licenseNumber": "13872387",
+    "name": "CALGARY FARMER'S MARKET",
+    "address": "#2 510 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "MARKET,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2014-09-04T07:54:22.000Z",
+    "expiryDate": "2026-09-03T07:54:22.000Z",
+    "coordinates": [
+      -114.0514806,
+      50.9851526
+    ],
+    "longitude": -114.0514806,
+    "latitude": 50.9851526,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

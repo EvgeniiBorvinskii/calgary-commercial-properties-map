@@ -1,0 +1,36 @@
+{
+  "id": "616367",
+  "fullDetails": {
+    "licenseNumber": "616367",
+    "name": "HEARINGLIFE CANADA",
+    "address": "#206 2004 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-08-15T05:32:33.000Z",
+    "expiryDate": "2026-08-14T05:32:33.000Z",
+    "coordinates": [
+      -114.09392,
+      51.0698678
+    ],
+    "longitude": -114.09392,
+    "latitude": 51.0698678,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

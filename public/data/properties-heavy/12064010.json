@@ -1,0 +1,36 @@
+{
+  "id": "12064010",
+  "fullDetails": {
+    "licenseNumber": "12064010",
+    "name": "BELL",
+    "address": "#274 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-18T10:59:12.000Z",
+    "expiryDate": "2026-03-17T10:59:12.000Z",
+    "coordinates": [
+      -113.9856554,
+      51.0734455
+    ],
+    "longitude": -113.9856554,
+    "latitude": 51.0734455,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

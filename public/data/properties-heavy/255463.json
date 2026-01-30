@@ -1,0 +1,36 @@
+{
+  "id": "255463",
+  "fullDetails": {
+    "licenseNumber": "255463",
+    "name": "STREET CHARACTERS",
+    "address": "#2 2828 18 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-28T05:31:23.000Z",
+    "coordinates": [
+      -114.0137667,
+      51.0777466
+    ],
+    "longitude": -114.0137667,
+    "latitude": 51.0777466,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

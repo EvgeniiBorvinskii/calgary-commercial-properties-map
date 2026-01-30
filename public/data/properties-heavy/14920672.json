@@ -1,0 +1,36 @@
+{
+  "id": "14920672",
+  "fullDetails": {
+    "licenseNumber": "14920672",
+    "name": "CLI COLLEGE OF BUSINESS HEALTH AND TECHNOLOGY",
+    "address": "#630 2710 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "pending",
+    "issuedDate": "2023-03-08T12:10:57.000Z",
+    "expiryDate": "2026-03-07T12:10:57.000Z",
+    "coordinates": [
+      -113.9972399,
+      51.038002
+    ],
+    "longitude": -113.9972399,
+    "latitude": 51.038002,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

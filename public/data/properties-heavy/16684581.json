@@ -1,0 +1,36 @@
+{
+  "id": "16684581",
+  "fullDetails": {
+    "licenseNumber": "16684581",
+    "name": "SILVERADO STATION 1000",
+    "address": "#1000 388 SILVERTON GLEN GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2026-01-07T13:41:25.000Z",
+    "expiryDate": "2027-01-06T13:41:25.000Z",
+    "coordinates": [
+      -114.0598546,
+      50.878343
+    ],
+    "longitude": -114.0598546,
+    "latitude": 50.878343,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

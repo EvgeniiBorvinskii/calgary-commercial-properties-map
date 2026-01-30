@@ -1,0 +1,36 @@
+{
+  "id": "14463939",
+  "fullDetails": {
+    "licenseNumber": "14463939",
+    "name": "URBAN COURIER",
+    "address": "#116 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2017-08-30T09:05:44.000Z",
+    "expiryDate": "2026-08-29T09:05:44.000Z",
+    "coordinates": [
+      -113.9915208,
+      51.0135664
+    ],
+    "longitude": -113.9915208,
+    "latitude": 51.0135664,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

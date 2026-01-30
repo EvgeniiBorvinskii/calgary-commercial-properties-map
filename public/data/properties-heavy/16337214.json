@@ -1,0 +1,37 @@
+{
+  "id": "16337214",
+  "fullDetails": {
+    "licenseNumber": "16337214",
+    "name": "MUNCHIES AND LUNCHIES",
+    "address": "3319 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-12T12:31:53.000Z",
+    "expiryDate": "2026-07-11T12:31:53.000Z",
+    "coordinates": [
+      -113.9868855,
+      51.0366664
+    ],
+    "longitude": -113.9868855,
+    "latitude": 51.0366664,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

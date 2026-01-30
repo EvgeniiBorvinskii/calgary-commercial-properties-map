@@ -1,0 +1,36 @@
+{
+  "id": "13844964",
+  "fullDetails": {
+    "licenseNumber": "13844964",
+    "name": "POWERHOUSE DATA CENTRE GROUP",
+    "address": "3320 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2017-03-15T09:19:29.000Z",
+    "expiryDate": "2026-03-14T09:19:29.000Z",
+    "coordinates": [
+      -114.0431286,
+      51.0244896
+    ],
+    "longitude": -114.0431286,
+    "latitude": 51.0244896,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

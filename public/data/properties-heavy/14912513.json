@@ -1,0 +1,37 @@
+{
+  "id": "14912513",
+  "fullDetails": {
+    "licenseNumber": "14912513",
+    "name": "VALUE BUDS AT DEERFOOT CITY",
+    "address": "#5150 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-12-10T14:40:17.000Z",
+    "expiryDate": "2026-12-09T14:40:17.000Z",
+    "coordinates": [
+      -114.0420537,
+      51.1075502
+    ],
+    "longitude": -114.0420537,
+    "latitude": 51.1075502,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15977937",
+  "fullDetails": {
+    "licenseNumber": "15977937",
+    "name": "TKEQ THE SHOP",
+    "address": "#4 6115 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-02-10T11:50:16.000Z",
+    "expiryDate": "2027-02-09T11:50:16.000Z",
+    "coordinates": [
+      -114.0577332,
+      50.9983433
+    ],
+    "longitude": -114.0577332,
+    "latitude": 50.9983433,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15637861",
+  "fullDetails": {
+    "licenseNumber": "15637861",
+    "name": "LIL EMPIRE",
+    "address": "4323 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-08-22T07:25:20.000Z",
+    "expiryDate": "2026-08-21T07:25:20.000Z",
+    "coordinates": [
+      -114.062222,
+      51.0149562
+    ],
+    "longitude": -114.062222,
+    "latitude": 51.0149562,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

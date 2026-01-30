@@ -1,0 +1,36 @@
+{
+  "id": "16174138",
+  "fullDetails": {
+    "licenseNumber": "16174138",
+    "name": "MASTER BLADE BARBERSHOP",
+    "address": "#105 9825 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-06-30T13:53:15.000Z",
+    "expiryDate": "2026-06-29T13:53:15.000Z",
+    "coordinates": [
+      -114.0592497,
+      50.964711
+    ],
+    "longitude": -114.0592497,
+    "latitude": 50.964711,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

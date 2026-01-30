@@ -1,0 +1,37 @@
+{
+  "id": "16358186",
+  "fullDetails": {
+    "licenseNumber": "16358186",
+    "name": "GLOW UP LAB",
+    "address": "#1110 40 CHRISTIE PARK VW SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-26T15:28:22.000Z",
+    "expiryDate": "2026-10-25T15:28:22.000Z",
+    "coordinates": [
+      -114.1766871,
+      51.0376741
+    ],
+    "longitude": -114.1766871,
+    "latitude": 51.0376741,
+    "community": "CHRISTIE PARK",
+    "ward": "CHR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

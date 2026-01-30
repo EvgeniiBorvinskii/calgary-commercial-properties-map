@@ -1,0 +1,37 @@
+{
+  "id": "16602955",
+  "fullDetails": {
+    "licenseNumber": "16602955",
+    "name": "A AND Z AUTOBODY COLLISION REPAIR",
+    "address": "#1 700 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-05-05T15:18:19.000Z",
+    "expiryDate": "2026-05-04T15:18:18.000Z",
+    "coordinates": [
+      -113.9853711,
+      51.0577915
+    ],
+    "longitude": -113.9853711,
+    "latitude": 51.0577915,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12332979",
+  "fullDetails": {
+    "licenseNumber": "12332979",
+    "name": "WILO CANADA",
+    "address": "#8 925 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-12-17T10:39:20.000Z",
+    "expiryDate": "2026-12-16T10:39:20.000Z",
+    "coordinates": [
+      -113.9900888,
+      51.0605438
+    ],
+    "longitude": -113.9900888,
+    "latitude": 51.0605438,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

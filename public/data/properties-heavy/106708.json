@@ -1,0 +1,37 @@
+{
+  "id": "106708",
+  "fullDetails": {
+    "licenseNumber": "106708",
+    "name": "MOUNTAIN VIEW CEMETERY & FUNERAL HOME",
+    "address": "1515 100 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2009-04-01T06:28:13.000Z",
+    "expiryDate": "2026-03-31T06:28:13.000Z",
+    "coordinates": [
+      -113.8933859,
+      51.0390499
+    ],
+    "longitude": -113.8933859,
+    "latitude": 51.0390499,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

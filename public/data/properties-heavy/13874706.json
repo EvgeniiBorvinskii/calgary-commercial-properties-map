@@ -1,0 +1,36 @@
+{
+  "id": "13874706",
+  "fullDetails": {
+    "licenseNumber": "13874706",
+    "name": "SOFT-MOC",
+    "address": "#R49 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-11-28T08:01:20.000Z",
+    "expiryDate": "2026-11-27T08:01:20.000Z",
+    "coordinates": [
+      -114.1550804,
+      51.0838896
+    ],
+    "longitude": -114.1550804,
+    "latitude": 51.0838896,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

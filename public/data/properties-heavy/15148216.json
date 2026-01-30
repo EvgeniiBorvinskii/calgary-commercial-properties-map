@@ -1,0 +1,37 @@
+{
+  "id": "15148216",
+  "fullDetails": {
+    "licenseNumber": "15148216",
+    "name": "SHIMIZU KITCHEN",
+    "address": "1918 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-12-14T08:12:47.000Z",
+    "expiryDate": "2026-12-13T08:12:47.000Z",
+    "coordinates": [
+      -114.1407719,
+      51.0371427
+    ],
+    "longitude": -114.1407719,
+    "latitude": 51.0371427,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

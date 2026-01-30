@@ -1,0 +1,37 @@
+{
+  "id": "13941166",
+  "fullDetails": {
+    "licenseNumber": "13941166",
+    "name": "CHOICE OFFICE FURNITURE",
+    "address": "5731 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-11-27T14:43:31.000Z",
+    "expiryDate": "2026-11-26T14:43:31.000Z",
+    "coordinates": [
+      -114.046046,
+      51.0032074
+    ],
+    "longitude": -114.046046,
+    "latitude": 51.0032074,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16576225",
+  "fullDetails": {
+    "licenseNumber": "16576225",
+    "name": "HOMESPACE SOCIETY",
+    "address": "117 12 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-01-24T08:00:51.000Z",
+    "expiryDate": "2027-01-23T08:00:50.000Z",
+    "coordinates": [
+      -114.0637968,
+      51.0631464
+    ],
+    "longitude": -114.0637968,
+    "latitude": 51.0631464,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

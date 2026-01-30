@@ -1,0 +1,37 @@
+{
+  "id": "14895734",
+  "fullDetails": {
+    "licenseNumber": "14895734",
+    "name": "ERA MASSAGE & BEAUTY",
+    "address": "#102 9705B HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-06-20T05:34:43.000Z",
+    "expiryDate": "2026-06-19T05:34:43.000Z",
+    "coordinates": [
+      -114.0753959,
+      50.9676837
+    ],
+    "longitude": -114.0753959,
+    "latitude": 50.9676837,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

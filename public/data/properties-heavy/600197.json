@@ -1,0 +1,36 @@
+{
+  "id": "600197",
+  "fullDetails": {
+    "licenseNumber": "600197",
+    "name": "METROVINO",
+    "address": "#B 722 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-02T00:00:00.000Z",
+    "coordinates": [
+      -114.0778793,
+      51.0430413
+    ],
+    "longitude": -114.0778793,
+    "latitude": 51.0430413,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

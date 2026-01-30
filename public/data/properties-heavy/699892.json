@@ -1,0 +1,36 @@
+{
+  "id": "699892",
+  "fullDetails": {
+    "licenseNumber": "699892",
+    "name": "4 PAWS GROOMING",
+    "address": "#125 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-27T00:00:00.000Z",
+    "coordinates": [
+      -114.1972615,
+      51.1228579
+    ],
+    "longitude": -114.1972615,
+    "latitude": 51.1228579,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16273153",
+  "fullDetails": {
+    "licenseNumber": "16273153",
+    "name": "DIVVI SALON",
+    "address": "2116 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-06-23T13:37:09.000Z",
+    "expiryDate": "2026-06-22T13:37:08.000Z",
+    "coordinates": [
+      -114.0944881,
+      51.0711767
+    ],
+    "longitude": -114.0944881,
+    "latitude": 51.0711767,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

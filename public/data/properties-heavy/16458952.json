@@ -1,0 +1,36 @@
+{
+  "id": "16458952",
+  "fullDetails": {
+    "licenseNumber": "16458952",
+    "name": "GLENMORE GARDENS - 2127",
+    "address": "2127 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-09-04T10:19:46.000Z",
+    "expiryDate": "2026-09-03T10:19:45.000Z",
+    "coordinates": [
+      -114.1094989,
+      50.971851
+    ],
+    "longitude": -114.1094989,
+    "latitude": 50.971851,
+    "community": "PALLISER",
+    "ward": "PAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

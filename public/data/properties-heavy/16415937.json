@@ -1,0 +1,36 @@
+{
+  "id": "16415937",
+  "fullDetails": {
+    "licenseNumber": "16415937",
+    "name": "WESBELL TECHNOLOGIES WEST",
+    "address": "2820 37 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-18T15:39:33.000Z",
+    "expiryDate": "2026-09-17T15:39:32.000Z",
+    "coordinates": [
+      -113.9941371,
+      51.0872633
+    ],
+    "longitude": -113.9941371,
+    "latitude": 51.0872633,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

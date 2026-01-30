@@ -1,0 +1,36 @@
+{
+  "id": "16631947",
+  "fullDetails": {
+    "licenseNumber": "16631947",
+    "name": "PUNJAB DRIVING ACADEMY AND GLOBE DRIVING ACADEMY",
+    "address": "#530 669 SAVANNA BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2025-08-19T14:05:08.000Z",
+    "expiryDate": "2026-08-18T14:05:07.000Z",
+    "coordinates": [
+      -113.9507341,
+      51.1339015
+    ],
+    "longitude": -113.9507341,
+    "latitude": 51.1339015,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

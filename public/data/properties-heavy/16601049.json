@@ -1,0 +1,36 @@
+{
+  "id": "16601049",
+  "fullDetails": {
+    "licenseNumber": "16601049",
+    "name": "CALGARY WING CHUN - MARTIAL ARTS ACADEMY",
+    "address": "69 NOLANFIELD MR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-10-16T13:49:19.000Z",
+    "expiryDate": "2026-10-15T13:49:18.000Z",
+    "coordinates": [
+      -114.1607482,
+      51.1759139
+    ],
+    "longitude": -114.1607482,
+    "latitude": 51.1759139,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

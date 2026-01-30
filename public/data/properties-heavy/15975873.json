@@ -1,0 +1,36 @@
+{
+  "id": "15975873",
+  "fullDetails": {
+    "licenseNumber": "15975873",
+    "name": "M&H APARTMENT",
+    "address": "305 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2021-02-22T13:15:26.000Z",
+    "expiryDate": "2027-02-21T13:15:25.000Z",
+    "coordinates": [
+      -114.0573235,
+      51.0649057
+    ],
+    "longitude": -114.0573235,
+    "latitude": 51.0649057,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

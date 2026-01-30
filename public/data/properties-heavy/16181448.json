@@ -1,0 +1,36 @@
+{
+  "id": "16181448",
+  "fullDetails": {
+    "licenseNumber": "16181448",
+    "name": "EZEE DECK AND RAIL",
+    "address": "#1145 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-01T08:01:01.000Z",
+    "expiryDate": "2026-11-30T08:01:00.000Z",
+    "coordinates": [
+      -113.9805735,
+      51.1107804
+    ],
+    "longitude": -113.9805735,
+    "latitude": 51.1107804,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

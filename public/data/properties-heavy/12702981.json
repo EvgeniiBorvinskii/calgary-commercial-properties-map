@@ -1,0 +1,36 @@
+{
+  "id": "12702981",
+  "fullDetails": {
+    "licenseNumber": "12702981",
+    "name": "VADEL",
+    "address": "4209 BRANDON ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-10-22T10:07:54.000Z",
+    "expiryDate": "2026-10-21T10:07:54.000Z",
+    "coordinates": [
+      -114.0560349,
+      51.0171668
+    ],
+    "longitude": -114.0560349,
+    "latitude": 51.0171668,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

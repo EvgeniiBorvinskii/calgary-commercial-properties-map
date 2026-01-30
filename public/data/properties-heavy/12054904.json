@@ -1,0 +1,36 @@
+{
+  "id": "12054904",
+  "fullDetails": {
+    "licenseNumber": "12054904",
+    "name": "XSENSOR TECHNOLOGY",
+    "address": "133 12 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-01-23T05:35:52.000Z",
+    "expiryDate": "2027-01-22T05:35:52.000Z",
+    "coordinates": [
+      -114.0617452,
+      51.0411368
+    ],
+    "longitude": -114.0617452,
+    "latitude": 51.0411368,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

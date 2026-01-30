@@ -1,0 +1,36 @@
+{
+  "id": "16553356",
+  "fullDetails": {
+    "licenseNumber": "16553356",
+    "name": "GARABANZO'S CHICKPEAS",
+    "address": "#200K 401 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-20T13:15:03.000Z",
+    "expiryDate": "2026-03-19T13:15:03.000Z",
+    "coordinates": [
+      -114.0697462,
+      51.044433
+    ],
+    "longitude": -114.0697462,
+    "latitude": 51.044433,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

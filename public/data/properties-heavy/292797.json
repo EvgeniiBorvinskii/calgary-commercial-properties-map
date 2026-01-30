@@ -1,0 +1,36 @@
+{
+  "id": "292797",
+  "fullDetails": {
+    "licenseNumber": "292797",
+    "name": "PROCESS COLOR PRINT",
+    "address": "7007 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-28T00:00:00.000Z",
+    "coordinates": [
+      -114.0522125,
+      50.9917818
+    ],
+    "longitude": -114.0522125,
+    "latitude": 50.9917818,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

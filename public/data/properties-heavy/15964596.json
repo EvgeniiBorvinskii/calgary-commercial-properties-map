@@ -1,0 +1,36 @@
+{
+  "id": "15964596",
+  "fullDetails": {
+    "licenseNumber": "15964596",
+    "name": "ODIN MFG",
+    "address": "2916 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2020-12-16T11:46:04.000Z",
+    "expiryDate": "2026-12-15T11:46:04.000Z",
+    "coordinates": [
+      -114.0354225,
+      51.0273594
+    ],
+    "longitude": -114.0354225,
+    "latitude": 51.0273594,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

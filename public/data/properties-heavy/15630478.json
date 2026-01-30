@@ -1,0 +1,36 @@
+{
+  "id": "15630478",
+  "fullDetails": {
+    "licenseNumber": "15630478",
+    "name": "ARCURI DEVELOPMENTS",
+    "address": "#203 70 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-21T09:54:09.000Z",
+    "expiryDate": "2026-08-20T09:54:08.000Z",
+    "coordinates": [
+      -114.0727209,
+      51.1416372
+    ],
+    "longitude": -114.0727209,
+    "latitude": 51.1416372,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

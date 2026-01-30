@@ -1,0 +1,36 @@
+{
+  "id": "889790",
+  "fullDetails": {
+    "licenseNumber": "889790",
+    "name": "WHITE PLAINS MANOR",
+    "address": "2620 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0991721,
+      51.0308157
+    ],
+    "longitude": -114.0991721,
+    "latitude": 51.0308157,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

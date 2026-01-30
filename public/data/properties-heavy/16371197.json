@@ -1,0 +1,37 @@
+{
+  "id": "16371197",
+  "fullDetails": {
+    "licenseNumber": "16371197",
+    "name": "LA BELLE SPA AND WELLNESS",
+    "address": "2834 MORLEY TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-18T10:45:21.000Z",
+    "expiryDate": "2026-08-17T10:45:21.000Z",
+    "coordinates": [
+      -114.1138123,
+      51.078828
+    ],
+    "longitude": -114.1138123,
+    "latitude": 51.078828,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "910760",
+  "fullDetails": {
+    "licenseNumber": "910760",
+    "name": "AEROCORP AVIONIC SOLUTIONS",
+    "address": "#125 4950 MCCALL WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-12-11T12:15:26.000Z",
+    "expiryDate": "2026-12-10T12:15:26.000Z",
+    "coordinates": [
+      -114.0056118,
+      51.0969305
+    ],
+    "longitude": -114.0056118,
+    "latitude": 51.0969305,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

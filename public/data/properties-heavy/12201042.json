@@ -1,0 +1,36 @@
+{
+  "id": "12201042",
+  "fullDetails": {
+    "licenseNumber": "12201042",
+    "name": "XPRESSIONS HAIR STUDIO",
+    "address": "202B CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2003-06-18T05:35:01.000Z",
+    "expiryDate": "2026-06-17T05:35:01.000Z",
+    "coordinates": [
+      -114.0623937,
+      51.0510616
+    ],
+    "longitude": -114.0623937,
+    "latitude": 51.0510616,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16585101",
+  "fullDetails": {
+    "licenseNumber": "16585101",
+    "name": "LOVISA",
+    "address": "#186 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (PIERCING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (PIERCING)",
+    "status": "pending",
+    "issuedDate": "2025-04-09T07:54:44.000Z",
+    "expiryDate": "2026-04-08T07:54:44.000Z",
+    "coordinates": [
+      -114.0741977,
+      50.9970311
+    ],
+    "longitude": -114.0741977,
+    "latitude": 50.9970311,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

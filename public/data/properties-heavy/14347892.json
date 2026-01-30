@@ -1,0 +1,37 @@
+{
+  "id": "14347892",
+  "fullDetails": {
+    "licenseNumber": "14347892",
+    "name": "SUNSHINE FOOD EXPRESS",
+    "address": "#6 3715 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-11-18T13:32:11.000Z",
+    "expiryDate": "2026-11-17T13:32:11.000Z",
+    "coordinates": [
+      -113.9795873,
+      50.9987639
+    ],
+    "longitude": -113.9795873,
+    "latitude": 50.9987639,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

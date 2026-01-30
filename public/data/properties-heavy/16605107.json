@@ -1,0 +1,36 @@
+{
+  "id": "16605107",
+  "fullDetails": {
+    "licenseNumber": "16605107",
+    "name": "VIBE APARTMENTS AT ARBOUR LAKE",
+    "address": "#4000 90 ARBOUR LAKE HL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-05-12T11:06:15.000Z",
+    "expiryDate": "2026-05-11T11:06:15.000Z",
+    "coordinates": [
+      -114.2129272,
+      51.1284451
+    ],
+    "longitude": -114.2129272,
+    "latitude": 51.1284451,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12471892",
+  "fullDetails": {
+    "licenseNumber": "12471892",
+    "name": "LIQUIDS TRANSLOADING",
+    "address": "7260 OGDEN DALE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2006-03-31T05:33:01.000Z",
+    "expiryDate": "2026-03-30T05:33:01.000Z",
+    "coordinates": [
+      -113.9963815,
+      50.9878125
+    ],
+    "longitude": -113.9963815,
+    "latitude": 50.9878125,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

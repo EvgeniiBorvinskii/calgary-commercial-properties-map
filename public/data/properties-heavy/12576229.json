@@ -1,0 +1,36 @@
+{
+  "id": "12576229",
+  "fullDetails": {
+    "licenseNumber": "12576229",
+    "name": "MAXIMUM HEALTH CARE AND MOBILITY",
+    "address": "#25 47 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-09-19T14:56:31.000Z",
+    "expiryDate": "2026-09-18T14:56:31.000Z",
+    "coordinates": [
+      -114.0391891,
+      51.1220056
+    ],
+    "longitude": -114.0391891,
+    "latitude": 51.1220056,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

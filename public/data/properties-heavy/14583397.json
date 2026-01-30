@@ -1,0 +1,36 @@
+{
+  "id": "14583397",
+  "fullDetails": {
+    "licenseNumber": "14583397",
+    "name": "DRUGSHORE PHARMACIES & TRAVEL CLINIC",
+    "address": "#116 5430 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-02-21T07:16:32.000Z",
+    "expiryDate": "2026-02-20T07:16:31.000Z",
+    "coordinates": [
+      -113.9564398,
+      51.0381764
+    ],
+    "longitude": -113.9564398,
+    "latitude": 51.0381764,
+    "community": "PENBROOKE MEADOWS",
+    "ward": "PEN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

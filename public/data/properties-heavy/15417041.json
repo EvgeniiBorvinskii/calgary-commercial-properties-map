@@ -1,0 +1,36 @@
+{
+  "id": "15417041",
+  "fullDetails": {
+    "licenseNumber": "15417041",
+    "name": "TOP KNOT PARLOUR",
+    "address": "#6 1922 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-06-14T09:47:55.000Z",
+    "expiryDate": "2026-06-13T09:47:55.000Z",
+    "coordinates": [
+      -114.0187458,
+      51.0350483
+    ],
+    "longitude": -114.0187458,
+    "latitude": 51.0350483,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

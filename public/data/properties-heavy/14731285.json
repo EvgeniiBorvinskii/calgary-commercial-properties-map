@@ -1,0 +1,36 @@
+{
+  "id": "14731285",
+  "fullDetails": {
+    "licenseNumber": "14731285",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "address": "#110 11680 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-12-27T14:06:59.000Z",
+    "expiryDate": "2026-12-26T14:06:59.000Z",
+    "coordinates": [
+      -114.1574783,
+      51.1560539
+    ],
+    "longitude": -114.1574783,
+    "latitude": 51.1560539,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

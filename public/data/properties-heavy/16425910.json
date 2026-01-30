@@ -1,0 +1,36 @@
+{
+  "id": "16425910",
+  "fullDetails": {
+    "licenseNumber": "16425910",
+    "name": "DERMA LESIONS MEDSPA & TRAINING CENTRE",
+    "address": "#520 6520 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-30T17:09:11.000Z",
+    "expiryDate": "2027-01-29T17:09:11.000Z",
+    "coordinates": [
+      -113.945461,
+      51.1117817
+    ],
+    "longitude": -113.945461,
+    "latitude": 51.1117817,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

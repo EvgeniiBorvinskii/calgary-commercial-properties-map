@@ -1,0 +1,37 @@
+{
+  "id": "12884110",
+  "fullDetails": {
+    "licenseNumber": "12884110",
+    "name": "COMMERCIAL TRUCK EQUIPMENT",
+    "address": "11199 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2013-02-13T05:32:49.000Z",
+    "expiryDate": "2026-02-12T05:32:49.000Z",
+    "coordinates": [
+      -113.9662844,
+      50.952762
+    ],
+    "longitude": -113.9662844,
+    "latitude": 50.952762,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

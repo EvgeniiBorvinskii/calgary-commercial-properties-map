@@ -1,0 +1,37 @@
+{
+  "id": "16641169",
+  "fullDetails": {
+    "licenseNumber": "16641169",
+    "name": "BOWMART FOOD STORE",
+    "address": "#1 8607 48 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-06-12T12:17:47.000Z",
+    "expiryDate": "2026-06-11T12:17:47.000Z",
+    "coordinates": [
+      -114.2115734,
+      51.0957018
+    ],
+    "longitude": -114.2115734,
+    "latitude": 51.0957018,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

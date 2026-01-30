@@ -1,0 +1,36 @@
+{
+  "id": "15862527",
+  "fullDetails": {
+    "licenseNumber": "15862527",
+    "name": "THE CHOPPED LEAF EAST HILLS",
+    "address": "#6120 250 EAST HILLS SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2020-01-30T15:51:53.000Z",
+    "expiryDate": "2026-01-29T15:51:53.000Z",
+    "coordinates": [
+      -113.9104794,
+      51.0404369
+    ],
+    "longitude": -113.9104794,
+    "latitude": 51.0404369,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

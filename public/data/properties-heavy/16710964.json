@@ -1,0 +1,36 @@
+{
+  "id": "16710964",
+  "fullDetails": {
+    "licenseNumber": "16710964",
+    "name": "VISIONARY CATERING (ALTALINK)",
+    "address": "2611 3 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-12-31T14:33:17.000Z",
+    "expiryDate": "2026-12-30T14:33:17.000Z",
+    "coordinates": [
+      -113.9990398,
+      51.0466289
+    ],
+    "longitude": -113.9990398,
+    "latitude": 51.0466289,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

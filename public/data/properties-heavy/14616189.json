@@ -1,0 +1,36 @@
+{
+  "id": "14616189",
+  "fullDetails": {
+    "licenseNumber": "14616189",
+    "name": "ROGERS",
+    "address": "5222 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-10T11:16:10.000Z",
+    "expiryDate": "2026-10-09T11:16:10.000Z",
+    "coordinates": [
+      -113.9561856,
+      51.0988195
+    ],
+    "longitude": -113.9561856,
+    "latitude": 51.0988195,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

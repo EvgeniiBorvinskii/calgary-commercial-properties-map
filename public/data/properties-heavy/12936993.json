@@ -1,0 +1,36 @@
+{
+  "id": "12936993",
+  "fullDetails": {
+    "licenseNumber": "12936993",
+    "name": "SALTILLO TILE CALGARY",
+    "address": "1212 26 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-05-01T08:07:42.000Z",
+    "expiryDate": "2026-04-30T08:07:42.000Z",
+    "coordinates": [
+      -114.0357615,
+      51.0311277
+    ],
+    "longitude": -114.0357615,
+    "latitude": 51.0311277,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16571556",
+  "fullDetails": {
+    "licenseNumber": "16571556",
+    "name": "BLACK SALT BISTRO / BAGARA RESTAURANT",
+    "address": "#3 1211 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-01-14T14:05:26.000Z",
+    "expiryDate": "2027-01-13T14:05:25.000Z",
+    "coordinates": [
+      -114.0952058,
+      51.0416537
+    ],
+    "longitude": -114.0952058,
+    "latitude": 51.0416537,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15941750",
+  "fullDetails": {
+    "licenseNumber": "15941750",
+    "name": "TO ME SUB & GRILL",
+    "address": "5250 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-04-05T14:01:07.000Z",
+    "expiryDate": "2026-04-04T14:01:07.000Z",
+    "coordinates": [
+      -114.0682615,
+      51.0075209
+    ],
+    "longitude": -114.0682615,
+    "latitude": 51.0075209,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13848114",
+  "fullDetails": {
+    "licenseNumber": "13848114",
+    "name": "STONEY TRAIL VETERINARY CLINIC",
+    "address": "#202 11245 VALLEY RIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-06-16T15:37:16.000Z",
+    "expiryDate": "2026-06-15T15:37:16.000Z",
+    "coordinates": [
+      -114.2480001,
+      51.0914462
+    ],
+    "longitude": -114.2480001,
+    "latitude": 51.0914462,
+    "community": "VALLEY RIDGE",
+    "ward": "VAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

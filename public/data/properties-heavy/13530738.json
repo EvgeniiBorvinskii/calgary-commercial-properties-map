@@ -1,0 +1,36 @@
+{
+  "id": "13530738",
+  "fullDetails": {
+    "licenseNumber": "13530738",
+    "name": "NATURES CARPET CLEANING",
+    "address": "#202 323 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2012-09-28T12:40:53.000Z",
+    "expiryDate": "2026-09-27T12:40:53.000Z",
+    "coordinates": [
+      -114.0561458,
+      51.0896428
+    ],
+    "longitude": -114.0561458,
+    "latitude": 51.0896428,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

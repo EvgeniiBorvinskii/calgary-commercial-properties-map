@@ -1,0 +1,36 @@
+{
+  "id": "16590150",
+  "fullDetails": {
+    "licenseNumber": "16590150",
+    "name": "SPECIALTY REFRIGERATION SERVICES",
+    "address": "#6 12180 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-02-07T12:33:00.000Z",
+    "expiryDate": "2027-02-06T12:32:59.000Z",
+    "coordinates": [
+      -113.9711711,
+      50.9416328
+    ],
+    "longitude": -113.9711711,
+    "latitude": 50.9416328,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

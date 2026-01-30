@@ -1,0 +1,37 @@
+{
+  "id": "16554057",
+  "fullDetails": {
+    "licenseNumber": "16554057",
+    "name": "HITCHKI THE GRAND INDIAN BUFFET",
+    "address": "#700 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-12-06T15:43:39.000Z",
+    "expiryDate": "2026-12-05T15:43:38.000Z",
+    "coordinates": [
+      -113.9414792,
+      51.1546998
+    ],
+    "longitude": -113.9414792,
+    "latitude": 51.1546998,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

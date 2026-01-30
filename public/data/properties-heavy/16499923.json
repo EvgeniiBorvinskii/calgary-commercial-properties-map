@@ -1,0 +1,37 @@
+{
+  "id": "16499923",
+  "fullDetails": {
+    "licenseNumber": "16499923",
+    "name": "HAIRSTYLIST",
+    "address": "#316 4620 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-06-22T05:33:41.000Z",
+    "expiryDate": "2025-06-21T05:33:41.000Z",
+    "coordinates": [
+      -114.1532212,
+      51.0491746
+    ],
+    "longitude": -114.1532212,
+    "latitude": 51.0491746,
+    "community": "WILDWOOD",
+    "ward": "WLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

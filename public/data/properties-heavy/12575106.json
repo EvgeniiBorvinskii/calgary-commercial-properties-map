@@ -1,0 +1,36 @@
+{
+  "id": "12575106",
+  "fullDetails": {
+    "licenseNumber": "12575106",
+    "name": "FIDDLER'S GREEN LANDSCAPING",
+    "address": "9629 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-27T15:45:00.000Z",
+    "expiryDate": "2026-10-26T15:45:00.000Z",
+    "coordinates": [
+      -114.0754044,
+      50.9683467
+    ],
+    "longitude": -114.0754044,
+    "latitude": 50.9683467,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

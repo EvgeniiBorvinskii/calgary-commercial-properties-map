@@ -1,0 +1,37 @@
+{
+  "id": "16402752",
+  "fullDetails": {
+    "licenseNumber": "16402752",
+    "name": "CROWCHILD PHYSIOTHERAPY",
+    "address": "#312A 3630 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-09T07:49:30.000Z",
+    "expiryDate": "2026-11-08T07:49:30.000Z",
+    "coordinates": [
+      -114.1245501,
+      51.0855029
+    ],
+    "longitude": -114.1245501,
+    "latitude": 51.0855029,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

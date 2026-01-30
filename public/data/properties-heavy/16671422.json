@@ -1,0 +1,37 @@
+{
+  "id": "16671422",
+  "fullDetails": {
+    "licenseNumber": "16671422",
+    "name": "HEADLINE HAIR SALON",
+    "address": "#1105 9650 HARVEST HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-12T11:08:50.000Z",
+    "expiryDate": "2026-09-11T11:08:49.000Z",
+    "coordinates": [
+      -114.0694838,
+      51.1405389
+    ],
+    "longitude": -114.0694838,
+    "latitude": 51.1405389,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

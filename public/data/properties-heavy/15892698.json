@@ -1,0 +1,36 @@
+{
+  "id": "15892698",
+  "fullDetails": {
+    "licenseNumber": "15892698",
+    "name": "AERZEN CANADA",
+    "address": "#150 11655 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-23T09:41:02.000Z",
+    "expiryDate": "2026-10-22T09:41:01.000Z",
+    "coordinates": [
+      -113.9996461,
+      51.1610348
+    ],
+    "longitude": -113.9996461,
+    "latitude": 51.1610348,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13714647",
+  "fullDetails": {
+    "licenseNumber": "13714647",
+    "name": "HUSQVARNA CANADA",
+    "address": "#105 3510 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-01-28T07:58:05.000Z",
+    "expiryDate": "2026-01-27T07:58:05.000Z",
+    "coordinates": [
+      -113.9911833,
+      51.0846922
+    ],
+    "longitude": -113.9911833,
+    "latitude": 51.0846922,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

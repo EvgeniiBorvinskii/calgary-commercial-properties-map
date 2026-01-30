@@ -1,0 +1,36 @@
+{
+  "id": "12776068",
+  "fullDetails": {
+    "licenseNumber": "12776068",
+    "name": "MAGNUM MACHINE",
+    "address": "#6 2016 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-06-03T11:31:47.000Z",
+    "expiryDate": "2026-06-02T11:31:47.000Z",
+    "coordinates": [
+      -114.0111109,
+      51.0754413
+    ],
+    "longitude": -114.0111109,
+    "latitude": 51.0754413,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

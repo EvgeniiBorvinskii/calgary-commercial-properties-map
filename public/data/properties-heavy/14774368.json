@@ -1,0 +1,36 @@
+{
+  "id": "14774368",
+  "fullDetails": {
+    "licenseNumber": "14774368",
+    "name": "DL SKY HOLDINGS",
+    "address": "412 SILVER VALLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2018-05-23T07:04:24.000Z",
+    "expiryDate": "2026-05-22T07:04:23.000Z",
+    "coordinates": [
+      -114.206404,
+      51.1076368
+    ],
+    "longitude": -114.206404,
+    "latitude": 51.1076368,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

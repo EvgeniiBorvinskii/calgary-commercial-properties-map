@@ -1,0 +1,36 @@
+{
+  "id": "49858",
+  "fullDetails": {
+    "licenseNumber": "49858",
+    "name": "MARUBENI-ITOCHU TUBULARS CANADA",
+    "address": "#620 407 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-03-19T08:11:02.000Z",
+    "expiryDate": "2026-03-18T08:11:02.000Z",
+    "coordinates": [
+      -114.0681396,
+      51.049197
+    ],
+    "longitude": -114.0681396,
+    "latitude": 51.049197,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

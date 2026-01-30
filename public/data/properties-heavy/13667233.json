@@ -1,0 +1,36 @@
+{
+  "id": "13667233",
+  "fullDetails": {
+    "licenseNumber": "13667233",
+    "name": "MARIA TOMAS",
+    "address": "6051 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-03-19T14:42:34.000Z",
+    "expiryDate": "2026-03-18T14:42:34.000Z",
+    "coordinates": [
+      -114.0644527,
+      50.9985439
+    ],
+    "longitude": -114.0644527,
+    "latitude": 50.9985439,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

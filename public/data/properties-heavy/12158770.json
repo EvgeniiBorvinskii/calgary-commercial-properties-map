@@ -1,0 +1,36 @@
+{
+  "id": "12158770",
+  "fullDetails": {
+    "licenseNumber": "12158770",
+    "name": "SELECT ENERGY SYSTEMS",
+    "address": "4215 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-07-04T05:34:04.000Z",
+    "expiryDate": "2026-07-03T05:34:04.000Z",
+    "coordinates": [
+      -113.9746764,
+      51.0033549
+    ],
+    "longitude": -113.9746764,
+    "latitude": 51.0033549,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

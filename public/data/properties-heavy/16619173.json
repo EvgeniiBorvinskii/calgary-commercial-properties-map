@@ -1,0 +1,36 @@
+{
+  "id": "16619173",
+  "fullDetails": {
+    "licenseNumber": "16619173",
+    "name": "GALAXY A17 BARBERSHOP",
+    "address": "#200A 3517 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-05-14T15:08:08.000Z",
+    "expiryDate": "2026-05-13T15:08:08.000Z",
+    "coordinates": [
+      -113.9833544,
+      51.0374075
+    ],
+    "longitude": -113.9833544,
+    "latitude": 51.0374075,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

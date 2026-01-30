@@ -1,0 +1,36 @@
+{
+  "id": "16229585",
+  "fullDetails": {
+    "licenseNumber": "16229585",
+    "name": "2072677 ALBERTA",
+    "address": "#430 7220 FISHER ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-11-18T12:33:43.000Z",
+    "expiryDate": "2026-11-17T12:33:43.000Z",
+    "coordinates": [
+      -114.0684101,
+      50.9888536
+    ],
+    "longitude": -114.0684101,
+    "latitude": 50.9888536,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

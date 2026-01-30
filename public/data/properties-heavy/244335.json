@@ -1,0 +1,37 @@
+{
+  "id": "244335",
+  "fullDetails": {
+    "licenseNumber": "244335",
+    "name": "JORDANS RUGS",
+    "address": "7290 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-10T11:52:02.000Z",
+    "expiryDate": "2026-05-09T11:52:02.000Z",
+    "coordinates": [
+      -114.0386989,
+      50.9891811
+    ],
+    "longitude": -114.0386989,
+    "latitude": 50.9891811,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

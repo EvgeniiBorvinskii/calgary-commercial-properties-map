@@ -1,0 +1,36 @@
+{
+  "id": "184663",
+  "fullDetails": {
+    "licenseNumber": "184663",
+    "name": "EAU CLAIRE TOWERS",
+    "address": "702 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0763946,
+      51.0509572
+    ],
+    "longitude": -114.0763946,
+    "latitude": 51.0509572,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

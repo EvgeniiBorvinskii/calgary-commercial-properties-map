@@ -1,0 +1,36 @@
+{
+  "id": "159871",
+  "fullDetails": {
+    "licenseNumber": "159871",
+    "name": "HIGHLAND MOVING & STORAGE",
+    "address": "320 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2018-03-21T11:20:38.000Z",
+    "expiryDate": "2026-03-20T11:20:38.000Z",
+    "coordinates": [
+      -113.9923814,
+      51.0539463
+    ],
+    "longitude": -113.9923814,
+    "latitude": 51.0539463,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16105983",
+  "fullDetails": {
+    "licenseNumber": "16105983",
+    "name": "CALGARY GARAGE DOOR FIX",
+    "address": "#6 4407 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-05T11:07:08.000Z",
+    "expiryDate": "2026-10-04T11:07:08.000Z",
+    "coordinates": [
+      -113.9723069,
+      50.9466771
+    ],
+    "longitude": -113.9723069,
+    "latitude": 50.9466771,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

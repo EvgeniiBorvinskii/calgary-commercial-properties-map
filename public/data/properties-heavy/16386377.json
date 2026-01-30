@@ -1,0 +1,37 @@
+{
+  "id": "16386377",
+  "fullDetails": {
+    "licenseNumber": "16386377",
+    "name": "MAGNOLIA BANQUET HALL",
+    "address": "#900 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nFOOD SERVICE - PREMISES,\nTRADE SHOW (FACILITY)",
+    "status": "active",
+    "issuedDate": "2023-10-30T12:51:00.000Z",
+    "expiryDate": "2026-10-29T12:51:00.000Z",
+    "coordinates": [
+      -113.9616843,
+      51.097648
+    ],
+    "longitude": -113.9616843,
+    "latitude": 51.097648,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

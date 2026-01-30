@@ -1,0 +1,37 @@
+{
+  "id": "16122434",
+  "fullDetails": {
+    "licenseNumber": "16122434",
+    "name": "CORDIAL CONVENIENCE",
+    "address": "#204 6449 CROWCHILD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2022-04-04T14:23:33.000Z",
+    "expiryDate": "2026-04-03T14:23:33.000Z",
+    "coordinates": [
+      -114.118516,
+      50.9957779
+    ],
+    "longitude": -114.118516,
+    "latitude": 50.9957779,
+    "community": "LAKEVIEW",
+    "ward": "LKV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

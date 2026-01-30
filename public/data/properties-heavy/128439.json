@@ -1,0 +1,37 @@
+{
+  "id": "128439",
+  "fullDetails": {
+    "licenseNumber": "128439",
+    "name": "PRESTIGE PAWN BROKERS 1991",
+    "address": "410 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nPAWNBROKER",
+    "status": "active",
+    "issuedDate": "2023-10-27T05:35:05.000Z",
+    "expiryDate": "2026-10-26T05:35:05.000Z",
+    "coordinates": [
+      -114.055649,
+      51.0671667
+    ],
+    "longitude": -114.055649,
+    "latitude": 51.0671667,
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "ward": "WIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

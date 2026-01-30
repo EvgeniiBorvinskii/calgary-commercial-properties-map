@@ -1,0 +1,36 @@
+{
+  "id": "12760799",
+  "fullDetails": {
+    "licenseNumber": "12760799",
+    "name": "IMAGINE WIRELESS",
+    "address": "#217 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-11-24T07:34:03.000Z",
+    "expiryDate": "2026-11-23T07:34:03.000Z",
+    "coordinates": [
+      -113.9705373,
+      50.9307189
+    ],
+    "longitude": -113.9705373,
+    "latitude": 50.9307189,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

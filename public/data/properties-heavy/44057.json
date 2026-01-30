@@ -1,0 +1,36 @@
+{
+  "id": "44057",
+  "fullDetails": {
+    "licenseNumber": "44057",
+    "name": "SPRINGFIELD ELECTRIC",
+    "address": "#7 624B BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-03T08:05:46.000Z",
+    "expiryDate": "2026-12-02T08:05:46.000Z",
+    "coordinates": [
+      -114.0494434,
+      51.1024587
+    ],
+    "longitude": -114.0494434,
+    "latitude": 51.1024587,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

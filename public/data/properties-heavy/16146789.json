@@ -1,0 +1,36 @@
+{
+  "id": "16146789",
+  "fullDetails": {
+    "licenseNumber": "16146789",
+    "name": "UNITII",
+    "address": "#101 253 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-10T12:55:48.000Z",
+    "expiryDate": "2026-05-09T12:55:48.000Z",
+    "coordinates": [
+      -114.0603945,
+      50.9961158
+    ],
+    "longitude": -114.0603945,
+    "latitude": 50.9961158,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15894215",
+  "fullDetails": {
+    "licenseNumber": "15894215",
+    "name": "SWEET LORETTA",
+    "address": "715 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2023-03-14T09:06:04.000Z",
+    "expiryDate": "2026-03-13T09:06:04.000Z",
+    "coordinates": [
+      -114.0775443,
+      51.0426441
+    ],
+    "longitude": -114.0775443,
+    "latitude": 51.0426441,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

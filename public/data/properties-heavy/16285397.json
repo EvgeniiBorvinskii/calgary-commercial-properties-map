@@ -1,0 +1,36 @@
+{
+  "id": "16285397",
+  "fullDetails": {
+    "licenseNumber": "16285397",
+    "name": "BATH TUNE - UP SOUTH CALGARY",
+    "address": "#201 3740C 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-08-09T10:01:29.000Z",
+    "expiryDate": "2026-08-08T10:01:29.000Z",
+    "coordinates": [
+      -114.0347239,
+      51.0857852
+    ],
+    "longitude": -114.0347239,
+    "latitude": 51.0857852,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

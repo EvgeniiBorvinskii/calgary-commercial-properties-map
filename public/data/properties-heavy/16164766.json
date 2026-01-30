@@ -1,0 +1,36 @@
+{
+  "id": "16164766",
+  "fullDetails": {
+    "licenseNumber": "16164766",
+    "name": "SUNSHINE DOG GROOMING",
+    "address": "#101B 14921 DEER RIDGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-05T14:02:21.000Z",
+    "expiryDate": "2026-05-04T14:02:20.000Z",
+    "coordinates": [
+      -114.0249344,
+      50.9303144
+    ],
+    "longitude": -114.0249344,
+    "latitude": 50.9303144,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

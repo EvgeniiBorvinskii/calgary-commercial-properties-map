@@ -1,0 +1,36 @@
+{
+  "id": "16542516",
+  "fullDetails": {
+    "licenseNumber": "16542516",
+    "name": "CARTERS OSHKOSH BGOSH 3682",
+    "address": "#R42 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-07T08:07:32.000Z",
+    "expiryDate": "2026-10-06T08:07:31.000Z",
+    "coordinates": [
+      -114.1548953,
+      51.0835369
+    ],
+    "longitude": -114.1548953,
+    "latitude": 51.0835369,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

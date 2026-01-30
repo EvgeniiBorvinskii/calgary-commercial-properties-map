@@ -1,0 +1,36 @@
+{
+  "id": "13337274",
+  "fullDetails": {
+    "licenseNumber": "13337274",
+    "name": "MICHAEL HILL",
+    "address": "#P23C 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-02-16T08:42:19.000Z",
+    "expiryDate": "2027-02-15T08:42:19.000Z",
+    "coordinates": [
+      -114.1541655,
+      51.0828448
+    ],
+    "longitude": -114.1541655,
+    "latitude": 51.0828448,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "629311",
+  "fullDetails": {
+    "licenseNumber": "629311",
+    "name": "TOTAL COMMUNICATION SERVICES",
+    "address": "#14D 6115 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "WHOLESALER,\nALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2006-04-24T15:23:08.000Z",
+    "expiryDate": "2026-04-23T15:23:08.000Z",
+    "coordinates": [
+      -114.0577332,
+      50.9983433
+    ],
+    "longitude": -114.0577332,
+    "latitude": 50.9983433,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

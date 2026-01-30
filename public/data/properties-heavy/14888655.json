@@ -1,0 +1,36 @@
+{
+  "id": "14888655",
+  "fullDetails": {
+    "licenseNumber": "14888655",
+    "name": "PAPER AND INK BOUTIQUE (THE)",
+    "address": "#171 5330 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-27T12:36:57.000Z",
+    "expiryDate": "2026-08-26T12:36:57.000Z",
+    "coordinates": [
+      -113.9571104,
+      50.990278
+    ],
+    "longitude": -113.9571104,
+    "latitude": 50.990278,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

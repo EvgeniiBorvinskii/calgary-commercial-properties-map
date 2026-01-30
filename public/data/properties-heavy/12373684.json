@@ -1,0 +1,36 @@
+{
+  "id": "12373684",
+  "fullDetails": {
+    "licenseNumber": "12373684",
+    "name": "GENESIS BUILDERS GROUP",
+    "address": "#6240 333 96 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2021-03-12T05:30:26.000Z",
+    "expiryDate": "2026-03-11T05:30:26.000Z",
+    "coordinates": [
+      -114.0649365,
+      51.1401839
+    ],
+    "longitude": -114.0649365,
+    "latitude": 51.1401839,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

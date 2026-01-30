@@ -1,0 +1,36 @@
+{
+  "id": "15860794",
+  "fullDetails": {
+    "licenseNumber": "15860794",
+    "name": "A-APOLLO WINDOWS & DOORS",
+    "address": "#26 3530 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-29T14:34:08.000Z",
+    "expiryDate": "2027-01-28T14:34:07.000Z",
+    "coordinates": [
+      -113.9874551,
+      51.0848008
+    ],
+    "longitude": -113.9874551,
+    "latitude": 51.0848008,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15670060",
+  "fullDetails": {
+    "licenseNumber": "15670060",
+    "name": "SUPER G & R INSTALLATION",
+    "address": "345 39 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2025-11-12T08:10:58.000Z",
+    "expiryDate": "2026-11-11T08:10:57.000Z",
+    "coordinates": [
+      -114.0600164,
+      51.0176802
+    ],
+    "longitude": -114.0600164,
+    "latitude": 51.0176802,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

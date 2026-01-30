@@ -1,0 +1,36 @@
+{
+  "id": "15858749",
+  "fullDetails": {
+    "licenseNumber": "15858749",
+    "name": "FM ENTERTAINMENT",
+    "address": "907 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "EXOTIC ENTERTAINMENT AGENCY",
+    "licenseTypes": "EXOTIC ENTERTAINMENT AGENCY",
+    "status": "pending",
+    "issuedDate": "2020-02-05T05:33:33.000Z",
+    "expiryDate": "2026-02-04T05:33:33.000Z",
+    "coordinates": [
+      -114.081829,
+      51.044845
+    ],
+    "longitude": -114.081829,
+    "latitude": 51.044845,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

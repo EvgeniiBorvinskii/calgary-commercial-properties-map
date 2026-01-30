@@ -1,0 +1,36 @@
+{
+  "id": "12172029",
+  "fullDetails": {
+    "licenseNumber": "12172029",
+    "name": "ED'S BARBER SHOP",
+    "address": "#5B 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2003-01-29T05:35:27.000Z",
+    "expiryDate": "2026-01-28T05:35:27.000Z",
+    "coordinates": [
+      -114.1097303,
+      50.9407411
+    ],
+    "longitude": -114.1097303,
+    "latitude": 50.9407411,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

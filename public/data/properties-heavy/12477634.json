@@ -1,0 +1,36 @@
+{
+  "id": "12477634",
+  "fullDetails": {
+    "licenseNumber": "12477634",
+    "name": "A & W",
+    "address": "80 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2006-05-08T10:45:10.000Z",
+    "expiryDate": "2026-05-07T10:45:10.000Z",
+    "coordinates": [
+      -114.2043875,
+      51.1248898
+    ],
+    "longitude": -114.2043875,
+    "latitude": 51.1248898,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

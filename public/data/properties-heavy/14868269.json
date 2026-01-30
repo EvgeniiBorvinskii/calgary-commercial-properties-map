@@ -1,0 +1,37 @@
+{
+  "id": "14868269",
+  "fullDetails": {
+    "licenseNumber": "14868269",
+    "name": "PEONY NATURASPA",
+    "address": "#212 803 CHAPARRAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2018-04-18T10:12:43.000Z",
+    "expiryDate": "2026-04-17T10:12:43.000Z",
+    "coordinates": [
+      -114.0357242,
+      50.8777784
+    ],
+    "longitude": -114.0357242,
+    "latitude": 50.8777784,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

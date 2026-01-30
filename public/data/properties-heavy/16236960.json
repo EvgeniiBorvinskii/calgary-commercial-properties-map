@@ -1,0 +1,36 @@
+{
+  "id": "16236960",
+  "fullDetails": {
+    "licenseNumber": "16236960",
+    "name": "SAGE WALK TOWNS",
+    "address": "#200 4838 RICHARD RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-01-24T13:23:18.000Z",
+    "expiryDate": "2027-01-23T13:23:17.000Z",
+    "coordinates": [
+      -114.1259444,
+      51.0105371
+    ],
+    "longitude": -114.1259444,
+    "latitude": 51.0105371,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

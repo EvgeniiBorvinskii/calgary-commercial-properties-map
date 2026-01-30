@@ -1,0 +1,36 @@
+{
+  "id": "12805529",
+  "fullDetails": {
+    "licenseNumber": "12805529",
+    "name": "ZOE'S STORE",
+    "address": "1403 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2009-08-10T14:01:14.000Z",
+    "expiryDate": "2026-08-09T14:01:14.000Z",
+    "coordinates": [
+      -114.0949735,
+      51.0401888
+    ],
+    "longitude": -114.0949735,
+    "latitude": 51.0401888,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

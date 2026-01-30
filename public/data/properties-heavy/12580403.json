@@ -1,0 +1,36 @@
+{
+  "id": "12580403",
+  "fullDetails": {
+    "licenseNumber": "12580403",
+    "name": "KWANZAA COFFEE HOUSE",
+    "address": "#102 1824 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2007-09-17T09:16:29.000Z",
+    "expiryDate": "2026-09-16T09:16:29.000Z",
+    "coordinates": [
+      -114.1171242,
+      51.0690274
+    ],
+    "longitude": -114.1171242,
+    "latitude": 51.0690274,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

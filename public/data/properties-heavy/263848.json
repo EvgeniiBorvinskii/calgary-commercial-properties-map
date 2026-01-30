@@ -1,0 +1,36 @@
+{
+  "id": "263848",
+  "fullDetails": {
+    "licenseNumber": "263848",
+    "name": "CANADA BREAD COMPANY",
+    "address": "#2 2425 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-10-05T05:48:30.000Z",
+    "expiryDate": "2026-10-04T05:48:30.000Z",
+    "coordinates": [
+      -114.0024943,
+      51.0065203
+    ],
+    "longitude": -114.0024943,
+    "latitude": 51.0065203,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

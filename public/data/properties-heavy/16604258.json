@@ -1,0 +1,37 @@
+{
+  "id": "16604258",
+  "fullDetails": {
+    "licenseNumber": "16604258",
+    "name": "GOOD EARTH COFFEEHOUSE 59",
+    "address": "#430 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-28T16:10:07.000Z",
+    "expiryDate": "2026-05-27T16:10:06.000Z",
+    "coordinates": [
+      -114.1853594,
+      51.0483326
+    ],
+    "longitude": -114.1853594,
+    "latitude": 51.0483326,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

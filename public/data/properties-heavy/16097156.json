@@ -1,0 +1,37 @@
+{
+  "id": "16097156",
+  "fullDetails": {
+    "licenseNumber": "16097156",
+    "name": "RCANE STUDIO",
+    "address": "207 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-27T08:20:37.000Z",
+    "expiryDate": "2026-12-26T08:20:37.000Z",
+    "coordinates": [
+      -114.0663118,
+      51.041415
+    ],
+    "longitude": -114.0663118,
+    "latitude": 51.041415,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

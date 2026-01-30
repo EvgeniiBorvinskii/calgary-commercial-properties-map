@@ -1,0 +1,37 @@
+{
+  "id": "15895212",
+  "fullDetails": {
+    "licenseNumber": "15895212",
+    "name": "CAMBRIDGE MANOR #64416",
+    "address": "253 SMITH ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO,\nCLEANING SERVICE (RESIDENTIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2020-08-05T14:35:20.000Z",
+    "expiryDate": "2026-08-04T14:35:20.000Z",
+    "coordinates": [
+      -114.1502197,
+      51.0775358
+    ],
+    "longitude": -114.1502197,
+    "latitude": 51.0775358,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

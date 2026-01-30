@@ -1,0 +1,36 @@
+{
+  "id": "16511818",
+  "fullDetails": {
+    "licenseNumber": "16511818",
+    "name": "KUMON MATH AND READING CENTRE OF CALGARY - CITYSCAPE SQUARE",
+    "address": "#270 100 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-25T08:31:27.000Z",
+    "expiryDate": "2026-07-24T08:31:26.000Z",
+    "coordinates": [
+      -113.9666781,
+      51.1464657
+    ],
+    "longitude": -113.9666781,
+    "latitude": 51.1464657,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

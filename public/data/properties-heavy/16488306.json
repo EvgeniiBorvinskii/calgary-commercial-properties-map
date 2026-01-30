@@ -1,0 +1,36 @@
+{
+  "id": "16488306",
+  "fullDetails": {
+    "licenseNumber": "16488306",
+    "name": "VS DHOSA",
+    "address": "#120 3565 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-27T13:51:09.000Z",
+    "expiryDate": "2026-08-26T13:51:08.000Z",
+    "coordinates": [
+      -113.9848459,
+      51.0711197
+    ],
+    "longitude": -113.9848459,
+    "latitude": 51.0711197,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

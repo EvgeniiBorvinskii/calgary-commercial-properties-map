@@ -1,0 +1,36 @@
+{
+  "id": "15152218",
+  "fullDetails": {
+    "licenseNumber": "15152218",
+    "name": "CEDAR MECHANICAL",
+    "address": "#110 999 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T15:43:20.000Z",
+    "expiryDate": "2026-07-08T15:43:20.000Z",
+    "coordinates": [
+      -114.0415862,
+      51.1041792
+    ],
+    "longitude": -114.0415862,
+    "latitude": 51.1041792,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

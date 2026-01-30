@@ -1,0 +1,36 @@
+{
+  "id": "15836869",
+  "fullDetails": {
+    "licenseNumber": "15836869",
+    "name": "SMALL FLOWER FLORAL STUDIO",
+    "address": "#7 2616 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-11-14T08:50:38.000Z",
+    "expiryDate": "2026-11-13T08:50:38.000Z",
+    "coordinates": [
+      -114.0183165,
+      51.0753981
+    ],
+    "longitude": -114.0183165,
+    "latitude": 51.0753981,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

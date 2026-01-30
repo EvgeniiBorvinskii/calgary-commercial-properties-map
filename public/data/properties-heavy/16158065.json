@@ -1,0 +1,37 @@
+{
+  "id": "16158065",
+  "fullDetails": {
+    "licenseNumber": "16158065",
+    "name": "EAST END BREAD",
+    "address": "#127 519 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-05-10T13:27:09.000Z",
+    "expiryDate": "2026-05-09T13:27:09.000Z",
+    "coordinates": [
+      -114.051978,
+      51.0227071
+    ],
+    "longitude": -114.051978,
+    "latitude": 51.0227071,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

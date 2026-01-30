@@ -1,0 +1,37 @@
+{
+  "id": "46516",
+  "fullDetails": {
+    "licenseNumber": "46516",
+    "name": "JADLER INDUSTRIES ALBERTA",
+    "address": "1345 HIGHFIELD CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-25T16:36:30.000Z",
+    "expiryDate": "2026-03-24T16:36:28.000Z",
+    "coordinates": [
+      -114.0338299,
+      51.0091497
+    ],
+    "longitude": -114.0338299,
+    "latitude": 51.0091497,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

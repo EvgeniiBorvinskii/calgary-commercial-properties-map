@@ -1,0 +1,36 @@
+{
+  "id": "14174312",
+  "fullDetails": {
+    "licenseNumber": "14174312",
+    "name": "FORCE AUTO STYLING",
+    "address": "#1 5004 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-10-19T13:25:46.000Z",
+    "expiryDate": "2026-10-18T13:25:46.000Z",
+    "coordinates": [
+      -114.0670915,
+      51.0093683
+    ],
+    "longitude": -114.0670915,
+    "latitude": 51.0093683,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16478752",
+  "fullDetails": {
+    "licenseNumber": "16478752",
+    "name": "THE VAPE WAREHOUSE",
+    "address": "9667 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-04-23T11:51:27.000Z",
+    "expiryDate": "2026-04-22T11:51:27.000Z",
+    "coordinates": [
+      -114.0733258,
+      50.9680679
+    ],
+    "longitude": -114.0733258,
+    "latitude": 50.9680679,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

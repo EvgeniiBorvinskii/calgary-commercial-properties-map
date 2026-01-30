@@ -1,0 +1,36 @@
+{
+  "id": "13851910",
+  "fullDetails": {
+    "licenseNumber": "13851910",
+    "name": "STONE CONCEPT CONTRACTOR YARD",
+    "address": "5225 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-09-29T05:32:54.000Z",
+    "expiryDate": "2026-09-28T05:32:54.000Z",
+    "coordinates": [
+      -114.0497483,
+      51.0068306
+    ],
+    "longitude": -114.0497483,
+    "latitude": 51.0068306,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

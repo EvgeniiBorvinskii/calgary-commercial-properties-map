@@ -1,0 +1,36 @@
+{
+  "id": "13969472",
+  "fullDetails": {
+    "licenseNumber": "13969472",
+    "name": "EVOLUTION MOTORS",
+    "address": "15130R BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2020-02-21T09:31:13.000Z",
+    "expiryDate": "2026-02-20T09:31:13.000Z",
+    "coordinates": [
+      -114.0670283,
+      50.9181399
+    ],
+    "longitude": -114.0670283,
+    "latitude": 50.9181399,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

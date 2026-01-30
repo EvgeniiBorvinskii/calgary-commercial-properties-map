@@ -1,0 +1,36 @@
+{
+  "id": "16158495",
+  "fullDetails": {
+    "licenseNumber": "16158495",
+    "name": "EBERHARDT FOODS",
+    "address": "4140 16A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-21T14:54:02.000Z",
+    "expiryDate": "2026-03-20T14:54:02.000Z",
+    "coordinates": [
+      -114.0201885,
+      51.0175637
+    ],
+    "longitude": -114.0201885,
+    "latitude": 51.0175637,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

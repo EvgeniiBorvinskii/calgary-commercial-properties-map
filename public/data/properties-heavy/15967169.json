@@ -1,0 +1,36 @@
+{
+  "id": "15967169",
+  "fullDetails": {
+    "licenseNumber": "15967169",
+    "name": "KD PERFORMANCE CENTRE",
+    "address": "#9 6020 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2021-03-03T15:50:55.000Z",
+    "expiryDate": "2026-03-02T15:50:55.000Z",
+    "coordinates": [
+      -114.0592593,
+      50.9983378
+    ],
+    "longitude": -114.0592593,
+    "latitude": 50.9983378,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

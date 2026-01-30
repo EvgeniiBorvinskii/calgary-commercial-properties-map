@@ -1,0 +1,36 @@
+{
+  "id": "14221709",
+  "fullDetails": {
+    "licenseNumber": "14221709",
+    "name": "PUSH PAINTLESS DENT REMOVAL",
+    "address": "#2 4639 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2017-02-21T09:35:42.000Z",
+    "expiryDate": "2026-02-20T09:35:42.000Z",
+    "coordinates": [
+      -114.0491724,
+      51.0934479
+    ],
+    "longitude": -114.0491724,
+    "latitude": 51.0934479,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

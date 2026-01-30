@@ -1,0 +1,36 @@
+{
+  "id": "52209",
+  "fullDetails": {
+    "licenseNumber": "52209",
+    "name": "IPEX",
+    "address": "8460 60 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-06-09T05:49:15.000Z",
+    "expiryDate": "2026-06-08T05:49:15.000Z",
+    "coordinates": [
+      -113.9458202,
+      50.9787889
+    ],
+    "longitude": -113.9458202,
+    "latitude": 50.9787889,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

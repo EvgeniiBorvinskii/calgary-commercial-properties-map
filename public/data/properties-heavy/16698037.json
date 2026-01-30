@@ -1,0 +1,36 @@
+{
+  "id": "16698037",
+  "fullDetails": {
+    "licenseNumber": "16698037",
+    "name": "PLANET ICE CREAM",
+    "address": "136A 17 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-04T09:31:40.000Z",
+    "expiryDate": "2026-12-03T09:31:39.000Z",
+    "coordinates": [
+      -114.0604028,
+      51.0680304
+    ],
+    "longitude": -114.0604028,
+    "latitude": 51.0680304,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16506917",
+  "fullDetails": {
+    "licenseNumber": "16506917",
+    "name": "MASTERMIND TOYS",
+    "address": "600 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-03T07:45:23.000Z",
+    "expiryDate": "2026-07-02T07:45:23.000Z",
+    "coordinates": [
+      -114.1715109,
+      51.0165754
+    ],
+    "longitude": -114.1715109,
+    "latitude": 51.0165754,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

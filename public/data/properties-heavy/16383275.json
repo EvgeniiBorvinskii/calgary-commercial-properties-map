@@ -1,0 +1,37 @@
+{
+  "id": "16383275",
+  "fullDetails": {
+    "licenseNumber": "16383275",
+    "name": "WAVES WINE AND SPIRITS",
+    "address": "#140 2121 194 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-11-23T15:31:49.000Z",
+    "expiryDate": "2026-11-22T15:31:49.000Z",
+    "coordinates": [
+      -114.0102605,
+      50.8773887
+    ],
+    "longitude": -114.0102605,
+    "latitude": 50.8773887,
+    "community": "WOLF WILLOW",
+    "ward": "WWO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14811483",
+  "fullDetails": {
+    "licenseNumber": "14811483",
+    "name": "KADEX AERO SUPPLY",
+    "address": "#135 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-19T14:27:48.000Z",
+    "expiryDate": "2026-11-18T14:27:48.000Z",
+    "coordinates": [
+      -114.0405393,
+      51.1039549
+    ],
+    "longitude": -114.0405393,
+    "latitude": 51.1039549,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

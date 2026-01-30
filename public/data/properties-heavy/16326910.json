@@ -1,0 +1,36 @@
+{
+  "id": "16326910",
+  "fullDetails": {
+    "licenseNumber": "16326910",
+    "name": "ELEMENT COMPOUNDING PHARMACY",
+    "address": "5727 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-12T15:38:15.000Z",
+    "expiryDate": "2026-03-11T15:38:14.000Z",
+    "coordinates": [
+      -114.0460575,
+      51.0033758
+    ],
+    "longitude": -114.0460575,
+    "latitude": 51.0033758,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14290969",
+  "fullDetails": {
+    "licenseNumber": "14290969",
+    "name": "CO-OP WINE SPIRITS BEER #26 - AUBURN BAY",
+    "address": "#310 100 AUBURN MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2016-11-02T08:45:13.000Z",
+    "expiryDate": "2026-11-01T08:45:13.000Z",
+    "coordinates": [
+      -113.9455476,
+      50.8947167
+    ],
+    "longitude": -113.9455476,
+    "latitude": 50.8947167,
+    "community": "AUBURN BAY",
+    "ward": "AUB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

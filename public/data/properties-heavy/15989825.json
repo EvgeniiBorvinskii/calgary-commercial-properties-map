@@ -1,0 +1,36 @@
+{
+  "id": "15989825",
+  "fullDetails": {
+    "licenseNumber": "15989825",
+    "name": "ABLO ERINWOODS",
+    "address": "3565 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-02-16T14:59:53.000Z",
+    "expiryDate": "2027-02-15T14:59:53.000Z",
+    "coordinates": [
+      -113.9591419,
+      51.02261
+    ],
+    "longitude": -113.9591419,
+    "latitude": 51.02261,
+    "community": "ERIN WOODS",
+    "ward": "ERI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

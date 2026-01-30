@@ -1,0 +1,36 @@
+{
+  "id": "16046146",
+  "fullDetails": {
+    "licenseNumber": "16046146",
+    "name": "TEMU AUTO REPAIR",
+    "address": "1808 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-10-01T09:45:39.000Z",
+    "expiryDate": "2026-09-30T09:45:39.000Z",
+    "coordinates": [
+      -113.9825714,
+      51.0370144
+    ],
+    "longitude": -113.9825714,
+    "latitude": 51.0370144,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

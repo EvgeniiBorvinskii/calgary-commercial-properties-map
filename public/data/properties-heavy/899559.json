@@ -1,0 +1,36 @@
+{
+  "id": "899559",
+  "fullDetails": {
+    "licenseNumber": "899559",
+    "name": "GOLDEN HAPPINESS BAKERY",
+    "address": "4815 35B ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-11T00:00:00.000Z",
+    "coordinates": [
+      -113.9787431,
+      51.011961
+    ],
+    "longitude": -113.9787431,
+    "latitude": 51.011961,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

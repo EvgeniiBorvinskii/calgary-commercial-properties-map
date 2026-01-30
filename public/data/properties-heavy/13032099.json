@@ -1,0 +1,37 @@
+{
+  "id": "13032099",
+  "fullDetails": {
+    "licenseNumber": "13032099",
+    "name": "PAWS DOG DAYCARE",
+    "address": "1313 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-12-09T09:50:33.000Z",
+    "expiryDate": "2026-12-08T09:50:33.000Z",
+    "coordinates": [
+      -114.0925474,
+      51.0381534
+    ],
+    "longitude": -114.0925474,
+    "latitude": 51.0381534,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12676607",
+  "fullDetails": {
+    "licenseNumber": "12676607",
+    "name": "NEW WEST GYPSUM RECYCLING (ALBERTA)",
+    "address": "6715 OGDEN DALE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-05-01T10:49:27.000Z",
+    "expiryDate": "2026-04-30T10:49:27.000Z",
+    "coordinates": [
+      -113.988893,
+      50.99361
+    ],
+    "longitude": -113.988893,
+    "latitude": 50.99361,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

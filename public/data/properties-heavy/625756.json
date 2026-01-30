@@ -1,0 +1,36 @@
+{
+  "id": "625756",
+  "fullDetails": {
+    "licenseNumber": "625756",
+    "name": "SIGN CRAFT DIGITAL",
+    "address": "#112 4600 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-05-15T07:54:00.000Z",
+    "expiryDate": "2026-05-14T07:54:00.000Z",
+    "coordinates": [
+      -113.9694991,
+      50.9608721
+    ],
+    "longitude": -113.9694991,
+    "latitude": 50.9608721,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16515678",
+  "fullDetails": {
+    "licenseNumber": "16515678",
+    "name": "METRO LIQUOR STORE",
+    "address": "#450 1275 CREEKSIDE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-08-14T07:10:03.000Z",
+    "expiryDate": "2026-08-13T07:10:03.000Z",
+    "coordinates": [
+      -114.0776077,
+      50.8591402
+    ],
+    "longitude": -114.0776077,
+    "latitude": 50.8591402,
+    "community": "PINE CREEK",
+    "ward": "PCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16476343",
+  "fullDetails": {
+    "licenseNumber": "16476343",
+    "name": "BOOSTER JUICE",
+    "address": "#172D 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-15T15:59:32.000Z",
+    "expiryDate": "2026-05-14T15:59:32.000Z",
+    "coordinates": [
+      -114.0981501,
+      50.9730477
+    ],
+    "longitude": -114.0981501,
+    "latitude": 50.9730477,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

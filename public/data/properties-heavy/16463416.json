@@ -1,0 +1,36 @@
+{
+  "id": "16463416",
+  "fullDetails": {
+    "licenseNumber": "16463416",
+    "name": "BSW LIQUOR",
+    "address": "#210 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-04-29T15:04:06.000Z",
+    "expiryDate": "2026-04-28T15:04:06.000Z",
+    "coordinates": [
+      -113.9402156,
+      51.155816
+    ],
+    "longitude": -113.9402156,
+    "latitude": 51.155816,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

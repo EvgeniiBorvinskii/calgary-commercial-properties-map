@@ -1,0 +1,36 @@
+{
+  "id": "16634545",
+  "fullDetails": {
+    "licenseNumber": "16634545",
+    "name": "DECO WINDSHIELD REPAIR",
+    "address": "#10 1115 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-05-21T07:31:26.000Z",
+    "expiryDate": "2026-05-20T07:31:26.000Z",
+    "coordinates": [
+      -114.0379097,
+      51.010132
+    ],
+    "longitude": -114.0379097,
+    "latitude": 51.010132,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

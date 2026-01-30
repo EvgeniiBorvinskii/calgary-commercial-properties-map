@@ -1,0 +1,37 @@
+{
+  "id": "16094484",
+  "fullDetails": {
+    "licenseNumber": "16094484",
+    "name": "OLDE FAIR",
+    "address": "#141 5330 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-19T08:51:46.000Z",
+    "expiryDate": "2026-10-18T08:51:46.000Z",
+    "coordinates": [
+      -113.9573742,
+      50.9902781
+    ],
+    "longitude": -113.9573742,
+    "latitude": 50.9902781,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

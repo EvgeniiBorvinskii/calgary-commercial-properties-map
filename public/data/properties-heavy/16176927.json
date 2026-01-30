@@ -1,0 +1,37 @@
+{
+  "id": "16176927",
+  "fullDetails": {
+    "licenseNumber": "16176927",
+    "name": "GOGI KOREAN BBQ",
+    "address": "450 BRENTWOOD WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-29T14:08:37.000Z",
+    "expiryDate": "2026-06-28T14:08:37.000Z",
+    "coordinates": [
+      -114.1279492,
+      51.0865579
+    ],
+    "longitude": -114.1279492,
+    "latitude": 51.0865579,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

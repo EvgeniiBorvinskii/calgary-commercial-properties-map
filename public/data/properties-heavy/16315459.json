@@ -1,0 +1,36 @@
+{
+  "id": "16315459",
+  "fullDetails": {
+    "licenseNumber": "16315459",
+    "name": "DAILY LIQUOR WINE AND SPIRITS",
+    "address": "1336D 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-04-21T15:41:32.000Z",
+    "expiryDate": "2026-04-20T15:41:32.000Z",
+    "coordinates": [
+      -114.091745,
+      51.0673296
+    ],
+    "longitude": -114.091745,
+    "latitude": 51.0673296,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

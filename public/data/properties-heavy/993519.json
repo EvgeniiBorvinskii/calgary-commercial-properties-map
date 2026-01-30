@@ -1,0 +1,36 @@
+{
+  "id": "993519",
+  "fullDetails": {
+    "licenseNumber": "993519",
+    "name": "VALLEY METAL FABRICATORS",
+    "address": "2912 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-05-01T05:35:20.000Z",
+    "expiryDate": "2026-04-30T05:35:20.000Z",
+    "coordinates": [
+      -114.0354191,
+      51.0275215
+    ],
+    "longitude": -114.0354191,
+    "latitude": 51.0275215,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

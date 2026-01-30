@@ -1,0 +1,36 @@
+{
+  "id": "16547374",
+  "fullDetails": {
+    "licenseNumber": "16547374",
+    "name": "SAGE HILL APARTMENTS",
+    "address": "#2000 125 SAGE HILL RO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-10-22T11:31:29.000Z",
+    "expiryDate": "2026-10-21T11:31:28.000Z",
+    "coordinates": [
+      -114.1466833,
+      51.174051
+    ],
+    "longitude": -114.1466833,
+    "latitude": 51.174051,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12055596",
+  "fullDetails": {
+    "licenseNumber": "12055596",
+    "name": "OXFORD CLEANING",
+    "address": "#222 2310 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2005-08-30T05:28:54.000Z",
+    "expiryDate": "2026-08-29T05:28:54.000Z",
+    "coordinates": [
+      -114.0681401,
+      51.0320041
+    ],
+    "longitude": -114.0681401,
+    "latitude": 51.0320041,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

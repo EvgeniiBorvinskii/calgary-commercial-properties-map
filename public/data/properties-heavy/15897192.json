@@ -1,0 +1,36 @@
+{
+  "id": "15897192",
+  "fullDetails": {
+    "licenseNumber": "15897192",
+    "name": "RCID HOLDINGS",
+    "address": "1711 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-05-20T05:31:04.000Z",
+    "expiryDate": "2026-05-19T05:31:04.000Z",
+    "coordinates": [
+      -114.1003106,
+      51.0236083
+    ],
+    "longitude": -114.1003106,
+    "latitude": 51.0236083,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

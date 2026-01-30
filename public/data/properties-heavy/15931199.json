@@ -1,0 +1,36 @@
+{
+  "id": "15931199",
+  "fullDetails": {
+    "licenseNumber": "15931199",
+    "name": "A1 DENTAL DESIGN STUDIO",
+    "address": "2836 MORLEY TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-11-02T05:33:20.000Z",
+    "expiryDate": "2026-11-01T05:33:20.000Z",
+    "coordinates": [
+      -114.1138123,
+      51.078828
+    ],
+    "longitude": -114.1138123,
+    "latitude": 51.078828,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

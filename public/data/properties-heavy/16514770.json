@@ -1,0 +1,36 @@
+{
+  "id": "16514770",
+  "fullDetails": {
+    "licenseNumber": "16514770",
+    "name": "ASPEN LIVING",
+    "address": "#204 110 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-07-17T08:15:02.000Z",
+    "expiryDate": "2026-07-16T08:15:01.000Z",
+    "coordinates": [
+      -114.0757258,
+      51.1417877
+    ],
+    "longitude": -114.0757258,
+    "latitude": 51.1417877,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12204343",
+  "fullDetails": {
+    "licenseNumber": "12204343",
+    "name": "NATIONAL ALARM AND SOUTHERN SOUND",
+    "address": "7239A FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-07-25T08:49:41.000Z",
+    "expiryDate": "2026-07-24T08:49:41.000Z",
+    "coordinates": [
+      -114.0650592,
+      50.9879736
+    ],
+    "longitude": -114.0650592,
+    "latitude": 50.9879736,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16491953",
+  "fullDetails": {
+    "licenseNumber": "16491953",
+    "name": "LEXEN CUSTOM",
+    "address": "#117 7 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2024-05-14T16:03:04.000Z",
+    "expiryDate": "2026-05-13T16:03:04.000Z",
+    "coordinates": [
+      -113.9710126,
+      51.1060945
+    ],
+    "longitude": -113.9710126,
+    "latitude": 51.1060945,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

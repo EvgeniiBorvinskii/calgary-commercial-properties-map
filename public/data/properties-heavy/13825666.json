@@ -1,0 +1,36 @@
+{
+  "id": "13825666",
+  "fullDetails": {
+    "licenseNumber": "13825666",
+    "name": "V P MOTORSPORTS",
+    "address": "1560 AVIATION RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "active",
+    "issuedDate": "2014-09-17T16:20:30.000Z",
+    "expiryDate": "2026-09-16T16:20:30.000Z",
+    "coordinates": [
+      -114.0254889,
+      51.095722
+    ],
+    "longitude": -114.0254889,
+    "latitude": 51.095722,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

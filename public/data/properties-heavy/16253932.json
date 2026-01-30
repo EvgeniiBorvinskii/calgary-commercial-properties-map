@@ -1,0 +1,36 @@
+{
+  "id": "16253932",
+  "fullDetails": {
+    "licenseNumber": "16253932",
+    "name": "SONOMA ART STUDIO",
+    "address": "#211 11625 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-09T12:36:11.000Z",
+    "expiryDate": "2026-07-08T12:36:11.000Z",
+    "coordinates": [
+      -114.0853485,
+      50.9493297
+    ],
+    "longitude": -114.0853485,
+    "latitude": 50.9493297,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

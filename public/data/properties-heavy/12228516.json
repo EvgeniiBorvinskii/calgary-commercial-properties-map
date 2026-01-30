@@ -1,0 +1,36 @@
+{
+  "id": "12228516",
+  "fullDetails": {
+    "licenseNumber": "12228516",
+    "name": "MUGE",
+    "address": "#202 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-03-11T10:01:20.000Z",
+    "expiryDate": "2026-03-10T10:01:20.000Z",
+    "coordinates": [
+      -113.9967396,
+      51.0801693
+    ],
+    "longitude": -113.9967396,
+    "latitude": 51.0801693,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

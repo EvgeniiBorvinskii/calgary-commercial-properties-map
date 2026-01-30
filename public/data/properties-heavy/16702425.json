@@ -1,0 +1,37 @@
+{
+  "id": "16702425",
+  "fullDetails": {
+    "licenseNumber": "16702425",
+    "name": "HIGHLAND DRUG MART",
+    "address": "#110 201 38 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-01T10:13:55.000Z",
+    "expiryDate": "2026-11-30T10:13:55.000Z",
+    "coordinates": [
+      -114.0597119,
+      51.0866863
+    ],
+    "longitude": -114.0597119,
+    "latitude": 51.0866863,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16285355",
+  "fullDetails": {
+    "licenseNumber": "16285355",
+    "name": "BETHESDA WELLNESS MASSAGE",
+    "address": "#243 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2023-03-08T14:28:19.000Z",
+    "expiryDate": "2026-03-07T14:28:19.000Z",
+    "coordinates": [
+      -113.9575595,
+      51.0365403
+    ],
+    "longitude": -113.9575595,
+    "latitude": 51.0365403,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

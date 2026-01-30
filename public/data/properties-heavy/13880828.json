@@ -1,0 +1,37 @@
+{
+  "id": "13880828",
+  "fullDetails": {
+    "licenseNumber": "13880828",
+    "name": "COOLVAPE",
+    "address": "#18 7400 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2014-12-23T14:14:42.000Z",
+    "expiryDate": "2026-12-22T14:14:42.000Z",
+    "coordinates": [
+      -114.0703209,
+      50.9869689
+    ],
+    "longitude": -114.0703209,
+    "latitude": 50.9869689,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

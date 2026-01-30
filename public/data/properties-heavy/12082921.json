@@ -1,0 +1,36 @@
+{
+  "id": "12082921",
+  "fullDetails": {
+    "licenseNumber": "12082921",
+    "name": "ELMAR'S UPHOLSTERY",
+    "address": "#6 2625 18 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-04-22T05:36:53.000Z",
+    "expiryDate": "2026-04-21T05:36:53.000Z",
+    "coordinates": [
+      -114.0152498,
+      51.0756853
+    ],
+    "longitude": -114.0152498,
+    "latitude": 51.0756853,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

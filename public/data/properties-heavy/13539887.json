@@ -1,0 +1,36 @@
+{
+  "id": "13539887",
+  "fullDetails": {
+    "licenseNumber": "13539887",
+    "name": "STUDIO BLUE",
+    "address": "#220 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-08-03T14:10:05.000Z",
+    "expiryDate": "2026-08-02T14:10:05.000Z",
+    "coordinates": [
+      -114.069264,
+      50.9566166
+    ],
+    "longitude": -114.069264,
+    "latitude": 50.9566166,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

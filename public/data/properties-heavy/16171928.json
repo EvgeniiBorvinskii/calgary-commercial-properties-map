@@ -1,0 +1,37 @@
+{
+  "id": "16171928",
+  "fullDetails": {
+    "licenseNumber": "16171928",
+    "name": "MAGIC BUDS MADIGAN",
+    "address": "#50 6060 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2022-07-25T11:53:24.000Z",
+    "expiryDate": "2026-07-24T11:53:24.000Z",
+    "coordinates": [
+      -113.9428342,
+      51.0533109
+    ],
+    "longitude": -113.9428342,
+    "latitude": 51.0533109,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

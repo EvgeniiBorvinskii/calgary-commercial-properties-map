@@ -1,0 +1,36 @@
+{
+  "id": "12932349",
+  "fullDetails": {
+    "licenseNumber": "12932349",
+    "name": "TOM TANG",
+    "address": "5135 DALHAM CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2010-06-25T09:30:36.000Z",
+    "expiryDate": "2026-06-24T09:30:36.000Z",
+    "coordinates": [
+      -114.1590604,
+      51.1074289
+    ],
+    "longitude": -114.1590604,
+    "latitude": 51.1074289,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

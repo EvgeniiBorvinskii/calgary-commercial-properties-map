@@ -1,0 +1,37 @@
+{
+  "id": "16422388",
+  "fullDetails": {
+    "licenseNumber": "16422388",
+    "name": "CHEONG-DAM KOREAN BBQ",
+    "address": "#5130 4 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-12-08T15:26:41.000Z",
+    "expiryDate": "2026-12-07T15:26:41.000Z",
+    "coordinates": [
+      -114.2070346,
+      51.1521464
+    ],
+    "longitude": -114.2070346,
+    "latitude": 51.1521464,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

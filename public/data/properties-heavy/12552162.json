@@ -1,0 +1,37 @@
+{
+  "id": "12552162",
+  "fullDetails": {
+    "licenseNumber": "12552162",
+    "name": "WESTERN WINDOW COVERINGS",
+    "address": "#515 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-05-18T05:50:28.000Z",
+    "expiryDate": "2026-05-17T05:50:28.000Z",
+    "coordinates": [
+      -113.9657239,
+      51.1012592
+    ],
+    "longitude": -113.9657239,
+    "latitude": 51.1012592,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

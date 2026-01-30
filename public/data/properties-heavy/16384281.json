@@ -1,0 +1,37 @@
+{
+  "id": "16384281",
+  "fullDetails": {
+    "licenseNumber": "16384281",
+    "name": "KNELSEN SAND AND GRAVEL",
+    "address": "4300 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-23T15:35:51.000Z",
+    "expiryDate": "2027-01-22T15:35:51.000Z",
+    "coordinates": [
+      -113.9725118,
+      51.0108459
+    ],
+    "longitude": -113.9725118,
+    "latitude": 51.0108459,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

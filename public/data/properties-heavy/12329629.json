@@ -1,0 +1,36 @@
+{
+  "id": "12329629",
+  "fullDetails": {
+    "licenseNumber": "12329629",
+    "name": "VISIONSCAPES LANDSCAPE MAINTENANCE SERVICES",
+    "address": "#309 10820 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2013-03-28T13:00:35.000Z",
+    "expiryDate": "2026-03-27T13:00:35.000Z",
+    "coordinates": [
+      -113.9993479,
+      50.955554
+    ],
+    "longitude": -113.9993479,
+    "latitude": 50.955554,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

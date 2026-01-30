@@ -1,0 +1,36 @@
+{
+  "id": "16270902",
+  "fullDetails": {
+    "licenseNumber": "16270902",
+    "name": "MILK RUN",
+    "address": "#E4 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-29T09:15:20.000Z",
+    "expiryDate": "2026-03-28T09:15:20.000Z",
+    "coordinates": [
+      -114.1552902,
+      51.0845769
+    ],
+    "longitude": -114.1552902,
+    "latitude": 51.0845769,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15912124",
+  "fullDetails": {
+    "licenseNumber": "15912124",
+    "name": "FRIENDS AUTO",
+    "address": "#160 10990 42 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-08-19T08:52:03.000Z",
+    "expiryDate": "2026-08-18T08:52:03.000Z",
+    "coordinates": [
+      -113.9708012,
+      51.1525118
+    ],
+    "longitude": -113.9708012,
+    "latitude": 51.1525118,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

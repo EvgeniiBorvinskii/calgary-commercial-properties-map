@@ -1,0 +1,37 @@
+{
+  "id": "15145238",
+  "fullDetails": {
+    "licenseNumber": "15145238",
+    "name": "BOW MITSUBISHI",
+    "address": "171 GLENDEER CI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-12-21T14:44:16.000Z",
+    "expiryDate": "2026-12-20T14:44:16.000Z",
+    "coordinates": [
+      -114.0330092,
+      50.9876466
+    ],
+    "longitude": -114.0330092,
+    "latitude": 50.9876466,
+    "community": "GLENDEER BUSINESS PARK",
+    "ward": "GBP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

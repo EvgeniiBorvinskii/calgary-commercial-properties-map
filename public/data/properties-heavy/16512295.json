@@ -1,0 +1,36 @@
+{
+  "id": "16512295",
+  "fullDetails": {
+    "licenseNumber": "16512295",
+    "name": "KITCHEN TUNE - UP CALGARY SOUTH",
+    "address": "#201 3740C 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-07-04T09:15:10.000Z",
+    "expiryDate": "2026-07-03T09:15:10.000Z",
+    "coordinates": [
+      -114.0347239,
+      51.0857852
+    ],
+    "longitude": -114.0347239,
+    "latitude": 51.0857852,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13827498",
+  "fullDetails": {
+    "licenseNumber": "13827498",
+    "name": "PAROS SOUVLA",
+    "address": "#2110 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-06-18T08:48:24.000Z",
+    "expiryDate": "2026-06-17T08:48:24.000Z",
+    "coordinates": [
+      -114.2102123,
+      51.1519896
+    ],
+    "longitude": -114.2102123,
+    "latitude": 51.1519896,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

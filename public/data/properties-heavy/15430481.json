@@ -1,0 +1,36 @@
+{
+  "id": "15430481",
+  "fullDetails": {
+    "licenseNumber": "15430481",
+    "name": "SIRENA SALON AND BARBER",
+    "address": "3715A EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-07-10T15:15:51.000Z",
+    "expiryDate": "2026-07-09T15:15:51.000Z",
+    "coordinates": [
+      -114.0521232,
+      51.0856221
+    ],
+    "longitude": -114.0521232,
+    "latitude": 51.0856221,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12560009",
+  "fullDetails": {
+    "licenseNumber": "12560009",
+    "name": "BRITISH AUTO SPECIALISTS",
+    "address": "423A 38 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2007-05-07T15:21:05.000Z",
+    "expiryDate": "2026-05-06T15:21:05.000Z",
+    "coordinates": [
+      -114.0531308,
+      51.0865489
+    ],
+    "longitude": -114.0531308,
+    "latitude": 51.0865489,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

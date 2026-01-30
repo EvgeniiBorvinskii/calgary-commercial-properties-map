@@ -1,0 +1,37 @@
+{
+  "id": "15926553",
+  "fullDetails": {
+    "licenseNumber": "15926553",
+    "name": "APPLE LADY",
+    "address": "#10 3109 PALLISER DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-10T14:12:52.000Z",
+    "expiryDate": "2026-05-09T14:12:52.000Z",
+    "coordinates": [
+      -114.1306679,
+      50.9700439
+    ],
+    "longitude": -114.1306679,
+    "latitude": 50.9700439,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

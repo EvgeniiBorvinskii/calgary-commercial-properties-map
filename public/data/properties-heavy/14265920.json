@@ -1,0 +1,36 @@
+{
+  "id": "14265920",
+  "fullDetails": {
+    "licenseNumber": "14265920",
+    "name": "RED BULL CANADA",
+    "address": "#105 1610 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-10-13T15:28:55.000Z",
+    "expiryDate": "2026-10-12T15:28:55.000Z",
+    "coordinates": [
+      -114.0191473,
+      51.1472646
+    ],
+    "longitude": -114.0191473,
+    "latitude": 51.1472646,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

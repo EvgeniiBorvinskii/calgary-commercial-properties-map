@@ -1,0 +1,36 @@
+{
+  "id": "14749394",
+  "fullDetails": {
+    "licenseNumber": "14749394",
+    "name": "SNG-DEVELOPMENT GROUP",
+    "address": "#400 909 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2020-03-23T05:30:19.000Z",
+    "expiryDate": "2026-03-22T05:30:19.000Z",
+    "coordinates": [
+      -114.082302,
+      51.0376628
+    ],
+    "longitude": -114.082302,
+    "latitude": 51.0376628,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

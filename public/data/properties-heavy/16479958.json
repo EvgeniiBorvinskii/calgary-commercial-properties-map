@@ -1,0 +1,36 @@
+{
+  "id": "16479958",
+  "fullDetails": {
+    "licenseNumber": "16479958",
+    "name": "CIRCLE CREATIVES",
+    "address": "#112 1935 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-05-02T08:29:04.000Z",
+    "expiryDate": "2026-05-01T08:29:04.000Z",
+    "coordinates": [
+      -114.012717,
+      51.0811069
+    ],
+    "longitude": -114.012717,
+    "latitude": 51.0811069,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

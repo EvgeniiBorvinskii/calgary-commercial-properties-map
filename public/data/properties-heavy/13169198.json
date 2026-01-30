@@ -1,0 +1,36 @@
+{
+  "id": "13169198",
+  "fullDetails": {
+    "licenseNumber": "13169198",
+    "name": "CAL-RID EXTERMINATORS",
+    "address": "235 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-05-18T11:00:46.000Z",
+    "expiryDate": "2026-05-17T11:00:46.000Z",
+    "coordinates": [
+      -113.9067604,
+      50.9619585
+    ],
+    "longitude": -113.9067604,
+    "latitude": 50.9619585,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

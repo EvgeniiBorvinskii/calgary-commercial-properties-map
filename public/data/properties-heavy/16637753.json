@@ -1,0 +1,36 @@
+{
+  "id": "16637753",
+  "fullDetails": {
+    "licenseNumber": "16637753",
+    "name": "STAMPEDE SPARKLE",
+    "address": "#900 903 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2025-06-11T16:09:28.000Z",
+    "expiryDate": "2026-06-10T16:09:28.000Z",
+    "coordinates": [
+      -114.081779,
+      51.0458001
+    ],
+    "longitude": -114.081779,
+    "latitude": 51.0458001,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

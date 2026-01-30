@@ -1,0 +1,36 @@
+{
+  "id": "12050076",
+  "fullDetails": {
+    "licenseNumber": "12050076",
+    "name": "SIGNATURE AVIATION FBO",
+    "address": "1441 AVIATION PA NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "pending",
+    "issuedDate": "2002-02-06T17:32:04.000Z",
+    "expiryDate": "2026-02-05T05:35:29.000Z",
+    "coordinates": [
+      -114.0277482,
+      51.1001264
+    ],
+    "longitude": -114.0277482,
+    "latitude": 51.1001264,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

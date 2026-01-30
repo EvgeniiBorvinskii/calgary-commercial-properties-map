@@ -1,0 +1,36 @@
+{
+  "id": "15278211",
+  "fullDetails": {
+    "licenseNumber": "15278211",
+    "name": "SHIFT ACCESSIBILITY CONTRACTORS",
+    "address": "#10 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-04-04T16:23:14.000Z",
+    "expiryDate": "2026-04-03T16:23:14.000Z",
+    "coordinates": [
+      -114.0287706,
+      51.0879409
+    ],
+    "longitude": -114.0287706,
+    "latitude": 51.0879409,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

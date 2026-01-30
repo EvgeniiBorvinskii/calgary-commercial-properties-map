@@ -1,0 +1,36 @@
+{
+  "id": "16374217",
+  "fullDetails": {
+    "licenseNumber": "16374217",
+    "name": "GATE OF INDIA FSFV (CGY -2179)",
+    "address": "#311 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2023-09-29T14:13:16.000Z",
+    "expiryDate": "2026-03-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0569023,
+      51.1554361
+    ],
+    "longitude": -114.0569023,
+    "latitude": 51.1554361,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

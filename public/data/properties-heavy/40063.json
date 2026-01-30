@@ -1,0 +1,37 @@
+{
+  "id": "40063",
+  "fullDetails": {
+    "licenseNumber": "40063",
+    "name": "DELMAR COLLEGE",
+    "address": "5915 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. APPROVED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-01-16T05:33:07.000Z",
+    "expiryDate": "2027-01-15T05:33:07.000Z",
+    "coordinates": [
+      -114.0680849,
+      51.0009583
+    ],
+    "longitude": -114.0680849,
+    "latitude": 51.0009583,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

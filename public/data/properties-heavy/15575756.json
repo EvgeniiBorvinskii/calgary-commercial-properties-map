@@ -1,0 +1,37 @@
+{
+  "id": "15575756",
+  "fullDetails": {
+    "licenseNumber": "15575756",
+    "name": "SHOPPERS DRUG MART #314",
+    "address": "#5 3012 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-19T14:09:48.000Z",
+    "expiryDate": "2026-06-18T14:09:48.000Z",
+    "coordinates": [
+      -113.9911048,
+      51.0389058
+    ],
+    "longitude": -113.9911048,
+    "latitude": 51.0389058,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16280810",
+  "fullDetails": {
+    "licenseNumber": "16280810",
+    "name": "SBI-STRATEGIC",
+    "address": "#400 630 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-02-08T13:08:21.000Z",
+    "expiryDate": "2026-02-07T13:08:21.000Z",
+    "coordinates": [
+      -114.0756854,
+      51.0461827
+    ],
+    "longitude": -114.0756854,
+    "latitude": 51.0461827,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

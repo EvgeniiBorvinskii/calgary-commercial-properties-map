@@ -1,0 +1,37 @@
+{
+  "id": "16564825",
+  "fullDetails": {
+    "licenseNumber": "16564825",
+    "name": "GRACIE BARRA SOUTHEAST CALGARY",
+    "address": "#31 4948 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-02T10:32:05.000Z",
+    "expiryDate": "2026-06-01T10:32:04.000Z",
+    "coordinates": [
+      -113.9636047,
+      50.9357022
+    ],
+    "longitude": -113.9636047,
+    "latitude": 50.9357022,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

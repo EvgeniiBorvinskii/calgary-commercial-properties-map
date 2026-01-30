@@ -1,0 +1,36 @@
+{
+  "id": "14028906",
+  "fullDetails": {
+    "licenseNumber": "14028906",
+    "name": "LONGHORN ELECTRICAL SERVICE",
+    "address": "#231 11979 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2024-03-07T05:33:47.000Z",
+    "expiryDate": "2026-03-06T05:33:47.000Z",
+    "coordinates": [
+      -113.9765187,
+      50.9422458
+    ],
+    "longitude": -113.9765187,
+    "latitude": 50.9422458,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

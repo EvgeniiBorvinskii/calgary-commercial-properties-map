@@ -1,0 +1,36 @@
+{
+  "id": "16360497",
+  "fullDetails": {
+    "licenseNumber": "16360497",
+    "name": "E-NET SOLUTIONS",
+    "address": "#123 5120 47 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-09-17T15:33:22.000Z",
+    "expiryDate": "2026-09-16T15:33:22.000Z",
+    "coordinates": [
+      -113.9652209,
+      51.099048
+    ],
+    "longitude": -113.9652209,
+    "latitude": 51.099048,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

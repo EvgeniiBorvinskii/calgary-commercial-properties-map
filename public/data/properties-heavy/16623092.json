@@ -1,0 +1,36 @@
+{
+  "id": "16623092",
+  "fullDetails": {
+    "licenseNumber": "16623092",
+    "name": "REDOX WELLNESS",
+    "address": "1392 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-04-30T10:30:41.000Z",
+    "expiryDate": "2026-04-29T10:30:40.000Z",
+    "coordinates": [
+      -114.0935073,
+      51.0443933
+    ],
+    "longitude": -114.0935073,
+    "latitude": 51.0443933,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

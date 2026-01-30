@@ -1,0 +1,36 @@
+{
+  "id": "15743081",
+  "fullDetails": {
+    "licenseNumber": "15743081",
+    "name": "APARTMENT BUILDING",
+    "address": "328 MEREDITH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2020-11-11T05:31:35.000Z",
+    "expiryDate": "2026-11-10T05:31:35.000Z",
+    "coordinates": [
+      -114.0554487,
+      51.0525936
+    ],
+    "longitude": -114.0554487,
+    "latitude": 51.0525936,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

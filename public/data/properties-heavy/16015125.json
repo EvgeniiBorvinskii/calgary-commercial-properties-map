@@ -1,0 +1,36 @@
+{
+  "id": "16015125",
+  "fullDetails": {
+    "licenseNumber": "16015125",
+    "name": "KRAZY BINZ LIQUIDATIONS",
+    "address": "3351 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-26T12:32:43.000Z",
+    "expiryDate": "2026-04-25T12:32:43.000Z",
+    "coordinates": [
+      -113.9871107,
+      51.0701949
+    ],
+    "longitude": -113.9871107,
+    "latitude": 51.0701949,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

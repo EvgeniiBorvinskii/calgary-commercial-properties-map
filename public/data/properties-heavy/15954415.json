@@ -1,0 +1,36 @@
+{
+  "id": "15954415",
+  "fullDetails": {
+    "licenseNumber": "15954415",
+    "name": "ERA STYLE LOFT ASPEN",
+    "address": "#122 326 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-03T09:16:46.000Z",
+    "expiryDate": "2026-11-02T09:16:46.000Z",
+    "coordinates": [
+      -114.2084632,
+      51.0392749
+    ],
+    "longitude": -114.2084632,
+    "latitude": 51.0392749,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

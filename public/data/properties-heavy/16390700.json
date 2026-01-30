@@ -1,0 +1,36 @@
+{
+  "id": "16390700",
+  "fullDetails": {
+    "licenseNumber": "16390700",
+    "name": "AWASH MEDIA & MARKETING PROMOTION",
+    "address": "#16 3509 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "pending",
+    "issuedDate": "2023-10-06T14:21:11.000Z",
+    "expiryDate": "2024-10-05T14:21:11.000Z",
+    "coordinates": [
+      -113.9837995,
+      51.0373931
+    ],
+    "longitude": -113.9837995,
+    "latitude": 51.0373931,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

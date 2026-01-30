@@ -1,0 +1,36 @@
+{
+  "id": "14900864",
+  "fullDetails": {
+    "licenseNumber": "14900864",
+    "name": "EQUIPMENT EXPRESS",
+    "address": "3404 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-04-25T09:20:43.000Z",
+    "expiryDate": "2026-04-24T09:20:43.000Z",
+    "coordinates": [
+      -113.9881424,
+      50.9499738
+    ],
+    "longitude": -113.9881424,
+    "latitude": 50.9499738,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

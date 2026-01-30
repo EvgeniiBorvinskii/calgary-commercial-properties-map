@@ -1,0 +1,36 @@
+{
+  "id": "15949597",
+  "fullDetails": {
+    "licenseNumber": "15949597",
+    "name": "ORCHID PASTRY",
+    "address": "#9 6219 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-10-26T15:50:44.000Z",
+    "expiryDate": "2026-10-25T15:50:44.000Z",
+    "coordinates": [
+      -114.0637362,
+      51.1078289
+    ],
+    "longitude": -114.0637362,
+    "latitude": 51.1078289,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

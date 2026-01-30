@@ -1,0 +1,36 @@
+{
+  "id": "798595",
+  "fullDetails": {
+    "licenseNumber": "798595",
+    "name": "BASSANO GROWERS",
+    "address": "923 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-24T00:00:00.000Z",
+    "coordinates": [
+      -113.9943295,
+      51.0601355
+    ],
+    "longitude": -113.9943295,
+    "latitude": 51.0601355,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

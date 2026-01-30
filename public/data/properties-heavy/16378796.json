@@ -1,0 +1,36 @@
+{
+  "id": "16378796",
+  "fullDetails": {
+    "licenseNumber": "16378796",
+    "name": "AURAE AESTHETICS",
+    "address": "1819A 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-10-27T14:34:03.000Z",
+    "expiryDate": "2026-10-26T14:34:03.000Z",
+    "coordinates": [
+      -114.0718204,
+      51.0362815
+    ],
+    "longitude": -114.0718204,
+    "latitude": 51.0362815,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

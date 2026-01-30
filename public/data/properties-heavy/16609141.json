@@ -1,0 +1,36 @@
+{
+  "id": "16609141",
+  "fullDetails": {
+    "licenseNumber": "16609141",
+    "name": "PIASSA AUTO",
+    "address": "731 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-09T10:01:06.000Z",
+    "expiryDate": "2026-05-08T10:01:05.000Z",
+    "coordinates": [
+      -114.0459679,
+      51.0909064
+    ],
+    "longitude": -114.0459679,
+    "latitude": 51.0909064,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

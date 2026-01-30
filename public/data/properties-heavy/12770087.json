@@ -1,0 +1,36 @@
+{
+  "id": "12770087",
+  "fullDetails": {
+    "licenseNumber": "12770087",
+    "name": "ADAIR AUTO REPAIR",
+    "address": "#17 9151 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-09-08T05:49:14.000Z",
+    "expiryDate": "2026-09-07T05:49:13.000Z",
+    "coordinates": [
+      -113.9706414,
+      50.9717572
+    ],
+    "longitude": -113.9706414,
+    "latitude": 50.9717572,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

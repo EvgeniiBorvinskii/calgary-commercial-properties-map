@@ -1,0 +1,36 @@
+{
+  "id": "15868003",
+  "fullDetails": {
+    "licenseNumber": "15868003",
+    "name": "CHOKLAT",
+    "address": "#B 3601 21 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "pending",
+    "issuedDate": "2020-04-09T05:32:14.000Z",
+    "expiryDate": "2026-04-08T05:32:13.000Z",
+    "coordinates": [
+      -114.0089797,
+      51.0843129
+    ],
+    "longitude": -114.0089797,
+    "latitude": 51.0843129,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

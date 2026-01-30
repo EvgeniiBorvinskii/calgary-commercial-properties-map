@@ -1,0 +1,37 @@
+{
+  "id": "16386120",
+  "fullDetails": {
+    "licenseNumber": "16386120",
+    "name": "KANE'S MOTORCYCLE SHOP",
+    "address": "204 MERIDIAN RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2023-10-12T15:23:32.000Z",
+    "expiryDate": "2026-10-11T15:23:31.000Z",
+    "coordinates": [
+      -114.0002401,
+      51.0535051
+    ],
+    "longitude": -114.0002401,
+    "latitude": 51.0535051,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

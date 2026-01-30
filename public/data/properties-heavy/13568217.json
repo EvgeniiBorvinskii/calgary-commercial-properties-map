@@ -1,0 +1,37 @@
+{
+  "id": "13568217",
+  "fullDetails": {
+    "licenseNumber": "13568217",
+    "name": "DOLLARAMA",
+    "address": "#810 12024 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-10-16T13:35:27.000Z",
+    "expiryDate": "2026-10-15T13:35:27.000Z",
+    "coordinates": [
+      -114.160358,
+      51.1604163
+    ],
+    "longitude": -114.160358,
+    "latitude": 51.1604163,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

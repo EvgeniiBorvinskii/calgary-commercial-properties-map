@@ -1,0 +1,37 @@
+{
+  "id": "12664496",
+  "fullDetails": {
+    "licenseNumber": "12664496",
+    "name": "DRAPERY WORKS",
+    "address": "5836 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-03-16T10:15:20.000Z",
+    "expiryDate": "2026-03-15T10:15:20.000Z",
+    "coordinates": [
+      -114.0443859,
+      51.0020737
+    ],
+    "longitude": -114.0443859,
+    "latitude": 51.0020737,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

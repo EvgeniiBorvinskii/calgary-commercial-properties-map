@@ -1,0 +1,37 @@
+{
+  "id": "12148235",
+  "fullDetails": {
+    "licenseNumber": "12148235",
+    "name": "BREWSTERS BREWING COMPANY & RESTAURANT",
+    "address": "5519 53 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2002-10-26T17:12:51.000Z",
+    "expiryDate": "2026-10-25T05:34:45.000Z",
+    "coordinates": [
+      -113.9574644,
+      51.0034969
+    ],
+    "longitude": -113.9574644,
+    "latitude": 51.0034969,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

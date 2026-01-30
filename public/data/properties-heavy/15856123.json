@@ -1,0 +1,36 @@
+{
+  "id": "15856123",
+  "fullDetails": {
+    "licenseNumber": "15856123",
+    "name": "NIGHT OWL RESTAURANT",
+    "address": "420 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-12-12T15:21:47.000Z",
+    "expiryDate": "2026-12-11T15:21:47.000Z",
+    "coordinates": [
+      -114.0550059,
+      51.067361
+    ],
+    "longitude": -114.0550059,
+    "latitude": 51.067361,
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "ward": "WIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

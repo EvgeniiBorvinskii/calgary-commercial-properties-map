@@ -1,0 +1,36 @@
+{
+  "id": "12944856",
+  "fullDetails": {
+    "licenseNumber": "12944856",
+    "name": "HOMES BY AVI (CALGARY)",
+    "address": "#101 123 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-02-15T14:40:14.000Z",
+    "expiryDate": "2026-02-14T14:40:14.000Z",
+    "coordinates": [
+      -114.0602592,
+      50.9926735
+    ],
+    "longitude": -114.0602592,
+    "latitude": 50.9926735,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

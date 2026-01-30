@@ -1,0 +1,36 @@
+{
+  "id": "515437",
+  "fullDetails": {
+    "licenseNumber": "515437",
+    "name": "A-PLUS REGISTRY SERVICES",
+    "address": "#114 3604 52 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-11-13T11:52:58.000Z",
+    "expiryDate": "2026-11-12T11:52:58.000Z",
+    "coordinates": [
+      -114.1381782,
+      51.1017184
+    ],
+    "longitude": -114.1381782,
+    "latitude": 51.1017184,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14898985",
+  "fullDetails": {
+    "licenseNumber": "14898985",
+    "name": "LITTLE CAESARS",
+    "address": "#115 9825 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-05-22T08:08:55.000Z",
+    "expiryDate": "2026-05-21T08:08:54.000Z",
+    "coordinates": [
+      -114.0592496,
+      50.9645879
+    ],
+    "longitude": -114.0592496,
+    "latitude": 50.9645879,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

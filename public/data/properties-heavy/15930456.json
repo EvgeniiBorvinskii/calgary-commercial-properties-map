@@ -1,0 +1,36 @@
+{
+  "id": "15930456",
+  "fullDetails": {
+    "licenseNumber": "15930456",
+    "name": "OLD STREET OPTOMETRY",
+    "address": "#7Z 4825 MOUNT ROYAL GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-09-23T10:27:44.000Z",
+    "expiryDate": "2026-09-22T10:27:44.000Z",
+    "coordinates": [
+      -114.1327346,
+      51.0128117
+    ],
+    "longitude": -114.1327346,
+    "latitude": 51.0128117,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

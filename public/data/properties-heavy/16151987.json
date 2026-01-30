@@ -1,0 +1,36 @@
+{
+  "id": "16151987",
+  "fullDetails": {
+    "licenseNumber": "16151987",
+    "name": "WHO CARES WEAR EAST VILLAGE",
+    "address": "549 RIVERFRONT AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-04-20T13:20:13.000Z",
+    "expiryDate": "2026-04-19T13:20:13.000Z",
+    "coordinates": [
+      -114.0509268,
+      51.0472855
+    ],
+    "longitude": -114.0509268,
+    "latitude": 51.0472855,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

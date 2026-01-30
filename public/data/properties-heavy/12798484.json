@@ -1,0 +1,37 @@
+{
+  "id": "12798484",
+  "fullDetails": {
+    "licenseNumber": "12798484",
+    "name": "PETRO CANADA WILLOWRIDGE",
+    "address": "9900 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2009-10-02T11:05:50.000Z",
+    "expiryDate": "2026-10-01T11:05:50.000Z",
+    "coordinates": [
+      -114.0581702,
+      50.9636906
+    ],
+    "longitude": -114.0581702,
+    "latitude": 50.9636906,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12842639",
+  "fullDetails": {
+    "licenseNumber": "12842639",
+    "name": "FIDO 5515",
+    "address": "#16K 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-10-30T13:41:08.000Z",
+    "expiryDate": "2026-10-29T13:41:08.000Z",
+    "coordinates": [
+      -113.9861514,
+      51.0737016
+    ],
+    "longitude": -113.9861514,
+    "latitude": 51.0737016,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15054190",
+  "fullDetails": {
+    "licenseNumber": "15054190",
+    "name": "CODEWORX SERVICES",
+    "address": "6132 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2020-01-17T09:49:57.000Z",
+    "expiryDate": "2026-01-16T09:49:57.000Z",
+    "coordinates": [
+      -113.9667964,
+      50.9998003
+    ],
+    "longitude": -113.9667964,
+    "latitude": 50.9998003,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

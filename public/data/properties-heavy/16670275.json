@@ -1,0 +1,37 @@
+{
+  "id": "16670275",
+  "fullDetails": {
+    "licenseNumber": "16670275",
+    "name": "DAILY-GO MART",
+    "address": "#6 4100 MARLBOROUGH DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-08-28T15:10:11.000Z",
+    "expiryDate": "2026-08-27T15:10:11.000Z",
+    "coordinates": [
+      -113.9746195,
+      51.0598745
+    ],
+    "longitude": -113.9746195,
+    "latitude": 51.0598745,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

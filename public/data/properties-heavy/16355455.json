@@ -1,0 +1,36 @@
+{
+  "id": "16355455",
+  "fullDetails": {
+    "licenseNumber": "16355455",
+    "name": "ANACRUSIS MUSIC",
+    "address": "#205 1410 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-14T16:10:08.000Z",
+    "expiryDate": "2026-09-13T16:10:08.000Z",
+    "coordinates": [
+      -114.0941266,
+      51.0434454
+    ],
+    "longitude": -114.0941266,
+    "latitude": 51.0434454,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

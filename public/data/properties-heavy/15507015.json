@@ -1,0 +1,37 @@
+{
+  "id": "15507015",
+  "fullDetails": {
+    "licenseNumber": "15507015",
+    "name": "MAX PHYSIOTHERAPY",
+    "address": "#329 7171 80 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2019-06-04T09:24:24.000Z",
+    "expiryDate": "2026-06-03T09:24:24.000Z",
+    "coordinates": [
+      -113.9307868,
+      51.1247584
+    ],
+    "longitude": -113.9307868,
+    "latitude": 51.1247584,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

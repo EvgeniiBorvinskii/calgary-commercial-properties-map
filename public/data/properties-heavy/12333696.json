@@ -1,0 +1,36 @@
+{
+  "id": "12333696",
+  "fullDetails": {
+    "licenseNumber": "12333696",
+    "name": "KICKS SPORTING GOODS",
+    "address": "#680 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-12-10T08:04:58.000Z",
+    "expiryDate": "2026-12-09T08:04:58.000Z",
+    "coordinates": [
+      -114.0742464,
+      50.9655416
+    ],
+    "longitude": -114.0742464,
+    "latitude": 50.9655416,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

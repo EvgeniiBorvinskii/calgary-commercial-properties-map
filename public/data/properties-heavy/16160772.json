@@ -1,0 +1,36 @@
+{
+  "id": "16160772",
+  "fullDetails": {
+    "licenseNumber": "16160772",
+    "name": "ALLEY (THE)",
+    "address": "3941 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-06-02T14:48:46.000Z",
+    "expiryDate": "2026-06-01T14:48:46.000Z",
+    "coordinates": [
+      -114.1441296,
+      51.078202
+    ],
+    "longitude": -114.1441296,
+    "latitude": 51.078202,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

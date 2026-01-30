@@ -1,0 +1,36 @@
+{
+  "id": "16495350",
+  "fullDetails": {
+    "licenseNumber": "16495350",
+    "name": "EATTURMERIC",
+    "address": "3515H 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-05T15:33:52.000Z",
+    "expiryDate": "2026-06-04T15:33:52.000Z",
+    "coordinates": [
+      -113.9899767,
+      51.0845531
+    ],
+    "longitude": -113.9899767,
+    "latitude": 51.0845531,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

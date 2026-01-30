@@ -1,0 +1,36 @@
+{
+  "id": "16360638",
+  "fullDetails": {
+    "licenseNumber": "16360638",
+    "name": "SPRUCE RIDGE ESTATES",
+    "address": "3372 SPRUCE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-08-01T07:36:50.000Z",
+    "expiryDate": "2026-07-31T07:36:50.000Z",
+    "coordinates": [
+      -114.1345554,
+      51.0468915
+    ],
+    "longitude": -114.1345554,
+    "latitude": 51.0468915,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12038956",
+  "fullDetails": {
+    "licenseNumber": "12038956",
+    "name": "CAM INDUSTRIAL SUPPLY",
+    "address": "#20 7095 64 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-08-29T05:30:33.000Z",
+    "expiryDate": "2026-08-28T05:30:33.000Z",
+    "coordinates": [
+      -113.9417309,
+      50.9915549
+    ],
+    "longitude": -113.9417309,
+    "latitude": 50.9915549,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

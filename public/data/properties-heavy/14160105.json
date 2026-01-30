@@ -1,0 +1,36 @@
+{
+  "id": "14160105",
+  "fullDetails": {
+    "licenseNumber": "14160105",
+    "name": "CLS CATERING",
+    "address": "#110 588 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-06-02T12:08:16.000Z",
+    "expiryDate": "2026-06-01T12:08:16.000Z",
+    "coordinates": [
+      -114.0350271,
+      51.1358694
+    ],
+    "longitude": -114.0350271,
+    "latitude": 51.1358694,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13551700",
+  "fullDetails": {
+    "licenseNumber": "13551700",
+    "name": "TRUEBALANCE CALGARY",
+    "address": "#101 7370 SIERRA MORENA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-02-16T08:51:25.000Z",
+    "expiryDate": "2026-02-15T08:51:25.000Z",
+    "coordinates": [
+      -114.1768523,
+      51.0159806
+    ],
+    "longitude": -114.1768523,
+    "latitude": 51.0159806,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

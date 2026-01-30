@@ -1,0 +1,37 @@
+{
+  "id": "16100901",
+  "fullDetails": {
+    "licenseNumber": "16100901",
+    "name": "PUP CITY DOGGY DAYCARE",
+    "address": "#2 4291 120 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-13T13:33:16.000Z",
+    "expiryDate": "2026-12-12T13:33:16.000Z",
+    "coordinates": [
+      -113.9728796,
+      50.9427224
+    ],
+    "longitude": -113.9728796,
+    "latitude": 50.9427224,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

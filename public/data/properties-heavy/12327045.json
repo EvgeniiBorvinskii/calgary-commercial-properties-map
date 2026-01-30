@@ -1,0 +1,36 @@
+{
+  "id": "12327045",
+  "fullDetails": {
+    "licenseNumber": "12327045",
+    "name": "CROWFOOT MINIT-TUNE & BRAKE",
+    "address": "152 CROWFOOT GA NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2004-11-30T09:21:49.000Z",
+    "expiryDate": "2026-11-29T09:21:49.000Z",
+    "coordinates": [
+      -114.1972049,
+      51.1279114
+    ],
+    "longitude": -114.1972049,
+    "latitude": 51.1279114,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

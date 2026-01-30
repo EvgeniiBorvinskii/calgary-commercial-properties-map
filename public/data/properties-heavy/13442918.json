@@ -1,0 +1,36 @@
+{
+  "id": "13442918",
+  "fullDetails": {
+    "licenseNumber": "13442918",
+    "name": "GREEN MEADOW LANDSCAPES & MAINTENANCE",
+    "address": "#B 4632 5 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-09-14T14:56:03.000Z",
+    "expiryDate": "2026-09-13T14:56:03.000Z",
+    "coordinates": [
+      -114.050767,
+      51.0941167
+    ],
+    "longitude": -114.050767,
+    "latitude": 51.0941167,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

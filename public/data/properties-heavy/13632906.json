@@ -1,0 +1,37 @@
+{
+  "id": "13632906",
+  "fullDetails": {
+    "licenseNumber": "13632906",
+    "name": "FLAVOURS CUISINE AND CATERING",
+    "address": "4129 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "in_progress",
+    "issuedDate": "2013-03-11T16:20:09.000Z",
+    "expiryDate": "2026-03-10T16:20:09.000Z",
+    "coordinates": [
+      -114.0721612,
+      51.0885638
+    ],
+    "longitude": -114.0721612,
+    "latitude": 51.0885638,
+    "community": "HIGHWOOD",
+    "ward": "HIW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

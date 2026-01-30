@@ -1,0 +1,36 @@
+{
+  "id": "12621140",
+  "fullDetails": {
+    "licenseNumber": "12621140",
+    "name": "PET PLANET",
+    "address": "#3133 150 MILLRISE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-05-25T09:18:31.000Z",
+    "expiryDate": "2026-05-24T09:18:31.000Z",
+    "coordinates": [
+      -114.0713285,
+      50.9139832
+    ],
+    "longitude": -114.0713285,
+    "latitude": 50.9139832,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16350274",
+  "fullDetails": {
+    "licenseNumber": "16350274",
+    "name": "SARCEE PETRO CANADA",
+    "address": "4646 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-09-27T15:57:23.000Z",
+    "expiryDate": "2026-09-26T15:57:23.000Z",
+    "coordinates": [
+      -114.1405105,
+      51.0127628
+    ],
+    "longitude": -114.1405105,
+    "latitude": 51.0127628,
+    "community": "RUTLAND PARK",
+    "ward": "RUT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

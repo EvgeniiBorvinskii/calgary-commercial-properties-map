@@ -1,0 +1,36 @@
+{
+  "id": "12409678",
+  "fullDetails": {
+    "licenseNumber": "12409678",
+    "name": "EM PLASTIC & ELECTRICAL PRODUCTS",
+    "address": "#10 4900 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-08-31T15:24:55.000Z",
+    "expiryDate": "2026-08-30T15:24:55.000Z",
+    "coordinates": [
+      -113.9633348,
+      50.9970293
+    ],
+    "longitude": -113.9633348,
+    "latitude": 50.9970293,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

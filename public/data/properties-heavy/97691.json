@@ -1,0 +1,36 @@
+{
+  "id": "97691",
+  "fullDetails": {
+    "licenseNumber": "97691",
+    "name": "ROBINSON LIGHTING & BATH CENTRE",
+    "address": "4120 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-12-30T05:46:47.000Z",
+    "expiryDate": "2026-12-29T05:46:47.000Z",
+    "coordinates": [
+      -114.0475956,
+      51.0176743
+    ],
+    "longitude": -114.0475956,
+    "latitude": 51.0176743,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

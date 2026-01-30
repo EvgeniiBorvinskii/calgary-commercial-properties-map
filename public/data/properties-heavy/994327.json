@@ -1,0 +1,36 @@
+{
+  "id": "994327",
+  "fullDetails": {
+    "licenseNumber": "994327",
+    "name": "ARDENE",
+    "address": "#172 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-02T08:53:22.000Z",
+    "expiryDate": "2026-10-01T08:53:22.000Z",
+    "coordinates": [
+      -113.9866934,
+      51.0732181
+    ],
+    "longitude": -113.9866934,
+    "latitude": 51.0732181,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

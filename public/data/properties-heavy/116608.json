@@ -1,0 +1,37 @@
+{
+  "id": "116608",
+  "fullDetails": {
+    "licenseNumber": "116608",
+    "name": "EMPIRE TRUCK PARTS",
+    "address": "2820 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nSALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9577222,
+      51.0276832
+    ],
+    "longitude": -113.9577222,
+    "latitude": 51.0276832,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

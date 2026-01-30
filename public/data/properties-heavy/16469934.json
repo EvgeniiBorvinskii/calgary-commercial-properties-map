@@ -1,0 +1,36 @@
+{
+  "id": "16469934",
+  "fullDetails": {
+    "licenseNumber": "16469934",
+    "name": "L K PLUMBING GASFITTING HEATING STEAMFITTING",
+    "address": "#520 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-24T09:22:38.000Z",
+    "expiryDate": "2026-06-23T09:22:38.000Z",
+    "coordinates": [
+      -113.9878842,
+      51.0585765
+    ],
+    "longitude": -113.9878842,
+    "latitude": 51.0585765,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16118283",
+  "fullDetails": {
+    "licenseNumber": "16118283",
+    "name": "RISING TIDES TAPROOM",
+    "address": "4545 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING ESTABLISHMENT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-04-21T17:48:58.000Z",
+    "expiryDate": "2026-04-20T17:48:58.000Z",
+    "coordinates": [
+      -114.1589717,
+      51.0712726
+    ],
+    "longitude": -114.1589717,
+    "latitude": 51.0712726,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

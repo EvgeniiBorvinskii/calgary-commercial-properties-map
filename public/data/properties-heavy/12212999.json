@@ -1,0 +1,36 @@
+{
+  "id": "12212999",
+  "fullDetails": {
+    "licenseNumber": "12212999",
+    "name": "FUTURA DEVELOPMENTS",
+    "address": "#12 12110 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-04-21T05:33:38.000Z",
+    "expiryDate": "2026-04-20T05:33:38.000Z",
+    "coordinates": [
+      -113.9745083,
+      50.9424669
+    ],
+    "longitude": -113.9745083,
+    "latitude": 50.9424669,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

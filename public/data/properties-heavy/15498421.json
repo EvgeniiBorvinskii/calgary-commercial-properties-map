@@ -1,0 +1,36 @@
+{
+  "id": "15498421",
+  "fullDetails": {
+    "licenseNumber": "15498421",
+    "name": "PUNJABI CHULHA RESTAURANT AND SWEETS (CGY-1409)  FSFV",
+    "address": "83 MARTINDALE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2019-07-04T14:42:31.000Z",
+    "expiryDate": "2026-07-03T14:42:31.000Z",
+    "coordinates": [
+      -113.9519052,
+      51.1138916
+    ],
+    "longitude": -113.9519052,
+    "latitude": 51.1138916,
+    "community": "MARTINDALE",
+    "ward": "MRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

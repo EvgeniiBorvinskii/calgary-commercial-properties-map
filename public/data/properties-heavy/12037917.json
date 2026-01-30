@@ -1,0 +1,36 @@
+{
+  "id": "12037917",
+  "fullDetails": {
+    "licenseNumber": "12037917",
+    "name": "ACCURATE SCREEN",
+    "address": "#105 5440 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-04-17T09:33:20.000Z",
+    "expiryDate": "2026-04-16T09:33:20.000Z",
+    "coordinates": [
+      -113.9526939,
+      50.9906402
+    ],
+    "longitude": -113.9526939,
+    "latitude": 50.9906402,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12415535",
+  "fullDetails": {
+    "licenseNumber": "12415535",
+    "name": "ISTOCK PHOTO",
+    "address": "#301 1240 20 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2008-12-01T09:50:03.000Z",
+    "expiryDate": "2026-11-30T09:50:03.000Z",
+    "coordinates": [
+      -114.034665,
+      51.0364157
+    ],
+    "longitude": -114.034665,
+    "latitude": 51.0364157,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

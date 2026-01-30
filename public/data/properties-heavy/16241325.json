@@ -1,0 +1,36 @@
+{
+  "id": "16241325",
+  "fullDetails": {
+    "licenseNumber": "16241325",
+    "name": "VIENNA MARDA LOOP",
+    "address": "#110 1934 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-16T09:22:56.000Z",
+    "expiryDate": "2026-03-15T09:22:56.000Z",
+    "coordinates": [
+      -114.1064707,
+      51.0233839
+    ],
+    "longitude": -114.1064707,
+    "latitude": 51.0233839,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

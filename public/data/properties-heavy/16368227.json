@@ -1,0 +1,36 @@
+{
+  "id": "16368227",
+  "fullDetails": {
+    "licenseNumber": "16368227",
+    "name": "LIFE JOY SALON",
+    "address": "2727 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-09-08T15:13:11.000Z",
+    "expiryDate": "2026-09-07T15:13:11.000Z",
+    "coordinates": [
+      -114.124942,
+      51.0672966
+    ],
+    "longitude": -114.124942,
+    "latitude": 51.0672966,
+    "community": "ST. ANDREWS HEIGHTS",
+    "ward": "STA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

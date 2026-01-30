@@ -1,0 +1,36 @@
+{
+  "id": "13949425",
+  "fullDetails": {
+    "licenseNumber": "13949425",
+    "name": "YOTSUBA DENTAL",
+    "address": "#112 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-07-30T05:33:00.000Z",
+    "expiryDate": "2026-07-29T05:33:00.000Z",
+    "coordinates": [
+      -114.0727868,
+      50.9908173
+    ],
+    "longitude": -114.0727868,
+    "latitude": 50.9908173,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

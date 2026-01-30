@@ -1,0 +1,36 @@
+{
+  "id": "16519159",
+  "fullDetails": {
+    "licenseNumber": "16519159",
+    "name": "LOCKSMITH PROF",
+    "address": "144 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-31T08:00:05.000Z",
+    "expiryDate": "2026-07-30T08:00:04.000Z",
+    "coordinates": [
+      -114.0630273,
+      51.0091748
+    ],
+    "longitude": -114.0630273,
+    "latitude": 51.0091748,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

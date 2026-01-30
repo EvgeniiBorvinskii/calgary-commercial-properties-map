@@ -1,0 +1,37 @@
+{
+  "id": "16483182",
+  "fullDetails": {
+    "licenseNumber": "16483182",
+    "name": "SUSHI ROKU",
+    "address": "2213 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-11-07T14:40:22.000Z",
+    "expiryDate": "2026-11-06T14:40:22.000Z",
+    "coordinates": [
+      -114.0631207,
+      51.0720779
+    ],
+    "longitude": -114.0631207,
+    "latitude": 51.0720779,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

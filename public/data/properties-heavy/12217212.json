@@ -1,0 +1,36 @@
+{
+  "id": "12217212",
+  "fullDetails": {
+    "licenseNumber": "12217212",
+    "name": "UNITED RENTALS OF CANADA",
+    "address": "11447 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-04-03T05:35:17.000Z",
+    "expiryDate": "2026-04-02T05:35:17.000Z",
+    "coordinates": [
+      -113.9753417,
+      50.9515173
+    ],
+    "longitude": -113.9753417,
+    "latitude": 50.9515173,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

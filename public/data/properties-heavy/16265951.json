@@ -1,0 +1,36 @@
+{
+  "id": "16265951",
+  "fullDetails": {
+    "licenseNumber": "16265951",
+    "name": "LEE'S LIQUOR STORE",
+    "address": "#1 2610 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2023-01-24T10:45:47.000Z",
+    "expiryDate": "2026-01-23T10:45:47.000Z",
+    "coordinates": [
+      -114.0620441,
+      51.0754736
+    ],
+    "longitude": -114.0620441,
+    "latitude": 51.0754736,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

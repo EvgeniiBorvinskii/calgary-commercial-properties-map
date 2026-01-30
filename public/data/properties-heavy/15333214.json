@@ -1,0 +1,36 @@
+{
+  "id": "15333214",
+  "fullDetails": {
+    "licenseNumber": "15333214",
+    "name": "LYNNWOOD AUTO REPAIR",
+    "address": "6811 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-05-29T09:57:36.000Z",
+    "expiryDate": "2026-05-28T09:57:36.000Z",
+    "coordinates": [
+      -114.0023718,
+      50.9914492
+    ],
+    "longitude": -114.0023718,
+    "latitude": 50.9914492,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

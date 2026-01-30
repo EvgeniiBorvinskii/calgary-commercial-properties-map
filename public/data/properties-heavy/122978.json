@@ -1,0 +1,36 @@
+{
+  "id": "122978",
+  "fullDetails": {
+    "licenseNumber": "122978",
+    "name": "LUSTER GLAZE",
+    "address": "#2 1236 38 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-26T00:00:00.000Z",
+    "coordinates": [
+      -114.0334217,
+      51.0875805
+    ],
+    "longitude": -114.0334217,
+    "latitude": 51.0875805,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

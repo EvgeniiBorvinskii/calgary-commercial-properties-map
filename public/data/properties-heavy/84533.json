@@ -1,0 +1,37 @@
+{
+  "id": "84533",
+  "fullDetails": {
+    "licenseNumber": "84533",
+    "name": "CASTERLAND",
+    "address": "#3020 2600 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-12-28T11:49:08.000Z",
+    "expiryDate": "2026-12-27T11:49:08.000Z",
+    "coordinates": [
+      -114.0305126,
+      51.0320666
+    ],
+    "longitude": -114.0305126,
+    "latitude": 51.0320666,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

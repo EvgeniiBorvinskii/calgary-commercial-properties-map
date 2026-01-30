@@ -1,0 +1,36 @@
+{
+  "id": "16585895",
+  "fullDetails": {
+    "licenseNumber": "16585895",
+    "name": "SUM SUM HONG GINSENG STORE 2",
+    "address": "#192 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-02-11T16:17:36.000Z",
+    "expiryDate": "2027-02-10T16:17:36.000Z",
+    "coordinates": [
+      -114.0640007,
+      51.0667154
+    ],
+    "longitude": -114.0640007,
+    "latitude": 51.0667154,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

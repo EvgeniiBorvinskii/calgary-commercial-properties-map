@@ -1,0 +1,37 @@
+{
+  "id": "16087835",
+  "fullDetails": {
+    "licenseNumber": "16087835",
+    "name": "VIDEO MAX GAS",
+    "address": "#38 17107 JAMES MCKEVITT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2021-10-21T14:10:15.000Z",
+    "expiryDate": "2026-10-20T14:10:15.000Z",
+    "coordinates": [
+      -114.0941995,
+      50.9001065
+    ],
+    "longitude": -114.0941995,
+    "latitude": 50.9001065,
+    "community": "SOMERSET",
+    "ward": "SOM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

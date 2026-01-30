@@ -1,0 +1,36 @@
+{
+  "id": "16583205",
+  "fullDetails": {
+    "licenseNumber": "16583205",
+    "name": "IMPECCABLE INTERIORS",
+    "address": "#2148 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-18T14:43:54.000Z",
+    "expiryDate": "2026-12-17T14:43:53.000Z",
+    "coordinates": [
+      -113.9801368,
+      51.1003379
+    ],
+    "longitude": -113.9801368,
+    "latitude": 51.1003379,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

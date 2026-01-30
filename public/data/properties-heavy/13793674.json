@@ -1,0 +1,36 @@
+{
+  "id": "13793674",
+  "fullDetails": {
+    "licenseNumber": "13793674",
+    "name": "KRYSTYNA SKIN CARE",
+    "address": "#26 240 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2014-01-21T14:46:47.000Z",
+    "expiryDate": "2027-01-20T14:46:47.000Z",
+    "coordinates": [
+      -114.0633948,
+      50.9138208
+    ],
+    "longitude": -114.0633948,
+    "latitude": 50.9138208,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

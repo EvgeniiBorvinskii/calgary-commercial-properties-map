@@ -1,0 +1,36 @@
+{
+  "id": "15003866",
+  "fullDetails": {
+    "licenseNumber": "15003866",
+    "name": "ROYAL AUTO DETAILING SERVICE",
+    "address": "140 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (MOBILE WASH)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (MOBILE WASH)",
+    "status": "active",
+    "issuedDate": "2023-10-18T14:24:15.000Z",
+    "expiryDate": "2026-10-17T14:24:15.000Z",
+    "coordinates": [
+      -114.0614448,
+      51.0435163
+    ],
+    "longitude": -114.0614448,
+    "latitude": 51.0435163,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

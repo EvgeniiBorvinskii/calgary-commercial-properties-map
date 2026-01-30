@@ -1,0 +1,36 @@
+{
+  "id": "935320",
+  "fullDetails": {
+    "licenseNumber": "935320",
+    "name": "MATCO TRANSPORTATION SYSTEMS",
+    "address": "#200 229 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2023-04-10T12:53:10.000Z",
+    "expiryDate": "2026-04-09T12:53:10.000Z",
+    "coordinates": [
+      -113.9877357,
+      51.0526663
+    ],
+    "longitude": -113.9877357,
+    "latitude": 51.0526663,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

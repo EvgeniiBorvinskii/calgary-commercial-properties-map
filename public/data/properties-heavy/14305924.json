@@ -1,0 +1,36 @@
+{
+  "id": "14305924",
+  "fullDetails": {
+    "licenseNumber": "14305924",
+    "name": "JUGO JUICE AT SAIT",
+    "address": "628 BOYCE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-20T08:29:32.000Z",
+    "expiryDate": "2026-09-19T08:29:32.000Z",
+    "coordinates": [
+      -114.0900977,
+      51.0645129
+    ],
+    "longitude": -114.0900977,
+    "latitude": 51.0645129,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15772460",
+  "fullDetails": {
+    "licenseNumber": "15772460",
+    "name": "BISTRO ON THE BOW",
+    "address": "#1001AA 2016A AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-10-09T09:06:31.000Z",
+    "expiryDate": "2026-10-08T09:06:31.000Z",
+    "coordinates": [
+      -114.0051508,
+      51.1307981
+    ],
+    "longitude": -114.0051508,
+    "latitude": 51.1307981,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

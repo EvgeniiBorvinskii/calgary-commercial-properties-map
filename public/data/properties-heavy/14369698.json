@@ -1,0 +1,36 @@
+{
+  "id": "14369698",
+  "fullDetails": {
+    "licenseNumber": "14369698",
+    "name": "TAIL BLAZERS",
+    "address": "#101 4400 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-23T08:27:00.000Z",
+    "expiryDate": "2026-11-22T08:27:00.000Z",
+    "coordinates": [
+      -114.0941322,
+      51.0909165
+    ],
+    "longitude": -114.0941322,
+    "latitude": 51.0909165,
+    "community": "NORTH HAVEN",
+    "ward": "NHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

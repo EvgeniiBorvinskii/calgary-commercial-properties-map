@@ -1,0 +1,36 @@
+{
+  "id": "15036536",
+  "fullDetails": {
+    "licenseNumber": "15036536",
+    "name": "FRESH TASTE PRODUCE",
+    "address": "#152 10450 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-09-21T08:49:23.000Z",
+    "expiryDate": "2026-09-20T08:49:23.000Z",
+    "coordinates": [
+      -113.9604502,
+      50.9596001
+    ],
+    "longitude": -113.9604502,
+    "latitude": 50.9596001,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

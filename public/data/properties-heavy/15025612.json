@@ -1,0 +1,36 @@
+{
+  "id": "15025612",
+  "fullDetails": {
+    "licenseNumber": "15025612",
+    "name": "BELL STORE 19",
+    "address": "#716K 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-05T07:59:59.000Z",
+    "expiryDate": "2026-10-04T07:59:59.000Z",
+    "coordinates": [
+      -113.978607,
+      51.0564637
+    ],
+    "longitude": -113.978607,
+    "latitude": 51.0564637,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

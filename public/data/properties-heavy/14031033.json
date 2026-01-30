@@ -1,0 +1,37 @@
+{
+  "id": "14031033",
+  "fullDetails": {
+    "licenseNumber": "14031033",
+    "name": "GOPERFORMANCE FITNESS LAB",
+    "address": "2123 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2015-11-12T12:07:26.000Z",
+    "expiryDate": "2026-11-11T12:07:26.000Z",
+    "coordinates": [
+      -114.110705,
+      51.023664
+    ],
+    "longitude": -114.110705,
+    "latitude": 51.023664,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

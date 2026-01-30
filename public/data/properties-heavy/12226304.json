@@ -1,0 +1,37 @@
+{
+  "id": "12226304",
+  "fullDetails": {
+    "licenseNumber": "12226304",
+    "name": "JBC",
+    "address": "#191 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-09-15T10:21:07.000Z",
+    "expiryDate": "2026-09-14T10:21:07.000Z",
+    "coordinates": [
+      -114.06388,
+      51.0665477
+    ],
+    "longitude": -114.06388,
+    "latitude": 51.0665477,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

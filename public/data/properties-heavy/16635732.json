@@ -1,0 +1,37 @@
+{
+  "id": "16635732",
+  "fullDetails": {
+    "licenseNumber": "16635732",
+    "name": "STARBUCKS COFFEE #81583",
+    "address": "510 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-06-03T10:50:39.000Z",
+    "expiryDate": "2026-06-02T10:50:39.000Z",
+    "coordinates": [
+      -114.0564786,
+      51.1110199
+    ],
+    "longitude": -114.0564786,
+    "latitude": 51.1110199,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

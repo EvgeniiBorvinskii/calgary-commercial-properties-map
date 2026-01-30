@@ -1,0 +1,36 @@
+{
+  "id": "14506299",
+  "fullDetails": {
+    "licenseNumber": "14506299",
+    "name": "SPIRITS OF CRANSTON",
+    "address": "#5 90 CRANLEIGH DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2017-05-11T08:24:38.000Z",
+    "expiryDate": "2026-05-10T08:24:38.000Z",
+    "coordinates": [
+      -113.9883168,
+      50.8935404
+    ],
+    "longitude": -113.9883168,
+    "latitude": 50.8935404,
+    "community": "CRANSTON",
+    "ward": "CRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

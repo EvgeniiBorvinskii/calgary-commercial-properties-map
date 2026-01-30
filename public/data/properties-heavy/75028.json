@@ -1,0 +1,37 @@
+{
+  "id": "75028",
+  "fullDetails": {
+    "licenseNumber": "75028",
+    "name": "A-1 AUTO BODY",
+    "address": "5304 1A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0609232,
+      51.0068336
+    ],
+    "longitude": -114.0609232,
+    "latitude": 51.0068336,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

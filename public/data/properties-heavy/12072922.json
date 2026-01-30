@@ -1,0 +1,36 @@
+{
+  "id": "12072922",
+  "fullDetails": {
+    "licenseNumber": "12072922",
+    "name": "C-WEST CUSTOM FIXTURES",
+    "address": "#120 10770 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-08-02T15:38:49.000Z",
+    "expiryDate": "2026-08-01T15:38:49.000Z",
+    "coordinates": [
+      -113.9953252,
+      51.1528636
+    ],
+    "longitude": -113.9953252,
+    "latitude": 51.1528636,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

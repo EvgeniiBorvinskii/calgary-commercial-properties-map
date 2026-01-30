@@ -1,0 +1,37 @@
+{
+  "id": "12775409",
+  "fullDetails": {
+    "licenseNumber": "12775409",
+    "name": "CHECKERED FLAG AUTO SALES",
+    "address": "3500 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-08T12:57:36.000Z",
+    "expiryDate": "2026-07-07T12:57:35.000Z",
+    "coordinates": [
+      -113.9847703,
+      51.0571266
+    ],
+    "longitude": -113.9847703,
+    "latitude": 51.0571266,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

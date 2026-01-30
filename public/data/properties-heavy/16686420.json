@@ -1,0 +1,37 @@
+{
+  "id": "16686420",
+  "fullDetails": {
+    "licenseNumber": "16686420",
+    "name": "AMBROSIA TOUCH",
+    "address": "313 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "BODY RUB CENTRE",
+    "licenseTypes": "PERSONAL SERVICE,\nBODY RUB CENTRE",
+    "status": "active",
+    "issuedDate": "2025-11-05T14:39:51.000Z",
+    "expiryDate": "2026-11-04T14:39:51.000Z",
+    "coordinates": [
+      -114.0680261,
+      51.066719
+    ],
+    "longitude": -114.0680261,
+    "latitude": 51.066719,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

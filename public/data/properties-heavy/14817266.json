@@ -1,0 +1,37 @@
+{
+  "id": "14817266",
+  "fullDetails": {
+    "licenseNumber": "14817266",
+    "name": "ATHLETICA GYMNASTICS",
+    "address": "#134 1338B 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-06-05T15:50:49.000Z",
+    "expiryDate": "2026-06-04T15:50:48.000Z",
+    "coordinates": [
+      -114.0268292,
+      51.0861151
+    ],
+    "longitude": -114.0268292,
+    "latitude": 51.0861151,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

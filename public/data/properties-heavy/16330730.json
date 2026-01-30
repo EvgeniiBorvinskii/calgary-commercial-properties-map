@@ -1,0 +1,36 @@
+{
+  "id": "16330730",
+  "fullDetails": {
+    "licenseNumber": "16330730",
+    "name": "2399600 ALBERTA",
+    "address": "3526 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2023-08-09T09:37:33.000Z",
+    "expiryDate": "2025-08-08T09:37:33.000Z",
+    "coordinates": [
+      -113.9969031,
+      51.0849415
+    ],
+    "longitude": -113.9969031,
+    "latitude": 51.0849415,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16684037",
+  "fullDetails": {
+    "licenseNumber": "16684037",
+    "name": "AURORA ITALIANA",
+    "address": "916 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-19T11:46:35.000Z",
+    "expiryDate": "2026-11-18T11:46:35.000Z",
+    "coordinates": [
+      -114.0422616,
+      51.0533786
+    ],
+    "longitude": -114.0422616,
+    "latitude": 51.0533786,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "307165",
+  "fullDetails": {
+    "licenseNumber": "307165",
+    "name": "FREED MARGARET",
+    "address": "36 LAKE EMERALD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PSYCHIC PRACTITIONER",
+    "licenseTypes": "PSYCHIC PRACTITIONER",
+    "status": "pending",
+    "issuedDate": "2003-03-24T10:03:00.000Z",
+    "expiryDate": "2026-03-23T10:03:00.000Z",
+    "coordinates": [
+      -114.0468574,
+      50.9474398
+    ],
+    "longitude": -114.0468574,
+    "latitude": 50.9474398,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "798116",
+  "fullDetails": {
+    "licenseNumber": "798116",
+    "name": "EXECUTIVE MAT SERVICE",
+    "address": "#6 115 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-07-19T09:49:10.000Z",
+    "expiryDate": "2026-07-18T09:49:10.000Z",
+    "coordinates": [
+      -113.9942285,
+      51.0516268
+    ],
+    "longitude": -113.9942285,
+    "latitude": 51.0516268,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

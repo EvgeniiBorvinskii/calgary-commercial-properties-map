@@ -1,0 +1,37 @@
+{
+  "id": "149591",
+  "fullDetails": {
+    "licenseNumber": "149591",
+    "name": "HIGHLAND PARK COMMUNITY",
+    "address": "3716 2 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0662409,
+      51.0853302
+    ],
+    "longitude": -114.0662409,
+    "latitude": 51.0853302,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

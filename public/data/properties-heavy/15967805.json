@@ -1,0 +1,36 @@
+{
+  "id": "15967805",
+  "fullDetails": {
+    "licenseNumber": "15967805",
+    "name": "STRONGHOLD TATTOO",
+    "address": "231 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2020-12-21T10:57:59.000Z",
+    "expiryDate": "2026-12-20T10:57:59.000Z",
+    "coordinates": [
+      -114.0950365,
+      51.0544318
+    ],
+    "longitude": -114.0950365,
+    "latitude": 51.0544318,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

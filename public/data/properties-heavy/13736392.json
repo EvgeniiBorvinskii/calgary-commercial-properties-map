@@ -1,0 +1,37 @@
+{
+  "id": "13736392",
+  "fullDetails": {
+    "licenseNumber": "13736392",
+    "name": "PETRO CANADA 39097",
+    "address": "#818 19489 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2013-11-05T08:05:36.000Z",
+    "expiryDate": "2026-11-04T08:05:36.000Z",
+    "coordinates": [
+      -113.9582211,
+      50.8802706
+    ],
+    "longitude": -113.9582211,
+    "latitude": 50.8802706,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

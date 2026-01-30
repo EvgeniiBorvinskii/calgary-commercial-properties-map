@@ -1,0 +1,36 @@
+{
+  "id": "16157729",
+  "fullDetails": {
+    "licenseNumber": "16157729",
+    "name": "WORLD FASHION BOUTIQUE",
+    "address": "#165 15 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-16T11:33:44.000Z",
+    "expiryDate": "2026-09-15T11:33:44.000Z",
+    "coordinates": [
+      -114.2049801,
+      51.1518665
+    ],
+    "longitude": -114.2049801,
+    "latitude": 51.1518665,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

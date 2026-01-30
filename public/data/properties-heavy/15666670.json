@@ -1,0 +1,36 @@
+{
+  "id": "15666670",
+  "fullDetails": {
+    "licenseNumber": "15666670",
+    "name": "GILL RESIDENTIAL",
+    "address": "#204 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-08-01T16:04:18.000Z",
+    "expiryDate": "2026-07-31T16:04:17.000Z",
+    "coordinates": [
+      -113.9665652,
+      51.1006579
+    ],
+    "longitude": -113.9665652,
+    "latitude": 51.1006579,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

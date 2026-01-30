@@ -1,0 +1,36 @@
+{
+  "id": "14519540",
+  "fullDetails": {
+    "licenseNumber": "14519540",
+    "name": "H & S EXHAUST AND AUTO MASTER",
+    "address": "234 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-09-08T11:42:51.000Z",
+    "expiryDate": "2026-09-07T11:42:51.000Z",
+    "coordinates": [
+      -114.0579357,
+      51.09032
+    ],
+    "longitude": -114.0579357,
+    "latitude": 51.09032,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15711872",
+  "fullDetails": {
+    "licenseNumber": "15711872",
+    "name": "HANA SUSHI",
+    "address": "#420 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-10-10T09:48:33.000Z",
+    "expiryDate": "2026-10-09T09:48:33.000Z",
+    "coordinates": [
+      -114.1673689,
+      51.0369568
+    ],
+    "longitude": -114.1673689,
+    "latitude": 51.0369568,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

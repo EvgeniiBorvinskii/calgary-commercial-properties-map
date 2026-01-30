@@ -1,0 +1,36 @@
+{
+  "id": "12662904",
+  "fullDetails": {
+    "licenseNumber": "12662904",
+    "name": "ANTHONY'S HAIR",
+    "address": "#138 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2008-07-08T05:35:34.000Z",
+    "expiryDate": "2026-07-07T05:35:34.000Z",
+    "coordinates": [
+      -114.0632747,
+      51.0667316
+    ],
+    "longitude": -114.0632747,
+    "latitude": 51.0667316,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

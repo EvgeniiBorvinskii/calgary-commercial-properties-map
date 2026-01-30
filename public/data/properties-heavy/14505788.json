@@ -1,0 +1,36 @@
+{
+  "id": "14505788",
+  "fullDetails": {
+    "licenseNumber": "14505788",
+    "name": "H & W PRODUCE",
+    "address": "#441 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-28T11:20:02.000Z",
+    "expiryDate": "2026-07-27T11:20:02.000Z",
+    "coordinates": [
+      -113.984469,
+      51.0831187
+    ],
+    "longitude": -113.984469,
+    "latitude": 51.0831187,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

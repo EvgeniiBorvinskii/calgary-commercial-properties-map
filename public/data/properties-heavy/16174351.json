@@ -1,0 +1,37 @@
+{
+  "id": "16174351",
+  "fullDetails": {
+    "licenseNumber": "16174351",
+    "name": "LEELA ECO SPA",
+    "address": "#330 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-07-22T14:33:33.000Z",
+    "expiryDate": "2026-07-21T14:33:33.000Z",
+    "coordinates": [
+      -114.0300974,
+      50.8650969
+    ],
+    "longitude": -114.0300974,
+    "latitude": 50.8650969,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

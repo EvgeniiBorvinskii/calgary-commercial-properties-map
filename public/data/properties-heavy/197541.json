@@ -1,0 +1,36 @@
+{
+  "id": "197541",
+  "fullDetails": {
+    "licenseNumber": "197541",
+    "name": "TRENTECH OFFICE PRODUCTS SALES / B&R VENDING DISTRIBUTORS",
+    "address": "#3 2828 18 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-23T00:00:00.000Z",
+    "coordinates": [
+      -114.0137663,
+      51.0778575
+    ],
+    "longitude": -114.0137663,
+    "latitude": 51.0778575,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

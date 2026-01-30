@@ -1,0 +1,36 @@
+{
+  "id": "14921498",
+  "fullDetails": {
+    "licenseNumber": "14921498",
+    "name": "FLOWER AURA BY NATASHA",
+    "address": "401 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-15T15:23:08.000Z",
+    "expiryDate": "2026-05-14T15:23:08.000Z",
+    "coordinates": [
+      -114.0559084,
+      50.9929808
+    ],
+    "longitude": -114.0559084,
+    "latitude": 50.9929808,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

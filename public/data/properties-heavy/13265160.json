@@ -1,0 +1,36 @@
+{
+  "id": "13265160",
+  "fullDetails": {
+    "licenseNumber": "13265160",
+    "name": "MIDNAPORE FLOWER MAGIC",
+    "address": "#530 22 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-10-04T15:03:18.000Z",
+    "expiryDate": "2026-10-03T15:03:18.000Z",
+    "coordinates": [
+      -114.0647659,
+      50.9153097
+    ],
+    "longitude": -114.0647659,
+    "latitude": 50.9153097,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

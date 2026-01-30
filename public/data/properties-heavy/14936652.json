@@ -1,0 +1,36 @@
+{
+  "id": "14936652",
+  "fullDetails": {
+    "licenseNumber": "14936652",
+    "name": "BREATHE CLEAN ALBERTA",
+    "address": "#10D 6115 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2019-05-28T05:30:19.000Z",
+    "expiryDate": "2026-05-27T05:30:19.000Z",
+    "coordinates": [
+      -114.0577332,
+      50.9983433
+    ],
+    "longitude": -114.0577332,
+    "latitude": 50.9983433,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14267504",
+  "fullDetails": {
+    "licenseNumber": "14267504",
+    "name": "NORTHWEST REFRIGERATION & AIR CONDITIONING",
+    "address": "#2101 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-03T11:41:46.000Z",
+    "expiryDate": "2026-10-02T11:41:46.000Z",
+    "coordinates": [
+      -113.9439948,
+      50.9804121
+    ],
+    "longitude": -113.9439948,
+    "latitude": 50.9804121,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16010035",
+  "fullDetails": {
+    "licenseNumber": "16010035",
+    "name": "LIQUOR DROPS",
+    "address": "208 14 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-05-19T14:28:21.000Z",
+    "expiryDate": "2026-05-18T14:28:21.000Z",
+    "coordinates": [
+      -114.0606601,
+      51.039642
+    ],
+    "longitude": -114.0606601,
+    "latitude": 51.039642,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

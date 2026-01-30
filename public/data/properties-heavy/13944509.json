@@ -1,0 +1,36 @@
+{
+  "id": "13944509",
+  "fullDetails": {
+    "licenseNumber": "13944509",
+    "name": "SPIRITS OF KENSINGTON",
+    "address": "20 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2015-04-28T11:38:54.000Z",
+    "expiryDate": "2026-04-27T11:38:54.000Z",
+    "coordinates": [
+      -114.094155,
+      51.0518842
+    ],
+    "longitude": -114.094155,
+    "latitude": 51.0518842,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

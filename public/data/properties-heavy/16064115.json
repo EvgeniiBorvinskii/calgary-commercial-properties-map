@@ -1,0 +1,37 @@
+{
+  "id": "16064115",
+  "fullDetails": {
+    "licenseNumber": "16064115",
+    "name": "DOMINO'S PIZZA",
+    "address": "1340 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-03T14:02:19.000Z",
+    "expiryDate": "2026-09-02T14:02:19.000Z",
+    "coordinates": [
+      -114.091745,
+      51.0673296
+    ],
+    "longitude": -114.091745,
+    "latitude": 51.0673296,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

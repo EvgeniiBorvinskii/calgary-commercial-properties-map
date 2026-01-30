@@ -1,0 +1,36 @@
+{
+  "id": "13021951",
+  "fullDetails": {
+    "licenseNumber": "13021951",
+    "name": "PITA QUEEN",
+    "address": "#3 7204 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2010-09-09T15:03:55.000Z",
+    "expiryDate": "2026-03-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0634004,
+      50.9892276
+    ],
+    "longitude": -114.0634004,
+    "latitude": 50.9892276,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

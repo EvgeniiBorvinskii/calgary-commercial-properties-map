@@ -1,0 +1,37 @@
+{
+  "id": "12657284",
+  "fullDetails": {
+    "licenseNumber": "12657284",
+    "name": "STRATHCONA PETRO CANADA NEIGHBOUR",
+    "address": "1010 STRATHCONA DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2008-07-02T13:23:25.000Z",
+    "expiryDate": "2026-07-01T13:23:25.000Z",
+    "coordinates": [
+      -114.187118,
+      51.0466187
+    ],
+    "longitude": -114.187118,
+    "latitude": 51.0466187,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

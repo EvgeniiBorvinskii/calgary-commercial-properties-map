@@ -1,0 +1,36 @@
+{
+  "id": "709352",
+  "fullDetails": {
+    "licenseNumber": "709352",
+    "name": "WILLOW PARK GARDENS",
+    "address": "364 99 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0597697,
+      50.9618692
+    ],
+    "longitude": -114.0597697,
+    "latitude": 50.9618692,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

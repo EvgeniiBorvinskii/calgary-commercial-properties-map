@@ -1,0 +1,36 @@
+{
+  "id": "13089842",
+  "fullDetails": {
+    "licenseNumber": "13089842",
+    "name": "COAST TO COAST GONDOLA PIZZA",
+    "address": "1332 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2011-01-07T12:42:25.000Z",
+    "expiryDate": "2027-01-06T12:42:25.000Z",
+    "coordinates": [
+      -114.1281507,
+      51.0930189
+    ],
+    "longitude": -114.1281507,
+    "latitude": 51.0930189,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

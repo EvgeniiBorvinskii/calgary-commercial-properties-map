@@ -1,0 +1,36 @@
+{
+  "id": "12591608",
+  "fullDetails": {
+    "licenseNumber": "12591608",
+    "name": "MONEY MART",
+    "address": "#101 5303 68 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-16T10:53:30.000Z",
+    "expiryDate": "2026-09-15T10:53:30.000Z",
+    "coordinates": [
+      -113.9568162,
+      50.9938936
+    ],
+    "longitude": -113.9568162,
+    "latitude": 50.9938936,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

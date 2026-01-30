@@ -1,0 +1,36 @@
+{
+  "id": "12616876",
+  "fullDetails": {
+    "licenseNumber": "12616876",
+    "name": "CORE-MARK INTERNATIONAL",
+    "address": "#3 4141 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2008-03-11T05:39:33.000Z",
+    "expiryDate": "2026-03-10T05:39:33.000Z",
+    "coordinates": [
+      -113.9766273,
+      50.9554037
+    ],
+    "longitude": -113.9766273,
+    "latitude": 50.9554037,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

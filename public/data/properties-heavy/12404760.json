@@ -1,0 +1,36 @@
+{
+  "id": "12404760",
+  "fullDetails": {
+    "licenseNumber": "12404760",
+    "name": "OLD NAVY # 3382",
+    "address": "#25 2580 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-08-19T08:58:13.000Z",
+    "expiryDate": "2026-08-18T08:58:13.000Z",
+    "coordinates": [
+      -113.9862555,
+      51.0747499
+    ],
+    "longitude": -113.9862555,
+    "latitude": 51.0747499,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

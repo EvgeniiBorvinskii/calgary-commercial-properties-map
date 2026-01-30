@@ -1,0 +1,36 @@
+{
+  "id": "12191821",
+  "fullDetails": {
+    "licenseNumber": "12191821",
+    "name": "IMAGN DESIGN SOLUTIONS",
+    "address": "#8018 11500 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2005-01-25T14:30:13.000Z",
+    "expiryDate": "2026-01-24T14:30:13.000Z",
+    "coordinates": [
+      -113.984311,
+      50.9476962
+    ],
+    "longitude": -113.984311,
+    "latitude": 50.9476962,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

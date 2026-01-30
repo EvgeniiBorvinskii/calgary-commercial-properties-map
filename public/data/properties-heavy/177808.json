@@ -1,0 +1,36 @@
+{
+  "id": "177808",
+  "fullDetails": {
+    "licenseNumber": "177808",
+    "name": "EQUAL DOOR INDUSTRIES GENERAL DOOR SERVICES",
+    "address": "4110 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-10-14T14:08:53.000Z",
+    "expiryDate": "2026-10-13T14:08:53.000Z",
+    "coordinates": [
+      -113.9755522,
+      50.9852158
+    ],
+    "longitude": -113.9755522,
+    "latitude": 50.9852158,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

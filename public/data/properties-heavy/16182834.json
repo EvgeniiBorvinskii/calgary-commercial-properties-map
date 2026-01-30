@@ -1,0 +1,36 @@
+{
+  "id": "16182834",
+  "fullDetails": {
+    "licenseNumber": "16182834",
+    "name": "SPECSAVERS MARKET MALL",
+    "address": "#D13 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-28T12:26:12.000Z",
+    "expiryDate": "2026-09-27T12:26:12.000Z",
+    "coordinates": [
+      -114.1562763,
+      51.0854179
+    ],
+    "longitude": -114.1562763,
+    "latitude": 51.0854179,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

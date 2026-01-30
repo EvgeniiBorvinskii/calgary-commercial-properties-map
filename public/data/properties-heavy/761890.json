@@ -1,0 +1,36 @@
+{
+  "id": "761890",
+  "fullDetails": {
+    "licenseNumber": "761890",
+    "name": "NUVISTA HOMES",
+    "address": "#200 37 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-10-27T05:35:07.000Z",
+    "expiryDate": "2026-10-26T05:35:07.000Z",
+    "coordinates": [
+      -114.0027373,
+      50.9630434
+    ],
+    "longitude": -114.0027373,
+    "latitude": 50.9630434,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16481210",
+  "fullDetails": {
+    "licenseNumber": "16481210",
+    "name": "REMEDICLEAN ENVIRONMENTAL SERVICES",
+    "address": "#19 5030 13 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-04-19T14:04:00.000Z",
+    "expiryDate": "2026-04-18T14:04:00.000Z",
+    "coordinates": [
+      -114.0322965,
+      51.008048
+    ],
+    "longitude": -114.0322965,
+    "latitude": 51.008048,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

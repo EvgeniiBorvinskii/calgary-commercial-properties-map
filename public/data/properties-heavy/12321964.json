@@ -1,0 +1,36 @@
+{
+  "id": "12321964",
+  "fullDetails": {
+    "licenseNumber": "12321964",
+    "name": "PETE THE ELECTRICIAN",
+    "address": "#14 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-12-15T11:28:13.000Z",
+    "expiryDate": "2026-12-14T11:28:13.000Z",
+    "coordinates": [
+      -113.9705134,
+      50.9521467
+    ],
+    "longitude": -113.9705134,
+    "latitude": 50.9521467,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

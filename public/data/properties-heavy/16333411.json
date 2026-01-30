@@ -1,0 +1,36 @@
+{
+  "id": "16333411",
+  "fullDetails": {
+    "licenseNumber": "16333411",
+    "name": "MB GLASS AND DOOR SERVICE",
+    "address": "#157 64 CROWFOOT CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-08-31T05:35:13.000Z",
+    "expiryDate": "2026-08-30T05:35:13.000Z",
+    "coordinates": [
+      -114.2052748,
+      51.1234586
+    ],
+    "longitude": -114.2052748,
+    "latitude": 51.1234586,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

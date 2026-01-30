@@ -1,0 +1,37 @@
+{
+  "id": "16122186",
+  "fullDetails": {
+    "licenseNumber": "16122186",
+    "name": "TOKYO STREET MARKET",
+    "address": "#10 5828 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-03-06T10:52:14.000Z",
+    "expiryDate": "2026-03-05T10:52:14.000Z",
+    "coordinates": [
+      -114.071027,
+      51.0016124
+    ],
+    "longitude": -114.071027,
+    "latitude": 51.0016124,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

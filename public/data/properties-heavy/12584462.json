@@ -1,0 +1,36 @@
+{
+  "id": "12584462",
+  "fullDetails": {
+    "licenseNumber": "12584462",
+    "name": "MARK'S WORK WEARHOUSE #239",
+    "address": "11602 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-01-22T13:17:43.000Z",
+    "expiryDate": "2027-01-21T13:17:43.000Z",
+    "coordinates": [
+      -114.1617908,
+      51.1560272
+    ],
+    "longitude": -114.1617908,
+    "latitude": 51.1560272,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

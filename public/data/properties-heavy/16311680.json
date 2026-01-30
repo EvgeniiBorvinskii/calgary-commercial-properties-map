@@ -1,0 +1,37 @@
+{
+  "id": "16311680",
+  "fullDetails": {
+    "licenseNumber": "16311680",
+    "name": "TOTAL FENCING SOLUTIONS",
+    "address": "#1125 76 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2023-12-28T09:12:31.000Z",
+    "expiryDate": "2025-12-27T09:12:31.000Z",
+    "coordinates": [
+      -113.9713097,
+      51.1074762
+    ],
+    "longitude": -113.9713097,
+    "latitude": 51.1074762,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

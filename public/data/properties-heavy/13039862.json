@@ -1,0 +1,36 @@
+{
+  "id": "13039862",
+  "fullDetails": {
+    "licenseNumber": "13039862",
+    "name": "TINY TOWNE SCHOOLHOUSE",
+    "address": "#107 20 INVERNESS SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "pending",
+    "issuedDate": "2011-03-26T05:38:41.000Z",
+    "expiryDate": "2026-03-25T05:38:41.000Z",
+    "coordinates": [
+      -113.9696251,
+      50.9131918
+    ],
+    "longitude": -113.9696251,
+    "latitude": 50.9131918,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13855119",
+  "fullDetails": {
+    "licenseNumber": "13855119",
+    "name": "CHOICE MEMORIAL",
+    "address": "#105 4715 13 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-02-05T10:49:02.000Z",
+    "expiryDate": "2027-02-04T10:49:02.000Z",
+    "coordinates": [
+      -114.0315712,
+      51.0953066
+    ],
+    "longitude": -114.0315712,
+    "latitude": 51.0953066,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14406581",
+  "fullDetails": {
+    "licenseNumber": "14406581",
+    "name": "JERUSALEM SHAWARMA & BAKERY",
+    "address": "#6116 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-04-21T08:20:48.000Z",
+    "expiryDate": "2026-04-20T08:20:48.000Z",
+    "coordinates": [
+      -114.2115028,
+      51.1527806
+    ],
+    "longitude": -114.2115028,
+    "latitude": 51.1527806,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

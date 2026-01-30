@@ -1,0 +1,37 @@
+{
+  "id": "16124299",
+  "fullDetails": {
+    "licenseNumber": "16124299",
+    "name": "GOLDEN JADE PALACE SEAFOOD AND DIM SUM RESTAURANT",
+    "address": "#800 1110 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2022-02-11T12:11:45.000Z",
+    "expiryDate": "2026-02-10T12:11:45.000Z",
+    "coordinates": [
+      -114.0899746,
+      51.1675487
+    ],
+    "longitude": -114.0899746,
+    "latitude": 51.1675487,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

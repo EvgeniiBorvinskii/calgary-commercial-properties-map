@@ -1,0 +1,37 @@
+{
+  "id": "13887088",
+  "fullDetails": {
+    "licenseNumber": "13887088",
+    "name": "RIVERSIDE REMEDY'S RX",
+    "address": "#100 207 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-26T06:51:47.000Z",
+    "expiryDate": "2026-11-25T06:51:46.000Z",
+    "coordinates": [
+      -114.0521958,
+      51.0538823
+    ],
+    "longitude": -114.0521958,
+    "latitude": 51.0538823,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

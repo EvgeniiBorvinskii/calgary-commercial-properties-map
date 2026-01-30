@@ -1,0 +1,36 @@
+{
+  "id": "15955859",
+  "fullDetails": {
+    "licenseNumber": "15955859",
+    "name": "LEVI STRAUSS & CO(CANADA)",
+    "address": "#250 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-06T10:28:01.000Z",
+    "expiryDate": "2026-11-05T10:28:01.000Z",
+    "coordinates": [
+      -114.0740568,
+      50.9989184
+    ],
+    "longitude": -114.0740568,
+    "latitude": 50.9989184,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

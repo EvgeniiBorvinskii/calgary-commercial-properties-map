@@ -1,0 +1,36 @@
+{
+  "id": "15122351",
+  "fullDetails": {
+    "licenseNumber": "15122351",
+    "name": "STALLION AUTO REPAIR",
+    "address": "#105 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-07-19T14:31:43.000Z",
+    "expiryDate": "2026-07-18T14:31:43.000Z",
+    "coordinates": [
+      -113.979416,
+      51.1519492
+    ],
+    "longitude": -113.979416,
+    "latitude": 51.1519492,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

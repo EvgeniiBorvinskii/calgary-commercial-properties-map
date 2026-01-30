@@ -1,0 +1,36 @@
+{
+  "id": "13171483",
+  "fullDetails": {
+    "licenseNumber": "13171483",
+    "name": "TECHNOWORX",
+    "address": "4788 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-08-11T14:44:37.000Z",
+    "expiryDate": "2026-08-10T14:44:37.000Z",
+    "coordinates": [
+      -113.9660114,
+      51.009459
+    ],
+    "longitude": -113.9660114,
+    "latitude": 51.009459,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

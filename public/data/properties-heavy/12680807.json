@@ -1,0 +1,36 @@
+{
+  "id": "12680807",
+  "fullDetails": {
+    "licenseNumber": "12680807",
+    "name": "METRO FURNITURE",
+    "address": "1310 43 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-05-17T05:34:55.000Z",
+    "expiryDate": "2026-05-16T05:34:55.000Z",
+    "coordinates": [
+      -114.0335559,
+      51.014675
+    ],
+    "longitude": -114.0335559,
+    "latitude": 51.014675,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

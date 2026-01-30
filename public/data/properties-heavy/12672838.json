@@ -1,0 +1,36 @@
+{
+  "id": "12672838",
+  "fullDetails": {
+    "licenseNumber": "12672838",
+    "name": "RIVERBEND ANIMAL CLINIC",
+    "address": "#354 8338 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-06-26T09:55:22.000Z",
+    "expiryDate": "2026-06-25T09:55:22.000Z",
+    "coordinates": [
+      -114.0136588,
+      50.97698
+    ],
+    "longitude": -114.0136588,
+    "latitude": 50.97698,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

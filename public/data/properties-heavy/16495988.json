@@ -1,0 +1,36 @@
+{
+  "id": "16495988",
+  "fullDetails": {
+    "licenseNumber": "16495988",
+    "name": "GROUNDWORKS",
+    "address": "5711 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2024-07-22T07:30:13.000Z",
+    "expiryDate": "2026-07-21T07:30:12.000Z",
+    "coordinates": [
+      -113.9520083,
+      50.980226
+    ],
+    "longitude": -113.9520083,
+    "latitude": 50.980226,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

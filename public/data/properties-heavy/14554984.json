@@ -1,0 +1,37 @@
+{
+  "id": "14554984",
+  "fullDetails": {
+    "licenseNumber": "14554984",
+    "name": "TOM HARRIS CELLULAR",
+    "address": "47 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2017-07-07T12:25:13.000Z",
+    "expiryDate": "2026-07-06T12:25:13.000Z",
+    "coordinates": [
+      -114.2016089,
+      51.1238554
+    ],
+    "longitude": -114.2016089,
+    "latitude": 51.1238554,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

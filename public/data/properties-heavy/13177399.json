@@ -1,0 +1,36 @@
+{
+  "id": "13177399",
+  "fullDetails": {
+    "licenseNumber": "13177399",
+    "name": "COBS BREAD",
+    "address": "#308 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2011-06-28T15:41:19.000Z",
+    "expiryDate": "2026-06-27T15:41:19.000Z",
+    "coordinates": [
+      -114.0694409,
+      50.9557187
+    ],
+    "longitude": -114.0694409,
+    "latitude": 50.9557187,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

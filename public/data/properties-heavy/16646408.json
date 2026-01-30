@@ -1,0 +1,36 @@
+{
+  "id": "16646408",
+  "fullDetails": {
+    "licenseNumber": "16646408",
+    "name": "HELLCRUST PIZZA",
+    "address": "#2 1104 20 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-07-30T14:07:56.000Z",
+    "expiryDate": "2026-07-29T14:07:56.000Z",
+    "coordinates": [
+      -114.0852514,
+      51.0708661
+    ],
+    "longitude": -114.0852514,
+    "latitude": 51.0708661,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

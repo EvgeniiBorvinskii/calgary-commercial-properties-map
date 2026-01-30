@@ -1,0 +1,36 @@
+{
+  "id": "16639494",
+  "fullDetails": {
+    "licenseNumber": "16639494",
+    "name": "KULAR TIRE AND LUBE",
+    "address": "#2070 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-08-11T11:42:48.000Z",
+    "expiryDate": "2026-08-10T11:42:48.000Z",
+    "coordinates": [
+      -113.9800156,
+      51.1521914
+    ],
+    "longitude": -113.9800156,
+    "latitude": 51.1521914,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

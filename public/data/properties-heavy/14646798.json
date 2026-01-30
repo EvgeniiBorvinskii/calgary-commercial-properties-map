@@ -1,0 +1,36 @@
+{
+  "id": "14646798",
+  "fullDetails": {
+    "licenseNumber": "14646798",
+    "name": "ML SNACK HOUSE (CGY-1114)  FSFV",
+    "address": "337 ROYAL OAK ME NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2020-10-22T09:55:17.000Z",
+    "expiryDate": "2026-09-19T00:00:00.000Z",
+    "coordinates": [
+      -114.2249109,
+      51.1499118
+    ],
+    "longitude": -114.2249109,
+    "latitude": 51.1499118,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

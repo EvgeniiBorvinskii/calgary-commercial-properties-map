@@ -1,0 +1,36 @@
+{
+  "id": "12963443",
+  "fullDetails": {
+    "licenseNumber": "12963443",
+    "name": "LAMBERT ACADEMY OF SUGARCRAFT",
+    "address": "#1 8236 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-05-28T14:05:22.000Z",
+    "expiryDate": "2026-05-27T14:05:22.000Z",
+    "coordinates": [
+      -113.9897617,
+      50.9807753
+    ],
+    "longitude": -113.9897617,
+    "latitude": 50.9807753,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

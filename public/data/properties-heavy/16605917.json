@@ -1,0 +1,37 @@
+{
+  "id": "16605917",
+  "fullDetails": {
+    "licenseNumber": "16605917",
+    "name": "NEW DAY BILLIARD & COFFEE",
+    "address": "#13 5315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-27T11:49:13.000Z",
+    "expiryDate": "2026-03-26T11:49:12.000Z",
+    "coordinates": [
+      -113.9569077,
+      51.0374278
+    ],
+    "longitude": -113.9569077,
+    "latitude": 51.0374278,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

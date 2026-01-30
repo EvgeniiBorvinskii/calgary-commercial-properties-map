@@ -1,0 +1,36 @@
+{
+  "id": "13120811",
+  "fullDetails": {
+    "licenseNumber": "13120811",
+    "name": "GARAGE BOX AUTO INNOVATIONS",
+    "address": "#26 920 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-12-14T10:30:54.000Z",
+    "expiryDate": "2026-12-13T10:30:54.000Z",
+    "coordinates": [
+      -113.9912183,
+      51.060302
+    ],
+    "longitude": -113.9912183,
+    "latitude": 51.060302,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

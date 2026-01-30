@@ -1,0 +1,36 @@
+{
+  "id": "12499539",
+  "fullDetails": {
+    "licenseNumber": "12499539",
+    "name": "PETSMART #1200",
+    "address": "11694 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2006-09-12T15:13:57.000Z",
+    "expiryDate": "2026-09-11T15:13:57.000Z",
+    "coordinates": [
+      -114.1565646,
+      51.1571383
+    ],
+    "longitude": -114.1565646,
+    "latitude": 51.1571383,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

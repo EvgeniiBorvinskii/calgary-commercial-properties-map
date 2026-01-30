@@ -1,0 +1,37 @@
+{
+  "id": "15047368",
+  "fullDetails": {
+    "licenseNumber": "15047368",
+    "name": "KAL TIRE #612",
+    "address": "#318 11488 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-09T12:56:24.000Z",
+    "expiryDate": "2026-11-08T12:56:24.000Z",
+    "coordinates": [
+      -113.9990563,
+      50.9544891
+    ],
+    "longitude": -113.9990563,
+    "latitude": 50.9544891,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

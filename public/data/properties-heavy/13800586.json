@@ -1,0 +1,36 @@
+{
+  "id": "13800586",
+  "fullDetails": {
+    "licenseNumber": "13800586",
+    "name": "WESTECH HEALTH CARE",
+    "address": "#154 5255 MCCALL WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-02-26T05:33:53.000Z",
+    "expiryDate": "2026-02-25T05:33:53.000Z",
+    "coordinates": [
+      -114.0038189,
+      51.100033
+    ],
+    "longitude": -114.0038189,
+    "latitude": 51.100033,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

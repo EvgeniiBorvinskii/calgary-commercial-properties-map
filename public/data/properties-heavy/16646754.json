@@ -1,0 +1,36 @@
+{
+  "id": "16646754",
+  "fullDetails": {
+    "licenseNumber": "16646754",
+    "name": "PERMANENT BY YULIIA",
+    "address": "#5 1230A 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-07-08T14:44:47.000Z",
+    "expiryDate": "2026-07-07T14:44:47.000Z",
+    "coordinates": [
+      -114.0908777,
+      51.0380975
+    ],
+    "longitude": -114.0908777,
+    "latitude": 51.0380975,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

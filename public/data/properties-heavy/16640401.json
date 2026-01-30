@@ -1,0 +1,37 @@
+{
+  "id": "16640401",
+  "fullDetails": {
+    "licenseNumber": "16640401",
+    "name": "MR PUFFS SOUTH TRAIL",
+    "address": "#15 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-12T14:30:15.000Z",
+    "expiryDate": "2026-06-11T14:30:14.000Z",
+    "coordinates": [
+      -113.9714189,
+      50.930538
+    ],
+    "longitude": -113.9714189,
+    "latitude": 50.930538,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

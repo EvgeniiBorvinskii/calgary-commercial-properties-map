@@ -1,0 +1,36 @@
+{
+  "id": "13797600",
+  "fullDetails": {
+    "licenseNumber": "13797600",
+    "name": "BUDGET BLINDS SOUTH EAST CALGARY",
+    "address": "#229 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2020-05-06T13:01:39.000Z",
+    "expiryDate": "2026-05-05T13:01:39.000Z",
+    "coordinates": [
+      -113.9682857,
+      50.9514292
+    ],
+    "longitude": -113.9682857,
+    "latitude": 50.9514292,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

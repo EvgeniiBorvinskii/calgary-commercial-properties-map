@@ -1,0 +1,37 @@
+{
+  "id": "785600",
+  "fullDetails": {
+    "licenseNumber": "785600",
+    "name": "REAL CANADIAN SUPERSTORE #1578",
+    "address": "#100 15915 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "PHOTOGRAPHER,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-13T00:00:00.000Z",
+    "coordinates": [
+      -114.0676404,
+      50.9100156
+    ],
+    "longitude": -114.0676404,
+    "latitude": 50.9100156,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16594632",
+  "fullDetails": {
+    "licenseNumber": "16594632",
+    "name": "AT NAILS BAR",
+    "address": "27 SAGE HILL PS NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-07-09T07:43:41.000Z",
+    "expiryDate": "2026-07-08T07:43:40.000Z",
+    "coordinates": [
+      -114.1472309,
+      51.1690441
+    ],
+    "longitude": -114.1472309,
+    "latitude": 51.1690441,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

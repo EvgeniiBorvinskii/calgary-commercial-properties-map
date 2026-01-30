@@ -1,0 +1,36 @@
+{
+  "id": "84798",
+  "fullDetails": {
+    "licenseNumber": "84798",
+    "name": "INNOVATIVE AUTOBODY",
+    "address": "#B 131 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0620931,
+      50.9974455
+    ],
+    "longitude": -114.0620931,
+    "latitude": 50.9974455,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16574279",
+  "fullDetails": {
+    "licenseNumber": "16574279",
+    "name": "HOPE MEDICARE PHARMACY",
+    "address": "#120 3705 26 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-20T07:48:55.000Z",
+    "expiryDate": "2027-01-19T07:48:55.000Z",
+    "coordinates": [
+      -113.9811385,
+      51.0774794
+    ],
+    "longitude": -113.9811385,
+    "latitude": 51.0774794,
+    "community": "RUNDLE",
+    "ward": "RUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

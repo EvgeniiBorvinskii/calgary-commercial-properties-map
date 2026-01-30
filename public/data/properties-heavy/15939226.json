@@ -1,0 +1,37 @@
+{
+  "id": "15939226",
+  "fullDetails": {
+    "licenseNumber": "15939226",
+    "name": "FRESH 2 DOOR",
+    "address": "#619 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-02-25T17:37:44.000Z",
+    "expiryDate": "2026-02-24T17:37:44.000Z",
+    "coordinates": [
+      -113.9877075,
+      51.0593411
+    ],
+    "longitude": -113.9877075,
+    "latitude": 51.0593411,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

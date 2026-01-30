@@ -1,0 +1,37 @@
+{
+  "id": "12370409",
+  "fullDetails": {
+    "licenseNumber": "12370409",
+    "name": "SOLARBOTICS",
+    "address": "#101 3740D 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2010-09-22T10:12:05.000Z",
+    "expiryDate": "2026-09-21T10:12:05.000Z",
+    "coordinates": [
+      -114.0347226,
+      51.0858948
+    ],
+    "longitude": -114.0347226,
+    "latitude": 51.0858948,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

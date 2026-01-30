@@ -1,0 +1,37 @@
+{
+  "id": "16377533",
+  "fullDetails": {
+    "licenseNumber": "16377533",
+    "name": "J CLUB GRILL BAR",
+    "address": "#500 26 MCKENZIE TOWNE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-01-04T11:17:51.000Z",
+    "expiryDate": "2027-01-03T11:17:51.000Z",
+    "coordinates": [
+      -113.9616891,
+      50.9160289
+    ],
+    "longitude": -113.9616891,
+    "latitude": 50.9160289,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

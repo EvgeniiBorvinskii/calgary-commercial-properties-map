@@ -1,0 +1,36 @@
+{
+  "id": "16585788",
+  "fullDetails": {
+    "licenseNumber": "16585788",
+    "name": "COLSON GROUP",
+    "address": "#129 7007 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-03-28T08:42:52.000Z",
+    "expiryDate": "2026-03-27T08:42:51.000Z",
+    "coordinates": [
+      -113.9573306,
+      50.9916718
+    ],
+    "longitude": -113.9573306,
+    "latitude": 50.9916718,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

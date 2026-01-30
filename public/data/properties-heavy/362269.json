@@ -1,0 +1,37 @@
+{
+  "id": "362269",
+  "fullDetails": {
+    "licenseNumber": "362269",
+    "name": "CALGARY CO-OP #15",
+    "address": "#700 2220 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-21T00:00:00.000Z",
+    "coordinates": [
+      -113.9332707,
+      51.0685987
+    ],
+    "longitude": -113.9332707,
+    "latitude": 51.0685987,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14494744",
+  "fullDetails": {
+    "licenseNumber": "14494744",
+    "name": "MILE STONE DRYWALL",
+    "address": "#19A 3515 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-24T13:33:02.000Z",
+    "expiryDate": "2026-05-23T13:33:02.000Z",
+    "coordinates": [
+      -113.9956187,
+      51.083849
+    ],
+    "longitude": -113.9956187,
+    "latitude": 51.083849,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

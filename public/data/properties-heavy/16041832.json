@@ -1,0 +1,36 @@
+{
+  "id": "16041832",
+  "fullDetails": {
+    "licenseNumber": "16041832",
+    "name": "ICONIC WHOLESALE EMBROIDERY",
+    "address": "#4 3800 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-06-08T11:28:35.000Z",
+    "expiryDate": "2026-06-07T11:28:35.000Z",
+    "coordinates": [
+      -114.0106507,
+      51.0867785
+    ],
+    "longitude": -114.0106507,
+    "latitude": 51.0867785,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

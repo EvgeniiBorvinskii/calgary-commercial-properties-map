@@ -1,0 +1,36 @@
+{
+  "id": "12034336",
+  "fullDetails": {
+    "licenseNumber": "12034336",
+    "name": "VECTOR ELECTRIC AND CONTROLS",
+    "address": "6029 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-06-01T05:45:02.000Z",
+    "expiryDate": "2026-05-31T05:45:02.000Z",
+    "coordinates": [
+      -114.0578598,
+      50.9993128
+    ],
+    "longitude": -114.0578598,
+    "latitude": 50.9993128,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

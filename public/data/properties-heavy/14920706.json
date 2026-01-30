@@ -1,0 +1,36 @@
+{
+  "id": "14920706",
+  "fullDetails": {
+    "licenseNumber": "14920706",
+    "name": "RENTAL BROTHER (THE)",
+    "address": "#Q 8080 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-11T14:52:35.000Z",
+    "expiryDate": "2026-02-10T14:52:34.000Z",
+    "coordinates": [
+      -113.9806678,
+      50.9809395
+    ],
+    "longitude": -113.9806678,
+    "latitude": 50.9809395,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

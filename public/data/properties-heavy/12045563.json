@@ -1,0 +1,36 @@
+{
+  "id": "12045563",
+  "fullDetails": {
+    "licenseNumber": "12045563",
+    "name": "BURNBRAE FARMS CALGARY",
+    "address": "3404 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-12-22T20:22:18.000Z",
+    "expiryDate": "2026-12-20T05:43:56.000Z",
+    "coordinates": [
+      -113.9838012,
+      51.0027594
+    ],
+    "longitude": -113.9838012,
+    "latitude": 51.0027594,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

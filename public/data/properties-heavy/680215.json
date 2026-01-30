@@ -1,0 +1,36 @@
+{
+  "id": "680215",
+  "fullDetails": {
+    "licenseNumber": "680215",
+    "name": "AEROTEX INTERIORS",
+    "address": "#151 2340 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-12-13T05:32:55.000Z",
+    "expiryDate": "2026-12-12T05:32:55.000Z",
+    "coordinates": [
+      -114.0048739,
+      51.0957879
+    ],
+    "longitude": -114.0048739,
+    "latitude": 51.0957879,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

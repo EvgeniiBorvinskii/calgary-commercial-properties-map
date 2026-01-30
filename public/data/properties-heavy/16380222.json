@@ -1,0 +1,37 @@
+{
+  "id": "16380222",
+  "fullDetails": {
+    "licenseNumber": "16380222",
+    "name": "VALUE VILLAGE",
+    "address": "50 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2024-02-27T12:39:59.000Z",
+    "expiryDate": "2026-02-26T12:39:59.000Z",
+    "coordinates": [
+      -114.147907,
+      51.1697436
+    ],
+    "longitude": -114.147907,
+    "latitude": 51.1697436,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

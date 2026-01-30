@@ -1,0 +1,36 @@
+{
+  "id": "16439648",
+  "fullDetails": {
+    "licenseNumber": "16439648",
+    "name": "FIREHOUSE SUBS CANADA",
+    "address": "#1305 9650 HARVEST HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-09T14:45:07.000Z",
+    "expiryDate": "2026-05-08T14:45:07.000Z",
+    "coordinates": [
+      -114.0700273,
+      51.1411222
+    ],
+    "longitude": -114.0700273,
+    "latitude": 51.1411222,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12598165",
+  "fullDetails": {
+    "licenseNumber": "12598165",
+    "name": "MOORE'S INDUSTRIAL SERVICE",
+    "address": "1825 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-09-23T09:14:39.000Z",
+    "expiryDate": "2026-09-22T09:14:39.000Z",
+    "coordinates": [
+      -114.0153093,
+      51.0790449
+    ],
+    "longitude": -114.0153093,
+    "latitude": 51.0790449,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14348700",
+  "fullDetails": {
+    "licenseNumber": "14348700",
+    "name": "SUPPLY HUB",
+    "address": "#102A 1439 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2023-02-10T15:51:42.000Z",
+    "expiryDate": "2026-02-09T15:51:42.000Z",
+    "coordinates": [
+      -114.0319153,
+      51.0375072
+    ],
+    "longitude": -114.0319153,
+    "latitude": 51.0375072,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16388530",
+  "fullDetails": {
+    "licenseNumber": "16388530",
+    "name": "SHELL",
+    "address": "99 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-12-05T09:46:15.000Z",
+    "expiryDate": "2026-12-04T09:46:15.000Z",
+    "coordinates": [
+      -114.201033,
+      51.1262715
+    ],
+    "longitude": -114.201033,
+    "latitude": 51.1262715,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

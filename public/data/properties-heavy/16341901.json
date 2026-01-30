@@ -1,0 +1,36 @@
+{
+  "id": "16341901",
+  "fullDetails": {
+    "licenseNumber": "16341901",
+    "name": "LEO LIQUOR",
+    "address": "#20 2525 BRIDLECREST WY SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-09-20T14:03:20.000Z",
+    "expiryDate": "2026-09-19T14:03:20.000Z",
+    "coordinates": [
+      -114.1176681,
+      50.9009553
+    ],
+    "longitude": -114.1176681,
+    "latitude": 50.9009553,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

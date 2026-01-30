@@ -1,0 +1,36 @@
+{
+  "id": "13796016",
+  "fullDetails": {
+    "licenseNumber": "13796016",
+    "name": "TCE STONE",
+    "address": "#117 7007 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-01-17T13:22:35.000Z",
+    "expiryDate": "2027-01-16T13:22:35.000Z",
+    "coordinates": [
+      -113.9573305,
+      50.9920988
+    ],
+    "longitude": -113.9573305,
+    "latitude": 50.9920988,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

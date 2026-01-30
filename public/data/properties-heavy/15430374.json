@@ -1,0 +1,36 @@
+{
+  "id": "15430374",
+  "fullDetails": {
+    "licenseNumber": "15430374",
+    "name": "NEW AGE INSULATION",
+    "address": "#9 3925 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-04-25T16:17:03.000Z",
+    "expiryDate": "2026-04-24T16:17:03.000Z",
+    "coordinates": [
+      -113.9775468,
+      51.0016076
+    ],
+    "longitude": -113.9775468,
+    "latitude": 51.0016076,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

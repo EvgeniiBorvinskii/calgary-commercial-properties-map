@@ -1,0 +1,36 @@
+{
+  "id": "16007817",
+  "fullDetails": {
+    "licenseNumber": "16007817",
+    "name": "SOLE TO SOUL FOOTWEAR",
+    "address": "#C2 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-25T15:57:14.000Z",
+    "expiryDate": "2026-03-24T15:57:14.000Z",
+    "coordinates": [
+      -114.1557129,
+      51.0843423
+    ],
+    "longitude": -114.1557129,
+    "latitude": 51.0843423,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

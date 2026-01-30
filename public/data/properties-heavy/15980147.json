@@ -1,0 +1,36 @@
+{
+  "id": "15980147",
+  "fullDetails": {
+    "licenseNumber": "15980147",
+    "name": "PET VALU",
+    "address": "#7026 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-02-09T14:23:01.000Z",
+    "expiryDate": "2026-02-08T14:23:01.000Z",
+    "coordinates": [
+      -114.1097066,
+      51.1751159
+    ],
+    "longitude": -114.1097066,
+    "latitude": 51.1751159,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

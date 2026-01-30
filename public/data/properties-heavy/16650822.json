@@ -1,0 +1,36 @@
+{
+  "id": "16650822",
+  "fullDetails": {
+    "licenseNumber": "16650822",
+    "name": "BLISSFUL BUDS",
+    "address": "631 SHAWCLIFFE GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-07-21T15:19:13.000Z",
+    "expiryDate": "2026-07-20T15:19:12.000Z",
+    "coordinates": [
+      -114.0746556,
+      50.9112591
+    ],
+    "longitude": -114.0746556,
+    "latitude": 50.9112591,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

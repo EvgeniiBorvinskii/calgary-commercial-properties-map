@@ -1,0 +1,37 @@
+{
+  "id": "14788657",
+  "fullDetails": {
+    "licenseNumber": "14788657",
+    "name": "JASMINE SPA",
+    "address": "810 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2018-11-27T14:58:16.000Z",
+    "expiryDate": "2026-11-26T14:58:15.000Z",
+    "coordinates": [
+      -114.0795599,
+      51.0671642
+    ],
+    "longitude": -114.0795599,
+    "latitude": 51.0671642,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

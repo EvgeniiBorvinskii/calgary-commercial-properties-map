@@ -1,0 +1,36 @@
+{
+  "id": "16014052",
+  "fullDetails": {
+    "licenseNumber": "16014052",
+    "name": "ROPHEKA MASSAGE",
+    "address": "#227 4850 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-07-31T13:35:48.000Z",
+    "expiryDate": "2026-07-30T13:35:47.000Z",
+    "coordinates": [
+      -113.9639104,
+      51.1009771
+    ],
+    "longitude": -113.9639104,
+    "latitude": 51.1009771,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

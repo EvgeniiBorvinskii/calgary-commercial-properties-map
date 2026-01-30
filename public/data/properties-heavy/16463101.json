@@ -1,0 +1,36 @@
+{
+  "id": "16463101",
+  "fullDetails": {
+    "licenseNumber": "16463101",
+    "name": "KOLOS PHOTOSTUDIO",
+    "address": "#2100 800 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "pending",
+    "issuedDate": "2024-03-14T14:15:21.000Z",
+    "expiryDate": "2026-03-13T14:15:21.000Z",
+    "coordinates": [
+      -114.0790875,
+      51.049139
+    ],
+    "longitude": -114.0790875,
+    "latitude": 51.049139,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

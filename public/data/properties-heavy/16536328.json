@@ -1,0 +1,37 @@
+{
+  "id": "16536328",
+  "fullDetails": {
+    "licenseNumber": "16536328",
+    "name": "VAN CASA BUILDING SUPPLIES (CALGARY)",
+    "address": "#100 4632 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-09-13T13:10:09.000Z",
+    "expiryDate": "2026-09-12T13:10:09.000Z",
+    "coordinates": [
+      -114.0614062,
+      51.0119171
+    ],
+    "longitude": -114.0614062,
+    "latitude": 51.0119171,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13812839",
+  "fullDetails": {
+    "licenseNumber": "13812839",
+    "name": "BB AUTO SERVICE",
+    "address": "#117 11450 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-06-10T08:28:37.000Z",
+    "expiryDate": "2026-06-09T08:28:37.000Z",
+    "coordinates": [
+      -113.9941179,
+      50.9516946
+    ],
+    "longitude": -113.9941179,
+    "latitude": 50.9516946,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

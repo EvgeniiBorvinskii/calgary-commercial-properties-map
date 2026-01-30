@@ -1,0 +1,36 @@
+{
+  "id": "13673694",
+  "fullDetails": {
+    "licenseNumber": "13673694",
+    "name": "ENDURO CANADA PIPELINE SERVICES",
+    "address": "7391 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-11-16T12:12:06.000Z",
+    "expiryDate": "2026-11-15T12:12:06.000Z",
+    "coordinates": [
+      -113.9255794,
+      50.9582738
+    ],
+    "longitude": -113.9255794,
+    "latitude": 50.9582738,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

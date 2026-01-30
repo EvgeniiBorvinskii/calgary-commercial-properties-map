@@ -1,0 +1,37 @@
+{
+  "id": "10462",
+  "fullDetails": {
+    "licenseNumber": "10462",
+    "name": "CALGARY CENTRE FOR SPIRITUAL LIVING",
+    "address": "4411 MANITOBA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-23T15:43:18.000Z",
+    "expiryDate": "2026-08-22T15:43:18.000Z",
+    "coordinates": [
+      -114.0538612,
+      51.0139889
+    ],
+    "longitude": -114.0538612,
+    "latitude": 51.0139889,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

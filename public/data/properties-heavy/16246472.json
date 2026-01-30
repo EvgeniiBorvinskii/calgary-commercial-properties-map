@@ -1,0 +1,36 @@
+{
+  "id": "16246472",
+  "fullDetails": {
+    "licenseNumber": "16246472",
+    "name": "LAUNDRY AND LINEN SERVICES",
+    "address": "#136 10748 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2023-01-16T11:44:29.000Z",
+    "expiryDate": "2027-01-15T11:44:29.000Z",
+    "coordinates": [
+      -113.9240758,
+      50.9605424
+    ],
+    "longitude": -113.9240758,
+    "latitude": 50.9605424,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

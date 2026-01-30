@@ -1,0 +1,36 @@
+{
+  "id": "16548646",
+  "fullDetails": {
+    "licenseNumber": "16548646",
+    "name": "MAHEEEDLDIN AHMAD",
+    "address": "#3 1222 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-11T10:07:37.000Z",
+    "expiryDate": "2026-10-10T10:07:37.000Z",
+    "coordinates": [
+      -114.0329633,
+      51.0889416
+    ],
+    "longitude": -114.0329633,
+    "latitude": 51.0889416,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

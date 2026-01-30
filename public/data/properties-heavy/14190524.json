@@ -1,0 +1,37 @@
+{
+  "id": "14190524",
+  "fullDetails": {
+    "licenseNumber": "14190524",
+    "name": "AK GROCERY AND VARIETY STORE",
+    "address": "#6 5008 WHITEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-06-15T12:07:02.000Z",
+    "expiryDate": "2026-06-14T12:07:02.000Z",
+    "coordinates": [
+      -113.9620305,
+      51.0862133
+    ],
+    "longitude": -113.9620305,
+    "latitude": 51.0862133,
+    "community": "WHITEHORN",
+    "ward": "WHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

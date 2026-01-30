@@ -1,0 +1,36 @@
+{
+  "id": "12092763",
+  "fullDetails": {
+    "licenseNumber": "12092763",
+    "name": "CABINET SOLUTIONS",
+    "address": "#104 2980 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-05T11:12:02.000Z",
+    "expiryDate": "2026-12-04T11:12:02.000Z",
+    "coordinates": [
+      -113.9943422,
+      51.0696309
+    ],
+    "longitude": -113.9943422,
+    "latitude": 51.0696309,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

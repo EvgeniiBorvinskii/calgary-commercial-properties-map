@@ -1,0 +1,36 @@
+{
+  "id": "57786",
+  "fullDetails": {
+    "licenseNumber": "57786",
+    "name": "WHISSELL EQUIPMENT",
+    "address": "#200 2500 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-23T00:00:00.000Z",
+    "coordinates": [
+      -114.0004437,
+      50.9573404
+    ],
+    "longitude": -114.0004437,
+    "latitude": 50.9573404,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

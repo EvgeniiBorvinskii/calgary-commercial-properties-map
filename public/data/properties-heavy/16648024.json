@@ -1,0 +1,37 @@
+{
+  "id": "16648024",
+  "fullDetails": {
+    "licenseNumber": "16648024",
+    "name": "PICK N GO",
+    "address": "3501 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-08-08T14:03:39.000Z",
+    "expiryDate": "2026-08-07T14:03:38.000Z",
+    "coordinates": [
+      -114.0628343,
+      51.0833822
+    ],
+    "longitude": -114.0628343,
+    "latitude": 51.0833822,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

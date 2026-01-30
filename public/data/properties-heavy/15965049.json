@@ -1,0 +1,37 @@
+{
+  "id": "15965049",
+  "fullDetails": {
+    "licenseNumber": "15965049",
+    "name": "COCHU CHOCOLATIER",
+    "address": "429 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-01-13T14:53:37.000Z",
+    "expiryDate": "2027-01-12T14:53:37.000Z",
+    "coordinates": [
+      -114.0539662,
+      51.0450925
+    ],
+    "longitude": -114.0539662,
+    "latitude": 51.0450925,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

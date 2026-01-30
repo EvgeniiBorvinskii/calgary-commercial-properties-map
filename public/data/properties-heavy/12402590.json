@@ -1,0 +1,36 @@
+{
+  "id": "12402590",
+  "fullDetails": {
+    "licenseNumber": "12402590",
+    "name": "SOUL TO SOLE DANCE COMPANY",
+    "address": "7138 FISHER ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2005-10-11T11:09:47.000Z",
+    "expiryDate": "2026-10-10T11:09:47.000Z",
+    "coordinates": [
+      -114.069003,
+      50.990812
+    ],
+    "longitude": -114.069003,
+    "latitude": 50.990812,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

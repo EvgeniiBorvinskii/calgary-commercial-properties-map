@@ -1,0 +1,36 @@
+{
+  "id": "13222120",
+  "fullDetails": {
+    "licenseNumber": "13222120",
+    "name": "ABOVE ALL SAFETY DRIVING SCHOOL",
+    "address": "#115 55 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2012-12-05T11:01:52.000Z",
+    "expiryDate": "2026-12-04T11:01:52.000Z",
+    "coordinates": [
+      -113.9690859,
+      51.1072461
+    ],
+    "longitude": -113.9690859,
+    "latitude": 51.1072461,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

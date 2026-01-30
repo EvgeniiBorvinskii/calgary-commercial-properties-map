@@ -1,0 +1,37 @@
+{
+  "id": "174292",
+  "fullDetails": {
+    "licenseNumber": "174292",
+    "name": "H T H HEATECH",
+    "address": "61 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-01-02T08:17:58.000Z",
+    "expiryDate": "2027-01-01T08:17:58.000Z",
+    "coordinates": [
+      -113.9035498,
+      50.9640634
+    ],
+    "longitude": -113.9035498,
+    "latitude": 50.9640634,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

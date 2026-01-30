@@ -1,0 +1,36 @@
+{
+  "id": "12146478",
+  "fullDetails": {
+    "licenseNumber": "12146478",
+    "name": "BIG AL'S TEXTURING",
+    "address": "#113 1324 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-03-04T08:36:38.000Z",
+    "expiryDate": "2027-03-03T08:36:37.000Z",
+    "coordinates": [
+      -114.0310673,
+      51.0921219
+    ],
+    "longitude": -114.0310673,
+    "latitude": 51.0921219,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

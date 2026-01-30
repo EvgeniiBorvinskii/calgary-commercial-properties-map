@@ -1,0 +1,36 @@
+{
+  "id": "16096497",
+  "fullDetails": {
+    "licenseNumber": "16096497",
+    "name": "CASEY-LEE HAIR AND MAKEUP",
+    "address": "150 EVANSPARK MR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2021-10-26T14:27:19.000Z",
+    "expiryDate": "2026-10-25T14:27:19.000Z",
+    "coordinates": [
+      -114.1110874,
+      51.1744636
+    ],
+    "longitude": -114.1110874,
+    "latitude": 51.1744636,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

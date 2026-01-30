@@ -1,0 +1,36 @@
+{
+  "id": "12414322",
+  "fullDetails": {
+    "licenseNumber": "12414322",
+    "name": "STAR DENTAL TECHNOLOGIES",
+    "address": "#37 1515 HIGHFIELD CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-12-09T16:03:15.000Z",
+    "expiryDate": "2026-12-08T16:03:15.000Z",
+    "coordinates": [
+      -114.0328871,
+      51.0074761
+    ],
+    "longitude": -114.0328871,
+    "latitude": 51.0074761,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

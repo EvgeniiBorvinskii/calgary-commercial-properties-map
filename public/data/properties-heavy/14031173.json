@@ -1,0 +1,37 @@
+{
+  "id": "14031173",
+  "fullDetails": {
+    "licenseNumber": "14031173",
+    "name": "MAC'S CONVENIENCE STORE",
+    "address": "#208 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2022-01-27T15:09:03.000Z",
+    "expiryDate": "2026-01-26T15:09:03.000Z",
+    "coordinates": [
+      -113.9557306,
+      51.0638445
+    ],
+    "longitude": -113.9557306,
+    "latitude": 51.0638445,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

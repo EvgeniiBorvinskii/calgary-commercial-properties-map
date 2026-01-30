@@ -1,0 +1,36 @@
+{
+  "id": "12393781",
+  "fullDetails": {
+    "licenseNumber": "12393781",
+    "name": "BANFF TRAIL MOTEL",
+    "address": "2107 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2005-07-13T05:29:39.000Z",
+    "expiryDate": "2026-07-12T05:29:39.000Z",
+    "coordinates": [
+      -114.1084264,
+      51.0665352
+    ],
+    "longitude": -114.1084264,
+    "latitude": 51.0665352,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

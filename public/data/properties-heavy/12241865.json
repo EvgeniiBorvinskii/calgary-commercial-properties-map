@@ -1,0 +1,36 @@
+{
+  "id": "12241865",
+  "fullDetails": {
+    "licenseNumber": "12241865",
+    "name": "DOMINION PROTECTIVE SERVICES",
+    "address": "#310 2116 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "pending",
+    "issuedDate": "2023-03-13T11:55:18.000Z",
+    "expiryDate": "2026-03-12T11:55:18.000Z",
+    "coordinates": [
+      -114.0098543,
+      51.0774909
+    ],
+    "longitude": -114.0098543,
+    "latitude": 51.0774909,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

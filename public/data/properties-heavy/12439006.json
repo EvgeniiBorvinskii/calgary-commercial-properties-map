@@ -1,0 +1,36 @@
+{
+  "id": "12439006",
+  "fullDetails": {
+    "licenseNumber": "12439006",
+    "name": "ADVANCED FLOW TECHNOLOGIES",
+    "address": "6021 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-07-19T14:41:12.000Z",
+    "expiryDate": "2026-07-18T14:41:12.000Z",
+    "coordinates": [
+      -114.0517388,
+      50.9992528
+    ],
+    "longitude": -114.0517388,
+    "latitude": 50.9992528,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13991807",
+  "fullDetails": {
+    "licenseNumber": "13991807",
+    "name": "SUNMAR CONTRACTING",
+    "address": "639 46 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-09-09T15:03:29.000Z",
+    "expiryDate": "2026-09-08T15:03:29.000Z",
+    "coordinates": [
+      -114.0491719,
+      51.0942774
+    ],
+    "longitude": -114.0491719,
+    "latitude": 51.0942774,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

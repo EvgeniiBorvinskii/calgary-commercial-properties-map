@@ -1,0 +1,36 @@
+{
+  "id": "14153696",
+  "fullDetails": {
+    "licenseNumber": "14153696",
+    "name": "WESTRIM CONTRACTORS",
+    "address": "#19 6991 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-06-07T05:33:46.000Z",
+    "expiryDate": "2026-06-06T05:33:46.000Z",
+    "coordinates": [
+      -113.9650088,
+      50.9931287
+    ],
+    "longitude": -113.9650088,
+    "latitude": 50.9931287,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

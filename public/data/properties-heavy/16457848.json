@@ -1,0 +1,37 @@
+{
+  "id": "16457848",
+  "fullDetails": {
+    "licenseNumber": "16457848",
+    "name": "NAV SIGNS & WRAPS",
+    "address": "#1 1303 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-03T11:06:10.000Z",
+    "expiryDate": "2026-03-02T11:06:10.000Z",
+    "coordinates": [
+      -114.0324582,
+      51.0915677
+    ],
+    "longitude": -114.0324582,
+    "latitude": 51.0915677,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16061178",
+  "fullDetails": {
+    "licenseNumber": "16061178",
+    "name": "ABUNIVERSE",
+    "address": "#A 3915 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-08-25T07:30:05.000Z",
+    "expiryDate": "2026-08-24T07:30:05.000Z",
+    "coordinates": [
+      -113.9798671,
+      50.9820707
+    ],
+    "longitude": -113.9798671,
+    "latitude": 50.9820707,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

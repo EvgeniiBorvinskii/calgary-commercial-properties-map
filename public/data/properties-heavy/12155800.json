@@ -1,0 +1,36 @@
+{
+  "id": "12155800",
+  "fullDetails": {
+    "licenseNumber": "12155800",
+    "name": "AZZURRI HOLDINGS",
+    "address": "#102 3907 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2004-07-07T08:31:48.000Z",
+    "expiryDate": "2026-07-06T08:31:48.000Z",
+    "coordinates": [
+      -114.0541504,
+      51.0869434
+    ],
+    "longitude": -114.0541504,
+    "latitude": 51.0869434,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16652794",
+  "fullDetails": {
+    "licenseNumber": "16652794",
+    "name": "IRON 24",
+    "address": "#410 1275 CREEKSIDE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-07-09T12:15:19.000Z",
+    "expiryDate": "2026-07-08T12:15:18.000Z",
+    "coordinates": [
+      -114.0776174,
+      50.8594197
+    ],
+    "longitude": -114.0776174,
+    "latitude": 50.8594197,
+    "community": "PINE CREEK",
+    "ward": "PCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

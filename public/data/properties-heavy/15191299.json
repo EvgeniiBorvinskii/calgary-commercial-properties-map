@@ -1,0 +1,36 @@
+{
+  "id": "15191299",
+  "fullDetails": {
+    "licenseNumber": "15191299",
+    "name": "RV 250",
+    "address": "17110 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2019-03-18T14:50:45.000Z",
+    "expiryDate": "2026-03-17T14:50:45.000Z",
+    "coordinates": [
+      -114.1396005,
+      50.8978001
+    ],
+    "longitude": -114.1396005,
+    "latitude": 50.8978001,
+    "community": "RESIDUAL WARD 13 - SUB AREA 13G",
+    "ward": "13G",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

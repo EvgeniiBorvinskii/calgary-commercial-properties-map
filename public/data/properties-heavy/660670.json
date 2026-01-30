@@ -1,0 +1,37 @@
+{
+  "id": "660670",
+  "fullDetails": {
+    "licenseNumber": "660670",
+    "name": "BRITISH PANTRY",
+    "address": "#125 4820 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-11T00:00:00.000Z",
+    "coordinates": [
+      -114.1404195,
+      51.0946503
+    ],
+    "longitude": -114.1404195,
+    "latitude": 51.0946503,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

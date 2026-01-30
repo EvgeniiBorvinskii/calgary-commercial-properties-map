@@ -1,0 +1,37 @@
+{
+  "id": "16681496",
+  "fullDetails": {
+    "licenseNumber": "16681496",
+    "name": "ZENSHI",
+    "address": "#125 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-01T08:03:21.000Z",
+    "expiryDate": "2026-09-30T08:03:21.000Z",
+    "coordinates": [
+      -114.2129643,
+      51.1514204
+    ],
+    "longitude": -114.2129643,
+    "latitude": 51.1514204,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

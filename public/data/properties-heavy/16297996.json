@@ -1,0 +1,36 @@
+{
+  "id": "16297996",
+  "fullDetails": {
+    "licenseNumber": "16297996",
+    "name": "PANEXWD",
+    "address": "3011 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-10-30T14:32:02.000Z",
+    "expiryDate": "2026-10-29T14:32:02.000Z",
+    "coordinates": [
+      -114.0192946,
+      51.0792235
+    ],
+    "longitude": -114.0192946,
+    "latitude": 51.0792235,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

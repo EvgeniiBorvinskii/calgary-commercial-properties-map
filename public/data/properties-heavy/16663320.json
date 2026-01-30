@@ -1,0 +1,36 @@
+{
+  "id": "16663320",
+  "fullDetails": {
+    "licenseNumber": "16663320",
+    "name": "B F AUTOMOTIVE EXHAUST AND TIRES REPAIR",
+    "address": "5815A 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-12-19T12:59:20.000Z",
+    "expiryDate": "2026-12-18T12:59:20.000Z",
+    "coordinates": [
+      -113.9821977,
+      51.0013307
+    ],
+    "longitude": -113.9821977,
+    "latitude": 51.0013307,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

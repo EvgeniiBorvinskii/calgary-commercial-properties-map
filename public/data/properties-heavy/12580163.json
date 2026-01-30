@@ -1,0 +1,36 @@
+{
+  "id": "12580163",
+  "fullDetails": {
+    "licenseNumber": "12580163",
+    "name": "FISH CREEK CHIROPRACTIC OFFICE",
+    "address": "#3215 380 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2008-01-17T05:44:40.000Z",
+    "expiryDate": "2027-01-16T05:44:40.000Z",
+    "coordinates": [
+      -114.0636591,
+      50.9311621
+    ],
+    "longitude": -114.0636591,
+    "latitude": 50.9311621,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

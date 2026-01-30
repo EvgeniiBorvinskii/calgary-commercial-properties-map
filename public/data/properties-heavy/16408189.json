@@ -1,0 +1,36 @@
+{
+  "id": "16408189",
+  "fullDetails": {
+    "licenseNumber": "16408189",
+    "name": "7 STAR LIQUOR",
+    "address": "4305 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-11-02T10:59:59.000Z",
+    "expiryDate": "2026-11-01T10:59:58.000Z",
+    "coordinates": [
+      -114.0628526,
+      51.0907439
+    ],
+    "longitude": -114.0628526,
+    "latitude": 51.0907439,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

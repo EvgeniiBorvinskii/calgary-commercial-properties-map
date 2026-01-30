@@ -1,0 +1,37 @@
+{
+  "id": "14253108",
+  "fullDetails": {
+    "licenseNumber": "14253108",
+    "name": "GUARDIAN CONDOMINIUM CARE",
+    "address": "#5 1381 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-09-13T05:30:31.000Z",
+    "expiryDate": "2026-09-12T05:30:31.000Z",
+    "coordinates": [
+      -114.0314539,
+      51.0117903
+    ],
+    "longitude": -114.0314539,
+    "latitude": 51.0117903,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

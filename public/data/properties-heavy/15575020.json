@@ -1,0 +1,36 @@
+{
+  "id": "15575020",
+  "fullDetails": {
+    "licenseNumber": "15575020",
+    "name": "VILLAGE CRAFT WINEMAKER",
+    "address": "#105 358 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-22T10:17:53.000Z",
+    "expiryDate": "2026-07-21T10:17:53.000Z",
+    "coordinates": [
+      -114.0697813,
+      51.0016167
+    ],
+    "longitude": -114.0697813,
+    "latitude": 51.0016167,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

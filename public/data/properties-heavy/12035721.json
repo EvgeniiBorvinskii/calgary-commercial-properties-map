@@ -1,0 +1,36 @@
+{
+  "id": "12035721",
+  "fullDetails": {
+    "licenseNumber": "12035721",
+    "name": "HALLMARK HOUSEKEEPING SERVICES",
+    "address": "#1 1450 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2014-09-03T09:56:04.000Z",
+    "expiryDate": "2026-09-02T09:56:04.000Z",
+    "coordinates": [
+      -113.9912316,
+      51.0643842
+    ],
+    "longitude": -113.9912316,
+    "latitude": 51.0643842,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16537599",
+  "fullDetails": {
+    "licenseNumber": "16537599",
+    "name": "SIXTH DIMENSION ARTS STUDIO",
+    "address": "#2130 2 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-15T08:46:54.000Z",
+    "expiryDate": "2026-11-14T08:46:54.000Z",
+    "coordinates": [
+      -114.2040854,
+      51.1538303
+    ],
+    "longitude": -114.2040854,
+    "latitude": 51.1538303,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

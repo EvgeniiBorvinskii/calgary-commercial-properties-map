@@ -1,0 +1,36 @@
+{
+  "id": "16660508",
+  "fullDetails": {
+    "licenseNumber": "16660508",
+    "name": "PEACH LASERS",
+    "address": "8855 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-09-09T11:34:04.000Z",
+    "expiryDate": "2026-09-08T11:34:04.000Z",
+    "coordinates": [
+      -114.0726543,
+      50.9744188
+    ],
+    "longitude": -114.0726543,
+    "latitude": 50.9744188,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13824610",
+  "fullDetails": {
+    "licenseNumber": "13824610",
+    "name": "MONSTER MINI-GOLF (FOOD)",
+    "address": "#A 2020 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2015-02-13T14:53:48.000Z",
+    "expiryDate": "2026-02-12T14:53:48.000Z",
+    "coordinates": [
+      -114.00854,
+      51.0819649
+    ],
+    "longitude": -114.00854,
+    "latitude": 51.0819649,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

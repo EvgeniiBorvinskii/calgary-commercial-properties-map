@@ -1,0 +1,36 @@
+{
+  "id": "16340275",
+  "fullDetails": {
+    "licenseNumber": "16340275",
+    "name": "PEACE MECHANICAL",
+    "address": "#110 1915 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-27T10:34:28.000Z",
+    "expiryDate": "2026-09-26T10:34:28.000Z",
+    "coordinates": [
+      -114.0141689,
+      51.0765817
+    ],
+    "longitude": -114.0141689,
+    "latitude": 51.0765817,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

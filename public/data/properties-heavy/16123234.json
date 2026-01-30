@@ -1,0 +1,36 @@
+{
+  "id": "16123234",
+  "fullDetails": {
+    "licenseNumber": "16123234",
+    "name": "PROVISION INFOTECH",
+    "address": "#570 202 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-01T10:06:49.000Z",
+    "expiryDate": "2026-09-30T10:06:48.000Z",
+    "coordinates": [
+      -114.0658254,
+      51.0478252
+    ],
+    "longitude": -114.0658254,
+    "latitude": 51.0478252,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

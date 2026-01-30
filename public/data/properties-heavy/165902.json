@@ -1,0 +1,37 @@
+{
+  "id": "165902",
+  "fullDetails": {
+    "licenseNumber": "165902",
+    "name": "CANYON MEADOWS COMMUNITY",
+    "address": "844 CANTABRIAN DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0782807,
+      50.9460539
+    ],
+    "longitude": -114.0782807,
+    "latitude": 50.9460539,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

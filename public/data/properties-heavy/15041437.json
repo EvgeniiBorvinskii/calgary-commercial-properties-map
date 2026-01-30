@@ -1,0 +1,36 @@
+{
+  "id": "15041437",
+  "fullDetails": {
+    "licenseNumber": "15041437",
+    "name": "CALGARY GONG FU ACADEMY",
+    "address": "#114 8060 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-12-02T12:10:09.000Z",
+    "expiryDate": "2026-12-01T12:10:09.000Z",
+    "coordinates": [
+      -114.2042177,
+      51.1162596
+    ],
+    "longitude": -114.2042177,
+    "latitude": 51.1162596,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

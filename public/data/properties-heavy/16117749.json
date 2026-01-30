@@ -1,0 +1,36 @@
+{
+  "id": "16117749",
+  "fullDetails": {
+    "licenseNumber": "16117749",
+    "name": "SOL ELECTROLYSIS",
+    "address": "1532 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-01-18T16:18:40.000Z",
+    "expiryDate": "2027-01-17T16:18:40.000Z",
+    "coordinates": [
+      -114.0268078,
+      51.0385605
+    ],
+    "longitude": -114.0268078,
+    "latitude": 51.0385605,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

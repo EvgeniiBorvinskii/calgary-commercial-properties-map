@@ -1,0 +1,36 @@
+{
+  "id": "16189433",
+  "fullDetails": {
+    "licenseNumber": "16189433",
+    "name": "MR PRETZELS",
+    "address": "#200A 2500 UNIVERSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-06T08:21:18.000Z",
+    "expiryDate": "2026-09-05T08:21:18.000Z",
+    "coordinates": [
+      -114.128642,
+      51.0745912
+    ],
+    "longitude": -114.128642,
+    "latitude": 51.0745912,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

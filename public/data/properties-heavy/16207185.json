@@ -1,0 +1,36 @@
+{
+  "id": "16207185",
+  "fullDetails": {
+    "licenseNumber": "16207185",
+    "name": "MEGA-TECH",
+    "address": "#46 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-15T09:52:13.000Z",
+    "expiryDate": "2026-08-14T09:52:12.000Z",
+    "coordinates": [
+      -113.9748929,
+      51.0049496
+    ],
+    "longitude": -113.9748929,
+    "latitude": 51.0049496,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

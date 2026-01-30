@@ -1,0 +1,36 @@
+{
+  "id": "12480448",
+  "fullDetails": {
+    "licenseNumber": "12480448",
+    "name": "STAYBRIDGE SUITES",
+    "address": "2825 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2006-07-12T08:56:31.000Z",
+    "expiryDate": "2026-07-11T08:56:31.000Z",
+    "coordinates": [
+      -114.0001044,
+      51.0714841
+    ],
+    "longitude": -114.0001044,
+    "latitude": 51.0714841,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

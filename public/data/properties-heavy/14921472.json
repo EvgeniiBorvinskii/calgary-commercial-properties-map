@@ -1,0 +1,37 @@
+{
+  "id": "14921472",
+  "fullDetails": {
+    "licenseNumber": "14921472",
+    "name": "MARDA LOOP BREWING COMPANY",
+    "address": "3523 18 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE MANUFACTURER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-07-13T12:54:19.000Z",
+    "expiryDate": "2026-07-12T12:54:19.000Z",
+    "coordinates": [
+      -114.1051002,
+      51.0222811
+    ],
+    "longitude": -114.1051002,
+    "latitude": 51.0222811,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

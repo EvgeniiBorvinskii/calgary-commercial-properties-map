@@ -1,0 +1,36 @@
+{
+  "id": "14522809",
+  "fullDetails": {
+    "licenseNumber": "14522809",
+    "name": "CHRISCOTT (THE)",
+    "address": "721 2 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-05-23T12:01:41.000Z",
+    "expiryDate": "2026-05-22T12:01:41.000Z",
+    "coordinates": [
+      -114.0786253,
+      51.0574655
+    ],
+    "longitude": -114.0786253,
+    "latitude": 51.0574655,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

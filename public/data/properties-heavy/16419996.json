@@ -1,0 +1,37 @@
+{
+  "id": "16419996",
+  "fullDetails": {
+    "licenseNumber": "16419996",
+    "name": "CARPET MECHANICS AND THE MAT COMPANY",
+    "address": "3439 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "DISTRIBUTION MANAGER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-03-13T08:43:13.000Z",
+    "expiryDate": "2026-03-12T08:43:13.000Z",
+    "coordinates": [
+      -114.041387,
+      51.023596
+    ],
+    "longitude": -114.041387,
+    "latitude": 51.023596,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

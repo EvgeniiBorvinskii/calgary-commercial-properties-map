@@ -1,0 +1,37 @@
+{
+  "id": "12847042",
+  "fullDetails": {
+    "licenseNumber": "12847042",
+    "name": "RILEY PARK SHELL",
+    "address": "505 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2009-12-24T05:42:36.000Z",
+    "expiryDate": "2026-12-23T05:42:36.000Z",
+    "coordinates": [
+      -114.0862239,
+      51.0568712
+    ],
+    "longitude": -114.0862239,
+    "latitude": 51.0568712,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

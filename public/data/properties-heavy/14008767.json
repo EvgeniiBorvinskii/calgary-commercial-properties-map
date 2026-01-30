@@ -1,0 +1,37 @@
+{
+  "id": "14008767",
+  "fullDetails": {
+    "licenseNumber": "14008767",
+    "name": "SPRINGBANK ELITE NAILS & SPA",
+    "address": "#125 7460 SPRINGBANK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-14T12:35:40.000Z",
+    "expiryDate": "2026-10-13T12:35:40.000Z",
+    "coordinates": [
+      -114.1922331,
+      51.0180809
+    ],
+    "longitude": -114.1922331,
+    "latitude": 51.0180809,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

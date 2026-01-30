@@ -1,0 +1,37 @@
+{
+  "id": "12611158",
+  "fullDetails": {
+    "licenseNumber": "12611158",
+    "name": "LMS REINFORCING STEEL GROUP",
+    "address": "387 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-02-23T07:17:09.000Z",
+    "expiryDate": "2027-02-22T07:17:09.000Z",
+    "coordinates": [
+      -113.8987495,
+      50.9622414
+    ],
+    "longitude": -113.8987495,
+    "latitude": 50.9622414,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

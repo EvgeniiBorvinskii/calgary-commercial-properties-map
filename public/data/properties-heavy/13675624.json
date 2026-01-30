@@ -1,0 +1,36 @@
+{
+  "id": "13675624",
+  "fullDetails": {
+    "licenseNumber": "13675624",
+    "name": "K-THI VIET CUISINE",
+    "address": "2135 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-05-15T09:19:45.000Z",
+    "expiryDate": "2026-05-14T09:19:45.000Z",
+    "coordinates": [
+      -114.1114464,
+      51.023802
+    ],
+    "longitude": -114.1114464,
+    "latitude": 51.023802,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

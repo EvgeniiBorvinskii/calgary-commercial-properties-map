@@ -1,0 +1,36 @@
+{
+  "id": "13190327",
+  "fullDetails": {
+    "licenseNumber": "13190327",
+    "name": "WORKWISE OFFICE SERVICES",
+    "address": "#62 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-07-18T15:48:19.000Z",
+    "expiryDate": "2026-07-17T15:48:18.000Z",
+    "coordinates": [
+      -113.9738951,
+      51.0041231
+    ],
+    "longitude": -113.9738951,
+    "latitude": 51.0041231,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

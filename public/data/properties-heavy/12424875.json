@@ -1,0 +1,36 @@
+{
+  "id": "12424875",
+  "fullDetails": {
+    "licenseNumber": "12424875",
+    "name": "JYSK LINEN'N FURNITURE",
+    "address": "#500 3221 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-08T14:59:19.000Z",
+    "expiryDate": "2026-10-07T14:59:19.000Z",
+    "coordinates": [
+      -113.990819,
+      51.067834
+    ],
+    "longitude": -113.990819,
+    "latitude": 51.067834,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

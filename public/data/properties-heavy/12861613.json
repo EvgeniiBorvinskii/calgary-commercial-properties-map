@@ -1,0 +1,36 @@
+{
+  "id": "12861613",
+  "fullDetails": {
+    "licenseNumber": "12861613",
+    "name": "FOOTHILLS CREAMERY",
+    "address": "2825 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-15T05:35:20.000Z",
+    "expiryDate": "2026-12-14T05:35:20.000Z",
+    "coordinates": [
+      -114.0282662,
+      51.0288576
+    ],
+    "longitude": -114.0282662,
+    "latitude": 51.0288576,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

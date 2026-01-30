@@ -1,0 +1,36 @@
+{
+  "id": "751370",
+  "fullDetails": {
+    "licenseNumber": "751370",
+    "name": "CALGARY SLO-PITCH SOCIETY",
+    "address": "1899 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-01T00:00:00.000Z",
+    "coordinates": [
+      -114.0149868,
+      51.086251
+    ],
+    "longitude": -114.0149868,
+    "latitude": 51.086251,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16615296",
+  "fullDetails": {
+    "licenseNumber": "16615296",
+    "name": "NU.A STUDIO",
+    "address": "#114A 5211 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-04-29T08:34:05.000Z",
+    "expiryDate": "2026-04-28T08:34:04.000Z",
+    "coordinates": [
+      -114.0689819,
+      51.0079835
+    ],
+    "longitude": -114.0689819,
+    "latitude": 51.0079835,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

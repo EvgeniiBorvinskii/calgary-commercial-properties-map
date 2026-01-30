@@ -1,0 +1,36 @@
+{
+  "id": "12337812",
+  "fullDetails": {
+    "licenseNumber": "12337812",
+    "name": "A-LINE DISTRIBUTORS",
+    "address": "6721 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2004-12-27T11:18:35.000Z",
+    "expiryDate": "2026-12-26T11:18:35.000Z",
+    "coordinates": [
+      -114.0646384,
+      50.9927978
+    ],
+    "longitude": -114.0646384,
+    "latitude": 50.9927978,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

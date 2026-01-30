@@ -1,0 +1,37 @@
+{
+  "id": "14417497",
+  "fullDetails": {
+    "licenseNumber": "14417497",
+    "name": "MEDICINE SHOPPE #389",
+    "address": "1152 137 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-16T11:52:06.000Z",
+    "expiryDate": "2026-03-15T11:52:06.000Z",
+    "coordinates": [
+      -114.0281269,
+      50.928236
+    ],
+    "longitude": -114.0281269,
+    "latitude": 50.928236,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

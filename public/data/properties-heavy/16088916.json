@@ -1,0 +1,36 @@
+{
+  "id": "16088916",
+  "fullDetails": {
+    "licenseNumber": "16088916",
+    "name": "GLORIOUS HOME BUILDERS",
+    "address": "#3070 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-10-15T15:59:25.000Z",
+    "expiryDate": "2026-10-14T15:59:25.000Z",
+    "coordinates": [
+      -113.9811158,
+      51.1522501
+    ],
+    "longitude": -113.9811158,
+    "latitude": 51.1522501,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

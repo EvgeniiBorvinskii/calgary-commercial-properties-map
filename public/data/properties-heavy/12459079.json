@@ -1,0 +1,36 @@
+{
+  "id": "12459079",
+  "fullDetails": {
+    "licenseNumber": "12459079",
+    "name": "SPENCE DIAMONDS",
+    "address": "#100 6700 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-01-26T12:48:48.000Z",
+    "expiryDate": "2027-01-25T12:48:48.000Z",
+    "coordinates": [
+      -114.0701704,
+      50.9937138
+    ],
+    "longitude": -114.0701704,
+    "latitude": 50.9937138,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

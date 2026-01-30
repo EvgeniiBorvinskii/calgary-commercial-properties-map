@@ -1,0 +1,36 @@
+{
+  "id": "13172523",
+  "fullDetails": {
+    "licenseNumber": "13172523",
+    "name": "SHOEMASTERS",
+    "address": "5707C MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-05-02T11:00:05.000Z",
+    "expiryDate": "2026-05-01T11:00:05.000Z",
+    "coordinates": [
+      -114.0722373,
+      51.0028787
+    ],
+    "longitude": -114.0722373,
+    "latitude": 51.0028787,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12755187",
+  "fullDetails": {
+    "licenseNumber": "12755187",
+    "name": "CROWFOOT BOTTLE DEPOT",
+    "address": "#30 141 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "pending",
+    "issuedDate": "2009-03-26T11:54:40.000Z",
+    "expiryDate": "2026-03-25T11:54:40.000Z",
+    "coordinates": [
+      -114.2084003,
+      51.1248139
+    ],
+    "longitude": -114.2084003,
+    "latitude": 51.1248139,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

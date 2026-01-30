@@ -1,0 +1,36 @@
+{
+  "id": "13342993",
+  "fullDetails": {
+    "licenseNumber": "13342993",
+    "name": "RIVERVIEW CUSTOM HOMES",
+    "address": "#405 933 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-25T11:54:48.000Z",
+    "expiryDate": "2026-11-24T11:54:47.000Z",
+    "coordinates": [
+      -114.0838717,
+      51.0375742
+    ],
+    "longitude": -114.0838717,
+    "latitude": 51.0375742,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

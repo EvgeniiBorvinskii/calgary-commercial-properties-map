@@ -1,0 +1,36 @@
+{
+  "id": "16085102",
+  "fullDetails": {
+    "licenseNumber": "16085102",
+    "name": "PIZZA 73",
+    "address": "#102 3709 26 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-11-22T17:31:03.000Z",
+    "expiryDate": "2026-11-21T17:31:03.000Z",
+    "coordinates": [
+      -113.9807642,
+      51.0774422
+    ],
+    "longitude": -113.9807642,
+    "latitude": 51.0774422,
+    "community": "RUNDLE",
+    "ward": "RUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

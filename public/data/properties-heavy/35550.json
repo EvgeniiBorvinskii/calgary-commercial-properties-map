@@ -1,0 +1,37 @@
+{
+  "id": "35550",
+  "fullDetails": {
+    "licenseNumber": "35550",
+    "name": "CALGARY FASTENERS & TOOLS - FOOTHILLS STORE",
+    "address": "4550 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-12-23T05:46:28.000Z",
+    "expiryDate": "2026-12-22T05:46:28.000Z",
+    "coordinates": [
+      -113.9690643,
+      50.9901684
+    ],
+    "longitude": -113.9690643,
+    "latitude": 50.9901684,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "888834",
+  "fullDetails": {
+    "licenseNumber": "888834",
+    "name": "PINNACLE DISTRIBUTION",
+    "address": "#110 11056 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-03-31T05:34:12.000Z",
+    "expiryDate": "2026-03-30T05:34:12.000Z",
+    "coordinates": [
+      -113.9644802,
+      50.9553729
+    ],
+    "longitude": -113.9644802,
+    "latitude": 50.9553729,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

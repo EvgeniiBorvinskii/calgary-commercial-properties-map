@@ -1,0 +1,36 @@
+{
+  "id": "16334922",
+  "fullDetails": {
+    "licenseNumber": "16334922",
+    "name": "TRUSSCORE ALBERTA",
+    "address": "5201 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-06-29T14:43:42.000Z",
+    "expiryDate": "2026-06-28T14:43:42.000Z",
+    "coordinates": [
+      -113.9601349,
+      50.9959067
+    ],
+    "longitude": -113.9601349,
+    "latitude": 50.9959067,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

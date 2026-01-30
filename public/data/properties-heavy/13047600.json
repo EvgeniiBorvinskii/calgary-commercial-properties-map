@@ -1,0 +1,36 @@
+{
+  "id": "13047600",
+  "fullDetails": {
+    "licenseNumber": "13047600",
+    "name": "GATE GOURMET CANADA",
+    "address": "2200 78 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-03-16T09:55:02.000Z",
+    "expiryDate": "2026-03-15T09:55:02.000Z",
+    "coordinates": [
+      -114.0068539,
+      51.1232465
+    ],
+    "longitude": -114.0068539,
+    "latitude": 51.1232465,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

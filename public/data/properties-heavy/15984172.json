@@ -1,0 +1,36 @@
+{
+  "id": "15984172",
+  "fullDetails": {
+    "licenseNumber": "15984172",
+    "name": "SSI LIFT CDA (2019)",
+    "address": "3220 118 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-02-03T11:18:16.000Z",
+    "expiryDate": "2027-02-02T11:18:16.000Z",
+    "coordinates": [
+      -113.9907492,
+      50.9478767
+    ],
+    "longitude": -113.9907492,
+    "latitude": 50.9478767,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13233721",
+  "fullDetails": {
+    "licenseNumber": "13233721",
+    "name": "ADVANCE TRUCK REPAIR",
+    "address": "#7 4451 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2012-03-07T12:07:51.000Z",
+    "expiryDate": "2026-03-06T12:07:51.000Z",
+    "coordinates": [
+      -113.9706588,
+      51.0003899
+    ],
+    "longitude": -113.9706588,
+    "latitude": 51.0003899,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14374102",
+  "fullDetails": {
+    "licenseNumber": "14374102",
+    "name": "MEDICINE SHOPPE #242",
+    "address": "#111 31 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-01-26T05:32:19.000Z",
+    "expiryDate": "2026-01-25T05:32:19.000Z",
+    "coordinates": [
+      -114.0586154,
+      50.9024142
+    ],
+    "longitude": -114.0586154,
+    "latitude": 50.9024142,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

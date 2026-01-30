@@ -1,0 +1,36 @@
+{
+  "id": "16279176",
+  "fullDetails": {
+    "licenseNumber": "16279176",
+    "name": "ALFA VAPE",
+    "address": "1336 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "licenseTypes": "TOBACCO RETAILER",
+    "status": "active",
+    "issuedDate": "2023-05-05T17:11:46.000Z",
+    "expiryDate": "2026-05-04T17:11:45.000Z",
+    "coordinates": [
+      -114.1282948,
+      51.0930794
+    ],
+    "longitude": -114.1282948,
+    "latitude": 51.0930794,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

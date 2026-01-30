@@ -1,0 +1,36 @@
+{
+  "id": "13964739",
+  "fullDetails": {
+    "licenseNumber": "13964739",
+    "name": "STARTEC COMPRESSION & PROCESS",
+    "address": "9423A SHEPARD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-08-23T05:32:48.000Z",
+    "expiryDate": "2026-08-22T05:32:48.000Z",
+    "coordinates": [
+      -113.9906878,
+      50.9711546
+    ],
+    "longitude": -113.9906878,
+    "latitude": 50.9711546,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

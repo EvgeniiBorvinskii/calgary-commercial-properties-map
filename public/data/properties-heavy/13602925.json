@@ -1,0 +1,36 @@
+{
+  "id": "13602925",
+  "fullDetails": {
+    "licenseNumber": "13602925",
+    "name": "PUNJAB DRIVING ACADEMY & GLOBE DRIVING ACADEMY",
+    "address": "#209 4656 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2015-06-17T14:41:49.000Z",
+    "expiryDate": "2026-06-16T14:41:49.000Z",
+    "coordinates": [
+      -113.9679094,
+      51.1007855
+    ],
+    "longitude": -113.9679094,
+    "latitude": 51.1007855,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

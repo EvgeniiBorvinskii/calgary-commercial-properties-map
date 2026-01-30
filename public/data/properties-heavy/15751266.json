@@ -1,0 +1,37 @@
+{
+  "id": "15751266",
+  "fullDetails": {
+    "licenseNumber": "15751266",
+    "name": "GEMSTONE LIGHTS",
+    "address": "#170 11080 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-06-17T14:19:04.000Z",
+    "expiryDate": "2026-06-16T14:19:04.000Z",
+    "coordinates": [
+      -113.9607728,
+      50.9552346
+    ],
+    "longitude": -113.9607728,
+    "latitude": 50.9552346,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

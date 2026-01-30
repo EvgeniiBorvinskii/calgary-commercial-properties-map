@@ -1,0 +1,36 @@
+{
+  "id": "16083594",
+  "fullDetails": {
+    "licenseNumber": "16083594",
+    "name": "MACLEOD PLAZA LAUNDROMAT",
+    "address": "#26E 180 94 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2021-09-22T10:36:33.000Z",
+    "expiryDate": "2026-09-21T10:36:33.000Z",
+    "coordinates": [
+      -114.0695302,
+      50.9696498
+    ],
+    "longitude": -114.0695302,
+    "latitude": 50.9696498,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

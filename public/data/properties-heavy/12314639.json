@@ -1,0 +1,37 @@
+{
+  "id": "12314639",
+  "fullDetails": {
+    "licenseNumber": "12314639",
+    "name": "TRAIL APPLIANCES",
+    "address": "6880 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2004-08-26T08:58:40.000Z",
+    "expiryDate": "2026-08-25T08:58:40.000Z",
+    "coordinates": [
+      -114.0387866,
+      50.9924092
+    ],
+    "longitude": -114.0387866,
+    "latitude": 50.9924092,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

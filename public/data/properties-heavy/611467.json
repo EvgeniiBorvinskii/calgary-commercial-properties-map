@@ -1,0 +1,36 @@
+{
+  "id": "611467",
+  "fullDetails": {
+    "licenseNumber": "611467",
+    "name": "TWIGS",
+    "address": "#1B 105A 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-23T16:01:09.000Z",
+    "expiryDate": "2026-02-22T16:01:09.000Z",
+    "coordinates": [
+      -114.0635304,
+      51.0452935
+    ],
+    "longitude": -114.0635304,
+    "latitude": 51.0452935,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

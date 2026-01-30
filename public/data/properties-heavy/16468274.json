@@ -1,0 +1,36 @@
+{
+  "id": "16468274",
+  "fullDetails": {
+    "licenseNumber": "16468274",
+    "name": "PROVAC HYDROVAC",
+    "address": "#2 5025 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-04-25T07:30:34.000Z",
+    "expiryDate": "2026-04-24T07:30:33.000Z",
+    "coordinates": [
+      -113.9618404,
+      51.0091149
+    ],
+    "longitude": -113.9618404,
+    "latitude": 51.0091149,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "470807",
+  "fullDetails": {
+    "licenseNumber": "470807",
+    "name": "STUDIO Y CREATIONS",
+    "address": "#1 6204 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-12-19T12:28:10.000Z",
+    "expiryDate": "2026-12-18T12:28:10.000Z",
+    "coordinates": [
+      -113.9882032,
+      50.9978264
+    ],
+    "longitude": -113.9882032,
+    "latitude": 50.9978264,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15798861",
+  "fullDetails": {
+    "licenseNumber": "15798861",
+    "name": "OLD NAVY #6202",
+    "address": "#2172 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-30T07:48:15.000Z",
+    "expiryDate": "2026-10-29T07:48:15.000Z",
+    "coordinates": [
+      -114.0420576,
+      51.1086034
+    ],
+    "longitude": -114.0420576,
+    "latitude": 51.1086034,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

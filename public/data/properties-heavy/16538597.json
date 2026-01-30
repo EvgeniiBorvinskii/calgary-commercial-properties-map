@@ -1,0 +1,36 @@
+{
+  "id": "16538597",
+  "fullDetails": {
+    "licenseNumber": "16538597",
+    "name": "BREECUTZHAIR",
+    "address": "1800 1 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-09-20T15:14:06.000Z",
+    "expiryDate": "2026-09-19T15:14:05.000Z",
+    "coordinates": [
+      -114.0647762,
+      51.0680268
+    ],
+    "longitude": -114.0647762,
+    "latitude": 51.0680268,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

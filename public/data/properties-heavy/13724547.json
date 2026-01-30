@@ -1,0 +1,37 @@
+{
+  "id": "13724547",
+  "fullDetails": {
+    "licenseNumber": "13724547",
+    "name": "SEPHORA BEAUTY CANADA",
+    "address": "#220 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-08-29T11:18:01.000Z",
+    "expiryDate": "2026-08-28T11:18:01.000Z",
+    "coordinates": [
+      -114.0687721,
+      51.0464502
+    ],
+    "longitude": -114.0687721,
+    "latitude": 51.0464502,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

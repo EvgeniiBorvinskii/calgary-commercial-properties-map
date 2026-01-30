@@ -1,0 +1,37 @@
+{
+  "id": "16661332",
+  "fullDetails": {
+    "licenseNumber": "16661332",
+    "name": "NUHOME ROOFING CALGARY",
+    "address": "#800 903 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "DISTRIBUTION MANAGER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-19T12:21:00.000Z",
+    "expiryDate": "2027-01-18T12:20:59.000Z",
+    "coordinates": [
+      -114.0817783,
+      51.0458001
+    ],
+    "longitude": -114.0817783,
+    "latitude": 51.0458001,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

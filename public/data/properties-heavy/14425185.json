@@ -1,0 +1,37 @@
+{
+  "id": "14425185",
+  "fullDetails": {
+    "licenseNumber": "14425185",
+    "name": "MONKI BREAKFAST CLUB & BISTRO",
+    "address": "#101 1301 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-03-01T09:33:50.000Z",
+    "expiryDate": "2027-02-28T09:33:50.000Z",
+    "coordinates": [
+      -114.09145,
+      51.0440059
+    ],
+    "longitude": -114.09145,
+    "latitude": 51.0440059,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

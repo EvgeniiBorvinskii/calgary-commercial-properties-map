@@ -1,0 +1,36 @@
+{
+  "id": "12788147",
+  "fullDetails": {
+    "licenseNumber": "12788147",
+    "name": "BERSHARS ENTERPRISES",
+    "address": "#D 3605 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FURNITURE REFINISHING",
+    "licenseTypes": "FURNITURE REFINISHING",
+    "status": "active",
+    "issuedDate": "2012-12-21T10:30:34.000Z",
+    "expiryDate": "2026-12-20T10:30:34.000Z",
+    "coordinates": [
+      -114.0226036,
+      51.0223635
+    ],
+    "longitude": -114.0226036,
+    "latitude": 51.0223635,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

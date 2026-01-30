@@ -1,0 +1,37 @@
+{
+  "id": "16530933",
+  "fullDetails": {
+    "licenseNumber": "16530933",
+    "name": "SMOKE & VAPE FACTORY",
+    "address": "#103 1409 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-10-18T15:09:07.000Z",
+    "expiryDate": "2026-10-17T15:09:06.000Z",
+    "coordinates": [
+      -114.0566038,
+      51.0649702
+    ],
+    "longitude": -114.0566038,
+    "latitude": 51.0649702,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

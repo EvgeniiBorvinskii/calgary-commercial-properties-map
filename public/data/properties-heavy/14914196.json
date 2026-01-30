@@ -1,0 +1,37 @@
+{
+  "id": "14914196",
+  "fullDetails": {
+    "licenseNumber": "14914196",
+    "name": "CALGARY CO-OP CANNABIS MACLEOD TRAIL EAST",
+    "address": "#7 8720 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2018-10-15T12:35:40.000Z",
+    "expiryDate": "2026-10-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0699777,
+      50.9756957
+    ],
+    "longitude": -114.0699777,
+    "latitude": 50.9756957,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

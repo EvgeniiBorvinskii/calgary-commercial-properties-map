@@ -1,0 +1,36 @@
+{
+  "id": "16108607",
+  "fullDetails": {
+    "licenseNumber": "16108607",
+    "name": "SWEET RHAPSODY ARTISAN BAKERY CAFE AND PATISSERIE",
+    "address": "#4110 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-09T11:25:11.000Z",
+    "expiryDate": "2026-12-08T11:25:11.000Z",
+    "coordinates": [
+      -114.011153,
+      50.8627766
+    ],
+    "longitude": -114.011153,
+    "latitude": 50.8627766,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

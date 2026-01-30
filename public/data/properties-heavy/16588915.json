@@ -1,0 +1,36 @@
+{
+  "id": "16588915",
+  "fullDetails": {
+    "licenseNumber": "16588915",
+    "name": "TACO BELL",
+    "address": "#105 1595 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-18T14:10:57.000Z",
+    "expiryDate": "2026-06-17T14:10:57.000Z",
+    "coordinates": [
+      -114.0239058,
+      51.0810923
+    ],
+    "longitude": -114.0239058,
+    "latitude": 51.0810923,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

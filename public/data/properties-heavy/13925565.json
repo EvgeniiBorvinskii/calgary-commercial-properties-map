@@ -1,0 +1,36 @@
+{
+  "id": "13925565",
+  "fullDetails": {
+    "licenseNumber": "13925565",
+    "name": "FREEDOM MOBILE",
+    "address": "#12K 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-12-23T10:02:57.000Z",
+    "expiryDate": "2026-12-22T10:02:57.000Z",
+    "coordinates": [
+      -114.0651288,
+      50.9528029
+    ],
+    "longitude": -114.0651288,
+    "latitude": 50.9528029,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13677398",
+  "fullDetails": {
+    "licenseNumber": "13677398",
+    "name": "TORY BURCH",
+    "address": "#1131 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-05-31T08:41:24.000Z",
+    "expiryDate": "2026-05-30T08:41:24.000Z",
+    "coordinates": [
+      -114.0723008,
+      50.9999206
+    ],
+    "longitude": -114.0723008,
+    "latitude": 50.9999206,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

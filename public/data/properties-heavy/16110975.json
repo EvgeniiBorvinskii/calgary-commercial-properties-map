@@ -1,0 +1,37 @@
+{
+  "id": "16110975",
+  "fullDetails": {
+    "licenseNumber": "16110975",
+    "name": "CANADIAN AUTO REPAIRS",
+    "address": "#6 3850 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-03-07T16:27:40.000Z",
+    "expiryDate": "2026-03-06T16:27:39.000Z",
+    "coordinates": [
+      -114.0106475,
+      51.087272
+    ],
+    "longitude": -114.0106475,
+    "latitude": 51.087272,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16625535",
+  "fullDetails": {
+    "licenseNumber": "16625535",
+    "name": "AARON HARDINGHAM TATTOOS",
+    "address": "#108 8400 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-05-20T12:04:21.000Z",
+    "expiryDate": "2026-05-19T12:04:20.000Z",
+    "coordinates": [
+      -114.0474111,
+      50.9779532
+    ],
+    "longitude": -114.0474111,
+    "latitude": 50.9779532,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

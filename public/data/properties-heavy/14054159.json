@@ -1,0 +1,36 @@
+{
+  "id": "14054159",
+  "fullDetails": {
+    "licenseNumber": "14054159",
+    "name": "FROM THE ROOTS UNISEX SALON",
+    "address": "6107 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-07-07T09:38:07.000Z",
+    "expiryDate": "2026-07-06T09:38:07.000Z",
+    "coordinates": [
+      -114.0643293,
+      50.997379
+    ],
+    "longitude": -114.0643293,
+    "latitude": 50.997379,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15926603",
+  "fullDetails": {
+    "licenseNumber": "15926603",
+    "name": "ANGELA PACE HAIR",
+    "address": "#300 3333 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-02-10T09:01:37.000Z",
+    "expiryDate": "2026-02-09T09:01:36.000Z",
+    "coordinates": [
+      -114.0436638,
+      51.0248768
+    ],
+    "longitude": -114.0436638,
+    "latitude": 51.0248768,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

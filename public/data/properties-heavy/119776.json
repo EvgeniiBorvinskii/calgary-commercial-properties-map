@@ -1,0 +1,36 @@
+{
+  "id": "119776",
+  "fullDetails": {
+    "licenseNumber": "119776",
+    "name": "OAK ENVIRONMENTAL",
+    "address": "#2 4504 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2016-03-22T12:52:59.000Z",
+    "expiryDate": "2026-03-21T12:52:59.000Z",
+    "coordinates": [
+      -114.0325793,
+      51.0920811
+    ],
+    "longitude": -114.0325793,
+    "latitude": 51.0920811,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

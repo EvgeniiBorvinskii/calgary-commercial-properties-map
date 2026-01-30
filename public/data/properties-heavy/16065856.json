@@ -1,0 +1,36 @@
+{
+  "id": "16065856",
+  "fullDetails": {
+    "licenseNumber": "16065856",
+    "name": "CLAW ROOFING",
+    "address": "4538 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-17T13:46:28.000Z",
+    "expiryDate": "2026-08-16T13:46:28.000Z",
+    "coordinates": [
+      -114.0265097,
+      51.0926799
+    ],
+    "longitude": -114.0265097,
+    "latitude": 51.0926799,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

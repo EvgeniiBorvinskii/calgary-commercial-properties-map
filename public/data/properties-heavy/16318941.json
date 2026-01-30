@@ -1,0 +1,37 @@
+{
+  "id": "16318941",
+  "fullDetails": {
+    "licenseNumber": "16318941",
+    "name": "LIVE EDGE AXE THROWING",
+    "address": "#9 700 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-10-17T09:16:21.000Z",
+    "expiryDate": "2026-10-16T09:16:21.000Z",
+    "coordinates": [
+      -113.9852109,
+      51.0584565
+    ],
+    "longitude": -113.9852109,
+    "latitude": 51.0584565,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

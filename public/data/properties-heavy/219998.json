@@ -1,0 +1,37 @@
+{
+  "id": "219998",
+  "fullDetails": {
+    "licenseNumber": "219998",
+    "name": "COCA-COLA CANADA BOTTLING",
+    "address": "3851 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0065916,
+      51.0871115
+    ],
+    "longitude": -114.0065916,
+    "latitude": 51.0871115,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

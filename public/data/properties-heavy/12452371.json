@@ -1,0 +1,37 @@
+{
+  "id": "12452371",
+  "fullDetails": {
+    "licenseNumber": "12452371",
+    "name": "VIETNAM INTERNATIONAL",
+    "address": "#206 3716 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2007-02-09T14:14:29.000Z",
+    "expiryDate": "2026-02-08T14:14:29.000Z",
+    "coordinates": [
+      -113.979503,
+      50.9992734
+    ],
+    "longitude": -113.979503,
+    "latitude": 50.9992734,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

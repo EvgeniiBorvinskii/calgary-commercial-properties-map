@@ -1,0 +1,36 @@
+{
+  "id": "16629008",
+  "fullDetails": {
+    "licenseNumber": "16629008",
+    "name": "SKIN BY MJ BEAUTY AND WELLNESS",
+    "address": "9180 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-05-22T11:42:45.000Z",
+    "expiryDate": "2026-05-21T11:42:44.000Z",
+    "coordinates": [
+      -114.0697939,
+      50.9714526
+    ],
+    "longitude": -114.0697939,
+    "latitude": 50.9714526,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

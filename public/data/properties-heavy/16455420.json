@@ -1,0 +1,37 @@
+{
+  "id": "16455420",
+  "fullDetails": {
+    "licenseNumber": "16455420",
+    "name": "MAG SOLAR",
+    "address": "#119 11198 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-02-28T15:58:33.000Z",
+    "expiryDate": "2026-02-27T15:58:33.000Z",
+    "coordinates": [
+      -113.9741081,
+      50.9533559
+    ],
+    "longitude": -113.9741081,
+    "latitude": 50.9533559,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

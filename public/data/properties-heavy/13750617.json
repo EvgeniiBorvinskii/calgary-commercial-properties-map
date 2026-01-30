@@ -1,0 +1,36 @@
+{
+  "id": "13750617",
+  "fullDetails": {
+    "licenseNumber": "13750617",
+    "name": "MILESTONE CONSTRUCTION & RENOVATIONS",
+    "address": "#9 4315 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-08-24T15:00:47.000Z",
+    "expiryDate": "2026-08-23T15:00:47.000Z",
+    "coordinates": [
+      -113.9728448,
+      50.9958903
+    ],
+    "longitude": -113.9728448,
+    "latitude": 50.9958903,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15962871",
+  "fullDetails": {
+    "licenseNumber": "15962871",
+    "name": "OLYMPIA LIQUOR EAST VILLAGE",
+    "address": "#220 540 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2021-02-25T09:50:39.000Z",
+    "expiryDate": "2026-02-24T09:50:39.000Z",
+    "coordinates": [
+      -114.0549384,
+      51.0476737
+    ],
+    "longitude": -114.0549384,
+    "latitude": 51.0476737,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

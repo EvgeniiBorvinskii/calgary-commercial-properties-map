@@ -1,0 +1,36 @@
+{
+  "id": "14050298",
+  "fullDetails": {
+    "licenseNumber": "14050298",
+    "name": "SOUTH CITY TRUCK CENTRE",
+    "address": "8625 68 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-12-14T15:25:50.000Z",
+    "expiryDate": "2026-12-13T15:25:50.000Z",
+    "coordinates": [
+      -113.9360469,
+      50.9765122
+    ],
+    "longitude": -113.9360469,
+    "latitude": 50.9765122,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

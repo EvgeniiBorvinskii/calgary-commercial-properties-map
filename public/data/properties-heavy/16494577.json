@@ -1,0 +1,36 @@
+{
+  "id": "16494577",
+  "fullDetails": {
+    "licenseNumber": "16494577",
+    "name": "JUIGALLI FURNITURE FINISHING (2009)",
+    "address": "#5 2016 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-10-21T08:26:31.000Z",
+    "expiryDate": "2026-10-20T08:26:31.000Z",
+    "coordinates": [
+      -114.0112455,
+      51.075441
+    ],
+    "longitude": -114.0112455,
+    "latitude": 51.075441,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

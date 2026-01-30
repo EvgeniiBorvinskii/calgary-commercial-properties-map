@@ -1,0 +1,37 @@
+{
+  "id": "12836789",
+  "fullDetails": {
+    "licenseNumber": "12836789",
+    "name": "CROSSROADS CAR WASH",
+    "address": "#1 2333 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-12-02T14:02:08.000Z",
+    "expiryDate": "2026-12-01T14:02:08.000Z",
+    "coordinates": [
+      -114.005048,
+      51.0682768
+    ],
+    "longitude": -114.005048,
+    "latitude": 51.0682768,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

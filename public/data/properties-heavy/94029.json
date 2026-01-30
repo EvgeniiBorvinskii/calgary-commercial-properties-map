@@ -1,0 +1,36 @@
+{
+  "id": "94029",
+  "fullDetails": {
+    "licenseNumber": "94029",
+    "name": "INDEPENDENT ARTISTS*",
+    "address": "736 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "EXOTIC ENTERTAINMENT AGENCY",
+    "licenseTypes": "EXOTIC ENTERTAINMENT AGENCY",
+    "status": "active",
+    "issuedDate": "2019-10-03T08:04:05.000Z",
+    "expiryDate": "2026-10-02T08:04:05.000Z",
+    "coordinates": [
+      -114.078486,
+      51.0440639
+    ],
+    "longitude": -114.078486,
+    "latitude": 51.0440639,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15968761",
+  "fullDetails": {
+    "licenseNumber": "15968761",
+    "name": "SUPERIOR PAINT & AUTOBODY SERVICES",
+    "address": "112 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-01-26T10:28:35.000Z",
+    "expiryDate": "2027-01-25T10:28:35.000Z",
+    "coordinates": [
+      -114.0628618,
+      51.0381195
+    ],
+    "longitude": -114.0628618,
+    "latitude": 51.0381195,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16467615",
+  "fullDetails": {
+    "licenseNumber": "16467615",
+    "name": "THE HUNGERS POINT",
+    "address": "#1115 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-26T13:24:54.000Z",
+    "expiryDate": "2026-09-25T13:24:53.000Z",
+    "coordinates": [
+      -113.9651223,
+      51.1322787
+    ],
+    "longitude": -113.9651223,
+    "latitude": 51.1322787,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

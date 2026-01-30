@@ -1,0 +1,37 @@
+{
+  "id": "12654927",
+  "fullDetails": {
+    "licenseNumber": "12654927",
+    "name": "KEG RESTAURANTS",
+    "address": "320 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2008-03-27T14:50:53.000Z",
+    "expiryDate": "2026-03-26T14:50:53.000Z",
+    "coordinates": [
+      -114.0693099,
+      51.050041
+    ],
+    "longitude": -114.0693099,
+    "latitude": 51.050041,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

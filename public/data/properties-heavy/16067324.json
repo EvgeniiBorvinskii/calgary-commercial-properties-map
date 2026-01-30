@@ -1,0 +1,37 @@
+{
+  "id": "16067324",
+  "fullDetails": {
+    "licenseNumber": "16067324",
+    "name": "MCFIX TECH SOLUTIONS",
+    "address": "#2232 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-08-20T14:37:31.000Z",
+    "expiryDate": "2026-08-19T14:37:31.000Z",
+    "coordinates": [
+      -113.9709303,
+      51.14836
+    ],
+    "longitude": -113.9709303,
+    "latitude": 51.14836,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16370280",
+  "fullDetails": {
+    "licenseNumber": "16370280",
+    "name": "POWER IN MOTION",
+    "address": "#101 4405 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-16T09:15:09.000Z",
+    "expiryDate": "2026-04-15T09:15:09.000Z",
+    "coordinates": [
+      -114.0412617,
+      51.0144039
+    ],
+    "longitude": -114.0412617,
+    "latitude": 51.0144039,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

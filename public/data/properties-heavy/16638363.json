@@ -1,0 +1,36 @@
+{
+  "id": "16638363",
+  "fullDetails": {
+    "licenseNumber": "16638363",
+    "name": "2640407 ALBERTA",
+    "address": "#102 3863 54 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-03T16:04:39.000Z",
+    "expiryDate": "2026-12-02T16:04:38.000Z",
+    "coordinates": [
+      -113.9781001,
+      51.1017565
+    ],
+    "longitude": -113.9781001,
+    "latitude": 51.1017565,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

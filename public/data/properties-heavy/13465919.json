@@ -1,0 +1,36 @@
+{
+  "id": "13465919",
+  "fullDetails": {
+    "licenseNumber": "13465919",
+    "name": "MAIDPRO",
+    "address": "146 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "in_progress",
+    "issuedDate": "2016-03-24T05:30:55.000Z",
+    "expiryDate": "2025-03-23T05:30:55.000Z",
+    "coordinates": [
+      -114.0665307,
+      51.0017138
+    ],
+    "longitude": -114.0665307,
+    "latitude": 51.0017138,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

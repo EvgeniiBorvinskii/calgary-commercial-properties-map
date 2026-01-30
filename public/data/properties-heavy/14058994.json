@@ -1,0 +1,36 @@
+{
+  "id": "14058994",
+  "fullDetails": {
+    "licenseNumber": "14058994",
+    "name": "MACRO REALTY & MANAGMENT APT",
+    "address": "812 18 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-04-21T08:06:46.000Z",
+    "expiryDate": "2026-04-20T08:06:45.000Z",
+    "coordinates": [
+      -114.0800757,
+      51.0371917
+    ],
+    "longitude": -114.0800757,
+    "latitude": 51.0371917,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

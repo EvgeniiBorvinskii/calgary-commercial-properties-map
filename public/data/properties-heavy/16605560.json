@@ -1,0 +1,37 @@
+{
+  "id": "16605560",
+  "fullDetails": {
+    "licenseNumber": "16605560",
+    "name": "FRILLY LILLY KENSINGTON",
+    "address": "1106 3 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-06-02T10:07:07.000Z",
+    "expiryDate": "2026-06-01T10:07:06.000Z",
+    "coordinates": [
+      -114.086439,
+      51.0555213
+    ],
+    "longitude": -114.086439,
+    "latitude": 51.0555213,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

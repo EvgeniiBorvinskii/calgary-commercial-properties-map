@@ -1,0 +1,36 @@
+{
+  "id": "16095002",
+  "fullDetails": {
+    "licenseNumber": "16095002",
+    "name": "CABLE GOLD",
+    "address": "#6 4393 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-10-18T14:18:47.000Z",
+    "expiryDate": "2026-10-17T14:18:47.000Z",
+    "coordinates": [
+      -114.0286969,
+      51.0915543
+    ],
+    "longitude": -114.0286969,
+    "latitude": 51.0915543,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

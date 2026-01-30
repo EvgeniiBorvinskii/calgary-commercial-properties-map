@@ -1,0 +1,36 @@
+{
+  "id": "15936768",
+  "fullDetails": {
+    "licenseNumber": "15936768",
+    "name": "ENGRAVING REIMAGINED",
+    "address": "#G9B 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-02T10:56:37.000Z",
+    "expiryDate": "2026-11-01T10:56:37.000Z",
+    "coordinates": [
+      -114.1557477,
+      51.0860964
+    ],
+    "longitude": -114.1557477,
+    "latitude": 51.0860964,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

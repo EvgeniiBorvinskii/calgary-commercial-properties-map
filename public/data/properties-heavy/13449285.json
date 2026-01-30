@@ -1,0 +1,36 @@
+{
+  "id": "13449285",
+  "fullDetails": {
+    "licenseNumber": "13449285",
+    "name": "GALLERY AUTO SALES",
+    "address": "#129 3850 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-09-11T08:49:42.000Z",
+    "expiryDate": "2026-09-10T08:49:42.000Z",
+    "coordinates": [
+      -113.9872853,
+      51.0874286
+    ],
+    "longitude": -113.9872853,
+    "latitude": 51.0874286,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

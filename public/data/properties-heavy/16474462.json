@@ -1,0 +1,36 @@
+{
+  "id": "16474462",
+  "fullDetails": {
+    "licenseNumber": "16474462",
+    "name": "ROCK SHOP EXPERIENCE - CALGARY",
+    "address": "328B 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-18T08:22:52.000Z",
+    "expiryDate": "2026-07-17T08:22:52.000Z",
+    "coordinates": [
+      -114.0856448,
+      51.0550388
+    ],
+    "longitude": -114.0856448,
+    "latitude": 51.0550388,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

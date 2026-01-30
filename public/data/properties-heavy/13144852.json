@@ -1,0 +1,36 @@
+{
+  "id": "13144852",
+  "fullDetails": {
+    "licenseNumber": "13144852",
+    "name": "YONEX CANADA",
+    "address": "#38 10221 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-04-06T08:05:07.000Z",
+    "expiryDate": "2026-04-05T08:05:07.000Z",
+    "coordinates": [
+      -114.0258749,
+      51.1464053
+    ],
+    "longitude": -114.0258749,
+    "latitude": 51.1464053,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

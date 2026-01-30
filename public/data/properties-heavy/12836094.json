@@ -1,0 +1,36 @@
+{
+  "id": "12836094",
+  "fullDetails": {
+    "licenseNumber": "12836094",
+    "name": "KINGDOM OF KARS",
+    "address": "#2 5100 HUBALTA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-29T05:33:02.000Z",
+    "expiryDate": "2026-06-28T05:33:01.000Z",
+    "coordinates": [
+      -113.9609072,
+      51.0326925
+    ],
+    "longitude": -113.9609072,
+    "latitude": 51.0326925,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

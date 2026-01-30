@@ -1,0 +1,36 @@
+{
+  "id": "12011037",
+  "fullDetails": {
+    "licenseNumber": "12011037",
+    "name": "FEDEX SUPPLY CHAIN DISTRIBUTION SYSTEM OF CANADA",
+    "address": "6336 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-08T05:31:50.000Z",
+    "coordinates": [
+      -113.9449848,
+      50.9532548
+    ],
+    "longitude": -113.9449848,
+    "latitude": 50.9532548,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

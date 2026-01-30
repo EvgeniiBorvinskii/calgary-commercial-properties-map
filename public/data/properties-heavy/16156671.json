@@ -1,0 +1,37 @@
+{
+  "id": "16156671",
+  "fullDetails": {
+    "licenseNumber": "16156671",
+    "name": "MUCHO BURRITO",
+    "address": "#226 163 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-06-22T09:38:15.000Z",
+    "expiryDate": "2026-06-21T09:38:14.000Z",
+    "coordinates": [
+      -114.0085879,
+      50.9631556
+    ],
+    "longitude": -114.0085879,
+    "latitude": 50.9631556,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

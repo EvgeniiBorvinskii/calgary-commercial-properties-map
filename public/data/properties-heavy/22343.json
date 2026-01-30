@@ -1,0 +1,37 @@
+{
+  "id": "22343",
+  "fullDetails": {
+    "licenseNumber": "22343",
+    "name": "CENTRIFUGES",
+    "address": "3504 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-11-14T05:46:37.000Z",
+    "expiryDate": "2026-11-13T05:46:37.000Z",
+    "coordinates": [
+      -113.9847267,
+      50.9956627
+    ],
+    "longitude": -113.9847267,
+    "latitude": 50.9956627,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

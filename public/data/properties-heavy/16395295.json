@@ -1,0 +1,37 @@
+{
+  "id": "16395295",
+  "fullDetails": {
+    "licenseNumber": "16395295",
+    "name": "EQ VAPE CENTRE",
+    "address": "#B 1607 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-10-31T10:13:39.000Z",
+    "expiryDate": "2026-10-30T10:13:39.000Z",
+    "coordinates": [
+      -114.0628455,
+      51.0663776
+    ],
+    "longitude": -114.0628455,
+    "latitude": 51.0663776,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

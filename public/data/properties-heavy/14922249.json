@@ -1,0 +1,37 @@
+{
+  "id": "14922249",
+  "fullDetails": {
+    "licenseNumber": "14922249",
+    "name": "SKINTOPIA STUDIO",
+    "address": "#4110 7005 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-21T11:31:54.000Z",
+    "expiryDate": "2026-03-20T11:31:54.000Z",
+    "coordinates": [
+      -114.0656644,
+      50.9914502
+    ],
+    "longitude": -114.0656644,
+    "latitude": 50.9914502,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

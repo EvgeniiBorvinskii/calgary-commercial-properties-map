@@ -1,0 +1,36 @@
+{
+  "id": "15003171",
+  "fullDetails": {
+    "licenseNumber": "15003171",
+    "name": "PET VALU DALHOUSIE STATION",
+    "address": "#515 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-28T00:14:30.000Z",
+    "expiryDate": "2026-08-27T00:14:29.000Z",
+    "coordinates": [
+      -114.1627797,
+      51.1051746
+    ],
+    "longitude": -114.1627797,
+    "latitude": 51.1051746,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

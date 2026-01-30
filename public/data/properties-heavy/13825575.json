@@ -1,0 +1,36 @@
+{
+  "id": "13825575",
+  "fullDetails": {
+    "licenseNumber": "13825575",
+    "name": "TELUS RETAIL",
+    "address": "#1248 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-04-09T14:11:12.000Z",
+    "expiryDate": "2026-04-08T14:11:12.000Z",
+    "coordinates": [
+      -113.9782818,
+      51.0556791
+    ],
+    "longitude": -113.9782818,
+    "latitude": 51.0556791,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

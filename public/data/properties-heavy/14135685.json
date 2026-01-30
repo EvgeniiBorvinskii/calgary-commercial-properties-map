@@ -1,0 +1,36 @@
+{
+  "id": "14135685",
+  "fullDetails": {
+    "licenseNumber": "14135685",
+    "name": "WESTVALLEY CARPET & FLOORING",
+    "address": "#411 5155 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-04-04T12:11:01.000Z",
+    "expiryDate": "2026-04-03T12:11:01.000Z",
+    "coordinates": [
+      -113.9599598,
+      50.9310241
+    ],
+    "longitude": -113.9599598,
+    "latitude": 50.9310241,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

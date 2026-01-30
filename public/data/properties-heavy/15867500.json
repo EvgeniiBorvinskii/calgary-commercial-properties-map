@@ -1,0 +1,36 @@
+{
+  "id": "15867500",
+  "fullDetails": {
+    "licenseNumber": "15867500",
+    "name": "HONEYWELL CUSTOM HOMES",
+    "address": "#4 2235 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-04-21T15:34:50.000Z",
+    "expiryDate": "2026-04-20T15:34:50.000Z",
+    "coordinates": [
+      -114.007532,
+      51.0794571
+    ],
+    "longitude": -114.007532,
+    "latitude": 51.0794571,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

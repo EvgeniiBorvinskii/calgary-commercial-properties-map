@@ -1,0 +1,36 @@
+{
+  "id": "12298139",
+  "fullDetails": {
+    "licenseNumber": "12298139",
+    "name": "CALGARY SOUTH HILTI CENTRE",
+    "address": "#315 723 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-09-01T11:53:19.000Z",
+    "expiryDate": "2026-08-31T11:53:19.000Z",
+    "coordinates": [
+      -114.0465008,
+      51.0107537
+    ],
+    "longitude": -114.0465008,
+    "latitude": 51.0107537,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

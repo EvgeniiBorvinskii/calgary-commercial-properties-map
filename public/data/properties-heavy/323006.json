@@ -1,0 +1,36 @@
+{
+  "id": "323006",
+  "fullDetails": {
+    "licenseNumber": "323006",
+    "name": "SKYLINE FURNITURE",
+    "address": "1817 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-06-12T05:32:27.000Z",
+    "expiryDate": "2026-06-11T05:32:27.000Z",
+    "coordinates": [
+      -113.9563618,
+      51.0369566
+    ],
+    "longitude": -113.9563618,
+    "latitude": 51.0369566,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

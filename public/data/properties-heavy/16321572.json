@@ -1,0 +1,36 @@
+{
+  "id": "16321572",
+  "fullDetails": {
+    "licenseNumber": "16321572",
+    "name": "PSYGEN LABS",
+    "address": "903 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-06-27T14:06:45.000Z",
+    "expiryDate": "2026-06-26T14:06:44.000Z",
+    "coordinates": [
+      -113.9943295,
+      51.0601355
+    ],
+    "longitude": -113.9943295,
+    "latitude": 51.0601355,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

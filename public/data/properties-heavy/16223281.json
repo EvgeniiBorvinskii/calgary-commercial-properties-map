@@ -1,0 +1,37 @@
+{
+  "id": "16223281",
+  "fullDetails": {
+    "licenseNumber": "16223281",
+    "name": "LONGEVITY LAB (THE)",
+    "address": "45 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-10T08:49:35.000Z",
+    "expiryDate": "2027-01-09T08:49:35.000Z",
+    "coordinates": [
+      -114.2004449,
+      51.1269292
+    ],
+    "longitude": -114.2004449,
+    "latitude": 51.1269292,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

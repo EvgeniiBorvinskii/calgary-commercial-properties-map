@@ -1,0 +1,36 @@
+{
+  "id": "13067889",
+  "fullDetails": {
+    "licenseNumber": "13067889",
+    "name": "SPECIALTY BEVERAGE SOLUTIONS",
+    "address": "7519 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-05-09T15:20:56.000Z",
+    "expiryDate": "2026-05-08T15:20:56.000Z",
+    "coordinates": [
+      -114.0680223,
+      50.9860472
+    ],
+    "longitude": -114.0680223,
+    "latitude": 50.9860472,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

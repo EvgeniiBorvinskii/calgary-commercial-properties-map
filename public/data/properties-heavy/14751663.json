@@ -1,0 +1,36 @@
+{
+  "id": "14751663",
+  "fullDetails": {
+    "licenseNumber": "14751663",
+    "name": "CHOPPED LEAF (THE)",
+    "address": "#611 130 COUNTRY VILLAGE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-12-13T10:50:21.000Z",
+    "expiryDate": "2026-12-12T10:50:21.000Z",
+    "coordinates": [
+      -114.065013,
+      51.1609565
+    ],
+    "longitude": -114.065013,
+    "latitude": 51.1609565,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15138613",
+  "fullDetails": {
+    "licenseNumber": "15138613",
+    "name": "BGIS ENERGY & FACILITY SOLUTIONS",
+    "address": "6333 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-28T09:39:54.000Z",
+    "expiryDate": "2026-11-27T09:39:54.000Z",
+    "coordinates": [
+      -113.9839523,
+      50.9966959
+    ],
+    "longitude": -113.9839523,
+    "latitude": 50.9966959,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16381113",
+  "fullDetails": {
+    "licenseNumber": "16381113",
+    "name": "OL BEAUTIFUL BREWING COMPANY",
+    "address": "4025 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE MANUFACTURER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2023-11-25T05:33:12.000Z",
+    "expiryDate": "2026-11-24T05:33:12.000Z",
+    "coordinates": [
+      -114.0413216,
+      51.0189359
+    ],
+    "longitude": -114.0413216,
+    "latitude": 51.0189359,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

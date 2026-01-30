@@ -1,0 +1,36 @@
+{
+  "id": "14401400",
+  "fullDetails": {
+    "licenseNumber": "14401400",
+    "name": "FRESH CHEF",
+    "address": "11229 30 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-03T15:41:05.000Z",
+    "expiryDate": "2026-10-02T15:41:04.000Z",
+    "coordinates": [
+      -114.1302329,
+      50.9534083
+    ],
+    "longitude": -114.1302329,
+    "latitude": 50.9534083,
+    "community": "CEDARBRAE",
+    "ward": "CED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

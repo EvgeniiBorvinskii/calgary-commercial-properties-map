@@ -1,0 +1,36 @@
+{
+  "id": "14020838",
+  "fullDetails": {
+    "licenseNumber": "14020838",
+    "name": "REAL CANADIAN LIQUOR STORE #1686",
+    "address": "19645 SETON WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2015-11-23T08:35:03.000Z",
+    "expiryDate": "2026-11-22T08:35:03.000Z",
+    "coordinates": [
+      -113.9579731,
+      50.8755117
+    ],
+    "longitude": -113.9579731,
+    "latitude": 50.8755117,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

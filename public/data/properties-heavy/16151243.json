@@ -1,0 +1,37 @@
+{
+  "id": "16151243",
+  "fullDetails": {
+    "licenseNumber": "16151243",
+    "name": "33 ACRES BREWING CALGARY",
+    "address": "#120 224 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-04-27T10:50:45.000Z",
+    "expiryDate": "2026-04-26T10:50:45.000Z",
+    "coordinates": [
+      -114.0674098,
+      51.0421934
+    ],
+    "longitude": -114.0674098,
+    "latitude": 51.0421934,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

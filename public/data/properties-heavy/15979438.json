@@ -1,0 +1,36 @@
+{
+  "id": "15979438",
+  "fullDetails": {
+    "licenseNumber": "15979438",
+    "name": "EXTENSIVE ENERGY TECHNOLOGIES PARTNERSHIP",
+    "address": "#103 2850 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-03-04T09:03:41.000Z",
+    "expiryDate": "2026-03-03T09:03:41.000Z",
+    "coordinates": [
+      -113.9952909,
+      50.9571173
+    ],
+    "longitude": -113.9952909,
+    "latitude": 50.9571173,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

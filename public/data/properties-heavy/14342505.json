@@ -1,0 +1,37 @@
+{
+  "id": "14342505",
+  "fullDetails": {
+    "licenseNumber": "14342505",
+    "name": "SHOPPERS DRUG MART #2369",
+    "address": "#5004 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-01-28T05:32:23.000Z",
+    "expiryDate": "2027-01-27T05:32:23.000Z",
+    "coordinates": [
+      -114.110011,
+      51.174175
+    ],
+    "longitude": -114.110011,
+    "latitude": 51.174175,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

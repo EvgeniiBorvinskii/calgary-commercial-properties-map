@@ -1,0 +1,36 @@
+{
+  "id": "16358525",
+  "fullDetails": {
+    "licenseNumber": "16358525",
+    "name": "MARVELLOUS MUTTZ",
+    "address": "1920 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-08T05:36:26.000Z",
+    "expiryDate": "2026-07-07T05:36:26.000Z",
+    "coordinates": [
+      -114.0126544,
+      51.0818978
+    ],
+    "longitude": -114.0126544,
+    "latitude": 51.0818978,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

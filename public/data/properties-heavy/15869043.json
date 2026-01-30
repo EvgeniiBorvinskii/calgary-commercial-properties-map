@@ -1,0 +1,36 @@
+{
+  "id": "15869043",
+  "fullDetails": {
+    "licenseNumber": "15869043",
+    "name": "COLLEEN MCDONALD-SANHEIM",
+    "address": "21 AUBURN BAY ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2020-02-11T09:19:39.000Z",
+    "expiryDate": "2026-02-10T09:19:39.000Z",
+    "coordinates": [
+      -113.9506329,
+      50.8842254
+    ],
+    "longitude": -113.9506329,
+    "latitude": 50.8842254,
+    "community": "AUBURN BAY",
+    "ward": "AUB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

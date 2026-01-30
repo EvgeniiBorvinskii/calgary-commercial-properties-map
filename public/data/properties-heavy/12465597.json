@@ -1,0 +1,36 @@
+{
+  "id": "12465597",
+  "fullDetails": {
+    "licenseNumber": "12465597",
+    "name": "VIKAMI",
+    "address": "#15 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-06-02T14:59:22.000Z",
+    "expiryDate": "2026-06-01T14:59:22.000Z",
+    "coordinates": [
+      -114.0404928,
+      51.1051709
+    ],
+    "longitude": -114.0404928,
+    "latitude": 51.1051709,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

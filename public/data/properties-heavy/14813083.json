@@ -1,0 +1,36 @@
+{
+  "id": "14813083",
+  "fullDetails": {
+    "licenseNumber": "14813083",
+    "name": "EDGE METALWORKS",
+    "address": "#3 3500 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2018-02-23T15:15:50.000Z",
+    "expiryDate": "2026-02-22T15:15:50.000Z",
+    "coordinates": [
+      -113.9942698,
+      51.0841422
+    ],
+    "longitude": -113.9942698,
+    "latitude": 51.0841422,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

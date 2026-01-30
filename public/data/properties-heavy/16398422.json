@@ -1,0 +1,37 @@
+{
+  "id": "16398422",
+  "fullDetails": {
+    "licenseNumber": "16398422",
+    "name": "BALLSTAR YYC",
+    "address": "#5 1305 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-09T12:32:15.000Z",
+    "expiryDate": "2026-11-08T12:32:15.000Z",
+    "coordinates": [
+      -113.9868119,
+      51.0636459
+    ],
+    "longitude": -113.9868119,
+    "latitude": 51.0636459,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

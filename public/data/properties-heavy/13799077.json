@@ -1,0 +1,36 @@
+{
+  "id": "13799077",
+  "fullDetails": {
+    "licenseNumber": "13799077",
+    "name": "TWELVE OAKS FLOORS",
+    "address": "#140 10450 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-15T15:38:59.000Z",
+    "expiryDate": "2026-11-14T15:38:58.000Z",
+    "coordinates": [
+      -113.9604489,
+      50.9601311
+    ],
+    "longitude": -113.9604489,
+    "latitude": 50.9601311,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

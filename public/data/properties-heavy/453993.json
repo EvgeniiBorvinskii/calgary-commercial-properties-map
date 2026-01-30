@@ -1,0 +1,36 @@
+{
+  "id": "453993",
+  "fullDetails": {
+    "licenseNumber": "453993",
+    "name": "O T COMMUNICATIONS",
+    "address": "#1800 505 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ADVERTISER CANVASSER OR DISTRIBUTOR",
+    "licenseTypes": "ADVERTISER CANVASSER OR DISTRIBUTOR",
+    "status": "active",
+    "issuedDate": "2025-11-25T14:35:04.000Z",
+    "expiryDate": "2026-11-24T14:35:03.000Z",
+    "coordinates": [
+      -114.070582,
+      51.0483208
+    ],
+    "longitude": -114.070582,
+    "latitude": 51.0483208,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

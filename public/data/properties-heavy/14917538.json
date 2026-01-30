@@ -1,0 +1,36 @@
+{
+  "id": "14917538",
+  "fullDetails": {
+    "licenseNumber": "14917538",
+    "name": "FINE AUTO ZONE",
+    "address": "10620 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-01-29T09:53:03.000Z",
+    "expiryDate": "2027-01-28T09:53:03.000Z",
+    "coordinates": [
+      -113.981363,
+      51.1483395
+    ],
+    "longitude": -113.981363,
+    "latitude": 51.1483395,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

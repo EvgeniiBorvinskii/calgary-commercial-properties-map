@@ -1,0 +1,37 @@
+{
+  "id": "13870621",
+  "fullDetails": {
+    "licenseNumber": "13870621",
+    "name": "CLEAN HARBORS",
+    "address": "#820 520 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2020-03-07T05:32:47.000Z",
+    "expiryDate": "2026-03-06T05:32:47.000Z",
+    "coordinates": [
+      -114.0721206,
+      51.0508538
+    ],
+    "longitude": -114.0721206,
+    "latitude": 51.0508538,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

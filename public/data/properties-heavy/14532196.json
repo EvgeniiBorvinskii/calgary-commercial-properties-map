@@ -1,0 +1,36 @@
+{
+  "id": "14532196",
+  "fullDetails": {
+    "licenseNumber": "14532196",
+    "name": "NU-WEST CONSTRUCTION PRODUCTS",
+    "address": "#22 6000 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-11-19T14:59:28.000Z",
+    "expiryDate": "2026-11-18T14:59:28.000Z",
+    "coordinates": [
+      -113.94259,
+      50.990667
+    ],
+    "longitude": -113.94259,
+    "latitude": 50.990667,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

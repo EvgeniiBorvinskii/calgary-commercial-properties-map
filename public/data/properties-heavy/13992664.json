@@ -1,0 +1,36 @@
+{
+  "id": "13992664",
+  "fullDetails": {
+    "licenseNumber": "13992664",
+    "name": "JENNIFER D'ACEY",
+    "address": "#2138 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2022-03-28T11:07:15.000Z",
+    "expiryDate": "2026-03-27T11:07:15.000Z",
+    "coordinates": [
+      -114.2064009,
+      51.1532205
+    ],
+    "longitude": -114.2064009,
+    "latitude": 51.1532205,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

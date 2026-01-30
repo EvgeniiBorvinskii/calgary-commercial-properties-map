@@ -1,0 +1,37 @@
+{
+  "id": "214882",
+  "fullDetails": {
+    "licenseNumber": "214882",
+    "name": "CANUCK AMUSEMENTS AND MERCHANDISING",
+    "address": "3911 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-07T00:00:00.000Z",
+    "coordinates": [
+      -114.1420141,
+      51.0202878
+    ],
+    "longitude": -114.1420141,
+    "latitude": 51.0202878,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

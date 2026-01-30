@@ -1,0 +1,36 @@
+{
+  "id": "16543688",
+  "fullDetails": {
+    "licenseNumber": "16543688",
+    "name": "INIZIO VITALITY",
+    "address": "#202 2705 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-04T12:08:55.000Z",
+    "expiryDate": "2026-10-03T12:08:54.000Z",
+    "coordinates": [
+      -114.0629112,
+      51.0764274
+    ],
+    "longitude": -114.0629112,
+    "latitude": 51.0764274,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

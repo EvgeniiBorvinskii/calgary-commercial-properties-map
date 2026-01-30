@@ -1,0 +1,36 @@
+{
+  "id": "16466872",
+  "fullDetails": {
+    "licenseNumber": "16466872",
+    "name": "FACTORY OPTICAL HOLDINGS",
+    "address": "#88 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-16T08:27:49.000Z",
+    "expiryDate": "2026-04-15T08:27:49.000Z",
+    "coordinates": [
+      -113.9712435,
+      50.9292855
+    ],
+    "longitude": -113.9712435,
+    "latitude": 50.9292855,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15207616",
+  "fullDetails": {
+    "licenseNumber": "15207616",
+    "name": "VYTELLE CANADA",
+    "address": "#3 112 FREEPORT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-01-28T09:07:52.000Z",
+    "expiryDate": "2027-01-27T09:07:51.000Z",
+    "coordinates": [
+      -114.027464,
+      51.1439486
+    ],
+    "longitude": -114.027464,
+    "latitude": 51.1439486,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

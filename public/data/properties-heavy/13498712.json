@@ -1,0 +1,37 @@
+{
+  "id": "13498712",
+  "fullDetails": {
+    "licenseNumber": "13498712",
+    "name": "CIRCLE K",
+    "address": "#142 4242 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2012-06-14T10:12:22.000Z",
+    "expiryDate": "2026-06-13T10:12:22.000Z",
+    "coordinates": [
+      -114.0451835,
+      51.0164722
+    ],
+    "longitude": -114.0451835,
+    "latitude": 51.0164722,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

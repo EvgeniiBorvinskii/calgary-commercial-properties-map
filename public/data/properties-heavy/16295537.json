@@ -1,0 +1,36 @@
+{
+  "id": "16295537",
+  "fullDetails": {
+    "licenseNumber": "16295537",
+    "name": "AUTHENTIC ROMANIAN DELI",
+    "address": "#400 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-24T11:25:49.000Z",
+    "expiryDate": "2026-12-23T11:25:48.000Z",
+    "coordinates": [
+      -114.0737795,
+      50.9671408
+    ],
+    "longitude": -114.0737795,
+    "latitude": 50.9671408,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

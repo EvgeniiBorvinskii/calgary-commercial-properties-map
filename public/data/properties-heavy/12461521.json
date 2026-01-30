@@ -1,0 +1,36 @@
+{
+  "id": "12461521",
+  "fullDetails": {
+    "licenseNumber": "12461521",
+    "name": "WESTVIEW SALES",
+    "address": "9700 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-04-29T10:45:21.000Z",
+    "expiryDate": "2026-04-28T10:45:21.000Z",
+    "coordinates": [
+      -113.8931805,
+      50.9704859
+    ],
+    "longitude": -113.8931805,
+    "latitude": 50.9704859,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

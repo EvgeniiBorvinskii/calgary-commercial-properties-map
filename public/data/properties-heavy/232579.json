@@ -1,0 +1,37 @@
+{
+  "id": "232579",
+  "fullDetails": {
+    "licenseNumber": "232579",
+    "name": "PORTUGUESE SOCIETY OF CALGARY",
+    "address": "4888 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-07-30T09:31:20.000Z",
+    "expiryDate": "2026-07-29T09:31:20.000Z",
+    "coordinates": [
+      -113.9811142,
+      51.0107894
+    ],
+    "longitude": -113.9811142,
+    "latitude": 51.0107894,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "242750",
+  "fullDetails": {
+    "licenseNumber": "242750",
+    "name": "WESTERN WEATHER PROTECTORS",
+    "address": "7650 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2004-09-24T05:31:57.000Z",
+    "expiryDate": "2026-09-23T05:31:57.000Z",
+    "coordinates": [
+      -113.9758391,
+      50.9860698
+    ],
+    "longitude": -113.9758391,
+    "latitude": 50.9860698,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

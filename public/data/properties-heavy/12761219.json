@@ -1,0 +1,36 @@
+{
+  "id": "12761219",
+  "fullDetails": {
+    "licenseNumber": "12761219",
+    "name": "URBAN MOTORS",
+    "address": "201 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-27T05:30:32.000Z",
+    "expiryDate": "2026-03-26T05:30:32.000Z",
+    "coordinates": [
+      -114.0679974,
+      51.0011316
+    ],
+    "longitude": -114.0679974,
+    "latitude": 51.0011316,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

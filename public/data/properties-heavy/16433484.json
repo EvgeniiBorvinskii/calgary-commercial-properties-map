@@ -1,0 +1,36 @@
+{
+  "id": "16433484",
+  "fullDetails": {
+    "licenseNumber": "16433484",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "address": "#140 2505 EVERSYDE AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-12-21T09:18:07.000Z",
+    "expiryDate": "2026-12-20T09:18:07.000Z",
+    "coordinates": [
+      -114.117768,
+      50.9075387
+    ],
+    "longitude": -114.117768,
+    "latitude": 50.9075387,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

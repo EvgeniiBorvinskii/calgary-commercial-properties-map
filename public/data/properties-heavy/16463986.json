@@ -1,0 +1,36 @@
+{
+  "id": "16463986",
+  "fullDetails": {
+    "licenseNumber": "16463986",
+    "name": "SUNDOWN LIQUOR",
+    "address": "#240 500 ROYAL OAK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-06-24T07:51:26.000Z",
+    "expiryDate": "2026-06-23T07:51:25.000Z",
+    "coordinates": [
+      -114.2329319,
+      51.1393703
+    ],
+    "longitude": -114.2329319,
+    "latitude": 51.1393703,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

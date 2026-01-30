@@ -1,0 +1,36 @@
+{
+  "id": "358184",
+  "fullDetails": {
+    "licenseNumber": "358184",
+    "name": "RUBY CHARMAINE JASMAN",
+    "address": "310 HUNTERHORN LN NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PSYCHIC PRACTITIONER",
+    "licenseTypes": "PSYCHIC PRACTITIONER",
+    "status": "active",
+    "issuedDate": "2001-10-23T17:22:20.000Z",
+    "expiryDate": "2026-10-22T05:34:06.000Z",
+    "coordinates": [
+      -114.0518576,
+      51.1137464
+    ],
+    "longitude": -114.0518576,
+    "latitude": 51.1137464,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

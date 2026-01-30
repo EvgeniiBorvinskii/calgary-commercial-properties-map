@@ -1,0 +1,37 @@
+{
+  "id": "14321335",
+  "fullDetails": {
+    "licenseNumber": "14321335",
+    "name": "DISTILLED BEAUTY BAR & CAFE",
+    "address": "2408 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-12-01T14:23:02.000Z",
+    "expiryDate": "2026-11-30T14:23:02.000Z",
+    "coordinates": [
+      -114.1148016,
+      51.0233389
+    ],
+    "longitude": -114.1148016,
+    "latitude": 51.0233389,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

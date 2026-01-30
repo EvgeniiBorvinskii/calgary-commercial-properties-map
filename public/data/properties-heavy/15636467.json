@@ -1,0 +1,36 @@
+{
+  "id": "15636467",
+  "fullDetails": {
+    "licenseNumber": "15636467",
+    "name": "IAN GOTT IRISH DANCE ACADEMY",
+    "address": "407 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-09-04T10:39:02.000Z",
+    "expiryDate": "2026-09-03T10:39:01.000Z",
+    "coordinates": [
+      -114.0557529,
+      50.9928096
+    ],
+    "longitude": -114.0557529,
+    "latitude": 50.9928096,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

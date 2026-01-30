@@ -1,0 +1,37 @@
+{
+  "id": "13720115",
+  "fullDetails": {
+    "licenseNumber": "13720115",
+    "name": "I KITCHEN",
+    "address": "#190 10081 17 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-06-05T09:13:25.000Z",
+    "expiryDate": "2026-06-04T09:13:25.000Z",
+    "coordinates": [
+      -114.0189728,
+      51.1424644
+    ],
+    "longitude": -114.0189728,
+    "latitude": 51.1424644,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

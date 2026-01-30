@@ -1,0 +1,36 @@
+{
+  "id": "16494668",
+  "fullDetails": {
+    "licenseNumber": "16494668",
+    "name": "TD SYNNEX CANADA",
+    "address": "#101 5280 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-09-26T15:08:41.000Z",
+    "expiryDate": "2026-09-25T15:08:40.000Z",
+    "coordinates": [
+      -113.9607906,
+      50.9905046
+    ],
+    "longitude": -113.9607906,
+    "latitude": 50.9905046,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

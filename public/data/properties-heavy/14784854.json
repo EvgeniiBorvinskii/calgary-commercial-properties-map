@@ -1,0 +1,36 @@
+{
+  "id": "14784854",
+  "fullDetails": {
+    "licenseNumber": "14784854",
+    "name": "SENEX CONSTRUCTION",
+    "address": "#2500 520 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-16T15:58:45.000Z",
+    "expiryDate": "2026-05-15T15:58:44.000Z",
+    "coordinates": [
+      -114.0725234,
+      51.0488648
+    ],
+    "longitude": -114.0725234,
+    "latitude": 51.0488648,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

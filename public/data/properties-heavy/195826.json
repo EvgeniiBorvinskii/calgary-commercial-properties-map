@@ -1,0 +1,36 @@
+{
+  "id": "195826",
+  "fullDetails": {
+    "licenseNumber": "195826",
+    "name": "PAZ AUTOMOTIVE",
+    "address": "#4 4403 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0293672,
+      51.0925395
+    ],
+    "longitude": -114.0293672,
+    "latitude": 51.0925395,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

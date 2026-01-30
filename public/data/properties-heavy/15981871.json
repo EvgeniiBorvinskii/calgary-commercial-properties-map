@@ -1,0 +1,36 @@
+{
+  "id": "15981871",
+  "fullDetails": {
+    "licenseNumber": "15981871",
+    "name": "TIM HORTONS",
+    "address": "79 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-02-03T08:31:54.000Z",
+    "expiryDate": "2027-02-02T08:31:54.000Z",
+    "coordinates": [
+      -114.2045398,
+      51.1240388
+    ],
+    "longitude": -114.2045398,
+    "latitude": 51.1240388,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

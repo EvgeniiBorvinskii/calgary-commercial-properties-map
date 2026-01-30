@@ -1,0 +1,37 @@
+{
+  "id": "16548778",
+  "fullDetails": {
+    "licenseNumber": "16548778",
+    "name": "VITAMINBOBA",
+    "address": "#A 130 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-17T16:06:51.000Z",
+    "expiryDate": "2026-12-16T16:06:51.000Z",
+    "coordinates": [
+      -114.0856765,
+      51.0530386
+    ],
+    "longitude": -114.0856765,
+    "latitude": 51.0530386,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

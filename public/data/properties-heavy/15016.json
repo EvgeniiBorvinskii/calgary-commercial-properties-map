@@ -1,0 +1,36 @@
+{
+  "id": "15016",
+  "fullDetails": {
+    "licenseNumber": "15016",
+    "name": "MID-WEST SUPPLY",
+    "address": "#101 7211 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-06-28T15:10:07.000Z",
+    "expiryDate": "2026-06-27T15:10:07.000Z",
+    "coordinates": [
+      -114.0456496,
+      51.1174749
+    ],
+    "longitude": -114.0456496,
+    "latitude": 51.1174749,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

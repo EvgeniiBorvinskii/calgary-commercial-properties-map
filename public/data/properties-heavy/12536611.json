@@ -1,0 +1,36 @@
+{
+  "id": "12536611",
+  "fullDetails": {
+    "licenseNumber": "12536611",
+    "name": "CHIEF MEDICAL SUPPLIES",
+    "address": "411 19 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-11-19T12:57:18.000Z",
+    "expiryDate": "2026-11-18T12:57:18.000Z",
+    "coordinates": [
+      -114.0093458,
+      51.0492847
+    ],
+    "longitude": -114.0093458,
+    "latitude": 51.0492847,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12272050",
+  "fullDetails": {
+    "licenseNumber": "12272050",
+    "name": "WESTERN PROPELLER",
+    "address": "#Q 1003 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-07-04T11:16:38.000Z",
+    "expiryDate": "2026-07-03T11:16:38.000Z",
+    "coordinates": [
+      -114.0402905,
+      51.1011359
+    ],
+    "longitude": -114.0402905,
+    "latitude": 51.1011359,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

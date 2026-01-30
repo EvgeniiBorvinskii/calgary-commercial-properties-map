@@ -1,0 +1,36 @@
+{
+  "id": "12279766",
+  "fullDetails": {
+    "licenseNumber": "12279766",
+    "name": "DONALCO WESTERN",
+    "address": "4046 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-18T17:37:10.000Z",
+    "expiryDate": "2026-05-17T17:37:10.000Z",
+    "coordinates": [
+      -113.979941,
+      50.9672808
+    ],
+    "longitude": -113.979941,
+    "latitude": 50.9672808,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14493159",
+  "fullDetails": {
+    "licenseNumber": "14493159",
+    "name": "RESTORE",
+    "address": "7291 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2017-04-20T15:53:04.000Z",
+    "expiryDate": "2026-04-19T15:53:04.000Z",
+    "coordinates": [
+      -114.040587,
+      50.9891908
+    ],
+    "longitude": -114.040587,
+    "latitude": 50.9891908,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

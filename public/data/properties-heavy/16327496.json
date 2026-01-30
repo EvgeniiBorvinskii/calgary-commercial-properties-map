@@ -1,0 +1,36 @@
+{
+  "id": "16327496",
+  "fullDetails": {
+    "licenseNumber": "16327496",
+    "name": "CERTIFIED AUTO REPAIR",
+    "address": "#8 3800 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-05-31T16:18:48.000Z",
+    "expiryDate": "2026-05-30T16:18:48.000Z",
+    "coordinates": [
+      -114.0106507,
+      51.0867785
+    ],
+    "longitude": -114.0106507,
+    "latitude": 51.0867785,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

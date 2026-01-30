@@ -1,0 +1,36 @@
+{
+  "id": "443093",
+  "fullDetails": {
+    "licenseNumber": "443093",
+    "name": "KNIGHT ENTERPRISES",
+    "address": "3415B 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2012-04-25T05:48:49.000Z",
+    "expiryDate": "2026-04-24T05:48:49.000Z",
+    "coordinates": [
+      -114.1363781,
+      51.0296926
+    ],
+    "longitude": -114.1363781,
+    "latitude": 51.0296926,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16447450",
+  "fullDetails": {
+    "licenseNumber": "16447450",
+    "name": "NORMANDEAU WINDOW COVERINGS",
+    "address": "5107 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-09-04T11:15:14.000Z",
+    "expiryDate": "2026-09-03T11:15:13.000Z",
+    "coordinates": [
+      -114.0816762,
+      51.0085243
+    ],
+    "longitude": -114.0816762,
+    "latitude": 51.0085243,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

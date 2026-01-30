@@ -1,0 +1,36 @@
+{
+  "id": "724328",
+  "fullDetails": {
+    "licenseNumber": "724328",
+    "name": "EVRAZ- NAVAJO METALS",
+    "address": "5857 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-22T00:00:00.000Z",
+    "coordinates": [
+      -114.0320201,
+      51.0023481
+    ],
+    "longitude": -114.0320201,
+    "latitude": 51.0023481,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

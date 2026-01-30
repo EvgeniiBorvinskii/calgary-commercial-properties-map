@@ -1,0 +1,37 @@
+{
+  "id": "15953185",
+  "fullDetails": {
+    "licenseNumber": "15953185",
+    "name": "KHALID HALAL MEAT AND GROCERY",
+    "address": "#104 4515 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2021-03-02T09:32:46.000Z",
+    "expiryDate": "2026-03-01T09:32:46.000Z",
+    "coordinates": [
+      -114.0661618,
+      51.0134152
+    ],
+    "longitude": -114.0661618,
+    "latitude": 51.0134152,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

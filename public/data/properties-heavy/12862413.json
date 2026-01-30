@@ -1,0 +1,36 @@
+{
+  "id": "12862413",
+  "fullDetails": {
+    "licenseNumber": "12862413",
+    "name": "PANAGO PIZZA",
+    "address": "35 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2010-02-11T11:13:31.000Z",
+    "expiryDate": "2026-02-10T11:13:31.000Z",
+    "coordinates": [
+      -114.200095,
+      51.1267856
+    ],
+    "longitude": -114.200095,
+    "latitude": 51.1267856,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

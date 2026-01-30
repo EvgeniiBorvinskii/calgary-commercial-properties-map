@@ -1,0 +1,36 @@
+{
+  "id": "12441887",
+  "fullDetails": {
+    "licenseNumber": "12441887",
+    "name": "PET HEAVEN CREMATORIUM & FUNERAL CHAPEL",
+    "address": "5648A BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-01-26T10:24:12.000Z",
+    "expiryDate": "2027-01-25T10:24:12.000Z",
+    "coordinates": [
+      -114.0447549,
+      51.0041861
+    ],
+    "longitude": -114.0447549,
+    "latitude": 51.0041861,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

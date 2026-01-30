@@ -1,0 +1,36 @@
+{
+  "id": "16401036",
+  "fullDetails": {
+    "licenseNumber": "16401036",
+    "name": "REMEDY ANIMAL HEALTH PRODUCTS",
+    "address": "#268 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-17T10:07:25.000Z",
+    "expiryDate": "2026-12-16T10:07:25.000Z",
+    "coordinates": [
+      -113.9893619,
+      51.0144286
+    ],
+    "longitude": -113.9893619,
+    "latitude": 51.0144286,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

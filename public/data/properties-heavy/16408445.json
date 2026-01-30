@@ -1,0 +1,37 @@
+{
+  "id": "16408445",
+  "fullDetails": {
+    "licenseNumber": "16408445",
+    "name": "FOGGY GORILLA VAPE AND SMOKE SHOP",
+    "address": "#105 5271 MEMORIAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2024-03-06T08:10:09.000Z",
+    "expiryDate": "2026-03-05T08:10:09.000Z",
+    "coordinates": [
+      -113.9564931,
+      51.0527742
+    ],
+    "longitude": -113.9564931,
+    "latitude": 51.0527742,
+    "community": "FOREST HEIGHTS",
+    "ward": "FHT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

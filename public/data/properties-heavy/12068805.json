@@ -1,0 +1,36 @@
+{
+  "id": "12068805",
+  "fullDetails": {
+    "licenseNumber": "12068805",
+    "name": "HEARINGLIFE",
+    "address": "#103 8330 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2003-01-28T05:34:58.000Z",
+    "expiryDate": "2026-01-27T05:34:58.000Z",
+    "coordinates": [
+      -114.059341,
+      50.9784145
+    ],
+    "longitude": -114.059341,
+    "latitude": 50.9784145,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

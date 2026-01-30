@@ -1,0 +1,37 @@
+{
+  "id": "16645632",
+  "fullDetails": {
+    "licenseNumber": "16645632",
+    "name": "SMOKE AND PUFF PARLOR",
+    "address": "#A 812 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-07-17T16:03:30.000Z",
+    "expiryDate": "2026-07-16T16:03:29.000Z",
+    "coordinates": [
+      -114.0540578,
+      51.0589021
+    ],
+    "longitude": -114.0540578,
+    "latitude": 51.0589021,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12814463",
+  "fullDetails": {
+    "licenseNumber": "12814463",
+    "name": "ALL WEST PARKING SERVICES",
+    "address": "#14 2280 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2011-10-07T09:24:47.000Z",
+    "expiryDate": "2026-10-06T09:24:47.000Z",
+    "coordinates": [
+      -114.0065887,
+      51.0887033
+    ],
+    "longitude": -114.0065887,
+    "latitude": 51.0887033,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15982580",
+  "fullDetails": {
+    "licenseNumber": "15982580",
+    "name": "TUSCANY DRIVING SCHOOL",
+    "address": "#700 1816 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "pending",
+    "issuedDate": "2021-02-01T11:11:35.000Z",
+    "expiryDate": "2026-01-31T11:11:34.000Z",
+    "coordinates": [
+      -114.1163141,
+      51.0688741
+    ],
+    "longitude": -114.1163141,
+    "latitude": 51.0688741,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16513368",
+  "fullDetails": {
+    "licenseNumber": "16513368",
+    "name": "WOMEN IN NEED SOCIETY OF CALGARY",
+    "address": "105J 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2024-09-03T07:45:30.000Z",
+    "expiryDate": "2026-09-02T07:45:30.000Z",
+    "coordinates": [
+      -114.0629,
+      51.0009287
+    ],
+    "longitude": -114.0629,
+    "latitude": 51.0009287,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

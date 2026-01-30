@@ -1,0 +1,36 @@
+{
+  "id": "14533665",
+  "fullDetails": {
+    "licenseNumber": "14533665",
+    "name": "RAYNER CONSTRUCTION SERVICES",
+    "address": "4615 8A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-07-14T16:29:51.000Z",
+    "expiryDate": "2026-07-13T16:29:51.000Z",
+    "coordinates": [
+      -114.0427665,
+      51.0930052
+    ],
+    "longitude": -114.0427665,
+    "latitude": 51.0930052,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16624215",
+  "fullDetails": {
+    "licenseNumber": "16624215",
+    "name": "UNIFY PILATES",
+    "address": "#420 19489 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-10T15:32:29.000Z",
+    "expiryDate": "2026-06-09T15:32:28.000Z",
+    "coordinates": [
+      -113.9572068,
+      50.8804906
+    ],
+    "longitude": -113.9572068,
+    "latitude": 50.8804906,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

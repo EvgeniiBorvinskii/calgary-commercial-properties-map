@@ -1,0 +1,36 @@
+{
+  "id": "16166902",
+  "fullDetails": {
+    "licenseNumber": "16166902",
+    "name": "GRACEFUL NAILS BEAUTY",
+    "address": "#101 4820 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2022-07-07T13:30:11.000Z",
+    "expiryDate": "2026-07-06T13:30:11.000Z",
+    "coordinates": [
+      -114.1409527,
+      51.0946132
+    ],
+    "longitude": -114.1409527,
+    "latitude": 51.0946132,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

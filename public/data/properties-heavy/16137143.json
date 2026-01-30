@@ -1,0 +1,36 @@
+{
+  "id": "16137143",
+  "fullDetails": {
+    "licenseNumber": "16137143",
+    "name": "CITY CAR SALES",
+    "address": "2816 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-20T12:29:47.000Z",
+    "expiryDate": "2026-10-19T12:29:47.000Z",
+    "coordinates": [
+      -114.0303626,
+      51.0288879
+    ],
+    "longitude": -114.0303626,
+    "latitude": 51.0288879,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

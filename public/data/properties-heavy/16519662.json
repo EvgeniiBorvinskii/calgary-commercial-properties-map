@@ -1,0 +1,36 @@
+{
+  "id": "16519662",
+  "fullDetails": {
+    "licenseNumber": "16519662",
+    "name": "LIONS AUTO",
+    "address": "#A 2011 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-28T10:59:38.000Z",
+    "expiryDate": "2026-08-27T10:59:37.000Z",
+    "coordinates": [
+      -113.9621261,
+      51.0358292
+    ],
+    "longitude": -113.9621261,
+    "latitude": 51.0358292,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

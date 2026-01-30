@@ -1,0 +1,37 @@
+{
+  "id": "13320999",
+  "fullDetails": {
+    "licenseNumber": "13320999",
+    "name": "PLAY IT AGAIN SPORTS",
+    "address": "270 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2012-02-10T08:29:09.000Z",
+    "expiryDate": "2026-02-09T08:29:09.000Z",
+    "coordinates": [
+      -114.1706764,
+      51.0142268
+    ],
+    "longitude": -114.1706764,
+    "latitude": 51.0142268,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

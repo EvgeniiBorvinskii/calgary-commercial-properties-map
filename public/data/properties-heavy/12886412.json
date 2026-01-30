@@ -1,0 +1,36 @@
+{
+  "id": "12886412",
+  "fullDetails": {
+    "licenseNumber": "12886412",
+    "name": "ARITZIA",
+    "address": "#212 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-06-09T05:50:07.000Z",
+    "expiryDate": "2026-06-08T05:50:07.000Z",
+    "coordinates": [
+      -114.0687744,
+      51.0464495
+    ],
+    "longitude": -114.0687744,
+    "latitude": 51.0464495,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

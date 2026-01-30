@@ -1,0 +1,36 @@
+{
+  "id": "12225819",
+  "fullDetails": {
+    "licenseNumber": "12225819",
+    "name": "COMPACT COMPRESSION",
+    "address": "#8 1820 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2007-03-31T05:35:19.000Z",
+    "expiryDate": "2026-03-30T05:35:19.000Z",
+    "coordinates": [
+      -114.0155215,
+      51.080145
+    ],
+    "longitude": -114.0155215,
+    "latitude": 51.080145,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

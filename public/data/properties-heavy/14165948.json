@@ -1,0 +1,36 @@
+{
+  "id": "14165948",
+  "fullDetails": {
+    "licenseNumber": "14165948",
+    "name": "TOTAL EXTERIORS",
+    "address": "#145 1610 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-08-31T10:03:15.000Z",
+    "expiryDate": "2026-08-30T10:03:14.000Z",
+    "coordinates": [
+      -114.019135,
+      51.1494706
+    ],
+    "longitude": -114.019135,
+    "latitude": 51.1494706,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

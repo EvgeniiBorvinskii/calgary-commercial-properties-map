@@ -1,0 +1,37 @@
+{
+  "id": "15676273",
+  "fullDetails": {
+    "licenseNumber": "15676273",
+    "name": "AL-NOOR HALAL MEAT AND GROCERY STORE",
+    "address": "#810 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-04T15:40:44.000Z",
+    "expiryDate": "2026-09-03T15:40:44.000Z",
+    "coordinates": [
+      -113.9629331,
+      51.0974111
+    ],
+    "longitude": -113.9629331,
+    "latitude": 51.0974111,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

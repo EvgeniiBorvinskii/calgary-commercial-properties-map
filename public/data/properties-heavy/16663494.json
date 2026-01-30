@@ -1,0 +1,36 @@
+{
+  "id": "16663494",
+  "fullDetails": {
+    "licenseNumber": "16663494",
+    "name": "FIREHOUSE SUBS CROWFOOT",
+    "address": "55 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-18T14:02:14.000Z",
+    "expiryDate": "2026-11-17T14:02:13.000Z",
+    "coordinates": [
+      -114.2006766,
+      51.1270215
+    ],
+    "longitude": -114.2006766,
+    "latitude": 51.1270215,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

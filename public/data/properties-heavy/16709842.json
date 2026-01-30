@@ -1,0 +1,37 @@
+{
+  "id": "16709842",
+  "fullDetails": {
+    "licenseNumber": "16709842",
+    "name": "LAST CALL BAR/RICE AND CURRY",
+    "address": "322 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-12-03T13:40:09.000Z",
+    "expiryDate": "2026-12-02T13:40:09.000Z",
+    "coordinates": [
+      -114.0856274,
+      51.0548258
+    ],
+    "longitude": -114.0856274,
+    "latitude": 51.0548258,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

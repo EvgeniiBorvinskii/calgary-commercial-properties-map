@@ -1,0 +1,36 @@
+{
+  "id": "15979834",
+  "fullDetails": {
+    "licenseNumber": "15979834",
+    "name": "CHINOOK WHOLESALERS",
+    "address": "#119 5718 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-02-11T10:55:36.000Z",
+    "expiryDate": "2027-02-10T10:55:36.000Z",
+    "coordinates": [
+      -114.0665241,
+      51.0032104
+    ],
+    "longitude": -114.0665241,
+    "latitude": 51.0032104,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

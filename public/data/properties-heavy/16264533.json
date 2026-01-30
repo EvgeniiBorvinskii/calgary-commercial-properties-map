@@ -1,0 +1,36 @@
+{
+  "id": "16264533",
+  "fullDetails": {
+    "licenseNumber": "16264533",
+    "name": "MSKIN - MED & AESTHETIC",
+    "address": "1819A 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE",
+    "licenseTypes": "BODY RUB CENTRE",
+    "status": "active",
+    "issuedDate": "2023-06-23T16:29:46.000Z",
+    "expiryDate": "2026-06-22T16:29:45.000Z",
+    "coordinates": [
+      -114.0718204,
+      51.0362815
+    ],
+    "longitude": -114.0718204,
+    "latitude": 51.0362815,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

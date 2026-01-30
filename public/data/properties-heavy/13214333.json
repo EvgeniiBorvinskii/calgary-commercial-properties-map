@@ -1,0 +1,36 @@
+{
+  "id": "13214333",
+  "fullDetails": {
+    "licenseNumber": "13214333",
+    "name": "TERRAFUSE",
+    "address": "1325 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-10-25T09:13:25.000Z",
+    "expiryDate": "2026-10-24T09:13:25.000Z",
+    "coordinates": [
+      -114.0339556,
+      51.0130687
+    ],
+    "longitude": -114.0339556,
+    "latitude": 51.0130687,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

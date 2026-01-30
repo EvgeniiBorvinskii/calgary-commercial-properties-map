@@ -1,0 +1,36 @@
+{
+  "id": "16274664",
+  "fullDetails": {
+    "licenseNumber": "16274664",
+    "name": "CARRINGTON OPTOMETRY",
+    "address": "#150 159 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-03T10:31:28.000Z",
+    "expiryDate": "2026-03-02T10:31:28.000Z",
+    "coordinates": [
+      -114.0915598,
+      51.1832446
+    ],
+    "longitude": -114.0915598,
+    "latitude": 51.1832446,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

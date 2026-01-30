@@ -1,0 +1,37 @@
+{
+  "id": "12938403",
+  "fullDetails": {
+    "licenseNumber": "12938403",
+    "name": "LA-ZEE-ZA PIZZA & PUB",
+    "address": "#7 12 CASTLERIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2010-06-15T10:00:25.000Z",
+    "expiryDate": "2026-06-14T10:00:25.000Z",
+    "coordinates": [
+      -113.9500819,
+      51.107532
+    ],
+    "longitude": -113.9500819,
+    "latitude": 51.107532,
+    "community": "CASTLERIDGE",
+    "ward": "CAS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

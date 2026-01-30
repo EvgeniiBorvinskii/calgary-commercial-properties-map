@@ -1,0 +1,36 @@
+{
+  "id": "16191017",
+  "fullDetails": {
+    "licenseNumber": "16191017",
+    "name": "SAN CONSTRUCTIONS",
+    "address": "#1235 235 RED EMBERS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-08T12:47:15.000Z",
+    "expiryDate": "2026-08-07T12:47:15.000Z",
+    "coordinates": [
+      -113.9574963,
+      51.1664084
+    ],
+    "longitude": -113.9574963,
+    "latitude": 51.1664084,
+    "community": "REDSTONE",
+    "ward": "RSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

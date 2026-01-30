@@ -1,0 +1,36 @@
+{
+  "id": "16083016",
+  "fullDetails": {
+    "licenseNumber": "16083016",
+    "name": "QUICK AUTO AND RECYCLING",
+    "address": "362 MAHOGANY TC SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-12-04T09:07:06.000Z",
+    "expiryDate": "2026-12-03T09:07:05.000Z",
+    "coordinates": [
+      -113.9372692,
+      50.9034787
+    ],
+    "longitude": -113.9372692,
+    "latitude": 50.9034787,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

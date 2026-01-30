@@ -1,0 +1,36 @@
+{
+  "id": "16454829",
+  "fullDetails": {
+    "licenseNumber": "16454829",
+    "name": "XING FU TANG CRESCENT HEIGHTS",
+    "address": "#1 222 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-09-11T13:32:52.000Z",
+    "expiryDate": "2026-09-10T13:32:51.000Z",
+    "coordinates": [
+      -114.0584954,
+      51.0673195
+    ],
+    "longitude": -114.0584954,
+    "latitude": 51.0673195,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

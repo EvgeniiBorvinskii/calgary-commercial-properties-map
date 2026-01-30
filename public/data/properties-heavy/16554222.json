@@ -1,0 +1,36 @@
+{
+  "id": "16554222",
+  "fullDetails": {
+    "licenseNumber": "16554222",
+    "name": "WESTSIDE HEAVY DUTY REPAIR",
+    "address": "#33 9616 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2026-01-19T09:03:45.000Z",
+    "expiryDate": "2027-01-18T09:03:45.000Z",
+    "coordinates": [
+      -113.9677415,
+      50.9674606
+    ],
+    "longitude": -113.9677415,
+    "latitude": 50.9674606,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

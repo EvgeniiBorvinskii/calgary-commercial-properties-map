@@ -1,0 +1,37 @@
+{
+  "id": "16077257",
+  "fullDetails": {
+    "licenseNumber": "16077257",
+    "name": "GRAVITY ESPRESSO AND WINE BAR",
+    "address": "240 RIVERFRONT AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-02-28T08:27:59.000Z",
+    "expiryDate": "2026-02-27T08:27:59.000Z",
+    "coordinates": [
+      -114.0667291,
+      51.0525288
+    ],
+    "longitude": -114.0667291,
+    "latitude": 51.0525288,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

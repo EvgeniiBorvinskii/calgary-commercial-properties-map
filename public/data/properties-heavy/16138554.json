@@ -1,0 +1,37 @@
+{
+  "id": "16138554",
+  "fullDetails": {
+    "licenseNumber": "16138554",
+    "name": "BEACON PHARMACY",
+    "address": "#107 1213 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-15T17:30:00.000Z",
+    "expiryDate": "2026-03-14T17:30:00.000Z",
+    "coordinates": [
+      -114.0719609,
+      51.0409908
+    ],
+    "longitude": -114.0719609,
+    "latitude": 51.0409908,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

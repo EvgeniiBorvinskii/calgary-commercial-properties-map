@@ -1,0 +1,37 @@
+{
+  "id": "14712186",
+  "fullDetails": {
+    "licenseNumber": "14712186",
+    "name": "PHARMACARE PHARMACY",
+    "address": "#126 10748 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-12-11T11:16:06.000Z",
+    "expiryDate": "2026-12-10T11:16:06.000Z",
+    "coordinates": [
+      -113.9242146,
+      50.9604378
+    ],
+    "longitude": -113.9242146,
+    "latitude": 50.9604378,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

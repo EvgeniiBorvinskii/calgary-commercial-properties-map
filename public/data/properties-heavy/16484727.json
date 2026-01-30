@@ -1,0 +1,36 @@
+{
+  "id": "16484727",
+  "fullDetails": {
+    "licenseNumber": "16484727",
+    "name": "EMBROINK FULLFILLMENT",
+    "address": "4121 23B ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-05-07T15:17:23.000Z",
+    "expiryDate": "2026-05-06T15:17:23.000Z",
+    "coordinates": [
+      -114.0031964,
+      51.0897271
+    ],
+    "longitude": -114.0031964,
+    "latitude": 51.0897271,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

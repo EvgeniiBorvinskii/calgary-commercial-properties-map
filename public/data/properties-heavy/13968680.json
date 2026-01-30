@@ -1,0 +1,36 @@
+{
+  "id": "13968680",
+  "fullDetails": {
+    "licenseNumber": "13968680",
+    "name": "HI NEIGHBOUR CLEANERS",
+    "address": "309 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2015-08-21T05:33:20.000Z",
+    "expiryDate": "2026-08-20T05:33:20.000Z",
+    "coordinates": [
+      -114.1058627,
+      51.0548395
+    ],
+    "longitude": -114.1058627,
+    "latitude": 51.0548395,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

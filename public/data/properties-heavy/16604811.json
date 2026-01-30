@@ -1,0 +1,36 @@
+{
+  "id": "16604811",
+  "fullDetails": {
+    "licenseNumber": "16604811",
+    "name": "WEST HILLHURST PIANO & VIOLIN",
+    "address": "#205 301 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-25T09:22:03.000Z",
+    "expiryDate": "2026-03-24T09:22:01.000Z",
+    "coordinates": [
+      -114.0952932,
+      51.0548967
+    ],
+    "longitude": -114.0952932,
+    "latitude": 51.0548967,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12913869",
+  "fullDetails": {
+    "licenseNumber": "12913869",
+    "name": "PALACE RESTAURANT (THE)",
+    "address": "6308 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2010-04-16T14:53:12.000Z",
+    "expiryDate": "2026-04-15T14:53:12.000Z",
+    "coordinates": [
+      -114.1781629,
+      51.085307
+    ],
+    "longitude": -114.1781629,
+    "latitude": 51.085307,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

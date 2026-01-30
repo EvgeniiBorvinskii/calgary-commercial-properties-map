@@ -1,0 +1,36 @@
+{
+  "id": "12794657",
+  "fullDetails": {
+    "licenseNumber": "12794657",
+    "name": "CALGARY ACROBATIC GYMNASTICS",
+    "address": "#160 7260 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2021-11-01T13:26:48.000Z",
+    "expiryDate": "2026-10-31T13:26:48.000Z",
+    "coordinates": [
+      -114.0359025,
+      50.9891771
+    ],
+    "longitude": -114.0359025,
+    "latitude": 50.9891771,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

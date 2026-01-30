@@ -1,0 +1,36 @@
+{
+  "id": "15996374",
+  "fullDetails": {
+    "licenseNumber": "15996374",
+    "name": "BAUM TOOLS",
+    "address": "#1149 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-26T11:38:04.000Z",
+    "expiryDate": "2026-03-25T11:38:04.000Z",
+    "coordinates": [
+      -113.9799873,
+      51.1513428
+    ],
+    "longitude": -113.9799873,
+    "latitude": 51.1513428,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

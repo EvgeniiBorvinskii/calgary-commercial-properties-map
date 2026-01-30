@@ -1,0 +1,37 @@
+{
+  "id": "16044489",
+  "fullDetails": {
+    "licenseNumber": "16044489",
+    "name": "CANADIAN TIRE DEERFOOT CITY",
+    "address": "910 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-25T11:32:14.000Z",
+    "expiryDate": "2026-08-24T11:32:14.000Z",
+    "coordinates": [
+      -114.0424318,
+      51.106203
+    ],
+    "longitude": -114.0424318,
+    "latitude": 51.106203,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

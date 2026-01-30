@@ -1,0 +1,36 @@
+{
+  "id": "16418840",
+  "fullDetails": {
+    "licenseNumber": "16418840",
+    "name": "ER BRIDGE EXPRESS LOGISTICS",
+    "address": "#9 4069 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-07T05:35:00.000Z",
+    "expiryDate": "2026-12-06T05:35:00.000Z",
+    "coordinates": [
+      -113.977248,
+      50.951767
+    ],
+    "longitude": -113.977248,
+    "latitude": 50.951767,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

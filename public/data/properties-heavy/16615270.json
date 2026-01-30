@@ -1,0 +1,36 @@
+{
+  "id": "16615270",
+  "fullDetails": {
+    "licenseNumber": "16615270",
+    "name": "SAMRA SWEETS RESTAURANT (CGY-2219)",
+    "address": "#4 3250 60 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-29T15:45:34.000Z",
+    "expiryDate": "2026-05-28T15:45:34.000Z",
+    "coordinates": [
+      -113.9462421,
+      51.0811179
+    ],
+    "longitude": -113.9462421,
+    "latitude": 51.0811179,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

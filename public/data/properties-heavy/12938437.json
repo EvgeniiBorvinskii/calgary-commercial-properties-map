@@ -1,0 +1,37 @@
+{
+  "id": "12938437",
+  "fullDetails": {
+    "licenseNumber": "12938437",
+    "name": "PROTEK SAFETY & CONTROLS",
+    "address": "#10 1715 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2014-11-20T12:53:55.000Z",
+    "expiryDate": "2026-11-19T12:53:55.000Z",
+    "coordinates": [
+      -114.0182534,
+      51.0763592
+    ],
+    "longitude": -114.0182534,
+    "latitude": 51.0763592,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16610263",
+  "fullDetails": {
+    "licenseNumber": "16610263",
+    "name": "HIBERNIA TRADING",
+    "address": "#207 340 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "pending",
+    "issuedDate": "2025-04-17T12:47:22.000Z",
+    "expiryDate": "2026-04-16T12:47:22.000Z",
+    "coordinates": [
+      -114.0632202,
+      50.9083024
+    ],
+    "longitude": -114.0632202,
+    "latitude": 50.9083024,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

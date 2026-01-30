@@ -1,0 +1,36 @@
+{
+  "id": "13001219",
+  "fullDetails": {
+    "licenseNumber": "13001219",
+    "name": "HONG SHENG CANADA TRADING COMPANY",
+    "address": "#335 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-17T14:41:59.000Z",
+    "expiryDate": "2026-03-16T14:41:59.000Z",
+    "coordinates": [
+      -113.9850553,
+      51.0608506
+    ],
+    "longitude": -113.9850553,
+    "latitude": 51.0608506,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

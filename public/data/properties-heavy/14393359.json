@@ -1,0 +1,36 @@
+{
+  "id": "14393359",
+  "fullDetails": {
+    "licenseNumber": "14393359",
+    "name": "CALGARY CO-OP WINE SPIRITS BEER #49 - WORLD OF WHISKY",
+    "address": "#240 333 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2016-12-15T08:42:31.000Z",
+    "expiryDate": "2026-12-14T08:42:31.000Z",
+    "coordinates": [
+      -114.0696244,
+      51.0482841
+    ],
+    "longitude": -114.0696244,
+    "latitude": 51.0482841,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15862030",
+  "fullDetails": {
+    "licenseNumber": "15862030",
+    "name": "VIETNAM PALACE GRILL & NOODLE HOUSE",
+    "address": "#104 472 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-01-27T12:56:32.000Z",
+    "expiryDate": "2027-01-26T12:56:32.000Z",
+    "coordinates": [
+      -113.9807986,
+      51.0556886
+    ],
+    "longitude": -113.9807986,
+    "latitude": 51.0556886,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

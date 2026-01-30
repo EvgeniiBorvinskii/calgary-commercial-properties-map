@@ -1,0 +1,36 @@
+{
+  "id": "13674734",
+  "fullDetails": {
+    "licenseNumber": "13674734",
+    "name": "THIRD DIMENSION MILLWORK",
+    "address": "9212A HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-19T16:38:09.000Z",
+    "expiryDate": "2026-12-18T16:38:09.000Z",
+    "coordinates": [
+      -114.0747058,
+      50.9733531
+    ],
+    "longitude": -114.0747058,
+    "latitude": 50.9733531,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

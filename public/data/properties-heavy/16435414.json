@@ -1,0 +1,36 @@
+{
+  "id": "16435414",
+  "fullDetails": {
+    "licenseNumber": "16435414",
+    "name": "ANTONINA ZAITSEVA",
+    "address": "702 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-08-13T07:55:50.000Z",
+    "expiryDate": "2026-08-12T07:55:49.000Z",
+    "coordinates": [
+      -114.0766409,
+      51.0460969
+    ],
+    "longitude": -114.0766409,
+    "latitude": 51.0460969,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

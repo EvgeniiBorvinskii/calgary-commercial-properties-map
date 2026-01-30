@@ -1,0 +1,36 @@
+{
+  "id": "12610549",
+  "fullDetails": {
+    "licenseNumber": "12610549",
+    "name": "PRODUCT SOLUTIONS WEST",
+    "address": "#123 3953 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-12-04T08:30:52.000Z",
+    "expiryDate": "2026-12-03T08:30:52.000Z",
+    "coordinates": [
+      -113.9803597,
+      50.9518802
+    ],
+    "longitude": -113.9803597,
+    "latitude": 50.9518802,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

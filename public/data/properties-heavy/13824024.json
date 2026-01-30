@@ -1,0 +1,36 @@
+{
+  "id": "13824024",
+  "fullDetails": {
+    "licenseNumber": "13824024",
+    "name": "ROCKFORD WALDEN",
+    "address": "#250 7460 SPRINGBANK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2014-04-02T09:41:25.000Z",
+    "expiryDate": "2026-04-01T09:41:25.000Z",
+    "coordinates": [
+      -114.1921363,
+      51.018086
+    ],
+    "longitude": -114.1921363,
+    "latitude": 51.018086,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "964866",
+  "fullDetails": {
+    "licenseNumber": "964866",
+    "name": "STYLING SENSATION HAIR SALON",
+    "address": "420 ERIN WOODS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-13T00:00:00.000Z",
+    "coordinates": [
+      -113.9602195,
+      51.0237669
+    ],
+    "longitude": -113.9602195,
+    "latitude": 51.0237669,
+    "community": "ERIN WOODS",
+    "ward": "ERI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

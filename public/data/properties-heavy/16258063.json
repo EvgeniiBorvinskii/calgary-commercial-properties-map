@@ -1,0 +1,37 @@
+{
+  "id": "16258063",
+  "fullDetails": {
+    "licenseNumber": "16258063",
+    "name": "EASTSIDE AUTO REPAIR",
+    "address": "#U 5121 20 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-07-08T10:01:26.000Z",
+    "expiryDate": "2026-07-07T10:01:26.000Z",
+    "coordinates": [
+      -113.9602329,
+      51.0352811
+    ],
+    "longitude": -113.9602329,
+    "latitude": 51.0352811,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

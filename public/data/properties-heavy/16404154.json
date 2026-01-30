@@ -1,0 +1,36 @@
+{
+  "id": "16404154",
+  "fullDetails": {
+    "licenseNumber": "16404154",
+    "name": "FLAGSHIP AUTO",
+    "address": "#1 1420 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "in_progress",
+    "issuedDate": "2023-12-08T16:14:22.000Z",
+    "expiryDate": "2025-12-07T16:14:22.000Z",
+    "coordinates": [
+      -114.028995,
+      51.0889554
+    ],
+    "longitude": -114.028995,
+    "latitude": 51.0889554,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

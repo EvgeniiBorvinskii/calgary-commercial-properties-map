@@ -1,0 +1,37 @@
+{
+  "id": "16432296",
+  "fullDetails": {
+    "licenseNumber": "16432296",
+    "name": "CAHILL INDUSTRIAL LIMITED",
+    "address": "#820 330 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-09T13:29:32.000Z",
+    "expiryDate": "2027-01-08T13:29:32.000Z",
+    "coordinates": [
+      -114.0692067,
+      51.0488629
+    ],
+    "longitude": -114.0692067,
+    "latitude": 51.0488629,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

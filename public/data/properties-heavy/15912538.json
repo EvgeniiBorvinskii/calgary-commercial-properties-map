@@ -1,0 +1,36 @@
+{
+  "id": "15912538",
+  "fullDetails": {
+    "licenseNumber": "15912538",
+    "name": "BOW CYCLE E-BIKES",
+    "address": "#120 632 CONFLUENCE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-06-24T15:46:07.000Z",
+    "expiryDate": "2026-06-23T15:46:07.000Z",
+    "coordinates": [
+      -114.0489497,
+      51.0476917
+    ],
+    "longitude": -114.0489497,
+    "latitude": 51.0476917,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

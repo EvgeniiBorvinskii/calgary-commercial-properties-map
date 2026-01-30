@@ -1,0 +1,36 @@
+{
+  "id": "202754",
+  "fullDetails": {
+    "licenseNumber": "202754",
+    "name": "QSINE CORPORATION",
+    "address": "3250 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-12T00:00:00.000Z",
+    "coordinates": [
+      -113.9879481,
+      51.0127843
+    ],
+    "longitude": -113.9879481,
+    "latitude": 51.0127843,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

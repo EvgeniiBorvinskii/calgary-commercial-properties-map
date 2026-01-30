@@ -1,0 +1,36 @@
+{
+  "id": "970889",
+  "fullDetails": {
+    "licenseNumber": "970889",
+    "name": "CADENCE COFFEE",
+    "address": "6407 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-30T00:00:00.000Z",
+    "coordinates": [
+      -114.1805968,
+      51.0856841
+    ],
+    "longitude": -114.1805968,
+    "latitude": 51.0856841,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

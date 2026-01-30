@@ -1,0 +1,36 @@
+{
+  "id": "12755203",
+  "fullDetails": {
+    "licenseNumber": "12755203",
+    "name": "TERAKITA ELECTRIC",
+    "address": "4026 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-06-12T09:37:32.000Z",
+    "expiryDate": "2026-06-11T09:37:32.000Z",
+    "coordinates": [
+      -114.0517769,
+      51.0176915
+    ],
+    "longitude": -114.0517769,
+    "latitude": 51.0176915,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

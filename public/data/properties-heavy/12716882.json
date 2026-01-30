@@ -1,0 +1,36 @@
+{
+  "id": "12716882",
+  "fullDetails": {
+    "licenseNumber": "12716882",
+    "name": "FOOTHILLS STEEL FOUNDRY",
+    "address": "9390 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2008-10-29T14:10:05.000Z",
+    "expiryDate": "2026-10-28T14:10:05.000Z",
+    "coordinates": [
+      -113.8997784,
+      50.9518676
+    ],
+    "longitude": -113.8997784,
+    "latitude": 50.9518676,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

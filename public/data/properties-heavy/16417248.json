@@ -1,0 +1,36 @@
+{
+  "id": "16417248",
+  "fullDetails": {
+    "licenseNumber": "16417248",
+    "name": "RUNDLEHORN PHYSIOTHERAPY AND CHIROPRACTIC CLINIC",
+    "address": "#115 3725 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-06-14T05:32:55.000Z",
+    "expiryDate": "2026-06-13T05:32:54.000Z",
+    "coordinates": [
+      -113.9811592,
+      51.0710953
+    ],
+    "longitude": -113.9811592,
+    "latitude": 51.0710953,
+    "community": "RUNDLE",
+    "ward": "RUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

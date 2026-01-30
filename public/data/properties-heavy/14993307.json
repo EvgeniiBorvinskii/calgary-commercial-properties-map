@@ -1,0 +1,37 @@
+{
+  "id": "14993307",
+  "fullDetails": {
+    "licenseNumber": "14993307",
+    "name": "VALUE BUDS AT STRATHCONA SQUARE",
+    "address": "#156 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-11-21T05:34:22.000Z",
+    "expiryDate": "2026-11-20T05:34:22.000Z",
+    "coordinates": [
+      -114.1865243,
+      51.0487177
+    ],
+    "longitude": -114.1865243,
+    "latitude": 51.0487177,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

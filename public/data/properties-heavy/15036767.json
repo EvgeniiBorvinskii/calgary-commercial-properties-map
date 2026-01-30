@@ -1,0 +1,37 @@
+{
+  "id": "15036767",
+  "fullDetails": {
+    "licenseNumber": "15036767",
+    "name": "KIRKUK AUTO COMPLETE",
+    "address": "326 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-02-15T05:34:07.000Z",
+    "expiryDate": "2026-02-14T05:34:07.000Z",
+    "coordinates": [
+      -114.0689557,
+      51.0672405
+    ],
+    "longitude": -114.0689557,
+    "latitude": 51.0672405,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

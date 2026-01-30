@@ -1,0 +1,36 @@
+{
+  "id": "13066154",
+  "fullDetails": {
+    "licenseNumber": "13066154",
+    "name": "PANORAMA HILLS ANIMAL HOSPITAL",
+    "address": "#410 1110 PANATELLA BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-11-19T08:09:33.000Z",
+    "expiryDate": "2026-11-18T08:09:33.000Z",
+    "coordinates": [
+      -114.0912994,
+      51.1679017
+    ],
+    "longitude": -114.0912994,
+    "latitude": 51.1679017,
+    "community": "PANORAMA HILLS",
+    "ward": "PAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

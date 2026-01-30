@@ -1,0 +1,36 @@
+{
+  "id": "16414229",
+  "fullDetails": {
+    "licenseNumber": "16414229",
+    "name": "TRANSOURCE FREIGHTWAYS",
+    "address": "6693 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2024-04-02T07:52:42.000Z",
+    "expiryDate": "2026-04-01T07:52:41.000Z",
+    "coordinates": [
+      -113.9851104,
+      50.9934283
+    ],
+    "longitude": -113.9851104,
+    "latitude": 50.9934283,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

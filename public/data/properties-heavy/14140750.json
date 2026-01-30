@@ -1,0 +1,37 @@
+{
+  "id": "14140750",
+  "fullDetails": {
+    "licenseNumber": "14140750",
+    "name": "EMPIRE BANQUET HALL",
+    "address": "#1 4826 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-04-20T09:27:48.000Z",
+    "expiryDate": "2026-04-19T09:27:48.000Z",
+    "coordinates": [
+      -114.035722,
+      51.0948188
+    ],
+    "longitude": -114.035722,
+    "latitude": 51.0948188,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

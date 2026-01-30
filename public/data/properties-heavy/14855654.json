@@ -1,0 +1,36 @@
+{
+  "id": "14855654",
+  "fullDetails": {
+    "licenseNumber": "14855654",
+    "name": "THAI EXPRESS NORTH HILL CENTRE",
+    "address": "#1804 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-20T07:41:44.000Z",
+    "expiryDate": "2026-03-19T07:41:44.000Z",
+    "coordinates": [
+      -114.1020744,
+      51.0660565
+    ],
+    "longitude": -114.1020744,
+    "latitude": 51.0660565,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

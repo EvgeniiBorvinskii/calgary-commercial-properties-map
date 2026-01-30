@@ -1,0 +1,36 @@
+{
+  "id": "80986",
+  "fullDetails": {
+    "licenseNumber": "80986",
+    "name": "KERRIDGE CONCRETE",
+    "address": "9716 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-16T00:00:00.000Z",
+    "coordinates": [
+      -113.9693621,
+      50.9664273
+    ],
+    "longitude": -113.9693621,
+    "latitude": 50.9664273,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16613515",
+  "fullDetails": {
+    "licenseNumber": "16613515",
+    "name": "FORTUNE BUILDING SUPPLY",
+    "address": "#421 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-08T15:17:44.000Z",
+    "expiryDate": "2026-05-07T15:17:43.000Z",
+    "coordinates": [
+      -113.9685394,
+      50.9510189
+    ],
+    "longitude": -113.9685394,
+    "latitude": 50.9510189,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

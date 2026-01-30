@@ -1,0 +1,36 @@
+{
+  "id": "16385593",
+  "fullDetails": {
+    "licenseNumber": "16385593",
+    "name": "PRIME DONAIR & CHICKEN",
+    "address": "#5 4115 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-21T14:38:03.000Z",
+    "expiryDate": "2026-11-20T14:38:03.000Z",
+    "coordinates": [
+      -113.9758391,
+      50.9986053
+    ],
+    "longitude": -113.9758391,
+    "latitude": 50.9986053,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12136891",
+  "fullDetails": {
+    "licenseNumber": "12136891",
+    "name": "LAKEVIEW BARBER SHOP",
+    "address": "#18 6449 CROWCHILD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2002-09-29T11:02:02.000Z",
+    "expiryDate": "2026-09-26T05:32:41.000Z",
+    "coordinates": [
+      -114.1193028,
+      50.9968867
+    ],
+    "longitude": -114.1193028,
+    "latitude": 50.9968867,
+    "community": "LAKEVIEW",
+    "ward": "LKV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

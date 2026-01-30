@@ -1,0 +1,36 @@
+{
+  "id": "13889878",
+  "fullDetails": {
+    "licenseNumber": "13889878",
+    "name": "SKECHERS",
+    "address": "#101 3320 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-11-03T11:39:55.000Z",
+    "expiryDate": "2026-11-02T11:39:55.000Z",
+    "coordinates": [
+      -113.9880806,
+      51.0710727
+    ],
+    "longitude": -113.9880806,
+    "latitude": 51.0710727,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "922732",
+  "fullDetails": {
+    "licenseNumber": "922732",
+    "name": "AQUABATICS CALGARY",
+    "address": "5063 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-10T11:55:04.000Z",
+    "expiryDate": "2026-02-09T11:55:04.000Z",
+    "coordinates": [
+      -114.0379546,
+      51.0077675
+    ],
+    "longitude": -114.0379546,
+    "latitude": 51.0077675,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

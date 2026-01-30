@@ -1,0 +1,36 @@
+{
+  "id": "14159594",
+  "fullDetails": {
+    "licenseNumber": "14159594",
+    "name": "ROSS CUSTOM PAINT",
+    "address": "#1 4451 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2016-05-11T11:03:18.000Z",
+    "expiryDate": "2026-05-10T11:03:18.000Z",
+    "coordinates": [
+      -113.9710967,
+      50.9987531
+    ],
+    "longitude": -113.9710967,
+    "latitude": 50.9987531,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

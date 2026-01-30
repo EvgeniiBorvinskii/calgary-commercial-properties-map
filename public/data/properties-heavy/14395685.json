@@ -1,0 +1,36 @@
+{
+  "id": "14395685",
+  "fullDetails": {
+    "licenseNumber": "14395685",
+    "name": "PURR",
+    "address": "1227 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-12-16T14:02:12.000Z",
+    "expiryDate": "2026-12-15T14:02:12.000Z",
+    "coordinates": [
+      -114.0350876,
+      51.0412921
+    ],
+    "longitude": -114.0350876,
+    "latitude": 51.0412921,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

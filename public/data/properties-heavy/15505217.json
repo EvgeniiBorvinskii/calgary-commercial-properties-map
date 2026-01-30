@@ -1,0 +1,36 @@
+{
+  "id": "15505217",
+  "fullDetails": {
+    "licenseNumber": "15505217",
+    "name": "COTTAGE CARE",
+    "address": "1045 MCTAVISH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2020-01-09T05:33:25.000Z",
+    "expiryDate": "2027-01-08T05:33:25.000Z",
+    "coordinates": [
+      -114.0145955,
+      51.0945887
+    ],
+    "longitude": -114.0145955,
+    "latitude": 51.0945887,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

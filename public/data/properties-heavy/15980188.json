@@ -1,0 +1,36 @@
+{
+  "id": "15980188",
+  "fullDetails": {
+    "licenseNumber": "15980188",
+    "name": "EDGEMONT VETERINARY CLINIC",
+    "address": "#105 8210 EDGEBROOK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-02-09T11:57:13.000Z",
+    "expiryDate": "2027-02-08T11:57:13.000Z",
+    "coordinates": [
+      -114.1382663,
+      51.1283024
+    ],
+    "longitude": -114.1382663,
+    "latitude": 51.1283024,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

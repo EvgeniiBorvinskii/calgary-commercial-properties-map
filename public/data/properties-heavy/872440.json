@@ -1,0 +1,36 @@
+{
+  "id": "872440",
+  "fullDetails": {
+    "licenseNumber": "872440",
+    "name": "MERLIN PLASTICS ALBERTA",
+    "address": "616 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-22T00:00:00.000Z",
+    "coordinates": [
+      -114.0510858,
+      51.0022295
+    ],
+    "longitude": -114.0510858,
+    "latitude": 51.0022295,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

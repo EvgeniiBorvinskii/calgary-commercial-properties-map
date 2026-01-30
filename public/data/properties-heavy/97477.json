@@ -1,0 +1,36 @@
+{
+  "id": "97477",
+  "fullDetails": {
+    "licenseNumber": "97477",
+    "name": "SPLASH OF FASHION",
+    "address": "28 12 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-06-05T12:41:12.000Z",
+    "expiryDate": "2026-06-04T12:41:12.000Z",
+    "coordinates": [
+      -114.0917223,
+      51.0522542
+    ],
+    "longitude": -114.0917223,
+    "latitude": 51.0522542,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

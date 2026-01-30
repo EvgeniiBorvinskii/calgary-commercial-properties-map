@@ -1,0 +1,37 @@
+{
+  "id": "14118889",
+  "fullDetails": {
+    "licenseNumber": "14118889",
+    "name": "COCO'S ESTHETICS",
+    "address": "2030 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-10-02T15:20:11.000Z",
+    "expiryDate": "2026-10-01T15:20:10.000Z",
+    "coordinates": [
+      -114.1084357,
+      51.0243386
+    ],
+    "longitude": -114.1084357,
+    "latitude": 51.0243386,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

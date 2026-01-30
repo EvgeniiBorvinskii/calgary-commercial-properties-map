@@ -1,0 +1,36 @@
+{
+  "id": "16509986",
+  "fullDetails": {
+    "licenseNumber": "16509986",
+    "name": "WILD ROSE SPORTS FLOORING",
+    "address": "#28 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-21T08:02:39.000Z",
+    "expiryDate": "2026-11-20T08:02:37.000Z",
+    "coordinates": [
+      -113.9756853,
+      51.0045854
+    ],
+    "longitude": -113.9756853,
+    "latitude": 51.0045854,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

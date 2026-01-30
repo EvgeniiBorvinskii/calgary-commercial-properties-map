@@ -1,0 +1,36 @@
+{
+  "id": "976597",
+  "fullDetails": {
+    "licenseNumber": "976597",
+    "name": "APARTMENT BUILDING",
+    "address": "1907 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-13T00:00:00.000Z",
+    "coordinates": [
+      -114.0903705,
+      51.0361475
+    ],
+    "longitude": -114.0903705,
+    "latitude": 51.0361475,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

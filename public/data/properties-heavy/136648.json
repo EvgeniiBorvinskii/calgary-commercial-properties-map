@@ -1,0 +1,37 @@
+{
+  "id": "136648",
+  "fullDetails": {
+    "licenseNumber": "136648",
+    "name": "SIMSON MAXWELL",
+    "address": "467 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-05-31T07:57:10.000Z",
+    "expiryDate": "2026-05-30T07:57:10.000Z",
+    "coordinates": [
+      -113.8924747,
+      50.9622699
+    ],
+    "longitude": -113.8924747,
+    "latitude": 50.9622699,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

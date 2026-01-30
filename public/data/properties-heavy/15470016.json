@@ -1,0 +1,36 @@
+{
+  "id": "15470016",
+  "fullDetails": {
+    "licenseNumber": "15470016",
+    "name": "INSCAPE RENOVATIONS",
+    "address": "6025 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-26T15:07:16.000Z",
+    "expiryDate": "2026-09-25T15:07:16.000Z",
+    "coordinates": [
+      -114.0496188,
+      50.9995494
+    ],
+    "longitude": -114.0496188,
+    "latitude": 50.9995494,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

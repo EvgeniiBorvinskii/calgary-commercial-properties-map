@@ -1,0 +1,36 @@
+{
+  "id": "16034506",
+  "fullDetails": {
+    "licenseNumber": "16034506",
+    "name": "SUBWAY",
+    "address": "#320 20 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-04T11:33:40.000Z",
+    "expiryDate": "2026-06-03T11:33:40.000Z",
+    "coordinates": [
+      -114.0279428,
+      50.8647576
+    ],
+    "longitude": -114.0279428,
+    "latitude": 50.8647576,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

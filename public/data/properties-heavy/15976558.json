@@ -1,0 +1,37 @@
+{
+  "id": "15976558",
+  "fullDetails": {
+    "licenseNumber": "15976558",
+    "name": "ODYSSEY AUTO REPAIR & TIRE",
+    "address": "#125 1725 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2021-04-14T09:14:28.000Z",
+    "expiryDate": "2026-04-13T09:14:28.000Z",
+    "coordinates": [
+      -114.0178428,
+      51.0804865
+    ],
+    "longitude": -114.0178428,
+    "latitude": 51.0804865,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

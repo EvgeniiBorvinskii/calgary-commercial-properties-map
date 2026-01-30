@@ -1,0 +1,36 @@
+{
+  "id": "15218415",
+  "fullDetails": {
+    "licenseNumber": "15218415",
+    "name": "STEPHEN CLEANERS",
+    "address": "#4 3131 68 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2019-03-05T15:00:33.000Z",
+    "expiryDate": "2026-03-04T15:00:33.000Z",
+    "coordinates": [
+      -114.1847991,
+      51.0807165
+    ],
+    "longitude": -114.1847991,
+    "latitude": 51.0807165,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "118729",
+  "fullDetails": {
+    "licenseNumber": "118729",
+    "name": "GOOD TIME PARTY RENTALS",
+    "address": "4605 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-02-14T05:34:38.000Z",
+    "expiryDate": "2027-02-13T05:34:38.000Z",
+    "coordinates": [
+      -113.9676613,
+      50.9846276
+    ],
+    "longitude": -113.9676613,
+    "latitude": 50.9846276,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

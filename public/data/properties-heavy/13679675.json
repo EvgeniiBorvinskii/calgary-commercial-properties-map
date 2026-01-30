@@ -1,0 +1,37 @@
+{
+  "id": "13679675",
+  "fullDetails": {
+    "licenseNumber": "13679675",
+    "name": "MORE CONVENIENCE STORE",
+    "address": "#7 539 QUEENSLAND DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2013-06-05T11:53:39.000Z",
+    "expiryDate": "2026-06-04T11:53:39.000Z",
+    "coordinates": [
+      -114.0253369,
+      50.9397751
+    ],
+    "longitude": -114.0253369,
+    "latitude": 50.9397751,
+    "community": "QUEENSLAND",
+    "ward": "QLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

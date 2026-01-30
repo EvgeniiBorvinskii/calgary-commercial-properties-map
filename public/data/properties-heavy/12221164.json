@@ -1,0 +1,36 @@
+{
+  "id": "12221164",
+  "fullDetails": {
+    "licenseNumber": "12221164",
+    "name": "SANDMAN HOTEL CALGARY AIRPORT",
+    "address": "25 HOPEWELL WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2004-07-31T05:33:44.000Z",
+    "expiryDate": "2026-07-30T05:33:44.000Z",
+    "coordinates": [
+      -113.999791,
+      51.09499
+    ],
+    "longitude": -113.999791,
+    "latitude": 51.09499,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

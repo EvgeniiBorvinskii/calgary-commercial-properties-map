@@ -1,0 +1,36 @@
+{
+  "id": "13137153",
+  "fullDetails": {
+    "licenseNumber": "13137153",
+    "name": "1 2 3 DRIVING SCHOOL",
+    "address": "#105 115 2 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2011-04-25T11:00:04.000Z",
+    "expiryDate": "2026-04-24T11:00:04.000Z",
+    "coordinates": [
+      -114.0632478,
+      51.050954
+    ],
+    "longitude": -114.0632478,
+    "latitude": 51.050954,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "186270",
+  "fullDetails": {
+    "licenseNumber": "186270",
+    "name": "HILTAP FITTINGS",
+    "address": "#1 3140 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2003-12-10T08:51:56.000Z",
+    "expiryDate": "2026-12-09T08:51:56.000Z",
+    "coordinates": [
+      -113.9890337,
+      51.0658245
+    ],
+    "longitude": -113.9890337,
+    "latitude": 51.0658245,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

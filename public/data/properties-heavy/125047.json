@@ -1,0 +1,36 @@
+{
+  "id": "125047",
+  "fullDetails": {
+    "licenseNumber": "125047",
+    "name": "FOOTHILLS LOCKSMITHS",
+    "address": "#127 11769 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-07-04T13:58:17.000Z",
+    "expiryDate": "2026-07-03T13:58:17.000Z",
+    "coordinates": [
+      -113.9774131,
+      50.9454482
+    ],
+    "longitude": -113.9774131,
+    "latitude": 50.9454482,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

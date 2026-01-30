@@ -1,0 +1,37 @@
+{
+  "id": "863415",
+  "fullDetails": {
+    "licenseNumber": "863415",
+    "name": "7 ELEVEN FOOD STORE GAS BAR #32741H",
+    "address": "150 96 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-02T00:00:00.000Z",
+    "coordinates": [
+      -114.0675513,
+      51.1423017
+    ],
+    "longitude": -114.0675513,
+    "latitude": 51.1423017,
+    "community": "HARVEST HILLS",
+    "ward": "HAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16541633",
+  "fullDetails": {
+    "licenseNumber": "16541633",
+    "name": "PENTAGON LINK",
+    "address": "#125 11655 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-04-23T15:13:35.000Z",
+    "expiryDate": "2026-04-22T15:13:35.000Z",
+    "coordinates": [
+      -114.0002834,
+      51.160417
+    ],
+    "longitude": -114.0002834,
+    "latitude": 51.160417,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

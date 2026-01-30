@@ -1,0 +1,36 @@
+{
+  "id": "16581555",
+  "fullDetails": {
+    "licenseNumber": "16581555",
+    "name": "MELANCHOLY MOTH",
+    "address": "#200 1209 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2025-02-06T12:17:03.000Z",
+    "expiryDate": "2026-02-05T12:17:03.000Z",
+    "coordinates": [
+      -114.0661597,
+      51.0410866
+    ],
+    "longitude": -114.0661597,
+    "latitude": 51.0410866,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

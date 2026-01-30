@@ -1,0 +1,36 @@
+{
+  "id": "16551277",
+  "fullDetails": {
+    "licenseNumber": "16551277",
+    "name": "URBAN APPETITE",
+    "address": "#174 112 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-02-25T07:45:40.000Z",
+    "expiryDate": "2026-02-24T07:45:39.000Z",
+    "coordinates": [
+      -114.0639402,
+      51.0498432
+    ],
+    "longitude": -114.0639402,
+    "latitude": 51.0498432,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

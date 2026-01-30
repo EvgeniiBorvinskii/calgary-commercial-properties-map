@@ -1,0 +1,36 @@
+{
+  "id": "14910657",
+  "fullDetails": {
+    "licenseNumber": "14910657",
+    "name": "DYNASTY CHEER ALLSTARS",
+    "address": "#30 5251 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-20T13:07:29.000Z",
+    "expiryDate": "2026-08-19T13:07:29.000Z",
+    "coordinates": [
+      -113.9597197,
+      51.0103393
+    ],
+    "longitude": -113.9597197,
+    "latitude": 51.0103393,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

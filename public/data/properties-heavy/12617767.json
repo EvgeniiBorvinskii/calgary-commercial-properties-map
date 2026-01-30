@@ -1,0 +1,36 @@
+{
+  "id": "12617767",
+  "fullDetails": {
+    "licenseNumber": "12617767",
+    "name": "ALBERTA  TINTING & GRAPHIC SERVICES",
+    "address": "7070B FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-08T16:26:18.000Z",
+    "expiryDate": "2026-12-07T16:26:18.000Z",
+    "coordinates": [
+      -114.0544963,
+      50.9912354
+    ],
+    "longitude": -114.0544963,
+    "latitude": 50.9912354,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

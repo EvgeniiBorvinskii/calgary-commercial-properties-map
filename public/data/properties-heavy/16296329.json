@@ -1,0 +1,37 @@
+{
+  "id": "16296329",
+  "fullDetails": {
+    "licenseNumber": "16296329",
+    "name": "BARBURRITO",
+    "address": "#180 3440 69 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-04-12T09:28:33.000Z",
+    "expiryDate": "2026-04-11T09:28:33.000Z",
+    "coordinates": [
+      -114.1873088,
+      51.0836107
+    ],
+    "longitude": -114.1873088,
+    "latitude": 51.0836107,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

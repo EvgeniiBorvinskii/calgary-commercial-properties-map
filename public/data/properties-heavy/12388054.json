@@ -1,0 +1,37 @@
+{
+  "id": "12388054",
+  "fullDetails": {
+    "licenseNumber": "12388054",
+    "name": "A & W RESTAURANT",
+    "address": "#100 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2005-05-18T08:41:54.000Z",
+    "expiryDate": "2026-05-17T08:41:54.000Z",
+    "coordinates": [
+      -114.0569363,
+      51.1545302
+    ],
+    "longitude": -114.0569363,
+    "latitude": 51.1545302,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

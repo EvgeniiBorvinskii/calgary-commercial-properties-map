@@ -1,0 +1,36 @@
+{
+  "id": "68650",
+  "fullDetails": {
+    "licenseNumber": "68650",
+    "name": "WILLIAM F WHITE INTERNATIONAL",
+    "address": "#50 5750 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2016-03-10T14:36:13.000Z",
+    "expiryDate": "2026-03-09T14:36:13.000Z",
+    "coordinates": [
+      -113.9504571,
+      50.9855689
+    ],
+    "longitude": -113.9504571,
+    "latitude": 50.9855689,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

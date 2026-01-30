@@ -1,0 +1,36 @@
+{
+  "id": "13589072",
+  "fullDetails": {
+    "licenseNumber": "13589072",
+    "name": "RANA TRUCK AND TRAILER REPAIR",
+    "address": "#6 3952 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-11-18T08:36:38.000Z",
+    "expiryDate": "2026-11-17T08:36:38.000Z",
+    "coordinates": [
+      -113.9569624,
+      51.0178773
+    ],
+    "longitude": -113.9569624,
+    "latitude": 51.0178773,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

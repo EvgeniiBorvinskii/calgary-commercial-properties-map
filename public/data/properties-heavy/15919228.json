@@ -1,0 +1,36 @@
+{
+  "id": "15919228",
+  "fullDetails": {
+    "licenseNumber": "15919228",
+    "name": "13TH FLOOR CANNABIS",
+    "address": "#208 8060 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2020-08-04T13:49:52.000Z",
+    "expiryDate": "2026-08-03T13:49:52.000Z",
+    "coordinates": [
+      -114.2056252,
+      51.1160819
+    ],
+    "longitude": -114.2056252,
+    "latitude": 51.1160819,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

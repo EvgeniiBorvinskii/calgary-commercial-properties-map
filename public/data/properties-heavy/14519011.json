@@ -1,0 +1,37 @@
+{
+  "id": "14519011",
+  "fullDetails": {
+    "licenseNumber": "14519011",
+    "name": "MERCEDES-BENZ COUNTRY HILLS",
+    "address": "2450 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-05T13:01:51.000Z",
+    "expiryDate": "2026-07-04T13:01:51.000Z",
+    "coordinates": [
+      -114.0030063,
+      51.1555888
+    ],
+    "longitude": -114.0030063,
+    "latitude": 51.1555888,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

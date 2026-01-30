@@ -1,0 +1,36 @@
+{
+  "id": "13752225",
+  "fullDetails": {
+    "licenseNumber": "13752225",
+    "name": "BOSH MANUFACTURING",
+    "address": "#12 4420 75 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2013-12-31T09:13:16.000Z",
+    "expiryDate": "2025-12-30T09:13:16.000Z",
+    "coordinates": [
+      -113.9720501,
+      50.9875946
+    ],
+    "longitude": -113.9720501,
+    "latitude": 50.9875946,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

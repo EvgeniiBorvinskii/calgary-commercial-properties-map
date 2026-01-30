@@ -1,0 +1,36 @@
+{
+  "id": "12709648",
+  "fullDetails": {
+    "licenseNumber": "12709648",
+    "name": "WQC",
+    "address": "#9 2216 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-04-19T16:18:50.000Z",
+    "expiryDate": "2026-04-18T16:18:50.000Z",
+    "coordinates": [
+      -114.0073069,
+      51.0773742
+    ],
+    "longitude": -114.0073069,
+    "latitude": 51.0773742,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

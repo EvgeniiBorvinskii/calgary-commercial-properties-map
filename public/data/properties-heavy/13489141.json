@@ -1,0 +1,36 @@
+{
+  "id": "13489141",
+  "fullDetails": {
+    "licenseNumber": "13489141",
+    "name": "27 BOUTIQUE",
+    "address": "506 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-26T13:46:23.000Z",
+    "expiryDate": "2026-05-25T13:46:23.000Z",
+    "coordinates": [
+      -114.071987,
+      51.0419108
+    ],
+    "longitude": -114.071987,
+    "latitude": 51.0419108,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

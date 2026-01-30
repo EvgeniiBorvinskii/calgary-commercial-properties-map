@@ -1,0 +1,37 @@
+{
+  "id": "15907884",
+  "fullDetails": {
+    "licenseNumber": "15907884",
+    "name": "CALGARY CANVAS PRINTING",
+    "address": "#1 1303 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-08-27T15:38:30.000Z",
+    "expiryDate": "2026-08-26T15:38:30.000Z",
+    "coordinates": [
+      -114.032893,
+      51.0931318
+    ],
+    "longitude": -114.032893,
+    "latitude": 51.0931318,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

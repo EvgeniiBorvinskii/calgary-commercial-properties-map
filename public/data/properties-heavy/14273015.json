@@ -1,0 +1,36 @@
+{
+  "id": "14273015",
+  "fullDetails": {
+    "licenseNumber": "14273015",
+    "name": "REXALL PHARMACIES #7262",
+    "address": "#2 1032 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-01-07T05:32:49.000Z",
+    "expiryDate": "2027-01-06T05:32:49.000Z",
+    "coordinates": [
+      -114.0859522,
+      51.0380787
+    ],
+    "longitude": -114.0859522,
+    "latitude": 51.0380787,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

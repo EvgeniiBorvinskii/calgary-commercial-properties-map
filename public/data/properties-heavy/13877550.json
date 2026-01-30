@@ -1,0 +1,36 @@
+{
+  "id": "13877550",
+  "fullDetails": {
+    "licenseNumber": "13877550",
+    "name": "TITAN WORLDWIDE (CALGARY)",
+    "address": "3815 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-08-02T05:33:27.000Z",
+    "expiryDate": "2026-08-01T05:33:27.000Z",
+    "coordinates": [
+      -114.0439641,
+      51.0206736
+    ],
+    "longitude": -114.0439641,
+    "latitude": 51.0206736,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13232814",
+  "fullDetails": {
+    "licenseNumber": "13232814",
+    "name": "BAKER HUGHES CANADA COMPANY DBA EVOLUTION ENERGY TECHNOLOGIES",
+    "address": "#2 1460 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-09-10T15:23:37.000Z",
+    "expiryDate": "2026-09-09T15:23:37.000Z",
+    "coordinates": [
+      -113.9912313,
+      51.0640784
+    ],
+    "longitude": -113.9912313,
+    "latitude": 51.0640784,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

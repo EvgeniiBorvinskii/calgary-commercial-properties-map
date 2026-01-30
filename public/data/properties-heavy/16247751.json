@@ -1,0 +1,36 @@
+{
+  "id": "16247751",
+  "fullDetails": {
+    "licenseNumber": "16247751",
+    "name": "LIQUOR DROPS",
+    "address": "2110 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-12-15T08:58:25.000Z",
+    "expiryDate": "2026-12-14T08:58:25.000Z",
+    "coordinates": [
+      -114.0944889,
+      51.0710881
+    ],
+    "longitude": -114.0944889,
+    "latitude": 51.0710881,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16536187",
+  "fullDetails": {
+    "licenseNumber": "16536187",
+    "name": "MCDONALD'S #40408",
+    "address": "222 AVIATION BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-09-18T13:52:16.000Z",
+    "expiryDate": "2026-09-17T13:52:15.000Z",
+    "coordinates": [
+      -114.0320138,
+      51.0965684
+    ],
+    "longitude": -114.0320138,
+    "latitude": 51.0965684,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

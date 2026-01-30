@@ -1,0 +1,36 @@
+{
+  "id": "16436719",
+  "fullDetails": {
+    "licenseNumber": "16436719",
+    "name": "WOODRIDGE FORD LINCOLN COMMERCIAL CENTER",
+    "address": "#A 5324 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-02-06T14:39:53.000Z",
+    "expiryDate": "2027-02-05T14:39:53.000Z",
+    "coordinates": [
+      -114.0532811,
+      51.0065927
+    ],
+    "longitude": -114.0532811,
+    "latitude": 51.0065927,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

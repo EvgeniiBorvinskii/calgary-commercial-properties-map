@@ -1,0 +1,37 @@
+{
+  "id": "15786866",
+  "fullDetails": {
+    "licenseNumber": "15786866",
+    "name": "MASSAGE HEIGHTS",
+    "address": "#198 495 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-06T13:30:02.000Z",
+    "expiryDate": "2026-12-05T13:30:02.000Z",
+    "coordinates": [
+      -113.985315,
+      51.0561808
+    ],
+    "longitude": -113.985315,
+    "latitude": 51.0561808,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

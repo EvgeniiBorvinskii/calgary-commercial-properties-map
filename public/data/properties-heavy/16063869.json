@@ -1,0 +1,36 @@
+{
+  "id": "16063869",
+  "fullDetails": {
+    "licenseNumber": "16063869",
+    "name": "TOTAL TRENCHLESS",
+    "address": "9424 60 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-25T07:57:27.000Z",
+    "expiryDate": "2026-08-24T07:57:27.000Z",
+    "coordinates": [
+      -113.9464577,
+      50.969071
+    ],
+    "longitude": -113.9464577,
+    "latitude": 50.969071,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

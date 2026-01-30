@@ -1,0 +1,37 @@
+{
+  "id": "15938608",
+  "fullDetails": {
+    "licenseNumber": "15938608",
+    "name": "SAVANNA GROCERY & HALAL MEAT STORE",
+    "address": "9052 46 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "PHOTOGRAPHER,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-12-24T08:02:31.000Z",
+    "expiryDate": "2026-12-23T08:02:31.000Z",
+    "coordinates": [
+      -113.9655046,
+      51.134677
+    ],
+    "longitude": -113.9655046,
+    "latitude": 51.134677,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

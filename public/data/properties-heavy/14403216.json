@@ -1,0 +1,37 @@
+{
+  "id": "14403216",
+  "fullDetails": {
+    "licenseNumber": "14403216",
+    "name": "PHO VY VIETNAMESE CUISINE",
+    "address": "#24 13750 BOW BOTTOM TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-01-05T15:27:53.000Z",
+    "expiryDate": "2027-01-04T15:27:53.000Z",
+    "coordinates": [
+      -114.029941,
+      50.9284747
+    ],
+    "longitude": -114.029941,
+    "latitude": 50.9284747,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

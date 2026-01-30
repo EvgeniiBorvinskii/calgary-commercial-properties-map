@@ -1,0 +1,36 @@
+{
+  "id": "12672846",
+  "fullDetails": {
+    "licenseNumber": "12672846",
+    "name": "MCKENZIE TOWNE ANIMAL HOSPITAL",
+    "address": "#620 26 MCKENZIE TOWNE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-29T10:39:41.000Z",
+    "expiryDate": "2026-09-28T10:39:41.000Z",
+    "coordinates": [
+      -113.9619996,
+      50.9156699
+    ],
+    "longitude": -113.9619996,
+    "latitude": 50.9156699,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

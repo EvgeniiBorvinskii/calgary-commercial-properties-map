@@ -1,0 +1,36 @@
+{
+  "id": "16417602",
+  "fullDetails": {
+    "licenseNumber": "16417602",
+    "name": "JULIA'S MAKEUP ARTISTRY",
+    "address": "#2200 800 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MOBILE)",
+    "licenseTypes": "PERSONAL SERVICE (MOBILE)",
+    "status": "pending",
+    "issuedDate": "2024-04-17T14:33:02.000Z",
+    "expiryDate": "2026-04-16T14:33:02.000Z",
+    "coordinates": [
+      -114.0790875,
+      51.049139
+    ],
+    "longitude": -114.0790875,
+    "latitude": 51.049139,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

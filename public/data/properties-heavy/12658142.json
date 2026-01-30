@@ -1,0 +1,36 @@
+{
+  "id": "12658142",
+  "fullDetails": {
+    "licenseNumber": "12658142",
+    "name": "DIAMOND HARD SOLUTIONS",
+    "address": "#55 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-03-01T15:47:11.000Z",
+    "expiryDate": "2026-02-28T15:47:10.000Z",
+    "coordinates": [
+      -114.0405265,
+      51.104824
+    ],
+    "longitude": -114.0405265,
+    "latitude": 51.104824,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

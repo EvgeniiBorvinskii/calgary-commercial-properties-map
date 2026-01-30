@@ -1,0 +1,37 @@
+{
+  "id": "15914302",
+  "fullDetails": {
+    "licenseNumber": "15914302",
+    "name": "DUER",
+    "address": "1708 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-07-29T09:00:18.000Z",
+    "expiryDate": "2026-07-28T09:00:18.000Z",
+    "coordinates": [
+      -114.0711023,
+      51.0376334
+    ],
+    "longitude": -114.0711023,
+    "latitude": 51.0376334,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

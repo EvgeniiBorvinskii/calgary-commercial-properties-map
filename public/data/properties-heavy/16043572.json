@@ -1,0 +1,37 @@
+{
+  "id": "16043572",
+  "fullDetails": {
+    "licenseNumber": "16043572",
+    "name": "NAZARI AUTO REPAIR",
+    "address": "2416 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-08-18T14:52:46.000Z",
+    "expiryDate": "2026-08-17T14:52:46.000Z",
+    "coordinates": [
+      -114.0037686,
+      51.0740744
+    ],
+    "longitude": -114.0037686,
+    "latitude": 51.0740744,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

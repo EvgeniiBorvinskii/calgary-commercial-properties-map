@@ -1,0 +1,36 @@
+{
+  "id": "16358236",
+  "fullDetails": {
+    "licenseNumber": "16358236",
+    "name": "REDSTONE LIQUOR YYC",
+    "address": "#155 630 REDSTONE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-08-04T10:42:31.000Z",
+    "expiryDate": "2026-08-03T10:42:31.000Z",
+    "coordinates": [
+      -113.9506601,
+      51.1686219
+    ],
+    "longitude": -113.9506601,
+    "latitude": 51.1686219,
+    "community": "REDSTONE",
+    "ward": "RSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15909237",
+  "fullDetails": {
+    "licenseNumber": "15909237",
+    "name": "SACRED GOAT TATTOO STUDIO",
+    "address": "#307 815 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2020-06-30T13:34:44.000Z",
+    "expiryDate": "2026-06-29T13:34:44.000Z",
+    "coordinates": [
+      -114.0657924,
+      51.0449478
+    ],
+    "longitude": -114.0657924,
+    "latitude": 51.0449478,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

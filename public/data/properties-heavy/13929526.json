@@ -1,0 +1,37 @@
+{
+  "id": "13929526",
+  "fullDetails": {
+    "licenseNumber": "13929526",
+    "name": "C & L CABINETS",
+    "address": "2120 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-06-30T11:18:32.000Z",
+    "expiryDate": "2026-06-29T11:18:32.000Z",
+    "coordinates": [
+      -114.0091614,
+      51.0887452
+    ],
+    "longitude": -114.0091614,
+    "latitude": 51.0887452,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

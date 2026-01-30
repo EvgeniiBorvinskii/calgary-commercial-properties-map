@@ -1,0 +1,37 @@
+{
+  "id": "14302905",
+  "fullDetails": {
+    "licenseNumber": "14302905",
+    "name": "SCULPT AESTHETICS",
+    "address": "#112 10333 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-03-10T15:06:27.000Z",
+    "expiryDate": "2026-03-09T15:06:27.000Z",
+    "coordinates": [
+      -114.0734676,
+      50.9626824
+    ],
+    "longitude": -114.0734676,
+    "latitude": 50.9626824,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

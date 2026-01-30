@@ -1,0 +1,36 @@
+{
+  "id": "16533671",
+  "fullDetails": {
+    "licenseNumber": "16533671",
+    "name": "CRICKLE CREEK COFFEE ROASTERS",
+    "address": "6550 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-17T10:12:52.000Z",
+    "expiryDate": "2026-10-16T10:12:52.000Z",
+    "coordinates": [
+      -114.0595191,
+      50.9946144
+    ],
+    "longitude": -114.0595191,
+    "latitude": 50.9946144,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

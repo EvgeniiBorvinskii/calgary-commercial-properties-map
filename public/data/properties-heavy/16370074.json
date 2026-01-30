@@ -1,0 +1,37 @@
+{
+  "id": "16370074",
+  "fullDetails": {
+    "licenseNumber": "16370074",
+    "name": "VAPORTRAIL VAPES, SMOKES & CIGARS",
+    "address": "#A 1712 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-09-25T11:58:19.000Z",
+    "expiryDate": "2026-09-24T11:58:19.000Z",
+    "coordinates": [
+      -114.0554442,
+      51.0671648
+    ],
+    "longitude": -114.0554442,
+    "latitude": 51.0671648,
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "ward": "WIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

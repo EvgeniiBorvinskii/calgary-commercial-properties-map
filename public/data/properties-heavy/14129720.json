@@ -1,0 +1,36 @@
+{
+  "id": "14129720",
+  "fullDetails": {
+    "licenseNumber": "14129720",
+    "name": "RIVERBEND HARDWARE & MORE",
+    "address": "#330 8338 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-03-16T15:40:15.000Z",
+    "expiryDate": "2026-03-15T15:40:15.000Z",
+    "coordinates": [
+      -114.0132463,
+      50.9772508
+    ],
+    "longitude": -114.0132463,
+    "latitude": 50.9772508,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

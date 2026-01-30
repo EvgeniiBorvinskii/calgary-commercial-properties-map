@@ -1,0 +1,36 @@
+{
+  "id": "330134",
+  "fullDetails": {
+    "licenseNumber": "330134",
+    "name": "ORKIN CANADA",
+    "address": "#4 1440 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-01-31T09:34:32.000Z",
+    "expiryDate": "2027-01-30T09:34:32.000Z",
+    "coordinates": [
+      -113.9919301,
+      51.0639163
+    ],
+    "longitude": -113.9919301,
+    "latitude": 51.0639163,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

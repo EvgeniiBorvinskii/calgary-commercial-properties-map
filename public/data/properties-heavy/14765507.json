@@ -1,0 +1,37 @@
+{
+  "id": "14765507",
+  "fullDetails": {
+    "licenseNumber": "14765507",
+    "name": "KEN'S WELDING & MECHANICAL",
+    "address": "#P 1003 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2018-02-05T12:13:12.000Z",
+    "expiryDate": "2026-02-04T12:13:12.000Z",
+    "coordinates": [
+      -114.0402918,
+      51.1011919
+    ],
+    "longitude": -114.0402918,
+    "latitude": 51.1011919,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

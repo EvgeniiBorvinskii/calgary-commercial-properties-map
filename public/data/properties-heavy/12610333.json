@@ -1,0 +1,36 @@
+{
+  "id": "12610333",
+  "fullDetails": {
+    "licenseNumber": "12610333",
+    "name": "ADVANCED COATINGS",
+    "address": "2474 91 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-08-18T10:44:40.000Z",
+    "expiryDate": "2026-08-17T10:44:40.000Z",
+    "coordinates": [
+      -114.0026007,
+      50.9717677
+    ],
+    "longitude": -114.0026007,
+    "latitude": 50.9717677,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

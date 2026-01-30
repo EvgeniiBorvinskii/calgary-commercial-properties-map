@@ -1,0 +1,36 @@
+{
+  "id": "495929",
+  "fullDetails": {
+    "licenseNumber": "495929",
+    "name": "SECURITAS CANADA*",
+    "address": "#202 12 MANNING CL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2017-05-03T11:45:38.000Z",
+    "expiryDate": "2026-05-02T11:45:38.000Z",
+    "coordinates": [
+      -114.0175786,
+      51.0553403
+    ],
+    "longitude": -114.0175786,
+    "latitude": 51.0553403,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

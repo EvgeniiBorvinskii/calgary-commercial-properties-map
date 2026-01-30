@@ -1,0 +1,37 @@
+{
+  "id": "12169157",
+  "fullDetails": {
+    "licenseNumber": "12169157",
+    "name": "ROCK-TOPS",
+    "address": "#106 4208 16A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-08-15T05:33:33.000Z",
+    "expiryDate": "2026-08-14T05:33:33.000Z",
+    "coordinates": [
+      -114.0202633,
+      51.0165536
+    ],
+    "longitude": -114.0202633,
+    "latitude": 51.0165536,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

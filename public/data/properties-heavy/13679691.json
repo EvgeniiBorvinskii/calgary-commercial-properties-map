@@ -1,0 +1,36 @@
+{
+  "id": "13679691",
+  "fullDetails": {
+    "licenseNumber": "13679691",
+    "name": "LTS BUILD SERVICES",
+    "address": "6415 10 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-04-05T08:58:31.000Z",
+    "expiryDate": "2026-04-04T08:58:31.000Z",
+    "coordinates": [
+      -114.0420919,
+      50.9962785
+    ],
+    "longitude": -114.0420919,
+    "latitude": 50.9962785,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

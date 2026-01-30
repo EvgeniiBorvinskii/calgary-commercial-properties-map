@@ -1,0 +1,36 @@
+{
+  "id": "16660813",
+  "fullDetails": {
+    "licenseNumber": "16660813",
+    "name": "BLOOM REJUVENATION",
+    "address": "#529 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-11-12T08:39:20.000Z",
+    "expiryDate": "2026-11-11T08:39:19.000Z",
+    "coordinates": [
+      -114.1680855,
+      51.036364
+    ],
+    "longitude": -114.1680855,
+    "latitude": 51.036364,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

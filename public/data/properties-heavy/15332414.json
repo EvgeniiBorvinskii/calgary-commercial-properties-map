@@ -1,0 +1,36 @@
+{
+  "id": "15332414",
+  "fullDetails": {
+    "licenseNumber": "15332414",
+    "name": "WENDY'S",
+    "address": "#10 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2019-02-28T11:43:41.000Z",
+    "expiryDate": "2026-02-28T11:43:40.000Z",
+    "coordinates": [
+      -113.9720771,
+      50.931205
+    ],
+    "longitude": -113.9720771,
+    "latitude": 50.931205,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

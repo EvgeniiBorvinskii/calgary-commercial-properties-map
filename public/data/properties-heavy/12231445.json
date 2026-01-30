@@ -1,0 +1,36 @@
+{
+  "id": "12231445",
+  "fullDetails": {
+    "licenseNumber": "12231445",
+    "name": "INTEGRITY SIGNS",
+    "address": "#10 5555 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-07-28T11:18:29.000Z",
+    "expiryDate": "2026-07-27T11:18:29.000Z",
+    "coordinates": [
+      -113.9517304,
+      51.0074388
+    ],
+    "longitude": -113.9517304,
+    "latitude": 51.0074388,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

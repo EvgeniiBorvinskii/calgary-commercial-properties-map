@@ -1,0 +1,36 @@
+{
+  "id": "2576",
+  "fullDetails": {
+    "licenseNumber": "2576",
+    "name": "DELIZIA'S PASTA",
+    "address": "#14 5610 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-05-26T11:54:17.000Z",
+    "expiryDate": "2026-05-25T11:54:17.000Z",
+    "coordinates": [
+      -113.9668017,
+      51.0024281
+    ],
+    "longitude": -113.9668017,
+    "latitude": 51.0024281,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15967987",
+  "fullDetails": {
+    "licenseNumber": "15967987",
+    "name": "GRACIE BARRA CALGARY",
+    "address": "#10 8989 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-05-21T08:42:37.000Z",
+    "expiryDate": "2026-05-20T08:42:37.000Z",
+    "coordinates": [
+      -114.072591,
+      50.9734378
+    ],
+    "longitude": -114.072591,
+    "latitude": 50.9734378,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

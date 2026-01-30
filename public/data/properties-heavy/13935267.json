@@ -1,0 +1,36 @@
+{
+  "id": "13935267",
+  "fullDetails": {
+    "licenseNumber": "13935267",
+    "name": "SHAWNESSY NAILS TIME SPA",
+    "address": "#140 70 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2018-06-20T11:25:09.000Z",
+    "expiryDate": "2026-04-13T00:00:00.000Z",
+    "coordinates": [
+      -114.0657021,
+      50.9065661
+    ],
+    "longitude": -114.0657021,
+    "latitude": 50.9065661,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

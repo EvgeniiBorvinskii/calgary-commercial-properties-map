@@ -1,0 +1,37 @@
+{
+  "id": "14821458",
+  "fullDetails": {
+    "licenseNumber": "14821458",
+    "name": "LOCAL LAUNDRY",
+    "address": "#130 1212 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-08-08T10:34:00.000Z",
+    "expiryDate": "2026-08-07T10:33:59.000Z",
+    "coordinates": [
+      -114.0369842,
+      51.0237488
+    ],
+    "longitude": -114.0369842,
+    "latitude": 51.0237488,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16463879",
+  "fullDetails": {
+    "licenseNumber": "16463879",
+    "name": "GENIUS MASTERS",
+    "address": "#1227 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-13T09:51:28.000Z",
+    "expiryDate": "2026-06-12T09:51:28.000Z",
+    "coordinates": [
+      -113.980077,
+      51.1512253
+    ],
+    "longitude": -113.980077,
+    "latitude": 51.1512253,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14642847",
+  "fullDetails": {
+    "licenseNumber": "14642847",
+    "name": "NUVO CABINETS & STONES",
+    "address": "1816A 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-07-09T12:55:39.000Z",
+    "expiryDate": "2026-07-08T12:55:38.000Z",
+    "coordinates": [
+      -114.0161784,
+      51.0754851
+    ],
+    "longitude": -114.0161784,
+    "latitude": 51.0754851,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

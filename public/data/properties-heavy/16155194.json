@@ -1,0 +1,37 @@
+{
+  "id": "16155194",
+  "fullDetails": {
+    "licenseNumber": "16155194",
+    "name": "RAW",
+    "address": "#150 615 6 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-09T05:33:21.000Z",
+    "expiryDate": "2026-03-08T05:33:20.000Z",
+    "coordinates": [
+      -114.0500296,
+      51.046573
+    ],
+    "longitude": -114.0500296,
+    "latitude": 51.046573,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

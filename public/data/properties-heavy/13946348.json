@@ -1,0 +1,36 @@
+{
+  "id": "13946348",
+  "fullDetails": {
+    "licenseNumber": "13946348",
+    "name": "CPR GROUP",
+    "address": "#6 6115 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-08-21T12:06:42.000Z",
+    "expiryDate": "2026-08-20T12:06:42.000Z",
+    "coordinates": [
+      -114.0544276,
+      50.9983568
+    ],
+    "longitude": -114.0544276,
+    "latitude": 50.9983568,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

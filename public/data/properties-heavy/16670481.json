@@ -1,0 +1,36 @@
+{
+  "id": "16670481",
+  "fullDetails": {
+    "licenseNumber": "16670481",
+    "name": "MR AND MRS BEARS 312",
+    "address": "#3130 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-03T09:23:33.000Z",
+    "expiryDate": "2026-11-02T09:23:33.000Z",
+    "coordinates": [
+      -113.9720164,
+      51.1483401
+    ],
+    "longitude": -113.9720164,
+    "latitude": 51.1483401,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

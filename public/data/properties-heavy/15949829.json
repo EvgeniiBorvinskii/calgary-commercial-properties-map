@@ -1,0 +1,36 @@
+{
+  "id": "15949829",
+  "fullDetails": {
+    "licenseNumber": "15949829",
+    "name": "OLIVE BRANCH SKIN THERAPY",
+    "address": "2911 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-01-12T15:25:40.000Z",
+    "expiryDate": "2027-01-11T15:25:40.000Z",
+    "coordinates": [
+      -114.1283404,
+      51.0255235
+    ],
+    "longitude": -114.1283404,
+    "latitude": 51.0255235,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

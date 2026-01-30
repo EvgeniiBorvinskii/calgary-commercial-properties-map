@@ -1,0 +1,37 @@
+{
+  "id": "16084790",
+  "fullDetails": {
+    "licenseNumber": "16084790",
+    "name": "CINEPLEX CINEMAS UNIVERSITY DISTRICT VIP",
+    "address": "#250 3953 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CINEMA",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CINEMA,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-11-08T15:21:26.000Z",
+    "expiryDate": "2026-11-07T15:21:26.000Z",
+    "coordinates": [
+      -114.1439494,
+      51.0781221
+    ],
+    "longitude": -114.1439494,
+    "latitude": 51.0781221,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

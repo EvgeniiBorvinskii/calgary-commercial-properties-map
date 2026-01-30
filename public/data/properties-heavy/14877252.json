@@ -1,0 +1,37 @@
+{
+  "id": "14877252",
+  "fullDetails": {
+    "licenseNumber": "14877252",
+    "name": "BUFFO RISTORANTE",
+    "address": "#2Y 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-05-02T12:30:53.000Z",
+    "expiryDate": "2026-05-01T12:30:53.000Z",
+    "coordinates": [
+      -114.0748737,
+      50.9992111
+    ],
+    "longitude": -114.0748737,
+    "latitude": 50.9992111,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

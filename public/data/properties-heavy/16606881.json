@@ -1,0 +1,36 @@
+{
+  "id": "16606881",
+  "fullDetails": {
+    "licenseNumber": "16606881",
+    "name": "PEACH BEAUTY STUDIO",
+    "address": "#101 723 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-05-07T16:17:03.000Z",
+    "expiryDate": "2026-05-06T16:17:02.000Z",
+    "coordinates": [
+      -114.0951146,
+      51.0584508
+    ],
+    "longitude": -114.0951146,
+    "latitude": 51.0584508,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

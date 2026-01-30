@@ -1,0 +1,36 @@
+{
+  "id": "15884976",
+  "fullDetails": {
+    "licenseNumber": "15884976",
+    "name": "CALAN BEEF NOODLE",
+    "address": "#109 683 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-08-11T11:35:12.000Z",
+    "expiryDate": "2026-08-10T11:35:12.000Z",
+    "coordinates": [
+      -114.0863539,
+      51.0473252
+    ],
+    "longitude": -114.0863539,
+    "latitude": 51.0473252,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

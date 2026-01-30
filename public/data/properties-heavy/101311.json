@@ -1,0 +1,36 @@
+{
+  "id": "101311",
+  "fullDetails": {
+    "licenseNumber": "101311",
+    "name": "CREATIONS BY CASABLANCA",
+    "address": "#3 6626 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-05-29T05:36:38.000Z",
+    "expiryDate": "2026-05-28T05:36:38.000Z",
+    "coordinates": [
+      -114.0633091,
+      50.9945148
+    ],
+    "longitude": -114.0633091,
+    "latitude": 50.9945148,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

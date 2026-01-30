@@ -1,0 +1,36 @@
+{
+  "id": "14899017",
+  "fullDetails": {
+    "licenseNumber": "14899017",
+    "name": "LITTLE CAESARS",
+    "address": "#112 1625 210 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-07-30T10:36:20.000Z",
+    "expiryDate": "2026-07-29T10:36:20.000Z",
+    "coordinates": [
+      -114.025378,
+      50.8635578
+    ],
+    "longitude": -114.025378,
+    "latitude": 50.8635578,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

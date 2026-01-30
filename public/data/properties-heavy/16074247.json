@@ -1,0 +1,37 @@
+{
+  "id": "16074247",
+  "fullDetails": {
+    "licenseNumber": "16074247",
+    "name": "CLOUD-420",
+    "address": "#124 11125 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-08-25T11:52:54.000Z",
+    "expiryDate": "2026-08-24T11:52:54.000Z",
+    "coordinates": [
+      -113.9785878,
+      51.152677
+    ],
+    "longitude": -113.9785878,
+    "latitude": 51.152677,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

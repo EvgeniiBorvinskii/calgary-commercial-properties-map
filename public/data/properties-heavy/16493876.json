@@ -1,0 +1,36 @@
+{
+  "id": "16493876",
+  "fullDetails": {
+    "licenseNumber": "16493876",
+    "name": "SOLOKAFF EXPRESS",
+    "address": "3821 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-15T15:56:40.000Z",
+    "expiryDate": "2026-08-14T15:56:40.000Z",
+    "coordinates": [
+      -114.0322638,
+      51.0864338
+    ],
+    "longitude": -114.0322638,
+    "latitude": 51.0864338,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

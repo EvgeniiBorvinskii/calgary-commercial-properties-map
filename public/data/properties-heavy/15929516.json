@@ -1,0 +1,36 @@
+{
+  "id": "15929516",
+  "fullDetails": {
+    "licenseNumber": "15929516",
+    "name": "BRILLIANT BEST FRIENDS",
+    "address": "1213 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2021-08-02T18:16:17.000Z",
+    "expiryDate": "2026-08-01T18:16:17.000Z",
+    "coordinates": [
+      -114.0895727,
+      51.0523321
+    ],
+    "longitude": -114.0895727,
+    "latitude": 51.0523321,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12289328",
+  "fullDetails": {
+    "licenseNumber": "12289328",
+    "name": "CASCADIA METALS",
+    "address": "5535 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2014-10-17T14:08:20.000Z",
+    "expiryDate": "2025-10-16T14:08:20.000Z",
+    "coordinates": [
+      -113.9519942,
+      51.0047104
+    ],
+    "longitude": -113.9519942,
+    "latitude": 51.0047104,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

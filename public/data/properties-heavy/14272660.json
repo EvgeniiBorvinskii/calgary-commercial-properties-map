@@ -1,0 +1,37 @@
+{
+  "id": "14272660",
+  "fullDetails": {
+    "licenseNumber": "14272660",
+    "name": "REXALL PHARMACIES #7282",
+    "address": "#14 11625 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-01-07T05:32:45.000Z",
+    "expiryDate": "2027-01-06T05:32:45.000Z",
+    "coordinates": [
+      -114.0861694,
+      50.9492502
+    ],
+    "longitude": -114.0861694,
+    "latitude": 50.9492502,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

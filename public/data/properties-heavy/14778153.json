@@ -1,0 +1,37 @@
+{
+  "id": "14778153",
+  "fullDetails": {
+    "licenseNumber": "14778153",
+    "name": "BARRE WEST",
+    "address": "#420 7337 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-02T08:45:50.000Z",
+    "expiryDate": "2026-03-01T08:45:50.000Z",
+    "coordinates": [
+      -114.0727332,
+      50.9880486
+    ],
+    "longitude": -114.0727332,
+    "latitude": 50.9880486,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

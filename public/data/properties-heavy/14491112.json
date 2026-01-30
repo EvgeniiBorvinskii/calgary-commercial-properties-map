@@ -1,0 +1,36 @@
+{
+  "id": "14491112",
+  "fullDetails": {
+    "licenseNumber": "14491112",
+    "name": "S&S BOLTON",
+    "address": "#1A 1112 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-06-26T14:45:22.000Z",
+    "expiryDate": "2026-06-25T14:45:22.000Z",
+    "coordinates": [
+      -114.0363008,
+      51.0893122
+    ],
+    "longitude": -114.0363008,
+    "latitude": 51.0893122,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

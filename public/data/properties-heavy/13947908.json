@@ -1,0 +1,37 @@
+{
+  "id": "13947908",
+  "fullDetails": {
+    "licenseNumber": "13947908",
+    "name": "SUCRE BODY SUGARING BOUTIQUE",
+    "address": "339 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "PERSONAL SERVICE,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-05-12T05:33:40.000Z",
+    "expiryDate": "2026-05-11T05:33:40.000Z",
+    "coordinates": [
+      -114.0706896,
+      51.0376733
+    ],
+    "longitude": -114.0706896,
+    "latitude": 51.0376733,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

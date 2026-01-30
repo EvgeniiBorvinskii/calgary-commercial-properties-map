@@ -1,0 +1,36 @@
+{
+  "id": "385187",
+  "fullDetails": {
+    "licenseNumber": "385187",
+    "name": "KIMPEX",
+    "address": "#147 2760 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-09-13T05:34:11.000Z",
+    "expiryDate": "2026-09-12T05:34:11.000Z",
+    "coordinates": [
+      -113.9944692,
+      51.0140896
+    ],
+    "longitude": -113.9944692,
+    "latitude": 51.0140896,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

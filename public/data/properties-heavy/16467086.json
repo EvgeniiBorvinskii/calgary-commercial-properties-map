@@ -1,0 +1,36 @@
+{
+  "id": "16467086",
+  "fullDetails": {
+    "licenseNumber": "16467086",
+    "name": "PRAIRIE DONAIR",
+    "address": "#111 14919 DEER RIDGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-10T11:09:41.000Z",
+    "expiryDate": "2026-04-09T11:09:41.000Z",
+    "coordinates": [
+      -114.0251883,
+      50.929998
+    ],
+    "longitude": -114.0251883,
+    "latitude": 50.929998,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

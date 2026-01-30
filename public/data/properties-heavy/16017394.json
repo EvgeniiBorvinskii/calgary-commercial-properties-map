@@ -1,0 +1,36 @@
+{
+  "id": "16017394",
+  "fullDetails": {
+    "licenseNumber": "16017394",
+    "name": "AVISON YOUNG (CANADA)",
+    "address": "#4300 525 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-18T07:50:37.000Z",
+    "expiryDate": "2026-05-17T07:50:36.000Z",
+    "coordinates": [
+      -114.0722574,
+      51.0453324
+    ],
+    "longitude": -114.0722574,
+    "latitude": 51.0453324,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

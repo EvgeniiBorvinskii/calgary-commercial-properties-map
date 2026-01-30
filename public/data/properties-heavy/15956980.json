@@ -1,0 +1,36 @@
+{
+  "id": "15956980",
+  "fullDetails": {
+    "licenseNumber": "15956980",
+    "name": "GRAMSTERDAM",
+    "address": "#14 5700 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-08-20T07:31:28.000Z",
+    "expiryDate": "2026-08-19T07:31:28.000Z",
+    "coordinates": [
+      -113.9546482,
+      51.0987594
+    ],
+    "longitude": -113.9546482,
+    "latitude": 51.0987594,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

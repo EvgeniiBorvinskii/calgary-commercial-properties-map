@@ -1,0 +1,37 @@
+{
+  "id": "15217417",
+  "fullDetails": {
+    "licenseNumber": "15217417",
+    "name": "CLASSIFIED YYC",
+    "address": "#3 1305 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-04-02T12:03:18.000Z",
+    "expiryDate": "2026-04-01T12:03:18.000Z",
+    "coordinates": [
+      -113.9868119,
+      51.0636459
+    ],
+    "longitude": -113.9868119,
+    "latitude": 51.0636459,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

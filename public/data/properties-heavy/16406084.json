@@ -1,0 +1,36 @@
+{
+  "id": "16406084",
+  "fullDetails": {
+    "licenseNumber": "16406084",
+    "name": "SUPER 8 MACLEOD TRAIL",
+    "address": "7505 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "pending",
+    "issuedDate": "2024-03-16T05:33:33.000Z",
+    "expiryDate": "2026-03-15T05:33:33.000Z",
+    "coordinates": [
+      -114.0725428,
+      50.9867662
+    ],
+    "longitude": -114.0725428,
+    "latitude": 50.9867662,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

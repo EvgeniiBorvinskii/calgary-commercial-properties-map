@@ -1,0 +1,36 @@
+{
+  "id": "14889109",
+  "fullDetails": {
+    "licenseNumber": "14889109",
+    "name": "HUB CALGARY (THE)",
+    "address": "2416 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-01-04T12:12:53.000Z",
+    "expiryDate": "2027-01-03T12:12:53.000Z",
+    "coordinates": [
+      -114.1159583,
+      51.0677557
+    ],
+    "longitude": -114.1159583,
+    "latitude": 51.0677557,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

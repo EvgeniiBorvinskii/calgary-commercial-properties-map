@@ -1,0 +1,36 @@
+{
+  "id": "13793575",
+  "fullDetails": {
+    "licenseNumber": "13793575",
+    "name": "GREAT MINDS ACADEMY",
+    "address": "#1222 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-02-25T16:55:22.000Z",
+    "expiryDate": "2026-02-24T16:55:21.000Z",
+    "coordinates": [
+      -114.2067203,
+      51.1527903
+    ],
+    "longitude": -114.2067203,
+    "latitude": 51.1527903,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12924742",
+  "fullDetails": {
+    "licenseNumber": "12924742",
+    "name": "SPECIALTY WOOD VENEERS",
+    "address": "5520 53 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-10-24T13:58:31.000Z",
+    "expiryDate": "2026-10-23T13:58:30.000Z",
+    "coordinates": [
+      -113.9561561,
+      51.003053
+    ],
+    "longitude": -113.9561561,
+    "latitude": 51.003053,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

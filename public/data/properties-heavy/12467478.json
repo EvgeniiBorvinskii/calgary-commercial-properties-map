@@ -1,0 +1,36 @@
+{
+  "id": "12467478",
+  "fullDetails": {
+    "licenseNumber": "12467478",
+    "name": "CALGARY & BOW RIVER CHEM-DRY",
+    "address": "#106 2719 7 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2010-09-23T06:30:08.000Z",
+    "expiryDate": "2026-09-22T06:30:08.000Z",
+    "coordinates": [
+      -113.995488,
+      51.058003
+    ],
+    "longitude": -113.995488,
+    "latitude": 51.058003,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

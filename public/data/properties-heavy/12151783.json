@@ -1,0 +1,36 @@
+{
+  "id": "12151783",
+  "fullDetails": {
+    "licenseNumber": "12151783",
+    "name": "ROSEDALE SHEET  METAL (2002)",
+    "address": "#101 2610 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-04-29T15:07:12.000Z",
+    "expiryDate": "2026-04-28T15:07:12.000Z",
+    "coordinates": [
+      -113.9979083,
+      51.0548514
+    ],
+    "longitude": -113.9979083,
+    "latitude": 51.0548514,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

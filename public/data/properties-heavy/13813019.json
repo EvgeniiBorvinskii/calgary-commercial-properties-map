@@ -1,0 +1,36 @@
+{
+  "id": "13813019",
+  "fullDetails": {
+    "licenseNumber": "13813019",
+    "name": "HORTON HILLTOP",
+    "address": "203 6 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2014-06-26T05:33:23.000Z",
+    "expiryDate": "2026-06-25T05:33:23.000Z",
+    "coordinates": [
+      -114.0597853,
+      51.0577128
+    ],
+    "longitude": -114.0597853,
+    "latitude": 51.0577128,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

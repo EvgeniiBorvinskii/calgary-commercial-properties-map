@@ -1,0 +1,36 @@
+{
+  "id": "14249494",
+  "fullDetails": {
+    "licenseNumber": "14249494",
+    "name": "FOLLICARE",
+    "address": "21 CROWFOOT RI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2020-08-04T12:50:26.000Z",
+    "expiryDate": "2026-08-03T12:50:26.000Z",
+    "coordinates": [
+      -114.2111852,
+      51.125806
+    ],
+    "longitude": -114.2111852,
+    "latitude": 51.125806,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

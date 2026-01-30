@@ -1,0 +1,36 @@
+{
+  "id": "16002875",
+  "fullDetails": {
+    "licenseNumber": "16002875",
+    "name": "WESTERN FORTUNE EMPORIUM",
+    "address": "#9 132 3 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-22T15:11:54.000Z",
+    "expiryDate": "2026-04-21T15:11:54.000Z",
+    "coordinates": [
+      -114.060847,
+      51.0506081
+    ],
+    "longitude": -114.060847,
+    "latitude": 51.0506081,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

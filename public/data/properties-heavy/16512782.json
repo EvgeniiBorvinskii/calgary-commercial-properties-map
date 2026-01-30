@@ -1,0 +1,36 @@
+{
+  "id": "16512782",
+  "fullDetails": {
+    "licenseNumber": "16512782",
+    "name": "SUPREME BARBERSHOP (THE)",
+    "address": "#160 750 NOLAN HILL BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-07-03T08:58:59.000Z",
+    "expiryDate": "2026-07-02T08:58:59.000Z",
+    "coordinates": [
+      -114.1698089,
+      51.1796982
+    ],
+    "longitude": -114.1698089,
+    "latitude": 51.1796982,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

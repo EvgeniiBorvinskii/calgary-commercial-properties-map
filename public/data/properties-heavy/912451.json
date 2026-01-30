@@ -1,0 +1,36 @@
+{
+  "id": "912451",
+  "fullDetails": {
+    "licenseNumber": "912451",
+    "name": "CONTROL INNOVATIONS",
+    "address": "11222 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-06-28T08:10:55.000Z",
+    "expiryDate": "2026-06-27T08:10:55.000Z",
+    "coordinates": [
+      -113.9745177,
+      50.9530808
+    ],
+    "longitude": -113.9745177,
+    "latitude": 50.9530808,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

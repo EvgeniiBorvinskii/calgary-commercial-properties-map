@@ -1,0 +1,36 @@
+{
+  "id": "15286214",
+  "fullDetails": {
+    "licenseNumber": "15286214",
+    "name": "FOXCANADA",
+    "address": "#127 6227 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "pending",
+    "issuedDate": "2019-03-19T15:57:03.000Z",
+    "expiryDate": "2026-03-18T15:57:03.000Z",
+    "coordinates": [
+      -114.0605084,
+      50.9956364
+    ],
+    "longitude": -114.0605084,
+    "latitude": 50.9956364,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

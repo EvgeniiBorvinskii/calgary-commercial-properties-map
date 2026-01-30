@@ -1,0 +1,37 @@
+{
+  "id": "14640841",
+  "fullDetails": {
+    "licenseNumber": "14640841",
+    "name": "WINNERS",
+    "address": "#1666 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-21T10:44:21.000Z",
+    "expiryDate": "2026-09-20T10:44:21.000Z",
+    "coordinates": [
+      -114.1003561,
+      51.0662757
+    ],
+    "longitude": -114.1003561,
+    "latitude": 51.0662757,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

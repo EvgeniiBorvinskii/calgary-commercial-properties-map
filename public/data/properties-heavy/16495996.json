@@ -1,0 +1,36 @@
+{
+  "id": "16495996",
+  "fullDetails": {
+    "licenseNumber": "16495996",
+    "name": "RICHFIT CANADA",
+    "address": "#2700 707 5 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-07-29T11:37:54.000Z",
+    "expiryDate": "2026-07-28T11:37:53.000Z",
+    "coordinates": [
+      -114.0746956,
+      51.0465088
+    ],
+    "longitude": -114.0746956,
+    "latitude": 51.0465088,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

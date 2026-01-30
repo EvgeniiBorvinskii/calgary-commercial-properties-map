@@ -1,0 +1,37 @@
+{
+  "id": "16353500",
+  "fullDetails": {
+    "licenseNumber": "16353500",
+    "name": "THE UNICORN ON 4",
+    "address": "1919 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2023-08-30T09:46:10.000Z",
+    "expiryDate": "2026-08-29T09:46:10.000Z",
+    "coordinates": [
+      -114.0719985,
+      51.0353642
+    ],
+    "longitude": -114.0719985,
+    "latitude": 51.0353642,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

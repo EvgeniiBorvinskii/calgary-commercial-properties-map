@@ -1,0 +1,36 @@
+{
+  "id": "923318",
+  "fullDetails": {
+    "licenseNumber": "923318",
+    "name": "INNOVA POWER SOLUTIONS",
+    "address": "#8 6025 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-01-30T09:19:57.000Z",
+    "expiryDate": "2027-01-29T09:19:57.000Z",
+    "coordinates": [
+      -114.0355413,
+      50.9988204
+    ],
+    "longitude": -114.0355413,
+    "latitude": 50.9988204,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

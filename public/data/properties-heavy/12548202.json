@@ -1,0 +1,36 @@
+{
+  "id": "12548202",
+  "fullDetails": {
+    "licenseNumber": "12548202",
+    "name": "PEARLE VISION #5859",
+    "address": "#145 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-05-25T05:37:15.000Z",
+    "expiryDate": "2026-05-24T05:37:14.000Z",
+    "coordinates": [
+      -114.0738072,
+      51.0000509
+    ],
+    "longitude": -114.0738072,
+    "latitude": 51.0000509,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

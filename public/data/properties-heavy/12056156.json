@@ -1,0 +1,36 @@
+{
+  "id": "12056156",
+  "fullDetails": {
+    "licenseNumber": "12056156",
+    "name": "TIM HORTONS #2103",
+    "address": "2681 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2002-06-11T17:09:18.000Z",
+    "expiryDate": "2026-06-10T09:23:41.000Z",
+    "coordinates": [
+      -114.0007863,
+      51.0725694
+    ],
+    "longitude": -114.0007863,
+    "latitude": 51.0725694,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

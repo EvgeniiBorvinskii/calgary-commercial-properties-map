@@ -1,0 +1,37 @@
+{
+  "id": "16466237",
+  "fullDetails": {
+    "licenseNumber": "16466237",
+    "name": "SHELL CANADA PRODUCTS",
+    "address": "5301 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-05-08T11:47:59.000Z",
+    "expiryDate": "2026-05-07T11:47:59.000Z",
+    "coordinates": [
+      -113.9576676,
+      51.0712797
+    ],
+    "longitude": -113.9576676,
+    "latitude": 51.0712797,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

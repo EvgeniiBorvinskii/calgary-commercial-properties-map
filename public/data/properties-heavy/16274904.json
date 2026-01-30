@@ -1,0 +1,36 @@
+{
+  "id": "16274904",
+  "fullDetails": {
+    "licenseNumber": "16274904",
+    "name": "APARTMENT BUILDING",
+    "address": "606 MEREDITH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2023-03-08T11:53:03.000Z",
+    "expiryDate": "2026-03-07T11:53:03.000Z",
+    "coordinates": [
+      -114.0515294,
+      51.052026
+    ],
+    "longitude": -114.0515294,
+    "latitude": 51.052026,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

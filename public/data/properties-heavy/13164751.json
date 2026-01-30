@@ -1,0 +1,36 @@
+{
+  "id": "13164751",
+  "fullDetails": {
+    "licenseNumber": "13164751",
+    "name": "APARTMENT  BUILDING",
+    "address": "2424 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2011-12-06T09:22:59.000Z",
+    "expiryDate": "2026-12-05T09:22:59.000Z",
+    "coordinates": [
+      -114.0943246,
+      51.0330939
+    ],
+    "longitude": -114.0943246,
+    "latitude": 51.0330939,
+    "community": "UPPER MOUNT ROYAL",
+    "ward": "UMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

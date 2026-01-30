@@ -1,0 +1,36 @@
+{
+  "id": "16534471",
+  "fullDetails": {
+    "licenseNumber": "16534471",
+    "name": "ROOTS",
+    "address": "#P33 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-04T12:35:49.000Z",
+    "expiryDate": "2026-10-03T12:35:48.000Z",
+    "coordinates": [
+      -114.1544059,
+      51.0835191
+    ],
+    "longitude": -114.1544059,
+    "latitude": 51.0835191,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

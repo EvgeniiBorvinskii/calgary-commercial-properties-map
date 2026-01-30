@@ -1,0 +1,36 @@
+{
+  "id": "16376543",
+  "fullDetails": {
+    "licenseNumber": "16376543",
+    "name": "EMIR TILE AND STONE",
+    "address": "#4 2216 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-06T09:09:08.000Z",
+    "expiryDate": "2026-12-05T09:09:08.000Z",
+    "coordinates": [
+      -114.0077847,
+      51.077375
+    ],
+    "longitude": -114.0077847,
+    "latitude": 51.077375,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

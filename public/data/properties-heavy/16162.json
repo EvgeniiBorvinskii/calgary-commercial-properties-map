@@ -1,0 +1,36 @@
+{
+  "id": "16162",
+  "fullDetails": {
+    "licenseNumber": "16162",
+    "name": "A D S HOLDINGS CALGARY",
+    "address": "1111A 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-12T00:00:00.000Z",
+    "coordinates": [
+      -114.0388891,
+      51.0118449
+    ],
+    "longitude": -114.0388891,
+    "latitude": 51.0118449,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

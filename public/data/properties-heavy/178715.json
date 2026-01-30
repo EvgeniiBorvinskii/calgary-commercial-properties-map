@@ -1,0 +1,36 @@
+{
+  "id": "178715",
+  "fullDetails": {
+    "licenseNumber": "178715",
+    "name": "COMPRO SERVICES",
+    "address": "323 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2011-10-15T05:35:48.000Z",
+    "expiryDate": "2026-10-14T05:35:48.000Z",
+    "coordinates": [
+      -114.0561458,
+      51.0896428
+    ],
+    "longitude": -114.0561458,
+    "latitude": 51.0896428,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

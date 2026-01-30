@@ -1,0 +1,36 @@
+{
+  "id": "710616",
+  "fullDetails": {
+    "licenseNumber": "710616",
+    "name": "THUMBS UP FOODS",
+    "address": "#331 7 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-09-07T08:35:30.000Z",
+    "expiryDate": "2026-09-06T08:35:30.000Z",
+    "coordinates": [
+      -113.9707247,
+      51.1067475
+    ],
+    "longitude": -113.9707247,
+    "latitude": 51.1067475,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

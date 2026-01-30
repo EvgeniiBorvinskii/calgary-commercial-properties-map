@@ -1,0 +1,36 @@
+{
+  "id": "15975212",
+  "fullDetails": {
+    "licenseNumber": "15975212",
+    "name": "LODGING HOUSE",
+    "address": "101 CITADEL PASS CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2021-05-07T14:29:18.000Z",
+    "expiryDate": "2026-05-06T14:29:18.000Z",
+    "coordinates": [
+      -114.1799234,
+      51.1410682
+    ],
+    "longitude": -114.1799234,
+    "latitude": 51.1410682,
+    "community": "CITADEL",
+    "ward": "CIT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

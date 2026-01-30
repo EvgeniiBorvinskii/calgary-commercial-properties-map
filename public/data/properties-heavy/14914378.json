@@ -1,0 +1,37 @@
+{
+  "id": "14914378",
+  "fullDetails": {
+    "licenseNumber": "14914378",
+    "name": "BOW CANNABIS",
+    "address": "6305 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2018-12-18T11:01:13.000Z",
+    "expiryDate": "2026-12-17T11:01:13.000Z",
+    "coordinates": [
+      -114.1787331,
+      51.0848354
+    ],
+    "longitude": -114.1787331,
+    "latitude": 51.0848354,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

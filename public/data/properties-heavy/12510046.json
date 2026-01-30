@@ -1,0 +1,36 @@
+{
+  "id": "12510046",
+  "fullDetails": {
+    "licenseNumber": "12510046",
+    "name": "PANTHER SPORTS MEDICINE & REHABILITATION CENTRES (MCKENZIE TOWNE)",
+    "address": "75 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2006-11-01T05:33:06.000Z",
+    "expiryDate": "2026-10-31T05:33:06.000Z",
+    "coordinates": [
+      -113.9612657,
+      50.9148361
+    ],
+    "longitude": -113.9612657,
+    "latitude": 50.9148361,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

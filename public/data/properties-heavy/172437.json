@@ -1,0 +1,36 @@
+{
+  "id": "172437",
+  "fullDetails": {
+    "licenseNumber": "172437",
+    "name": "RAYNARD AUTOMOTIVE SUPPLY",
+    "address": "#1 4315 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-01-16T14:43:19.000Z",
+    "expiryDate": "2027-01-15T14:43:19.000Z",
+    "coordinates": [
+      -113.9733771,
+      50.998754
+    ],
+    "longitude": -113.9733771,
+    "latitude": 50.998754,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

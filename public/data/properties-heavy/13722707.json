@@ -1,0 +1,36 @@
+{
+  "id": "13722707",
+  "fullDetails": {
+    "licenseNumber": "13722707",
+    "name": "MI-BOX WEST",
+    "address": "8885 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2014-08-28T09:18:26.000Z",
+    "expiryDate": "2026-08-27T09:18:26.000Z",
+    "coordinates": [
+      -113.9067456,
+      50.9697308
+    ],
+    "longitude": -113.9067456,
+    "latitude": 50.9697308,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14010508",
+  "fullDetails": {
+    "licenseNumber": "14010508",
+    "name": "CORNEL'S WORLD",
+    "address": "#106 2748 37 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-18T13:12:36.000Z",
+    "expiryDate": "2026-12-17T13:12:36.000Z",
+    "coordinates": [
+      -113.9955451,
+      51.0872961
+    ],
+    "longitude": -113.9955451,
+    "latitude": 51.0872961,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16092223",
+  "fullDetails": {
+    "licenseNumber": "16092223",
+    "name": "RARE CANNABIS CO",
+    "address": "2929 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2022-05-26T13:37:52.000Z",
+    "expiryDate": "2026-05-25T13:37:52.000Z",
+    "coordinates": [
+      -114.1289895,
+      51.0255644
+    ],
+    "longitude": -114.1289895,
+    "latitude": 51.0255644,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

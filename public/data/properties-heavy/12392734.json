@@ -1,0 +1,36 @@
+{
+  "id": "12392734",
+  "fullDetails": {
+    "licenseNumber": "12392734",
+    "name": "WINDSOR",
+    "address": "#300 4610 HUBALTA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2005-11-02T13:47:33.000Z",
+    "expiryDate": "2026-11-01T13:47:33.000Z",
+    "coordinates": [
+      -113.9691873,
+      51.0278016
+    ],
+    "longitude": -113.9691873,
+    "latitude": 51.0278016,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

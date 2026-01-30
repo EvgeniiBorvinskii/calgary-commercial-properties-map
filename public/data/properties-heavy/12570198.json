@@ -1,0 +1,36 @@
+{
+  "id": "12570198",
+  "fullDetails": {
+    "licenseNumber": "12570198",
+    "name": "M D X FOOTWEAR",
+    "address": "#1168 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-06-25T09:34:25.000Z",
+    "expiryDate": "2026-06-24T09:34:25.000Z",
+    "coordinates": [
+      -113.978243,
+      51.0549372
+    ],
+    "longitude": -113.978243,
+    "latitude": 51.0549372,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

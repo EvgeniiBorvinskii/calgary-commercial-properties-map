@@ -1,0 +1,36 @@
+{
+  "id": "16316127",
+  "fullDetails": {
+    "licenseNumber": "16316127",
+    "name": "MACLEOD TRAIL BARBERS",
+    "address": "4821 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-08-01T08:59:40.000Z",
+    "expiryDate": "2026-07-31T08:59:40.000Z",
+    "coordinates": [
+      -114.0676276,
+      51.010289
+    ],
+    "longitude": -114.0676276,
+    "latitude": 51.010289,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

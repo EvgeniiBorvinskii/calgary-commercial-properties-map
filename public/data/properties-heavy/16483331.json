@@ -1,0 +1,36 @@
+{
+  "id": "16483331",
+  "fullDetails": {
+    "licenseNumber": "16483331",
+    "name": "EASE YOGA",
+    "address": "#1230 11 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-09-14T08:41:26.000Z",
+    "expiryDate": "2026-09-13T08:41:25.000Z",
+    "coordinates": [
+      -114.2072138,
+      51.1500571
+    ],
+    "longitude": -114.2072138,
+    "latitude": 51.1500571,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

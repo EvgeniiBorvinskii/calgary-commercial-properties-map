@@ -1,0 +1,36 @@
+{
+  "id": "16555344",
+  "fullDetails": {
+    "licenseNumber": "16555344",
+    "name": "ESPECIALLY 4 PETS",
+    "address": "436 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-04T15:28:03.000Z",
+    "expiryDate": "2026-11-03T15:28:02.000Z",
+    "coordinates": [
+      -114.0538017,
+      51.0673393
+    ],
+    "longitude": -114.0538017,
+    "latitude": 51.0673393,
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "ward": "WIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

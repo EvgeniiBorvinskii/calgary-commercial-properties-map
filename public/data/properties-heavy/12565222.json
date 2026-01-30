@@ -1,0 +1,36 @@
+{
+  "id": "12565222",
+  "fullDetails": {
+    "licenseNumber": "12565222",
+    "name": "APEX REFRIGERATION",
+    "address": "#11 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-06-08T11:23:09.000Z",
+    "expiryDate": "2026-06-07T11:23:09.000Z",
+    "coordinates": [
+      -113.9847423,
+      50.991231
+    ],
+    "longitude": -113.9847423,
+    "latitude": 50.991231,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

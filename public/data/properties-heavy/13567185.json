@@ -1,0 +1,37 @@
+{
+  "id": "13567185",
+  "fullDetails": {
+    "licenseNumber": "13567185",
+    "name": "LASER HAIR CENTRE",
+    "address": "#260 3916 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-23T14:33:45.000Z",
+    "expiryDate": "2026-05-22T14:33:45.000Z",
+    "coordinates": [
+      -114.0619087,
+      51.0187079
+    ],
+    "longitude": -114.0619087,
+    "latitude": 51.0187079,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

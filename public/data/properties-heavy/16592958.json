@@ -1,0 +1,37 @@
+{
+  "id": "16592958",
+  "fullDetails": {
+    "licenseNumber": "16592958",
+    "name": "HIDEOUT LOUNGE & BAR",
+    "address": "1504 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-08-06T14:05:18.000Z",
+    "expiryDate": "2026-08-05T14:05:18.000Z",
+    "coordinates": [
+      -114.0950966,
+      51.0386495
+    ],
+    "longitude": -114.0950966,
+    "latitude": 51.0386495,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

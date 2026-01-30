@@ -1,0 +1,36 @@
+{
+  "id": "15220213",
+  "fullDetails": {
+    "licenseNumber": "15220213",
+    "name": "BOWDOG",
+    "address": "6909 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "pending",
+    "issuedDate": "2019-02-21T10:52:20.000Z",
+    "expiryDate": "2026-02-20T10:52:20.000Z",
+    "coordinates": [
+      -114.0626813,
+      50.9916945
+    ],
+    "longitude": -114.0626813,
+    "latitude": 50.9916945,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

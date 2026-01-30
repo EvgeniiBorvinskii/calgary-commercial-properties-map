@@ -1,0 +1,37 @@
+{
+  "id": "16690794",
+  "fullDetails": {
+    "licenseNumber": "16690794",
+    "name": "BEERSHEVA",
+    "address": "#125 2640 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-11-06T10:10:04.000Z",
+    "expiryDate": "2026-11-05T10:10:04.000Z",
+    "coordinates": [
+      -113.9562665,
+      51.0755037
+    ],
+    "longitude": -113.9562665,
+    "latitude": 51.0755037,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

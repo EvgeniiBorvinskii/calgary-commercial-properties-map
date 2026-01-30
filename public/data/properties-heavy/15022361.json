@@ -1,0 +1,36 @@
+{
+  "id": "15022361",
+  "fullDetails": {
+    "licenseNumber": "15022361",
+    "name": "WOW BAKERY CAFE",
+    "address": "2002 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-10-10T08:09:05.000Z",
+    "expiryDate": "2026-10-09T08:09:05.000Z",
+    "coordinates": [
+      -114.1071918,
+      51.0233553
+    ],
+    "longitude": -114.1071918,
+    "latitude": 51.0233553,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12930855",
+  "fullDetails": {
+    "licenseNumber": "12930855",
+    "name": "SHOPPERS DRUG MART",
+    "address": "#4000 873 85 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-08-19T13:26:03.000Z",
+    "expiryDate": "2026-08-18T13:26:03.000Z",
+    "coordinates": [
+      -114.2127493,
+      51.0603754
+    ],
+    "longitude": -114.2127493,
+    "latitude": 51.0603754,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12053880",
+  "fullDetails": {
+    "licenseNumber": "12053880",
+    "name": "SOUTHWEST BUSINESS PRODUCTS",
+    "address": "#2137 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-02-02T12:56:37.000Z",
+    "expiryDate": "2027-02-01T12:56:37.000Z",
+    "coordinates": [
+      -113.9418571,
+      50.9804159
+    ],
+    "longitude": -113.9418571,
+    "latitude": 50.9804159,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

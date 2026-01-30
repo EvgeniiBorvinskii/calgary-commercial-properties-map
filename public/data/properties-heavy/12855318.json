@@ -1,0 +1,36 @@
+{
+  "id": "12855318",
+  "fullDetails": {
+    "licenseNumber": "12855318",
+    "name": "INTERNATIONAL OILFIELD TRAINING SOLUTIONS",
+    "address": "#309 5940 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-12-20T05:34:03.000Z",
+    "expiryDate": "2026-12-19T05:34:02.000Z",
+    "coordinates": [
+      -114.0700957,
+      51.0004979
+    ],
+    "longitude": -114.0700957,
+    "latitude": 51.0004979,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15021546",
+  "fullDetails": {
+    "licenseNumber": "15021546",
+    "name": "LANDSHARX YARD MAINTENANCE AND SNOW MANAGEMENT",
+    "address": "2943 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-06-25T07:17:01.000Z",
+    "expiryDate": "2026-06-24T07:17:01.000Z",
+    "coordinates": [
+      -114.0124887,
+      51.0787647
+    ],
+    "longitude": -114.0124887,
+    "latitude": 51.0787647,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

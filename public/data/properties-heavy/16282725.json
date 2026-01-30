@@ -1,0 +1,36 @@
+{
+  "id": "16282725",
+  "fullDetails": {
+    "licenseNumber": "16282725",
+    "name": "ADVANCED BENDING TECHNOLOGIES",
+    "address": "#A 5210 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-08-01T14:14:28.000Z",
+    "expiryDate": "2026-07-31T14:14:27.000Z",
+    "coordinates": [
+      -113.9594709,
+      51.0045902
+    ],
+    "longitude": -113.9594709,
+    "latitude": 51.0045902,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

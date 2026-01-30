@@ -1,0 +1,36 @@
+{
+  "id": "15864101",
+  "fullDetails": {
+    "licenseNumber": "15864101",
+    "name": "HADRIAN MANUFACTURING",
+    "address": "2550 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-22T11:27:54.000Z",
+    "expiryDate": "2027-01-21T11:27:54.000Z",
+    "coordinates": [
+      -113.9998863,
+      51.0008915
+    ],
+    "longitude": -113.9998863,
+    "latitude": 51.0008915,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

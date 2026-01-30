@@ -1,0 +1,37 @@
+{
+  "id": "16696205",
+  "fullDetails": {
+    "licenseNumber": "16696205",
+    "name": "RST AUTOGROUP",
+    "address": "9235 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2026-01-12T09:42:23.000Z",
+    "expiryDate": "2027-01-11T09:42:22.000Z",
+    "coordinates": [
+      -113.9704351,
+      50.9711779
+    ],
+    "longitude": -113.9704351,
+    "latitude": 50.9711779,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

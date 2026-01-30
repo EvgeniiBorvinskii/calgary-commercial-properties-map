@@ -1,0 +1,36 @@
+{
+  "id": "16026478",
+  "fullDetails": {
+    "licenseNumber": "16026478",
+    "name": "SKIC LANGUAGE INSTITUTE",
+    "address": "#105 20 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-05-19T11:37:51.000Z",
+    "expiryDate": "2026-05-18T11:37:51.000Z",
+    "coordinates": [
+      -114.0572039,
+      50.9031746
+    ],
+    "longitude": -114.0572039,
+    "latitude": 50.9031746,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

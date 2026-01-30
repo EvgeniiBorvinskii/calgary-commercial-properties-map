@@ -1,0 +1,36 @@
+{
+  "id": "100065",
+  "fullDetails": {
+    "licenseNumber": "100065",
+    "name": "TIMES PRESS (THE)",
+    "address": "#8 3510 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-05-26T15:44:40.000Z",
+    "expiryDate": "2026-05-25T15:44:40.000Z",
+    "coordinates": [
+      -113.9939298,
+      51.0845575
+    ],
+    "longitude": -113.9939298,
+    "latitude": 51.0845575,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

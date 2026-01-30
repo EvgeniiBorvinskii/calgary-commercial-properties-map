@@ -1,0 +1,36 @@
+{
+  "id": "16473134",
+  "fullDetails": {
+    "licenseNumber": "16473134",
+    "name": "ODD BURGER (CGY-1885)",
+    "address": "1515C 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-02T15:28:41.000Z",
+    "expiryDate": "2026-05-01T15:28:41.000Z",
+    "coordinates": [
+      -114.0949809,
+      51.0388239
+    ],
+    "longitude": -114.0949809,
+    "latitude": 51.0388239,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

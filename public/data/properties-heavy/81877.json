@@ -1,0 +1,36 @@
+{
+  "id": "81877",
+  "fullDetails": {
+    "licenseNumber": "81877",
+    "name": "MARVELLOUS CLEANERS",
+    "address": "#7 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2008-07-09T12:37:23.000Z",
+    "expiryDate": "2026-07-08T12:37:23.000Z",
+    "coordinates": [
+      -114.0494536,
+      51.1019374
+    ],
+    "longitude": -114.0494536,
+    "latitude": 51.1019374,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

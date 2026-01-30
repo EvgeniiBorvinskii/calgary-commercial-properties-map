@@ -1,0 +1,36 @@
+{
+  "id": "16474249",
+  "fullDetails": {
+    "licenseNumber": "16474249",
+    "name": "MEREDITH ROAD APARTMENTS - AVENUE LIVING",
+    "address": "650 MEREDITH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-02-04T15:17:17.000Z",
+    "expiryDate": "2027-02-03T15:17:17.000Z",
+    "coordinates": [
+      -114.0489786,
+      51.0521923
+    ],
+    "longitude": -114.0489786,
+    "latitude": 51.0521923,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16524944",
+  "fullDetails": {
+    "licenseNumber": "16524944",
+    "name": "CREATIVE COLLECTIVE (THE)",
+    "address": "#501 6700 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-08-19T14:55:08.000Z",
+    "expiryDate": "2026-08-18T14:55:07.000Z",
+    "coordinates": [
+      -114.0704384,
+      50.9935583
+    ],
+    "longitude": -114.0704384,
+    "latitude": 50.9935583,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

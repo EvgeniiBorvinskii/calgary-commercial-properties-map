@@ -1,0 +1,36 @@
+{
+  "id": "13866595",
+  "fullDetails": {
+    "licenseNumber": "13866595",
+    "name": "DOWN THE BEATEN PATH",
+    "address": "10900 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2022-03-19T08:53:53.000Z",
+    "expiryDate": "2026-03-18T08:53:53.000Z",
+    "coordinates": [
+      -113.9677586,
+      50.9565074
+    ],
+    "longitude": -113.9677586,
+    "latitude": 50.9565074,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

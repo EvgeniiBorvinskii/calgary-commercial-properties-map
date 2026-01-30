@@ -1,0 +1,36 @@
+{
+  "id": "16196164",
+  "fullDetails": {
+    "licenseNumber": "16196164",
+    "name": "ONTARIO OPTICS",
+    "address": "#255 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-12T14:47:57.000Z",
+    "expiryDate": "2026-09-11T14:47:57.000Z",
+    "coordinates": [
+      -114.0687744,
+      51.0464516
+    ],
+    "longitude": -114.0687744,
+    "latitude": 51.0464516,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

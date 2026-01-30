@@ -1,0 +1,36 @@
+{
+  "id": "12685079",
+  "fullDetails": {
+    "licenseNumber": "12685079",
+    "name": "BLUSH LANE ORGANIC MARKET",
+    "address": "#3000 10 ASPEN STONE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-09-11T05:37:18.000Z",
+    "expiryDate": "2026-09-10T05:37:18.000Z",
+    "coordinates": [
+      -114.2133922,
+      51.0412722
+    ],
+    "longitude": -114.2133922,
+    "latitude": 51.0412722,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

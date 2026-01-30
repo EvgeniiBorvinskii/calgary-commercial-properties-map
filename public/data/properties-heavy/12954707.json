@@ -1,0 +1,36 @@
+{
+  "id": "12954707",
+  "fullDetails": {
+    "licenseNumber": "12954707",
+    "name": "BROWNS SHOES",
+    "address": "#288 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-08-05T15:31:07.000Z",
+    "expiryDate": "2026-08-04T15:31:07.000Z",
+    "coordinates": [
+      -114.0687733,
+      51.0464509
+    ],
+    "longitude": -114.0687733,
+    "latitude": 51.0464509,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

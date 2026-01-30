@@ -1,0 +1,36 @@
+{
+  "id": "13925144",
+  "fullDetails": {
+    "licenseNumber": "13925144",
+    "name": "GABA STONE",
+    "address": "#29 47 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-12-20T17:12:38.000Z",
+    "expiryDate": "2026-12-19T17:12:38.000Z",
+    "coordinates": [
+      -114.0394396,
+      51.1222264
+    ],
+    "longitude": -114.0394396,
+    "latitude": 51.1222264,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

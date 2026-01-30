@@ -1,0 +1,36 @@
+{
+  "id": "14718951",
+  "fullDetails": {
+    "licenseNumber": "14718951",
+    "name": "KRAVE AUTOMOTIVE",
+    "address": "#3 5019 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-07-09T13:45:26.000Z",
+    "expiryDate": "2026-07-08T13:45:26.000Z",
+    "coordinates": [
+      -114.0380252,
+      51.0091052
+    ],
+    "longitude": -114.0380252,
+    "latitude": 51.0091052,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

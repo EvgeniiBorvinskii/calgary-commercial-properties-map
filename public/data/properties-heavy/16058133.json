@@ -1,0 +1,36 @@
+{
+  "id": "16058133",
+  "fullDetails": {
+    "licenseNumber": "16058133",
+    "name": "PET TO NATURE CANADA",
+    "address": "#102 4116 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-21T11:46:34.000Z",
+    "expiryDate": "2026-10-20T11:46:34.000Z",
+    "coordinates": [
+      -113.976092,
+      50.9969382
+    ],
+    "longitude": -113.976092,
+    "latitude": 50.9969382,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

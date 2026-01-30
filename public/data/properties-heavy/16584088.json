@@ -1,0 +1,37 @@
+{
+  "id": "16584088",
+  "fullDetails": {
+    "licenseNumber": "16584088",
+    "name": "THE TERRACE RESTAURANT AND LOUNGE",
+    "address": "#150 635 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-30T12:56:49.000Z",
+    "expiryDate": "2026-06-29T12:56:48.000Z",
+    "coordinates": [
+      -114.0758622,
+      51.0475363
+    ],
+    "longitude": -114.0758622,
+    "latitude": 51.0475363,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

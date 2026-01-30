@@ -1,0 +1,37 @@
+{
+  "id": "12218442",
+  "fullDetails": {
+    "licenseNumber": "12218442",
+    "name": "GOURMET COFFEE PLACE (THE)",
+    "address": "7674 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "TOBACCO RETAILER,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2003-11-07T05:34:01.000Z",
+    "expiryDate": "2026-11-06T05:34:01.000Z",
+    "coordinates": [
+      -114.0426732,
+      51.1199459
+    ],
+    "longitude": -114.0426732,
+    "latitude": 51.1199459,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

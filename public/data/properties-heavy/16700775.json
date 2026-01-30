@@ -1,0 +1,37 @@
+{
+  "id": "16700775",
+  "fullDetails": {
+    "licenseNumber": "16700775",
+    "name": "KINNI CAKERY",
+    "address": "635A 37 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-13T15:15:13.000Z",
+    "expiryDate": "2026-11-12T15:15:13.000Z",
+    "coordinates": [
+      -114.0497761,
+      51.0856721
+    ],
+    "longitude": -114.0497761,
+    "latitude": 51.0856721,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

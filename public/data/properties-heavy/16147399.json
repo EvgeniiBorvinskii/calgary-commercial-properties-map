@@ -1,0 +1,36 @@
+{
+  "id": "16147399",
+  "fullDetails": {
+    "licenseNumber": "16147399",
+    "name": "STEALTH WINDSHIELD REPAIR",
+    "address": "4638 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-04-29T15:05:11.000Z",
+    "expiryDate": "2026-04-28T15:05:11.000Z",
+    "coordinates": [
+      -114.0359383,
+      51.0942523
+    ],
+    "longitude": -114.0359383,
+    "latitude": 51.0942523,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

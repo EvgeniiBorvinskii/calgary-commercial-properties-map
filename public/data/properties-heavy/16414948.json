@@ -1,0 +1,36 @@
+{
+  "id": "16414948",
+  "fullDetails": {
+    "licenseNumber": "16414948",
+    "name": "PURRFECT PAWS BOUTIQUE ACADIA",
+    "address": "#22 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-13T09:17:35.000Z",
+    "expiryDate": "2026-03-12T09:17:34.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

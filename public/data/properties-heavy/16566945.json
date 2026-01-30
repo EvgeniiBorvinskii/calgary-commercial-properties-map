@@ -1,0 +1,36 @@
+{
+  "id": "16566945",
+  "fullDetails": {
+    "licenseNumber": "16566945",
+    "name": "DREAM FITNESS",
+    "address": "7058D FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-01-21T12:16:34.000Z",
+    "expiryDate": "2027-01-20T12:16:34.000Z",
+    "coordinates": [
+      -114.0555571,
+      50.9918635
+    ],
+    "longitude": -114.0555571,
+    "latitude": 50.9918635,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

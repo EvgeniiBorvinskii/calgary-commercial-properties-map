@@ -1,0 +1,36 @@
+{
+  "id": "15831878",
+  "fullDetails": {
+    "licenseNumber": "15831878",
+    "name": "RELIANT CONTRACTORS",
+    "address": "#2500 500 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-11-12T15:19:08.000Z",
+    "expiryDate": "2026-11-11T15:19:08.000Z",
+    "coordinates": [
+      -114.0719538,
+      51.0498817
+    ],
+    "longitude": -114.0719538,
+    "latitude": 51.0498817,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

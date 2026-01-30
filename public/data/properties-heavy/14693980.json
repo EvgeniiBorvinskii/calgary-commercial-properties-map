@@ -1,0 +1,36 @@
+{
+  "id": "14693980",
+  "fullDetails": {
+    "licenseNumber": "14693980",
+    "name": "PET VALU BRAE CENTRE",
+    "address": "#43 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-07T11:28:07.000Z",
+    "expiryDate": "2026-11-06T11:28:07.000Z",
+    "coordinates": [
+      -114.1169321,
+      50.9529675
+    ],
+    "longitude": -114.1169321,
+    "latitude": 50.9529675,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

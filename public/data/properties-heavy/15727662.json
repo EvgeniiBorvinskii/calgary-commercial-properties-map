@@ -1,0 +1,36 @@
+{
+  "id": "15727662",
+  "fullDetails": {
+    "licenseNumber": "15727662",
+    "name": "WISEMEN BARBERSHOP",
+    "address": "#1140 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-09-10T12:18:49.000Z",
+    "expiryDate": "2026-09-09T12:18:49.000Z",
+    "coordinates": [
+      -114.0096026,
+      50.862423
+    ],
+    "longitude": -114.0096026,
+    "latitude": 50.862423,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

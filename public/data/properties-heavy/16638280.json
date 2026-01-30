@@ -1,0 +1,36 @@
+{
+  "id": "16638280",
+  "fullDetails": {
+    "licenseNumber": "16638280",
+    "name": "OFF THE HOOK FROM SEA TO LAND",
+    "address": "#A 7003 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-09T10:26:28.000Z",
+    "expiryDate": "2026-06-08T10:26:27.000Z",
+    "coordinates": [
+      -114.0014471,
+      50.989923
+    ],
+    "longitude": -114.0014471,
+    "latitude": 50.989923,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

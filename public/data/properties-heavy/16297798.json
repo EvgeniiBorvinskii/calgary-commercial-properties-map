@@ -1,0 +1,36 @@
+{
+  "id": "16297798",
+  "fullDetails": {
+    "licenseNumber": "16297798",
+    "name": "ABBEY'S CREATIONS KENSINGTON",
+    "address": "1102 3 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-23T15:16:23.000Z",
+    "expiryDate": "2026-03-22T15:16:23.000Z",
+    "coordinates": [
+      -114.0863187,
+      51.0555241
+    ],
+    "longitude": -114.0863187,
+    "latitude": 51.0555241,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

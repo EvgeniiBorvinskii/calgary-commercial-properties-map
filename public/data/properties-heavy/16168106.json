@@ -1,0 +1,36 @@
+{
+  "id": "16168106",
+  "fullDetails": {
+    "licenseNumber": "16168106",
+    "name": "PRAIRIE WINDS ANIMAL CLINIC",
+    "address": "#319 3690 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-05-30T09:56:58.000Z",
+    "expiryDate": "2026-05-29T09:56:58.000Z",
+    "coordinates": [
+      -113.9698088,
+      51.108446
+    ],
+    "longitude": -113.9698088,
+    "latitude": 51.108446,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

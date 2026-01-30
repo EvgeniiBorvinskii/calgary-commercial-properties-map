@@ -1,0 +1,37 @@
+{
+  "id": "13321153",
+  "fullDetails": {
+    "licenseNumber": "13321153",
+    "name": "STARBUCKS COFFEE #16668",
+    "address": "#202 1221 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2012-04-21T05:52:05.000Z",
+    "expiryDate": "2026-04-20T05:52:05.000Z",
+    "coordinates": [
+      -114.0279112,
+      50.9308949
+    ],
+    "longitude": -114.0279112,
+    "latitude": 50.9308949,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

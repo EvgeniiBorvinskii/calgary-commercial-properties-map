@@ -1,0 +1,37 @@
+{
+  "id": "14207534",
+  "fullDetails": {
+    "licenseNumber": "14207534",
+    "name": "CALGARY LAWN BOWLING CLUB",
+    "address": "#101 3375 SPRUCE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-07-08T12:52:09.000Z",
+    "expiryDate": "2026-07-07T12:52:09.000Z",
+    "coordinates": [
+      -114.1356494,
+      51.0473461
+    ],
+    "longitude": -114.1356494,
+    "latitude": 51.0473461,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

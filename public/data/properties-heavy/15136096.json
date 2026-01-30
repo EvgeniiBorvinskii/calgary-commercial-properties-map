@@ -1,0 +1,36 @@
+{
+  "id": "15136096",
+  "fullDetails": {
+    "licenseNumber": "15136096",
+    "name": "VENA NOVA",
+    "address": "#P4 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-02T20:05:48.000Z",
+    "expiryDate": "2026-10-01T20:05:47.000Z",
+    "coordinates": [
+      -114.1544992,
+      51.0845199
+    ],
+    "longitude": -114.1544992,
+    "latitude": 51.0845199,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

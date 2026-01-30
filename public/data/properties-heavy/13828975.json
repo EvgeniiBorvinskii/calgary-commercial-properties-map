@@ -1,0 +1,36 @@
+{
+  "id": "13828975",
+  "fullDetails": {
+    "licenseNumber": "13828975",
+    "name": "PERFORMANCE STUDIO (THE)",
+    "address": "#130 67 GLENBROOK PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-10-21T15:58:49.000Z",
+    "expiryDate": "2026-10-20T15:58:48.000Z",
+    "coordinates": [
+      -114.1632712,
+      51.0210925
+    ],
+    "longitude": -114.1632712,
+    "latitude": 51.0210925,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

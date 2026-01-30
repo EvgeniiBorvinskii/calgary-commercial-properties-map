@@ -1,0 +1,36 @@
+{
+  "id": "16569378",
+  "fullDetails": {
+    "licenseNumber": "16569378",
+    "name": "THE CAR KINGDOM",
+    "address": "116 TARACOVE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2025-02-03T12:03:13.000Z",
+    "expiryDate": "2026-02-02T12:03:13.000Z",
+    "coordinates": [
+      -113.9420352,
+      51.1186656
+    ],
+    "longitude": -113.9420352,
+    "latitude": 51.1186656,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

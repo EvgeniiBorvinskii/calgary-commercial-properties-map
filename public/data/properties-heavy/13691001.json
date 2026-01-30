@@ -1,0 +1,36 @@
+{
+  "id": "13691001",
+  "fullDetails": {
+    "licenseNumber": "13691001",
+    "name": "CROCK A DOODLE IN ROYAL OAK",
+    "address": "#1111 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-10-15T14:09:43.000Z",
+    "expiryDate": "2026-10-14T14:09:43.000Z",
+    "coordinates": [
+      -114.2105777,
+      51.1517579
+    ],
+    "longitude": -114.2105777,
+    "latitude": 51.1517579,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15003825",
+  "fullDetails": {
+    "licenseNumber": "15003825",
+    "name": "LEVEL 1 ESCAPE ROOM",
+    "address": "#100 517 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "active",
+    "issuedDate": "2018-10-11T14:54:53.000Z",
+    "expiryDate": "2026-10-10T14:54:53.000Z",
+    "coordinates": [
+      -114.0522502,
+      51.0665484
+    ],
+    "longitude": -114.0522502,
+    "latitude": 51.0665484,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

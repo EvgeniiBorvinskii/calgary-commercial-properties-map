@@ -1,0 +1,36 @@
+{
+  "id": "14418321",
+  "fullDetails": {
+    "licenseNumber": "14418321",
+    "name": "S AUTO",
+    "address": "3348 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "pending",
+    "issuedDate": "2023-03-23T15:16:22.000Z",
+    "expiryDate": "2026-03-22T15:16:22.000Z",
+    "coordinates": [
+      -113.9914629,
+      51.0000153
+    ],
+    "longitude": -113.9914629,
+    "latitude": 51.0000153,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

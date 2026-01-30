@@ -1,0 +1,36 @@
+{
+  "id": "16488181",
+  "fullDetails": {
+    "licenseNumber": "16488181",
+    "name": "MEGA SPHERE TRADING",
+    "address": "#120 12318 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-06-26T08:25:57.000Z",
+    "expiryDate": "2026-06-25T08:25:57.000Z",
+    "coordinates": [
+      -113.9932718,
+      51.1646414
+    ],
+    "longitude": -113.9932718,
+    "latitude": 51.1646414,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "572701",
+  "fullDetails": {
+    "licenseNumber": "572701",
+    "name": "GREENLIFE LANDSCAPING",
+    "address": "#6 4429 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-12T00:00:00.000Z",
+    "coordinates": [
+      -114.0491824,
+      51.0920373
+    ],
+    "longitude": -114.0491824,
+    "latitude": 51.0920373,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

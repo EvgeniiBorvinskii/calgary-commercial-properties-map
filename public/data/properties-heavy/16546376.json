@@ -1,0 +1,36 @@
+{
+  "id": "16546376",
+  "fullDetails": {
+    "licenseNumber": "16546376",
+    "name": "TACHITA NAILS",
+    "address": "#461 301 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-10-07T14:36:34.000Z",
+    "expiryDate": "2026-10-06T14:36:33.000Z",
+    "coordinates": [
+      -114.0951804,
+      51.0549824
+    ],
+    "longitude": -114.0951804,
+    "latitude": 51.0549824,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

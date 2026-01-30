@@ -1,0 +1,37 @@
+{
+  "id": "13997218",
+  "fullDetails": {
+    "licenseNumber": "13997218",
+    "name": "DOUGLASGLEN PHARMACY & TRAVEL CLINIC",
+    "address": "#124 11420 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-13T15:58:09.000Z",
+    "expiryDate": "2026-10-12T15:58:09.000Z",
+    "coordinates": [
+      -113.9957423,
+      50.9534762
+    ],
+    "longitude": -113.9957423,
+    "latitude": 50.9534762,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

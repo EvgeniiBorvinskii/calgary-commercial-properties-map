@@ -1,0 +1,36 @@
+{
+  "id": "16162398",
+  "fullDetails": {
+    "licenseNumber": "16162398",
+    "name": "STRYDER DISTRIBUTION",
+    "address": "2590 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2022-06-29T14:41:53.000Z",
+    "expiryDate": "2026-06-28T14:41:53.000Z",
+    "coordinates": [
+      -113.9999345,
+      51.0011293
+    ],
+    "longitude": -113.9999345,
+    "latitude": 51.0011293,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

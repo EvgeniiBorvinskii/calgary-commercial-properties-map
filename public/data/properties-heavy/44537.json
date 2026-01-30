@@ -1,0 +1,37 @@
+{
+  "id": "44537",
+  "fullDetails": {
+    "licenseNumber": "44537",
+    "name": "CALGARY CO-OP GAS BAR #02",
+    "address": "616 16 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2020-12-17T12:02:06.000Z",
+    "expiryDate": "2026-12-16T12:02:06.000Z",
+    "coordinates": [
+      -114.0494455,
+      51.0672964
+    ],
+    "longitude": -114.0494455,
+    "latitude": 51.0672964,
+    "community": "WINSTON HEIGHTS/MOUNTVIEW",
+    "ward": "WIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

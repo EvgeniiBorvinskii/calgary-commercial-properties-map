@@ -1,0 +1,37 @@
+{
+  "id": "13360342",
+  "fullDetails": {
+    "licenseNumber": "13360342",
+    "name": "BACK IN THE PACK",
+    "address": "#2 3131 68 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "PHOTOGRAPHER,\nKENNEL SERVICE/PET DEALER",
+    "status": "pending",
+    "issuedDate": "2012-03-20T10:43:22.000Z",
+    "expiryDate": "2026-03-19T10:43:22.000Z",
+    "coordinates": [
+      -114.1847991,
+      51.0807165
+    ],
+    "longitude": -114.1847991,
+    "latitude": 51.0807165,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

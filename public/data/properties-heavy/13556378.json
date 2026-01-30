@@ -1,0 +1,36 @@
+{
+  "id": "13556378",
+  "fullDetails": {
+    "licenseNumber": "13556378",
+    "name": "GLOBAL PET FOODS",
+    "address": "#3114 8561 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-09-06T09:41:58.000Z",
+    "expiryDate": "2026-09-05T09:41:58.000Z",
+    "coordinates": [
+      -114.2102871,
+      51.0608359
+    ],
+    "longitude": -114.2102871,
+    "latitude": 51.0608359,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

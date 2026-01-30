@@ -1,0 +1,36 @@
+{
+  "id": "13237763",
+  "fullDetails": {
+    "licenseNumber": "13237763",
+    "name": "UNITED ACTIVE LIVING COMMUNITIES - GARRISON GREEN LP",
+    "address": "3028 DON ETHELL BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2013-06-10T05:30:29.000Z",
+    "expiryDate": "2026-06-09T05:30:29.000Z",
+    "coordinates": [
+      -114.1276382,
+      51.0052388
+    ],
+    "longitude": -114.1276382,
+    "latitude": 51.0052388,
+    "community": "GARRISON GREEN",
+    "ward": "GAG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

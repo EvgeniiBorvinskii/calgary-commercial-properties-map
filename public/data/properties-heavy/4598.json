@@ -1,0 +1,36 @@
+{
+  "id": "4598",
+  "fullDetails": {
+    "licenseNumber": "4598",
+    "name": "WHITE PAPER COMPANY",
+    "address": "3331 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-05-25T05:31:29.000Z",
+    "expiryDate": "2026-05-24T05:31:29.000Z",
+    "coordinates": [
+      -114.0431089,
+      51.0251431
+    ],
+    "longitude": -114.0431089,
+    "latitude": 51.0251431,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

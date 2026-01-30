@@ -1,0 +1,36 @@
+{
+  "id": "13578489",
+  "fullDetails": {
+    "licenseNumber": "13578489",
+    "name": "CALGARY HEATING SERVICES",
+    "address": "4632 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-11-09T14:58:34.000Z",
+    "expiryDate": "2026-11-08T14:58:34.000Z",
+    "coordinates": [
+      -114.0359383,
+      51.0942523
+    ],
+    "longitude": -114.0359383,
+    "latitude": 51.0942523,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

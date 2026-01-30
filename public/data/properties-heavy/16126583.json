@@ -1,0 +1,36 @@
+{
+  "id": "16126583",
+  "fullDetails": {
+    "licenseNumber": "16126583",
+    "name": "TUTTO CONTRACTING",
+    "address": "#12 4380 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-26T10:14:14.000Z",
+    "expiryDate": "2026-06-25T10:14:14.000Z",
+    "coordinates": [
+      -113.9723879,
+      50.9858287
+    ],
+    "longitude": -113.9723879,
+    "latitude": 50.9858287,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

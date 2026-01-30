@@ -1,0 +1,36 @@
+{
+  "id": "16650715",
+  "fullDetails": {
+    "licenseNumber": "16650715",
+    "name": "MAPLE LEAF EMBROIDERY",
+    "address": "#22 4816 35B ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-07-15T10:48:57.000Z",
+    "expiryDate": "2026-07-14T10:48:57.000Z",
+    "coordinates": [
+      -113.9777153,
+      51.0118095
+    ],
+    "longitude": -113.9777153,
+    "latitude": 51.0118095,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

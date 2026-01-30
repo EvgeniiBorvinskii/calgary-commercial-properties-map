@@ -1,0 +1,37 @@
+{
+  "id": "14404685",
+  "fullDetails": {
+    "licenseNumber": "14404685",
+    "name": "BEAUTY CANADA SUPPLIES",
+    "address": "519 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2019-04-10T14:48:29.000Z",
+    "expiryDate": "2026-04-09T14:48:29.000Z",
+    "coordinates": [
+      -114.0521273,
+      51.0098952
+    ],
+    "longitude": -114.0521273,
+    "latitude": 51.0098952,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

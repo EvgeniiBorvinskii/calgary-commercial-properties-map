@@ -1,0 +1,36 @@
+{
+  "id": "16582967",
+  "fullDetails": {
+    "licenseNumber": "16582967",
+    "name": "LASER PRINT AND SIGNS",
+    "address": "#215 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-02-06T16:04:02.000Z",
+    "expiryDate": "2027-02-05T16:04:02.000Z",
+    "coordinates": [
+      -114.0055761,
+      51.0780976
+    ],
+    "longitude": -114.0055761,
+    "latitude": 51.0780976,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

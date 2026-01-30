@@ -1,0 +1,37 @@
+{
+  "id": "16676629",
+  "fullDetails": {
+    "licenseNumber": "16676629",
+    "name": "ROSIES EXPRESS MART",
+    "address": "#A 1920 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-11-17T10:20:40.000Z",
+    "expiryDate": "2026-11-16T10:20:39.000Z",
+    "coordinates": [
+      -114.015202,
+      50.9980026
+    ],
+    "longitude": -114.015202,
+    "latitude": 50.9980026,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

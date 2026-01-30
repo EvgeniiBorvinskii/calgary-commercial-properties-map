@@ -1,0 +1,36 @@
+{
+  "id": "579334",
+  "fullDetails": {
+    "licenseNumber": "579334",
+    "name": "OUT OF HAND",
+    "address": "#12 6449 CROWCHILD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-06-06T10:17:51.000Z",
+    "expiryDate": "2026-06-05T10:17:51.000Z",
+    "coordinates": [
+      -114.119039,
+      50.9968882
+    ],
+    "longitude": -114.119039,
+    "latitude": 50.9968882,
+    "community": "LAKEVIEW",
+    "ward": "LKV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

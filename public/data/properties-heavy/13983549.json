@@ -1,0 +1,36 @@
+{
+  "id": "13983549",
+  "fullDetails": {
+    "licenseNumber": "13983549",
+    "name": "ZEDCOR ENERGY",
+    "address": "#300 151 CANADA OLYMPIC RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2023-10-12T08:53:35.000Z",
+    "expiryDate": "2026-10-11T08:53:35.000Z",
+    "coordinates": [
+      -114.2224976,
+      51.0843996
+    ],
+    "longitude": -114.2224976,
+    "latitude": 51.0843996,
+    "community": "CANADA OLYMPIC PARK",
+    "ward": "COP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

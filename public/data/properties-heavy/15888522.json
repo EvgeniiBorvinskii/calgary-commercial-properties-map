@@ -1,0 +1,36 @@
+{
+  "id": "15888522",
+  "fullDetails": {
+    "licenseNumber": "15888522",
+    "name": "LEDGESTONE SIGNATURE HOMES",
+    "address": "#100 622 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-03-13T14:51:07.000Z",
+    "expiryDate": "2026-03-12T14:51:07.000Z",
+    "coordinates": [
+      -114.0749769,
+      51.0489634
+    ],
+    "longitude": -114.0749769,
+    "latitude": 51.0489634,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16665630",
+  "fullDetails": {
+    "licenseNumber": "16665630",
+    "name": "MACLEOD TRAIL COLLISION CENTRE",
+    "address": "3636 DARTMOUTH RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2025-10-09T07:45:38.000Z",
+    "expiryDate": "2026-10-08T07:45:37.000Z",
+    "coordinates": [
+      -114.0518248,
+      51.021859
+    ],
+    "longitude": -114.0518248,
+    "latitude": 51.021859,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

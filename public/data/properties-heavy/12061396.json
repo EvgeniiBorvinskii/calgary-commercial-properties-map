@@ -1,0 +1,36 @@
+{
+  "id": "12061396",
+  "fullDetails": {
+    "licenseNumber": "12061396",
+    "name": "STONE TILE WEST",
+    "address": "4040 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-04-23T05:35:03.000Z",
+    "expiryDate": "2026-04-22T05:35:03.000Z",
+    "coordinates": [
+      -114.0452035,
+      51.0176437
+    ],
+    "longitude": -114.0452035,
+    "latitude": 51.0176437,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

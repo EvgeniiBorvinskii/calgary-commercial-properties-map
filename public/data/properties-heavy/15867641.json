@@ -1,0 +1,37 @@
+{
+  "id": "15867641",
+  "fullDetails": {
+    "licenseNumber": "15867641",
+    "name": "RAYBERN MOTORS",
+    "address": "1165D 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-10-11T14:33:14.000Z",
+    "expiryDate": "2026-10-10T14:33:13.000Z",
+    "coordinates": [
+      -114.0376855,
+      51.013369
+    ],
+    "longitude": -114.0376855,
+    "latitude": 51.013369,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

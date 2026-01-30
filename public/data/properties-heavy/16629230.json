@@ -1,0 +1,36 @@
+{
+  "id": "16629230",
+  "fullDetails": {
+    "licenseNumber": "16629230",
+    "name": "GENTLEMENS SCALP PRESTIGE",
+    "address": "#210S 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-08-26T11:18:08.000Z",
+    "expiryDate": "2026-08-25T11:18:07.000Z",
+    "coordinates": [
+      -114.0707626,
+      50.9762739
+    ],
+    "longitude": -114.0707626,
+    "latitude": 50.9762739,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

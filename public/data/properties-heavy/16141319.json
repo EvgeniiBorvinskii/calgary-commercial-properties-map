@@ -1,0 +1,36 @@
+{
+  "id": "16141319",
+  "fullDetails": {
+    "licenseNumber": "16141319",
+    "name": "OVERSEAS FASHION & FABRIC",
+    "address": "#6140 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-30T15:34:18.000Z",
+    "expiryDate": "2026-06-29T15:34:18.000Z",
+    "coordinates": [
+      -113.9490779,
+      51.1334564
+    ],
+    "longitude": -113.9490779,
+    "latitude": 51.1334564,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

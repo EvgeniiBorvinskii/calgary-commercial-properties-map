@@ -1,0 +1,36 @@
+{
+  "id": "96313",
+  "fullDetails": {
+    "licenseNumber": "96313",
+    "name": "GENERAL MOTORS",
+    "address": "4220 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0478034,
+      51.0167881
+    ],
+    "longitude": -114.0478034,
+    "latitude": 51.0167881,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

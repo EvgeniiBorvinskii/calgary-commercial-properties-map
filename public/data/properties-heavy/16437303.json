@@ -1,0 +1,36 @@
+{
+  "id": "16437303",
+  "fullDetails": {
+    "licenseNumber": "16437303",
+    "name": "AUCTION DEPOT",
+    "address": "#71 4511 GLENMORE TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-23T12:06:19.000Z",
+    "expiryDate": "2027-01-22T12:06:19.000Z",
+    "coordinates": [
+      -113.9676703,
+      50.9788695
+    ],
+    "longitude": -113.9676703,
+    "latitude": 50.9788695,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

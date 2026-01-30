@@ -1,0 +1,37 @@
+{
+  "id": "14163992",
+  "fullDetails": {
+    "licenseNumber": "14163992",
+    "name": "LULU PRODUCE",
+    "address": "#8 2915 10 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-01T12:30:24.000Z",
+    "expiryDate": "2026-10-31T12:30:24.000Z",
+    "coordinates": [
+      -113.9914761,
+      51.0612315
+    ],
+    "longitude": -113.9914761,
+    "latitude": 51.0612315,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

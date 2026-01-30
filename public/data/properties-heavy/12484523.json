@@ -1,0 +1,36 @@
+{
+  "id": "12484523",
+  "fullDetails": {
+    "licenseNumber": "12484523",
+    "name": "CREO PROMOTIONAL SOLUTIONS",
+    "address": "2440 91 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-02-27T13:40:01.000Z",
+    "expiryDate": "2027-02-26T13:40:01.000Z",
+    "coordinates": [
+      -114.0034767,
+      50.9717277
+    ],
+    "longitude": -114.0034767,
+    "latitude": 50.9717277,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

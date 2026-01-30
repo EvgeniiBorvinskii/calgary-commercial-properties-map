@@ -1,0 +1,36 @@
+{
+  "id": "16226482",
+  "fullDetails": {
+    "licenseNumber": "16226482",
+    "name": "ZA PIZZERIA YYC",
+    "address": "#5 7204 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-12-06T08:08:11.000Z",
+    "expiryDate": "2026-12-05T08:08:10.000Z",
+    "coordinates": [
+      -114.0634004,
+      50.9892276
+    ],
+    "longitude": -114.0634004,
+    "latitude": 50.9892276,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

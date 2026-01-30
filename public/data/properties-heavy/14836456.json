@@ -1,0 +1,37 @@
+{
+  "id": "14836456",
+  "fullDetails": {
+    "licenseNumber": "14836456",
+    "name": "UNIVERSAL HEALTH PHARMACY",
+    "address": "#3 1704 61 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-09T16:15:56.000Z",
+    "expiryDate": "2026-05-08T16:15:56.000Z",
+    "coordinates": [
+      -113.9421913,
+      51.0385679
+    ],
+    "longitude": -113.9421913,
+    "latitude": 51.0385679,
+    "community": "RED CARPET",
+    "ward": "RED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

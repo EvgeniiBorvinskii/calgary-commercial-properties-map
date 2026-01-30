@@ -1,0 +1,36 @@
+{
+  "id": "14334098",
+  "fullDetails": {
+    "licenseNumber": "14334098",
+    "name": "NATURE'S ULTIMATE",
+    "address": "#20 4216 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2017-12-02T05:32:42.000Z",
+    "expiryDate": "2024-12-01T05:32:42.000Z",
+    "coordinates": [
+      -113.9745048,
+      50.9967939
+    ],
+    "longitude": -113.9745048,
+    "latitude": 50.9967939,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

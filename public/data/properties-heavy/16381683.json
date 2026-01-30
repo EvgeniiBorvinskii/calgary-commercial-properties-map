@@ -1,0 +1,37 @@
+{
+  "id": "16381683",
+  "fullDetails": {
+    "licenseNumber": "16381683",
+    "name": "WOW CHICKEN MACLEOD TRAIL",
+    "address": "#610 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-07T12:32:01.000Z",
+    "expiryDate": "2026-09-06T12:32:01.000Z",
+    "coordinates": [
+      -114.0697633,
+      50.9455636
+    ],
+    "longitude": -114.0697633,
+    "latitude": 50.9455636,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

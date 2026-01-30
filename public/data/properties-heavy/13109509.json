@@ -1,0 +1,36 @@
+{
+  "id": "13109509",
+  "fullDetails": {
+    "licenseNumber": "13109509",
+    "name": "ANGLIAN INTERIORS",
+    "address": "#113 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-23T08:27:50.000Z",
+    "expiryDate": "2026-06-22T08:27:50.000Z",
+    "coordinates": [
+      -114.0057728,
+      51.078489
+    ],
+    "longitude": -114.0057728,
+    "latitude": 51.078489,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

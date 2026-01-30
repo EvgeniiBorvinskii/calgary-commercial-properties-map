@@ -1,0 +1,37 @@
+{
+  "id": "12192894",
+  "fullDetails": {
+    "licenseNumber": "12192894",
+    "name": "D B I SYSTEMS INTEGRATION",
+    "address": "#85 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-11-03T09:16:15.000Z",
+    "expiryDate": "2026-11-02T09:16:15.000Z",
+    "coordinates": [
+      -114.0405329,
+      51.1044259
+    ],
+    "longitude": -114.0405329,
+    "latitude": 51.1044259,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

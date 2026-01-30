@@ -1,0 +1,36 @@
+{
+  "id": "16100844",
+  "fullDetails": {
+    "licenseNumber": "16100844",
+    "name": "CALGARY PRIDE",
+    "address": "#110 610 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-28T08:31:56.000Z",
+    "expiryDate": "2026-10-27T08:31:56.000Z",
+    "coordinates": [
+      -114.0503031,
+      51.0453727
+    ],
+    "longitude": -114.0503031,
+    "latitude": 51.0453727,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

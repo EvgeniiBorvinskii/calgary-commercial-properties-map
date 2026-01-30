@@ -1,0 +1,36 @@
+{
+  "id": "16548638",
+  "fullDetails": {
+    "licenseNumber": "16548638",
+    "name": "BARBER GARAGE AND COLORS",
+    "address": "#107 1919 SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-10-08T12:58:23.000Z",
+    "expiryDate": "2026-10-07T12:58:23.000Z",
+    "coordinates": [
+      -114.1045869,
+      50.9608284
+    ],
+    "longitude": -114.1045869,
+    "latitude": 50.9608284,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

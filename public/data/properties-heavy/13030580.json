@@ -1,0 +1,36 @@
+{
+  "id": "13030580",
+  "fullDetails": {
+    "licenseNumber": "13030580",
+    "name": "SOUTHVIEW MOTORS",
+    "address": "3419 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-10-29T15:20:21.000Z",
+    "expiryDate": "2026-10-28T15:20:21.000Z",
+    "coordinates": [
+      -113.9849734,
+      51.037327
+    ],
+    "longitude": -113.9849734,
+    "latitude": 51.037327,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

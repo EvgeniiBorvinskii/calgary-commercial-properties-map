@@ -1,0 +1,36 @@
+{
+  "id": "16177362",
+  "fullDetails": {
+    "licenseNumber": "16177362",
+    "name": "BSW LIQUOR MAHOGANY",
+    "address": "#1890 80 MAHOGANY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-07-27T14:48:27.000Z",
+    "expiryDate": "2026-07-26T14:48:27.000Z",
+    "coordinates": [
+      -113.9394295,
+      50.8951138
+    ],
+    "longitude": -113.9394295,
+    "latitude": 50.8951138,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

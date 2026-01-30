@@ -1,0 +1,36 @@
+{
+  "id": "12220299",
+  "fullDetails": {
+    "licenseNumber": "12220299",
+    "name": "COLMAN PROSTHETICS & ORTHOTICS",
+    "address": "#415 12445 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-10-15T05:34:59.000Z",
+    "expiryDate": "2026-10-14T05:34:59.000Z",
+    "coordinates": [
+      -114.0687349,
+      50.9417483
+    ],
+    "longitude": -114.0687349,
+    "latitude": 50.9417483,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

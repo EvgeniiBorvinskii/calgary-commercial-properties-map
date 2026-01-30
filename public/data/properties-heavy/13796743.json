@@ -1,0 +1,36 @@
+{
+  "id": "13796743",
+  "fullDetails": {
+    "licenseNumber": "13796743",
+    "name": "SUBWAY SANDWICHES & SALADS",
+    "address": "1216 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-01-21T08:04:59.000Z",
+    "expiryDate": "2027-01-20T08:04:59.000Z",
+    "coordinates": [
+      -114.0885219,
+      51.0673093
+    ],
+    "longitude": -114.0885219,
+    "latitude": 51.0673093,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

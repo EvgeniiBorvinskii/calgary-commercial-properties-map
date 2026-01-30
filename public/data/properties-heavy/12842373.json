@@ -1,0 +1,36 @@
+{
+  "id": "12842373",
+  "fullDetails": {
+    "licenseNumber": "12842373",
+    "name": "ASTRA AUTOMOTIVE",
+    "address": "#1 239 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-10-21T10:03:49.000Z",
+    "expiryDate": "2026-10-20T10:03:49.000Z",
+    "coordinates": [
+      -114.0607849,
+      50.9973803
+    ],
+    "longitude": -114.0607849,
+    "latitude": 50.9973803,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12112538",
+  "fullDetails": {
+    "licenseNumber": "12112538",
+    "name": "CANSEW",
+    "address": "3932 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-08-26T05:34:57.000Z",
+    "expiryDate": "2026-08-25T05:34:57.000Z",
+    "coordinates": [
+      -113.9910673,
+      51.0880965
+    ],
+    "longitude": -113.9910673,
+    "latitude": 51.0880965,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

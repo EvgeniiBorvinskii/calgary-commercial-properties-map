@@ -1,0 +1,37 @@
+{
+  "id": "13879051",
+  "fullDetails": {
+    "licenseNumber": "13879051",
+    "name": "LEELA ECO SPA & STUDIO",
+    "address": "849 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-09-26T14:39:54.000Z",
+    "expiryDate": "2026-09-25T14:39:54.000Z",
+    "coordinates": [
+      -114.0437021,
+      51.0530495
+    ],
+    "longitude": -114.0437021,
+    "latitude": 51.0530495,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

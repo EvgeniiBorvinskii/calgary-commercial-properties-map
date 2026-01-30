@@ -1,0 +1,37 @@
+{
+  "id": "14540793",
+  "fullDetails": {
+    "licenseNumber": "14540793",
+    "name": "YOUR DOLLAR STORE WITH MORE",
+    "address": "#700 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-21T12:13:29.000Z",
+    "expiryDate": "2026-07-20T12:13:29.000Z",
+    "coordinates": [
+      -114.1123961,
+      50.9062353
+    ],
+    "longitude": -114.1123961,
+    "latitude": 50.9062353,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

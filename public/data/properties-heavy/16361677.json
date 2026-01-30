@@ -1,0 +1,36 @@
+{
+  "id": "16361677",
+  "fullDetails": {
+    "licenseNumber": "16361677",
+    "name": "SHEAR ESSENCE HAIR AND BEAUTY",
+    "address": "2407 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-08-11T16:36:29.000Z",
+    "expiryDate": "2026-08-10T16:36:29.000Z",
+    "coordinates": [
+      -114.0566529,
+      51.0735634
+    ],
+    "longitude": -114.0566529,
+    "latitude": 51.0735634,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

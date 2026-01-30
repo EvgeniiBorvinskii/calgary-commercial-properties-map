@@ -1,0 +1,37 @@
+{
+  "id": "16138026",
+  "fullDetails": {
+    "licenseNumber": "16138026",
+    "name": "SMIDDY STEGMAN",
+    "address": "#107 6131 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "DISTRIBUTION MANAGER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-03-27T09:35:05.000Z",
+    "expiryDate": "2026-03-26T09:35:04.000Z",
+    "coordinates": [
+      -114.051767,
+      50.9974519
+    ],
+    "longitude": -114.051767,
+    "latitude": 50.9974519,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14967905",
+  "fullDetails": {
+    "licenseNumber": "14967905",
+    "name": "CALGARY COOP KILLARNEY GAS STATION #52",
+    "address": "2807 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2018-08-01T09:27:03.000Z",
+    "expiryDate": "2026-07-31T09:27:02.000Z",
+    "coordinates": [
+      -114.1278642,
+      51.0376541
+    ],
+    "longitude": -114.1278642,
+    "latitude": 51.0376541,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

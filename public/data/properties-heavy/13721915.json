@@ -1,0 +1,37 @@
+{
+  "id": "13721915",
+  "fullDetails": {
+    "licenseNumber": "13721915",
+    "name": "CANYON MEADOWS TEMPO",
+    "address": "1071 CANYON MEADOWS DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2014-02-19T14:07:53.000Z",
+    "expiryDate": "2026-02-18T14:07:53.000Z",
+    "coordinates": [
+      -114.0846104,
+      50.9388251
+    ],
+    "longitude": -114.0846104,
+    "latitude": 50.9388251,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

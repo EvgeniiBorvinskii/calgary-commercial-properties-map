@@ -1,0 +1,36 @@
+{
+  "id": "115808",
+  "fullDetails": {
+    "licenseNumber": "115808",
+    "name": "MCCANN'S BUILDING MOVERS",
+    "address": "6017 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-04-28T05:29:53.000Z",
+    "expiryDate": "2026-04-27T05:29:52.000Z",
+    "coordinates": [
+      -113.912955,
+      51.0002234
+    ],
+    "longitude": -113.912955,
+    "latitude": 51.0002234,
+    "community": "STARFIELD EAST",
+    "ward": "STE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

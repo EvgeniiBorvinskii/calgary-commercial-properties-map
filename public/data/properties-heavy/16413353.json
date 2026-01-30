@@ -1,0 +1,36 @@
+{
+  "id": "16413353",
+  "fullDetails": {
+    "licenseNumber": "16413353",
+    "name": "PIZZA HUT #2861",
+    "address": "#440 1919 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-01-12T07:59:11.000Z",
+    "expiryDate": "2027-01-11T07:59:11.000Z",
+    "coordinates": [
+      -114.1664417,
+      51.0356982
+    ],
+    "longitude": -114.1664417,
+    "latitude": 51.0356982,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

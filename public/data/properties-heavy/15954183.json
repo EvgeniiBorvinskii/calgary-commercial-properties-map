@@ -1,0 +1,37 @@
+{
+  "id": "15954183",
+  "fullDetails": {
+    "licenseNumber": "15954183",
+    "name": "DE HAVILLAND AIRCRAFT OF CANADA",
+    "address": "4100 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2022-03-03T15:59:19.000Z",
+    "expiryDate": "2026-03-02T15:59:19.000Z",
+    "coordinates": [
+      -113.9732723,
+      51.1010666
+    ],
+    "longitude": -113.9732723,
+    "latitude": 51.1010666,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

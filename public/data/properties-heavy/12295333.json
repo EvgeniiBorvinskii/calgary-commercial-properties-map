@@ -1,0 +1,36 @@
+{
+  "id": "12295333",
+  "fullDetails": {
+    "licenseNumber": "12295333",
+    "name": "BOWFORT ROAD RV & CAR WASH",
+    "address": "83 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2004-09-23T16:29:04.000Z",
+    "expiryDate": "2026-09-22T16:29:04.000Z",
+    "coordinates": [
+      -114.2069547,
+      51.0841743
+    ],
+    "longitude": -114.2069547,
+    "latitude": 51.0841743,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

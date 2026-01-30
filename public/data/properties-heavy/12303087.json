@@ -1,0 +1,36 @@
+{
+  "id": "12303087",
+  "fullDetails": {
+    "licenseNumber": "12303087",
+    "name": "WRIGHT CONSTRUCTION",
+    "address": "#205 5920 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-02-12T12:07:15.000Z",
+    "expiryDate": "2027-02-11T12:07:15.000Z",
+    "coordinates": [
+      -114.067119,
+      51.0004595
+    ],
+    "longitude": -114.067119,
+    "latitude": 51.0004595,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13060371",
+  "fullDetails": {
+    "licenseNumber": "13060371",
+    "name": "FINE MACHINE WORKS",
+    "address": "10983 72 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-02-03T11:20:34.000Z",
+    "expiryDate": "2026-02-02T11:20:34.000Z",
+    "coordinates": [
+      -113.9278887,
+      50.9556175
+    ],
+    "longitude": -113.9278887,
+    "latitude": 50.9556175,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

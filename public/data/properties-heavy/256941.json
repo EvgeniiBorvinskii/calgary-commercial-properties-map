@@ -1,0 +1,36 @@
+{
+  "id": "256941",
+  "fullDetails": {
+    "licenseNumber": "256941",
+    "name": "MASTER MECHANICAL PLUMBING & HEATING (1986)",
+    "address": "#10 6320 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-11-26T15:55:50.000Z",
+    "expiryDate": "2026-11-25T15:55:50.000Z",
+    "coordinates": [
+      -114.0377593,
+      50.9961131
+    ],
+    "longitude": -114.0377593,
+    "latitude": 50.9961131,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

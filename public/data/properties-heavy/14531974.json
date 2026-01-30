@@ -1,0 +1,37 @@
+{
+  "id": "14531974",
+  "fullDetails": {
+    "licenseNumber": "14531974",
+    "name": "SEOUL GAMASOT",
+    "address": "#23 12424 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-08-08T09:45:50.000Z",
+    "expiryDate": "2026-08-07T09:45:50.000Z",
+    "coordinates": [
+      -114.1292302,
+      51.1653494
+    ],
+    "longitude": -114.1292302,
+    "latitude": 51.1653494,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

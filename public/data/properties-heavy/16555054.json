@@ -1,0 +1,36 @@
+{
+  "id": "16555054",
+  "fullDetails": {
+    "licenseNumber": "16555054",
+    "name": "SCHOLARS OF CAPITOL HILL",
+    "address": "1442 20 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-01T11:58:08.000Z",
+    "expiryDate": "2026-09-30T11:58:08.000Z",
+    "coordinates": [
+      -114.0941356,
+      51.0706952
+    ],
+    "longitude": -114.0941356,
+    "latitude": 51.0706952,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

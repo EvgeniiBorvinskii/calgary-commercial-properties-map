@@ -1,0 +1,36 @@
+{
+  "id": "13889506",
+  "fullDetails": {
+    "licenseNumber": "13889506",
+    "name": "ADEXMAT",
+    "address": "#126 6900 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-06-29T11:04:58.000Z",
+    "expiryDate": "2026-06-28T11:04:58.000Z",
+    "coordinates": [
+      -113.9542817,
+      50.9930659
+    ],
+    "longitude": -113.9542817,
+    "latitude": 50.9930659,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

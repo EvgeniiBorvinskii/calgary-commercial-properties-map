@@ -1,0 +1,36 @@
+{
+  "id": "95232",
+  "fullDetails": {
+    "licenseNumber": "95232",
+    "name": "BEAULIEU CANADA",
+    "address": "#1 5353 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-11-23T14:14:41.000Z",
+    "expiryDate": "2026-11-22T14:14:41.000Z",
+    "coordinates": [
+      -113.9555871,
+      50.9888839
+    ],
+    "longitude": -113.9555871,
+    "latitude": 50.9888839,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

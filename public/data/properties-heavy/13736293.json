@@ -1,0 +1,36 @@
+{
+  "id": "13736293",
+  "fullDetails": {
+    "licenseNumber": "13736293",
+    "name": "CALGARY CUSTOM KITCHEN CABINETS",
+    "address": "#3 2275 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-08-06T14:32:37.000Z",
+    "expiryDate": "2026-08-05T14:32:36.000Z",
+    "coordinates": [
+      -114.0065238,
+      51.0951067
+    ],
+    "longitude": -114.0065238,
+    "latitude": 51.0951067,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

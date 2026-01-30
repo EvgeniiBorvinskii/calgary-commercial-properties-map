@@ -1,0 +1,36 @@
+{
+  "id": "13746292",
+  "fullDetails": {
+    "licenseNumber": "13746292",
+    "name": "ARG PLUMBING",
+    "address": "#143 2710 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-02-08T05:39:25.000Z",
+    "expiryDate": "2027-02-07T05:39:25.000Z",
+    "coordinates": [
+      -113.9968943,
+      51.0552042
+    ],
+    "longitude": -113.9968943,
+    "latitude": 51.0552042,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

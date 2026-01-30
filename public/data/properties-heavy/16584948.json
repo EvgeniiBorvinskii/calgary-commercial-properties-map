@@ -1,0 +1,36 @@
+{
+  "id": "16584948",
+  "fullDetails": {
+    "licenseNumber": "16584948",
+    "name": "LIGHT GYMNASTIC",
+    "address": "6404 6A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-01-22T15:07:36.000Z",
+    "expiryDate": "2026-01-21T15:07:36.000Z",
+    "coordinates": [
+      -114.0483815,
+      50.9980355
+    ],
+    "longitude": -114.0483815,
+    "latitude": 50.9980355,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

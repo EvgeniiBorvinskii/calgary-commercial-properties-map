@@ -1,0 +1,36 @@
+{
+  "id": "507285",
+  "fullDetails": {
+    "licenseNumber": "507285",
+    "name": "FEDERATED CO-OPERATIVES",
+    "address": "1020 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-28T00:00:00.000Z",
+    "coordinates": [
+      -113.995121,
+      51.0605512
+    ],
+    "longitude": -113.995121,
+    "latitude": 51.0605512,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

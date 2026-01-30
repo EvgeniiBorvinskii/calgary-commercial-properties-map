@@ -1,0 +1,36 @@
+{
+  "id": "15897119",
+  "fullDetails": {
+    "licenseNumber": "15897119",
+    "name": "MRO ELECTRONIC SUPPLY",
+    "address": "#104 4925 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-06-09T06:15:57.000Z",
+    "expiryDate": "2026-06-08T06:15:56.000Z",
+    "coordinates": [
+      -114.0028083,
+      51.0969263
+    ],
+    "longitude": -114.0028083,
+    "latitude": 51.0969263,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

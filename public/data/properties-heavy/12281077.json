@@ -1,0 +1,36 @@
+{
+  "id": "12281077",
+  "fullDetails": {
+    "licenseNumber": "12281077",
+    "name": "PROSTHETIC CONCEPTS",
+    "address": "3515G 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-07-20T05:33:33.000Z",
+    "expiryDate": "2026-07-19T05:33:33.000Z",
+    "coordinates": [
+      -114.1379977,
+      51.0374699
+    ],
+    "longitude": -114.1379977,
+    "latitude": 51.0374699,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

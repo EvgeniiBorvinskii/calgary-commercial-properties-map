@@ -1,0 +1,36 @@
+{
+  "id": "12030134",
+  "fullDetails": {
+    "licenseNumber": "12030134",
+    "name": "RUNNING ROOM CANADA",
+    "address": "59 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-09-20T18:00:00.000Z",
+    "expiryDate": "2026-09-19T05:34:25.000Z",
+    "coordinates": [
+      -114.0684981,
+      50.9059151
+    ],
+    "longitude": -114.0684981,
+    "latitude": 50.9059151,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

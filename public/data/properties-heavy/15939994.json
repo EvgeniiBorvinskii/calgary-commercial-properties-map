@@ -1,0 +1,37 @@
+{
+  "id": "15939994",
+  "fullDetails": {
+    "licenseNumber": "15939994",
+    "name": "HUE THUONG",
+    "address": "#144 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-10-15T05:31:27.000Z",
+    "expiryDate": "2026-10-14T05:31:27.000Z",
+    "coordinates": [
+      -113.9577514,
+      51.0361027
+    ],
+    "longitude": -113.9577514,
+    "latitude": 51.0361027,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

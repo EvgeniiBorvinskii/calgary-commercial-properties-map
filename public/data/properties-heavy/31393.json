@@ -1,0 +1,36 @@
+{
+  "id": "31393",
+  "fullDetails": {
+    "licenseNumber": "31393",
+    "name": "CAL CRESTS",
+    "address": "1239 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-11-08T05:33:27.000Z",
+    "expiryDate": "2026-11-07T05:33:27.000Z",
+    "coordinates": [
+      -114.0346945,
+      51.0928497
+    ],
+    "longitude": -114.0346945,
+    "latitude": 51.0928497,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

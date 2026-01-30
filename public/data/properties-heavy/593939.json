@@ -1,0 +1,36 @@
+{
+  "id": "593939",
+  "fullDetails": {
+    "licenseNumber": "593939",
+    "name": "MATRIX LOGISTICS SERVICES",
+    "address": "2525 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-01-09T05:38:12.000Z",
+    "expiryDate": "2027-01-08T05:38:12.000Z",
+    "coordinates": [
+      -113.9950124,
+      51.0729986
+    ],
+    "longitude": -113.9950124,
+    "latitude": 51.0729986,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

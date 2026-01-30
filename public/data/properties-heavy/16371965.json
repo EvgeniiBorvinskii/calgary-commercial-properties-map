@@ -1,0 +1,37 @@
+{
+  "id": "16371965",
+  "fullDetails": {
+    "licenseNumber": "16371965",
+    "name": "MULTIFAMILY FLOORING",
+    "address": "5053 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-15T07:35:05.000Z",
+    "expiryDate": "2026-09-14T07:35:05.000Z",
+    "coordinates": [
+      -114.0379581,
+      51.0074762
+    ],
+    "longitude": -114.0379581,
+    "latitude": 51.0074762,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

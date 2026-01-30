@@ -1,0 +1,37 @@
+{
+  "id": "15887631",
+  "fullDetails": {
+    "licenseNumber": "15887631",
+    "name": "HAIDER DESIGN GROUP",
+    "address": "1728 46 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-03-12T13:49:46.000Z",
+    "expiryDate": "2026-03-11T13:49:46.000Z",
+    "coordinates": [
+      -114.1616744,
+      51.0717677
+    ],
+    "longitude": -114.1616744,
+    "latitude": 51.0717677,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

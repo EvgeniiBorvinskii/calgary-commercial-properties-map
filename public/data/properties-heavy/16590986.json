@@ -1,0 +1,36 @@
+{
+  "id": "16590986",
+  "fullDetails": {
+    "licenseNumber": "16590986",
+    "name": "BOTTLE BARN LIQUOR OUTLET",
+    "address": "#21 1200 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2025-04-03T14:13:12.000Z",
+    "expiryDate": "2026-04-02T14:13:12.000Z",
+    "coordinates": [
+      -114.1397228,
+      51.0428429
+    ],
+    "longitude": -114.1397228,
+    "latitude": 51.0428429,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

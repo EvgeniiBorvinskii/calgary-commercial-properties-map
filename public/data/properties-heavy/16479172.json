@@ -1,0 +1,36 @@
+{
+  "id": "16479172",
+  "fullDetails": {
+    "licenseNumber": "16479172",
+    "name": "JD AND TWINS  AUTOBODY",
+    "address": "4524 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2024-05-09T14:43:34.000Z",
+    "expiryDate": "2026-05-08T14:43:34.000Z",
+    "coordinates": [
+      -114.0273273,
+      51.0926783
+    ],
+    "longitude": -114.0273273,
+    "latitude": 51.0926783,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

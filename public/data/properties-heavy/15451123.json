@@ -1,0 +1,36 @@
+{
+  "id": "15451123",
+  "fullDetails": {
+    "licenseNumber": "15451123",
+    "name": "MINUTEMAN PRESS",
+    "address": "6035 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-04-18T10:22:22.000Z",
+    "expiryDate": "2026-04-17T10:22:22.000Z",
+    "coordinates": [
+      -114.0497541,
+      50.9992287
+    ],
+    "longitude": -114.0497541,
+    "latitude": 50.9992287,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

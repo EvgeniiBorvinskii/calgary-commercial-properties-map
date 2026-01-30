@@ -1,0 +1,36 @@
+{
+  "id": "13670286",
+  "fullDetails": {
+    "licenseNumber": "13670286",
+    "name": "SHIELD RESTORATIONS",
+    "address": "#209 239 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-02-16T10:54:22.000Z",
+    "expiryDate": "2026-02-15T10:54:22.000Z",
+    "coordinates": [
+      -114.0629777,
+      50.9126106
+    ],
+    "longitude": -114.0629777,
+    "latitude": 50.9126106,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

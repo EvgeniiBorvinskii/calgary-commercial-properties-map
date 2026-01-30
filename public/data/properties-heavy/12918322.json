@@ -1,0 +1,36 @@
+{
+  "id": "12918322",
+  "fullDetails": {
+    "licenseNumber": "12918322",
+    "name": "SUBWAY SANDWICHES & SALADS",
+    "address": "#101 831 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2010-04-20T11:59:06.000Z",
+    "expiryDate": "2026-04-19T11:59:06.000Z",
+    "coordinates": [
+      -114.054792,
+      51.0595459
+    ],
+    "longitude": -114.054792,
+    "latitude": 51.0595459,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

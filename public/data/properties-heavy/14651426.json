@@ -1,0 +1,37 @@
+{
+  "id": "14651426",
+  "fullDetails": {
+    "licenseNumber": "14651426",
+    "name": "OGRE'S DEN GAMING CLUB",
+    "address": "#23 3220 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-12-07T10:32:52.000Z",
+    "expiryDate": "2026-12-06T10:32:52.000Z",
+    "coordinates": [
+      -113.9864916,
+      51.0576368
+    ],
+    "longitude": -113.9864916,
+    "latitude": 51.0576368,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

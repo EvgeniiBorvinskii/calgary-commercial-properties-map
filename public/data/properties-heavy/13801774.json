@@ -1,0 +1,36 @@
+{
+  "id": "13801774",
+  "fullDetails": {
+    "licenseNumber": "13801774",
+    "name": "AUTO-MANN",
+    "address": "4528 MANILLA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-05-08T15:55:18.000Z",
+    "expiryDate": "2026-05-07T15:55:18.000Z",
+    "coordinates": [
+      -114.0499938,
+      51.0132505
+    ],
+    "longitude": -114.0499938,
+    "latitude": 51.0132505,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

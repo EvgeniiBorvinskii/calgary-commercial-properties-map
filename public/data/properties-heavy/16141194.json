@@ -1,0 +1,37 @@
+{
+  "id": "16141194",
+  "fullDetails": {
+    "licenseNumber": "16141194",
+    "name": "LINAS ITALIAN DISTRIBUTION",
+    "address": "4009 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-04-29T13:27:35.000Z",
+    "expiryDate": "2026-04-28T13:27:35.000Z",
+    "coordinates": [
+      -114.0378924,
+      51.0202586
+    ],
+    "longitude": -114.0378924,
+    "latitude": 51.0202586,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

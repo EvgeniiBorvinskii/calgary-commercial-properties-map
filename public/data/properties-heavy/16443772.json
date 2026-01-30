@@ -1,0 +1,36 @@
+{
+  "id": "16443772",
+  "fullDetails": {
+    "licenseNumber": "16443772",
+    "name": "ZENITH HUMAN PERFORMANCE",
+    "address": "5737 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2024-03-05T17:28:50.000Z",
+    "expiryDate": "2026-03-04T17:28:50.000Z",
+    "coordinates": [
+      -114.046048,
+      51.0029448
+    ],
+    "longitude": -114.046048,
+    "latitude": 51.0029448,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

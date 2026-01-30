@@ -1,0 +1,36 @@
+{
+  "id": "144287",
+  "fullDetails": {
+    "licenseNumber": "144287",
+    "name": "MOLI INDUSTRIES",
+    "address": "1880 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-02T00:00:00.000Z",
+    "coordinates": [
+      -114.0111967,
+      51.0530685
+    ],
+    "longitude": -114.0111967,
+    "latitude": 51.0530685,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

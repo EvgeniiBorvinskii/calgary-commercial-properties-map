@@ -1,0 +1,36 @@
+{
+  "id": "15006703",
+  "fullDetails": {
+    "licenseNumber": "15006703",
+    "name": "PHOTON ELECTRIC",
+    "address": "5507 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-08-24T10:45:40.000Z",
+    "expiryDate": "2026-08-23T10:45:40.000Z",
+    "coordinates": [
+      -114.0634584,
+      51.0052945
+    ],
+    "longitude": -114.0634584,
+    "latitude": 51.0052945,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

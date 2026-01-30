@@ -1,0 +1,36 @@
+{
+  "id": "16142630",
+  "fullDetails": {
+    "licenseNumber": "16142630",
+    "name": "RIDLEYS CYCLE",
+    "address": "490 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-22T15:41:35.000Z",
+    "expiryDate": "2026-03-21T15:41:35.000Z",
+    "coordinates": [
+      -114.171658,
+      51.0162536
+    ],
+    "longitude": -114.171658,
+    "latitude": 51.0162536,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12546784",
+  "fullDetails": {
+    "licenseNumber": "12546784",
+    "name": "JAMESONS RESTAURANT AND BAR",
+    "address": "3790 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2011-11-22T09:38:58.000Z",
+    "expiryDate": "2026-11-21T09:38:58.000Z",
+    "coordinates": [
+      -114.1285136,
+      51.0862213
+    ],
+    "longitude": -114.1285136,
+    "latitude": 51.0862213,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

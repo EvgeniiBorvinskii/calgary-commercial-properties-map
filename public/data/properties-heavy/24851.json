@@ -1,0 +1,37 @@
+{
+  "id": "24851",
+  "fullDetails": {
+    "licenseNumber": "24851",
+    "name": "CALGARY GYMNASTICS CENTRE",
+    "address": "179 CANADA OLYMPIC RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2003-12-23T05:37:57.000Z",
+    "expiryDate": "2026-12-22T05:37:57.000Z",
+    "coordinates": [
+      -114.2233487,
+      51.082606
+    ],
+    "longitude": -114.2233487,
+    "latitude": 51.082606,
+    "community": "CANADA OLYMPIC PARK",
+    "ward": "COP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

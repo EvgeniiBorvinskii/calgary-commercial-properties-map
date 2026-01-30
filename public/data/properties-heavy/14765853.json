@@ -1,0 +1,36 @@
+{
+  "id": "14765853",
+  "fullDetails": {
+    "licenseNumber": "14765853",
+    "name": "DAIGCO 1 ENTERPRISES O/A MINUTEMAN PRESS CALGARY SHEPARD",
+    "address": "#10 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-12-19T08:19:40.000Z",
+    "expiryDate": "2026-12-18T08:19:40.000Z",
+    "coordinates": [
+      -113.9705136,
+      50.952069
+    ],
+    "longitude": -113.9705136,
+    "latitude": 50.952069,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

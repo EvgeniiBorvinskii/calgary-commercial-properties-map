@@ -1,0 +1,36 @@
+{
+  "id": "16531287",
+  "fullDetails": {
+    "licenseNumber": "16531287",
+    "name": "A1 CHOICE RENOVATION",
+    "address": "#2115 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2025-12-03T08:25:46.000Z",
+    "expiryDate": "2026-12-02T08:25:46.000Z",
+    "coordinates": [
+      -113.979233,
+      51.110746
+    ],
+    "longitude": -113.979233,
+    "latitude": 51.110746,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

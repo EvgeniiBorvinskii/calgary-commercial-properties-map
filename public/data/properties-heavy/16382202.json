@@ -1,0 +1,36 @@
+{
+  "id": "16382202",
+  "fullDetails": {
+    "licenseNumber": "16382202",
+    "name": "BELL",
+    "address": "#130 115 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-22T14:32:42.000Z",
+    "expiryDate": "2026-09-21T14:32:42.000Z",
+    "coordinates": [
+      -114.0929616,
+      51.1822882
+    ],
+    "longitude": -114.0929616,
+    "latitude": 51.1822882,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

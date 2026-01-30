@@ -1,0 +1,37 @@
+{
+  "id": "15894520",
+  "fullDetails": {
+    "licenseNumber": "15894520",
+    "name": "HIEP HOA ASIAN FOOD MARKET",
+    "address": "#E 4710 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2020-04-07T11:34:11.000Z",
+    "expiryDate": "2026-04-06T11:34:11.000Z",
+    "coordinates": [
+      -113.9674445,
+      51.0388767
+    ],
+    "longitude": -113.9674445,
+    "latitude": 51.0388767,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

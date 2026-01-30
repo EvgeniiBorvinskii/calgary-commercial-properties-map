@@ -1,0 +1,37 @@
+{
+  "id": "16105637",
+  "fullDetails": {
+    "licenseNumber": "16105637",
+    "name": "LULU",
+    "address": "4815 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "in_progress",
+    "issuedDate": "2021-12-05T10:44:57.000Z",
+    "expiryDate": "2025-12-04T10:44:57.000Z",
+    "coordinates": [
+      -114.0628285,
+      51.0954023
+    ],
+    "longitude": -114.0628285,
+    "latitude": 51.0954023,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

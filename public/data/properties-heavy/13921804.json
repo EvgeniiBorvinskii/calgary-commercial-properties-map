@@ -1,0 +1,36 @@
+{
+  "id": "13921804",
+  "fullDetails": {
+    "licenseNumber": "13921804",
+    "name": "ACE LIQUOR DISCOUNTER AT SPRINGBANK",
+    "address": "#101 722 85 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2015-03-18T09:44:51.000Z",
+    "expiryDate": "2026-03-17T09:44:51.000Z",
+    "coordinates": [
+      -114.2105799,
+      51.0662796
+    ],
+    "longitude": -114.2105799,
+    "latitude": 51.0662796,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16458671",
+  "fullDetails": {
+    "licenseNumber": "16458671",
+    "name": "MONA NAIL LOUNGE",
+    "address": "#103 60 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2024-03-11T15:47:46.000Z",
+    "expiryDate": "2026-03-10T15:47:46.000Z",
+    "coordinates": [
+      -114.14649,
+      51.1696146
+    ],
+    "longitude": -114.14649,
+    "latitude": 51.1696146,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

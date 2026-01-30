@@ -1,0 +1,36 @@
+{
+  "id": "15217011",
+  "fullDetails": {
+    "licenseNumber": "15217011",
+    "name": "THE COLOR ROOM",
+    "address": "#205E 8855 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2019-01-29T15:30:46.000Z",
+    "expiryDate": "2026-01-28T15:30:46.000Z",
+    "coordinates": [
+      -114.0730133,
+      50.9746736
+    ],
+    "longitude": -114.0730133,
+    "latitude": 50.9746736,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

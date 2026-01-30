@@ -1,0 +1,37 @@
+{
+  "id": "16615965",
+  "fullDetails": {
+    "licenseNumber": "16615965",
+    "name": "BARBERSHOP",
+    "address": "#522 6700 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-04-17T15:51:37.000Z",
+    "expiryDate": "2026-04-16T15:51:36.000Z",
+    "coordinates": [
+      -114.0699556,
+      50.9936931
+    ],
+    "longitude": -114.0699556,
+    "latitude": 50.9936931,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

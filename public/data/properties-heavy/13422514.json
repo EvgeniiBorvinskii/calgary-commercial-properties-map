@@ -1,0 +1,37 @@
+{
+  "id": "13422514",
+  "fullDetails": {
+    "licenseNumber": "13422514",
+    "name": "MUCHO BURRITO/YAAD GAAR",
+    "address": "#132 306 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2012-08-21T05:46:32.000Z",
+    "expiryDate": "2026-08-20T05:46:32.000Z",
+    "coordinates": [
+      -114.2077908,
+      51.039109
+    ],
+    "longitude": -114.2077908,
+    "latitude": 51.039109,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

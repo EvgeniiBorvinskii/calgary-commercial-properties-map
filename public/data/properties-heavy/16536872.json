@@ -1,0 +1,36 @@
+{
+  "id": "16536872",
+  "fullDetails": {
+    "licenseNumber": "16536872",
+    "name": "MARROON HOMES",
+    "address": "#255 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0056011,
+      51.0801378
+    ],
+    "longitude": -114.0056011,
+    "latitude": 51.0801378,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

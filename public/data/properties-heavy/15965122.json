@@ -1,0 +1,36 @@
+{
+  "id": "15965122",
+  "fullDetails": {
+    "licenseNumber": "15965122",
+    "name": "CANADA PUMP AND POWER",
+    "address": "#2 5915 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-15T16:01:53.000Z",
+    "expiryDate": "2026-05-14T16:01:53.000Z",
+    "coordinates": [
+      -113.9821653,
+      51.000969
+    ],
+    "longitude": -113.9821653,
+    "latitude": 51.000969,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

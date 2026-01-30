@@ -1,0 +1,36 @@
+{
+  "id": "7567",
+  "fullDetails": {
+    "licenseNumber": "7567",
+    "name": "B D W ELECTRICAL INSTALLATIONS",
+    "address": "424 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-01-25T05:32:18.000Z",
+    "expiryDate": "2027-01-24T05:32:18.000Z",
+    "coordinates": [
+      -114.0545431,
+      51.0115204
+    ],
+    "longitude": -114.0545431,
+    "latitude": 51.0115204,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

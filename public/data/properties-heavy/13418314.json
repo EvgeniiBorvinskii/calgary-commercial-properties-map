@@ -1,0 +1,36 @@
+{
+  "id": "13418314",
+  "fullDetails": {
+    "licenseNumber": "13418314",
+    "name": "ROOF RIGHT SOLUTIONS",
+    "address": "#300 340 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-06-14T09:32:10.000Z",
+    "expiryDate": "2026-06-13T09:32:10.000Z",
+    "coordinates": [
+      -114.0631074,
+      50.9083768
+    ],
+    "longitude": -114.0631074,
+    "latitude": 50.9083768,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

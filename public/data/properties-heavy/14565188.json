@@ -1,0 +1,36 @@
+{
+  "id": "14565188",
+  "fullDetails": {
+    "licenseNumber": "14565188",
+    "name": "DREAM SLEEP RESPIRATORY SERVICES",
+    "address": "#212 555 STRATHCONA BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-01T10:16:10.000Z",
+    "expiryDate": "2026-08-31T10:16:10.000Z",
+    "coordinates": [
+      -114.184863,
+      51.0486434
+    ],
+    "longitude": -114.184863,
+    "latitude": 51.0486434,
+    "community": "STRATHCONA PARK",
+    "ward": "STR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

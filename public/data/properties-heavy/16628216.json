@@ -1,0 +1,36 @@
+{
+  "id": "16628216",
+  "fullDetails": {
+    "licenseNumber": "16628216",
+    "name": "GREY GOAT HARDWARE CALGARY",
+    "address": "#248 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-06-17T12:04:15.000Z",
+    "expiryDate": "2026-06-16T12:04:15.000Z",
+    "coordinates": [
+      -113.9902012,
+      51.0144273
+    ],
+    "longitude": -113.9902012,
+    "latitude": 51.0144273,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

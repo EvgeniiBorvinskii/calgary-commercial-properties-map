@@ -1,0 +1,36 @@
+{
+  "id": "12868972",
+  "fullDetails": {
+    "licenseNumber": "12868972",
+    "name": "PERFECT HOME",
+    "address": "48 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-12-24T11:46:36.000Z",
+    "expiryDate": "2026-12-23T11:46:36.000Z",
+    "coordinates": [
+      -114.0428395,
+      50.9882209
+    ],
+    "longitude": -114.0428395,
+    "latitude": 50.9882209,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

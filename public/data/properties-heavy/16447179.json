@@ -1,0 +1,36 @@
+{
+  "id": "16447179",
+  "fullDetails": {
+    "licenseNumber": "16447179",
+    "name": "ERK CONSTRUCTION",
+    "address": "11929 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-07T11:41:18.000Z",
+    "expiryDate": "2026-06-06T11:41:17.000Z",
+    "coordinates": [
+      -113.9775056,
+      50.9437563
+    ],
+    "longitude": -113.9775056,
+    "latitude": 50.9437563,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16699167",
+  "fullDetails": {
+    "licenseNumber": "16699167",
+    "name": "HAIRHOOD",
+    "address": "#135 70 SADDLEPEACE MR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2026-01-06T10:09:48.000Z",
+    "expiryDate": "2027-01-05T10:09:48.000Z",
+    "coordinates": [
+      -113.9662051,
+      51.1313538
+    ],
+    "longitude": -113.9662051,
+    "latitude": 51.1313538,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

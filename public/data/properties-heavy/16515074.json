@@ -1,0 +1,37 @@
+{
+  "id": "16515074",
+  "fullDetails": {
+    "licenseNumber": "16515074",
+    "name": "AERLUME",
+    "address": "#206 1039 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-07T14:44:48.000Z",
+    "expiryDate": "2026-08-06T14:44:48.000Z",
+    "coordinates": [
+      -114.0866591,
+      51.0376086
+    ],
+    "longitude": -114.0866591,
+    "latitude": 51.0376086,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

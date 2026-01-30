@@ -1,0 +1,36 @@
+{
+  "id": "16166027",
+  "fullDetails": {
+    "licenseNumber": "16166027",
+    "name": "LANDLOC ENVIRONMENTAL PRODUCTS",
+    "address": "#2 1826 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2022-06-27T14:36:46.000Z",
+    "expiryDate": "2025-06-26T14:36:46.000Z",
+    "coordinates": [
+      -114.0152509,
+      51.0752278
+    ],
+    "longitude": -114.0152509,
+    "latitude": 51.0752278,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

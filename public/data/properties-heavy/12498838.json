@@ -1,0 +1,37 @@
+{
+  "id": "12498838",
+  "fullDetails": {
+    "licenseNumber": "12498838",
+    "name": "WINNERS APPAREL",
+    "address": "11686 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-01-10T14:51:32.000Z",
+    "expiryDate": "2027-01-09T14:51:32.000Z",
+    "coordinates": [
+      -114.1558,
+      51.1567268
+    ],
+    "longitude": -114.1558,
+    "latitude": 51.1567268,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

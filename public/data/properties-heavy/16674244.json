@@ -1,0 +1,36 @@
+{
+  "id": "16674244",
+  "fullDetails": {
+    "licenseNumber": "16674244",
+    "name": "ZILFORDS FRIED CHICKEN (CGY-1032)",
+    "address": "#107 3851 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2025-10-22T11:18:32.000Z",
+    "expiryDate": "2026-10-21T11:18:32.000Z",
+    "coordinates": [
+      -114.0586229,
+      51.0203319
+    ],
+    "longitude": -114.0586229,
+    "latitude": 51.0203319,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

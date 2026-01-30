@@ -1,0 +1,36 @@
+{
+  "id": "16269896",
+  "fullDetails": {
+    "licenseNumber": "16269896",
+    "name": "7 HEAVEN CONSTRUCTION",
+    "address": "58 TARINGTON PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-01-13T05:30:11.000Z",
+    "expiryDate": "2026-01-12T05:30:11.000Z",
+    "coordinates": [
+      -113.9253688,
+      51.1176068
+    ],
+    "longitude": -113.9253688,
+    "latitude": 51.1176068,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

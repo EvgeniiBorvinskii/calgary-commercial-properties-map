@@ -1,0 +1,36 @@
+{
+  "id": "12404802",
+  "fullDetails": {
+    "licenseNumber": "12404802",
+    "name": "GREENHAWK HARNESS & EQUESTRIAN SUPPLIES",
+    "address": "#16 12204 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-07-13T12:22:11.000Z",
+    "expiryDate": "2026-07-12T12:22:11.000Z",
+    "coordinates": [
+      -113.9731513,
+      50.9405612
+    ],
+    "longitude": -113.9731513,
+    "latitude": 50.9405612,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

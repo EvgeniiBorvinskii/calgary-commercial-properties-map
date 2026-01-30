@@ -1,0 +1,36 @@
+{
+  "id": "15427917",
+  "fullDetails": {
+    "licenseNumber": "15427917",
+    "name": "KASIA WELLNESS",
+    "address": "#1226 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-04-26T15:16:01.000Z",
+    "expiryDate": "2026-04-25T15:16:01.000Z",
+    "coordinates": [
+      -114.2067191,
+      51.152791
+    ],
+    "longitude": -114.2067191,
+    "latitude": 51.152791,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

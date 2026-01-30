@@ -1,0 +1,36 @@
+{
+  "id": "13895677",
+  "fullDetails": {
+    "licenseNumber": "13895677",
+    "name": "ICEBREAKER CANADA",
+    "address": "#1159 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-12-16T15:26:07.000Z",
+    "expiryDate": "2026-12-15T15:26:07.000Z",
+    "coordinates": [
+      -114.0733566,
+      51.000048
+    ],
+    "longitude": -114.0733566,
+    "latitude": 51.000048,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

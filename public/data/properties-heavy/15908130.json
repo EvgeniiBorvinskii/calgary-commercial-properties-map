@@ -1,0 +1,37 @@
+{
+  "id": "15908130",
+  "fullDetails": {
+    "licenseNumber": "15908130",
+    "name": "LA MANO",
+    "address": "#101 342 15 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-29T09:09:15.000Z",
+    "expiryDate": "2026-03-28T09:09:15.000Z",
+    "coordinates": [
+      -114.0709609,
+      51.0391513
+    ],
+    "longitude": -114.0709609,
+    "latitude": 51.0391513,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

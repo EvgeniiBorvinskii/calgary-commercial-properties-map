@@ -1,0 +1,36 @@
+{
+  "id": "12898680",
+  "fullDetails": {
+    "licenseNumber": "12898680",
+    "name": "FLOCOR",
+    "address": "9144 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-04-21T08:02:56.000Z",
+    "expiryDate": "2026-04-20T08:02:56.000Z",
+    "coordinates": [
+      -113.9574679,
+      50.9715109
+    ],
+    "longitude": -113.9574679,
+    "latitude": 50.9715109,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

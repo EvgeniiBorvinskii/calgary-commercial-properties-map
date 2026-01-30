@@ -1,0 +1,36 @@
+{
+  "id": "12340345",
+  "fullDetails": {
+    "licenseNumber": "12340345",
+    "name": "SOUTHRIDGE PLACE APARTMENTS",
+    "address": "502 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2004-12-02T09:56:23.000Z",
+    "expiryDate": "2026-12-01T09:56:23.000Z",
+    "coordinates": [
+      -114.0737122,
+      51.0015118
+    ],
+    "longitude": -114.0737122,
+    "latitude": 51.0015118,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

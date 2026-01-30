@@ -1,0 +1,36 @@
+{
+  "id": "4283",
+  "fullDetails": {
+    "licenseNumber": "4283",
+    "name": "TRAINS AND SUCH",
+    "address": "6043 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-10-20T05:55:23.000Z",
+    "expiryDate": "2026-10-19T05:55:23.000Z",
+    "coordinates": [
+      -114.0644531,
+      50.9988709
+    ],
+    "longitude": -114.0644531,
+    "latitude": 50.9988709,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

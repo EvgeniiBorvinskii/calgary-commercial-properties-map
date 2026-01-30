@@ -1,0 +1,37 @@
+{
+  "id": "16026825",
+  "fullDetails": {
+    "licenseNumber": "16026825",
+    "name": "HIGHLAND BUDS",
+    "address": "118 40 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-05-19T12:20:26.000Z",
+    "expiryDate": "2026-05-18T12:20:26.000Z",
+    "coordinates": [
+      -114.0636263,
+      51.088902
+    ],
+    "longitude": -114.0636263,
+    "latitude": 51.088902,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

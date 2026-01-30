@@ -1,0 +1,36 @@
+{
+  "id": "16311607",
+  "fullDetails": {
+    "licenseNumber": "16311607",
+    "name": "BSW LIQUOR",
+    "address": "#309 5303 68 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-06-22T14:33:22.000Z",
+    "expiryDate": "2026-06-21T14:33:22.000Z",
+    "coordinates": [
+      -113.9573977,
+      50.9930696
+    ],
+    "longitude": -113.9573977,
+    "latitude": 50.9930696,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

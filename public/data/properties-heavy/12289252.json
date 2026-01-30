@@ -1,0 +1,36 @@
+{
+  "id": "12289252",
+  "fullDetails": {
+    "licenseNumber": "12289252",
+    "name": "BONNYBROOK BOLT MFG",
+    "address": "1415 38 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-12-04T05:34:14.000Z",
+    "expiryDate": "2026-12-03T05:34:14.000Z",
+    "coordinates": [
+      -114.0285679,
+      51.0199212
+    ],
+    "longitude": -114.0285679,
+    "latitude": 51.0199212,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

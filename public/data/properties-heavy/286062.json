@@ -1,0 +1,37 @@
+{
+  "id": "286062",
+  "fullDetails": {
+    "licenseNumber": "286062",
+    "name": "RX7 SPECIALTIES",
+    "address": "3813 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-05T00:00:00.000Z",
+    "coordinates": [
+      -114.1424961,
+      51.0370868
+    ],
+    "longitude": -114.1424961,
+    "latitude": 51.0370868,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

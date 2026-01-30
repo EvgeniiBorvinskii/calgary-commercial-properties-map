@@ -1,0 +1,37 @@
+{
+  "id": "15991516",
+  "fullDetails": {
+    "licenseNumber": "15991516",
+    "name": "CANNA CABANA",
+    "address": "#115 8835 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-02-22T12:33:18.000Z",
+    "expiryDate": "2027-02-21T12:33:18.000Z",
+    "coordinates": [
+      -114.0734586,
+      50.9753023
+    ],
+    "longitude": -114.0734586,
+    "latitude": 50.9753023,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

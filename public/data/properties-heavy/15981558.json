@@ -1,0 +1,37 @@
+{
+  "id": "15981558",
+  "fullDetails": {
+    "licenseNumber": "15981558",
+    "name": "CIRCLE K",
+    "address": "1202 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2021-02-22T11:38:08.000Z",
+    "expiryDate": "2026-02-21T11:38:08.000Z",
+    "coordinates": [
+      -114.0894317,
+      51.0381464
+    ],
+    "longitude": -114.0894317,
+    "latitude": 51.0381464,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

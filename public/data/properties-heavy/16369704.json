@@ -1,0 +1,37 @@
+{
+  "id": "16369704",
+  "fullDetails": {
+    "licenseNumber": "16369704",
+    "name": "BARRY'S BOOTCAMP",
+    "address": "2306 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-11-07T05:33:22.000Z",
+    "expiryDate": "2026-11-06T05:33:22.000Z",
+    "coordinates": [
+      -114.0712799,
+      51.0321339
+    ],
+    "longitude": -114.0712799,
+    "latitude": 51.0321339,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

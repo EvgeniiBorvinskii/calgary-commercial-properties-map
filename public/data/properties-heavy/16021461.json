@@ -1,0 +1,37 @@
+{
+  "id": "16021461",
+  "fullDetails": {
+    "licenseNumber": "16021461",
+    "name": "REJUVENESSE",
+    "address": "#108 8180 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2022-12-01T15:48:10.000Z",
+    "expiryDate": "2026-11-30T15:48:09.000Z",
+    "coordinates": [
+      -114.0704234,
+      50.9818455
+    ],
+    "longitude": -114.0704234,
+    "latitude": 50.9818455,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

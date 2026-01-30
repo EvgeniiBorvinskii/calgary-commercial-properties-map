@@ -1,0 +1,36 @@
+{
+  "id": "13416623",
+  "fullDetails": {
+    "licenseNumber": "13416623",
+    "name": "CALGARY CO-OP TOUCHLESS CAR WASH #09",
+    "address": "2506 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2014-01-28T05:33:27.000Z",
+    "expiryDate": "2027-01-27T05:33:27.000Z",
+    "coordinates": [
+      -113.9577421,
+      51.0743
+    ],
+    "longitude": -113.9577421,
+    "latitude": 51.0743,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

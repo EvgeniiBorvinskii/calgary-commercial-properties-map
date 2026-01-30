@@ -1,0 +1,36 @@
+{
+  "id": "14033609",
+  "fullDetails": {
+    "licenseNumber": "14033609",
+    "name": "MAJESTIC HYDROTEST & FIRE",
+    "address": "#120 239 MAYLAND PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-09-28T10:14:54.000Z",
+    "expiryDate": "2026-09-27T10:14:54.000Z",
+    "coordinates": [
+      -114.0117983,
+      51.0544302
+    ],
+    "longitude": -114.0117983,
+    "latitude": 51.0544302,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

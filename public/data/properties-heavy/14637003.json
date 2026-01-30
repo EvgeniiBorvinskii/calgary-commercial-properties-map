@@ -1,0 +1,36 @@
+{
+  "id": "14637003",
+  "fullDetails": {
+    "licenseNumber": "14637003",
+    "name": "MATTE BLACK DESIGN STUDIO",
+    "address": "413 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2020-03-26T12:56:52.000Z",
+    "expiryDate": "2026-03-25T12:56:51.000Z",
+    "coordinates": [
+      -114.0555899,
+      50.9926375
+    ],
+    "longitude": -114.0555899,
+    "latitude": 50.9926375,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

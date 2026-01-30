@@ -1,0 +1,36 @@
+{
+  "id": "13979687",
+  "fullDetails": {
+    "licenseNumber": "13979687",
+    "name": "UNIFIED VALVE",
+    "address": "3815 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-07-14T14:18:49.000Z",
+    "expiryDate": "2026-07-13T14:18:49.000Z",
+    "coordinates": [
+      -113.9892831,
+      51.0872758
+    ],
+    "longitude": -113.9892831,
+    "latitude": 51.0872758,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16657652",
+  "fullDetails": {
+    "licenseNumber": "16657652",
+    "name": "PAYMORE",
+    "address": "#208 6100 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2026-01-02T08:02:45.000Z",
+    "expiryDate": "2027-01-01T08:02:44.000Z",
+    "coordinates": [
+      -114.0700048,
+      50.9984482
+    ],
+    "longitude": -114.0700048,
+    "latitude": 50.9984482,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

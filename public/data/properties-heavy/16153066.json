@@ -1,0 +1,36 @@
+{
+  "id": "16153066",
+  "fullDetails": {
+    "licenseNumber": "16153066",
+    "name": "THERAPEUTIC HANDS MASSAGE CLINIC",
+    "address": "1104 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2022-06-03T08:21:58.000Z",
+    "expiryDate": "2026-06-02T08:21:58.000Z",
+    "coordinates": [
+      -114.0861732,
+      51.0427621
+    ],
+    "longitude": -114.0861732,
+    "latitude": 51.0427621,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

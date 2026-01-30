@@ -1,0 +1,37 @@
+{
+  "id": "462556",
+  "fullDetails": {
+    "licenseNumber": "462556",
+    "name": "WALLWORKS ACOUSTIC ARCHITECTURAL PRODUCTS",
+    "address": "424 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-06-27T05:33:53.000Z",
+    "expiryDate": "2026-06-26T05:33:53.000Z",
+    "coordinates": [
+      -114.0555488,
+      51.0077855
+    ],
+    "longitude": -114.0555488,
+    "latitude": 51.0077855,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

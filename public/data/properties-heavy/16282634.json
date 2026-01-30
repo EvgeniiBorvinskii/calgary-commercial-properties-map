@@ -1,0 +1,36 @@
+{
+  "id": "16282634",
+  "fullDetails": {
+    "licenseNumber": "16282634",
+    "name": "WIRED BIKE",
+    "address": "#12 7930 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-09T05:33:45.000Z",
+    "expiryDate": "2026-03-08T05:33:45.000Z",
+    "coordinates": [
+      -114.2012069,
+      51.0894971
+    ],
+    "longitude": -114.2012069,
+    "latitude": 51.0894971,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

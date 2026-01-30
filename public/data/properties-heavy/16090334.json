@@ -1,0 +1,36 @@
+{
+  "id": "16090334",
+  "fullDetails": {
+    "licenseNumber": "16090334",
+    "name": "REBECCA SEYMOUR MUSIC AND DRAMA CENTER",
+    "address": "#7D 2316 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-15T11:47:36.000Z",
+    "expiryDate": "2026-11-14T11:47:36.000Z",
+    "coordinates": [
+      -114.0061501,
+      51.0772522
+    ],
+    "longitude": -114.0061501,
+    "latitude": 51.0772522,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

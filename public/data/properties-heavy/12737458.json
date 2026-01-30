@@ -1,0 +1,36 @@
+{
+  "id": "12737458",
+  "fullDetails": {
+    "licenseNumber": "12737458",
+    "name": "SANEAL CAMERA SUPPLY",
+    "address": "#E1A 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-11-27T12:23:44.000Z",
+    "expiryDate": "2026-11-26T12:23:44.000Z",
+    "coordinates": [
+      -114.1551144,
+      51.0845039
+    ],
+    "longitude": -114.1551144,
+    "latitude": 51.0845039,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12535613",
+  "fullDetails": {
+    "licenseNumber": "12535613",
+    "name": "LOCH GALLERY",
+    "address": "314 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-04-22T09:49:17.000Z",
+    "expiryDate": "2026-04-21T09:49:17.000Z",
+    "coordinates": [
+      -114.0689991,
+      51.0417295
+    ],
+    "longitude": -114.0689991,
+    "latitude": 51.0417295,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12916615",
+  "fullDetails": {
+    "licenseNumber": "12916615",
+    "name": "MAGIC PRINTING",
+    "address": "#370 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-11T11:55:02.000Z",
+    "expiryDate": "2026-06-10T11:55:01.000Z",
+    "coordinates": [
+      -114.073688,
+      50.9673444
+    ],
+    "longitude": -114.073688,
+    "latitude": 50.9673444,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

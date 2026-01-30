@@ -1,0 +1,37 @@
+{
+  "id": "563429",
+  "fullDetails": {
+    "licenseNumber": "563429",
+    "name": "ACTION TYRE",
+    "address": "8240D 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2010-02-11T14:56:32.000Z",
+    "expiryDate": "2026-02-10T14:56:32.000Z",
+    "coordinates": [
+      -113.9876429,
+      50.9801426
+    ],
+    "longitude": -113.9876429,
+    "latitude": 50.9801426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

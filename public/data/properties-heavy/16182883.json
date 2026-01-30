@@ -1,0 +1,37 @@
+{
+  "id": "16182883",
+  "fullDetails": {
+    "licenseNumber": "16182883",
+    "name": "KATIE NAILS SPA",
+    "address": "#206 40 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2022-08-26T07:34:45.000Z",
+    "expiryDate": "2026-08-25T07:34:45.000Z",
+    "coordinates": [
+      -114.0706525,
+      51.142669
+    ],
+    "longitude": -114.0706525,
+    "latitude": 51.142669,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

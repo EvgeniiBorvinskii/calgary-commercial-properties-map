@@ -1,0 +1,36 @@
+{
+  "id": "16520488",
+  "fullDetails": {
+    "licenseNumber": "16520488",
+    "name": "CANNA CABANA",
+    "address": "#250 3630 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-07-24T08:14:57.000Z",
+    "expiryDate": "2026-07-23T08:14:57.000Z",
+    "coordinates": [
+      -114.1263338,
+      51.0847716
+    ],
+    "longitude": -114.1263338,
+    "latitude": 51.0847716,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12136065",
+  "fullDetails": {
+    "licenseNumber": "12136065",
+    "name": "DIVINE HARDWOOD FLOORING",
+    "address": "6717 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-09-13T05:30:26.000Z",
+    "expiryDate": "2026-09-12T05:30:26.000Z",
+    "coordinates": [
+      -114.0646387,
+      50.9932213
+    ],
+    "longitude": -114.0646387,
+    "latitude": 50.9932213,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

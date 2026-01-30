@@ -1,0 +1,37 @@
+{
+  "id": "14762314",
+  "fullDetails": {
+    "licenseNumber": "14762314",
+    "name": "BLINK RESTAURANT & BAR / ANNABELLE'S KITCHEN",
+    "address": "111 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-12-06T10:13:03.000Z",
+    "expiryDate": "2026-12-05T10:13:03.000Z",
+    "coordinates": [
+      -114.0638028,
+      51.0453019
+    ],
+    "longitude": -114.0638028,
+    "latitude": 51.0453019,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

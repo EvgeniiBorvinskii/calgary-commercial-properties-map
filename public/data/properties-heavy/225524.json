@@ -1,0 +1,36 @@
+{
+  "id": "225524",
+  "fullDetails": {
+    "licenseNumber": "225524",
+    "name": "WESTERN RIBBONS",
+    "address": "4828 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-01-31T05:32:16.000Z",
+    "expiryDate": "2027-01-30T05:32:16.000Z",
+    "coordinates": [
+      -113.9570542,
+      51.0121966
+    ],
+    "longitude": -113.9570542,
+    "latitude": 51.0121966,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

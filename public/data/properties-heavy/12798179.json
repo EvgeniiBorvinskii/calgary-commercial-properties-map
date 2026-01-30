@@ -1,0 +1,36 @@
+{
+  "id": "12798179",
+  "fullDetails": {
+    "licenseNumber": "12798179",
+    "name": "HARBER COATINGS",
+    "address": "6313 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-05-06T05:31:51.000Z",
+    "expiryDate": "2026-05-05T05:31:51.000Z",
+    "coordinates": [
+      -113.9847439,
+      50.9970969
+    ],
+    "longitude": -113.9847439,
+    "latitude": 50.9970969,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12759528",
+  "fullDetails": {
+    "licenseNumber": "12759528",
+    "name": "HAPPY CAN BOTTLE DEPOT",
+    "address": "#13 700 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2009-11-20T15:25:41.000Z",
+    "expiryDate": "2026-11-19T15:25:41.000Z",
+    "coordinates": [
+      -113.9852017,
+      51.0588233
+    ],
+    "longitude": -113.9852017,
+    "latitude": 51.0588233,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

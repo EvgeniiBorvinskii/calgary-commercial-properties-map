@@ -1,0 +1,36 @@
+{
+  "id": "801795",
+  "fullDetails": {
+    "licenseNumber": "801795",
+    "name": "NEOSYSTEMS",
+    "address": "#500 1331 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-03-04T13:00:23.000Z",
+    "expiryDate": "2026-03-03T13:00:23.000Z",
+    "coordinates": [
+      -114.0591688,
+      51.0397432
+    ],
+    "longitude": -114.0591688,
+    "latitude": 51.0397432,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

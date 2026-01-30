@@ -1,0 +1,36 @@
+{
+  "id": "16472649",
+  "fullDetails": {
+    "licenseNumber": "16472649",
+    "name": "NOLAN HILL PC REPAIR",
+    "address": "#210 50 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-04-01T15:31:33.000Z",
+    "expiryDate": "2026-03-31T15:31:33.000Z",
+    "coordinates": [
+      -114.1686546,
+      51.1706961
+    ],
+    "longitude": -114.1686546,
+    "latitude": 51.1706961,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

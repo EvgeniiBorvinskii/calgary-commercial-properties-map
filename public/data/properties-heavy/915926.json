@@ -1,0 +1,37 @@
+{
+  "id": "915926",
+  "fullDetails": {
+    "licenseNumber": "915926",
+    "name": "CTR REFRIGERATION AND FOOD STORE EQUIPMENT",
+    "address": "4840 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-04T00:00:00.000Z",
+    "coordinates": [
+      -113.95705,
+      51.0118241
+    ],
+    "longitude": -113.95705,
+    "latitude": 51.0118241,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

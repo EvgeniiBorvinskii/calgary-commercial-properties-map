@@ -1,0 +1,36 @@
+{
+  "id": "13820907",
+  "fullDetails": {
+    "licenseNumber": "13820907",
+    "name": "DREAM SLEEP RESPIRATORY SERVICES",
+    "address": "#63 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-03-18T15:02:11.000Z",
+    "expiryDate": "2026-03-17T15:02:11.000Z",
+    "coordinates": [
+      -113.9717006,
+      50.9300986
+    ],
+    "longitude": -113.9717006,
+    "latitude": 50.9300986,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "814558",
+  "fullDetails": {
+    "licenseNumber": "814558",
+    "name": "SUPERIOR NORTH AMERICA",
+    "address": "7530 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2017-02-24T10:40:50.000Z",
+    "expiryDate": "2026-02-23T10:40:49.000Z",
+    "coordinates": [
+      -113.9278194,
+      50.9510705
+    ],
+    "longitude": -113.9278194,
+    "latitude": 50.9510705,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

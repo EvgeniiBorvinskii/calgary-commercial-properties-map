@@ -1,0 +1,37 @@
+{
+  "id": "16199515",
+  "fullDetails": {
+    "licenseNumber": "16199515",
+    "name": "FAMOSO NEAPOLITAN PIZZERIA - WESTHILLS",
+    "address": "125 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-09-12T15:59:04.000Z",
+    "expiryDate": "2026-09-11T15:59:04.000Z",
+    "coordinates": [
+      -114.1688491,
+      51.0167989
+    ],
+    "longitude": -114.1688491,
+    "latitude": 51.0167989,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

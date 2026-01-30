@@ -1,0 +1,36 @@
+{
+  "id": "14762496",
+  "fullDetails": {
+    "licenseNumber": "14762496",
+    "name": "ARTISTIC DENTAL LABORATORY",
+    "address": "#18 3515 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-12-01T11:04:40.000Z",
+    "expiryDate": "2026-11-30T11:04:40.000Z",
+    "coordinates": [
+      -113.9956187,
+      51.083849
+    ],
+    "longitude": -113.9956187,
+    "latitude": 51.083849,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

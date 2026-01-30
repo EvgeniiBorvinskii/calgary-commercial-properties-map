@@ -1,0 +1,36 @@
+{
+  "id": "16561995",
+  "fullDetails": {
+    "licenseNumber": "16561995",
+    "name": "ROOF BY ROOF EXTERIORS",
+    "address": "#340 600 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-20T10:50:01.000Z",
+    "expiryDate": "2026-11-19T10:50:00.000Z",
+    "coordinates": [
+      -114.2041298,
+      51.1295294
+    ],
+    "longitude": -114.2041298,
+    "latitude": 51.1295294,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14761860",
+  "fullDetails": {
+    "licenseNumber": "14761860",
+    "name": "SALLY BEAUTY SUPPLY #5637",
+    "address": "#112 65 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-12-27T14:23:58.000Z",
+    "expiryDate": "2026-12-26T14:23:58.000Z",
+    "coordinates": [
+      -114.1463161,
+      51.1691515
+    ],
+    "longitude": -114.1463161,
+    "latitude": 51.1691515,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

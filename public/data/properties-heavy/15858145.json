@@ -1,0 +1,37 @@
+{
+  "id": "15858145",
+  "fullDetails": {
+    "licenseNumber": "15858145",
+    "name": "CENTRE AVENUE BADMINTON",
+    "address": "#110 225 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2020-01-03T09:05:17.000Z",
+    "expiryDate": "2027-01-02T09:05:17.000Z",
+    "coordinates": [
+      -114.0053926,
+      51.0541546
+    ],
+    "longitude": -114.0053926,
+    "latitude": 51.0541546,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

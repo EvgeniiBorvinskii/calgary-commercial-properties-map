@@ -1,0 +1,37 @@
+{
+  "id": "13795380",
+  "fullDetails": {
+    "licenseNumber": "13795380",
+    "name": "SUSHI BISTRO ANZU",
+    "address": "#2 1721 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2014-03-15T05:32:52.000Z",
+    "expiryDate": "2026-03-14T05:32:52.000Z",
+    "coordinates": [
+      -114.0631145,
+      51.067733
+    ],
+    "longitude": -114.0631145,
+    "latitude": 51.067733,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

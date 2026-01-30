@@ -1,0 +1,37 @@
+{
+  "id": "14024376",
+  "fullDetails": {
+    "licenseNumber": "14024376",
+    "name": "SOBEY'S NOLAN HILL",
+    "address": "#700 8 NOLAN HILL BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-12-07T09:09:28.000Z",
+    "expiryDate": "2026-12-06T09:09:28.000Z",
+    "coordinates": [
+      -114.1568244,
+      51.1734748
+    ],
+    "longitude": -114.1568244,
+    "latitude": 51.1734748,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "928101",
+  "fullDetails": {
+    "licenseNumber": "928101",
+    "name": "SURELINE FOAM PRODUCTS",
+    "address": "#120 225 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-30T10:09:11.000Z",
+    "expiryDate": "2027-01-29T10:09:11.000Z",
+    "coordinates": [
+      -114.0054096,
+      51.0544245
+    ],
+    "longitude": -114.0054096,
+    "latitude": 51.0544245,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15849276",
+  "fullDetails": {
+    "licenseNumber": "15849276",
+    "name": "ATTACK SPORTS",
+    "address": "7835 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-14T05:34:46.000Z",
+    "expiryDate": "2026-12-13T05:34:46.000Z",
+    "coordinates": [
+      -114.069519,
+      50.9835013
+    ],
+    "longitude": -114.069519,
+    "latitude": 50.9835013,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

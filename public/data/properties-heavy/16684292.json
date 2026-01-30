@@ -1,0 +1,37 @@
+{
+  "id": "16684292",
+  "fullDetails": {
+    "licenseNumber": "16684292",
+    "name": "FIRST MATE TRADING",
+    "address": "935B 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-30T12:33:14.000Z",
+    "expiryDate": "2026-10-29T12:33:13.000Z",
+    "coordinates": [
+      -114.0405965,
+      51.010937
+    ],
+    "longitude": -114.0405965,
+    "latitude": 51.010937,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

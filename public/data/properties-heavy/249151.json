@@ -1,0 +1,36 @@
+{
+  "id": "249151",
+  "fullDetails": {
+    "licenseNumber": "249151",
+    "name": "NATIONAL FASHION",
+    "address": "#5 3850 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-07-21T14:55:53.000Z",
+    "expiryDate": "2026-07-20T14:55:53.000Z",
+    "coordinates": [
+      -114.0106475,
+      51.087272
+    ],
+    "longitude": -114.0106475,
+    "latitude": 51.087272,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

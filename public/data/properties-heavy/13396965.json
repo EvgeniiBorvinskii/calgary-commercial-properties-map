@@ -1,0 +1,37 @@
+{
+  "id": "13396965",
+  "fullDetails": {
+    "licenseNumber": "13396965",
+    "name": "ZZ CONSTRUCTION",
+    "address": "#5 2135 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-10-09T15:45:23.000Z",
+    "expiryDate": "2026-10-08T15:45:23.000Z",
+    "coordinates": [
+      -114.0088321,
+      51.0805141
+    ],
+    "longitude": -114.0088321,
+    "latitude": 51.0805141,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

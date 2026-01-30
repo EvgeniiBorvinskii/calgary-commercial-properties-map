@@ -1,0 +1,36 @@
+{
+  "id": "12186029",
+  "fullDetails": {
+    "licenseNumber": "12186029",
+    "name": "NAM'S AUTOBODY",
+    "address": "5141 20 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2003-05-30T05:35:12.000Z",
+    "expiryDate": "2026-05-29T05:35:12.000Z",
+    "coordinates": [
+      -113.9597932,
+      51.0354184
+    ],
+    "longitude": -113.9597932,
+    "latitude": 51.0354184,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

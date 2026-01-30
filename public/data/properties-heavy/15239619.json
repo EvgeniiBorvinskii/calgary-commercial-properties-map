@@ -1,0 +1,36 @@
+{
+  "id": "15239619",
+  "fullDetails": {
+    "licenseNumber": "15239619",
+    "name": "LOVENOTE BRIDE",
+    "address": "#301A 1211 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-13T14:44:26.000Z",
+    "expiryDate": "2026-02-12T14:44:26.000Z",
+    "coordinates": [
+      -114.0893527,
+      51.0523629
+    ],
+    "longitude": -114.0893527,
+    "latitude": 51.0523629,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

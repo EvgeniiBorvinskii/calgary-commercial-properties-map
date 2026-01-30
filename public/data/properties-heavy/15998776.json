@@ -1,0 +1,37 @@
+{
+  "id": "15998776",
+  "fullDetails": {
+    "licenseNumber": "15998776",
+    "name": "ACE LIQUOR DISCOUNTER AT COUNTRY HILLS",
+    "address": "#303 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-17T09:47:00.000Z",
+    "expiryDate": "2026-03-16T09:46:59.000Z",
+    "coordinates": [
+      -114.0572443,
+      51.155428
+    ],
+    "longitude": -114.0572443,
+    "latitude": 51.155428,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

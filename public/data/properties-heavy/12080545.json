@@ -1,0 +1,36 @@
+{
+  "id": "12080545",
+  "fullDetails": {
+    "licenseNumber": "12080545",
+    "name": "WOODCRAFT KITCHEN CABINETS",
+    "address": "3651 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2011-03-03T05:52:26.000Z",
+    "expiryDate": "2026-03-02T05:52:26.000Z",
+    "coordinates": [
+      -114.0062235,
+      51.0849205
+    ],
+    "longitude": -114.0062235,
+    "latitude": 51.0849205,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

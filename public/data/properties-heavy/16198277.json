@@ -1,0 +1,36 @@
+{
+  "id": "16198277",
+  "fullDetails": {
+    "licenseNumber": "16198277",
+    "name": "SUNSHINE TECH",
+    "address": "3601B 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-04T11:49:54.000Z",
+    "expiryDate": "2026-10-03T11:49:54.000Z",
+    "coordinates": [
+      -113.9826343,
+      51.0374307
+    ],
+    "longitude": -113.9826343,
+    "latitude": 51.0374307,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16260515",
+  "fullDetails": {
+    "licenseNumber": "16260515",
+    "name": "INDIAN TAVERN",
+    "address": "1330A 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-02-15T12:35:18.000Z",
+    "expiryDate": "2026-02-14T12:35:18.000Z",
+    "coordinates": [
+      -114.091745,
+      51.0673296
+    ],
+    "longitude": -114.091745,
+    "latitude": 51.0673296,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12665477",
+  "fullDetails": {
+    "licenseNumber": "12665477",
+    "name": "SUPERIOR VACUUMS",
+    "address": "#4 7730 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-02T09:37:15.000Z",
+    "expiryDate": "2026-03-01T09:37:15.000Z",
+    "coordinates": [
+      -114.0706442,
+      50.9852299
+    ],
+    "longitude": -114.0706442,
+    "latitude": 50.9852299,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

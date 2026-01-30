@@ -1,0 +1,36 @@
+{
+  "id": "15950587",
+  "fullDetails": {
+    "licenseNumber": "15950587",
+    "name": "MEOKJA TAKEOUT",
+    "address": "2826 MORLEY TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-12-11T10:45:29.000Z",
+    "expiryDate": "2026-12-10T10:45:29.000Z",
+    "coordinates": [
+      -114.1135729,
+      51.0786999
+    ],
+    "longitude": -114.1135729,
+    "latitude": 51.0786999,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

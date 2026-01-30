@@ -1,0 +1,37 @@
+{
+  "id": "16290124",
+  "fullDetails": {
+    "licenseNumber": "16290124",
+    "name": "HEAD OVER HEELS",
+    "address": "#5118 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING ESTABLISHMENT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-02-16T14:08:52.000Z",
+    "expiryDate": "2026-02-15T14:08:52.000Z",
+    "coordinates": [
+      -113.9730824,
+      51.1474971
+    ],
+    "longitude": -113.9730824,
+    "latitude": 51.1474971,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

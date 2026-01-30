@@ -1,0 +1,37 @@
+{
+  "id": "13561659",
+  "fullDetails": {
+    "licenseNumber": "13561659",
+    "name": "CALGARY CUSTOM CLOSETS",
+    "address": "7056C FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR,\nDISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "active",
+    "issuedDate": "2017-09-11T13:08:42.000Z",
+    "expiryDate": "2026-09-10T13:08:42.000Z",
+    "coordinates": [
+      -114.055958,
+      50.9921333
+    ],
+    "longitude": -114.055958,
+    "latitude": 50.9921333,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

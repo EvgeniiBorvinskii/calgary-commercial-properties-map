@@ -1,0 +1,36 @@
+{
+  "id": "16663767",
+  "fullDetails": {
+    "licenseNumber": "16663767",
+    "name": "THE UPS STORE 45",
+    "address": "#235 3545 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-18T09:00:08.000Z",
+    "expiryDate": "2026-09-17T09:00:07.000Z",
+    "coordinates": [
+      -113.9836426,
+      51.0804491
+    ],
+    "longitude": -113.9836426,
+    "latitude": 51.0804491,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

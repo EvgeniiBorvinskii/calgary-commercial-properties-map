@@ -1,0 +1,37 @@
+{
+  "id": "16322935",
+  "fullDetails": {
+    "licenseNumber": "16322935",
+    "name": "BEAUTIFUL BROW AND LASH",
+    "address": "#308 1235 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "in_progress",
+    "issuedDate": "2025-02-18T10:27:48.000Z",
+    "expiryDate": "2026-02-17T10:27:48.000Z",
+    "coordinates": [
+      -114.0908567,
+      51.0376684
+    ],
+    "longitude": -114.0908567,
+    "latitude": 51.0376684,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16641904",
+  "fullDetails": {
+    "licenseNumber": "16641904",
+    "name": "JAYS METAL PRODUCTS",
+    "address": "#7 4315 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-30T09:53:33.000Z",
+    "expiryDate": "2026-06-29T09:53:33.000Z",
+    "coordinates": [
+      -113.9733813,
+      50.9980988
+    ],
+    "longitude": -113.9733813,
+    "latitude": 50.9980988,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

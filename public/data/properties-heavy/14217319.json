@@ -1,0 +1,37 @@
+{
+  "id": "14217319",
+  "fullDetails": {
+    "licenseNumber": "14217319",
+    "name": "RAMEN ICHINEN",
+    "address": "#349 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-08-17T12:52:40.000Z",
+    "expiryDate": "2026-08-16T12:52:40.000Z",
+    "coordinates": [
+      -113.9967468,
+      51.0798073
+    ],
+    "longitude": -113.9967468,
+    "latitude": 51.0798073,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

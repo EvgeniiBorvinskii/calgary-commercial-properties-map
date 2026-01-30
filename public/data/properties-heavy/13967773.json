@@ -1,0 +1,37 @@
+{
+  "id": "13967773",
+  "fullDetails": {
+    "licenseNumber": "13967773",
+    "name": "OISHII",
+    "address": "#125 10836 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-04T13:39:54.000Z",
+    "expiryDate": "2026-11-03T13:39:54.000Z",
+    "coordinates": [
+      -113.9995858,
+      50.9552462
+    ],
+    "longitude": -113.9995858,
+    "latitude": 50.9552462,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

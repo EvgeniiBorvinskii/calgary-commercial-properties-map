@@ -1,0 +1,36 @@
+{
+  "id": "16338352",
+  "fullDetails": {
+    "licenseNumber": "16338352",
+    "name": "BROTHERS PAKORA HOUSE (FSFV) (CGY-1853)",
+    "address": "226 CORAL SANDS TC NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2023-06-19T15:50:07.000Z",
+    "expiryDate": "2026-06-18T15:50:07.000Z",
+    "coordinates": [
+      -113.9275643,
+      51.0974569
+    ],
+    "longitude": -113.9275643,
+    "latitude": 51.0974569,
+    "community": "CORAL SPRINGS",
+    "ward": "COR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14265292",
+  "fullDetails": {
+    "licenseNumber": "14265292",
+    "name": "LAKEFRONT MARKET GROUP",
+    "address": "#5 2821 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2022-07-18T11:26:36.000Z",
+    "expiryDate": "2026-07-17T11:26:36.000Z",
+    "coordinates": [
+      -113.9939674,
+      51.0541106
+    ],
+    "longitude": -113.9939674,
+    "latitude": 51.0541106,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16437121",
+  "fullDetails": {
+    "licenseNumber": "16437121",
+    "name": "ACTIVATE GAMES CALGARY NORTH EAST",
+    "address": "#420 2929 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "pending",
+    "issuedDate": "2024-04-16T14:55:26.000Z",
+    "expiryDate": "2026-04-15T14:55:26.000Z",
+    "coordinates": [
+      -113.9942894,
+      51.0678111
+    ],
+    "longitude": -113.9942894,
+    "latitude": 51.0678111,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

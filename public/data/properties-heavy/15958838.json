@@ -1,0 +1,36 @@
+{
+  "id": "15958838",
+  "fullDetails": {
+    "licenseNumber": "15958838",
+    "name": "TURBO GLASS",
+    "address": "#110 5701 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-12-03T16:06:22.000Z",
+    "expiryDate": "2026-12-02T16:06:21.000Z",
+    "coordinates": [
+      -113.9538667,
+      51.0373662
+    ],
+    "longitude": -113.9538667,
+    "latitude": 51.0373662,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

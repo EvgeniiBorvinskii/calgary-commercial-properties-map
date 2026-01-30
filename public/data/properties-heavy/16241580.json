@@ -1,0 +1,36 @@
+{
+  "id": "16241580",
+  "fullDetails": {
+    "licenseNumber": "16241580",
+    "name": "SCHOLES INK",
+    "address": "#400 209 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-01-12T08:45:19.000Z",
+    "expiryDate": "2027-01-11T08:45:19.000Z",
+    "coordinates": [
+      -114.1058719,
+      51.0538694
+    ],
+    "longitude": -114.1058719,
+    "latitude": 51.0538694,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

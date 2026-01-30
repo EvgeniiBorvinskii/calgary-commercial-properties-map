@@ -1,0 +1,36 @@
+{
+  "id": "15715071",
+  "fullDetails": {
+    "licenseNumber": "15715071",
+    "name": "ATELIER ARTISTA",
+    "address": "#410 1721 29 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-10-08T16:06:29.000Z",
+    "expiryDate": "2026-10-07T16:06:28.000Z",
+    "coordinates": [
+      -114.1008834,
+      51.0272789
+    ],
+    "longitude": -114.1008834,
+    "latitude": 51.0272789,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

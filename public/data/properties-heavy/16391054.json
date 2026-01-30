@@ -1,0 +1,36 @@
+{
+  "id": "16391054",
+  "fullDetails": {
+    "licenseNumber": "16391054",
+    "name": "HAYAHAY MASSAGE",
+    "address": "#206 5809 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "in_progress",
+    "issuedDate": "2025-01-14T13:05:22.000Z",
+    "expiryDate": "2026-01-13T13:05:22.000Z",
+    "coordinates": [
+      -114.0724741,
+      51.0017484
+    ],
+    "longitude": -114.0724741,
+    "latitude": 51.0017484,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

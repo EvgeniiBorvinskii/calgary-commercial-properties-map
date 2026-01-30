@@ -1,0 +1,36 @@
+{
+  "id": "15073356",
+  "fullDetails": {
+    "licenseNumber": "15073356",
+    "name": "SLICED FC",
+    "address": "#30 2626 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-15T05:35:56.000Z",
+    "expiryDate": "2026-12-14T05:35:56.000Z",
+    "coordinates": [
+      -113.9975608,
+      51.1560202
+    ],
+    "longitude": -113.9975608,
+    "latitude": 51.1560202,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15491210",
+  "fullDetails": {
+    "licenseNumber": "15491210",
+    "name": "FIVE GUYS BURGERS AND FRIES",
+    "address": "#110 296 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-10-31T15:04:00.000Z",
+    "expiryDate": "2026-10-30T15:04:00.000Z",
+    "coordinates": [
+      -114.0637454,
+      50.9014318
+    ],
+    "longitude": -114.0637454,
+    "latitude": 50.9014318,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

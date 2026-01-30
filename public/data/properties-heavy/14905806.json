@@ -1,0 +1,37 @@
+{
+  "id": "14905806",
+  "fullDetails": {
+    "licenseNumber": "14905806",
+    "name": "INSPIRATION FLOORING",
+    "address": "5010 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2019-02-22T15:24:20.000Z",
+    "expiryDate": "2026-02-21T15:24:20.000Z",
+    "coordinates": [
+      -114.0671393,
+      51.0091569
+    ],
+    "longitude": -114.0671393,
+    "latitude": 51.0091569,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

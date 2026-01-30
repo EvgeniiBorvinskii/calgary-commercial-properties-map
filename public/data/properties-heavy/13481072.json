@@ -1,0 +1,37 @@
+{
+  "id": "13481072",
+  "fullDetails": {
+    "licenseNumber": "13481072",
+    "name": "HYDRA RIG CANADA",
+    "address": "7333 68 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-06-16T08:01:32.000Z",
+    "expiryDate": "2026-06-15T08:01:32.000Z",
+    "coordinates": [
+      -113.9363595,
+      50.9887373
+    ],
+    "longitude": -113.9363595,
+    "latitude": 50.9887373,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

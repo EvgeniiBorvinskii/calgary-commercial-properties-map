@@ -1,0 +1,36 @@
+{
+  "id": "14530034",
+  "fullDetails": {
+    "licenseNumber": "14530034",
+    "name": "NO BULL POWDER COATING",
+    "address": "5715B 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-10-13T12:19:11.000Z",
+    "expiryDate": "2026-10-12T12:19:11.000Z",
+    "coordinates": [
+      -113.9822171,
+      51.0016619
+    ],
+    "longitude": -113.9822171,
+    "latitude": 51.0016619,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

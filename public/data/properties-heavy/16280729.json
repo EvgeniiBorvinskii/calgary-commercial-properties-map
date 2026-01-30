@@ -1,0 +1,36 @@
+{
+  "id": "16280729",
+  "fullDetails": {
+    "licenseNumber": "16280729",
+    "name": "PIZZA FACTORY AND FRIED CHICKEN",
+    "address": "#1025 4231 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-02-01T15:42:08.000Z",
+    "expiryDate": "2027-01-31T15:42:08.000Z",
+    "coordinates": [
+      -113.973388,
+      51.1524455
+    ],
+    "longitude": -113.973388,
+    "latitude": 51.1524455,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

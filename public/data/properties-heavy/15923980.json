@@ -1,0 +1,36 @@
+{
+  "id": "15923980",
+  "fullDetails": {
+    "licenseNumber": "15923980",
+    "name": "BENTLEY & CO",
+    "address": "#140 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-22T17:26:49.000Z",
+    "expiryDate": "2026-04-21T17:26:49.000Z",
+    "coordinates": [
+      -113.985342,
+      51.0743317
+    ],
+    "longitude": -113.985342,
+    "latitude": 51.0743317,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

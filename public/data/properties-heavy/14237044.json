@@ -1,0 +1,36 @@
+{
+  "id": "14237044",
+  "fullDetails": {
+    "licenseNumber": "14237044",
+    "name": "DE HAVILLAND AIRCRAFT OF CANADA",
+    "address": "7757 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-09-29T10:09:29.000Z",
+    "expiryDate": "2026-09-28T10:09:29.000Z",
+    "coordinates": [
+      -114.0447033,
+      51.1201915
+    ],
+    "longitude": -114.0447033,
+    "latitude": 51.1201915,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

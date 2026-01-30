@@ -1,0 +1,37 @@
+{
+  "id": "254086",
+  "fullDetails": {
+    "licenseNumber": "254086",
+    "name": "SELETECH ELECTRICAL*",
+    "address": "4444 BUILDERS RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2016-09-30T05:30:23.000Z",
+    "expiryDate": "2026-09-29T05:30:23.000Z",
+    "coordinates": [
+      -114.0605664,
+      51.0132967
+    ],
+    "longitude": -114.0605664,
+    "latitude": 51.0132967,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

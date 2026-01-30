@@ -1,0 +1,36 @@
+{
+  "id": "16310765",
+  "fullDetails": {
+    "licenseNumber": "16310765",
+    "name": "RUJIA HOME INN",
+    "address": "4414 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2023-06-02T13:15:46.000Z",
+    "expiryDate": "2026-06-01T13:15:46.000Z",
+    "coordinates": [
+      -114.1532919,
+      51.1045907
+    ],
+    "longitude": -114.1532919,
+    "latitude": 51.1045907,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

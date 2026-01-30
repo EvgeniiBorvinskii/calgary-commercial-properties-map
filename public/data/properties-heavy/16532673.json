@@ -1,0 +1,36 @@
+{
+  "id": "16532673",
+  "fullDetails": {
+    "licenseNumber": "16532673",
+    "name": "WENDYS RESTAURANT",
+    "address": "#10 12012 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-29T15:31:48.000Z",
+    "expiryDate": "2026-10-28T15:31:48.000Z",
+    "coordinates": [
+      -114.1245642,
+      51.1612008
+    ],
+    "longitude": -114.1245642,
+    "latitude": 51.1612008,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

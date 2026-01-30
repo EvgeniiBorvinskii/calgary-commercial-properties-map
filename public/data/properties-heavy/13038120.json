@@ -1,0 +1,36 @@
+{
+  "id": "13038120",
+  "fullDetails": {
+    "licenseNumber": "13038120",
+    "name": "PRECISION AUTO BODY CALGARY",
+    "address": "5407 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2010-10-30T15:40:53.000Z",
+    "expiryDate": "2026-10-29T15:40:53.000Z",
+    "coordinates": [
+      -114.0575401,
+      51.0056889
+    ],
+    "longitude": -114.0575401,
+    "latitude": 51.0056889,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

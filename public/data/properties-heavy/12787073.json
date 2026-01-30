@@ -1,0 +1,36 @@
+{
+  "id": "12787073",
+  "fullDetails": {
+    "licenseNumber": "12787073",
+    "name": "CANYON MEADOWS RETIREMENT RESIDENCE",
+    "address": "12 DEERVIEW TC SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-06-19T15:16:54.000Z",
+    "expiryDate": "2026-06-18T15:16:54.000Z",
+    "coordinates": [
+      -114.0239428,
+      50.9314104
+    ],
+    "longitude": -114.0239428,
+    "latitude": 50.9314104,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

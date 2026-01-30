@@ -1,0 +1,36 @@
+{
+  "id": "16140642",
+  "fullDetails": {
+    "licenseNumber": "16140642",
+    "name": "PEAKLINE ROOFING & EXTERIORS",
+    "address": "#2300 777 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-19T10:38:01.000Z",
+    "expiryDate": "2026-02-18T10:38:00.000Z",
+    "coordinates": [
+      -114.0781881,
+      51.0456854
+    ],
+    "longitude": -114.0781881,
+    "latitude": 51.0456854,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

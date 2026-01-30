@@ -1,0 +1,36 @@
+{
+  "id": "16152035",
+  "fullDetails": {
+    "licenseNumber": "16152035",
+    "name": "SPANISH CREATIONS ACADEMY",
+    "address": "2830 MORLEY TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-11-24T15:19:01.000Z",
+    "expiryDate": "2026-11-23T15:19:01.000Z",
+    "coordinates": [
+      -114.1138123,
+      51.078828
+    ],
+    "longitude": -114.1138123,
+    "latitude": 51.078828,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

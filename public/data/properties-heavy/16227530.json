@@ -1,0 +1,36 @@
+{
+  "id": "16227530",
+  "fullDetails": {
+    "licenseNumber": "16227530",
+    "name": "UTSAV SWEETS & RESTAURANT",
+    "address": "#110 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-01-26T15:17:57.000Z",
+    "expiryDate": "2027-01-25T15:17:57.000Z",
+    "coordinates": [
+      -113.9741685,
+      51.1074505
+    ],
+    "longitude": -113.9741685,
+    "latitude": 51.1074505,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

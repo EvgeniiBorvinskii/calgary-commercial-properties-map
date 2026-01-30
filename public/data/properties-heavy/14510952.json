@@ -1,0 +1,37 @@
+{
+  "id": "14510952",
+  "fullDetails": {
+    "licenseNumber": "14510952",
+    "name": "RENEGADE TRAINING COMPANY",
+    "address": "#232 2880 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2017-07-07T10:25:08.000Z",
+    "expiryDate": "2026-07-06T10:25:08.000Z",
+    "coordinates": [
+      -113.990855,
+      51.0144245
+    ],
+    "longitude": -113.990855,
+    "latitude": 51.0144245,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

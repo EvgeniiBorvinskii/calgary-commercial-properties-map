@@ -1,0 +1,37 @@
+{
+  "id": "16246969",
+  "fullDetails": {
+    "licenseNumber": "16246969",
+    "name": "HOMESPACE SOCIETY",
+    "address": "933 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-11-24T14:37:31.000Z",
+    "expiryDate": "2026-11-23T14:37:31.000Z",
+    "coordinates": [
+      -114.0828384,
+      51.0487368
+    ],
+    "longitude": -114.0828384,
+    "latitude": 51.0487368,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

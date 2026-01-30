@@ -1,0 +1,36 @@
+{
+  "id": "16086902",
+  "fullDetails": {
+    "licenseNumber": "16086902",
+    "name": "BLACK BOLT AUTO",
+    "address": "7020 40 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2021-11-16T09:54:06.000Z",
+    "expiryDate": "2026-11-15T09:54:06.000Z",
+    "coordinates": [
+      -113.9754307,
+      51.1152711
+    ],
+    "longitude": -113.9754307,
+    "latitude": 51.1152711,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

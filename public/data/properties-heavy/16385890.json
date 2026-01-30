@@ -1,0 +1,36 @@
+{
+  "id": "16385890",
+  "fullDetails": {
+    "licenseNumber": "16385890",
+    "name": "SKYLINE IN BANKVEW (THE)",
+    "address": "2216 17B ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-01-10T14:17:44.000Z",
+    "expiryDate": "2027-01-09T14:17:44.000Z",
+    "coordinates": [
+      -114.1020096,
+      51.0344499
+    ],
+    "longitude": -114.1020096,
+    "latitude": 51.0344499,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

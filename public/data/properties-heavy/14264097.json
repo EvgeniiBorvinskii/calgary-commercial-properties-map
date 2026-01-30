@@ -1,0 +1,36 @@
+{
+  "id": "14264097",
+  "fullDetails": {
+    "licenseNumber": "14264097",
+    "name": "PARK PLACE MANUFACTURING LIMITED",
+    "address": "#6 4215 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-11-01T13:58:40.000Z",
+    "expiryDate": "2026-10-31T13:58:40.000Z",
+    "coordinates": [
+      -113.9745484,
+      50.9981534
+    ],
+    "longitude": -113.9745484,
+    "latitude": 50.9981534,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

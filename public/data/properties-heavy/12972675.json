@@ -1,0 +1,37 @@
+{
+  "id": "12972675",
+  "fullDetails": {
+    "licenseNumber": "12972675",
+    "name": "SUNSATIONAL NAILS, SPA AND TANNING",
+    "address": "#614 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nBODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2010-09-01T11:10:11.000Z",
+    "expiryDate": "2026-08-31T11:10:11.000Z",
+    "coordinates": [
+      -114.0696782,
+      50.9455641
+    ],
+    "longitude": -114.0696782,
+    "latitude": 50.9455641,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

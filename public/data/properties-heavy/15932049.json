@@ -1,0 +1,36 @@
+{
+  "id": "15932049",
+  "fullDetails": {
+    "licenseNumber": "15932049",
+    "name": "GREAT CANADIAN FILMS",
+    "address": "#340 600 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2022-10-30T08:37:32.000Z",
+    "expiryDate": "2026-10-29T08:37:32.000Z",
+    "coordinates": [
+      -114.2041298,
+      51.1295294
+    ],
+    "longitude": -114.2041298,
+    "latitude": 51.1295294,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

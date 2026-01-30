@@ -1,0 +1,36 @@
+{
+  "id": "16192296",
+  "fullDetails": {
+    "licenseNumber": "16192296",
+    "name": "MONTEREY LAUNDROMAT",
+    "address": "#108 2220 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2022-11-16T11:59:58.000Z",
+    "expiryDate": "2026-11-15T11:59:58.000Z",
+    "coordinates": [
+      -113.9342524,
+      51.0695535
+    ],
+    "longitude": -113.9342524,
+    "latitude": 51.0695535,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

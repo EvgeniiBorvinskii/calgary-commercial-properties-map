@@ -1,0 +1,36 @@
+{
+  "id": "12789889",
+  "fullDetails": {
+    "licenseNumber": "12789889",
+    "name": "DOUCETTE TRUCKING",
+    "address": "4816 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-12-30T13:53:06.000Z",
+    "expiryDate": "2026-12-29T13:53:06.000Z",
+    "coordinates": [
+      -113.9570652,
+      51.0124756
+    ],
+    "longitude": -113.9570652,
+    "latitude": 51.0124756,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

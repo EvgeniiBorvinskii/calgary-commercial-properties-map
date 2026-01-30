@@ -1,0 +1,36 @@
+{
+  "id": "12185450",
+  "fullDetails": {
+    "licenseNumber": "12185450",
+    "name": "LAUNDER A PET",
+    "address": "455 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2003-05-02T05:36:00.000Z",
+    "expiryDate": "2026-05-01T05:36:00.000Z",
+    "coordinates": [
+      -114.054356,
+      51.0154718
+    ],
+    "longitude": -114.054356,
+    "latitude": 51.0154718,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12451837",
+  "fullDetails": {
+    "licenseNumber": "12451837",
+    "name": "PURR",
+    "address": "940 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-23T15:40:02.000Z",
+    "expiryDate": "2026-08-22T15:40:02.000Z",
+    "coordinates": [
+      -114.0839771,
+      51.0380442
+    ],
+    "longitude": -114.0839771,
+    "latitude": 51.0380442,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

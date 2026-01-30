@@ -1,0 +1,37 @@
+{
+  "id": "12759809",
+  "fullDetails": {
+    "licenseNumber": "12759809",
+    "name": "SHEFIELD & SONS",
+    "address": "#238A 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-12-21T12:26:12.000Z",
+    "expiryDate": "2026-12-20T12:26:12.000Z",
+    "coordinates": [
+      -114.0736844,
+      50.9980242
+    ],
+    "longitude": -114.0736844,
+    "latitude": 50.9980242,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

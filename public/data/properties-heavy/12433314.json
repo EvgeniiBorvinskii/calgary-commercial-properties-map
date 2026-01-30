@@ -1,0 +1,36 @@
+{
+  "id": "12433314",
+  "fullDetails": {
+    "licenseNumber": "12433314",
+    "name": "WHS HEATING AND VENTILATION",
+    "address": "219 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-09-11T14:32:00.000Z",
+    "expiryDate": "2026-09-10T14:32:00.000Z",
+    "coordinates": [
+      -113.9076282,
+      50.9619592
+    ],
+    "longitude": -113.9076282,
+    "latitude": 50.9619592,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

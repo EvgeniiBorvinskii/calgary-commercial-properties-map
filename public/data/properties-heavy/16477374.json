@@ -1,0 +1,36 @@
+{
+  "id": "16477374",
+  "fullDetails": {
+    "licenseNumber": "16477374",
+    "name": "PET VALU",
+    "address": "#42 1221 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-30T11:23:54.000Z",
+    "expiryDate": "2026-04-29T11:23:54.000Z",
+    "coordinates": [
+      -114.0299456,
+      50.9294878
+    ],
+    "longitude": -114.0299456,
+    "latitude": 50.9294878,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14506646",
+  "fullDetails": {
+    "licenseNumber": "14506646",
+    "name": "TASTE OF HIMALAYAS",
+    "address": "#38 240 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-06-02T10:13:14.000Z",
+    "expiryDate": "2026-06-01T10:13:14.000Z",
+    "coordinates": [
+      -114.0624634,
+      50.9141631
+    ],
+    "longitude": -114.0624634,
+    "latitude": 50.9141631,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

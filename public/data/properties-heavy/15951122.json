@@ -1,0 +1,36 @@
+{
+  "id": "15951122",
+  "fullDetails": {
+    "licenseNumber": "15951122",
+    "name": "MJ AFRICAN FOOD STORE",
+    "address": "#Q 2020 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-04T09:51:44.000Z",
+    "expiryDate": "2026-11-03T09:51:44.000Z",
+    "coordinates": [
+      -114.0107077,
+      51.0825451
+    ],
+    "longitude": -114.0107077,
+    "latitude": 51.0825451,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

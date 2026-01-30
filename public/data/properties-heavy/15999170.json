@@ -1,0 +1,37 @@
+{
+  "id": "15999170",
+  "fullDetails": {
+    "licenseNumber": "15999170",
+    "name": "SPRING AUTO",
+    "address": "#4 4035 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "SALVAGE YARD/AUTO WRECKER,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nSALVAGE YARD/AUTO WRECKER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-08-05T08:55:46.000Z",
+    "expiryDate": "2026-08-04T08:55:46.000Z",
+    "coordinates": [
+      -114.028292,
+      51.0183657
+    ],
+    "longitude": -114.028292,
+    "latitude": 51.0183657,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

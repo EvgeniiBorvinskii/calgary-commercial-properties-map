@@ -1,0 +1,37 @@
+{
+  "id": "16355398",
+  "fullDetails": {
+    "licenseNumber": "16355398",
+    "name": "KUJIRA SUSHI IZAKAYA",
+    "address": "#510 5149 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-07-25T08:00:56.000Z",
+    "expiryDate": "2026-07-24T08:00:56.000Z",
+    "coordinates": [
+      -114.1575193,
+      51.1383448
+    ],
+    "longitude": -114.1575193,
+    "latitude": 51.1383448,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

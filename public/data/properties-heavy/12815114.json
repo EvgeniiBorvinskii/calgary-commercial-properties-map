@@ -1,0 +1,37 @@
+{
+  "id": "12815114",
+  "fullDetails": {
+    "licenseNumber": "12815114",
+    "name": "LAMAY ESTHETICS DAY SPA",
+    "address": "#111 1905 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nFOOD SERVICE - PREMISES,\nBODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2009-10-05T14:04:05.000Z",
+    "expiryDate": "2026-10-04T14:04:05.000Z",
+    "coordinates": [
+      -114.0629213,
+      51.069167
+    ],
+    "longitude": -114.0629213,
+    "latitude": 51.069167,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

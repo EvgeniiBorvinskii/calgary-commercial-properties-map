@@ -1,0 +1,36 @@
+{
+  "id": "35451",
+  "fullDetails": {
+    "licenseNumber": "35451",
+    "name": "VIACORE",
+    "address": "9160 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-10-09T05:32:39.000Z",
+    "expiryDate": "2026-10-08T05:32:39.000Z",
+    "coordinates": [
+      -113.9574711,
+      50.9712293
+    ],
+    "longitude": -113.9574711,
+    "latitude": 50.9712293,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

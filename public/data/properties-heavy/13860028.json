@@ -1,0 +1,36 @@
+{
+  "id": "13860028",
+  "fullDetails": {
+    "licenseNumber": "13860028",
+    "name": "FABULOUS J & F JEWELRY REPAIR",
+    "address": "#202 4803 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-07-25T15:39:26.000Z",
+    "expiryDate": "2026-07-24T15:39:26.000Z",
+    "coordinates": [
+      -114.0628799,
+      51.0949191
+    ],
+    "longitude": -114.0628799,
+    "latitude": 51.0949191,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

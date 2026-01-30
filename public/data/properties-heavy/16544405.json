@@ -1,0 +1,36 @@
+{
+  "id": "16544405",
+  "fullDetails": {
+    "licenseNumber": "16544405",
+    "name": "SHAAN GLASS CALGARY",
+    "address": "#10 2616 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-14T14:12:42.000Z",
+    "expiryDate": "2026-11-13T14:12:41.000Z",
+    "coordinates": [
+      -114.0183188,
+      51.0752202
+    ],
+    "longitude": -114.0183188,
+    "latitude": 51.0752202,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14969521",
+  "fullDetails": {
+    "licenseNumber": "14969521",
+    "name": "CLUB PILATES ROYAL OAK",
+    "address": "#4104 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-11-07T11:20:35.000Z",
+    "expiryDate": "2026-11-06T11:20:35.000Z",
+    "coordinates": [
+      -114.2105406,
+      51.1526003
+    ],
+    "longitude": -114.2105406,
+    "latitude": 51.1526003,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

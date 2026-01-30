@@ -1,0 +1,36 @@
+{
+  "id": "335984",
+  "fullDetails": {
+    "licenseNumber": "335984",
+    "name": "MCMAHON STADIUM SOCIETY (THE)*",
+    "address": "1817 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONCERT FACILITY",
+    "licenseTypes": "CONCERT FACILITY",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-05T00:00:00.000Z",
+    "coordinates": [
+      -114.1209315,
+      51.0694965
+    ],
+    "longitude": -114.1209315,
+    "latitude": 51.0694965,
+    "community": "UNIVERSITY OF CALGARY",
+    "ward": "UOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

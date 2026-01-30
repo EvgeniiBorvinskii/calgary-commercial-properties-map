@@ -1,0 +1,37 @@
+{
+  "id": "16502809",
+  "fullDetails": {
+    "licenseNumber": "16502809",
+    "name": "MELTWICH FOOD CO",
+    "address": "#108 318 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-15T13:03:40.000Z",
+    "expiryDate": "2026-07-14T13:03:39.000Z",
+    "coordinates": [
+      -114.2080164,
+      51.0393251
+    ],
+    "longitude": -114.2080164,
+    "latitude": 51.0393251,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

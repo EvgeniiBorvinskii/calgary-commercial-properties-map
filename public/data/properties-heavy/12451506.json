@@ -1,0 +1,37 @@
+{
+  "id": "12451506",
+  "fullDetails": {
+    "licenseNumber": "12451506",
+    "name": "AWNING FACTORY (THE)",
+    "address": "3427 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2013-04-17T05:33:00.000Z",
+    "expiryDate": "2026-04-16T05:33:00.000Z",
+    "coordinates": [
+      -114.0303556,
+      51.0828924
+    ],
+    "longitude": -114.0303556,
+    "latitude": 51.0828924,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16327033",
+  "fullDetails": {
+    "licenseNumber": "16327033",
+    "name": "BRAZILIAN JIU-JITSU FIGHT CLUB",
+    "address": "#101 5421 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-18T09:43:32.000Z",
+    "expiryDate": "2026-05-17T09:43:32.000Z",
+    "coordinates": [
+      -114.0370624,
+      51.1003881
+    ],
+    "longitude": -114.0370624,
+    "latitude": 51.1003881,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

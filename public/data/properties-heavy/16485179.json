@@ -1,0 +1,36 @@
+{
+  "id": "16485179",
+  "fullDetails": {
+    "licenseNumber": "16485179",
+    "name": "CANADIAN PIZZA EXPRESS",
+    "address": "#250G 402 COLLEGIATE BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-27T13:54:10.000Z",
+    "expiryDate": "2026-08-26T13:54:09.000Z",
+    "coordinates": [
+      -114.1317287,
+      51.0782159
+    ],
+    "longitude": -114.1317287,
+    "latitude": 51.0782159,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

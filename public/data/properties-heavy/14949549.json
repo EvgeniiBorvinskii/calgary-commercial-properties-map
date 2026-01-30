@@ -1,0 +1,37 @@
+{
+  "id": "14949549",
+  "fullDetails": {
+    "licenseNumber": "14949549",
+    "name": "BELLS OF STEEL",
+    "address": "#114 7880 66 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-10-28T08:39:02.000Z",
+    "expiryDate": "2026-10-27T08:39:02.000Z",
+    "coordinates": [
+      -113.9377706,
+      50.9820873
+    ],
+    "longitude": -113.9377706,
+    "latitude": 50.9820873,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

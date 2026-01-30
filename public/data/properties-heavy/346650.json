@@ -1,0 +1,36 @@
+{
+  "id": "346650",
+  "fullDetails": {
+    "licenseNumber": "346650",
+    "name": "WEBBER PHOTOGRAPHY",
+    "address": "626 29 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-21T00:00:00.000Z",
+    "coordinates": [
+      -114.0755155,
+      51.0789058
+    ],
+    "longitude": -114.0755155,
+    "latitude": 51.0789058,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

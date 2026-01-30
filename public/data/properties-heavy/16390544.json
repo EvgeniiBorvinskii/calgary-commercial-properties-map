@@ -1,0 +1,36 @@
+{
+  "id": "16390544",
+  "fullDetails": {
+    "licenseNumber": "16390544",
+    "name": "MR. LUBE",
+    "address": "#110 2505 EVERSYDE AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-12-06T16:17:08.000Z",
+    "expiryDate": "2026-12-05T16:17:07.000Z",
+    "coordinates": [
+      -114.1177032,
+      50.9077856
+    ],
+    "longitude": -114.1177032,
+    "latitude": 50.9077856,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

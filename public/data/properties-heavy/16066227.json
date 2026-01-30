@@ -1,0 +1,36 @@
+{
+  "id": "16066227",
+  "fullDetails": {
+    "licenseNumber": "16066227",
+    "name": "ONE STOP MECHANICAL SERVICES",
+    "address": "9050 INNOVATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-04-18T11:23:15.000Z",
+    "expiryDate": "2026-04-17T11:23:15.000Z",
+    "coordinates": [
+      -113.9034806,
+      50.9667885
+    ],
+    "longitude": -113.9034806,
+    "latitude": 50.9667885,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

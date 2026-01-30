@@ -1,0 +1,37 @@
+{
+  "id": "16007601",
+  "fullDetails": {
+    "licenseNumber": "16007601",
+    "name": "S & H INTERNATIONAL",
+    "address": "#3 9727 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-06-03T08:15:18.000Z",
+    "expiryDate": "2026-06-02T08:15:18.000Z",
+    "coordinates": [
+      -114.0758913,
+      50.9672545
+    ],
+    "longitude": -114.0758913,
+    "latitude": 50.9672545,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16579799",
+  "fullDetails": {
+    "licenseNumber": "16579799",
+    "name": "TAPIO CALGARY",
+    "address": "#7 2221 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-08T13:28:34.000Z",
+    "expiryDate": "2027-01-07T13:28:34.000Z",
+    "coordinates": [
+      -114.0066898,
+      51.0894667
+    ],
+    "longitude": -114.0066898,
+    "latitude": 51.0894667,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

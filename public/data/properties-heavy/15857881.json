@@ -1,0 +1,36 @@
+{
+  "id": "15857881",
+  "fullDetails": {
+    "licenseNumber": "15857881",
+    "name": "BEAUTY BOUTIQUE BY SHOPPERS DRUG MART",
+    "address": "#176 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-10T08:09:01.000Z",
+    "expiryDate": "2026-12-09T08:09:01.000Z",
+    "coordinates": [
+      -114.0687744,
+      51.0464495
+    ],
+    "longitude": -114.0687744,
+    "latitude": 51.0464495,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

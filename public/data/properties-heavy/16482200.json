@@ -1,0 +1,36 @@
+{
+  "id": "16482200",
+  "fullDetails": {
+    "licenseNumber": "16482200",
+    "name": "TA CRIBBING",
+    "address": "#1251 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-13T08:02:06.000Z",
+    "expiryDate": "2026-05-12T08:02:06.000Z",
+    "coordinates": [
+      -113.9808104,
+      51.1513061
+    ],
+    "longitude": -113.9808104,
+    "latitude": 51.1513061,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

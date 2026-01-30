@@ -1,0 +1,36 @@
+{
+  "id": "16439226",
+  "fullDetails": {
+    "licenseNumber": "16439226",
+    "name": "WHOLE CELLARS",
+    "address": "#8 10822 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-01-22T10:28:40.000Z",
+    "expiryDate": "2027-01-21T10:28:40.000Z",
+    "coordinates": [
+      -113.960854,
+      50.9564671
+    ],
+    "longitude": -113.960854,
+    "latitude": 50.9564671,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

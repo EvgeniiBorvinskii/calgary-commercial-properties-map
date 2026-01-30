@@ -1,0 +1,37 @@
+{
+  "id": "13392717",
+  "fullDetails": {
+    "licenseNumber": "13392717",
+    "name": "SILKSTONE & GRANITE",
+    "address": "4720 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2012-04-13T14:25:48.000Z",
+    "expiryDate": "2026-04-12T14:25:48.000Z",
+    "coordinates": [
+      -114.0607686,
+      51.0102347
+    ],
+    "longitude": -114.0607686,
+    "latitude": 51.0102347,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

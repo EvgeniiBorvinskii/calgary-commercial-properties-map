@@ -1,0 +1,37 @@
+{
+  "id": "16320012",
+  "fullDetails": {
+    "licenseNumber": "16320012",
+    "name": "HOOKAH HOUR",
+    "address": "#4134 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-05-02T13:34:54.000Z",
+    "expiryDate": "2026-05-01T13:34:54.000Z",
+    "coordinates": [
+      -113.9794187,
+      51.0986434
+    ],
+    "longitude": -113.9794187,
+    "latitude": 51.0986434,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

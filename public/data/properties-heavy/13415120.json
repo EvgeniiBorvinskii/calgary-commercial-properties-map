@@ -1,0 +1,36 @@
+{
+  "id": "13415120",
+  "fullDetails": {
+    "licenseNumber": "13415120",
+    "name": "ALPINE SAUSAGE",
+    "address": "#23 3919 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2012-04-24T09:15:36.000Z",
+    "expiryDate": "2026-04-23T09:15:36.000Z",
+    "coordinates": [
+      -114.1426544,
+      51.0206061
+    ],
+    "longitude": -114.1426544,
+    "latitude": 51.0206061,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

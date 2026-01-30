@@ -1,0 +1,36 @@
+{
+  "id": "12882171",
+  "fullDetails": {
+    "licenseNumber": "12882171",
+    "name": "ELITE TRAINING CENTRE",
+    "address": "#6 4750 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2010-07-13T10:06:15.000Z",
+    "expiryDate": "2026-07-12T10:06:15.000Z",
+    "coordinates": [
+      -113.9673218,
+      50.9582332
+    ],
+    "longitude": -113.9673218,
+    "latitude": 50.9582332,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16151771",
+  "fullDetails": {
+    "licenseNumber": "16151771",
+    "name": "CASTLERIDGE RX PHARMACY",
+    "address": "#4 12 CASTLERIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-07T12:22:10.000Z",
+    "expiryDate": "2026-06-06T12:22:10.000Z",
+    "coordinates": [
+      -113.949859,
+      51.1073822
+    ],
+    "longitude": -113.949859,
+    "latitude": 51.1073822,
+    "community": "CASTLERIDGE",
+    "ward": "CAS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

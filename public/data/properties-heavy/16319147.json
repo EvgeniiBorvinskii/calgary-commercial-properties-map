@@ -1,0 +1,36 @@
+{
+  "id": "16319147",
+  "fullDetails": {
+    "licenseNumber": "16319147",
+    "name": "PRONTO PIZZA & PASTA",
+    "address": "#203K 401 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-02T16:49:08.000Z",
+    "expiryDate": "2026-06-01T16:49:08.000Z",
+    "coordinates": [
+      -114.0697462,
+      51.044433
+    ],
+    "longitude": -114.0697462,
+    "latitude": 51.044433,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

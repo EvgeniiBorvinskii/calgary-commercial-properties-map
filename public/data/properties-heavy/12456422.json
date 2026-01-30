@@ -1,0 +1,36 @@
+{
+  "id": "12456422",
+  "fullDetails": {
+    "licenseNumber": "12456422",
+    "name": "LIQUOR EMPIRE",
+    "address": "#100 950 QUEENSLAND DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2006-02-23T11:28:44.000Z",
+    "expiryDate": "2026-02-22T11:28:44.000Z",
+    "coordinates": [
+      -114.0170475,
+      50.9326182
+    ],
+    "longitude": -114.0170475,
+    "latitude": 50.9326182,
+    "community": "QUEENSLAND",
+    "ward": "QLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

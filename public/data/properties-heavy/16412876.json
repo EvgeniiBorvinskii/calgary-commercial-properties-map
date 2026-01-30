@@ -1,0 +1,36 @@
+{
+  "id": "16412876",
+  "fullDetails": {
+    "licenseNumber": "16412876",
+    "name": "SWATCH GROUP CANADA",
+    "address": "#108 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-09T09:03:27.000Z",
+    "expiryDate": "2026-11-08T09:03:26.000Z",
+    "coordinates": [
+      -114.0740109,
+      50.9967092
+    ],
+    "longitude": -114.0740109,
+    "latitude": 50.9967092,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16663775",
+  "fullDetails": {
+    "licenseNumber": "16663775",
+    "name": "PHARMASAVE WEST SPRINGS",
+    "address": "#35 8 WESTON DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-12T11:48:20.000Z",
+    "expiryDate": "2026-08-11T11:48:20.000Z",
+    "coordinates": [
+      -114.194247,
+      51.0637867
+    ],
+    "longitude": -114.194247,
+    "latitude": 51.0637867,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

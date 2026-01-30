@@ -1,0 +1,36 @@
+{
+  "id": "16472490",
+  "fullDetails": {
+    "licenseNumber": "16472490",
+    "name": "SHADOW TINTING",
+    "address": "#1 700 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2024-09-10T12:29:45.000Z",
+    "expiryDate": "2026-09-09T12:29:44.000Z",
+    "coordinates": [
+      -114.0464558,
+      51.0020491
+    ],
+    "longitude": -114.0464558,
+    "latitude": 51.0020491,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

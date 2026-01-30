@@ -1,0 +1,36 @@
+{
+  "id": "16072639",
+  "fullDetails": {
+    "licenseNumber": "16072639",
+    "name": "PETSMART",
+    "address": "#610 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-30T11:53:11.000Z",
+    "expiryDate": "2026-11-29T11:53:11.000Z",
+    "coordinates": [
+      -114.030812,
+      50.8658036
+    ],
+    "longitude": -114.030812,
+    "latitude": 50.8658036,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

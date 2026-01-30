@@ -1,0 +1,36 @@
+{
+  "id": "14942858",
+  "fullDetails": {
+    "licenseNumber": "14942858",
+    "name": "WAH HING MEAT SHOP",
+    "address": "#17 3220 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-06T09:54:08.000Z",
+    "expiryDate": "2026-07-05T09:54:08.000Z",
+    "coordinates": [
+      -113.9870211,
+      51.0573983
+    ],
+    "longitude": -113.9870211,
+    "latitude": 51.0573983,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

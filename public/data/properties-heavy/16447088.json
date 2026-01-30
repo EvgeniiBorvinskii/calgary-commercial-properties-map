@@ -1,0 +1,36 @@
+{
+  "id": "16447088",
+  "fullDetails": {
+    "licenseNumber": "16447088",
+    "name": "VIBE EVENT RENTALS",
+    "address": "22 AUBURN SPRINGS CL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-04-03T07:33:57.000Z",
+    "expiryDate": "2026-04-02T07:33:57.000Z",
+    "coordinates": [
+      -113.9485699,
+      50.8901565
+    ],
+    "longitude": -113.9485699,
+    "latitude": 50.8901565,
+    "community": "AUBURN BAY",
+    "ward": "AUB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16599151",
+  "fullDetails": {
+    "licenseNumber": "16599151",
+    "name": "HARVARD APARTMENTS",
+    "address": "933 18 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2025-04-04T11:46:09.000Z",
+    "expiryDate": "2026-04-03T11:46:08.000Z",
+    "coordinates": [
+      -114.0838345,
+      51.0367058
+    ],
+    "longitude": -114.0838345,
+    "latitude": 51.0367058,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

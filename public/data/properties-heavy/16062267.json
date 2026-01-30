@@ -1,0 +1,36 @@
+{
+  "id": "16062267",
+  "fullDetails": {
+    "licenseNumber": "16062267",
+    "name": "WINE AND BEYOND AT TOWNSHIP",
+    "address": "#200 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-11-08T14:09:48.000Z",
+    "expiryDate": "2026-11-07T14:09:48.000Z",
+    "coordinates": [
+      -114.0304771,
+      50.8646751
+    ],
+    "longitude": -114.0304771,
+    "latitude": 50.8646751,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

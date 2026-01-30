@@ -1,0 +1,36 @@
+{
+  "id": "14467096",
+  "fullDetails": {
+    "licenseNumber": "14467096",
+    "name": "SEALWELD",
+    "address": "6160 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2017-03-27T12:25:25.000Z",
+    "expiryDate": "2026-03-26T12:25:25.000Z",
+    "coordinates": [
+      -113.9758581,
+      50.9974723
+    ],
+    "longitude": -113.9758581,
+    "latitude": 50.9974723,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12277612",
+  "fullDetails": {
+    "licenseNumber": "12277612",
+    "name": "PHO ANH",
+    "address": "#14 400 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2007-01-09T15:38:20.000Z",
+    "expiryDate": "2027-01-08T15:38:20.000Z",
+    "coordinates": [
+      -114.2004266,
+      51.1297283
+    ],
+    "longitude": -114.2004266,
+    "latitude": 51.1297283,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12421707",
+  "fullDetails": {
+    "licenseNumber": "12421707",
+    "name": "ELITE RV & TRAILERS",
+    "address": "740 MERIDIAN RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2006-10-11T05:33:43.000Z",
+    "expiryDate": "2026-10-10T05:33:43.000Z",
+    "coordinates": [
+      -114.0005608,
+      51.0582935
+    ],
+    "longitude": -114.0005608,
+    "latitude": 51.0582935,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

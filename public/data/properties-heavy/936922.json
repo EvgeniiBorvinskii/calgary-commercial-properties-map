@@ -1,0 +1,36 @@
+{
+  "id": "936922",
+  "fullDetails": {
+    "licenseNumber": "936922",
+    "name": "MONEY MART",
+    "address": "#1 5268 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-29T13:02:00.000Z",
+    "expiryDate": "2026-09-28T13:01:59.000Z",
+    "coordinates": [
+      -113.9566345,
+      51.0537938
+    ],
+    "longitude": -113.9566345,
+    "latitude": 51.0537938,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

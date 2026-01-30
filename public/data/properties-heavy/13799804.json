@@ -1,0 +1,37 @@
+{
+  "id": "13799804",
+  "fullDetails": {
+    "licenseNumber": "13799804",
+    "name": "LANDMARK CINEMAS 10 SHAWNESSY",
+    "address": "#100 16061 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "CINEMA,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nCINEMA,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-07-25T15:23:51.000Z",
+    "expiryDate": "2026-07-24T15:23:51.000Z",
+    "coordinates": [
+      -114.0671598,
+      50.9082898
+    ],
+    "longitude": -114.0671598,
+    "latitude": 50.9082898,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

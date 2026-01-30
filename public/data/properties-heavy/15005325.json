@@ -1,0 +1,36 @@
+{
+  "id": "15005325",
+  "fullDetails": {
+    "licenseNumber": "15005325",
+    "name": "CSI LEASING CANADA",
+    "address": "3007 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-05T05:31:55.000Z",
+    "expiryDate": "2026-05-04T05:31:55.000Z",
+    "coordinates": [
+      -114.0195151,
+      51.0792215
+    ],
+    "longitude": -114.0195151,
+    "latitude": 51.0792215,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

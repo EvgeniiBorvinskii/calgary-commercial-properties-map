@@ -1,0 +1,36 @@
+{
+  "id": "16644841",
+  "fullDetails": {
+    "licenseNumber": "16644841",
+    "name": "SMART HAVEN SECURITY",
+    "address": "#104 122 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "licenseTypes": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "active",
+    "issuedDate": "2025-06-25T14:51:59.000Z",
+    "expiryDate": "2026-06-24T14:51:58.000Z",
+    "coordinates": [
+      -114.0622524,
+      51.0381417
+    ],
+    "longitude": -114.0622524,
+    "latitude": 51.0381417,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14301931",
+  "fullDetails": {
+    "licenseNumber": "14301931",
+    "name": "SUPERIOR WALLS",
+    "address": "#200 7505 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-06-02T14:57:47.000Z",
+    "expiryDate": "2026-06-01T14:57:47.000Z",
+    "coordinates": [
+      -113.9654209,
+      50.9872408
+    ],
+    "longitude": -113.9654209,
+    "latitude": 50.9872408,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

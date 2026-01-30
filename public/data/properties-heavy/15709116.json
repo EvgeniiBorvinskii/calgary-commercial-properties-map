@@ -1,0 +1,36 @@
+{
+  "id": "15709116",
+  "fullDetails": {
+    "licenseNumber": "15709116",
+    "name": "INKJI",
+    "address": "3507 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-01-19T12:37:40.000Z",
+    "expiryDate": "2027-01-18T12:37:40.000Z",
+    "coordinates": [
+      -114.0627685,
+      51.0835319
+    ],
+    "longitude": -114.0627685,
+    "latitude": 51.0835319,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

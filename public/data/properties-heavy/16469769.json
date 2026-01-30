@@ -1,0 +1,37 @@
+{
+  "id": "16469769",
+  "fullDetails": {
+    "licenseNumber": "16469769",
+    "name": "PRIME AUTO REPAIR",
+    "address": "#131 700 MORAINE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-07-11T10:29:35.000Z",
+    "expiryDate": "2026-07-10T10:29:34.000Z",
+    "coordinates": [
+      -113.9974662,
+      51.0577665
+    ],
+    "longitude": -113.9974662,
+    "latitude": 51.0577665,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12643995",
+  "fullDetails": {
+    "licenseNumber": "12643995",
+    "name": "MONEY MART",
+    "address": "#122 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-01T16:19:12.000Z",
+    "expiryDate": "2026-08-31T16:19:12.000Z",
+    "coordinates": [
+      -114.0861821,
+      50.9619862
+    ],
+    "longitude": -114.0861821,
+    "latitude": 50.9619862,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

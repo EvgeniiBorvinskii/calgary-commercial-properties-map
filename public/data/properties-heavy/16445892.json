@@ -1,0 +1,36 @@
+{
+  "id": "16445892",
+  "fullDetails": {
+    "licenseNumber": "16445892",
+    "name": "LORE TATTOO COLLECTIVE",
+    "address": "#202 8 PARKDALE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2024-02-29T01:02:26.000Z",
+    "expiryDate": "2026-02-27T01:02:26.000Z",
+    "coordinates": [
+      -114.1355814,
+      51.0580486
+    ],
+    "longitude": -114.1355814,
+    "latitude": 51.0580486,
+    "community": "PARKDALE",
+    "ward": "PKD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

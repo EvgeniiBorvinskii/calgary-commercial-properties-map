@@ -1,0 +1,36 @@
+{
+  "id": "15908072",
+  "fullDetails": {
+    "licenseNumber": "15908072",
+    "name": "FLIP INVESTMENTS",
+    "address": "222 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-04T09:05:40.000Z",
+    "expiryDate": "2026-09-03T09:05:39.000Z",
+    "coordinates": [
+      -114.059817,
+      51.0380202
+    ],
+    "longitude": -114.059817,
+    "latitude": 51.0380202,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

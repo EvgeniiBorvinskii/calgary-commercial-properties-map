@@ -1,0 +1,37 @@
+{
+  "id": "12454278",
+  "fullDetails": {
+    "licenseNumber": "12454278",
+    "name": "AUTOTECH PERFORMANCE AND SECURITY",
+    "address": "#4 1303 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-02-13T08:57:42.000Z",
+    "expiryDate": "2027-02-12T08:57:42.000Z",
+    "coordinates": [
+      -114.0324582,
+      51.0915677
+    ],
+    "longitude": -114.0324582,
+    "latitude": 51.0915677,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15555220",
+  "fullDetails": {
+    "licenseNumber": "15555220",
+    "name": "COMERY BLOCK BBQ",
+    "address": "638 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-06-26T09:59:24.000Z",
+    "expiryDate": "2026-06-25T09:59:24.000Z",
+    "coordinates": [
+      -114.0763516,
+      51.03795
+    ],
+    "longitude": -114.0763516,
+    "latitude": 51.03795,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

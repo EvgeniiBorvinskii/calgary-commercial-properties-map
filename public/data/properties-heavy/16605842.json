@@ -1,0 +1,37 @@
+{
+  "id": "16605842",
+  "fullDetails": {
+    "licenseNumber": "16605842",
+    "name": "NORTH HAVEN CONVENIENCE",
+    "address": "#7 4404 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2025-03-27T12:01:04.000Z",
+    "expiryDate": "2026-03-26T12:01:03.000Z",
+    "coordinates": [
+      -114.0941927,
+      51.0913884
+    ],
+    "longitude": -114.0941927,
+    "latitude": 51.0913884,
+    "community": "NORTH HAVEN",
+    "ward": "NHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

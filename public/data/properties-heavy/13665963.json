@@ -1,0 +1,36 @@
+{
+  "id": "13665963",
+  "fullDetails": {
+    "licenseNumber": "13665963",
+    "name": "AMITY ENVIRONMENTAL",
+    "address": "#6 6125 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-02-06T05:32:56.000Z",
+    "expiryDate": "2026-02-05T05:32:56.000Z",
+    "coordinates": [
+      -114.038472,
+      50.997525
+    ],
+    "longitude": -114.038472,
+    "latitude": 50.997525,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

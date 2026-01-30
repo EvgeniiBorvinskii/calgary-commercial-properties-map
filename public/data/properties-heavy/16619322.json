@@ -1,0 +1,36 @@
+{
+  "id": "16619322",
+  "fullDetails": {
+    "licenseNumber": "16619322",
+    "name": "RB CANADIAN LIQUOR",
+    "address": "#5 208 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-06-05T10:16:27.000Z",
+    "expiryDate": "2026-06-04T10:16:27.000Z",
+    "coordinates": [
+      -114.0616001,
+      50.913143
+    ],
+    "longitude": -114.0616001,
+    "latitude": 50.913143,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

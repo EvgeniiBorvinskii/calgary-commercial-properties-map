@@ -1,0 +1,36 @@
+{
+  "id": "583187",
+  "fullDetails": {
+    "licenseNumber": "583187",
+    "name": "FRESH BITES",
+    "address": "#106 10761 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-01-03T11:48:40.000Z",
+    "expiryDate": "2027-01-02T11:48:40.000Z",
+    "coordinates": [
+      -113.9986167,
+      51.1521663
+    ],
+    "longitude": -113.9986167,
+    "latitude": 51.1521663,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

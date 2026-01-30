@@ -1,0 +1,36 @@
+{
+  "id": "13810668",
+  "fullDetails": {
+    "licenseNumber": "13810668",
+    "name": "PREMIERE DANCE ACADEMY",
+    "address": "#310 19 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-10-29T05:32:55.000Z",
+    "expiryDate": "2026-10-28T05:32:55.000Z",
+    "coordinates": [
+      -114.204858,
+      51.1511406
+    ],
+    "longitude": -114.204858,
+    "latitude": 51.1511406,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

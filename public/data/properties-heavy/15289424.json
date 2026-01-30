@@ -1,0 +1,36 @@
+{
+  "id": "15289424",
+  "fullDetails": {
+    "licenseNumber": "15289424",
+    "name": "WILD EYES",
+    "address": "1104 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-07-22T06:53:52.000Z",
+    "expiryDate": "2026-07-21T06:53:51.000Z",
+    "coordinates": [
+      -114.0861732,
+      51.0427621
+    ],
+    "longitude": -114.0861732,
+    "latitude": 51.0427621,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

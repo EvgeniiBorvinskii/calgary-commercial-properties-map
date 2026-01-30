@@ -1,0 +1,36 @@
+{
+  "id": "14237739",
+  "fullDetails": {
+    "licenseNumber": "14237739",
+    "name": "ALLEN'S TRANSPORT",
+    "address": "4510 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-09-02T08:13:12.000Z",
+    "expiryDate": "2026-09-01T08:13:12.000Z",
+    "coordinates": [
+      -113.9690994,
+      50.9858478
+    ],
+    "longitude": -113.9690994,
+    "latitude": 50.9858478,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

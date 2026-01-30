@@ -1,0 +1,36 @@
+{
+  "id": "16603227",
+  "fullDetails": {
+    "licenseNumber": "16603227",
+    "name": "ALTOMAXX TECHNOLOGIES",
+    "address": "3307 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2025-04-23T14:18:41.000Z",
+    "expiryDate": "2026-04-22T14:18:40.000Z",
+    "coordinates": [
+      -113.9905605,
+      50.9490628
+    ],
+    "longitude": -113.9905605,
+    "latitude": 50.9490628,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

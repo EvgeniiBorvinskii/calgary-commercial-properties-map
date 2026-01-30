@@ -1,0 +1,36 @@
+{
+  "id": "886689",
+  "fullDetails": {
+    "licenseNumber": "886689",
+    "name": "MULTI-SOURCE PRINTING SOLUTIONS",
+    "address": "#38 4407 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-09-10T08:48:50.000Z",
+    "expiryDate": "2026-09-09T08:48:50.000Z",
+    "coordinates": [
+      -113.9729669,
+      50.9466739
+    ],
+    "longitude": -113.9729669,
+    "latitude": 50.9466739,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12386421",
+  "fullDetails": {
+    "licenseNumber": "12386421",
+    "name": "RSLS 2000",
+    "address": "6012 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2005-03-28T08:30:19.000Z",
+    "expiryDate": "2026-03-27T08:30:19.000Z",
+    "coordinates": [
+      -114.0633758,
+      50.9983874
+    ],
+    "longitude": -114.0633758,
+    "latitude": 50.9983874,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "41368",
+  "fullDetails": {
+    "licenseNumber": "41368",
+    "name": "LYNNWOOD ROOFING",
+    "address": "3645 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T15:32:30.000Z",
+    "expiryDate": "2026-07-08T15:32:29.000Z",
+    "coordinates": [
+      -113.9793041,
+      51.0101318
+    ],
+    "longitude": -113.9793041,
+    "latitude": 51.0101318,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

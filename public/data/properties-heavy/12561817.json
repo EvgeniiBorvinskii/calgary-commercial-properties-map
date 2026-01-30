@@ -1,0 +1,37 @@
+{
+  "id": "12561817",
+  "fullDetails": {
+    "licenseNumber": "12561817",
+    "name": "NILE SUPERMART",
+    "address": "4002 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-12-17T12:10:35.000Z",
+    "expiryDate": "2026-12-16T12:10:35.000Z",
+    "coordinates": [
+      -113.9767962,
+      51.0381709
+    ],
+    "longitude": -113.9767962,
+    "latitude": 51.0381709,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

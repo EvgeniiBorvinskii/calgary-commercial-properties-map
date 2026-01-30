@@ -1,0 +1,36 @@
+{
+  "id": "13790092",
+  "fullDetails": {
+    "licenseNumber": "13790092",
+    "name": "APARTMENT BUILDING",
+    "address": "644 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2014-01-08T09:04:29.000Z",
+    "expiryDate": "2027-01-07T09:04:29.000Z",
+    "coordinates": [
+      -114.0492241,
+      51.0534791
+    ],
+    "longitude": -114.0492241,
+    "latitude": 51.0534791,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

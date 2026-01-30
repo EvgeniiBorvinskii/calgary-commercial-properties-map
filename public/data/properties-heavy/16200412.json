@@ -1,0 +1,36 @@
+{
+  "id": "16200412",
+  "fullDetails": {
+    "licenseNumber": "16200412",
+    "name": "FOUR20",
+    "address": "#7111 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2022-10-06T08:39:38.000Z",
+    "expiryDate": "2026-10-05T08:39:38.000Z",
+    "coordinates": [
+      -114.2109815,
+      51.1523568
+    ],
+    "longitude": -114.2109815,
+    "latitude": 51.1523568,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

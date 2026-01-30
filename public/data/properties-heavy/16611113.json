@@ -1,0 +1,36 @@
+{
+  "id": "16611113",
+  "fullDetails": {
+    "licenseNumber": "16611113",
+    "name": "VIC ON FIFTH",
+    "address": "1124 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2025-04-04T09:26:00.000Z",
+    "expiryDate": "2026-04-03T09:25:59.000Z",
+    "coordinates": [
+      -114.0874494,
+      51.0574307
+    ],
+    "longitude": -114.0874494,
+    "latitude": 51.0574307,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15786882",
+  "fullDetails": {
+    "licenseNumber": "15786882",
+    "name": "MASSAGE HEIGHTS",
+    "address": "5957 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-30T10:10:14.000Z",
+    "expiryDate": "2026-10-29T10:10:14.000Z",
+    "coordinates": [
+      -114.1749911,
+      51.0166947
+    ],
+    "longitude": -114.1749911,
+    "latitude": 51.0166947,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

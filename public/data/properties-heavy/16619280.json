@@ -1,0 +1,36 @@
+{
+  "id": "16619280",
+  "fullDetails": {
+    "licenseNumber": "16619280",
+    "name": "CLASSIC MOULDINGS",
+    "address": "315 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-02T13:14:25.000Z",
+    "expiryDate": "2026-06-01T13:14:25.000Z",
+    "coordinates": [
+      -114.0565174,
+      51.0896831
+    ],
+    "longitude": -114.0565174,
+    "latitude": 51.0896831,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

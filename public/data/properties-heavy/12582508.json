@@ -1,0 +1,36 @@
+{
+  "id": "12582508",
+  "fullDetails": {
+    "licenseNumber": "12582508",
+    "name": "WOODPARK LIQUOR STORE",
+    "address": "#14 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2007-11-27T12:14:48.000Z",
+    "expiryDate": "2026-11-26T12:14:48.000Z",
+    "coordinates": [
+      -114.10973,
+      50.9407592
+    ],
+    "longitude": -114.10973,
+    "latitude": 50.9407592,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

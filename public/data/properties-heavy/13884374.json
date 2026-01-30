@@ -1,0 +1,36 @@
+{
+  "id": "13884374",
+  "fullDetails": {
+    "licenseNumber": "13884374",
+    "name": "ARUNDEL CAPITAL",
+    "address": "#201 3007 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2020-08-20T05:31:29.000Z",
+    "expiryDate": "2026-08-19T05:31:29.000Z",
+    "coordinates": [
+      -114.0950588,
+      51.0274292
+    ],
+    "longitude": -114.0950588,
+    "latitude": 51.0274292,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

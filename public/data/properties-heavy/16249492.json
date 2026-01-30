@@ -1,0 +1,37 @@
+{
+  "id": "16249492",
+  "fullDetails": {
+    "licenseNumber": "16249492",
+    "name": "SAVANNA MARKET COMMUNITYRX PHARMACY",
+    "address": "#206 9036 46 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-19T05:34:07.000Z",
+    "expiryDate": "2026-12-18T05:34:07.000Z",
+    "coordinates": [
+      -113.9652303,
+      51.1342105
+    ],
+    "longitude": -113.9652303,
+    "latitude": 51.1342105,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

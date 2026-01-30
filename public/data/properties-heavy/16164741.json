@@ -1,0 +1,36 @@
+{
+  "id": "16164741",
+  "fullDetails": {
+    "licenseNumber": "16164741",
+    "name": "WETZEL'S PRETZELS",
+    "address": "#109 333 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-08T15:19:53.000Z",
+    "expiryDate": "2026-09-07T15:19:53.000Z",
+    "coordinates": [
+      -114.0629542,
+      50.8969405
+    ],
+    "longitude": -114.0629542,
+    "latitude": 50.8969405,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

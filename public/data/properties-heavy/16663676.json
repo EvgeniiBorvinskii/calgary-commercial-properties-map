@@ -1,0 +1,36 @@
+{
+  "id": "16663676",
+  "fullDetails": {
+    "licenseNumber": "16663676",
+    "name": "WHOLESALE HOT TUB SUPPLIES",
+    "address": "1504 MERIDIAN RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-22T07:56:45.000Z",
+    "expiryDate": "2026-08-21T07:56:44.000Z",
+    "coordinates": [
+      -113.9974051,
+      51.0658737
+    ],
+    "longitude": -113.9974051,
+    "latitude": 51.0658737,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

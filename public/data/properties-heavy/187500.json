@@ -1,0 +1,36 @@
+{
+  "id": "187500",
+  "fullDetails": {
+    "licenseNumber": "187500",
+    "name": "FABRICLAND",
+    "address": "#735 3221 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-11-01T11:50:30.000Z",
+    "expiryDate": "2026-10-31T11:50:30.000Z",
+    "coordinates": [
+      -113.9923418,
+      51.0679002
+    ],
+    "longitude": -113.9923418,
+    "latitude": 51.0679002,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

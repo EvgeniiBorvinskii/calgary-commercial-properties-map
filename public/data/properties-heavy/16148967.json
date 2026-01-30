@@ -1,0 +1,36 @@
+{
+  "id": "16148967",
+  "fullDetails": {
+    "licenseNumber": "16148967",
+    "name": "POLYCYCLE ENVIRONMENTAL",
+    "address": "#F 3915 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-06-27T15:43:16.000Z",
+    "expiryDate": "2026-06-26T15:43:16.000Z",
+    "coordinates": [
+      -113.9798671,
+      50.9820707
+    ],
+    "longitude": -113.9798671,
+    "latitude": 50.9820707,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

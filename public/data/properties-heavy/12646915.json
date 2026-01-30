@@ -1,0 +1,37 @@
+{
+  "id": "12646915",
+  "fullDetails": {
+    "licenseNumber": "12646915",
+    "name": "MICHELSEN JEWELERS",
+    "address": "#7 675 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2008-05-23T08:58:08.000Z",
+    "expiryDate": "2026-05-22T08:58:08.000Z",
+    "coordinates": [
+      -114.0464736,
+      50.960628
+    ],
+    "longitude": -114.0464736,
+    "latitude": 50.960628,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

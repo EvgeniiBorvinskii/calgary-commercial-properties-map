@@ -1,0 +1,36 @@
+{
+  "id": "16512824",
+  "fullDetails": {
+    "licenseNumber": "16512824",
+    "name": "SUBWAY 11338 BRAESIDE",
+    "address": "#7 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-11-21T13:36:04.000Z",
+    "expiryDate": "2026-11-20T13:36:02.000Z",
+    "coordinates": [
+      -114.1158281,
+      50.9533652
+    ],
+    "longitude": -114.1158281,
+    "latitude": 50.9533652,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

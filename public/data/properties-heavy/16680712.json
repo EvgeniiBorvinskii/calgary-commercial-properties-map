@@ -1,0 +1,36 @@
+{
+  "id": "16680712",
+  "fullDetails": {
+    "licenseNumber": "16680712",
+    "name": "COUNTRY PIZZA",
+    "address": "#128 40 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-15T08:29:53.000Z",
+    "expiryDate": "2026-10-14T08:29:52.000Z",
+    "coordinates": [
+      -114.0706532,
+      51.1419257
+    ],
+    "longitude": -114.0706532,
+    "latitude": 51.1419257,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

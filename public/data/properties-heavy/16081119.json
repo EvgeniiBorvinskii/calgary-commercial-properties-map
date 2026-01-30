@@ -1,0 +1,36 @@
+{
+  "id": "16081119",
+  "fullDetails": {
+    "licenseNumber": "16081119",
+    "name": "CORE FABRICATION",
+    "address": "#2192 8800 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-10-21T13:00:27.000Z",
+    "expiryDate": "2026-10-20T13:00:27.000Z",
+    "coordinates": [
+      -113.905802,
+      50.9716976
+    ],
+    "longitude": -113.905802,
+    "latitude": 50.9716976,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

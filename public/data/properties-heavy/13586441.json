@@ -1,0 +1,37 @@
+{
+  "id": "13586441",
+  "fullDetails": {
+    "licenseNumber": "13586441",
+    "name": "TACK COLLECTOR (THE)",
+    "address": "#116 5050 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2013-02-15T14:31:11.000Z",
+    "expiryDate": "2026-02-14T14:31:11.000Z",
+    "coordinates": [
+      -113.9629512,
+      50.9583581
+    ],
+    "longitude": -113.9629512,
+    "latitude": 50.9583581,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

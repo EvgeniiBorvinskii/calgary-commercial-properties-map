@@ -1,0 +1,37 @@
+{
+  "id": "16474538",
+  "fullDetails": {
+    "licenseNumber": "16474538",
+    "name": "FENYK COFFEE AND SOCIAL",
+    "address": "#110 5049 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-05-23T15:39:02.000Z",
+    "expiryDate": "2026-05-22T15:39:02.000Z",
+    "coordinates": [
+      -114.1425049,
+      51.0981108
+    ],
+    "longitude": -114.1425049,
+    "latitude": 51.0981108,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

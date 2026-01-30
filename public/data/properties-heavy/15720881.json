@@ -1,0 +1,36 @@
+{
+  "id": "15720881",
+  "fullDetails": {
+    "licenseNumber": "15720881",
+    "name": "BLACK BELT JUNG'S TAEKWONDO",
+    "address": "123 MAHOGANY PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-09-10T14:32:47.000Z",
+    "expiryDate": "2026-09-09T14:32:47.000Z",
+    "coordinates": [
+      -113.9407154,
+      50.8972077
+    ],
+    "longitude": -113.9407154,
+    "latitude": 50.8972077,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

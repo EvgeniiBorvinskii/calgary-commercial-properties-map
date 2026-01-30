@@ -1,0 +1,36 @@
+{
+  "id": "15974652",
+  "fullDetails": {
+    "licenseNumber": "15974652",
+    "name": "LEAFFILTER GUTTER PROTECTION",
+    "address": "513 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-04-19T13:47:03.000Z",
+    "expiryDate": "2026-04-18T13:47:03.000Z",
+    "coordinates": [
+      -114.0520042,
+      51.0155381
+    ],
+    "longitude": -114.0520042,
+    "latitude": 51.0155381,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

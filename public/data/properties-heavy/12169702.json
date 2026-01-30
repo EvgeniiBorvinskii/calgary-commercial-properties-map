@@ -1,0 +1,36 @@
+{
+  "id": "12169702",
+  "fullDetails": {
+    "licenseNumber": "12169702",
+    "name": "STAIR SHOPPE (THE)",
+    "address": "115 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2003-04-30T05:34:42.000Z",
+    "expiryDate": "2026-04-29T05:34:42.000Z",
+    "coordinates": [
+      -114.04511,
+      51.098579
+    ],
+    "longitude": -114.04511,
+    "latitude": 51.098579,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

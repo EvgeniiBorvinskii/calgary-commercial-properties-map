@@ -1,0 +1,37 @@
+{
+  "id": "12634655",
+  "fullDetails": {
+    "licenseNumber": "12634655",
+    "name": "WEST CANADIAN DIGITAL IMAGING",
+    "address": "1601 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2010-03-09T05:48:07.000Z",
+    "expiryDate": "2026-03-08T05:48:07.000Z",
+    "coordinates": [
+      -114.0244656,
+      51.0371127
+    ],
+    "longitude": -114.0244656,
+    "latitude": 51.0371127,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

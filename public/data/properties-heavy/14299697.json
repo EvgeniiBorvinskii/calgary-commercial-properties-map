@@ -1,0 +1,36 @@
+{
+  "id": "14299697",
+  "fullDetails": {
+    "licenseNumber": "14299697",
+    "name": "KINGLY (THE)",
+    "address": "#210 2120 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2023-11-08T07:59:26.000Z",
+    "expiryDate": "2026-11-07T07:59:26.000Z",
+    "coordinates": [
+      -114.071268,
+      51.0336222
+    ],
+    "longitude": -114.071268,
+    "latitude": 51.0336222,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

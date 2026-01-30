@@ -1,0 +1,36 @@
+{
+  "id": "176354",
+  "fullDetails": {
+    "licenseNumber": "176354",
+    "name": "NAPA AUTOPRO / CN AUTO REPAIR",
+    "address": "1311 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-04-15T15:10:49.000Z",
+    "expiryDate": "2026-04-14T15:10:48.000Z",
+    "coordinates": [
+      -114.0245696,
+      51.0746826
+    ],
+    "longitude": -114.0245696,
+    "latitude": 51.0746826,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16658213",
+  "fullDetails": {
+    "licenseNumber": "16658213",
+    "name": "FREEDOM MOBILE",
+    "address": "#20 5315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-28T08:38:03.000Z",
+    "expiryDate": "2026-08-27T08:38:03.000Z",
+    "coordinates": [
+      -113.9567101,
+      51.0374494
+    ],
+    "longitude": -113.9567101,
+    "latitude": 51.0374494,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

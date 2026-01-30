@@ -1,0 +1,36 @@
+{
+  "id": "12542304",
+  "fullDetails": {
+    "licenseNumber": "12542304",
+    "name": "SCENIC ACRES VETERINARY CLINIC",
+    "address": "#126 8060 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-01-26T15:40:25.000Z",
+    "expiryDate": "2026-01-25T15:40:25.000Z",
+    "coordinates": [
+      -114.2044161,
+      51.1160689
+    ],
+    "longitude": -114.2044161,
+    "latitude": 51.1160689,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

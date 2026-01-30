@@ -1,0 +1,36 @@
+{
+  "id": "15898307",
+  "fullDetails": {
+    "licenseNumber": "15898307",
+    "name": "MODERN K9",
+    "address": "#121 10555 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-21T12:53:34.000Z",
+    "expiryDate": "2026-05-20T12:53:34.000Z",
+    "coordinates": [
+      -113.9660783,
+      50.9594682
+    ],
+    "longitude": -113.9660783,
+    "latitude": 50.9594682,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

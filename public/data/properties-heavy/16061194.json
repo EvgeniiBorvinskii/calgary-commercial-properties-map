@@ -1,0 +1,36 @@
+{
+  "id": "16061194",
+  "fullDetails": {
+    "licenseNumber": "16061194",
+    "name": "SUGAR CUBE (THE) (CGY-1066)",
+    "address": "#115 11769 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-02T10:03:22.000Z",
+    "expiryDate": "2026-02-01T10:03:22.000Z",
+    "coordinates": [
+      -113.9780991,
+      50.9452958
+    ],
+    "longitude": -113.9780991,
+    "latitude": 50.9452958,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

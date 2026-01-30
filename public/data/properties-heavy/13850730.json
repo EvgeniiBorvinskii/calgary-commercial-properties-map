@@ -1,0 +1,36 @@
+{
+  "id": "13850730",
+  "fullDetails": {
+    "licenseNumber": "13850730",
+    "name": "BLOOMS & BUTTERFLIES",
+    "address": "#228 10816 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-08-01T14:29:09.000Z",
+    "expiryDate": "2026-07-31T14:29:09.000Z",
+    "coordinates": [
+      -114.0690959,
+      50.956402
+    ],
+    "longitude": -114.0690959,
+    "latitude": 50.956402,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

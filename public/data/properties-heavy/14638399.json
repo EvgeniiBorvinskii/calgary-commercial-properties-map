@@ -1,0 +1,36 @@
+{
+  "id": "14638399",
+  "fullDetails": {
+    "licenseNumber": "14638399",
+    "name": "JOELLE WONG COSMETIC TATTOO",
+    "address": "909 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2019-06-14T05:30:32.000Z",
+    "expiryDate": "2026-06-13T05:30:32.000Z",
+    "coordinates": [
+      -114.0823008,
+      51.0436697
+    ],
+    "longitude": -114.0823008,
+    "latitude": 51.0436697,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

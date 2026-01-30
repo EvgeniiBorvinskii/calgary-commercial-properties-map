@@ -1,0 +1,37 @@
+{
+  "id": "14282560",
+  "fullDetails": {
+    "licenseNumber": "14282560",
+    "name": "WELLSPRING",
+    "address": "3910 SETON DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-10-08T05:33:16.000Z",
+    "expiryDate": "2026-10-07T05:33:16.000Z",
+    "coordinates": [
+      -113.9526292,
+      50.877258
+    ],
+    "longitude": -113.9526292,
+    "latitude": 50.877258,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

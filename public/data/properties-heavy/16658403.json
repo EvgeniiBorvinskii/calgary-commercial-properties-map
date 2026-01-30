@@ -1,0 +1,37 @@
+{
+  "id": "16658403",
+  "fullDetails": {
+    "licenseNumber": "16658403",
+    "name": "EVERGLO SKIN STUDIO",
+    "address": "#106 506 71 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-06T09:55:33.000Z",
+    "expiryDate": "2026-08-05T09:55:33.000Z",
+    "coordinates": [
+      -114.0735867,
+      50.9898377
+    ],
+    "longitude": -114.0735867,
+    "latitude": 50.9898377,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

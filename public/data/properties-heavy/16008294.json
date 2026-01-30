@@ -1,0 +1,36 @@
+{
+  "id": "16008294",
+  "fullDetails": {
+    "licenseNumber": "16008294",
+    "name": "CANADIAN PIZZA UNLIMITED",
+    "address": "2022 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-04-09T08:08:28.000Z",
+    "expiryDate": "2026-04-08T08:08:28.000Z",
+    "coordinates": [
+      -114.1084357,
+      51.0243386
+    ],
+    "longitude": -114.1084357,
+    "latitude": 51.0243386,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

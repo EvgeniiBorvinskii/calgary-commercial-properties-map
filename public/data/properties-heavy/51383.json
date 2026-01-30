@@ -1,0 +1,36 @@
+{
+  "id": "51383",
+  "fullDetails": {
+    "licenseNumber": "51383",
+    "name": "STEEL-CRAFT DOOR PRODUCTS",
+    "address": "#5 3201 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-10-21T08:55:30.000Z",
+    "expiryDate": "2026-10-20T08:55:30.000Z",
+    "coordinates": [
+      -114.0321508,
+      51.0264335
+    ],
+    "longitude": -114.0321508,
+    "latitude": 51.0264335,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

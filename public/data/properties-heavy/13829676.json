@@ -1,0 +1,36 @@
+{
+  "id": "13829676",
+  "fullDetails": {
+    "licenseNumber": "13829676",
+    "name": "BOUNDLESS DANCE STUDIO",
+    "address": "#325 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-05-13T05:33:38.000Z",
+    "expiryDate": "2026-05-12T05:33:38.000Z",
+    "coordinates": [
+      -113.9697537,
+      50.9510197
+    ],
+    "longitude": -113.9697537,
+    "latitude": 50.9510197,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

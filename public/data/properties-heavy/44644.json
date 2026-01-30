@@ -1,0 +1,37 @@
+{
+  "id": "44644",
+  "fullDetails": {
+    "licenseNumber": "44644",
+    "name": "CALGARY CO-OP GAS BAR #10",
+    "address": "#A 8220 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FUEL SALES/STORAGE,",
+    "licenseTypes": "TOBACCO RETAILER,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0707991,
+      51.1255816
+    ],
+    "longitude": -114.0707991,
+    "latitude": 51.1255816,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

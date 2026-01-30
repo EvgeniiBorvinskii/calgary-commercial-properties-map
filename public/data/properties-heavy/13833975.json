@@ -1,0 +1,37 @@
+{
+  "id": "13833975",
+  "fullDetails": {
+    "licenseNumber": "13833975",
+    "name": "UNITED TECHNOLOGIES VOICE AND DATA SOLUTIONS",
+    "address": "#333 11979 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-05-08T06:48:05.000Z",
+    "expiryDate": "2026-05-07T06:48:04.000Z",
+    "coordinates": [
+      -113.9762769,
+      50.9430071
+    ],
+    "longitude": -113.9762769,
+    "latitude": 50.9430071,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

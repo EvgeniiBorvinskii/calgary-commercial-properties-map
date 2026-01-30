@@ -1,0 +1,36 @@
+{
+  "id": "16462707",
+  "fullDetails": {
+    "licenseNumber": "16462707",
+    "name": "GLENMORE COIN LAUNDRY AND DRY CLEANING",
+    "address": "#10B 6624 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2024-04-03T15:43:29.000Z",
+    "expiryDate": "2026-04-02T15:43:29.000Z",
+    "coordinates": [
+      -114.0626386,
+      50.9951531
+    ],
+    "longitude": -114.0626386,
+    "latitude": 50.9951531,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

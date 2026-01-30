@@ -1,0 +1,36 @@
+{
+  "id": "16339145",
+  "fullDetails": {
+    "licenseNumber": "16339145",
+    "name": "PEARL CANNABIS",
+    "address": "#3170R 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2023-06-19T10:17:55.000Z",
+    "expiryDate": "2026-06-18T10:17:55.000Z",
+    "coordinates": [
+      -113.9513734,
+      51.1336098
+    ],
+    "longitude": -113.9513734,
+    "latitude": 51.1336098,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

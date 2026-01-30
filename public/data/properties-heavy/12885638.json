@@ -1,0 +1,36 @@
+{
+  "id": "12885638",
+  "fullDetails": {
+    "licenseNumber": "12885638",
+    "name": "ECO DENTWORKS",
+    "address": "427D 38 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2010-04-29T14:32:27.000Z",
+    "expiryDate": "2026-04-28T14:32:27.000Z",
+    "coordinates": [
+      -114.0526359,
+      51.0865673
+    ],
+    "longitude": -114.0526359,
+    "latitude": 51.0865673,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

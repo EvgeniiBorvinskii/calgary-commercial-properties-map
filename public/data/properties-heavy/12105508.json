@@ -1,0 +1,36 @@
+{
+  "id": "12105508",
+  "fullDetails": {
+    "licenseNumber": "12105508",
+    "name": "BOND CONTRACTING AND CONSTRUCTION",
+    "address": "#31 777 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-05-16T13:53:47.000Z",
+    "expiryDate": "2026-05-15T13:53:47.000Z",
+    "coordinates": [
+      -114.0468786,
+      50.9962068
+    ],
+    "longitude": -114.0468786,
+    "latitude": 50.9962068,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

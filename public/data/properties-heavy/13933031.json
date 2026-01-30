@@ -1,0 +1,36 @@
+{
+  "id": "13933031",
+  "fullDetails": {
+    "licenseNumber": "13933031",
+    "name": "KAY 2 CONTRACTING",
+    "address": "3336 47 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-11-17T11:36:41.000Z",
+    "expiryDate": "2026-11-16T11:36:41.000Z",
+    "coordinates": [
+      -113.9857911,
+      51.0118456
+    ],
+    "longitude": -113.9857911,
+    "latitude": 51.0118456,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14981682",
+  "fullDetails": {
+    "licenseNumber": "14981682",
+    "name": "QUALITY AUTO BODY & REPAIR CENTER",
+    "address": "80 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-11-28T12:44:36.000Z",
+    "expiryDate": "2026-11-27T12:44:36.000Z",
+    "coordinates": [
+      -114.0441505,
+      51.097541
+    ],
+    "longitude": -114.0441505,
+    "latitude": 51.097541,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15169972",
+  "fullDetails": {
+    "licenseNumber": "15169972",
+    "name": "MOBILITY HEALTH",
+    "address": "#6A 6120 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-13T13:32:29.000Z",
+    "expiryDate": "2026-10-12T13:32:29.000Z",
+    "coordinates": [
+      -114.0592623,
+      50.9972222
+    ],
+    "longitude": -114.0592623,
+    "latitude": 50.9972222,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

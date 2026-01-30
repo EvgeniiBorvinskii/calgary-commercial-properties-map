@@ -1,0 +1,36 @@
+{
+  "id": "16138380",
+  "fullDetails": {
+    "licenseNumber": "16138380",
+    "name": "STAR LIQUOR & WINE BOUTIQUE",
+    "address": "#110 15 MASTERS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-07-08T12:06:44.000Z",
+    "expiryDate": "2026-07-07T12:06:44.000Z",
+    "coordinates": [
+      -113.9109657,
+      50.8945158
+    ],
+    "longitude": -113.9109657,
+    "latitude": 50.8945158,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14405963",
+  "fullDetails": {
+    "licenseNumber": "14405963",
+    "name": "CASHCO",
+    "address": "4636 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER",
+    "licenseTypes": "PAYDAY LENDER",
+    "status": "pending",
+    "issuedDate": "2017-02-02T10:00:05.000Z",
+    "expiryDate": "2026-02-01T10:00:05.000Z",
+    "coordinates": [
+      -114.0644773,
+      51.0115031
+    ],
+    "longitude": -114.0644773,
+    "latitude": 51.0115031,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

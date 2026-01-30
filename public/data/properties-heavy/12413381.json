@@ -1,0 +1,37 @@
+{
+  "id": "12413381",
+  "fullDetails": {
+    "licenseNumber": "12413381",
+    "name": "LEMON GARDEN RESTAURANT",
+    "address": "2913 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2005-07-22T14:49:24.000Z",
+    "expiryDate": "2026-07-21T14:49:24.000Z",
+    "coordinates": [
+      -114.1289895,
+      51.0255644
+    ],
+    "longitude": -114.1289895,
+    "latitude": 51.0255644,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

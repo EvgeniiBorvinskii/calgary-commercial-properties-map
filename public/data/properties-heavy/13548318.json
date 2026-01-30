@@ -1,0 +1,36 @@
+{
+  "id": "13548318",
+  "fullDetails": {
+    "licenseNumber": "13548318",
+    "name": "PDR HAIL TEAM",
+    "address": "#1 4404 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2021-06-01T09:25:29.000Z",
+    "expiryDate": "2026-05-31T09:25:29.000Z",
+    "coordinates": [
+      -113.9723288,
+      50.9473729
+    ],
+    "longitude": -113.9723288,
+    "latitude": 50.9473729,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

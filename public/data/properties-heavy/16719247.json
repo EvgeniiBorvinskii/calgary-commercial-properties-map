@@ -1,0 +1,37 @@
+{
+  "id": "16719247",
+  "fullDetails": {
+    "licenseNumber": "16719247",
+    "name": "OVERTIME GRADING",
+    "address": "#1683 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2026-01-16T12:00:39.000Z",
+    "expiryDate": "2027-01-15T12:00:38.000Z",
+    "coordinates": [
+      -114.0994105,
+      51.0657998
+    ],
+    "longitude": -114.0994105,
+    "latitude": 51.0657998,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

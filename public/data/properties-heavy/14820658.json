@@ -1,0 +1,37 @@
+{
+  "id": "14820658",
+  "fullDetails": {
+    "licenseNumber": "14820658",
+    "name": "TOMMY GUN'S ORIGINAL BARBERSHOP",
+    "address": "#511 4700 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-02T11:17:24.000Z",
+    "expiryDate": "2026-03-01T11:17:24.000Z",
+    "coordinates": [
+      -113.9675095,
+      50.9323838
+    ],
+    "longitude": -113.9675095,
+    "latitude": 50.9323838,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

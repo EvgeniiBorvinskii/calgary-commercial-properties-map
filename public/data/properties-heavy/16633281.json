@@ -1,0 +1,36 @@
+{
+  "id": "16633281",
+  "fullDetails": {
+    "licenseNumber": "16633281",
+    "name": "ARAMARK ROGERS BARLOW",
+    "address": "2400 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-08-15T14:11:45.000Z",
+    "expiryDate": "2026-08-14T14:11:44.000Z",
+    "coordinates": [
+      -114.0028941,
+      51.0827155
+    ],
+    "longitude": -114.0028941,
+    "latitude": 51.0827155,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

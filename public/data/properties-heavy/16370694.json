@@ -1,0 +1,36 @@
+{
+  "id": "16370694",
+  "fullDetails": {
+    "licenseNumber": "16370694",
+    "name": "GARAGE CLOTHING CO (THE) STORE #124",
+    "address": "#185 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-08-01T15:38:57.000Z",
+    "expiryDate": "2026-04-12T00:00:00.000Z",
+    "coordinates": [
+      -114.0742593,
+      50.9971113
+    ],
+    "longitude": -114.0742593,
+    "latitude": 50.9971113,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

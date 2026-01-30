@@ -1,0 +1,37 @@
+{
+  "id": "16444523",
+  "fullDetails": {
+    "licenseNumber": "16444523",
+    "name": "PLANET FITNESS SAGE HILL",
+    "address": "#101 50 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-14T09:50:43.000Z",
+    "expiryDate": "2026-03-13T09:50:43.000Z",
+    "coordinates": [
+      -114.1479595,
+      51.169863
+    ],
+    "longitude": -114.1479595,
+    "latitude": 51.169863,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12099586",
+  "fullDetails": {
+    "licenseNumber": "12099586",
+    "name": "ONCE UPON A CHILD",
+    "address": "#162 8228 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2020-10-08T10:31:10.000Z",
+    "expiryDate": "2026-10-07T10:31:10.000Z",
+    "coordinates": [
+      -114.0694576,
+      50.9800524
+    ],
+    "longitude": -114.0694576,
+    "latitude": 50.9800524,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

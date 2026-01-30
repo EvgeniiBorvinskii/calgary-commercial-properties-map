@@ -1,0 +1,36 @@
+{
+  "id": "15890148",
+  "fullDetails": {
+    "licenseNumber": "15890148",
+    "name": "DOLPHIN DRYCLEANERS",
+    "address": "1210 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2020-04-29T13:28:34.000Z",
+    "expiryDate": "2026-04-28T13:28:34.000Z",
+    "coordinates": [
+      -114.0898536,
+      51.038158
+    ],
+    "longitude": -114.0898536,
+    "latitude": 51.038158,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

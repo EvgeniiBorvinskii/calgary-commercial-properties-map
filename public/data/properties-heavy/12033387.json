@@ -1,0 +1,36 @@
+{
+  "id": "12033387",
+  "fullDetails": {
+    "licenseNumber": "12033387",
+    "name": "G P S CITY CANADA",
+    "address": "#12 49 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-02-06T13:55:57.000Z",
+    "expiryDate": "2026-02-05T13:55:57.000Z",
+    "coordinates": [
+      -114.0403687,
+      51.1231669
+    ],
+    "longitude": -114.0403687,
+    "latitude": 51.1231669,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

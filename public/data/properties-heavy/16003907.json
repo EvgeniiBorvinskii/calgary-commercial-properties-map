@@ -1,0 +1,36 @@
+{
+  "id": "16003907",
+  "fullDetails": {
+    "licenseNumber": "16003907",
+    "name": "CHELY MY ART",
+    "address": "#309 508 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2021-05-26T10:57:53.000Z",
+    "expiryDate": "2026-05-25T10:57:53.000Z",
+    "coordinates": [
+      -114.0718643,
+      51.0317421
+    ],
+    "longitude": -114.0718643,
+    "latitude": 51.0317421,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

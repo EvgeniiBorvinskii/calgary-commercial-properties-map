@@ -1,0 +1,36 @@
+{
+  "id": "16466799",
+  "fullDetails": {
+    "licenseNumber": "16466799",
+    "name": "MANN TRAVEL WORLD",
+    "address": "#1020 4231 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-16T14:17:43.000Z",
+    "expiryDate": "2026-05-15T14:17:43.000Z",
+    "coordinates": [
+      -113.9734765,
+      51.1524455
+    ],
+    "longitude": -113.9734765,
+    "latitude": 51.1524455,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16391138",
+  "fullDetails": {
+    "licenseNumber": "16391138",
+    "name": "GOLDEN TOUCH AUTOCARE",
+    "address": "3421 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2023-10-24T14:36:13.000Z",
+    "expiryDate": "2026-10-23T14:36:13.000Z",
+    "coordinates": [
+      -113.9891231,
+      51.0832325
+    ],
+    "longitude": -113.9891231,
+    "latitude": 51.0832325,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

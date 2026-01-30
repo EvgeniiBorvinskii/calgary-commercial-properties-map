@@ -1,0 +1,36 @@
+{
+  "id": "12434031",
+  "fullDetails": {
+    "licenseNumber": "12434031",
+    "name": "TAIJI WELLNESS CENTRE",
+    "address": "#130A 3715 51 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-06T09:38:57.000Z",
+    "expiryDate": "2026-02-05T09:38:57.000Z",
+    "coordinates": [
+      -114.1626839,
+      51.0214234
+    ],
+    "longitude": -114.1626839,
+    "latitude": 51.0214234,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

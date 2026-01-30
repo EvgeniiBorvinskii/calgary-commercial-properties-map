@@ -1,0 +1,36 @@
+{
+  "id": "12222337",
+  "fullDetails": {
+    "licenseNumber": "12222337",
+    "name": "EMPIRE CUSTOM HOMES",
+    "address": "5539 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-11-15T09:25:49.000Z",
+    "expiryDate": "2026-11-14T09:25:49.000Z",
+    "coordinates": [
+      -114.063461,
+      51.0042322
+    ],
+    "longitude": -114.063461,
+    "latitude": 51.0042322,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

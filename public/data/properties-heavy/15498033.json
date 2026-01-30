@@ -1,0 +1,36 @@
+{
+  "id": "15498033",
+  "fullDetails": {
+    "licenseNumber": "15498033",
+    "name": "STRUCTUBE FURNITURE AND ACCESSORIES",
+    "address": "5663 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-22T10:43:52.000Z",
+    "expiryDate": "2026-05-21T10:43:52.000Z",
+    "coordinates": [
+      -114.1697743,
+      51.0179966
+    ],
+    "longitude": -114.1697743,
+    "latitude": 51.0179966,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

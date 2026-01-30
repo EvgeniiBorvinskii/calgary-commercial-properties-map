@@ -1,0 +1,36 @@
+{
+  "id": "16602195",
+  "fullDetails": {
+    "licenseNumber": "16602195",
+    "name": "JTBS LIQUOR SHOP",
+    "address": "#13 3109 PALLISER DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-04-29T08:27:58.000Z",
+    "expiryDate": "2026-04-28T08:27:58.000Z",
+    "coordinates": [
+      -114.1304517,
+      50.969954
+    ],
+    "longitude": -114.1304517,
+    "latitude": 50.969954,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5884",
+  "fullDetails": {
+    "licenseNumber": "5884",
+    "name": "TROJAN INDUSTRIES",
+    "address": "4900 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-07-29T05:34:54.000Z",
+    "expiryDate": "2026-07-28T05:34:54.000Z",
+    "coordinates": [
+      -113.9626011,
+      51.0041831
+    ],
+    "longitude": -113.9626011,
+    "latitude": 51.0041831,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

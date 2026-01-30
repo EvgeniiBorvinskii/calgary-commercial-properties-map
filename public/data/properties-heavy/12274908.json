@@ -1,0 +1,36 @@
+{
+  "id": "12274908",
+  "fullDetails": {
+    "licenseNumber": "12274908",
+    "name": "FIRM (THE)",
+    "address": "#5 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2013-10-30T05:32:19.000Z",
+    "expiryDate": "2026-10-29T05:32:19.000Z",
+    "coordinates": [
+      -114.0497316,
+      51.1019354
+    ],
+    "longitude": -114.0497316,
+    "latitude": 51.1019354,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

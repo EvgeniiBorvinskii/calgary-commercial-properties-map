@@ -1,0 +1,36 @@
+{
+  "id": "280677",
+  "fullDetails": {
+    "licenseNumber": "280677",
+    "name": "INTERNATIONAL LABORATORIES (CANADA)",
+    "address": "63 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-01-27T07:50:59.000Z",
+    "expiryDate": "2027-01-26T07:50:59.000Z",
+    "coordinates": [
+      -114.0455706,
+      51.0971665
+    ],
+    "longitude": -114.0455706,
+    "latitude": 51.0971665,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

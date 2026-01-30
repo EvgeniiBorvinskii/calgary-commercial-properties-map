@@ -1,0 +1,36 @@
+{
+  "id": "12664454",
+  "fullDetails": {
+    "licenseNumber": "12664454",
+    "name": "ARC DIGITAL CANADA",
+    "address": "#100 540 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-12-29T12:50:52.000Z",
+    "expiryDate": "2026-12-28T12:50:52.000Z",
+    "coordinates": [
+      -114.0731692,
+      51.0489393
+    ],
+    "longitude": -114.0731692,
+    "latitude": 51.0489393,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

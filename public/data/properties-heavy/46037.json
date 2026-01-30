@@ -1,0 +1,37 @@
+{
+  "id": "46037",
+  "fullDetails": {
+    "licenseNumber": "46037",
+    "name": "TIMBERTOWN BUILDING CENTRE",
+    "address": "230 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2002-01-14T17:36:46.000Z",
+    "expiryDate": "2027-01-13T05:34:19.000Z",
+    "coordinates": [
+      -114.0593699,
+      51.0163543
+    ],
+    "longitude": -114.0593699,
+    "latitude": 51.0163543,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

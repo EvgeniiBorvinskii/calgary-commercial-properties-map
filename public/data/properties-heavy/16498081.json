@@ -1,0 +1,36 @@
+{
+  "id": "16498081",
+  "fullDetails": {
+    "licenseNumber": "16498081",
+    "name": "HARKOR REPAIRS",
+    "address": "7210 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-10-25T09:37:34.000Z",
+    "expiryDate": "2026-10-24T09:37:33.000Z",
+    "coordinates": [
+      -113.9319734,
+      50.9628349
+    ],
+    "longitude": -113.9319734,
+    "latitude": 50.9628349,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14273445",
+  "fullDetails": {
+    "licenseNumber": "14273445",
+    "name": "7-ELEVEN (CANADA STORE #37791)",
+    "address": "7908 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-10T08:27:39.000Z",
+    "expiryDate": "2026-11-09T08:27:38.000Z",
+    "coordinates": [
+      -114.1997682,
+      51.0893427
+    ],
+    "longitude": -114.1997682,
+    "latitude": 51.0893427,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15466238",
+  "fullDetails": {
+    "licenseNumber": "15466238",
+    "name": "LIQUOR WELLZ",
+    "address": "#300 6520 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2019-06-26T09:24:44.000Z",
+    "expiryDate": "2026-06-25T09:24:44.000Z",
+    "coordinates": [
+      -113.9444946,
+      51.1109309
+    ],
+    "longitude": -113.9444946,
+    "latitude": 51.1109309,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

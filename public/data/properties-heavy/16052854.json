@@ -1,0 +1,36 @@
+{
+  "id": "16052854",
+  "fullDetails": {
+    "licenseNumber": "16052854",
+    "name": "B & P UPSCALE BOUTIQUE",
+    "address": "#1509 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-10T12:28:28.000Z",
+    "expiryDate": "2026-07-09T12:28:28.000Z",
+    "coordinates": [
+      -113.9787077,
+      51.0570691
+    ],
+    "longitude": -113.9787077,
+    "latitude": 51.0570691,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

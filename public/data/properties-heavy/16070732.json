@@ -1,0 +1,36 @@
+{
+  "id": "16070732",
+  "fullDetails": {
+    "licenseNumber": "16070732",
+    "name": "DELI KITCHEN AREA",
+    "address": "#114 1660 12 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-21T09:37:29.000Z",
+    "expiryDate": "2026-09-20T09:37:29.000Z",
+    "coordinates": [
+      -114.0885441,
+      51.0665753
+    ],
+    "longitude": -114.0885441,
+    "latitude": 51.0665753,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

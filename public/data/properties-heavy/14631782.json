@@ -1,0 +1,36 @@
+{
+  "id": "14631782",
+  "fullDetails": {
+    "licenseNumber": "14631782",
+    "name": "MID-EAST WELL BAKE",
+    "address": "#B 3930 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2018-03-08T14:15:25.000Z",
+    "expiryDate": "2026-03-07T14:15:25.000Z",
+    "coordinates": [
+      -113.9866327,
+      51.0884809
+    ],
+    "longitude": -113.9866327,
+    "latitude": 51.0884809,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

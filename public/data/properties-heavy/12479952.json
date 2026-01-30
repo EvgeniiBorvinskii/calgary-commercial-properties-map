@@ -1,0 +1,36 @@
+{
+  "id": "12479952",
+  "fullDetails": {
+    "licenseNumber": "12479952",
+    "name": "MR CAPPUCCINO",
+    "address": "#1B 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-07-13T09:03:16.000Z",
+    "expiryDate": "2026-07-12T09:03:16.000Z",
+    "coordinates": [
+      -113.9988857,
+      51.0504191
+    ],
+    "longitude": -113.9988857,
+    "latitude": 51.0504191,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

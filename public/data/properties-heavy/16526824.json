@@ -1,0 +1,36 @@
+{
+  "id": "16526824",
+  "fullDetails": {
+    "licenseNumber": "16526824",
+    "name": "T3 TRAINING",
+    "address": "#106 2915 21 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-08-30T11:12:41.000Z",
+    "expiryDate": "2026-08-29T11:12:40.000Z",
+    "coordinates": [
+      -114.0098974,
+      51.0782981
+    ],
+    "longitude": -114.0098974,
+    "latitude": 51.0782981,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

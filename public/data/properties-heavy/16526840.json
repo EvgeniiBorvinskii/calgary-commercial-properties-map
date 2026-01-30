@@ -1,0 +1,36 @@
+{
+  "id": "16526840",
+  "fullDetails": {
+    "licenseNumber": "16526840",
+    "name": "MYBEAUTY STUDIO",
+    "address": "#450 7 MAHOGANY PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-09-03T09:47:13.000Z",
+    "expiryDate": "2026-09-02T09:47:13.000Z",
+    "coordinates": [
+      -113.9411049,
+      50.8992429
+    ],
+    "longitude": -113.9411049,
+    "latitude": 50.8992429,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16615148",
+  "fullDetails": {
+    "licenseNumber": "16615148",
+    "name": "INTEGRA TIRE CENTER ST",
+    "address": "6004 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-04-08T15:34:27.000Z",
+    "expiryDate": "2026-04-07T15:34:27.000Z",
+    "coordinates": [
+      -114.0634013,
+      50.9987927
+    ],
+    "longitude": -114.0634013,
+    "latitude": 50.9987927,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

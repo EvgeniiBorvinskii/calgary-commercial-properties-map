@@ -1,0 +1,36 @@
+{
+  "id": "12800207",
+  "fullDetails": {
+    "licenseNumber": "12800207",
+    "name": "ACE SHOE CARE AND ALTERATIONS",
+    "address": "325B 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-06-26T10:54:02.000Z",
+    "expiryDate": "2026-06-25T10:54:02.000Z",
+    "coordinates": [
+      -114.0701477,
+      51.0376541
+    ],
+    "longitude": -114.0701477,
+    "latitude": 51.0376541,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16574634",
+  "fullDetails": {
+    "licenseNumber": "16574634",
+    "name": "INFLECTOR ENVIRONMENTAL SERVICES LP",
+    "address": "#1 2016 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-03-12T09:24:03.000Z",
+    "expiryDate": "2026-03-11T09:24:02.000Z",
+    "coordinates": [
+      -114.0117314,
+      51.075445
+    ],
+    "longitude": -114.0117314,
+    "latitude": 51.075445,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

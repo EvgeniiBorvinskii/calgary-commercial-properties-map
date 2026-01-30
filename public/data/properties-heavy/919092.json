@@ -1,0 +1,37 @@
+{
+  "id": "919092",
+  "fullDetails": {
+    "licenseNumber": "919092",
+    "name": "SHOPPERS DRUG MART #306",
+    "address": "1919B SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2003-02-05T05:35:10.000Z",
+    "expiryDate": "2026-02-04T05:35:10.000Z",
+    "coordinates": [
+      -114.1050257,
+      50.960783
+    ],
+    "longitude": -114.1050257,
+    "latitude": 50.960783,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

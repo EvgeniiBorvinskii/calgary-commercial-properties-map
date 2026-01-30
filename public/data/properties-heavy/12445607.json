@@ -1,0 +1,36 @@
+{
+  "id": "12445607",
+  "fullDetails": {
+    "licenseNumber": "12445607",
+    "name": "SOURCE OFFICE FURNITURE",
+    "address": "1248 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2006-04-18T11:15:28.000Z",
+    "expiryDate": "2026-04-17T11:15:28.000Z",
+    "coordinates": [
+      -114.0313345,
+      51.085884
+    ],
+    "longitude": -114.0313345,
+    "latitude": 51.085884,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

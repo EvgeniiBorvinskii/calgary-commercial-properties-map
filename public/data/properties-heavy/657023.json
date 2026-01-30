@@ -1,0 +1,36 @@
+{
+  "id": "657023",
+  "fullDetails": {
+    "licenseNumber": "657023",
+    "name": "BROADWAY CENTRE WEST",
+    "address": "349 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-01T00:00:00.000Z",
+    "coordinates": [
+      -114.071222,
+      51.0395347
+    ],
+    "longitude": -114.071222,
+    "latitude": 51.0395347,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

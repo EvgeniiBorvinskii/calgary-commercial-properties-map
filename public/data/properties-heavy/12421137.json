@@ -1,0 +1,36 @@
+{
+  "id": "12421137",
+  "fullDetails": {
+    "licenseNumber": "12421137",
+    "name": "SOUTHLAND CROSSING SUBWAY",
+    "address": "#455 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2006-04-18T12:11:36.000Z",
+    "expiryDate": "2026-04-17T12:11:36.000Z",
+    "coordinates": [
+      -114.0731251,
+      50.9667135
+    ],
+    "longitude": -114.0731251,
+    "latitude": 50.9667135,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

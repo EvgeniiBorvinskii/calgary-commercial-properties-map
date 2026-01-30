@@ -1,0 +1,36 @@
+{
+  "id": "14391981",
+  "fullDetails": {
+    "licenseNumber": "14391981",
+    "name": "ROSENXT ADVANCED MATERIALS CANADA",
+    "address": "3619 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-11-25T11:32:22.000Z",
+    "expiryDate": "2026-11-24T11:32:22.000Z",
+    "coordinates": [
+      -114.0316448,
+      51.0222423
+    ],
+    "longitude": -114.0316448,
+    "latitude": 51.0222423,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

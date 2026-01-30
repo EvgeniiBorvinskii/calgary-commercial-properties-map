@@ -1,0 +1,37 @@
+{
+  "id": "16631905",
+  "fullDetails": {
+    "licenseNumber": "16631905",
+    "name": "KINTON RAMEN",
+    "address": "1912 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-10T14:52:50.000Z",
+    "expiryDate": "2026-06-09T14:52:49.000Z",
+    "coordinates": [
+      -114.0712432,
+      51.0359789
+    ],
+    "longitude": -114.0712432,
+    "latitude": 51.0359789,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

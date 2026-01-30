@@ -1,0 +1,36 @@
+{
+  "id": "16524142",
+  "fullDetails": {
+    "licenseNumber": "16524142",
+    "name": "VAULT PIPELINES",
+    "address": "#450 318 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-19T15:58:38.000Z",
+    "expiryDate": "2026-09-18T15:58:37.000Z",
+    "coordinates": [
+      -114.0570571,
+      51.0424574
+    ],
+    "longitude": -114.0570571,
+    "latitude": 51.0424574,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16472110",
+  "fullDetails": {
+    "licenseNumber": "16472110",
+    "name": "FOOD COMA FSFV (CGY-1366)",
+    "address": "22 CRESTBROOK DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2024-05-01T05:35:53.000Z",
+    "expiryDate": "2026-04-30T05:35:53.000Z",
+    "coordinates": [
+      -114.271317,
+      51.0853262
+    ],
+    "longitude": -114.271317,
+    "latitude": 51.0853262,
+    "community": "CRESTMONT",
+    "ward": "CRM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

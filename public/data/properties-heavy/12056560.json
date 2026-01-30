@@ -1,0 +1,37 @@
+{
+  "id": "12056560",
+  "fullDetails": {
+    "licenseNumber": "12056560",
+    "name": "FOLK FESTIVAL SOCIETY OF CALGARY",
+    "address": "1215 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "CHARITABLE ORGANIZATION,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nCHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2013-02-01T05:30:27.000Z",
+    "expiryDate": "2026-01-31T05:30:27.000Z",
+    "coordinates": [
+      -114.0358685,
+      51.0404711
+    ],
+    "longitude": -114.0358685,
+    "latitude": 51.0404711,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

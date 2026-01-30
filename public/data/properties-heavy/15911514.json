@@ -1,0 +1,36 @@
+{
+  "id": "15911514",
+  "fullDetails": {
+    "licenseNumber": "15911514",
+    "name": "COLD BEER LIQUOR",
+    "address": "4347 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-09-10T11:23:34.000Z",
+    "expiryDate": "2026-09-09T11:23:34.000Z",
+    "coordinates": [
+      -114.0655876,
+      51.0147603
+    ],
+    "longitude": -114.0655876,
+    "latitude": 51.0147603,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

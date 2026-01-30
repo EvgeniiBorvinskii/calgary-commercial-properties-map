@@ -1,0 +1,37 @@
+{
+  "id": "16651663",
+  "fullDetails": {
+    "licenseNumber": "16651663",
+    "name": "ARIA FOOTWEAR",
+    "address": "#127 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-05T13:02:17.000Z",
+    "expiryDate": "2026-09-04T13:02:16.000Z",
+    "coordinates": [
+      -113.985269,
+      51.0748224
+    ],
+    "longitude": -113.985269,
+    "latitude": 51.0748224,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

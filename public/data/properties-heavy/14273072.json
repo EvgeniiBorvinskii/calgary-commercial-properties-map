@@ -1,0 +1,37 @@
+{
+  "id": "14273072",
+  "fullDetails": {
+    "licenseNumber": "14273072",
+    "name": "REXALL PHARMACIES #7260",
+    "address": "#10 3301 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-01-07T05:32:51.000Z",
+    "expiryDate": "2027-01-06T05:32:51.000Z",
+    "coordinates": [
+      -113.9874768,
+      51.0373099
+    ],
+    "longitude": -113.9874768,
+    "latitude": 51.0373099,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

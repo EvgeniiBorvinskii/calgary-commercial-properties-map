@@ -1,0 +1,37 @@
+{
+  "id": "16101818",
+  "fullDetails": {
+    "licenseNumber": "16101818",
+    "name": "HAIRITAGE STUDIO (THE)",
+    "address": "#24 20 DOUGLAS WOODS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-17T15:23:38.000Z",
+    "expiryDate": "2026-11-16T15:23:38.000Z",
+    "coordinates": [
+      -114.0015364,
+      50.9433879
+    ],
+    "longitude": -114.0015364,
+    "latitude": 50.9433879,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

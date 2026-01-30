@@ -1,0 +1,36 @@
+{
+  "id": "12791455",
+  "fullDetails": {
+    "licenseNumber": "12791455",
+    "name": "FEEL LIKE TALKING CONNECTIONS",
+    "address": "#105 216 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-01-20T08:08:03.000Z",
+    "expiryDate": "2027-01-19T08:08:03.000Z",
+    "coordinates": [
+      -113.9481315,
+      51.1247014
+    ],
+    "longitude": -113.9481315,
+    "latitude": 51.1247014,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

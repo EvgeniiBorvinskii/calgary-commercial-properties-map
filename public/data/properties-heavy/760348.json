@@ -1,0 +1,36 @@
+{
+  "id": "760348",
+  "fullDetails": {
+    "licenseNumber": "760348",
+    "name": "LAMMLE'S WESTERN WEAR",
+    "address": "211 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-04T00:00:00.000Z",
+    "coordinates": [
+      -114.0662041,
+      51.0453834
+    ],
+    "longitude": -114.0662041,
+    "latitude": 51.0453834,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

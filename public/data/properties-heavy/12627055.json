@@ -1,0 +1,36 @@
+{
+  "id": "12627055",
+  "fullDetails": {
+    "licenseNumber": "12627055",
+    "name": "LASSONDE WESTERN CANADA",
+    "address": "7419 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-06-12T05:39:40.000Z",
+    "expiryDate": "2026-06-11T05:39:40.000Z",
+    "coordinates": [
+      -113.9861986,
+      50.9878549
+    ],
+    "longitude": -113.9861986,
+    "latitude": 50.9878549,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

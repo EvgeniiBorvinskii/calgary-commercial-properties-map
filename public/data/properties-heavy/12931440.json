@@ -1,0 +1,37 @@
+{
+  "id": "12931440",
+  "fullDetails": {
+    "licenseNumber": "12931440",
+    "name": "PHO CHU THE",
+    "address": "4633 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2010-05-13T15:40:18.000Z",
+    "expiryDate": "2026-05-12T15:40:18.000Z",
+    "coordinates": [
+      -114.0671412,
+      51.0119904
+    ],
+    "longitude": -114.0671412,
+    "latitude": 51.0119904,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

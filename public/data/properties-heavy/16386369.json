@@ -1,0 +1,36 @@
+{
+  "id": "16386369",
+  "fullDetails": {
+    "licenseNumber": "16386369",
+    "name": "JK LIQUOR AND WINES",
+    "address": "208E HADDON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2024-03-26T13:57:52.000Z",
+    "expiryDate": "2026-03-25T13:57:52.000Z",
+    "coordinates": [
+      -114.0785376,
+      50.9710249
+    ],
+    "longitude": -114.0785376,
+    "latitude": 50.9710249,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

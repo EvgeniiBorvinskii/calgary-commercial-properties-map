@@ -1,0 +1,36 @@
+{
+  "id": "16680001",
+  "fullDetails": {
+    "licenseNumber": "16680001",
+    "name": "BOSS BEAUTY LASER AND WELLNESS CLINIC",
+    "address": "#2 2400 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-10-16T14:52:48.000Z",
+    "expiryDate": "2026-10-15T14:52:47.000Z",
+    "coordinates": [
+      -114.061962,
+      51.0735298
+    ],
+    "longitude": -114.061962,
+    "latitude": 51.0735298,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

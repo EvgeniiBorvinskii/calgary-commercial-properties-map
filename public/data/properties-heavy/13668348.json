@@ -1,0 +1,36 @@
+{
+  "id": "13668348",
+  "fullDetails": {
+    "licenseNumber": "13668348",
+    "name": "HISAM'S AUTO",
+    "address": "#101 3850 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-09-03T15:18:48.000Z",
+    "expiryDate": "2026-09-02T15:18:48.000Z",
+    "coordinates": [
+      -113.9880483,
+      51.087402
+    ],
+    "longitude": -113.9880483,
+    "latitude": 51.087402,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16633604",
+  "fullDetails": {
+    "licenseNumber": "16633604",
+    "name": "IN ART STUDIO",
+    "address": "#155 601 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-05-28T08:22:14.000Z",
+    "expiryDate": "2026-05-27T08:22:14.000Z",
+    "coordinates": [
+      -114.0744167,
+      51.0434323
+    ],
+    "longitude": -114.0744167,
+    "latitude": 51.0434323,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

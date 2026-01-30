@@ -1,0 +1,36 @@
+{
+  "id": "16428484",
+  "fullDetails": {
+    "licenseNumber": "16428484",
+    "name": "2 FOR 1 FAMILY PIZZA",
+    "address": "#2A 675 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-04T08:17:58.000Z",
+    "expiryDate": "2026-04-03T08:17:58.000Z",
+    "coordinates": [
+      -114.0458848,
+      50.9603616
+    ],
+    "longitude": -114.0458848,
+    "latitude": 50.9603616,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

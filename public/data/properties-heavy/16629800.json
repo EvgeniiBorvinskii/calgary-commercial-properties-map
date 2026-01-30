@@ -1,0 +1,37 @@
+{
+  "id": "16629800",
+  "fullDetails": {
+    "licenseNumber": "16629800",
+    "name": "LE CHARME",
+    "address": "804 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-09-15T13:26:25.000Z",
+    "expiryDate": "2026-09-14T13:26:24.000Z",
+    "coordinates": [
+      -114.0539757,
+      51.0585967
+    ],
+    "longitude": -114.0539757,
+    "latitude": 51.0585967,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

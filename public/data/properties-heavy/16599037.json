@@ -1,0 +1,36 @@
+{
+  "id": "16599037",
+  "fullDetails": {
+    "licenseNumber": "16599037",
+    "name": "WEDDING ASIA",
+    "address": "#746 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-26T14:12:10.000Z",
+    "expiryDate": "2026-02-25T14:12:09.000Z",
+    "coordinates": [
+      -113.9629381,
+      51.0972841
+    ],
+    "longitude": -113.9629381,
+    "latitude": 51.0972841,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

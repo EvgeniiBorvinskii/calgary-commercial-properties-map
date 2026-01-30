@@ -1,0 +1,36 @@
+{
+  "id": "13135710",
+  "fullDetails": {
+    "licenseNumber": "13135710",
+    "name": "REAL AUTOMOTIVE PROFESSIONALS",
+    "address": "5004 20 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-10-18T11:50:07.000Z",
+    "expiryDate": "2026-10-17T11:50:07.000Z",
+    "coordinates": [
+      -113.9627162,
+      51.035776
+    ],
+    "longitude": -113.9627162,
+    "latitude": 51.035776,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15927056",
+  "fullDetails": {
+    "licenseNumber": "15927056",
+    "name": "ECLIPSE BAKERY & CAFE",
+    "address": "#210 8560 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-17T07:31:41.000Z",
+    "expiryDate": "2026-06-16T07:31:40.000Z",
+    "coordinates": [
+      -114.2105451,
+      51.0618497
+    ],
+    "longitude": -114.2105451,
+    "latitude": 51.0618497,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

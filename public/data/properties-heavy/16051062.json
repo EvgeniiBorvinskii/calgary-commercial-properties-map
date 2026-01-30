@@ -1,0 +1,36 @@
+{
+  "id": "16051062",
+  "fullDetails": {
+    "licenseNumber": "16051062",
+    "name": "PORT PHYSIOTHERAPY AND MASSAGE (THE)",
+    "address": "#3130 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2021-07-23T17:43:33.000Z",
+    "expiryDate": "2026-07-22T17:43:33.000Z",
+    "coordinates": [
+      -113.9722111,
+      51.1536908
+    ],
+    "longitude": -113.9722111,
+    "latitude": 51.1536908,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

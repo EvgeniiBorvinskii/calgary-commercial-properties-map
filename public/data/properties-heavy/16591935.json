@@ -1,0 +1,36 @@
+{
+  "id": "16591935",
+  "fullDetails": {
+    "licenseNumber": "16591935",
+    "name": "FITNESS UNHINGED",
+    "address": "#319 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-09-05T08:38:15.000Z",
+    "expiryDate": "2026-09-04T08:38:15.000Z",
+    "coordinates": [
+      -114.0689736,
+      50.9437464
+    ],
+    "longitude": -114.0689736,
+    "latitude": 50.9437464,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

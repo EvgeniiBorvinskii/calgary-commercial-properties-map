@@ -1,0 +1,36 @@
+{
+  "id": "12787099",
+  "fullDetails": {
+    "licenseNumber": "12787099",
+    "name": "ARBOUR LAKE RETIRMENT HOME",
+    "address": "900 ARBOUR LAKE RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-12-09T09:07:19.000Z",
+    "expiryDate": "2026-12-08T09:07:19.000Z",
+    "coordinates": [
+      -114.2169756,
+      51.1329524
+    ],
+    "longitude": -114.2169756,
+    "latitude": 51.1329524,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

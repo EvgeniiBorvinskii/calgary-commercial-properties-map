@@ -1,0 +1,37 @@
+{
+  "id": "16026841",
+  "fullDetails": {
+    "licenseNumber": "16026841",
+    "name": "GRADIENT",
+    "address": "5067 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-06-24T08:35:24.000Z",
+    "expiryDate": "2026-06-23T08:35:24.000Z",
+    "coordinates": [
+      -114.0379582,
+      51.0075737
+    ],
+    "longitude": -114.0379582,
+    "latitude": 51.0075737,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

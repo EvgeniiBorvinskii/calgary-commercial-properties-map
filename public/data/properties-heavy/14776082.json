@@ -1,0 +1,36 @@
+{
+  "id": "14776082",
+  "fullDetails": {
+    "licenseNumber": "14776082",
+    "name": "CAMBRIDGE ELEVATOR",
+    "address": "5921 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2023-03-15T07:41:15.000Z",
+    "expiryDate": "2026-03-14T07:41:15.000Z",
+    "coordinates": [
+      -114.0576723,
+      51.0001222
+    ],
+    "longitude": -114.0576723,
+    "latitude": 51.0001222,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

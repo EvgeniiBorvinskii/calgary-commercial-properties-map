@@ -1,0 +1,37 @@
+{
+  "id": "16427593",
+  "fullDetails": {
+    "licenseNumber": "16427593",
+    "name": "FRILLY LILLY MCKENZIE TOWNE",
+    "address": "#420 11 MCKENZIE TOWNE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-19T15:15:24.000Z",
+    "expiryDate": "2026-12-18T15:15:24.000Z",
+    "coordinates": [
+      -113.9614571,
+      50.9164269
+    ],
+    "longitude": -113.9614571,
+    "latitude": 50.9164269,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

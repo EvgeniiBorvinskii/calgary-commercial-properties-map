@@ -1,0 +1,36 @@
+{
+  "id": "16128787",
+  "fullDetails": {
+    "licenseNumber": "16128787",
+    "name": "BOLT WIRELESS",
+    "address": "415 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-22T13:23:57.000Z",
+    "expiryDate": "2026-02-21T13:23:57.000Z",
+    "coordinates": [
+      -114.2073703,
+      51.0820151
+    ],
+    "longitude": -114.2073703,
+    "latitude": 51.0820151,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

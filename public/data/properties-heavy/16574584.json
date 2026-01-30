@@ -1,0 +1,36 @@
+{
+  "id": "16574584",
+  "fullDetails": {
+    "licenseNumber": "16574584",
+    "name": "MODERN NIAGARA BUILDING SERVICES",
+    "address": "3652 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-23T07:35:46.000Z",
+    "expiryDate": "2026-12-22T07:35:45.000Z",
+    "coordinates": [
+      -113.9788826,
+      51.0140603
+    ],
+    "longitude": -113.9788826,
+    "latitude": 51.0140603,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

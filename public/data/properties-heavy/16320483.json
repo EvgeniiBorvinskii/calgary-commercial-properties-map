@@ -1,0 +1,36 @@
+{
+  "id": "16320483",
+  "fullDetails": {
+    "licenseNumber": "16320483",
+    "name": "SHAY DANIELLE PERMANENT MAKEUP",
+    "address": "#3235 40 CHRISTIE PARK VW SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-05-05T09:39:22.000Z",
+    "expiryDate": "2026-05-04T09:39:21.000Z",
+    "coordinates": [
+      -114.1777297,
+      51.0376202
+    ],
+    "longitude": -114.1777297,
+    "latitude": 51.0376202,
+    "community": "CHRISTIE PARK",
+    "ward": "CHR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16308348",
+  "fullDetails": {
+    "licenseNumber": "16308348",
+    "name": "THE BLIND SHOP",
+    "address": "#510 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-05T10:07:51.000Z",
+    "expiryDate": "2026-09-04T10:07:51.000Z",
+    "coordinates": [
+      -114.1635338,
+      51.158853
+    ],
+    "longitude": -114.1635338,
+    "latitude": 51.158853,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

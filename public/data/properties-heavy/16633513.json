@@ -1,0 +1,36 @@
+{
+  "id": "16633513",
+  "fullDetails": {
+    "licenseNumber": "16633513",
+    "name": "ALPHA EXPORTS",
+    "address": "756 101 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-01T12:52:15.000Z",
+    "expiryDate": "2026-07-31T12:52:14.000Z",
+    "coordinates": [
+      -114.2333806,
+      51.0649665
+    ],
+    "longitude": -114.2333806,
+    "latitude": 51.0649665,
+    "community": "RESIDUAL WARD 6",
+    "ward": "06A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

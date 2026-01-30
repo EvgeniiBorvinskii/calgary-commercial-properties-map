@@ -1,0 +1,36 @@
+{
+  "id": "12572558",
+  "fullDetails": {
+    "licenseNumber": "12572558",
+    "name": "GS IMPORT AND EXPORT",
+    "address": "#103 4447 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-08-15T05:32:51.000Z",
+    "expiryDate": "2026-08-14T05:32:51.000Z",
+    "coordinates": [
+      -113.9694275,
+      51.0126184
+    ],
+    "longitude": -113.9694275,
+    "latitude": 51.0126184,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

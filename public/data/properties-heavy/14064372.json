@@ -1,0 +1,36 @@
+{
+  "id": "14064372",
+  "fullDetails": {
+    "licenseNumber": "14064372",
+    "name": "STRENGTH EDGE (THE)",
+    "address": "#1 4828 PACIFIC RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2016-02-19T09:59:55.000Z",
+    "expiryDate": "2027-02-18T09:59:55.000Z",
+    "coordinates": [
+      -114.0458629,
+      51.095004
+    ],
+    "longitude": -114.0458629,
+    "latitude": 51.095004,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

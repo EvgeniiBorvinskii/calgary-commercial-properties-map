@@ -1,0 +1,36 @@
+{
+  "id": "16645905",
+  "fullDetails": {
+    "licenseNumber": "16645905",
+    "name": "DREAM HOME FURNITURE",
+    "address": "#720 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-04T16:00:18.000Z",
+    "expiryDate": "2026-09-03T16:00:18.000Z",
+    "coordinates": [
+      -114.0327786,
+      50.8658364
+    ],
+    "longitude": -114.0327786,
+    "latitude": 50.8658364,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

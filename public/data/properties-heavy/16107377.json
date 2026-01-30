@@ -1,0 +1,37 @@
+{
+  "id": "16107377",
+  "fullDetails": {
+    "licenseNumber": "16107377",
+    "name": "SPITFIRE GRILLS",
+    "address": "#19 2219 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-03-17T16:22:25.000Z",
+    "expiryDate": "2026-03-16T16:22:25.000Z",
+    "coordinates": [
+      -114.007684,
+      51.0831651
+    ],
+    "longitude": -114.007684,
+    "latitude": 51.0831651,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

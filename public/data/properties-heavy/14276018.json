@@ -1,0 +1,36 @@
+{
+  "id": "14276018",
+  "fullDetails": {
+    "licenseNumber": "14276018",
+    "name": "MARSHALLS",
+    "address": "#60 145 EAST HILLS BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-08T08:51:22.000Z",
+    "expiryDate": "2026-09-07T08:51:21.000Z",
+    "coordinates": [
+      -113.9149816,
+      51.0404139
+    ],
+    "longitude": -113.9149816,
+    "latitude": 51.0404139,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14163893",
+  "fullDetails": {
+    "licenseNumber": "14163893",
+    "name": "COBS BREAD",
+    "address": "#521 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-06-28T09:57:31.000Z",
+    "expiryDate": "2026-06-27T09:57:31.000Z",
+    "coordinates": [
+      -114.0553683,
+      51.1550489
+    ],
+    "longitude": -114.0553683,
+    "latitude": 51.1550489,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

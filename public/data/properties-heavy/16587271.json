@@ -1,0 +1,37 @@
+{
+  "id": "16587271",
+  "fullDetails": {
+    "licenseNumber": "16587271",
+    "name": "FS8 WEST DISTRICT",
+    "address": "8218 BROADCAST AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-07-22T08:19:27.000Z",
+    "expiryDate": "2026-07-21T08:19:26.000Z",
+    "coordinates": [
+      -114.2057365,
+      51.0649567
+    ],
+    "longitude": -114.2057365,
+    "latitude": 51.0649567,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

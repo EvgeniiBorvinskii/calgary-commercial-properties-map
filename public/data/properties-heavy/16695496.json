@@ -1,0 +1,36 @@
+{
+  "id": "16695496",
+  "fullDetails": {
+    "licenseNumber": "16695496",
+    "name": "KALER CONSTRUCTION",
+    "address": "#290 6815 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-14T07:51:09.000Z",
+    "expiryDate": "2026-11-13T07:51:08.000Z",
+    "coordinates": [
+      -114.0454446,
+      51.1140385
+    ],
+    "longitude": -114.0454446,
+    "latitude": 51.1140385,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

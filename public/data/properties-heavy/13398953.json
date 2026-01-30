@@ -1,0 +1,36 @@
+{
+  "id": "13398953",
+  "fullDetails": {
+    "licenseNumber": "13398953",
+    "name": "EVOLUTION GLASS",
+    "address": "#130 10900 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-26T14:42:05.000Z",
+    "expiryDate": "2026-08-25T14:42:05.000Z",
+    "coordinates": [
+      -114.0275255,
+      51.1491304
+    ],
+    "longitude": -114.0275255,
+    "latitude": 51.1491304,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

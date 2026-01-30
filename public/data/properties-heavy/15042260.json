@@ -1,0 +1,37 @@
+{
+  "id": "15042260",
+  "fullDetails": {
+    "licenseNumber": "15042260",
+    "name": "ALLURE AESTHETICS",
+    "address": "#3222 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2022-06-08T15:51:53.000Z",
+    "expiryDate": "2026-06-07T15:51:53.000Z",
+    "coordinates": [
+      -113.9722984,
+      51.1482979
+    ],
+    "longitude": -113.9722984,
+    "latitude": 51.1482979,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

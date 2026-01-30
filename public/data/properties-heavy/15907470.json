@@ -1,0 +1,36 @@
+{
+  "id": "15907470",
+  "fullDetails": {
+    "licenseNumber": "15907470",
+    "name": "13 CATS TATTOO STUDIO",
+    "address": "#205 1211 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-10-27T09:14:12.000Z",
+    "expiryDate": "2026-10-26T09:14:12.000Z",
+    "coordinates": [
+      -114.0952058,
+      51.0416537
+    ],
+    "longitude": -114.0952058,
+    "latitude": 51.0416537,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

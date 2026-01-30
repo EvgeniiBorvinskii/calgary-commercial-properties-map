@@ -1,0 +1,36 @@
+{
+  "id": "16353260",
+  "fullDetails": {
+    "licenseNumber": "16353260",
+    "name": "CALGARY CUSTOM CONCEPTS",
+    "address": "4568 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-09-01T07:36:10.000Z",
+    "expiryDate": "2026-08-31T07:36:10.000Z",
+    "coordinates": [
+      -114.0266318,
+      51.0932011
+    ],
+    "longitude": -114.0266318,
+    "latitude": 51.0932011,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

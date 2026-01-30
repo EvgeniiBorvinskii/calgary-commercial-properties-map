@@ -1,0 +1,36 @@
+{
+  "id": "16000333",
+  "fullDetails": {
+    "licenseNumber": "16000333",
+    "name": "MOMOKO",
+    "address": "1161 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-19T12:08:24.000Z",
+    "expiryDate": "2026-10-18T12:08:24.000Z",
+    "coordinates": [
+      -114.1180102,
+      51.0891481
+    ],
+    "longitude": -114.1180102,
+    "latitude": 51.0891481,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

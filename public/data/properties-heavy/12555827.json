@@ -1,0 +1,36 @@
+{
+  "id": "12555827",
+  "fullDetails": {
+    "licenseNumber": "12555827",
+    "name": "CHEX SPORTS",
+    "address": "#13 11625 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-05-04T13:57:32.000Z",
+    "expiryDate": "2026-05-03T13:57:32.000Z",
+    "coordinates": [
+      -114.0860144,
+      50.9489924
+    ],
+    "longitude": -114.0860144,
+    "latitude": 50.9489924,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

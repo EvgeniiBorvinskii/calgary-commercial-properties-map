@@ -1,0 +1,37 @@
+{
+  "id": "15449291",
+  "fullDetails": {
+    "licenseNumber": "15449291",
+    "name": "TIM HORTONS",
+    "address": "979 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-04-26T15:50:59.000Z",
+    "expiryDate": "2026-04-25T15:50:59.000Z",
+    "coordinates": [
+      -114.0394462,
+      51.1101573
+    ],
+    "longitude": -114.0394462,
+    "latitude": 51.1101573,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

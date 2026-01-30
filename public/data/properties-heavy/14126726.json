@@ -1,0 +1,37 @@
+{
+  "id": "14126726",
+  "fullDetails": {
+    "licenseNumber": "14126726",
+    "name": "MC COMMERCIAL",
+    "address": "8801 60 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2019-03-20T09:52:46.000Z",
+    "expiryDate": "2026-03-19T09:52:46.000Z",
+    "coordinates": [
+      -113.9484034,
+      50.9748587
+    ],
+    "longitude": -113.9484034,
+    "latitude": 50.9748587,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

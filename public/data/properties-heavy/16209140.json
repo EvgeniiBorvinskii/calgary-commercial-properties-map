@@ -1,0 +1,37 @@
+{
+  "id": "16209140",
+  "fullDetails": {
+    "licenseNumber": "16209140",
+    "name": "ACE LIQUOR DISCOUNTER AT CARRINGTON",
+    "address": "#190 141 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2023-03-30T14:29:21.000Z",
+    "expiryDate": "2026-03-29T14:29:21.000Z",
+    "coordinates": [
+      -114.0927684,
+      51.1838282
+    ],
+    "longitude": -114.0927684,
+    "latitude": 51.1838282,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

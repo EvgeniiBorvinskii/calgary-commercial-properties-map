@@ -1,0 +1,36 @@
+{
+  "id": "13912100",
+  "fullDetails": {
+    "licenseNumber": "13912100",
+    "name": "EPIC ROOFING AND EXTERIORS COMMERCIAL",
+    "address": "#A 2435 22 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-12-19T15:07:06.000Z",
+    "expiryDate": "2026-12-18T15:07:05.000Z",
+    "coordinates": [
+      -114.0074714,
+      51.0734377
+    ],
+    "longitude": -114.0074714,
+    "latitude": 51.0734377,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

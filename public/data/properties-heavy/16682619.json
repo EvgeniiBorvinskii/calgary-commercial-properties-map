@@ -1,0 +1,36 @@
+{
+  "id": "16682619",
+  "fullDetails": {
+    "licenseNumber": "16682619",
+    "name": "D LUXE AGENCY",
+    "address": "#204 5819 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2025-12-23T15:55:53.000Z",
+    "expiryDate": "2026-12-22T15:55:52.000Z",
+    "coordinates": [
+      -114.0690495,
+      51.0016985
+    ],
+    "longitude": -114.0690495,
+    "latitude": 51.0016985,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

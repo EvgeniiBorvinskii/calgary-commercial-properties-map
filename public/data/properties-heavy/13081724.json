@@ -1,0 +1,36 @@
+{
+  "id": "13081724",
+  "fullDetails": {
+    "licenseNumber": "13081724",
+    "name": "BOREAL CUISINE",
+    "address": "#7 4216 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-07-20T05:54:00.000Z",
+    "expiryDate": "2026-07-19T05:54:00.000Z",
+    "coordinates": [
+      -113.9747759,
+      50.9972868
+    ],
+    "longitude": -113.9747759,
+    "latitude": 50.9972868,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

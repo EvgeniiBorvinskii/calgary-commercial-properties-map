@@ -1,0 +1,37 @@
+{
+  "id": "16016917",
+  "fullDetails": {
+    "licenseNumber": "16016917",
+    "name": "UNDISPUTED BOXING CLUB",
+    "address": "#C 7017 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-07-02T10:21:24.000Z",
+    "expiryDate": "2026-07-01T10:21:24.000Z",
+    "coordinates": [
+      -114.0591877,
+      50.9915584
+    ],
+    "longitude": -114.0591877,
+    "latitude": 50.9915584,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

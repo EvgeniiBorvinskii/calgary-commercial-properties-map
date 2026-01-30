@@ -1,0 +1,36 @@
+{
+  "id": "16080269",
+  "fullDetails": {
+    "licenseNumber": "16080269",
+    "name": "ROCKY RIDGE PET HOSPITAL",
+    "address": "#2010 11595 ROCKYVALLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-28T15:13:58.000Z",
+    "expiryDate": "2026-09-27T15:13:58.000Z",
+    "coordinates": [
+      -114.255094,
+      51.1478373
+    ],
+    "longitude": -114.255094,
+    "latitude": 51.1478373,
+    "community": "ROCKY RIDGE",
+    "ward": "ROC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

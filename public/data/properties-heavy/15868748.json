@@ -1,0 +1,36 @@
+{
+  "id": "15868748",
+  "fullDetails": {
+    "licenseNumber": "15868748",
+    "name": "F45 KENSINGTON",
+    "address": "#100 1110 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2020-06-10T07:44:26.000Z",
+    "expiryDate": "2026-06-09T07:44:26.000Z",
+    "coordinates": [
+      -114.0865777,
+      51.052715
+    ],
+    "longitude": -114.0865777,
+    "latitude": 51.052715,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

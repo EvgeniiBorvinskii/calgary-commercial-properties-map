@@ -1,0 +1,36 @@
+{
+  "id": "16528481",
+  "fullDetails": {
+    "licenseNumber": "16528481",
+    "name": "INSPIRE WELLNESS MASSAGE",
+    "address": "#109A 1526 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-05T11:57:35.000Z",
+    "expiryDate": "2026-09-04T11:57:34.000Z",
+    "coordinates": [
+      -114.0272595,
+      51.0386469
+    ],
+    "longitude": -114.0272595,
+    "latitude": 51.0386469,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

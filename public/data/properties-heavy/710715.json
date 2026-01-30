@@ -1,0 +1,36 @@
+{
+  "id": "710715",
+  "fullDetails": {
+    "licenseNumber": "710715",
+    "name": "KENWOOD CUSTOM WOODWORK",
+    "address": "#3 3360 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-29T00:00:00.000Z",
+    "coordinates": [
+      -113.985824,
+      51.0658195
+    ],
+    "longitude": -113.985824,
+    "latitude": 51.0658195,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

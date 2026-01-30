@@ -1,0 +1,36 @@
+{
+  "id": "16485625",
+  "fullDetails": {
+    "licenseNumber": "16485625",
+    "name": "CALGARY BLINDS COMPANY",
+    "address": "#2 12180 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2025-02-05T08:53:51.000Z",
+    "expiryDate": "2027-02-04T08:53:51.000Z",
+    "coordinates": [
+      -113.9713874,
+      50.9416343
+    ],
+    "longitude": -113.9713874,
+    "latitude": 50.9416343,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

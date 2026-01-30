@@ -1,0 +1,36 @@
+{
+  "id": "14736250",
+  "fullDetails": {
+    "licenseNumber": "14736250",
+    "name": "GEAR RE-STORE",
+    "address": "4506 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2018-04-19T17:50:57.000Z",
+    "expiryDate": "2026-04-18T17:50:57.000Z",
+    "coordinates": [
+      -114.0378615,
+      51.0927294
+    ],
+    "longitude": -114.0378615,
+    "latitude": 51.0927294,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

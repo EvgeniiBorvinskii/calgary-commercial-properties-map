@@ -1,0 +1,37 @@
+{
+  "id": "16015695",
+  "fullDetails": {
+    "licenseNumber": "16015695",
+    "name": "WOW CHICKEN",
+    "address": "#7135 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2021-06-02T14:54:58.000Z",
+    "expiryDate": "2026-06-01T14:54:58.000Z",
+    "coordinates": [
+      -114.2114888,
+      51.1522938
+    ],
+    "longitude": -114.2114888,
+    "latitude": 51.1522938,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16125247",
+  "fullDetails": {
+    "licenseNumber": "16125247",
+    "name": "CG TRUCK AND EQUIPMENT REPAIR",
+    "address": "5304 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2023-04-04T11:03:29.000Z",
+    "expiryDate": "2026-04-03T11:03:29.000Z",
+    "coordinates": [
+      -113.9577114,
+      50.9512725
+    ],
+    "longitude": -113.9577114,
+    "latitude": 50.9512725,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

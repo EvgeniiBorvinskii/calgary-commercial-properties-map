@@ -1,0 +1,36 @@
+{
+  "id": "14965123",
+  "fullDetails": {
+    "licenseNumber": "14965123",
+    "name": "LEGACY VETERINARY CLINIC",
+    "address": "#830 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-31T12:45:07.000Z",
+    "expiryDate": "2026-10-30T12:45:07.000Z",
+    "coordinates": [
+      -114.033327,
+      50.8653063
+    ],
+    "longitude": -114.033327,
+    "latitude": 50.8653063,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

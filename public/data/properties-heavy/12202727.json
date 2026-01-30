@@ -1,0 +1,36 @@
+{
+  "id": "12202727",
+  "fullDetails": {
+    "licenseNumber": "12202727",
+    "name": "D FLOYD CONSTRUCTION",
+    "address": "9250 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2006-04-13T13:14:20.000Z",
+    "expiryDate": "2026-04-12T13:14:20.000Z",
+    "coordinates": [
+      -113.9633891,
+      50.9705186
+    ],
+    "longitude": -113.9633891,
+    "latitude": 50.9705186,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14926539",
+  "fullDetails": {
+    "licenseNumber": "14926539",
+    "name": "PHI MEDICAL AESTHETICS",
+    "address": "#306 3332 20 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-13T12:22:30.000Z",
+    "expiryDate": "2026-06-12T12:22:30.000Z",
+    "coordinates": [
+      -114.1091712,
+      51.0243328
+    ],
+    "longitude": -114.1091712,
+    "latitude": 51.0243328,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

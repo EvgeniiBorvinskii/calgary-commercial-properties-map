@@ -1,0 +1,36 @@
+{
+  "id": "14640932",
+  "fullDetails": {
+    "licenseNumber": "14640932",
+    "name": "THAI EXPRESS STONEGATE",
+    "address": "#404 2550 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-12-06T09:26:13.000Z",
+    "expiryDate": "2026-12-05T09:26:13.000Z",
+    "coordinates": [
+      -113.998934,
+      51.1549515
+    ],
+    "longitude": -113.998934,
+    "latitude": 51.1549515,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

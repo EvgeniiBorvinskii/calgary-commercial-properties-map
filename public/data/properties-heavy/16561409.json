@@ -1,0 +1,37 @@
+{
+  "id": "16561409",
+  "fullDetails": {
+    "licenseNumber": "16561409",
+    "name": "7-ELEVEN DISTRIBUTION CANADA",
+    "address": "5225 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-03T11:13:48.000Z",
+    "expiryDate": "2027-01-02T11:13:48.000Z",
+    "coordinates": [
+      -114.0466372,
+      51.1005118
+    ],
+    "longitude": -114.0466372,
+    "latitude": 51.1005118,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

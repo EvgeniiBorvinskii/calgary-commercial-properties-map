@@ -1,0 +1,37 @@
+{
+  "id": "15237811",
+  "fullDetails": {
+    "licenseNumber": "15237811",
+    "name": "VALUE BUDS AT DEERFOOT MEADOWS",
+    "address": "#12 7929 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-11-08T10:51:59.000Z",
+    "expiryDate": "2026-11-07T10:51:59.000Z",
+    "coordinates": [
+      -114.0431005,
+      50.9838036
+    ],
+    "longitude": -114.0431005,
+    "latitude": 50.9838036,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13419163",
+  "fullDetails": {
+    "licenseNumber": "13419163",
+    "name": "STASH",
+    "address": "1237 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-28T12:39:34.000Z",
+    "expiryDate": "2026-08-27T12:39:34.000Z",
+    "coordinates": [
+      -114.0347587,
+      51.0412009
+    ],
+    "longitude": -114.0347587,
+    "latitude": 51.0412009,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

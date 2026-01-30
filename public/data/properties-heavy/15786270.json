@@ -1,0 +1,37 @@
+{
+  "id": "15786270",
+  "fullDetails": {
+    "licenseNumber": "15786270",
+    "name": "ALPHA COMICS",
+    "address": "#9 7005 18 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2019-10-11T13:08:08.000Z",
+    "expiryDate": "2026-10-10T13:08:08.000Z",
+    "coordinates": [
+      -114.0161411,
+      50.9907609
+    ],
+    "longitude": -114.0161411,
+    "latitude": 50.9907609,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

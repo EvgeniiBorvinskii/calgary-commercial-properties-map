@@ -1,0 +1,37 @@
+{
+  "id": "14729537",
+  "fullDetails": {
+    "licenseNumber": "14729537",
+    "name": "MAC'S CONVENIENCE STORE #2119",
+    "address": "2007 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-19T05:33:33.000Z",
+    "expiryDate": "2026-12-18T05:33:32.000Z",
+    "coordinates": [
+      -114.0718676,
+      51.0348365
+    ],
+    "longitude": -114.0718676,
+    "latitude": 51.0348365,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

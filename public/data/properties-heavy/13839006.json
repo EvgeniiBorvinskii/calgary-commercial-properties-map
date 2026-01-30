@@ -1,0 +1,36 @@
+{
+  "id": "13839006",
+  "fullDetails": {
+    "licenseNumber": "13839006",
+    "name": "ALBERTA YOGA COLLEGE (THE)",
+    "address": "#5 2439 54 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2014-08-29T08:15:22.000Z",
+    "expiryDate": "2026-08-28T08:15:22.000Z",
+    "coordinates": [
+      -114.1173307,
+      51.0041312
+    ],
+    "longitude": -114.1173307,
+    "latitude": 51.0041312,
+    "community": "NORTH GLENMORE PARK",
+    "ward": "NGM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

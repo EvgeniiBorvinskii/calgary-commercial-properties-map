@@ -1,0 +1,37 @@
+{
+  "id": "16016180",
+  "fullDetails": {
+    "licenseNumber": "16016180",
+    "name": "NORTHMOUNT CONVENIENCE STORE",
+    "address": "#1 390 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-06-02T14:50:45.000Z",
+    "expiryDate": "2026-06-01T14:50:45.000Z",
+    "coordinates": [
+      -114.079159,
+      51.0935865
+    ],
+    "longitude": -114.079159,
+    "latitude": 51.0935865,
+    "community": "HIGHWOOD",
+    "ward": "HIW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13814603",
+  "fullDetails": {
+    "licenseNumber": "13814603",
+    "name": "PETRO CANADA PETRO PASS",
+    "address": "215 MONUMENT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "active",
+    "issuedDate": "2015-05-06T05:33:20.000Z",
+    "expiryDate": "2026-05-05T05:33:20.000Z",
+    "coordinates": [
+      -113.9976205,
+      51.0517498
+    ],
+    "longitude": -113.9976205,
+    "latitude": 51.0517498,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16238586",
+  "fullDetails": {
+    "licenseNumber": "16238586",
+    "name": "ALOHA NAILS",
+    "address": "9A SPRUCE CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2023-02-03T08:25:58.000Z",
+    "expiryDate": "2026-02-02T08:25:58.000Z",
+    "coordinates": [
+      -114.1367664,
+      51.0481795
+    ],
+    "longitude": -114.1367664,
+    "latitude": 51.0481795,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

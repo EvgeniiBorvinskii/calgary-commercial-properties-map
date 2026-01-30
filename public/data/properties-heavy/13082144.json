@@ -1,0 +1,36 @@
+{
+  "id": "13082144",
+  "fullDetails": {
+    "licenseNumber": "13082144",
+    "name": "SOUTHERN ALBERTA CONSTRUCTION SERVICES",
+    "address": "#100 3605 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2019-07-23T12:09:56.000Z",
+    "expiryDate": "2026-07-22T12:09:56.000Z",
+    "coordinates": [
+      -113.9925776,
+      51.084757
+    ],
+    "longitude": -113.9925776,
+    "latitude": 51.084757,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

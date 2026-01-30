@@ -1,0 +1,36 @@
+{
+  "id": "16022543",
+  "fullDetails": {
+    "licenseNumber": "16022543",
+    "name": "CURRY CRAFT EAST INDIAN CUISINE",
+    "address": "16327 SOMERCREST ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-05-14T11:48:14.000Z",
+    "expiryDate": "2026-05-13T11:48:14.000Z",
+    "coordinates": [
+      -114.0905025,
+      50.9033311
+    ],
+    "longitude": -114.0905025,
+    "latitude": 50.9033311,
+    "community": "SOMERSET",
+    "ward": "SOM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

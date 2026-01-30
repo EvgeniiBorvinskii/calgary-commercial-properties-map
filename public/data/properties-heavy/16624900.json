@@ -1,0 +1,36 @@
+{
+  "id": "16624900",
+  "fullDetails": {
+    "licenseNumber": "16624900",
+    "name": "MISSION17",
+    "address": "1716 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-06-13T09:48:53.000Z",
+    "expiryDate": "2026-06-12T09:48:52.000Z",
+    "coordinates": [
+      -114.0630802,
+      51.0376008
+    ],
+    "longitude": -114.0630802,
+    "latitude": 51.0376008,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

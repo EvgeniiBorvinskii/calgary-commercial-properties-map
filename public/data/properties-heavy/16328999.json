@@ -1,0 +1,36 @@
+{
+  "id": "16328999",
+  "fullDetails": {
+    "licenseNumber": "16328999",
+    "name": "PRANAAM TRANSPORT",
+    "address": "#180 10 SMED LN SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-09-26T12:51:32.000Z",
+    "expiryDate": "2026-09-25T12:51:32.000Z",
+    "coordinates": [
+      -113.9557535,
+      50.9963106
+    ],
+    "longitude": -113.9557535,
+    "latitude": 50.9963106,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

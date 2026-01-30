@@ -1,0 +1,36 @@
+{
+  "id": "14409379",
+  "fullDetails": {
+    "licenseNumber": "14409379",
+    "name": "AG FASHION",
+    "address": "#1117 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-02-01T07:47:29.000Z",
+    "expiryDate": "2027-01-31T07:47:29.000Z",
+    "coordinates": [
+      -113.9789591,
+      51.0542819
+    ],
+    "longitude": -113.9789591,
+    "latitude": 51.0542819,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

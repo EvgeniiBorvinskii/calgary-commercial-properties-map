@@ -1,0 +1,36 @@
+{
+  "id": "12494993",
+  "fullDetails": {
+    "licenseNumber": "12494993",
+    "name": "FLAIR ENTERPRISES",
+    "address": "3916 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-08-21T15:43:31.000Z",
+    "expiryDate": "2026-08-20T15:43:31.000Z",
+    "coordinates": [
+      -113.9782236,
+      50.9904276
+    ],
+    "longitude": -113.9782236,
+    "latitude": 50.9904276,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

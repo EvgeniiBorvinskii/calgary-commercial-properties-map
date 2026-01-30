@@ -1,0 +1,36 @@
+{
+  "id": "13601794",
+  "fullDetails": {
+    "licenseNumber": "13601794",
+    "name": "LAKEVIEW NAILS STUDIO & SPA",
+    "address": "#101 6449 CROWCHILD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2020-10-02T05:31:20.000Z",
+    "expiryDate": "2026-10-01T05:31:19.000Z",
+    "coordinates": [
+      -114.1190456,
+      50.9957845
+    ],
+    "longitude": -114.1190456,
+    "latitude": 50.9957845,
+    "community": "LAKEVIEW",
+    "ward": "LKV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

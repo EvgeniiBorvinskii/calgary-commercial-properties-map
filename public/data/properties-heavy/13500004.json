@@ -1,0 +1,36 @@
+{
+  "id": "13500004",
+  "fullDetails": {
+    "licenseNumber": "13500004",
+    "name": "PAPER PASTIMES",
+    "address": "#5 7640 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-08-14T08:23:49.000Z",
+    "expiryDate": "2026-08-13T08:23:49.000Z",
+    "coordinates": [
+      -114.0592561,
+      50.9853959
+    ],
+    "longitude": -114.0592561,
+    "latitude": 50.9853959,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

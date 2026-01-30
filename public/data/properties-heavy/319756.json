@@ -1,0 +1,37 @@
+{
+  "id": "319756",
+  "fullDetails": {
+    "licenseNumber": "319756",
+    "name": "PAUER ELECTRONICS*",
+    "address": "#7 5528 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-02T00:00:00.000Z",
+    "coordinates": [
+      -114.0604897,
+      51.0051385
+    ],
+    "longitude": -114.0604897,
+    "latitude": 51.0051385,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

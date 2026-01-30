@@ -1,0 +1,36 @@
+{
+  "id": "14485494",
+  "fullDetails": {
+    "licenseNumber": "14485494",
+    "name": "TRANS-CONTINENTAL TEXTILE RECYCLING",
+    "address": "6150 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-05-11T15:21:06.000Z",
+    "expiryDate": "2026-05-10T15:21:06.000Z",
+    "coordinates": [
+      -113.9693161,
+      50.999292
+    ],
+    "longitude": -113.9693161,
+    "latitude": 50.999292,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

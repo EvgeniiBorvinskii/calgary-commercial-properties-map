@@ -1,0 +1,36 @@
+{
+  "id": "16449217",
+  "fullDetails": {
+    "licenseNumber": "16449217",
+    "name": "SOYIMANG COPPER & METAL RECYCLING",
+    "address": "#1 4415 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2025-02-11T08:19:18.000Z",
+    "expiryDate": "2027-02-10T08:19:17.000Z",
+    "coordinates": [
+      -113.9722081,
+      50.9961944
+    ],
+    "longitude": -113.9722081,
+    "latitude": 50.9961944,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

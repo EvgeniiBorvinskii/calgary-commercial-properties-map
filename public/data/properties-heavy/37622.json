@@ -1,0 +1,36 @@
+{
+  "id": "37622",
+  "fullDetails": {
+    "licenseNumber": "37622",
+    "name": "VIKING FIRE PROTECTION",
+    "address": "4220 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2011-03-08T05:54:25.000Z",
+    "expiryDate": "2026-03-07T05:54:25.000Z",
+    "coordinates": [
+      -113.9743642,
+      50.985657
+    ],
+    "longitude": -113.9743642,
+    "latitude": 50.985657,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

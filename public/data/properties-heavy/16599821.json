@@ -1,0 +1,36 @@
+{
+  "id": "16599821",
+  "fullDetails": {
+    "licenseNumber": "16599821",
+    "name": "KHRYSTYNA HAIDA TATTOO",
+    "address": "#107 11420 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2025-03-13T15:59:59.000Z",
+    "expiryDate": "2026-03-12T15:59:58.000Z",
+    "coordinates": [
+      -113.9966312,
+      50.9538185
+    ],
+    "longitude": -113.9966312,
+    "latitude": 50.9538185,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

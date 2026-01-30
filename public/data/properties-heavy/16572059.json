@@ -1,0 +1,37 @@
+{
+  "id": "16572059",
+  "fullDetails": {
+    "licenseNumber": "16572059",
+    "name": "BLEU BAR",
+    "address": "111 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-12-16T09:20:47.000Z",
+    "expiryDate": "2026-12-15T09:20:46.000Z",
+    "coordinates": [
+      -114.0639505,
+      51.0462581
+    ],
+    "longitude": -114.0639505,
+    "latitude": 51.0462581,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

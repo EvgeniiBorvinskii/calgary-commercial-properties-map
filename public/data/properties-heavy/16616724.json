@@ -1,0 +1,37 @@
+{
+  "id": "16616724",
+  "fullDetails": {
+    "licenseNumber": "16616724",
+    "name": "MUSICWORKS CANADA",
+    "address": "#103 8120 BEDDINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-04-21T11:00:00.000Z",
+    "expiryDate": "2026-04-20T10:59:59.000Z",
+    "coordinates": [
+      -114.074241,
+      51.1271647
+    ],
+    "longitude": -114.074241,
+    "latitude": 51.1271647,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

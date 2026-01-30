@@ -1,0 +1,36 @@
+{
+  "id": "16567349",
+  "fullDetails": {
+    "licenseNumber": "16567349",
+    "name": "TAHINI'S",
+    "address": "#616 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-02-12T08:16:28.000Z",
+    "expiryDate": "2027-02-11T08:16:27.000Z",
+    "coordinates": [
+      -114.0550122,
+      51.1554484
+    ],
+    "longitude": -114.0550122,
+    "latitude": 51.1554484,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13554670",
+  "fullDetails": {
+    "licenseNumber": "13554670",
+    "name": "HOMES BY SORENSEN",
+    "address": "#101 1870 45 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-04-14T07:28:32.000Z",
+    "expiryDate": "2026-04-13T07:28:32.000Z",
+    "coordinates": [
+      -114.1590834,
+      51.0711653
+    ],
+    "longitude": -114.1590834,
+    "latitude": 51.0711653,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

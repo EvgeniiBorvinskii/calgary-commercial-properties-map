@@ -1,0 +1,36 @@
+{
+  "id": "133249",
+  "fullDetails": {
+    "licenseNumber": "133249",
+    "name": "LENNOX INDUSTRIES",
+    "address": "#40 5350 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-05-13T05:33:06.000Z",
+    "expiryDate": "2026-05-12T05:33:06.000Z",
+    "coordinates": [
+      -113.9540888,
+      50.9776525
+    ],
+    "longitude": -113.9540888,
+    "latitude": 50.9776525,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

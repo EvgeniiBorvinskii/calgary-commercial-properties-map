@@ -1,0 +1,36 @@
+{
+  "id": "16343238",
+  "fullDetails": {
+    "licenseNumber": "16343238",
+    "name": "MINUTEMAN PRESS",
+    "address": "#14 10 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-09-21T13:37:13.000Z",
+    "expiryDate": "2026-09-20T13:37:13.000Z",
+    "coordinates": [
+      -114.0722561,
+      51.1429488
+    ],
+    "longitude": -114.0722561,
+    "latitude": 51.1429488,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

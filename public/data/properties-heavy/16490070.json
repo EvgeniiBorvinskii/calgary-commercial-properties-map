@@ -1,0 +1,36 @@
+{
+  "id": "16490070",
+  "fullDetails": {
+    "licenseNumber": "16490070",
+    "name": "ASAP WINDOW WELLS & STEEL",
+    "address": "7042 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-07-11T09:25:58.000Z",
+    "expiryDate": "2026-07-10T09:25:58.000Z",
+    "coordinates": [
+      -113.9827701,
+      50.990426
+    ],
+    "longitude": -113.9827701,
+    "latitude": 50.990426,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

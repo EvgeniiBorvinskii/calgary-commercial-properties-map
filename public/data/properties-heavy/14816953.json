@@ -1,0 +1,36 @@
+{
+  "id": "14816953",
+  "fullDetails": {
+    "licenseNumber": "14816953",
+    "name": "ALBERTA DOOR SYSTEMS",
+    "address": "#116 5726 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-07-13T14:47:11.000Z",
+    "expiryDate": "2026-07-12T14:47:10.000Z",
+    "coordinates": [
+      -114.042885,
+      51.0034899
+    ],
+    "longitude": -114.042885,
+    "latitude": 51.0034899,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

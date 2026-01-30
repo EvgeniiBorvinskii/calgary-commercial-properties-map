@@ -1,0 +1,36 @@
+{
+  "id": "16647240",
+  "fullDetails": {
+    "licenseNumber": "16647240",
+    "name": "VALUE BUDS AT 17TH AVE EAST",
+    "address": "506 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-07-02T13:02:24.000Z",
+    "expiryDate": "2026-07-01T13:02:24.000Z",
+    "coordinates": [
+      -114.071916,
+      51.0381222
+    ],
+    "longitude": -114.071916,
+    "latitude": 51.0381222,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

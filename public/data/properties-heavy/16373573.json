@@ -1,0 +1,36 @@
+{
+  "id": "16373573",
+  "fullDetails": {
+    "licenseNumber": "16373573",
+    "name": "NOLAN HILL HALAL MEAT CONVENIENCE",
+    "address": "#125 50 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-15T11:51:34.000Z",
+    "expiryDate": "2026-08-14T11:51:34.000Z",
+    "coordinates": [
+      -114.1683497,
+      51.1707108
+    ],
+    "longitude": -114.1683497,
+    "latitude": 51.1707108,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

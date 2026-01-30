@@ -1,0 +1,36 @@
+{
+  "id": "15927577",
+  "fullDetails": {
+    "licenseNumber": "15927577",
+    "name": "PRESTIGE DECK AND RAIL",
+    "address": "3336 47 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-14T08:33:33.000Z",
+    "expiryDate": "2026-02-13T08:33:32.000Z",
+    "coordinates": [
+      -113.9857911,
+      51.0118456
+    ],
+    "longitude": -113.9857911,
+    "latitude": 51.0118456,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

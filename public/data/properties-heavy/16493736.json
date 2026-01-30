@@ -1,0 +1,36 @@
+{
+  "id": "16493736",
+  "fullDetails": {
+    "licenseNumber": "16493736",
+    "name": "BABA CHICKEN",
+    "address": "#4120 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-13T10:58:22.000Z",
+    "expiryDate": "2026-08-12T10:58:22.000Z",
+    "coordinates": [
+      -113.9730818,
+      51.1534717
+    ],
+    "longitude": -113.9730818,
+    "latitude": 51.1534717,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

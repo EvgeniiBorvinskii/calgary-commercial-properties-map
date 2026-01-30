@@ -1,0 +1,36 @@
+{
+  "id": "16627440",
+  "fullDetails": {
+    "licenseNumber": "16627440",
+    "name": "ALTADORE PLACE",
+    "address": "2024 35 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-05-29T07:41:33.000Z",
+    "expiryDate": "2026-05-28T07:41:32.000Z",
+    "coordinates": [
+      -114.1078065,
+      51.0224337
+    ],
+    "longitude": -114.1078065,
+    "latitude": 51.0224337,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

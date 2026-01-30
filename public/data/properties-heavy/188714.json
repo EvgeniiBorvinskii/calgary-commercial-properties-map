@@ -1,0 +1,37 @@
+{
+  "id": "188714",
+  "fullDetails": {
+    "licenseNumber": "188714",
+    "name": "KENROC BUILDING MATERIALS",
+    "address": "3840 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-10-20T05:34:19.000Z",
+    "expiryDate": "2026-10-19T05:34:19.000Z",
+    "coordinates": [
+      -114.0350311,
+      51.0866064
+    ],
+    "longitude": -114.0350311,
+    "latitude": 51.0866064,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

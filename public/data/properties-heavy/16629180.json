@@ -1,0 +1,36 @@
+{
+  "id": "16629180",
+  "fullDetails": {
+    "licenseNumber": "16629180",
+    "name": "CUT SHOP (THE)",
+    "address": "#110 7071 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-12-02T16:31:45.000Z",
+    "expiryDate": "2026-12-01T16:31:45.000Z",
+    "coordinates": [
+      -113.9313278,
+      50.9584188
+    ],
+    "longitude": -113.9313278,
+    "latitude": 50.9584188,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

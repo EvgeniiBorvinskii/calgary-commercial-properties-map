@@ -1,0 +1,36 @@
+{
+  "id": "12546453",
+  "fullDetails": {
+    "licenseNumber": "12546453",
+    "name": "DOLLAR WORLD",
+    "address": "222 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-01-23T08:25:08.000Z",
+    "expiryDate": "2026-01-22T08:25:08.000Z",
+    "coordinates": [
+      -114.0667637,
+      51.0459237
+    ],
+    "longitude": -114.0667637,
+    "latitude": 51.0459237,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

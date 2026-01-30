@@ -1,0 +1,37 @@
+{
+  "id": "13737903",
+  "fullDetails": {
+    "licenseNumber": "13737903",
+    "name": "SAFEWAY #2730",
+    "address": "3737 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-11-07T13:55:35.000Z",
+    "expiryDate": "2026-11-06T13:55:35.000Z",
+    "coordinates": [
+      -114.1420746,
+      51.0207134
+    ],
+    "longitude": -114.1420746,
+    "latitude": 51.0207134,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

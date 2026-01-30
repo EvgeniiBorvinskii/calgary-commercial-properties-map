@@ -1,0 +1,36 @@
+{
+  "id": "897751",
+  "fullDetails": {
+    "licenseNumber": "897751",
+    "name": "OMEGA 2000 CRIBBING",
+    "address": "#135 5065 13 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2006-03-31T10:02:39.000Z",
+    "expiryDate": "2026-03-30T10:02:39.000Z",
+    "coordinates": [
+      -114.0342828,
+      51.0071806
+    ],
+    "longitude": -114.0342828,
+    "latitude": 51.0071806,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

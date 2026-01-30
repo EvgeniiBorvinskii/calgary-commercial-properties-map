@@ -1,0 +1,36 @@
+{
+  "id": "12370748",
+  "fullDetails": {
+    "licenseNumber": "12370748",
+    "name": "CADO INDUSTRIES",
+    "address": "7491 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-01-19T20:54:34.000Z",
+    "expiryDate": "2027-01-18T20:54:34.000Z",
+    "coordinates": [
+      -113.9242198,
+      50.9534069
+    ],
+    "longitude": -113.9242198,
+    "latitude": 50.9534069,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

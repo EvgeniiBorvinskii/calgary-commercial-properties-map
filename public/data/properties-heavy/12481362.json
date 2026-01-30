@@ -1,0 +1,36 @@
+{
+  "id": "12481362",
+  "fullDetails": {
+    "licenseNumber": "12481362",
+    "name": "CANADIAN AQUALINE SALES",
+    "address": "#115 11198 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-06-26T13:10:29.000Z",
+    "expiryDate": "2026-06-25T13:10:29.000Z",
+    "coordinates": [
+      -113.9742223,
+      50.9533844
+    ],
+    "longitude": -113.9742223,
+    "latitude": 50.9533844,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

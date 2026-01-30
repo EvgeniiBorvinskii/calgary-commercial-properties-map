@@ -1,0 +1,36 @@
+{
+  "id": "15762883",
+  "fullDetails": {
+    "licenseNumber": "15762883",
+    "name": "MAAX ELECTRICAL SERVICES",
+    "address": "#6 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-22T15:33:44.000Z",
+    "expiryDate": "2026-10-21T15:33:43.000Z",
+    "coordinates": [
+      -114.0287677,
+      51.0881597
+    ],
+    "longitude": -114.0287677,
+    "latitude": 51.0881597,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

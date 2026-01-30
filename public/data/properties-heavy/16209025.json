@@ -1,0 +1,36 @@
+{
+  "id": "16209025",
+  "fullDetails": {
+    "licenseNumber": "16209025",
+    "name": "LEAFY GREEN DISPENSARY",
+    "address": "#4170 235 RED EMBERS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2024-03-13T11:22:43.000Z",
+    "expiryDate": "2026-03-12T11:22:43.000Z",
+    "coordinates": [
+      -113.9557953,
+      51.1666667
+    ],
+    "longitude": -113.9557953,
+    "latitude": 51.1666667,
+    "community": "REDSTONE",
+    "ward": "RSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

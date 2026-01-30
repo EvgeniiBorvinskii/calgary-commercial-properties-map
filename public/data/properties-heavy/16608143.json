@@ -1,0 +1,36 @@
+{
+  "id": "16608143",
+  "fullDetails": {
+    "licenseNumber": "16608143",
+    "name": "PIE JUNKIE AND BAKERY",
+    "address": "#105 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-04-25T14:49:50.000Z",
+    "expiryDate": "2026-04-24T14:49:50.000Z",
+    "coordinates": [
+      -114.0261322,
+      50.8615078
+    ],
+    "longitude": -114.0261322,
+    "latitude": 50.8615078,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

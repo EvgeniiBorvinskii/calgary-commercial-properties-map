@@ -1,0 +1,36 @@
+{
+  "id": "16141392",
+  "fullDetails": {
+    "licenseNumber": "16141392",
+    "name": "LITTLE BOW FIBRE COMPANY",
+    "address": "#130 1928 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-05-09T12:59:36.000Z",
+    "expiryDate": "2026-05-08T12:59:36.000Z",
+    "coordinates": [
+      -114.1061957,
+      51.0234349
+    ],
+    "longitude": -114.1061957,
+    "latitude": 51.0234349,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

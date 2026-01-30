@@ -1,0 +1,37 @@
+{
+  "id": "15948086",
+  "fullDetails": {
+    "licenseNumber": "15948086",
+    "name": "PAULS PIZZA STEAKHOUSE & LOUNGE",
+    "address": "2767 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-10-21T15:24:14.000Z",
+    "expiryDate": "2026-10-20T15:24:13.000Z",
+    "coordinates": [
+      -113.9963537,
+      51.0809631
+    ],
+    "longitude": -113.9963537,
+    "latitude": 51.0809631,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

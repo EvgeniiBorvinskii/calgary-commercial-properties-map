@@ -1,0 +1,36 @@
+{
+  "id": "16110686",
+  "fullDetails": {
+    "licenseNumber": "16110686",
+    "name": "GEM NAIL SALON",
+    "address": "14355 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-12-10T08:26:44.000Z",
+    "expiryDate": "2026-12-09T08:26:44.000Z",
+    "coordinates": [
+      -114.0728495,
+      50.9239463
+    ],
+    "longitude": -114.0728495,
+    "latitude": 50.9239463,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

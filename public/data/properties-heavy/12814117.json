@@ -1,0 +1,36 @@
+{
+  "id": "12814117",
+  "fullDetails": {
+    "licenseNumber": "12814117",
+    "name": "KASHAN PERSIAN RUGS",
+    "address": "#521 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2014-07-09T08:43:58.000Z",
+    "expiryDate": "2026-07-08T08:43:58.000Z",
+    "coordinates": [
+      -113.9853641,
+      51.0608601
+    ],
+    "longitude": -113.9853641,
+    "latitude": 51.0608601,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

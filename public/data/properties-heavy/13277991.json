@@ -1,0 +1,36 @@
+{
+  "id": "13277991",
+  "fullDetails": {
+    "licenseNumber": "13277991",
+    "name": "JENNY'S HAIR DESIGN",
+    "address": "3452 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2022-09-21T09:25:41.000Z",
+    "expiryDate": "2026-09-20T09:25:41.000Z",
+    "coordinates": [
+      -113.9852601,
+      51.0382944
+    ],
+    "longitude": -113.9852601,
+    "latitude": 51.0382944,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

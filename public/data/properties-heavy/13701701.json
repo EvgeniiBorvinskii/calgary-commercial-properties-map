@@ -1,0 +1,37 @@
+{
+  "id": "13701701",
+  "fullDetails": {
+    "licenseNumber": "13701701",
+    "name": "RED'S IN RAMSAY",
+    "address": "1101 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2013-10-11T15:01:10.000Z",
+    "expiryDate": "2026-10-10T15:01:10.000Z",
+    "coordinates": [
+      -114.0420112,
+      51.0399183
+    ],
+    "longitude": -114.0420112,
+    "latitude": 51.0399183,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

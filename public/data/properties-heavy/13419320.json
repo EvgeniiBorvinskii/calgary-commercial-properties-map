@@ -1,0 +1,36 @@
+{
+  "id": "13419320",
+  "fullDetails": {
+    "licenseNumber": "13419320",
+    "name": "ZUMIEZ",
+    "address": "#F2 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-07-17T11:59:19.000Z",
+    "expiryDate": "2026-07-16T11:59:19.000Z",
+    "coordinates": [
+      -114.1556465,
+      51.0853807
+    ],
+    "longitude": -114.1556465,
+    "latitude": 51.0853807,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

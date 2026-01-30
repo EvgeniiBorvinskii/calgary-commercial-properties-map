@@ -1,0 +1,36 @@
+{
+  "id": "14477731",
+  "fullDetails": {
+    "licenseNumber": "14477731",
+    "name": "NKS FORKLIFT AND EQUIPMENTS",
+    "address": "#1170 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-06-30T12:49:56.000Z",
+    "expiryDate": "2026-06-29T12:49:56.000Z",
+    "coordinates": [
+      -113.9801322,
+      51.1107823
+    ],
+    "longitude": -113.9801322,
+    "latitude": 51.1107823,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16035040",
+  "fullDetails": {
+    "licenseNumber": "16035040",
+    "name": "AVMAX SPARES",
+    "address": "#104 4404 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-11-29T08:57:34.000Z",
+    "expiryDate": "2026-11-28T08:57:34.000Z",
+    "coordinates": [
+      -114.0276939,
+      51.0922281
+    ],
+    "longitude": -114.0276939,
+    "latitude": 51.0922281,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12260519",
+  "fullDetails": {
+    "licenseNumber": "12260519",
+    "name": "LAUNDRY STORE (THE)",
+    "address": "#6 625 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-04-30T05:37:08.000Z",
+    "expiryDate": "2026-04-29T05:37:08.000Z",
+    "coordinates": [
+      -114.0499061,
+      50.984042
+    ],
+    "longitude": -114.0499061,
+    "latitude": 50.984042,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

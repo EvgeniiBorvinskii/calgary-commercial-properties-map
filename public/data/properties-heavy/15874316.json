@@ -1,0 +1,36 @@
+{
+  "id": "15874316",
+  "fullDetails": {
+    "licenseNumber": "15874316",
+    "name": "SIMPLICITY CAR CARE CALGARY SOUTH",
+    "address": "5009 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2020-05-22T13:10:14.000Z",
+    "expiryDate": "2026-05-21T13:10:14.000Z",
+    "coordinates": [
+      -114.0663959,
+      51.009234
+    ],
+    "longitude": -114.0663959,
+    "latitude": 51.009234,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

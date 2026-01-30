@@ -1,0 +1,36 @@
+{
+  "id": "15872799",
+  "fullDetails": {
+    "licenseNumber": "15872799",
+    "name": "OCR CANADA",
+    "address": "#2 1470 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-02-14T05:32:46.000Z",
+    "expiryDate": "2027-02-13T05:32:46.000Z",
+    "coordinates": [
+      -113.9904762,
+      51.0644656
+    ],
+    "longitude": -113.9904762,
+    "latitude": 51.0644656,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

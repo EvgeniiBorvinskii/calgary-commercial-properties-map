@@ -1,0 +1,37 @@
+{
+  "id": "14897896",
+  "fullDetails": {
+    "licenseNumber": "14897896",
+    "name": "CAVABIEN HAIR STUDIO AND DAY SPA",
+    "address": "2049 42 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nMASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "pending",
+    "issuedDate": "2018-04-17T13:00:59.000Z",
+    "expiryDate": "2026-04-16T13:00:59.000Z",
+    "coordinates": [
+      -114.1089795,
+      51.0156969
+    ],
+    "longitude": -114.1089795,
+    "latitude": 51.0156969,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13265913",
+  "fullDetails": {
+    "licenseNumber": "13265913",
+    "name": "MPN ELECTRICAL",
+    "address": "405 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2016-03-22T05:30:46.000Z",
+    "expiryDate": "2026-03-21T05:30:46.000Z",
+    "coordinates": [
+      -114.0558073,
+      50.9928619
+    ],
+    "longitude": -114.0558073,
+    "latitude": 50.9928619,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

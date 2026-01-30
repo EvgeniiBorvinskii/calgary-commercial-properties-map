@@ -1,0 +1,36 @@
+{
+  "id": "16053274",
+  "fullDetails": {
+    "licenseNumber": "16053274",
+    "name": "BURROW (THE)",
+    "address": "#303 638 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2022-03-09T10:49:33.000Z",
+    "expiryDate": "2026-03-08T10:49:33.000Z",
+    "coordinates": [
+      -114.0760687,
+      51.0430213
+    ],
+    "longitude": -114.0760687,
+    "latitude": 51.0430213,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

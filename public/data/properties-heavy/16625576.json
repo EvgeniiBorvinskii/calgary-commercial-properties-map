@@ -1,0 +1,36 @@
+{
+  "id": "16625576",
+  "fullDetails": {
+    "licenseNumber": "16625576",
+    "name": "PIZZA CENTER",
+    "address": "#327 7 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-14T10:50:04.000Z",
+    "expiryDate": "2026-05-13T10:50:04.000Z",
+    "coordinates": [
+      -113.970634,
+      51.1067121
+    ],
+    "longitude": -113.970634,
+    "latitude": 51.1067121,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

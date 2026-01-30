@@ -1,0 +1,36 @@
+{
+  "id": "435255",
+  "fullDetails": {
+    "licenseNumber": "435255",
+    "name": "IMEX CANADA",
+    "address": "#800 700 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-08-19T05:32:00.000Z",
+    "expiryDate": "2026-08-18T05:32:00.000Z",
+    "coordinates": [
+      -114.0765017,
+      51.0500124
+    ],
+    "longitude": -114.0765017,
+    "latitude": 51.0500124,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

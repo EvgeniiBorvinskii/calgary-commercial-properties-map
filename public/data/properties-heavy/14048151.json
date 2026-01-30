@@ -1,0 +1,36 @@
+{
+  "id": "14048151",
+  "fullDetails": {
+    "licenseNumber": "14048151",
+    "name": "PRO STAR PLUMBING HEATING & DRAINS",
+    "address": "#140 1936 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-04-12T05:30:52.000Z",
+    "expiryDate": "2026-04-11T05:30:52.000Z",
+    "coordinates": [
+      -114.012266,
+      51.0771593
+    ],
+    "longitude": -114.012266,
+    "latitude": 51.0771593,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

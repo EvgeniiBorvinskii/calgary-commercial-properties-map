@@ -1,0 +1,36 @@
+{
+  "id": "16595811",
+  "fullDetails": {
+    "licenseNumber": "16595811",
+    "name": "CANNA CABANA",
+    "address": "#309 722 85 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-05-15T15:43:34.000Z",
+    "expiryDate": "2026-05-14T15:43:34.000Z",
+    "coordinates": [
+      -114.2096268,
+      51.0667407
+    ],
+    "longitude": -114.2096268,
+    "latitude": 51.0667407,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

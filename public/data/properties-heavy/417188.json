@@ -1,0 +1,36 @@
+{
+  "id": "417188",
+  "fullDetails": {
+    "licenseNumber": "417188",
+    "name": "ITRES RESEARCH",
+    "address": "#90 2175 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-11-10T11:17:11.000Z",
+    "expiryDate": "2026-11-09T11:17:11.000Z",
+    "coordinates": [
+      -113.9930781,
+      51.0715657
+    ],
+    "longitude": -113.9930781,
+    "latitude": 51.0715657,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

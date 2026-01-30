@@ -1,0 +1,37 @@
+{
+  "id": "14581193",
+  "fullDetails": {
+    "licenseNumber": "14581193",
+    "name": "EDEN (THE)",
+    "address": "1219 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-09-29T08:38:37.000Z",
+    "expiryDate": "2026-09-28T08:38:37.000Z",
+    "coordinates": [
+      -114.0358163,
+      51.0415809
+    ],
+    "longitude": -114.0358163,
+    "latitude": 51.0415809,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

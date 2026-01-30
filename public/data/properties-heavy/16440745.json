@@ -1,0 +1,36 @@
+{
+  "id": "16440745",
+  "fullDetails": {
+    "licenseNumber": "16440745",
+    "name": "PRIMAL CANINE RAW",
+    "address": "#18 4750 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-02-01T05:40:59.000Z",
+    "expiryDate": "2027-01-31T05:40:59.000Z",
+    "coordinates": [
+      -113.9673219,
+      50.9584696
+    ],
+    "longitude": -113.9673219,
+    "latitude": 50.9584696,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

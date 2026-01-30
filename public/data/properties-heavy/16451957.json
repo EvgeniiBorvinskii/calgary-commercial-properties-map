@@ -1,0 +1,36 @@
+{
+  "id": "16451957",
+  "fullDetails": {
+    "licenseNumber": "16451957",
+    "name": "MOUNTAIN VIEW CAR AND TRUCK REPAIR",
+    "address": "#F 8080 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-04-24T15:27:47.000Z",
+    "expiryDate": "2026-04-23T15:27:47.000Z",
+    "coordinates": [
+      -113.9806678,
+      50.9809395
+    ],
+    "longitude": -113.9806678,
+    "latitude": 50.9809395,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

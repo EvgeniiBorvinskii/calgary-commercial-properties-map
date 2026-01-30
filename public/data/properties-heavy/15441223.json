@@ -1,0 +1,37 @@
+{
+  "id": "15441223",
+  "fullDetails": {
+    "licenseNumber": "15441223",
+    "name": "IMAGINE VINTAGE WEAR",
+    "address": "1325 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2019-04-29T11:15:27.000Z",
+    "expiryDate": "2026-04-28T11:15:27.000Z",
+    "coordinates": [
+      -114.0329791,
+      51.0405256
+    ],
+    "longitude": -114.0329791,
+    "latitude": 51.0405256,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

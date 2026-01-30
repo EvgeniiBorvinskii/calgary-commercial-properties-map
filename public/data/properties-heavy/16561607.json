@@ -1,0 +1,36 @@
+{
+  "id": "16561607",
+  "fullDetails": {
+    "licenseNumber": "16561607",
+    "name": "PAPELEN CONSUMER PRODUCTS",
+    "address": "#21 2355 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-16T11:29:01.000Z",
+    "expiryDate": "2026-04-15T11:29:00.000Z",
+    "coordinates": [
+      -114.00487,
+      51.0059527
+    ],
+    "longitude": -114.00487,
+    "latitude": 51.0059527,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

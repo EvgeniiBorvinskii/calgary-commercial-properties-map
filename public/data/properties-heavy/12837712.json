@@ -1,0 +1,36 @@
+{
+  "id": "12837712",
+  "fullDetails": {
+    "licenseNumber": "12837712",
+    "name": "HERMES CANADA",
+    "address": "510 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-11-25T14:17:19.000Z",
+    "expiryDate": "2026-11-24T14:17:19.000Z",
+    "coordinates": [
+      -114.0721297,
+      51.0460885
+    ],
+    "longitude": -114.0721297,
+    "latitude": 51.0460885,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

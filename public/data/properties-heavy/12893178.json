@@ -1,0 +1,37 @@
+{
+  "id": "12893178",
+  "fullDetails": {
+    "licenseNumber": "12893178",
+    "name": "CALGARY CO-OP KINGSLAND GAS BAR (#35)",
+    "address": "6905 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2010-06-08T08:09:32.000Z",
+    "expiryDate": "2026-06-07T08:09:32.000Z",
+    "coordinates": [
+      -114.0728451,
+      50.991768
+    ],
+    "longitude": -114.0728451,
+    "latitude": 50.991768,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

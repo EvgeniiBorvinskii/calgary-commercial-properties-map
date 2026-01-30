@@ -1,0 +1,36 @@
+{
+  "id": "16155087",
+  "fullDetails": {
+    "licenseNumber": "16155087",
+    "name": "EOS CONSULTING",
+    "address": "#201 3639 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-09-05T16:18:57.000Z",
+    "expiryDate": "2026-09-04T16:18:56.000Z",
+    "coordinates": [
+      -113.9956399,
+      51.0855451
+    ],
+    "longitude": -113.9956399,
+    "latitude": 51.0855451,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

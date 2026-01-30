@@ -1,0 +1,36 @@
+{
+  "id": "16648461",
+  "fullDetails": {
+    "licenseNumber": "16648461",
+    "name": "STUDIO SREY",
+    "address": "#312 4935 40 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-08-06T15:31:57.000Z",
+    "expiryDate": "2026-08-05T15:31:56.000Z",
+    "coordinates": [
+      -114.1580592,
+      51.0877518
+    ],
+    "longitude": -114.1580592,
+    "latitude": 51.0877518,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15651664",
+  "fullDetails": {
+    "licenseNumber": "15651664",
+    "name": "IFLY CALGARY",
+    "address": "811 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-23T14:03:26.000Z",
+    "expiryDate": "2026-07-22T14:03:25.000Z",
+    "coordinates": [
+      -114.0455483,
+      51.1086916
+    ],
+    "longitude": -114.0455483,
+    "latitude": 51.1086916,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

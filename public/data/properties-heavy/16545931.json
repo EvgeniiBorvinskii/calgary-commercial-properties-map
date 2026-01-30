@@ -1,0 +1,36 @@
+{
+  "id": "16545931",
+  "fullDetails": {
+    "licenseNumber": "16545931",
+    "name": "SILLA DESIGNS",
+    "address": "#110 1907 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-16T16:29:16.000Z",
+    "expiryDate": "2026-10-15T16:29:16.000Z",
+    "coordinates": [
+      -114.1050694,
+      51.0230167
+    ],
+    "longitude": -114.1050694,
+    "latitude": 51.0230167,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

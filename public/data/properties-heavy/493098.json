@@ -1,0 +1,36 @@
+{
+  "id": "493098",
+  "fullDetails": {
+    "licenseNumber": "493098",
+    "name": "AERO-TECH SPECIALTY WELDING & FABRICATION",
+    "address": "#48 5335 6 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-26T00:00:00.000Z",
+    "coordinates": [
+      -114.0488942,
+      51.0994714
+    ],
+    "longitude": -114.0488942,
+    "latitude": 51.0994714,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

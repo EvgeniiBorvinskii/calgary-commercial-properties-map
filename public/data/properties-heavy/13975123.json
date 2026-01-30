@@ -1,0 +1,36 @@
+{
+  "id": "13975123",
+  "fullDetails": {
+    "licenseNumber": "13975123",
+    "name": "CANBAR STEEL",
+    "address": "9216 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-07-07T11:32:50.000Z",
+    "expiryDate": "2026-07-06T11:32:50.000Z",
+    "coordinates": [
+      -113.9686315,
+      50.9711529
+    ],
+    "longitude": -113.9686315,
+    "latitude": 50.9711529,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

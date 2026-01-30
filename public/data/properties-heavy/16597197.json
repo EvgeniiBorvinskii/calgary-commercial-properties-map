@@ -1,0 +1,36 @@
+{
+  "id": "16597197",
+  "fullDetails": {
+    "licenseNumber": "16597197",
+    "name": "LUCKY KITTEN PLACE",
+    "address": "#400 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-12T13:49:47.000Z",
+    "expiryDate": "2026-03-11T13:49:47.000Z",
+    "coordinates": [
+      -114.0704303,
+      50.976664
+    ],
+    "longitude": -114.0704303,
+    "latitude": 50.976664,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

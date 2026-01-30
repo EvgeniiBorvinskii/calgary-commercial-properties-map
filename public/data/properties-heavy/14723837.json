@@ -1,0 +1,37 @@
+{
+  "id": "14723837",
+  "fullDetails": {
+    "licenseNumber": "14723837",
+    "name": "TRUE NORTH RAILINGS",
+    "address": "#14 5935 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-07-17T15:27:13.000Z",
+    "expiryDate": "2026-07-16T15:27:12.000Z",
+    "coordinates": [
+      -113.9857788,
+      51.0010446
+    ],
+    "longitude": -113.9857788,
+    "latitude": 51.0010446,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "402206",
+  "fullDetails": {
+    "licenseNumber": "402206",
+    "name": "OPISYSTEMS",
+    "address": "1216 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2003-02-14T16:34:31.000Z",
+    "expiryDate": "2026-02-13T16:34:31.000Z",
+    "coordinates": [
+      -114.0333965,
+      51.0858261
+    ],
+    "longitude": -114.0333965,
+    "latitude": 51.0858261,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

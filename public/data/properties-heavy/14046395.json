@@ -1,0 +1,37 @@
+{
+  "id": "14046395",
+  "fullDetails": {
+    "licenseNumber": "14046395",
+    "name": "IRASHI JAPANESE RESTAURANT",
+    "address": "#114 15 ROYAL VISTA PL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-01-14T11:45:11.000Z",
+    "expiryDate": "2027-01-13T11:45:11.000Z",
+    "coordinates": [
+      -114.2099495,
+      51.1507273
+    ],
+    "longitude": -114.2099495,
+    "latitude": 51.1507273,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16399081",
+  "fullDetails": {
+    "licenseNumber": "16399081",
+    "name": "HAIR ARTISTRY BY KATE",
+    "address": "#205 45 GREENBRIAR LN NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-10-24T08:52:52.000Z",
+    "expiryDate": "2026-10-23T08:52:52.000Z",
+    "coordinates": [
+      -114.2207914,
+      51.0877959
+    ],
+    "longitude": -114.2207914,
+    "latitude": 51.0877959,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

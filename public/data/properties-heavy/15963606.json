@@ -1,0 +1,37 @@
+{
+  "id": "15963606",
+  "fullDetails": {
+    "licenseNumber": "15963606",
+    "name": "PHIL & SEBASTIAN COFFEE ROASTERS",
+    "address": "#120 69 7A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-04-29T11:25:48.000Z",
+    "expiryDate": "2026-04-28T11:25:48.000Z",
+    "coordinates": [
+      -114.0446591,
+      51.0521626
+    ],
+    "longitude": -114.0446591,
+    "latitude": 51.0521626,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

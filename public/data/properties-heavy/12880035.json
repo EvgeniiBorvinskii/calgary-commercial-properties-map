@@ -1,0 +1,36 @@
+{
+  "id": "12880035",
+  "fullDetails": {
+    "licenseNumber": "12880035",
+    "name": "UNITY CONNECTED SOLUTIONS",
+    "address": "#4 1935 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-03-26T13:44:29.000Z",
+    "expiryDate": "2026-03-25T13:44:29.000Z",
+    "coordinates": [
+      -114.0124681,
+      51.0763396
+    ],
+    "longitude": -114.0124681,
+    "latitude": 51.0763396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

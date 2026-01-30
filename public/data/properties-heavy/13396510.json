@@ -1,0 +1,36 @@
+{
+  "id": "13396510",
+  "fullDetails": {
+    "licenseNumber": "13396510",
+    "name": "DOGWOOD MAINTENANCE",
+    "address": "#2 4604 13 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-05-10T05:34:43.000Z",
+    "expiryDate": "2026-05-09T05:34:43.000Z",
+    "coordinates": [
+      -114.0303061,
+      51.0939073
+    ],
+    "longitude": -114.0303061,
+    "latitude": 51.0939073,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12467858",
+  "fullDetails": {
+    "licenseNumber": "12467858",
+    "name": "SPECIALTY AUTO GROUP",
+    "address": "140 226 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2006-05-10T08:41:42.000Z",
+    "expiryDate": "2026-05-09T08:41:42.000Z",
+    "coordinates": [
+      -114.0356455,
+      50.8505736
+    ],
+    "longitude": -114.0356455,
+    "latitude": 50.8505736,
+    "community": "RESIDUAL WARD 13 - SUB AREA 13M",
+    "ward": "13M",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

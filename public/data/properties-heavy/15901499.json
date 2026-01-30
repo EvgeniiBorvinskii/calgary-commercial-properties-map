@@ -1,0 +1,36 @@
+{
+  "id": "15901499",
+  "fullDetails": {
+    "licenseNumber": "15901499",
+    "name": "SHOP N SAVE LIQUOR",
+    "address": "#2 7112 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-07-09T07:52:52.000Z",
+    "expiryDate": "2026-07-08T07:52:51.000Z",
+    "coordinates": [
+      -114.0705874,
+      50.9900831
+    ],
+    "longitude": -114.0705874,
+    "latitude": 50.9900831,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

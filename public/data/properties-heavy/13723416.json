@@ -1,0 +1,36 @@
+{
+  "id": "13723416",
+  "fullDetails": {
+    "licenseNumber": "13723416",
+    "name": "WAI'S ALTERATION",
+    "address": "#2 2312 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-09-04T11:46:58.000Z",
+    "expiryDate": "2026-09-03T11:46:58.000Z",
+    "coordinates": [
+      -114.0711512,
+      51.0317542
+    ],
+    "longitude": -114.0711512,
+    "latitude": 51.0317542,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

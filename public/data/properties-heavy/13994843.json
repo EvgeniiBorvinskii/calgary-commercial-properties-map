@@ -1,0 +1,36 @@
+{
+  "id": "13994843",
+  "fullDetails": {
+    "licenseNumber": "13994843",
+    "name": "U-TARGET ENERGY",
+    "address": "#108 4600 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-11-04T13:14:12.000Z",
+    "expiryDate": "2026-11-03T13:14:12.000Z",
+    "coordinates": [
+      -113.9694991,
+      50.9608721
+    ],
+    "longitude": -113.9694991,
+    "latitude": 50.9608721,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

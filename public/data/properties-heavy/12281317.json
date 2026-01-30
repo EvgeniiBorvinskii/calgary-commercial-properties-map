@@ -1,0 +1,36 @@
+{
+  "id": "12281317",
+  "fullDetails": {
+    "licenseNumber": "12281317",
+    "name": "DANNY'S FOOD EQUIPMENT",
+    "address": "#3 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2008-04-05T05:38:27.000Z",
+    "expiryDate": "2026-04-04T05:38:27.000Z",
+    "coordinates": [
+      -114.0500051,
+      51.1019344
+    ],
+    "longitude": -114.0500051,
+    "latitude": 51.1019344,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13077060",
+  "fullDetails": {
+    "licenseNumber": "13077060",
+    "name": "MOUNT ROYAL VILLAGE FAMILY CHIROPRACTIC",
+    "address": "#505 1550 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nBODY RUB CENTRE",
+    "status": "pending",
+    "issuedDate": "2014-02-15T05:32:35.000Z",
+    "expiryDate": "2026-02-14T05:32:35.000Z",
+    "coordinates": [
+      -114.0811884,
+      51.0384166
+    ],
+    "longitude": -114.0811884,
+    "latitude": 51.0384166,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

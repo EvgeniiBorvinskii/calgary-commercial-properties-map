@@ -1,0 +1,37 @@
+{
+  "id": "16175879",
+  "fullDetails": {
+    "licenseNumber": "16175879",
+    "name": "M1 DANCE HUB",
+    "address": "#1 117 17 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "PERSONAL SERVICE,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-10-28T11:00:46.000Z",
+    "expiryDate": "2026-10-27T11:00:46.000Z",
+    "coordinates": [
+      -114.0613136,
+      51.0677167
+    ],
+    "longitude": -114.0613136,
+    "latitude": 51.0677167,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

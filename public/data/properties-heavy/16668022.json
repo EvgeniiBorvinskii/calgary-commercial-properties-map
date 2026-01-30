@@ -1,0 +1,37 @@
+{
+  "id": "16668022",
+  "fullDetails": {
+    "licenseNumber": "16668022",
+    "name": "VICTORIA'S TREASURES",
+    "address": "1320B 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-11-12T08:46:35.000Z",
+    "expiryDate": "2026-11-11T08:46:35.000Z",
+    "coordinates": [
+      -114.0653708,
+      51.0399037
+    ],
+    "longitude": -114.0653708,
+    "latitude": 51.0399037,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

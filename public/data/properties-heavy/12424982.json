@@ -1,0 +1,37 @@
+{
+  "id": "12424982",
+  "fullDetails": {
+    "licenseNumber": "12424982",
+    "name": "CLAUSON ENTERPRISES",
+    "address": "2423B 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-07-01T06:14:15.000Z",
+    "expiryDate": "2026-06-30T06:14:15.000Z",
+    "coordinates": [
+      -114.0042042,
+      51.0501647
+    ],
+    "longitude": -114.0042042,
+    "latitude": 51.0501647,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

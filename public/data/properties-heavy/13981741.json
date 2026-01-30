@@ -1,0 +1,36 @@
+{
+  "id": "13981741",
+  "fullDetails": {
+    "licenseNumber": "13981741",
+    "name": "VICARS SCHOOL OF MASSAGE THERAPY",
+    "address": "#103 200 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2015-08-11T05:33:58.000Z",
+    "expiryDate": "2026-08-10T05:33:58.000Z",
+    "coordinates": [
+      -114.0738454,
+      51.1431522
+    ],
+    "longitude": -114.0738454,
+    "latitude": 51.1431522,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

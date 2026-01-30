@@ -1,0 +1,36 @@
+{
+  "id": "12408845",
+  "fullDetails": {
+    "licenseNumber": "12408845",
+    "name": "FRAMESOURCE",
+    "address": "7805 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2012-04-13T05:58:17.000Z",
+    "expiryDate": "2026-04-12T05:58:17.000Z",
+    "coordinates": [
+      -114.0693801,
+      50.9838201
+    ],
+    "longitude": -114.0693801,
+    "latitude": 50.9838201,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

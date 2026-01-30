@@ -1,0 +1,36 @@
+{
+  "id": "16322612",
+  "fullDetails": {
+    "licenseNumber": "16322612",
+    "name": "BIG JOHN'S PIZZA & DONAIRS",
+    "address": "#3 1403 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-23T08:19:38.000Z",
+    "expiryDate": "2026-06-22T08:19:37.000Z",
+    "coordinates": [
+      -114.0821362,
+      51.0397927
+    ],
+    "longitude": -114.0821362,
+    "latitude": 51.0397927,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

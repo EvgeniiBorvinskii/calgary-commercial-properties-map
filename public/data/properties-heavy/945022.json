@@ -1,0 +1,36 @@
+{
+  "id": "945022",
+  "fullDetails": {
+    "licenseNumber": "945022",
+    "name": "TEAM AQUATIC SUPPLIES",
+    "address": "#7D 6115 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-05-13T11:09:15.000Z",
+    "expiryDate": "2026-05-12T11:09:15.000Z",
+    "coordinates": [
+      -114.0577332,
+      50.9983433
+    ],
+    "longitude": -114.0577332,
+    "latitude": 50.9983433,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

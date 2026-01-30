@@ -1,0 +1,37 @@
+{
+  "id": "217968",
+  "fullDetails": {
+    "licenseNumber": "217968",
+    "name": "CALGARY PARKLAND COMMUNITY ASSOCIATION",
+    "address": "505 PARKVALLEY RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0262562,
+      50.918052
+    ],
+    "longitude": -114.0262562,
+    "latitude": 50.918052,
+    "community": "PARKLAND",
+    "ward": "PKL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

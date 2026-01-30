@@ -1,0 +1,37 @@
+{
+  "id": "15929987",
+  "fullDetails": {
+    "licenseNumber": "15929987",
+    "name": "ORCHARD RESTAURANT",
+    "address": "#134 620 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-09-22T14:40:08.000Z",
+    "expiryDate": "2026-09-21T14:40:08.000Z",
+    "coordinates": [
+      -114.0756851,
+      51.0438574
+    ],
+    "longitude": -114.0756851,
+    "latitude": 51.0438574,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

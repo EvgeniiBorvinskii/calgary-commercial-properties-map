@@ -1,0 +1,36 @@
+{
+  "id": "13681846",
+  "fullDetails": {
+    "licenseNumber": "13681846",
+    "name": "HULL ESTATES",
+    "address": "1200 6 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2016-06-04T05:34:09.000Z",
+    "expiryDate": "2026-06-03T05:34:09.000Z",
+    "coordinates": [
+      -114.0757825,
+      51.0414018
+    ],
+    "longitude": -114.0757825,
+    "latitude": 51.0414018,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

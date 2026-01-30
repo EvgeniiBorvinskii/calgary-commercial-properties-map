@@ -1,0 +1,36 @@
+{
+  "id": "16360836",
+  "fullDetails": {
+    "licenseNumber": "16360836",
+    "name": "PROACTIVE CHIROPRACTIC AND WELLNESS CLINIC",
+    "address": "#409 1640 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-15T09:16:22.000Z",
+    "expiryDate": "2026-08-14T09:16:22.000Z",
+    "coordinates": [
+      -114.0993342,
+      51.0672069
+    ],
+    "longitude": -114.0993342,
+    "latitude": 51.0672069,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

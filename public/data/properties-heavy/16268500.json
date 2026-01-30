@@ -1,0 +1,36 @@
+{
+  "id": "16268500",
+  "fullDetails": {
+    "licenseNumber": "16268500",
+    "name": "COLLECTORS CLUB (THE)",
+    "address": "#1 908 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-04-28T15:17:36.000Z",
+    "expiryDate": "2026-04-27T15:17:35.000Z",
+    "coordinates": [
+      -114.0825372,
+      51.0380062
+    ],
+    "longitude": -114.0825372,
+    "latitude": 51.0380062,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

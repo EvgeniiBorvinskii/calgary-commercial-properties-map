@@ -1,0 +1,36 @@
+{
+  "id": "16113938",
+  "fullDetails": {
+    "licenseNumber": "16113938",
+    "name": "XPERTS AUTO SALES",
+    "address": "#2 5410 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-09T11:52:57.000Z",
+    "expiryDate": "2026-02-08T11:52:57.000Z",
+    "coordinates": [
+      -113.9570104,
+      51.0382212
+    ],
+    "longitude": -113.9570104,
+    "latitude": 51.0382212,
+    "community": "PENBROOKE MEADOWS",
+    "ward": "PEN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

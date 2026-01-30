@@ -1,0 +1,37 @@
+{
+  "id": "14537609",
+  "fullDetails": {
+    "licenseNumber": "14537609",
+    "name": "QUESADA BURRITOS & TACOS",
+    "address": "#2020 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-06-27T14:01:57.000Z",
+    "expiryDate": "2026-06-26T14:01:57.000Z",
+    "coordinates": [
+      -114.1082299,
+      51.1747747
+    ],
+    "longitude": -114.1082299,
+    "latitude": 51.1747747,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

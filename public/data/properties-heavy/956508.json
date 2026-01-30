@@ -1,0 +1,36 @@
+{
+  "id": "956508",
+  "fullDetails": {
+    "licenseNumber": "956508",
+    "name": "WESTJET AIRLINES / WESTJET STORE (THE)",
+    "address": "22 AERIAL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-01-13T05:46:31.000Z",
+    "expiryDate": "2027-01-12T05:46:31.000Z",
+    "coordinates": [
+      -114.0074988,
+      51.1212931
+    ],
+    "longitude": -114.0074988,
+    "latitude": 51.1212931,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

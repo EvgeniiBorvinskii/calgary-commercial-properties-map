@@ -1,0 +1,36 @@
+{
+  "id": "16159915",
+  "fullDetails": {
+    "licenseNumber": "16159915",
+    "name": "PETROPOLITAN (THE)",
+    "address": "#133 131 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-16T10:21:16.000Z",
+    "expiryDate": "2026-06-15T10:21:16.000Z",
+    "coordinates": [
+      -114.0624644,
+      51.0440938
+    ],
+    "longitude": -114.0624644,
+    "latitude": 51.0440938,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

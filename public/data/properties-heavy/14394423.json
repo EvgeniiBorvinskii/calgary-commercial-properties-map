@@ -1,0 +1,36 @@
+{
+  "id": "14394423",
+  "fullDetails": {
+    "licenseNumber": "14394423",
+    "name": "AMBASSADOR BARBER SHOP",
+    "address": "3464 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-02-16T15:09:58.000Z",
+    "expiryDate": "2027-02-15T15:09:58.000Z",
+    "coordinates": [
+      -113.9849341,
+      51.0382901
+    ],
+    "longitude": -113.9849341,
+    "latitude": 51.0382901,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

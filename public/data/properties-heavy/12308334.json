@@ -1,0 +1,36 @@
+{
+  "id": "12308334",
+  "fullDetails": {
+    "licenseNumber": "12308334",
+    "name": "C B SUPPLIES",
+    "address": "6922 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-10-06T09:17:05.000Z",
+    "expiryDate": "2026-10-05T09:17:05.000Z",
+    "coordinates": [
+      -113.9344513,
+      50.9602458
+    ],
+    "longitude": -113.9344513,
+    "latitude": 50.9602458,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

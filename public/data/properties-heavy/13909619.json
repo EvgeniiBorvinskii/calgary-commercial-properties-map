@@ -1,0 +1,37 @@
+{
+  "id": "13909619",
+  "fullDetails": {
+    "licenseNumber": "13909619",
+    "name": "BLACK POWDER SOLUTIONS",
+    "address": "4344 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-04-12T05:33:20.000Z",
+    "expiryDate": "2026-04-11T05:33:20.000Z",
+    "coordinates": [
+      -114.0335559,
+      51.014675
+    ],
+    "longitude": -114.0335559,
+    "latitude": 51.014675,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16005589",
+  "fullDetails": {
+    "licenseNumber": "16005589",
+    "name": "HEALING BUDDHA THAI MASSAGE",
+    "address": "#400 628 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-06T11:41:58.000Z",
+    "expiryDate": "2026-09-05T11:41:57.000Z",
+    "coordinates": [
+      -114.0758349,
+      51.0420487
+    ],
+    "longitude": -114.0758349,
+    "latitude": 51.0420487,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

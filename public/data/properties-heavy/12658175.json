@@ -1,0 +1,37 @@
+{
+  "id": "12658175",
+  "fullDetails": {
+    "licenseNumber": "12658175",
+    "name": "VERTIGO-SOLUTIONS FOR WORK AT HEIGHT",
+    "address": "3060 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-09-21T05:33:12.000Z",
+    "expiryDate": "2026-09-20T05:33:11.000Z",
+    "coordinates": [
+      -114.0381956,
+      51.0273237
+    ],
+    "longitude": -114.0381956,
+    "latitude": 51.0273237,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

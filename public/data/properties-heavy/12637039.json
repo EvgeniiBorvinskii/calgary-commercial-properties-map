@@ -1,0 +1,36 @@
+{
+  "id": "12637039",
+  "fullDetails": {
+    "licenseNumber": "12637039",
+    "name": "YELLOW DOG TRUCKING",
+    "address": "6463 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-06-27T10:19:49.000Z",
+    "expiryDate": "2026-06-26T10:19:49.000Z",
+    "coordinates": [
+      -113.9413478,
+      50.9752692
+    ],
+    "longitude": -113.9413478,
+    "latitude": 50.9752692,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

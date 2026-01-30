@@ -1,0 +1,36 @@
+{
+  "id": "241653",
+  "fullDetails": {
+    "licenseNumber": "241653",
+    "name": "COFFEE CONNECTION (THE)",
+    "address": "#3 401 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-02-28T05:33:12.000Z",
+    "expiryDate": "2026-02-28T05:33:12.000Z",
+    "coordinates": [
+      -113.9876968,
+      51.0556386
+    ],
+    "longitude": -113.9876968,
+    "latitude": 51.0556386,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

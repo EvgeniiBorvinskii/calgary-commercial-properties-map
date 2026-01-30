@@ -1,0 +1,36 @@
+{
+  "id": "13595780",
+  "fullDetails": {
+    "licenseNumber": "13595780",
+    "name": "FIDO",
+    "address": "#125 971 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-28T08:35:31.000Z",
+    "expiryDate": "2026-07-27T08:35:30.000Z",
+    "coordinates": [
+      -114.0402218,
+      51.1100869
+    ],
+    "longitude": -114.0402218,
+    "latitude": 51.1100869,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

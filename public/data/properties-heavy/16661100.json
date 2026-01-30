@@ -1,0 +1,36 @@
+{
+  "id": "16661100",
+  "fullDetails": {
+    "licenseNumber": "16661100",
+    "name": "AMPERE CAFÉ",
+    "address": "#R 141 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-09-05T08:09:41.000Z",
+    "expiryDate": "2026-09-04T08:09:41.000Z",
+    "coordinates": [
+      -114.0627174,
+      51.0076024
+    ],
+    "longitude": -114.0627174,
+    "latitude": 51.0076024,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

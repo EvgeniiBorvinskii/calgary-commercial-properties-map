@@ -1,0 +1,36 @@
+{
+  "id": "14453492",
+  "fullDetails": {
+    "licenseNumber": "14453492",
+    "name": "MEDISTAR SKYVIEW WALK-IN CLINIC DENTAL AND PHARMACY",
+    "address": "#180 5305 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-05-02T16:18:04.000Z",
+    "expiryDate": "2026-05-01T16:18:04.000Z",
+    "coordinates": [
+      -113.9571688,
+      51.1549505
+    ],
+    "longitude": -113.9571688,
+    "latitude": 51.1549505,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

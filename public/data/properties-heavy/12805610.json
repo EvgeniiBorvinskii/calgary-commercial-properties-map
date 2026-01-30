@@ -1,0 +1,36 @@
+{
+  "id": "12805610",
+  "fullDetails": {
+    "licenseNumber": "12805610",
+    "name": "5 STAR AUTO GLASS",
+    "address": "4650 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2010-04-12T12:53:33.000Z",
+    "expiryDate": "2026-04-11T12:53:33.000Z",
+    "coordinates": [
+      -114.0642381,
+      51.0115562
+    ],
+    "longitude": -114.0642381,
+    "latitude": 51.0115562,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

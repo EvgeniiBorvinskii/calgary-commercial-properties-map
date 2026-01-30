@@ -1,0 +1,36 @@
+{
+  "id": "12437521",
+  "fullDetails": {
+    "licenseNumber": "12437521",
+    "name": "PIANO GALLERY",
+    "address": "#6 8989 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-04-04T07:44:58.000Z",
+    "expiryDate": "2026-04-03T07:44:58.000Z",
+    "coordinates": [
+      -114.0725813,
+      50.9735988
+    ],
+    "longitude": -114.0725813,
+    "latitude": 50.9735988,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

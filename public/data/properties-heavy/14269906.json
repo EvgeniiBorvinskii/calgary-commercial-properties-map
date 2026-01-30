@@ -1,0 +1,37 @@
+{
+  "id": "14269906",
+  "fullDetails": {
+    "licenseNumber": "14269906",
+    "name": "MINI STOP SMOKE & COFFEE",
+    "address": "700 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-08-17T09:13:34.000Z",
+    "expiryDate": "2026-08-16T09:13:34.000Z",
+    "coordinates": [
+      -114.0623587,
+      51.0460031
+    ],
+    "longitude": -114.0623587,
+    "latitude": 51.0460031,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

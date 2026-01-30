@@ -1,0 +1,36 @@
+{
+  "id": "952093",
+  "fullDetails": {
+    "licenseNumber": "952093",
+    "name": "DOUGLAS SQUARE*CHIROPRACTIC CLINIC",
+    "address": "#140 11520 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-29T00:00:00.000Z",
+    "coordinates": [
+      -114.0002312,
+      50.9515132
+    ],
+    "longitude": -114.0002312,
+    "latitude": 50.9515132,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

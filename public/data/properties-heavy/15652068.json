@@ -1,0 +1,36 @@
+{
+  "id": "15652068",
+  "fullDetails": {
+    "licenseNumber": "15652068",
+    "name": "SKYVIEW PLACE BUILDING #1000",
+    "address": "#1000 73 SKYVIEW POINT CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-10-29T09:32:23.000Z",
+    "expiryDate": "2026-10-28T09:32:23.000Z",
+    "coordinates": [
+      -113.9545594,
+      51.1642123
+    ],
+    "longitude": -113.9545594,
+    "latitude": 51.1642123,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

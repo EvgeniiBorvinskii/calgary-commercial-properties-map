@@ -1,0 +1,36 @@
+{
+  "id": "13898945",
+  "fullDetails": {
+    "licenseNumber": "13898945",
+    "name": "RING ROAD RECYCLING",
+    "address": "6710 90 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "pending",
+    "issuedDate": "2024-03-04T13:23:01.000Z",
+    "expiryDate": "2026-03-03T13:23:01.000Z",
+    "coordinates": [
+      -113.9378521,
+      50.9739788
+    ],
+    "longitude": -113.9378521,
+    "latitude": 50.9739788,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

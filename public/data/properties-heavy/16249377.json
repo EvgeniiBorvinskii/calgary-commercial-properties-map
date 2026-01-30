@@ -1,0 +1,36 @@
+{
+  "id": "16249377",
+  "fullDetails": {
+    "licenseNumber": "16249377",
+    "name": "HERSCHEL SUPPLY CO",
+    "address": "#166 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-02T16:19:18.000Z",
+    "expiryDate": "2026-06-01T16:19:18.000Z",
+    "coordinates": [
+      -114.0739787,
+      50.9987846
+    ],
+    "longitude": -114.0739787,
+    "latitude": 50.9987846,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

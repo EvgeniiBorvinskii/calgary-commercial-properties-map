@@ -1,0 +1,36 @@
+{
+  "id": "16003147",
+  "fullDetails": {
+    "licenseNumber": "16003147",
+    "name": "PURE WATER COMPANY",
+    "address": "#216 2835 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-04-08T15:01:36.000Z",
+    "expiryDate": "2026-04-07T15:01:35.000Z",
+    "coordinates": [
+      -114.0054543,
+      51.0780976
+    ],
+    "longitude": -114.0054543,
+    "latitude": 51.0780976,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

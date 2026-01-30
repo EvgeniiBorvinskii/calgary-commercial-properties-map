@@ -1,0 +1,36 @@
+{
+  "id": "14083554",
+  "fullDetails": {
+    "licenseNumber": "14083554",
+    "name": "CALGARY INTERIORS",
+    "address": "3635 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-01-15T11:22:46.000Z",
+    "expiryDate": "2027-01-14T11:22:46.000Z",
+    "coordinates": [
+      -114.0573752,
+      51.0220935
+    ],
+    "longitude": -114.0573752,
+    "latitude": 51.0220935,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

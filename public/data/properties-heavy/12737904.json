@@ -1,0 +1,36 @@
+{
+  "id": "12737904",
+  "fullDetails": {
+    "licenseNumber": "12737904",
+    "name": "HORTON RV SERVICES",
+    "address": "#3 9510 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2009-04-22T07:52:16.000Z",
+    "expiryDate": "2026-04-21T07:52:16.000Z",
+    "coordinates": [
+      -113.896284,
+      50.9510814
+    ],
+    "longitude": -113.896284,
+    "latitude": 50.9510814,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

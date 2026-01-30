@@ -1,0 +1,36 @@
+{
+  "id": "12953675",
+  "fullDetails": {
+    "licenseNumber": "12953675",
+    "name": "CHOICE SERVICES",
+    "address": "#1 5958 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-09-29T14:48:21.000Z",
+    "expiryDate": "2026-09-28T14:48:21.000Z",
+    "coordinates": [
+      -113.9841365,
+      51.0001462
+    ],
+    "longitude": -113.9841365,
+    "latitude": 51.0001462,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

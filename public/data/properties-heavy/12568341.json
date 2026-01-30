@@ -1,0 +1,36 @@
+{
+  "id": "12568341",
+  "fullDetails": {
+    "licenseNumber": "12568341",
+    "name": "HARDWARE UNLIMITED",
+    "address": "#45 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2010-03-18T10:33:23.000Z",
+    "expiryDate": "2026-03-17T10:33:23.000Z",
+    "coordinates": [
+      -113.9750256,
+      51.0049477
+    ],
+    "longitude": -113.9750256,
+    "latitude": 51.0049477,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

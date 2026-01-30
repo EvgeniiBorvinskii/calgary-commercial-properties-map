@@ -1,0 +1,36 @@
+{
+  "id": "16605677",
+  "fullDetails": {
+    "licenseNumber": "16605677",
+    "name": "DENTXPRESS",
+    "address": "#400 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP (MOBILE DENT REPAIR)",
+    "licenseTypes": "AUTO BODY SHOP (MOBILE DENT REPAIR)",
+    "status": "in_progress",
+    "issuedDate": "2025-04-24T10:08:04.000Z",
+    "expiryDate": "2026-04-23T10:08:03.000Z",
+    "coordinates": [
+      -114.0704303,
+      50.976664
+    ],
+    "longitude": -114.0704303,
+    "latitude": 50.976664,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

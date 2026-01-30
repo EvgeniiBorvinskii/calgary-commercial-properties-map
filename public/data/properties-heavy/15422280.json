@@ -1,0 +1,36 @@
+{
+  "id": "15422280",
+  "fullDetails": {
+    "licenseNumber": "15422280",
+    "name": "MILA NAILS & SPA",
+    "address": "#234 66 SANDARAC DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2019-04-26T12:38:08.000Z",
+    "expiryDate": "2026-04-25T12:38:08.000Z",
+    "coordinates": [
+      -114.099207,
+      51.133814
+    ],
+    "longitude": -114.099207,
+    "latitude": 51.133814,
+    "community": "SANDSTONE VALLEY",
+    "ward": "SAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13701818",
+  "fullDetails": {
+    "licenseNumber": "13701818",
+    "name": "WRAPTOR SIGNS AND GRAPHICS",
+    "address": "#113 11769 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-10-30T15:36:40.000Z",
+    "expiryDate": "2026-10-29T15:36:40.000Z",
+    "coordinates": [
+      -113.9782137,
+      50.9452702
+    ],
+    "longitude": -113.9782137,
+    "latitude": 50.9452702,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

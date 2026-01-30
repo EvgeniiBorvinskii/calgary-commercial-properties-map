@@ -1,0 +1,36 @@
+{
+  "id": "14600605",
+  "fullDetails": {
+    "licenseNumber": "14600605",
+    "name": "GREENFOX WINDOWS & DOORS",
+    "address": "5720 BURBANK CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-08-27T15:29:45.000Z",
+    "expiryDate": "2026-08-26T15:29:45.000Z",
+    "coordinates": [
+      -114.0472028,
+      51.003653
+    ],
+    "longitude": -114.0472028,
+    "latitude": 51.003653,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

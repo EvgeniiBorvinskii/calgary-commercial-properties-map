@@ -1,0 +1,36 @@
+{
+  "id": "12604732",
+  "fullDetails": {
+    "licenseNumber": "12604732",
+    "name": "LITTLE SHOP OF PLEASURES",
+    "address": "6411A BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-10-03T16:02:32.000Z",
+    "expiryDate": "2026-10-02T16:02:32.000Z",
+    "coordinates": [
+      -114.1807328,
+      51.085721
+    ],
+    "longitude": -114.1807328,
+    "latitude": 51.085721,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

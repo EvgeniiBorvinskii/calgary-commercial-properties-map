@@ -1,0 +1,36 @@
+{
+  "id": "12963856",
+  "fullDetails": {
+    "licenseNumber": "12963856",
+    "name": "FLIPSIDE TATTOOS",
+    "address": "#213 1803 60 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2022-08-22T15:57:08.000Z",
+    "expiryDate": "2026-08-21T15:57:08.000Z",
+    "coordinates": [
+      -113.9477734,
+      51.0374353
+    ],
+    "longitude": -113.9477734,
+    "latitude": 51.0374353,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

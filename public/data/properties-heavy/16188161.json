@@ -1,0 +1,36 @@
+{
+  "id": "16188161",
+  "fullDetails": {
+    "licenseNumber": "16188161",
+    "name": "BROKEN STONES DEVELOPMENT",
+    "address": "#1218 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-04-22T10:19:12.000Z",
+    "expiryDate": "2026-04-21T10:19:12.000Z",
+    "coordinates": [
+      -114.2067203,
+      51.1527903
+    ],
+    "longitude": -114.2067203,
+    "latitude": 51.1527903,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

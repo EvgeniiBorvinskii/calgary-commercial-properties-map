@@ -1,0 +1,36 @@
+{
+  "id": "55335",
+  "fullDetails": {
+    "licenseNumber": "55335",
+    "name": "CAPITAL INDUSTRIAL SALES & SERVICE",
+    "address": "3504 66 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-02T00:00:00.000Z",
+    "coordinates": [
+      -113.9840057,
+      50.9944335
+    ],
+    "longitude": -113.9840057,
+    "latitude": 50.9944335,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

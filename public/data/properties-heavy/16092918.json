@@ -1,0 +1,36 @@
+{
+  "id": "16092918",
+  "fullDetails": {
+    "licenseNumber": "16092918",
+    "name": "ZL EOR CHEMICALS",
+    "address": "#185 8655 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-07-13T08:33:38.000Z",
+    "expiryDate": "2026-07-12T08:33:38.000Z",
+    "coordinates": [
+      -113.9791954,
+      51.1309956
+    ],
+    "longitude": -113.9791954,
+    "latitude": 51.1309956,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

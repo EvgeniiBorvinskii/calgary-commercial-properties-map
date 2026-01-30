@@ -1,0 +1,45 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js - ВКЛЮЧАЕМ .next в репозиторий (готовый build)
+# /.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# temporary files
+*.tar.gz
+*.zip
+*-temp.conf
+rebuild-server.sh
+server-rebuild.sh
+fix-rebuild.sh
+reset-password-rescue.sh
+deploy-*.ps1
+quick-deploy.ps1

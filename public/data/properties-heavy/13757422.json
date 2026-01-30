@@ -1,0 +1,37 @@
+{
+  "id": "13757422",
+  "fullDetails": {
+    "licenseNumber": "13757422",
+    "name": "SERVPRO OF CALGARY SOUTH",
+    "address": "5730 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-02-01T08:57:33.000Z",
+    "expiryDate": "2027-01-31T08:57:33.000Z",
+    "coordinates": [
+      -114.0447192,
+      51.0031549
+    ],
+    "longitude": -114.0447192,
+    "latitude": 51.0031549,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

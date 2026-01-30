@@ -1,0 +1,36 @@
+{
+  "id": "16390528",
+  "fullDetails": {
+    "licenseNumber": "16390528",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "address": "#850 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-11-03T16:07:31.000Z",
+    "expiryDate": "2026-11-02T16:07:31.000Z",
+    "coordinates": [
+      -113.9406338,
+      51.1547324
+    ],
+    "longitude": -113.9406338,
+    "latitude": 51.1547324,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

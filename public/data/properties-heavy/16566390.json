@@ -1,0 +1,36 @@
+{
+  "id": "16566390",
+  "fullDetails": {
+    "licenseNumber": "16566390",
+    "name": "MOUNT CARMEL GROUP",
+    "address": "#500 5940 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-02T09:37:42.000Z",
+    "expiryDate": "2026-12-01T09:37:41.000Z",
+    "coordinates": [
+      -114.0700957,
+      51.0004979
+    ],
+    "longitude": -114.0700957,
+    "latitude": 51.0004979,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

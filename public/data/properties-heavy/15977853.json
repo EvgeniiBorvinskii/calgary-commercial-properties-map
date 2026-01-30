@@ -1,0 +1,36 @@
+{
+  "id": "15977853",
+  "fullDetails": {
+    "licenseNumber": "15977853",
+    "name": "SIGNSPLUSCNC",
+    "address": "#9 3320 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-03-03T15:10:23.000Z",
+    "expiryDate": "2026-03-02T15:10:23.000Z",
+    "coordinates": [
+      -113.9865289,
+      51.0657041
+    ],
+    "longitude": -113.9865289,
+    "latitude": 51.0657041,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14918957",
+  "fullDetails": {
+    "licenseNumber": "14918957",
+    "name": "GOODFOOD MARKET",
+    "address": "#165 572 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-11T10:04:51.000Z",
+    "expiryDate": "2026-05-10T10:04:50.000Z",
+    "coordinates": [
+      -114.032658,
+      51.134965
+    ],
+    "longitude": -114.032658,
+    "latitude": 51.134965,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

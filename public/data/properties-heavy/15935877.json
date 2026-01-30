@@ -1,0 +1,36 @@
+{
+  "id": "15935877",
+  "fullDetails": {
+    "licenseNumber": "15935877",
+    "name": "HEMLOCK TATTOO",
+    "address": "#1 1111 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2020-09-18T09:08:45.000Z",
+    "expiryDate": "2026-09-17T09:08:45.000Z",
+    "coordinates": [
+      -114.0562237,
+      51.0413509
+    ],
+    "longitude": -114.0562237,
+    "latitude": 51.0413509,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "558007",
+  "fullDetails": {
+    "licenseNumber": "558007",
+    "name": "BOOKSTORE U OF C",
+    "address": "#170N 2500 UNIVERSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-15T00:00:00.000Z",
+    "coordinates": [
+      -114.128642,
+      51.0745912
+    ],
+    "longitude": -114.128642,
+    "latitude": 51.0745912,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

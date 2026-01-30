@@ -1,0 +1,37 @@
+{
+  "id": "789792",
+  "fullDetails": {
+    "licenseNumber": "789792",
+    "name": "THERMO DESIGN INSULATION",
+    "address": "#26 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "DISTRIBUTION MANAGER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-12-06T13:31:03.000Z",
+    "expiryDate": "2026-12-05T13:31:03.000Z",
+    "coordinates": [
+      -113.9705129,
+      50.9523815
+    ],
+    "longitude": -113.9705129,
+    "latitude": 50.9523815,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

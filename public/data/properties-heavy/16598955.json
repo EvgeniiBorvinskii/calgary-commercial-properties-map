@@ -1,0 +1,37 @@
+{
+  "id": "16598955",
+  "fullDetails": {
+    "licenseNumber": "16598955",
+    "name": "UNIVERSAL HEALTH PHARMACY 4 RANCHLANDS",
+    "address": "#137 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-03-05T15:34:38.000Z",
+    "expiryDate": "2027-03-04T15:34:37.000Z",
+    "coordinates": [
+      -114.1975235,
+      51.1229993
+    ],
+    "longitude": -114.1975235,
+    "latitude": 51.1229993,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

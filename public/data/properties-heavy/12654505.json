@@ -1,0 +1,36 @@
+{
+  "id": "12654505",
+  "fullDetails": {
+    "licenseNumber": "12654505",
+    "name": "BLINK EYEWEAR",
+    "address": "#1009 873 85 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-05-09T06:51:36.000Z",
+    "expiryDate": "2026-05-08T06:51:36.000Z",
+    "coordinates": [
+      -114.2117041,
+      51.0598824
+    ],
+    "longitude": -114.2117041,
+    "latitude": 51.0598824,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

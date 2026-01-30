@@ -1,0 +1,36 @@
+{
+  "id": "498154",
+  "fullDetails": {
+    "licenseNumber": "498154",
+    "name": "DRAIN DOCTOR THE",
+    "address": "5610 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-12-07T04:37:17.000Z",
+    "expiryDate": "2026-12-05T05:43:43.000Z",
+    "coordinates": [
+      -113.9636228,
+      51.0025175
+    ],
+    "longitude": -113.9636228,
+    "latitude": 51.0025175,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

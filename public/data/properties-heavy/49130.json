@@ -1,0 +1,36 @@
+{
+  "id": "49130",
+  "fullDetails": {
+    "licenseNumber": "49130",
+    "name": "AK BROWN",
+    "address": "10707 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2018-11-29T05:30:39.000Z",
+    "expiryDate": "2026-11-28T05:30:39.000Z",
+    "coordinates": [
+      -113.9623002,
+      50.9573261
+    ],
+    "longitude": -113.9623002,
+    "latitude": 50.9573261,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

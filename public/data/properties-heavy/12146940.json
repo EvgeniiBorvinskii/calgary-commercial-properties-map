@@ -1,0 +1,37 @@
+{
+  "id": "12146940",
+  "fullDetails": {
+    "licenseNumber": "12146940",
+    "name": "LEAVITT MACHINERY",
+    "address": "#20 55 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-02-24T05:31:53.000Z",
+    "expiryDate": "2027-02-23T05:31:52.000Z",
+    "coordinates": [
+      -113.9094659,
+      50.9645611
+    ],
+    "longitude": -113.9094659,
+    "latitude": 50.9645611,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "303263",
+  "fullDetails": {
+    "licenseNumber": "303263",
+    "name": "MARKET MALL SHOPPING CENTRE",
+    "address": "3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "MARKET,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-11T00:00:00.000Z",
+    "coordinates": [
+      -114.1553545,
+      51.0847399
+    ],
+    "longitude": -114.1553545,
+    "latitude": 51.0847399,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

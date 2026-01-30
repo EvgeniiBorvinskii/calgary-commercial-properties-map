@@ -1,0 +1,36 @@
+{
+  "id": "16241374",
+  "fullDetails": {
+    "licenseNumber": "16241374",
+    "name": "CREPE DELICIOUS CAFE",
+    "address": "#2CCK 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-02-23T13:25:32.000Z",
+    "expiryDate": "2026-02-22T13:25:32.000Z",
+    "coordinates": [
+      -114.0665886,
+      50.9524807
+    ],
+    "longitude": -114.0665886,
+    "latitude": 50.9524807,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

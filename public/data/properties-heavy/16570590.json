@@ -1,0 +1,37 @@
+{
+  "id": "16570590",
+  "fullDetails": {
+    "licenseNumber": "16570590",
+    "name": "UNIMED SKINCARE AND NAILS",
+    "address": "#130 5049 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-05T15:44:40.000Z",
+    "expiryDate": "2026-03-04T15:44:39.000Z",
+    "coordinates": [
+      -114.1423282,
+      51.0981329
+    ],
+    "longitude": -114.1423282,
+    "latitude": 51.0981329,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

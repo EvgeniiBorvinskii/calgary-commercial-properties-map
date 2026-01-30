@@ -1,0 +1,37 @@
+{
+  "id": "46425",
+  "fullDetails": {
+    "licenseNumber": "46425",
+    "name": "ABACAL ALTA",
+    "address": "5919 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "AUTO BODY SHOP,",
+    "licenseTypes": "MANUFACTURER,\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-24T00:00:00.000Z",
+    "coordinates": [
+      -113.913835,
+      51.000964
+    ],
+    "longitude": -113.913835,
+    "latitude": 51.000964,
+    "community": "STARFIELD EAST",
+    "ward": "STE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

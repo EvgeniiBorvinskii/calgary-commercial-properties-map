@@ -1,0 +1,36 @@
+{
+  "id": "15897069",
+  "fullDetails": {
+    "licenseNumber": "15897069",
+    "name": "PANAGO PIZZA",
+    "address": "#221 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-19T14:38:21.000Z",
+    "expiryDate": "2026-05-18T14:38:21.000Z",
+    "coordinates": [
+      -113.9851685,
+      51.082156
+    ],
+    "longitude": -113.9851685,
+    "latitude": 51.082156,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

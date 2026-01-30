@@ -1,0 +1,36 @@
+{
+  "id": "851907",
+  "fullDetails": {
+    "licenseNumber": "851907",
+    "name": "THURO",
+    "address": "4772 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-08-26T11:31:44.000Z",
+    "expiryDate": "2026-08-25T11:31:44.000Z",
+    "coordinates": [
+      -113.9660114,
+      51.009459
+    ],
+    "longitude": -113.9660114,
+    "latitude": 51.009459,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13409313",
+  "fullDetails": {
+    "licenseNumber": "13409313",
+    "name": "CENTRIX CONTROL SOLUTIONS",
+    "address": "#1A 8515 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2012-03-15T05:59:15.000Z",
+    "expiryDate": "2026-03-14T05:59:15.000Z",
+    "coordinates": [
+      -113.9651528,
+      50.9771655
+    ],
+    "longitude": -113.9651528,
+    "latitude": 50.9771655,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13997739",
+  "fullDetails": {
+    "licenseNumber": "13997739",
+    "name": "D & T PLUMBING",
+    "address": "#10 11410 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-09-15T05:31:10.000Z",
+    "expiryDate": "2026-09-14T05:31:10.000Z",
+    "coordinates": [
+      -113.9943968,
+      50.9536982
+    ],
+    "longitude": -113.9943968,
+    "latitude": 50.9536982,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

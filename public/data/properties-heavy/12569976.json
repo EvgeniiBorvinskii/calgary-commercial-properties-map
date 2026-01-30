@@ -1,0 +1,37 @@
+{
+  "id": "12569976",
+  "fullDetails": {
+    "licenseNumber": "12569976",
+    "name": "BEE BEE NAILS & SPA",
+    "address": "#A 313 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-05-25T08:18:27.000Z",
+    "expiryDate": "2026-05-24T08:18:27.000Z",
+    "coordinates": [
+      -114.1058627,
+      51.0548395
+    ],
+    "longitude": -114.1058627,
+    "latitude": 51.0548395,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12174470",
+  "fullDetails": {
+    "licenseNumber": "12174470",
+    "name": "GLOBAL LIQUOR STORE #2",
+    "address": "#101 7248 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2003-02-12T05:34:42.000Z",
+    "expiryDate": "2026-02-11T05:34:42.000Z",
+    "coordinates": [
+      -113.9982518,
+      50.9871388
+    ],
+    "longitude": -113.9982518,
+    "latitude": 50.9871388,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

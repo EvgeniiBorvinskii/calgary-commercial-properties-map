@@ -1,0 +1,37 @@
+{
+  "id": "12961173",
+  "fullDetails": {
+    "licenseNumber": "12961173",
+    "name": "BEST SERVICE PROS",
+    "address": "#11 3700 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "subType": "CLEANING SERVICE (COMMERCIAL ONLY),",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nCLEANING SERVICE (COMMERCIAL ONLY),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-07-20T08:09:02.000Z",
+    "expiryDate": "2026-07-19T08:09:02.000Z",
+    "coordinates": [
+      -113.9809037,
+      50.9830073
+    ],
+    "longitude": -113.9809037,
+    "latitude": 50.9830073,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

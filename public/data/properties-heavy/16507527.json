@@ -1,0 +1,36 @@
+{
+  "id": "16507527",
+  "fullDetails": {
+    "licenseNumber": "16507527",
+    "name": "ZEN RESIDENTIAL",
+    "address": "1055 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-02-03T11:22:17.000Z",
+    "expiryDate": "2027-02-02T11:22:16.000Z",
+    "coordinates": [
+      -114.0896412,
+      51.0433986
+    ],
+    "longitude": -114.0896412,
+    "latitude": 51.0433986,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

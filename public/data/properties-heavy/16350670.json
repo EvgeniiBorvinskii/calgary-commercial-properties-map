@@ -1,0 +1,37 @@
+{
+  "id": "16350670",
+  "fullDetails": {
+    "licenseNumber": "16350670",
+    "name": "WINKS",
+    "address": "#1 4415 MEMORIAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-26T09:27:19.000Z",
+    "expiryDate": "2026-07-25T09:27:19.000Z",
+    "coordinates": [
+      -113.9710045,
+      51.0524022
+    ],
+    "longitude": -113.9710045,
+    "latitude": 51.0524022,
+    "community": "FOREST HEIGHTS",
+    "ward": "FHT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

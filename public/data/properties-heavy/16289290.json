@@ -1,0 +1,37 @@
+{
+  "id": "16289290",
+  "fullDetails": {
+    "licenseNumber": "16289290",
+    "name": "CARRINGTON SHELL",
+    "address": "123 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-27T15:08:49.000Z",
+    "expiryDate": "2026-07-26T15:08:49.000Z",
+    "coordinates": [
+      -114.0939891,
+      51.1822889
+    ],
+    "longitude": -114.0939891,
+    "latitude": 51.1822889,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14388896",
+  "fullDetails": {
+    "licenseNumber": "14388896",
+    "name": "FIELDSTUDY GOODS",
+    "address": "#102 1812 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-24T08:21:06.000Z",
+    "expiryDate": "2026-11-23T08:21:06.000Z",
+    "coordinates": [
+      -114.0713169,
+      51.0366127
+    ],
+    "longitude": -114.0713169,
+    "latitude": 51.0366127,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

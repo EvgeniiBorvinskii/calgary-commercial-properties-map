@@ -1,0 +1,36 @@
+{
+  "id": "16283376",
+  "fullDetails": {
+    "licenseNumber": "16283376",
+    "name": "JO MALONE",
+    "address": "#1161 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-04-20T13:09:50.000Z",
+    "expiryDate": "2026-04-19T13:09:50.000Z",
+    "coordinates": [
+      -114.073258,
+      51.0000331
+    ],
+    "longitude": -114.073258,
+    "latitude": 51.0000331,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

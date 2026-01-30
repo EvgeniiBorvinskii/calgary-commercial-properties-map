@@ -1,0 +1,36 @@
+{
+  "id": "13351119",
+  "fullDetails": {
+    "licenseNumber": "13351119",
+    "name": "CERATEC",
+    "address": "5885 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-06T15:26:27.000Z",
+    "expiryDate": "2026-12-05T15:26:27.000Z",
+    "coordinates": [
+      -113.9614771,
+      51.0003121
+    ],
+    "longitude": -113.9614771,
+    "latitude": 51.0003121,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

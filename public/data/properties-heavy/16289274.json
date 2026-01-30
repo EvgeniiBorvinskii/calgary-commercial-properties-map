@@ -1,0 +1,37 @@
+{
+  "id": "16289274",
+  "fullDetails": {
+    "licenseNumber": "16289274",
+    "name": "CREEKSIDE SHELL",
+    "address": "12550 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2023-04-11T13:18:08.000Z",
+    "expiryDate": "2026-04-10T13:18:08.000Z",
+    "coordinates": [
+      -114.1296975,
+      51.1661927
+    ],
+    "longitude": -114.1296975,
+    "latitude": 51.1661927,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

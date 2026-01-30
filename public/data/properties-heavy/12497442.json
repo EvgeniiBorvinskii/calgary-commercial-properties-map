@@ -1,0 +1,37 @@
+{
+  "id": "12497442",
+  "fullDetails": {
+    "licenseNumber": "12497442",
+    "name": "GREEN INGENUITY",
+    "address": "1266 73 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2020-09-03T12:28:10.000Z",
+    "expiryDate": "2026-09-02T12:28:10.000Z",
+    "coordinates": [
+      -114.0373886,
+      50.988528
+    ],
+    "longitude": -114.0373886,
+    "latitude": 50.988528,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

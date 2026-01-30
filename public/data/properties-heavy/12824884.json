@@ -1,0 +1,36 @@
+{
+  "id": "12824884",
+  "fullDetails": {
+    "licenseNumber": "12824884",
+    "name": "STERICYCLE",
+    "address": "#8 8009 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-06-27T15:31:18.000Z",
+    "expiryDate": "2026-06-26T15:31:17.000Z",
+    "coordinates": [
+      -113.947465,
+      50.9810275
+    ],
+    "longitude": -113.947465,
+    "latitude": 50.9810275,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

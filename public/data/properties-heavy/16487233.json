@@ -1,0 +1,36 @@
+{
+  "id": "16487233",
+  "fullDetails": {
+    "licenseNumber": "16487233",
+    "name": "LIQUOR LEGENDS",
+    "address": "#6B 4100 MARLBOROUGH DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-05-16T08:26:13.000Z",
+    "expiryDate": "2026-05-15T08:26:13.000Z",
+    "coordinates": [
+      -113.9743285,
+      51.0598549
+    ],
+    "longitude": -113.9743285,
+    "latitude": 51.0598549,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

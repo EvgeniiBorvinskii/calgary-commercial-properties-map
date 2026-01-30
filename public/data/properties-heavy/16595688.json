@@ -1,0 +1,37 @@
+{
+  "id": "16595688",
+  "fullDetails": {
+    "licenseNumber": "16595688",
+    "name": "PIMLICO BAR",
+    "address": "#101 524 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2025-03-18T15:19:47.000Z",
+    "expiryDate": "2026-03-17T15:19:46.000Z",
+    "coordinates": [
+      -114.0729344,
+      51.0379876
+    ],
+    "longitude": -114.0729344,
+    "latitude": 51.0379876,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

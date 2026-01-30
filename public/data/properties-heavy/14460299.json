@@ -1,0 +1,36 @@
+{
+  "id": "14460299",
+  "fullDetails": {
+    "licenseNumber": "14460299",
+    "name": "KIEWIT CONSTRUCTION SERVICES",
+    "address": "#200 10333 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-08-02T15:15:27.000Z",
+    "expiryDate": "2026-08-01T15:15:27.000Z",
+    "coordinates": [
+      -114.0732752,
+      50.9629504
+    ],
+    "longitude": -114.0732752,
+    "latitude": 50.9629504,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

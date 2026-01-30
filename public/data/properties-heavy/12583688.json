@@ -1,0 +1,37 @@
+{
+  "id": "12583688",
+  "fullDetails": {
+    "licenseNumber": "12583688",
+    "name": "URBAN EXPRESSIONS WHEEL & TIRES",
+    "address": "#6 1303 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-12-02T05:49:41.000Z",
+    "expiryDate": "2026-12-01T05:49:41.000Z",
+    "coordinates": [
+      -114.0321372,
+      51.0915611
+    ],
+    "longitude": -114.0321372,
+    "latitude": 51.0915611,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

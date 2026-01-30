@@ -1,0 +1,36 @@
+{
+  "id": "169995",
+  "fullDetails": {
+    "licenseNumber": "169995",
+    "name": "NATIONAL TRANSMISSION",
+    "address": "402 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-12-06T13:23:45.000Z",
+    "expiryDate": "2026-12-05T13:23:45.000Z",
+    "coordinates": [
+      -114.0943346,
+      51.0551361
+    ],
+    "longitude": -114.0943346,
+    "latitude": 51.0551361,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

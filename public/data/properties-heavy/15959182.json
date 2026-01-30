@@ -1,0 +1,36 @@
+{
+  "id": "15959182",
+  "fullDetails": {
+    "licenseNumber": "15959182",
+    "name": "NK PURE ESTHETICS",
+    "address": "#2 5268 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2020-11-24T13:50:17.000Z",
+    "expiryDate": "2026-11-23T13:50:17.000Z",
+    "coordinates": [
+      -113.9566345,
+      51.0537938
+    ],
+    "longitude": -113.9566345,
+    "latitude": 51.0537938,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

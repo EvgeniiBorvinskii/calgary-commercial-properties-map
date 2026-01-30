@@ -1,0 +1,36 @@
+{
+  "id": "13911326",
+  "fullDetails": {
+    "licenseNumber": "13911326",
+    "name": "MASTER PIANO SERVICE",
+    "address": "#12A 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2015-02-02T14:40:18.000Z",
+    "expiryDate": "2027-02-01T14:40:18.000Z",
+    "coordinates": [
+      -114.0002914,
+      51.0502634
+    ],
+    "longitude": -114.0002914,
+    "latitude": 51.0502634,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

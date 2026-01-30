@@ -1,0 +1,37 @@
+{
+  "id": "14255152",
+  "fullDetails": {
+    "licenseNumber": "14255152",
+    "name": "IMPRESSIONS AUTOMOTIVE",
+    "address": "2430 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nAUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-09-07T11:34:05.000Z",
+    "expiryDate": "2026-09-06T11:34:05.000Z",
+    "coordinates": [
+      -114.0025483,
+      51.0071864
+    ],
+    "longitude": -114.0025483,
+    "latitude": 51.0071864,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

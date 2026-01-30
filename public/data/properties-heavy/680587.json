@@ -1,0 +1,36 @@
+{
+  "id": "680587",
+  "fullDetails": {
+    "licenseNumber": "680587",
+    "name": "MAPLE REINDERS CONSTRUCTORS",
+    "address": "#205 32 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-06-18T05:32:19.000Z",
+    "expiryDate": "2026-06-17T05:32:19.000Z",
+    "coordinates": [
+      -114.2020989,
+      51.151246
+    ],
+    "longitude": -114.2020989,
+    "latitude": 51.151246,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

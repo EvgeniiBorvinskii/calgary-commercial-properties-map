@@ -1,0 +1,37 @@
+{
+  "id": "16225393",
+  "fullDetails": {
+    "licenseNumber": "16225393",
+    "name": "PRIDE KITCHEN CABINETS",
+    "address": "#2152 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-11-30T11:36:39.000Z",
+    "expiryDate": "2026-11-29T11:36:39.000Z",
+    "coordinates": [
+      -113.9804827,
+      51.1003398
+    ],
+    "longitude": -113.9804827,
+    "latitude": 51.1003398,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

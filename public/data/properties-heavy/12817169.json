@@ -1,0 +1,36 @@
+{
+  "id": "12817169",
+  "fullDetails": {
+    "licenseNumber": "12817169",
+    "name": "ICE RIVER SPRINGS WATER CO",
+    "address": "7120 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-09-09T08:14:34.000Z",
+    "expiryDate": "2026-09-08T08:14:34.000Z",
+    "coordinates": [
+      -113.9811895,
+      50.9919178
+    ],
+    "longitude": -113.9811895,
+    "latitude": 50.9919178,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

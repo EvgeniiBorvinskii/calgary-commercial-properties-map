@@ -1,0 +1,36 @@
+{
+  "id": "16116980",
+  "fullDetails": {
+    "licenseNumber": "16116980",
+    "name": "AVENUE LIVING",
+    "address": "25 GLENGROVE CL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-04-25T09:50:52.000Z",
+    "expiryDate": "2026-04-24T09:50:52.000Z",
+    "coordinates": [
+      -114.1629784,
+      51.0243981
+    ],
+    "longitude": -114.1629784,
+    "latitude": 51.0243981,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

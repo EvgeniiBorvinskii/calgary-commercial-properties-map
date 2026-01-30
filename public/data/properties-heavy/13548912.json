@@ -1,0 +1,36 @@
+{
+  "id": "13548912",
+  "fullDetails": {
+    "licenseNumber": "13548912",
+    "name": "BATH & BODY WORKS",
+    "address": "#144 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-10-02T05:45:59.000Z",
+    "expiryDate": "2026-10-01T05:45:59.000Z",
+    "coordinates": [
+      -113.9855194,
+      51.0740229
+    ],
+    "longitude": -113.9855194,
+    "latitude": 51.0740229,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

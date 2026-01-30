@@ -1,0 +1,36 @@
+{
+  "id": "16302234",
+  "fullDetails": {
+    "licenseNumber": "16302234",
+    "name": "DEERWOOD CUSTOM MILLWORK",
+    "address": "#9 1935 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-05-16T15:58:52.000Z",
+    "expiryDate": "2026-05-15T15:58:51.000Z",
+    "coordinates": [
+      -114.0124598,
+      51.0793296
+    ],
+    "longitude": -114.0124598,
+    "latitude": 51.0793296,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

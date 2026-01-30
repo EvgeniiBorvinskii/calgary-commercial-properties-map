@@ -1,0 +1,36 @@
+{
+  "id": "16177057",
+  "fullDetails": {
+    "licenseNumber": "16177057",
+    "name": "YORK CONSTRUCTION",
+    "address": "#210 333 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-25T15:52:05.000Z",
+    "expiryDate": "2026-08-24T15:52:04.000Z",
+    "coordinates": [
+      -114.0694302,
+      51.0421495
+    ],
+    "longitude": -114.0694302,
+    "latitude": 51.0421495,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

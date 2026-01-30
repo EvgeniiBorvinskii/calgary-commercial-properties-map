@@ -1,0 +1,36 @@
+{
+  "id": "12142394",
+  "fullDetails": {
+    "licenseNumber": "12142394",
+    "name": "THERMAE CENTER FOR ADVANCED AESTHETICS",
+    "address": "#210 4723 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-05-30T11:35:23.000Z",
+    "expiryDate": "2026-05-29T11:35:23.000Z",
+    "coordinates": [
+      -114.0660856,
+      51.0101662
+    ],
+    "longitude": -114.0660856,
+    "latitude": 51.0101662,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

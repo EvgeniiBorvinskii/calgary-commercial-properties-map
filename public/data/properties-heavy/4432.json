@@ -1,0 +1,36 @@
+{
+  "id": "4432",
+  "fullDetails": {
+    "licenseNumber": "4432",
+    "name": "FAIR DEAL FURNITURE",
+    "address": "2023 34 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-07-12T17:19:58.000Z",
+    "expiryDate": "2026-07-11T05:32:02.000Z",
+    "coordinates": [
+      -113.9861386,
+      51.0695968
+    ],
+    "longitude": -113.9861386,
+    "latitude": 51.0695968,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

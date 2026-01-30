@@ -1,0 +1,36 @@
+{
+  "id": "16482317",
+  "fullDetails": {
+    "licenseNumber": "16482317",
+    "name": "ROY WHOLESALE",
+    "address": "#124 10770 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-06-10T10:02:43.000Z",
+    "expiryDate": "2026-06-09T10:02:43.000Z",
+    "coordinates": [
+      -113.9949601,
+      51.1528631
+    ],
+    "longitude": -113.9949601,
+    "latitude": 51.1528631,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

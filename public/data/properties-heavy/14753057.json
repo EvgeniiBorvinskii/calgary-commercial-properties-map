@@ -1,0 +1,36 @@
+{
+  "id": "14753057",
+  "fullDetails": {
+    "licenseNumber": "14753057",
+    "name": "HEAVY SQUAD MECHANICAL",
+    "address": "#1110 4316 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2018-03-15T09:24:09.000Z",
+    "expiryDate": "2026-03-14T09:24:09.000Z",
+    "coordinates": [
+      -113.9733747,
+      50.9968598
+    ],
+    "longitude": -113.9733747,
+    "latitude": 50.9968598,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

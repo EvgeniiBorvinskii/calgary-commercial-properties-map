@@ -1,0 +1,36 @@
+{
+  "id": "16198947",
+  "fullDetails": {
+    "licenseNumber": "16198947",
+    "name": "FLAMINGO+ CANNABIS TRINITY HILLS",
+    "address": "420 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2024-04-05T13:10:16.000Z",
+    "expiryDate": "2026-04-04T13:10:16.000Z",
+    "coordinates": [
+      -114.2074485,
+      51.0820291
+    ],
+    "longitude": -114.2074485,
+    "latitude": 51.0820291,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12605895",
+  "fullDetails": {
+    "licenseNumber": "12605895",
+    "name": "JSCO CONSTRUCTION",
+    "address": "#8 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2015-04-08T10:59:57.000Z",
+    "expiryDate": "2026-04-07T10:59:57.000Z",
+    "coordinates": [
+      -114.0375256,
+      51.1040706
+    ],
+    "longitude": -114.0375256,
+    "latitude": 51.1040706,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

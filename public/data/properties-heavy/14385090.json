@@ -1,0 +1,36 @@
+{
+  "id": "14385090",
+  "fullDetails": {
+    "licenseNumber": "14385090",
+    "name": "GINGER BEEF EXPRESS",
+    "address": "#5 16 MACEWAN DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-11-23T10:14:59.000Z",
+    "expiryDate": "2026-11-22T10:14:59.000Z",
+    "coordinates": [
+      -114.1084883,
+      51.1353761
+    ],
+    "longitude": -114.1084883,
+    "latitude": 51.1353761,
+    "community": "MACEWAN GLEN",
+    "ward": "MAC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

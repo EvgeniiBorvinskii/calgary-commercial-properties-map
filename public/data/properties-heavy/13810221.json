@@ -1,0 +1,36 @@
+{
+  "id": "13810221",
+  "fullDetails": {
+    "licenseNumber": "13810221",
+    "name": "CHAPARRAL VETERINARY CLINIC",
+    "address": "#220 803 CHAPARRAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-03-18T12:49:15.000Z",
+    "expiryDate": "2026-03-17T12:49:15.000Z",
+    "coordinates": [
+      -114.0355456,
+      50.8777844
+    ],
+    "longitude": -114.0355456,
+    "latitude": 50.8777844,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12321568",
+  "fullDetails": {
+    "licenseNumber": "12321568",
+    "name": "LONDON DRUGS STORE #68",
+    "address": "#500 8888 COUNTRY HILLS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-09-24T12:58:17.000Z",
+    "expiryDate": "2026-09-23T12:58:17.000Z",
+    "coordinates": [
+      -114.2150618,
+      51.1537565
+    ],
+    "longitude": -114.2150618,
+    "latitude": 51.1537565,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

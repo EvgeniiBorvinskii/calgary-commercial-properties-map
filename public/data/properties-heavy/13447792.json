@@ -1,0 +1,36 @@
+{
+  "id": "13447792",
+  "fullDetails": {
+    "licenseNumber": "13447792",
+    "name": "RAPID 3D",
+    "address": "#5 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-03-07T09:11:38.000Z",
+    "expiryDate": "2026-03-06T09:11:38.000Z",
+    "coordinates": [
+      -114.0404861,
+      51.1052793
+    ],
+    "longitude": -114.0404861,
+    "latitude": 51.1052793,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

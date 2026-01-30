@@ -1,0 +1,36 @@
+{
+  "id": "16204430",
+  "fullDetails": {
+    "licenseNumber": "16204430",
+    "name": "MILLENNIUM BUILDING AND CONSTRUCTION",
+    "address": "4529 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-04T12:39:36.000Z",
+    "expiryDate": "2026-03-03T12:39:35.000Z",
+    "coordinates": [
+      -114.0627091,
+      51.0127867
+    ],
+    "longitude": -114.0627091,
+    "latitude": 51.0127867,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

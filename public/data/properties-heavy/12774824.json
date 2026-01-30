@@ -1,0 +1,36 @@
+{
+  "id": "12774824",
+  "fullDetails": {
+    "licenseNumber": "12774824",
+    "name": "CORE DRILLING",
+    "address": "#14 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-01-26T10:33:35.000Z",
+    "expiryDate": "2027-01-25T10:33:35.000Z",
+    "coordinates": [
+      -113.9016113,
+      50.9629374
+    ],
+    "longitude": -113.9016113,
+    "latitude": 50.9629374,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

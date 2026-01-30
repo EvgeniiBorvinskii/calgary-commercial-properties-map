@@ -1,0 +1,36 @@
+{
+  "id": "16693418",
+  "fullDetails": {
+    "licenseNumber": "16693418",
+    "name": "DIAMOND AUTO",
+    "address": "10857 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-11-20T08:03:58.000Z",
+    "expiryDate": "2026-11-19T08:03:58.000Z",
+    "coordinates": [
+      -113.9122717,
+      50.9574023
+    ],
+    "longitude": -113.9122717,
+    "latitude": 50.9574023,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

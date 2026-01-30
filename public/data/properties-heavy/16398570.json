@@ -1,0 +1,36 @@
+{
+  "id": "16398570",
+  "fullDetails": {
+    "licenseNumber": "16398570",
+    "name": "BOSS TATTOOS WALK - IN STUDIO",
+    "address": "1331 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-10-27T08:55:58.000Z",
+    "expiryDate": "2026-10-26T08:55:57.000Z",
+    "coordinates": [
+      -114.032526,
+      51.0404185
+    ],
+    "longitude": -114.032526,
+    "latitude": 51.0404185,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

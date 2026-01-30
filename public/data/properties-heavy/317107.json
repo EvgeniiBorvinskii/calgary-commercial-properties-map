@@ -1,0 +1,36 @@
+{
+  "id": "317107",
+  "fullDetails": {
+    "licenseNumber": "317107",
+    "name": "UNITED SECURITY SYSTEMS*",
+    "address": "#200 3515 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-06T00:00:00.000Z",
+    "coordinates": [
+      -113.9894821,
+      51.0845511
+    ],
+    "longitude": -113.9894821,
+    "latitude": 51.0845511,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

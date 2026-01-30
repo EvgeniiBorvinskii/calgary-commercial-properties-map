@@ -1,0 +1,36 @@
+{
+  "id": "12270765",
+  "fullDetails": {
+    "licenseNumber": "12270765",
+    "name": "CRAFTED WOODWORKS",
+    "address": "#124 5726 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2004-04-01T09:59:36.000Z",
+    "expiryDate": "2026-03-31T09:59:36.000Z",
+    "coordinates": [
+      -114.0428863,
+      51.0032675
+    ],
+    "longitude": -114.0428863,
+    "latitude": 51.0032675,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

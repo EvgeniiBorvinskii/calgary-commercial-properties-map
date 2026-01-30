@@ -1,0 +1,36 @@
+{
+  "id": "33761",
+  "fullDetails": {
+    "licenseNumber": "33761",
+    "name": "LYNCO INTERIOR SERVICES",
+    "address": "4046 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-10-11T08:25:52.000Z",
+    "expiryDate": "2026-10-10T08:25:52.000Z",
+    "coordinates": [
+      -113.979941,
+      50.9672808
+    ],
+    "longitude": -113.979941,
+    "latitude": 50.9672808,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

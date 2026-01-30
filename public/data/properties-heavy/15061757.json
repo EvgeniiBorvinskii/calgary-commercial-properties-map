@@ -1,0 +1,36 @@
+{
+  "id": "15061757",
+  "fullDetails": {
+    "licenseNumber": "15061757",
+    "name": "AWAIS'S TRUCK CENTER",
+    "address": "4315 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-10-19T11:19:39.000Z",
+    "expiryDate": "2026-10-18T11:19:39.000Z",
+    "coordinates": [
+      -113.9736374,
+      50.9890456
+    ],
+    "longitude": -113.9736374,
+    "latitude": 50.9890456,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

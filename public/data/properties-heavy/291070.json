@@ -1,0 +1,36 @@
+{
+  "id": "291070",
+  "fullDetails": {
+    "licenseNumber": "291070",
+    "name": "PETE THE PLUMBER",
+    "address": "#14 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-06-23T09:44:11.000Z",
+    "expiryDate": "2026-06-22T09:44:11.000Z",
+    "coordinates": [
+      -113.9705134,
+      50.9521467
+    ],
+    "longitude": -113.9705134,
+    "latitude": 50.9521467,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

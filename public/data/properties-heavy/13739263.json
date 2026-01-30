@@ -1,0 +1,36 @@
+{
+  "id": "13739263",
+  "fullDetails": {
+    "licenseNumber": "13739263",
+    "name": "CRAMER AUTOMOTIVE REPAIR",
+    "address": "4610 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-10-01T14:51:57.000Z",
+    "expiryDate": "2026-09-30T14:51:57.000Z",
+    "coordinates": [
+      -114.0326961,
+      51.0937215
+    ],
+    "longitude": -114.0326961,
+    "latitude": 51.0937215,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

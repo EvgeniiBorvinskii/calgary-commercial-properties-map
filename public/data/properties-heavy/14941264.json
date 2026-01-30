@@ -1,0 +1,36 @@
+{
+  "id": "14941264",
+  "fullDetails": {
+    "licenseNumber": "14941264",
+    "name": "RUJIA HOME INN",
+    "address": "86 ROYAL RIDGE RI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2018-11-05T10:46:53.000Z",
+    "expiryDate": "2026-11-04T10:46:53.000Z",
+    "coordinates": [
+      -114.2212698,
+      51.1417841
+    ],
+    "longitude": -114.2212698,
+    "latitude": 51.1417841,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

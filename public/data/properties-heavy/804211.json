@@ -1,0 +1,36 @@
+{
+  "id": "804211",
+  "fullDetails": {
+    "licenseNumber": "804211",
+    "name": "BENNETT GLASS",
+    "address": "#14 2305 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-09-18T14:00:42.000Z",
+    "expiryDate": "2026-09-17T14:00:42.000Z",
+    "coordinates": [
+      -114.0061195,
+      51.0060958
+    ],
+    "longitude": -114.0061195,
+    "latitude": 51.0060958,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

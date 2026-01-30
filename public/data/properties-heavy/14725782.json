@@ -1,0 +1,37 @@
+{
+  "id": "14725782",
+  "fullDetails": {
+    "licenseNumber": "14725782",
+    "name": "SHAWNESSY PHARMACY",
+    "address": "#138 70 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-12-04T13:57:34.000Z",
+    "expiryDate": "2026-12-03T13:57:34.000Z",
+    "coordinates": [
+      -114.0657021,
+      50.9065661
+    ],
+    "longitude": -114.0657021,
+    "latitude": 50.9065661,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

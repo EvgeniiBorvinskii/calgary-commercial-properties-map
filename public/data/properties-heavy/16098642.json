@@ -1,0 +1,36 @@
+{
+  "id": "16098642",
+  "fullDetails": {
+    "licenseNumber": "16098642",
+    "name": "MASTER SOAP MAKERS",
+    "address": "6927 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-01-07T07:50:43.000Z",
+    "expiryDate": "2027-01-06T07:50:43.000Z",
+    "coordinates": [
+      -113.9649002,
+      50.9938059
+    ],
+    "longitude": -113.9649002,
+    "latitude": 50.9938059,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

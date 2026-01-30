@@ -1,0 +1,36 @@
+{
+  "id": "16023798",
+  "fullDetails": {
+    "licenseNumber": "16023798",
+    "name": "RELOCATE STRESS FREE",
+    "address": "6812 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-06-22T11:37:40.000Z",
+    "expiryDate": "2026-06-21T11:37:40.000Z",
+    "coordinates": [
+      -113.9830665,
+      50.9929966
+    ],
+    "longitude": -113.9830665,
+    "latitude": 50.9929966,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

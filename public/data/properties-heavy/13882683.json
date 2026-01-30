@@ -1,0 +1,36 @@
+{
+  "id": "13882683",
+  "fullDetails": {
+    "licenseNumber": "13882683",
+    "name": "COLZ ELECTRIC",
+    "address": "1305 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-03-27T13:57:08.000Z",
+    "expiryDate": "2026-03-26T13:57:07.000Z",
+    "coordinates": [
+      -114.0342478,
+      51.0138135
+    ],
+    "longitude": -114.0342478,
+    "latitude": 51.0138135,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

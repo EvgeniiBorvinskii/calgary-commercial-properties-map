@@ -1,0 +1,36 @@
+{
+  "id": "16258832",
+  "fullDetails": {
+    "licenseNumber": "16258832",
+    "name": "XING FU TANG",
+    "address": "#120 25 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-12-19T14:25:36.000Z",
+    "expiryDate": "2026-12-18T14:25:35.000Z",
+    "coordinates": [
+      -114.0458449,
+      50.9855405
+    ],
+    "longitude": -114.0458449,
+    "latitude": 50.9855405,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

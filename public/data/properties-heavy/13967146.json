@@ -1,0 +1,36 @@
+{
+  "id": "13967146",
+  "fullDetails": {
+    "licenseNumber": "13967146",
+    "name": "A TEAM AUTOMOTIVE",
+    "address": "#110 3303 57 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-06-06T15:14:49.000Z",
+    "expiryDate": "2026-06-05T15:14:49.000Z",
+    "coordinates": [
+      -113.9905753,
+      51.0021465
+    ],
+    "longitude": -113.9905753,
+    "latitude": 51.0021465,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

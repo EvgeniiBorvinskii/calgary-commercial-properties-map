@@ -1,0 +1,36 @@
+{
+  "id": "15865009",
+  "fullDetails": {
+    "licenseNumber": "15865009",
+    "name": "MARQUEE MANUFACTURING",
+    "address": "1038 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2020-02-05T10:38:50.000Z",
+    "expiryDate": "2026-02-04T10:38:49.000Z",
+    "coordinates": [
+      -114.0858914,
+      51.0465375
+    ],
+    "longitude": -114.0858914,
+    "latitude": 51.0465375,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

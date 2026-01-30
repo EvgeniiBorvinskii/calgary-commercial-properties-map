@@ -1,0 +1,36 @@
+{
+  "id": "16568214",
+  "fullDetails": {
+    "licenseNumber": "16568214",
+    "name": "HEAL WELLNESS",
+    "address": "803 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-23T13:52:30.000Z",
+    "expiryDate": "2026-06-22T13:52:30.000Z",
+    "coordinates": [
+      -114.0658321,
+      51.0453615
+    ],
+    "longitude": -114.0658321,
+    "latitude": 51.0453615,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

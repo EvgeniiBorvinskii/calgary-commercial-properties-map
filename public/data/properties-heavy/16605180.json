@@ -1,0 +1,36 @@
+{
+  "id": "16605180",
+  "fullDetails": {
+    "licenseNumber": "16605180",
+    "name": "MI CHURRO (CGY-1933)",
+    "address": "248 TREMBLANT HT SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-21T08:25:12.000Z",
+    "expiryDate": "2026-05-20T08:25:11.000Z",
+    "coordinates": [
+      -114.2208118,
+      51.0370501
+    ],
+    "longitude": -114.2208118,
+    "latitude": 51.0370501,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

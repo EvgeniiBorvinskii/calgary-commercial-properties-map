@@ -1,0 +1,37 @@
+{
+  "id": "14203293",
+  "fullDetails": {
+    "licenseNumber": "14203293",
+    "name": "CAFFE TRIESTE",
+    "address": "#310 751 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-06-23T10:04:02.000Z",
+    "expiryDate": "2026-06-22T10:04:02.000Z",
+    "coordinates": [
+      -114.0709501,
+      51.0462411
+    ],
+    "longitude": -114.0709501,
+    "latitude": 51.0462411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

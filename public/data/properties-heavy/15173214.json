@@ -1,0 +1,36 @@
+{
+  "id": "15173214",
+  "fullDetails": {
+    "licenseNumber": "15173214",
+    "name": "MOUNTAIN CREEK FARMS",
+    "address": "3410B OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-02-14T05:32:56.000Z",
+    "expiryDate": "2026-02-13T05:32:56.000Z",
+    "coordinates": [
+      -114.0287253,
+      51.0245344
+    ],
+    "longitude": -114.0287253,
+    "latitude": 51.0245344,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12313334",
+  "fullDetails": {
+    "licenseNumber": "12313334",
+    "name": "PROFESSIONAL POWER WASH",
+    "address": "#2 624C BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2004-10-05T05:31:44.000Z",
+    "expiryDate": "2026-10-04T05:31:44.000Z",
+    "coordinates": [
+      -114.0501381,
+      51.1019305
+    ],
+    "longitude": -114.0501381,
+    "latitude": 51.1019305,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

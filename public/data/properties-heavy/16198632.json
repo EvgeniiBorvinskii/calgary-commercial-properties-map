@@ -1,0 +1,36 @@
+{
+  "id": "16198632",
+  "fullDetails": {
+    "licenseNumber": "16198632",
+    "name": "HEARINGLIFE",
+    "address": "#303 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-24T05:34:56.000Z",
+    "expiryDate": "2026-08-23T05:34:56.000Z",
+    "coordinates": [
+      -114.0686899,
+      50.943759
+    ],
+    "longitude": -114.0686899,
+    "latitude": 50.943759,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14228696",
+  "fullDetails": {
+    "licenseNumber": "14228696",
+    "name": "SMARTECH COMPUTERS & PHOTO",
+    "address": "#4101 230 EVERSYDE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PHOTOGRAPHER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-07-21T14:24:38.000Z",
+    "expiryDate": "2026-07-20T14:24:38.000Z",
+    "coordinates": [
+      -114.1100943,
+      50.9084552
+    ],
+    "longitude": -114.1100943,
+    "latitude": 50.9084552,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

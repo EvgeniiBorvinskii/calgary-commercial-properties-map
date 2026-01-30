@@ -1,0 +1,36 @@
+{
+  "id": "15898299",
+  "fullDetails": {
+    "licenseNumber": "15898299",
+    "name": "BANKVIEW 1711",
+    "address": "1711 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2020-07-16T15:54:21.000Z",
+    "expiryDate": "2026-07-15T15:54:21.000Z",
+    "coordinates": [
+      -114.1003338,
+      51.0302123
+    ],
+    "longitude": -114.1003338,
+    "latitude": 51.0302123,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

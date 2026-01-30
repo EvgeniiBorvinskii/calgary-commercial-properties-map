@@ -1,0 +1,36 @@
+{
+  "id": "15929433",
+  "fullDetails": {
+    "licenseNumber": "15929433",
+    "name": "MK COMMERCIAL",
+    "address": "7705 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2020-09-30T13:23:26.000Z",
+    "expiryDate": "2026-09-29T13:23:26.000Z",
+    "coordinates": [
+      -114.0692269,
+      50.9843707
+    ],
+    "longitude": -114.0692269,
+    "latitude": 50.9843707,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

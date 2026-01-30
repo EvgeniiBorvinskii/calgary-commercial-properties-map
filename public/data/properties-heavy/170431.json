@@ -1,0 +1,37 @@
+{
+  "id": "170431",
+  "fullDetails": {
+    "licenseNumber": "170431",
+    "name": "CENTRAL UNITED CHURCH",
+    "address": "131 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0650346,
+      51.0462898
+    ],
+    "longitude": -114.0650346,
+    "latitude": 51.0462898,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

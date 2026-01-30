@@ -1,0 +1,37 @@
+{
+  "id": "12145579",
+  "fullDetails": {
+    "licenseNumber": "12145579",
+    "name": "HERRINGER KISS GALLERY",
+    "address": "#101 1615 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-28T05:33:34.000Z",
+    "expiryDate": "2026-12-27T05:33:34.000Z",
+    "coordinates": [
+      -114.0976505,
+      51.0440064
+    ],
+    "longitude": -114.0976505,
+    "latitude": 51.0440064,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

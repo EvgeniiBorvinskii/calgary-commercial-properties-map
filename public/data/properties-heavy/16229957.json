@@ -1,0 +1,36 @@
+{
+  "id": "16229957",
+  "fullDetails": {
+    "licenseNumber": "16229957",
+    "name": "PORTRAIT (THE)",
+    "address": "224 14 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-10T11:23:13.000Z",
+    "expiryDate": "2026-03-09T11:23:13.000Z",
+    "coordinates": [
+      -114.0601251,
+      51.0396074
+    ],
+    "longitude": -114.0601251,
+    "latitude": 51.0396074,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

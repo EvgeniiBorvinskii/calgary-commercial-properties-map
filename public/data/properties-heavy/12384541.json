@@ -1,0 +1,37 @@
+{
+  "id": "12384541",
+  "fullDetails": {
+    "licenseNumber": "12384541",
+    "name": "HARD ROCK CONCRETE SUPPLIES",
+    "address": "422 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-02-21T16:01:49.000Z",
+    "expiryDate": "2027-02-20T16:01:49.000Z",
+    "coordinates": [
+      -114.0545431,
+      51.0115204
+    ],
+    "longitude": -114.0545431,
+    "latitude": 51.0115204,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16525818",
+  "fullDetails": {
+    "licenseNumber": "16525818",
+    "name": "EDIBLE ARRANGEMENTS",
+    "address": "#309 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-03T15:56:56.000Z",
+    "expiryDate": "2026-10-02T15:56:55.000Z",
+    "coordinates": [
+      -114.0569857,
+      51.1554363
+    ],
+    "longitude": -114.0569857,
+    "latitude": 51.1554363,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

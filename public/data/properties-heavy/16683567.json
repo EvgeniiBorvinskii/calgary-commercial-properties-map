@@ -1,0 +1,36 @@
+{
+  "id": "16683567",
+  "fullDetails": {
+    "licenseNumber": "16683567",
+    "name": "DOSA GRILL",
+    "address": "#6 13750 BOW BOTTOM TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-10T14:06:58.000Z",
+    "expiryDate": "2026-10-09T14:06:58.000Z",
+    "coordinates": [
+      -114.0304183,
+      50.9289358
+    ],
+    "longitude": -114.0304183,
+    "latitude": 50.9289358,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16708851",
+  "fullDetails": {
+    "licenseNumber": "16708851",
+    "name": "JDM TINT YYC",
+    "address": "#6 4041 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-12-02T16:25:04.000Z",
+    "expiryDate": "2026-12-01T16:25:03.000Z",
+    "coordinates": [
+      -113.9809945,
+      50.9874838
+    ],
+    "longitude": -113.9809945,
+    "latitude": 50.9874838,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

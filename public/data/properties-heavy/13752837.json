@@ -1,0 +1,36 @@
+{
+  "id": "13752837",
+  "fullDetails": {
+    "licenseNumber": "13752837",
+    "name": "WINTER",
+    "address": "#106 3316 RIDEAU PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2016-11-07T11:27:05.000Z",
+    "expiryDate": "2026-11-06T11:27:05.000Z",
+    "coordinates": [
+      -114.071727,
+      51.0239489
+    ],
+    "longitude": -114.071727,
+    "latitude": 51.0239489,
+    "community": "RIDEAU PARK",
+    "ward": "RID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

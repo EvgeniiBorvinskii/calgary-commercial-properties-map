@@ -1,0 +1,36 @@
+{
+  "id": "13987912",
+  "fullDetails": {
+    "licenseNumber": "13987912",
+    "name": "EYE Q OPTOMETRY",
+    "address": "3314 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-08-13T10:31:44.000Z",
+    "expiryDate": "2026-08-12T10:31:44.000Z",
+    "coordinates": [
+      -114.1345003,
+      51.0379985
+    ],
+    "longitude": -114.1345003,
+    "latitude": 51.0379985,
+    "community": "SHAGANAPPI",
+    "ward": "SHG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

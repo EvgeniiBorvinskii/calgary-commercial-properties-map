@@ -1,0 +1,37 @@
+{
+  "id": "13815907",
+  "fullDetails": {
+    "licenseNumber": "13815907",
+    "name": "DIESEL TRUCK REPAIR",
+    "address": "#18 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-06-05T14:29:04.000Z",
+    "expiryDate": "2026-06-04T14:29:04.000Z",
+    "coordinates": [
+      -113.9014974,
+      50.9629373
+    ],
+    "longitude": -113.9014974,
+    "latitude": 50.9629373,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

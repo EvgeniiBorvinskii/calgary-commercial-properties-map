@@ -1,0 +1,37 @@
+{
+  "id": "16194896",
+  "fullDetails": {
+    "licenseNumber": "16194896",
+    "name": "MY TOOL SHOP",
+    "address": "#8 3434 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-12-13T09:12:08.000Z",
+    "expiryDate": "2026-12-12T09:12:08.000Z",
+    "coordinates": [
+      -113.9867033,
+      51.0841079
+    ],
+    "longitude": -113.9867033,
+    "latitude": 51.0841079,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

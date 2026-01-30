@@ -1,0 +1,37 @@
+{
+  "id": "16371494",
+  "fullDetails": {
+    "licenseNumber": "16371494",
+    "name": "WILLOW CAKE AND BAKE",
+    "address": "#123 1323 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-11T13:11:03.000Z",
+    "expiryDate": "2026-12-10T13:11:03.000Z",
+    "coordinates": [
+      -114.0628063,
+      51.0639242
+    ],
+    "longitude": -114.0628063,
+    "latitude": 51.0639242,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

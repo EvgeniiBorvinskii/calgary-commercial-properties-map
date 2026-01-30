@@ -1,0 +1,36 @@
+{
+  "id": "336768",
+  "fullDetails": {
+    "licenseNumber": "336768",
+    "name": "LTR MECHANICAL",
+    "address": "4405D 75 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-11-27T14:29:30.000Z",
+    "expiryDate": "2026-11-26T14:29:30.000Z",
+    "coordinates": [
+      -113.9725286,
+      50.9868803
+    ],
+    "longitude": -113.9725286,
+    "latitude": 50.9868803,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

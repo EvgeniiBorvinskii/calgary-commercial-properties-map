@@ -1,0 +1,37 @@
+{
+  "id": "12864500",
+  "fullDetails": {
+    "licenseNumber": "12864500",
+    "name": "CRISPY CRUST PIZZERIA",
+    "address": "464B WOODBINE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2010-05-13T14:14:47.000Z",
+    "expiryDate": "2026-05-12T14:14:47.000Z",
+    "coordinates": [
+      -114.1334057,
+      50.9464712
+    ],
+    "longitude": -114.1334057,
+    "latitude": 50.9464712,
+    "community": "WOODBINE",
+    "ward": "WBN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

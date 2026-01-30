@@ -1,0 +1,37 @@
+{
+  "id": "16601080",
+  "fullDetails": {
+    "licenseNumber": "16601080",
+    "name": "OLIVE SOUTH INDIAN CUISINE",
+    "address": "#2134 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-03-28T10:36:47.000Z",
+    "expiryDate": "2026-03-27T10:36:47.000Z",
+    "coordinates": [
+      -113.9804681,
+      51.1517727
+    ],
+    "longitude": -113.9804681,
+    "latitude": 51.1517727,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

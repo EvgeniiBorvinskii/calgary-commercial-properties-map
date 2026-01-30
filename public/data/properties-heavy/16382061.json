@@ -1,0 +1,36 @@
+{
+  "id": "16382061",
+  "fullDetails": {
+    "licenseNumber": "16382061",
+    "name": "URUK ELECTRONIC",
+    "address": "#2 226 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-27T13:46:44.000Z",
+    "expiryDate": "2026-09-26T13:46:44.000Z",
+    "coordinates": [
+      -114.058589,
+      51.0880294
+    ],
+    "longitude": -114.058589,
+    "latitude": 51.0880294,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

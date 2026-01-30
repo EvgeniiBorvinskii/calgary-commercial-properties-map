@@ -1,0 +1,36 @@
+{
+  "id": "16584039",
+  "fullDetails": {
+    "licenseNumber": "16584039",
+    "name": "WEST WIND AUTO REPAIRS",
+    "address": "#601 4655 54 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-02-11T16:18:59.000Z",
+    "expiryDate": "2026-02-10T16:18:58.000Z",
+    "coordinates": [
+      -113.9672313,
+      51.1021052
+    ],
+    "longitude": -113.9672313,
+    "latitude": 51.1021052,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

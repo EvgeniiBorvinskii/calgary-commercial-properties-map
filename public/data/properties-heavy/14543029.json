@@ -1,0 +1,37 @@
+{
+  "id": "14543029",
+  "fullDetails": {
+    "licenseNumber": "14543029",
+    "name": "COUGAR RIDGE LIQUOR FINE WINE & SPIRITS",
+    "address": "#212 677 COUGAR RIDGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2017-09-15T14:54:43.000Z",
+    "expiryDate": "2026-09-14T14:54:43.000Z",
+    "coordinates": [
+      -114.2163417,
+      51.0680772
+    ],
+    "longitude": -114.2163417,
+    "latitude": 51.0680772,
+    "community": "COUGAR RIDGE",
+    "ward": "CGR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

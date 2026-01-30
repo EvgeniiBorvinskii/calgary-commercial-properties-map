@@ -1,0 +1,36 @@
+{
+  "id": "14988315",
+  "fullDetails": {
+    "licenseNumber": "14988315",
+    "name": "CBN COMMERCIAL SOLUTIONS",
+    "address": "2507 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-07-31T10:33:59.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0255456,
+      51.0747865
+    ],
+    "longitude": -114.0255456,
+    "latitude": 51.0747865,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

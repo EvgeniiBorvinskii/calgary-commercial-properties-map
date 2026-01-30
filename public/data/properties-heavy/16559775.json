@@ -1,0 +1,36 @@
+{
+  "id": "16559775",
+  "fullDetails": {
+    "licenseNumber": "16559775",
+    "name": "LUCKY PAWS DOG HOTEL",
+    "address": "#155 12318 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "pending",
+    "issuedDate": "2025-02-14T15:35:04.000Z",
+    "expiryDate": "2026-02-13T15:35:03.000Z",
+    "coordinates": [
+      -113.9926771,
+      51.164483
+    ],
+    "longitude": -113.9926771,
+    "latitude": 51.164483,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

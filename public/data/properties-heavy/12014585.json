@@ -1,0 +1,36 @@
+{
+  "id": "12014585",
+  "fullDetails": {
+    "licenseNumber": "12014585",
+    "name": "S & A NUMISMATICS",
+    "address": "#400 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-09T17:50:46.000Z",
+    "coordinates": [
+      -114.0730094,
+      50.9907317
+    ],
+    "longitude": -114.0730094,
+    "latitude": 50.9907317,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

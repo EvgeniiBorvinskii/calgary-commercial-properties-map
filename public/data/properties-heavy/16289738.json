@@ -1,0 +1,37 @@
+{
+  "id": "16289738",
+  "fullDetails": {
+    "licenseNumber": "16289738",
+    "name": "COSMOS CUSTOMS",
+    "address": "#2 4519 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-02-13T14:00:19.000Z",
+    "expiryDate": "2026-02-12T14:00:19.000Z",
+    "coordinates": [
+      -114.0338325,
+      51.0927205
+    ],
+    "longitude": -114.0338325,
+    "latitude": 51.0927205,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

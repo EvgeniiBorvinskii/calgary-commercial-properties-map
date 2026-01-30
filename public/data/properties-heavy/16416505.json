@@ -1,0 +1,36 @@
+{
+  "id": "16416505",
+  "fullDetails": {
+    "licenseNumber": "16416505",
+    "name": "ENDLESS PROPERTY HOLDINGS",
+    "address": "921 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2024-04-11T12:46:29.000Z",
+    "expiryDate": "2026-04-10T12:46:28.000Z",
+    "coordinates": [
+      -114.0824616,
+      51.0487552
+    ],
+    "longitude": -114.0824616,
+    "latitude": 51.0487552,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

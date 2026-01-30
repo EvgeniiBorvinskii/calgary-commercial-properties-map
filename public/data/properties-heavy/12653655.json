@@ -1,0 +1,36 @@
+{
+  "id": "12653655",
+  "fullDetails": {
+    "licenseNumber": "12653655",
+    "name": "D M H MACHINE TOOLS",
+    "address": "#6 4115 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-11-02T11:31:01.000Z",
+    "expiryDate": "2026-11-01T11:31:01.000Z",
+    "coordinates": [
+      -113.9758391,
+      50.9986053
+    ],
+    "longitude": -113.9758391,
+    "latitude": 50.9986053,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

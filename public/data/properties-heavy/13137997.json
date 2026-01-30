@@ -1,0 +1,36 @@
+{
+  "id": "13137997",
+  "fullDetails": {
+    "licenseNumber": "13137997",
+    "name": "DULUX PAINTS",
+    "address": "#1 4404 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-07-13T05:52:29.000Z",
+    "expiryDate": "2026-07-12T05:52:29.000Z",
+    "coordinates": [
+      -114.0941927,
+      51.0913884
+    ],
+    "longitude": -114.0941927,
+    "latitude": 51.0913884,
+    "community": "NORTH HAVEN",
+    "ward": "NHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

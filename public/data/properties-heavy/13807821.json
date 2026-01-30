@@ -1,0 +1,37 @@
+{
+  "id": "13807821",
+  "fullDetails": {
+    "licenseNumber": "13807821",
+    "name": "HUWE",
+    "address": "#2 3516 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nWHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-09-28T05:34:24.000Z",
+    "expiryDate": "2026-09-27T05:34:24.000Z",
+    "coordinates": [
+      -113.9843369,
+      50.9805178
+    ],
+    "longitude": -113.9843369,
+    "latitude": 50.9805178,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

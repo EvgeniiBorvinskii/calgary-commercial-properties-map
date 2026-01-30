@@ -1,0 +1,36 @@
+{
+  "id": "16127284",
+  "fullDetails": {
+    "licenseNumber": "16127284",
+    "name": "8SIGMA ENERGY SERVICES",
+    "address": "#1 4623 MANILLA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2026-01-09T10:01:23.000Z",
+    "expiryDate": "2027-01-08T10:01:22.000Z",
+    "coordinates": [
+      -114.0513898,
+      51.0117688
+    ],
+    "longitude": -114.0513898,
+    "latitude": 51.0117688,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

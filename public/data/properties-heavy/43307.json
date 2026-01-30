@@ -1,0 +1,36 @@
+{
+  "id": "43307",
+  "fullDetails": {
+    "licenseNumber": "43307",
+    "name": "COLMAN PROSTHETICS & ORTHOTICS",
+    "address": "2540 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-05-02T05:33:50.000Z",
+    "expiryDate": "2026-05-01T05:33:50.000Z",
+    "coordinates": [
+      -114.1198087,
+      51.0572188
+    ],
+    "longitude": -114.1198087,
+    "latitude": 51.0572188,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

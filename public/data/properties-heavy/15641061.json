@@ -1,0 +1,36 @@
+{
+  "id": "15641061",
+  "fullDetails": {
+    "licenseNumber": "15641061",
+    "name": "PARTY CENTRAL",
+    "address": "#26 3434 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-25T14:05:29.000Z",
+    "expiryDate": "2026-09-24T14:05:29.000Z",
+    "coordinates": [
+      -113.9862231,
+      51.0844542
+    ],
+    "longitude": -113.9862231,
+    "latitude": 51.0844542,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

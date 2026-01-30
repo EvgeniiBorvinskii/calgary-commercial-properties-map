@@ -1,0 +1,36 @@
+{
+  "id": "226308",
+  "fullDetails": {
+    "licenseNumber": "226308",
+    "name": "FRANCO'S AQUARIUM & PETS",
+    "address": "#118 1935 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "pending",
+    "issuedDate": "2003-02-06T05:35:19.000Z",
+    "expiryDate": "2026-02-05T05:35:19.000Z",
+    "coordinates": [
+      -114.0128824,
+      51.0811064
+    ],
+    "longitude": -114.0128824,
+    "latitude": 51.0811064,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

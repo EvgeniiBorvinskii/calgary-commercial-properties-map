@@ -1,0 +1,36 @@
+{
+  "id": "12839056",
+  "fullDetails": {
+    "licenseNumber": "12839056",
+    "name": "COCO BROOKS",
+    "address": "#80 5251 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2010-04-17T05:45:15.000Z",
+    "expiryDate": "2026-04-16T05:45:15.000Z",
+    "coordinates": [
+      -113.959725,
+      51.0097157
+    ],
+    "longitude": -113.959725,
+    "latitude": 51.0097157,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

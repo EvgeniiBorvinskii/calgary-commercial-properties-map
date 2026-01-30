@@ -1,0 +1,36 @@
+{
+  "id": "15980758",
+  "fullDetails": {
+    "licenseNumber": "15980758",
+    "name": "RICHELIEU ARCHITECTURAL SPECIALITIES",
+    "address": "#220 10 STONEHILL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-01-30T05:31:29.000Z",
+    "expiryDate": "2027-01-29T05:31:29.000Z",
+    "coordinates": [
+      -114.010161,
+      51.1578994
+    ],
+    "longitude": -114.010161,
+    "latitude": 51.1578994,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

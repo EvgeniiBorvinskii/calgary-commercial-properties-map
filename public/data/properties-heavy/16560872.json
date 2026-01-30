@@ -1,0 +1,36 @@
+{
+  "id": "16560872",
+  "fullDetails": {
+    "licenseNumber": "16560872",
+    "name": "NORTHERN GROUP",
+    "address": "417 2 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-07-22T11:52:45.000Z",
+    "expiryDate": "2026-07-21T11:52:44.000Z",
+    "coordinates": [
+      -114.0532458,
+      51.0541755
+    ],
+    "longitude": -114.0532458,
+    "latitude": 51.0541755,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

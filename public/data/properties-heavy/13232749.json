@@ -1,0 +1,36 @@
+{
+  "id": "13232749",
+  "fullDetails": {
+    "licenseNumber": "13232749",
+    "name": "JP PAINTING",
+    "address": "211 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-07-24T07:31:15.000Z",
+    "expiryDate": "2026-07-23T07:31:15.000Z",
+    "coordinates": [
+      -113.9080621,
+      50.9619581
+    ],
+    "longitude": -113.9080621,
+    "latitude": 50.9619581,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

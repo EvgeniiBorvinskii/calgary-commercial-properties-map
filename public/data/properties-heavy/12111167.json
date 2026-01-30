@@ -1,0 +1,36 @@
+{
+  "id": "12111167",
+  "fullDetails": {
+    "licenseNumber": "12111167",
+    "name": "CALGARY OFFICE CONNECTIONS",
+    "address": "16 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-08-02T17:19:44.000Z",
+    "expiryDate": "2026-08-01T05:32:12.000Z",
+    "coordinates": [
+      -114.0646546,
+      50.9148432
+    ],
+    "longitude": -114.0646546,
+    "latitude": 50.9148432,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

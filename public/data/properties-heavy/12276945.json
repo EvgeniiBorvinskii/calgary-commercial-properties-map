@@ -1,0 +1,36 @@
+{
+  "id": "12276945",
+  "fullDetails": {
+    "licenseNumber": "12276945",
+    "name": "INSUL COVERS",
+    "address": "#6 624A BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-09-26T11:26:13.000Z",
+    "expiryDate": "2026-09-25T11:26:13.000Z",
+    "coordinates": [
+      -114.0495948,
+      51.10306
+    ],
+    "longitude": -114.0495948,
+    "latitude": 51.10306,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

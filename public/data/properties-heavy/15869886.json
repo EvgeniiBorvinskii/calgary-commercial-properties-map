@@ -1,0 +1,36 @@
+{
+  "id": "15869886",
+  "fullDetails": {
+    "licenseNumber": "15869886",
+    "name": "MARSHALLS",
+    "address": "5977 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-27T08:25:45.000Z",
+    "expiryDate": "2026-05-26T08:25:45.000Z",
+    "coordinates": [
+      -114.1753538,
+      51.0175326
+    ],
+    "longitude": -114.1753538,
+    "latitude": 51.0175326,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

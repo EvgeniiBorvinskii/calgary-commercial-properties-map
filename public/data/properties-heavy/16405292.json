@@ -1,0 +1,36 @@
+{
+  "id": "16405292",
+  "fullDetails": {
+    "licenseNumber": "16405292",
+    "name": "LUMINOUS NAILS & SPA",
+    "address": "#315 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-11-10T09:14:47.000Z",
+    "expiryDate": "2026-11-09T09:14:47.000Z",
+    "coordinates": [
+      -114.0253252,
+      50.8617248
+    ],
+    "longitude": -114.0253252,
+    "latitude": 50.8617248,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

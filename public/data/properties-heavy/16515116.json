@@ -1,0 +1,36 @@
+{
+  "id": "16515116",
+  "fullDetails": {
+    "licenseNumber": "16515116",
+    "name": "GLAMERIA",
+    "address": "#P8 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-21T14:38:34.000Z",
+    "expiryDate": "2026-10-20T14:38:33.000Z",
+    "coordinates": [
+      -114.1544433,
+      51.0843556
+    ],
+    "longitude": -114.1544433,
+    "latitude": 51.0843556,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

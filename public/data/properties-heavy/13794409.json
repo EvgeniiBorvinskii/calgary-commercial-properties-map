@@ -1,0 +1,36 @@
+{
+  "id": "13794409",
+  "fullDetails": {
+    "licenseNumber": "13794409",
+    "name": "PET PLANET BRENTWOOD",
+    "address": "#311 3630 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-01-24T07:48:35.000Z",
+    "expiryDate": "2027-01-23T07:48:35.000Z",
+    "coordinates": [
+      -114.1250581,
+      51.0854065
+    ],
+    "longitude": -114.1250581,
+    "latitude": 51.0854065,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15914823",
+  "fullDetails": {
+    "licenseNumber": "15914823",
+    "name": "SUPER STAR LUXURY HOMES",
+    "address": "#10B 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-07-14T14:41:33.000Z",
+    "expiryDate": "2026-07-13T14:41:33.000Z",
+    "coordinates": [
+      -113.9988855,
+      51.0498018
+    ],
+    "longitude": -113.9988855,
+    "latitude": 51.0498018,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

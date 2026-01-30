@@ -1,0 +1,36 @@
+{
+  "id": "12931432",
+  "fullDetails": {
+    "licenseNumber": "12931432",
+    "name": "ION PROJECTS",
+    "address": "#G 1007 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2016-08-30T12:48:28.000Z",
+    "expiryDate": "2026-08-29T12:48:28.000Z",
+    "coordinates": [
+      -114.0411006,
+      51.1016718
+    ],
+    "longitude": -114.0411006,
+    "latitude": 51.1016718,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

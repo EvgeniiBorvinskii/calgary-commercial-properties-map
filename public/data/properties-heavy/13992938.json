@@ -1,0 +1,36 @@
+{
+  "id": "13992938",
+  "fullDetails": {
+    "licenseNumber": "13992938",
+    "name": "CALGARY CO-OP WINES SPIRITS BEER #1 MIDTOWN",
+    "address": "#102 1003 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2015-10-05T08:27:02.000Z",
+    "expiryDate": "2026-10-04T08:27:02.000Z",
+    "coordinates": [
+      -114.0894109,
+      51.0438916
+    ],
+    "longitude": -114.0894109,
+    "latitude": 51.0438916,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

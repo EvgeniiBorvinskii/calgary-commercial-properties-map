@@ -1,0 +1,36 @@
+{
+  "id": "14222699",
+  "fullDetails": {
+    "licenseNumber": "14222699",
+    "name": "POWER RECYCLING",
+    "address": "2807 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "pending",
+    "issuedDate": "2017-03-30T11:05:53.000Z",
+    "expiryDate": "2026-03-29T11:05:53.000Z",
+    "coordinates": [
+      -114.0321862,
+      51.0288522
+    ],
+    "longitude": -114.0321862,
+    "latitude": 51.0288522,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

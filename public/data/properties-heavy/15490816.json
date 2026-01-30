@@ -1,0 +1,36 @@
+{
+  "id": "15490816",
+  "fullDetails": {
+    "licenseNumber": "15490816",
+    "name": "MIDAS AUTO CALGARY NORTH",
+    "address": "556 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-07-10T13:23:39.000Z",
+    "expiryDate": "2026-07-09T13:23:39.000Z",
+    "coordinates": [
+      -114.0546478,
+      51.1110698
+    ],
+    "longitude": -114.0546478,
+    "latitude": 51.1110698,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

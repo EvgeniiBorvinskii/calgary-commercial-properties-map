@@ -1,0 +1,36 @@
+{
+  "id": "16554636",
+  "fullDetails": {
+    "licenseNumber": "16554636",
+    "name": "AMARANTH WHOLE FOODS MARKET",
+    "address": "#14 6143 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-27T12:09:42.000Z",
+    "expiryDate": "2026-08-26T12:09:42.000Z",
+    "coordinates": [
+      -114.0543313,
+      50.996737
+    ],
+    "longitude": -114.0543313,
+    "latitude": 50.996737,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

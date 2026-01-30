@@ -1,0 +1,36 @@
+{
+  "id": "16579914",
+  "fullDetails": {
+    "licenseNumber": "16579914",
+    "name": "MATHNASIUM OF KILLARNEY",
+    "address": "2745 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-01-23T11:23:49.000Z",
+    "expiryDate": "2026-01-22T11:23:49.000Z",
+    "coordinates": [
+      -114.1261152,
+      51.0374169
+    ],
+    "longitude": -114.1261152,
+    "latitude": 51.0374169,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

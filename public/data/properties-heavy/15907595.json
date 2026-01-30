@@ -1,0 +1,36 @@
+{
+  "id": "15907595",
+  "fullDetails": {
+    "licenseNumber": "15907595",
+    "name": "SUBWAY",
+    "address": "#105 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-07-23T16:31:42.000Z",
+    "expiryDate": "2026-07-22T16:31:42.000Z",
+    "coordinates": [
+      -114.00622,
+      51.0809838
+    ],
+    "longitude": -114.00622,
+    "latitude": 51.0809838,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

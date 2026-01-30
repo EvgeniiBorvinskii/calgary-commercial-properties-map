@@ -1,0 +1,36 @@
+{
+  "id": "15864135",
+  "fullDetails": {
+    "licenseNumber": "15864135",
+    "name": "METROPOLITAN SCHOOL OF BARTENDING",
+    "address": "#606 608 9 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-01-27T14:23:19.000Z",
+    "expiryDate": "2026-01-26T14:23:19.000Z",
+    "coordinates": [
+      -114.0832666,
+      51.0478086
+    ],
+    "longitude": -114.0832666,
+    "latitude": 51.0478086,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14812275",
+  "fullDetails": {
+    "licenseNumber": "14812275",
+    "name": "KUNGFU RESTAURANT",
+    "address": "#402 19369 SHERIFF KING ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-07-11T09:13:25.000Z",
+    "expiryDate": "2026-07-10T09:13:25.000Z",
+    "coordinates": [
+      -114.0720086,
+      50.8789431
+    ],
+    "longitude": -114.0720086,
+    "latitude": 50.8789431,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

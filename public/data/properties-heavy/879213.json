@@ -1,0 +1,37 @@
+{
+  "id": "879213",
+  "fullDetails": {
+    "licenseNumber": "879213",
+    "name": "MAC'S AUTO ELECTRIC",
+    "address": "229 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-08T05:32:25.000Z",
+    "coordinates": [
+      -114.0579936,
+      51.0896639
+    ],
+    "longitude": -114.0579936,
+    "latitude": 51.0896639,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

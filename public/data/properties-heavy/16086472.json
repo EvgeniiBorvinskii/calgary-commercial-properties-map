@@ -1,0 +1,36 @@
+{
+  "id": "16086472",
+  "fullDetails": {
+    "licenseNumber": "16086472",
+    "name": "TRIFOREST",
+    "address": "#C 2624 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-07-14T16:44:12.000Z",
+    "expiryDate": "2026-07-13T16:44:12.000Z",
+    "coordinates": [
+      -113.9954542,
+      51.0058437
+    ],
+    "longitude": -113.9954542,
+    "latitude": 51.0058437,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

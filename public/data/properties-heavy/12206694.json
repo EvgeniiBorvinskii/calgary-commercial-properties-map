@@ -1,0 +1,36 @@
+{
+  "id": "12206694",
+  "fullDetails": {
+    "licenseNumber": "12206694",
+    "name": "SENTINEL PROTECTION SERVICES*",
+    "address": "#335 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "pending",
+    "issuedDate": "2009-04-02T11:48:05.000Z",
+    "expiryDate": "2026-04-01T11:48:05.000Z",
+    "coordinates": [
+      -113.9970788,
+      51.0798069
+    ],
+    "longitude": -113.9970788,
+    "latitude": 51.0798069,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

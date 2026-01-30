@@ -1,0 +1,37 @@
+{
+  "id": "16493249",
+  "fullDetails": {
+    "licenseNumber": "16493249",
+    "name": "RHYTHM N VIBES 101 INTERNATIONAL",
+    "address": "#7D 2316 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-10-30T07:45:44.000Z",
+    "expiryDate": "2026-10-29T07:45:44.000Z",
+    "coordinates": [
+      -114.0061501,
+      51.0772522
+    ],
+    "longitude": -114.0061501,
+    "latitude": 51.0772522,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

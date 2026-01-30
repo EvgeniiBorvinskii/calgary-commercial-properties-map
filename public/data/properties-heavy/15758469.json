@@ -1,0 +1,36 @@
+{
+  "id": "15758469",
+  "fullDetails": {
+    "licenseNumber": "15758469",
+    "name": "GREAT CANADIAN OIL CHANGE",
+    "address": "8511 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-01-30T09:56:31.000Z",
+    "expiryDate": "2027-01-29T09:56:31.000Z",
+    "coordinates": [
+      -114.07223,
+      50.976289
+    ],
+    "longitude": -114.07223,
+    "latitude": 50.976289,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

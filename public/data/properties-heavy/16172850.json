@@ -1,0 +1,37 @@
+{
+  "id": "16172850",
+  "fullDetails": {
+    "licenseNumber": "16172850",
+    "name": "WOKBOX - SHEPARD REGIONAL",
+    "address": "#222 4916 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-07-11T14:18:46.000Z",
+    "expiryDate": "2026-07-10T14:18:46.000Z",
+    "coordinates": [
+      -113.9627578,
+      50.9327441
+    ],
+    "longitude": -113.9627578,
+    "latitude": 50.9327441,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

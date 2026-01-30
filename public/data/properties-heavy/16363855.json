@@ -1,0 +1,36 @@
+{
+  "id": "16363855",
+  "fullDetails": {
+    "licenseNumber": "16363855",
+    "name": "OBSIDIAN TATTOO",
+    "address": "#310 2204 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-09-14T13:43:25.000Z",
+    "expiryDate": "2026-09-13T13:43:25.000Z",
+    "coordinates": [
+      -114.0684271,
+      51.0329979
+    ],
+    "longitude": -114.0684271,
+    "latitude": 51.0329979,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

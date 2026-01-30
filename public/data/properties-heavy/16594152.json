@@ -1,0 +1,36 @@
+{
+  "id": "16594152",
+  "fullDetails": {
+    "licenseNumber": "16594152",
+    "name": "2359199 ALBERTA",
+    "address": "#413 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-04-25T15:50:43.000Z",
+    "expiryDate": "2026-04-24T15:50:43.000Z",
+    "coordinates": [
+      -113.966461,
+      51.1019218
+    ],
+    "longitude": -113.966461,
+    "latitude": 51.1019218,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

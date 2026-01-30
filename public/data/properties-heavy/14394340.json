@@ -1,0 +1,36 @@
+{
+  "id": "14394340",
+  "fullDetails": {
+    "licenseNumber": "14394340",
+    "name": "SUBLATUS",
+    "address": "#150 1200 59 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-01-02T13:02:57.000Z",
+    "expiryDate": "2027-01-01T13:02:56.000Z",
+    "coordinates": [
+      -114.0368377,
+      51.0006117
+    ],
+    "longitude": -114.0368377,
+    "latitude": 51.0006117,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

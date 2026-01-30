@@ -1,0 +1,37 @@
+{
+  "id": "14254718",
+  "fullDetails": {
+    "licenseNumber": "14254718",
+    "name": "CANADIAN TRUCK WASH & LUBE",
+    "address": "2521 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-01-12T13:44:42.000Z",
+    "expiryDate": "2027-01-11T13:44:42.000Z",
+    "coordinates": [
+      -113.9987039,
+      51.0080351
+    ],
+    "longitude": -113.9987039,
+    "latitude": 51.0080351,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15863970",
+  "fullDetails": {
+    "licenseNumber": "15863970",
+    "name": "LAZEEZ INDIAN CUISINE & SWEETS",
+    "address": "#1110 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2020-02-11T11:11:06.000Z",
+    "expiryDate": "2026-02-10T11:11:06.000Z",
+    "coordinates": [
+      -113.9507407,
+      51.132827
+    ],
+    "longitude": -113.9507407,
+    "latitude": 51.132827,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

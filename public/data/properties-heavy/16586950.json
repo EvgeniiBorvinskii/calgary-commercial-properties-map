@@ -1,0 +1,36 @@
+{
+  "id": "16586950",
+  "fullDetails": {
+    "licenseNumber": "16586950",
+    "name": "TAEKWON SOOHO",
+    "address": "#840 3950 SAGE HILL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-11T15:39:21.000Z",
+    "expiryDate": "2026-02-10T15:39:21.000Z",
+    "coordinates": [
+      -114.1392953,
+      51.1747354
+    ],
+    "longitude": -114.1392953,
+    "latitude": 51.1747354,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

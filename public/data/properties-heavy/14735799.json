@@ -1,0 +1,36 @@
+{
+  "id": "14735799",
+  "fullDetails": {
+    "licenseNumber": "14735799",
+    "name": "HUSH LINGERIE",
+    "address": "920 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-14T09:25:16.000Z",
+    "expiryDate": "2026-11-13T09:25:16.000Z",
+    "coordinates": [
+      -114.0825097,
+      51.0672012
+    ],
+    "longitude": -114.0825097,
+    "latitude": 51.0672012,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

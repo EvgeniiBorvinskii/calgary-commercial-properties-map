@@ -1,0 +1,36 @@
+{
+  "id": "13738018",
+  "fullDetails": {
+    "licenseNumber": "13738018",
+    "name": "SAFEWAY GARRISON WOODS",
+    "address": "3553 GARRISON GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2013-11-07T14:15:31.000Z",
+    "expiryDate": "2026-11-06T14:15:31.000Z",
+    "coordinates": [
+      -114.1147716,
+      51.0225468
+    ],
+    "longitude": -114.1147716,
+    "latitude": 51.0225468,
+    "community": "GARRISON WOODS",
+    "ward": "GAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

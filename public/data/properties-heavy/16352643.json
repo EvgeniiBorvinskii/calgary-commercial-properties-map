@@ -1,0 +1,36 @@
+{
+  "id": "16352643",
+  "fullDetails": {
+    "licenseNumber": "16352643",
+    "name": "GLOBAL PET FOODS",
+    "address": "40 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-30T11:48:35.000Z",
+    "expiryDate": "2026-08-29T11:48:35.000Z",
+    "coordinates": [
+      -113.9602468,
+      50.9153992
+    ],
+    "longitude": -113.9602468,
+    "latitude": 50.9153992,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

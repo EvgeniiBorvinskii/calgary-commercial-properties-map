@@ -1,0 +1,37 @@
+{
+  "id": "14418941",
+  "fullDetails": {
+    "licenseNumber": "14418941",
+    "name": "ECO ENVIRONMENT PRODUCTS",
+    "address": "423 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-02-23T13:18:28.000Z",
+    "expiryDate": "2026-02-22T13:18:28.000Z",
+    "coordinates": [
+      -114.0538494,
+      51.0102254
+    ],
+    "longitude": -114.0538494,
+    "latitude": 51.0102254,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

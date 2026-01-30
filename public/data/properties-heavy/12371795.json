@@ -1,0 +1,36 @@
+{
+  "id": "12371795",
+  "fullDetails": {
+    "licenseNumber": "12371795",
+    "name": "SMARTBUY AUTO",
+    "address": "7 WENTWORTH MT SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2008-11-13T13:45:12.000Z",
+    "expiryDate": "2026-11-12T13:45:12.000Z",
+    "coordinates": [
+      -114.2172896,
+      51.0605897
+    ],
+    "longitude": -114.2172896,
+    "latitude": 51.0605897,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

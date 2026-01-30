@@ -1,0 +1,36 @@
+{
+  "id": "118281",
+  "fullDetails": {
+    "licenseNumber": "118281",
+    "name": "YORK ELECTRONICS",
+    "address": "#5 1430 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-09T00:00:00.000Z",
+    "coordinates": [
+      -113.9919301,
+      51.0647076
+    ],
+    "longitude": -113.9919301,
+    "latitude": 51.0647076,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

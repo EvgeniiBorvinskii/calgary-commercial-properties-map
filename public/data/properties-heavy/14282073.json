@@ -1,0 +1,36 @@
+{
+  "id": "14282073",
+  "fullDetails": {
+    "licenseNumber": "14282073",
+    "name": "BLUSH LANE ORGANIC MARKET",
+    "address": "617 MEREDITH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-27T14:34:26.000Z",
+    "expiryDate": "2026-09-26T14:34:26.000Z",
+    "coordinates": [
+      -114.0507961,
+      51.0517779
+    ],
+    "longitude": -114.0507961,
+    "latitude": 51.0517779,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

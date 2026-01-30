@@ -1,0 +1,36 @@
+{
+  "id": "16697534",
+  "fullDetails": {
+    "licenseNumber": "16697534",
+    "name": "ALBERTA BOOT COMPANY",
+    "address": "#208 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-17T10:21:14.000Z",
+    "expiryDate": "2026-11-16T10:21:14.000Z",
+    "coordinates": [
+      -114.0673048,
+      50.9528728
+    ],
+    "longitude": -114.0673048,
+    "latitude": 50.9528728,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

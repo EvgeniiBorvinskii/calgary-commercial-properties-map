@@ -1,0 +1,37 @@
+{
+  "id": "16396459",
+  "fullDetails": {
+    "licenseNumber": "16396459",
+    "name": "PUMP REPUBLIC (THE)",
+    "address": "#105 3716 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-12-13T14:48:35.000Z",
+    "expiryDate": "2026-12-12T14:48:35.000Z",
+    "coordinates": [
+      -113.9797277,
+      50.999892
+    ],
+    "longitude": -113.9797277,
+    "latitude": 50.999892,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16563959",
+  "fullDetails": {
+    "licenseNumber": "16563959",
+    "name": "INLAND INDUSTRIAL SUPPLY",
+    "address": "5746 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2024-12-06T10:36:26.000Z",
+    "expiryDate": "2026-12-05T10:36:25.000Z",
+    "coordinates": [
+      -114.04245,
+      51.0024043
+    ],
+    "longitude": -114.04245,
+    "latitude": 51.0024043,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

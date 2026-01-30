@@ -1,0 +1,37 @@
+{
+  "id": "16628661",
+  "fullDetails": {
+    "licenseNumber": "16628661",
+    "name": "LOTUS FINE INDIAN CUISINE",
+    "address": "#2 3843 19 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-10T16:13:39.000Z",
+    "expiryDate": "2026-06-09T16:13:38.000Z",
+    "coordinates": [
+      -114.1097063,
+      51.0873922
+    ],
+    "longitude": -114.1097063,
+    "latitude": 51.0873922,
+    "community": "CHARLESWOOD",
+    "ward": "CHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

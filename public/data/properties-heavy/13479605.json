@@ -1,0 +1,36 @@
+{
+  "id": "13479605",
+  "fullDetails": {
+    "licenseNumber": "13479605",
+    "name": "LUBE TOWN",
+    "address": "10 PARKDALE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2012-06-19T15:51:42.000Z",
+    "expiryDate": "2026-06-18T15:51:42.000Z",
+    "coordinates": [
+      -114.135933,
+      51.057801
+    ],
+    "longitude": -114.135933,
+    "latitude": 51.057801,
+    "community": "PARKDALE",
+    "ward": "PKD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

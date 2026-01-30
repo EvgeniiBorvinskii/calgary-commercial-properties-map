@@ -1,0 +1,37 @@
+{
+  "id": "16573032",
+  "fullDetails": {
+    "licenseNumber": "16573032",
+    "name": "EXPRESS MART",
+    "address": "507 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2025-03-10T07:40:57.000Z",
+    "expiryDate": "2026-03-09T07:40:56.000Z",
+    "coordinates": [
+      -114.0722744,
+      51.0493318
+    ],
+    "longitude": -114.0722744,
+    "latitude": 51.0493318,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

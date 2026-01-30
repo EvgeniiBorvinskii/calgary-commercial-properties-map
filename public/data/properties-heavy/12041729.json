@@ -1,0 +1,36 @@
+{
+  "id": "12041729",
+  "fullDetails": {
+    "licenseNumber": "12041729",
+    "name": "ALDILA BOUTIQUE",
+    "address": "238 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-12-05T20:04:36.000Z",
+    "expiryDate": "2026-12-04T05:45:22.000Z",
+    "coordinates": [
+      -114.1693348,
+      51.0142245
+    ],
+    "longitude": -114.1693348,
+    "latitude": 51.0142245,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

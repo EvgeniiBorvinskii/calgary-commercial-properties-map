@@ -1,0 +1,36 @@
+{
+  "id": "14762272",
+  "fullDetails": {
+    "licenseNumber": "14762272",
+    "name": "PRECISION POWDER COATING",
+    "address": "#11 4216 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2018-03-07T10:06:02.000Z",
+    "expiryDate": "2026-03-06T10:06:02.000Z",
+    "coordinates": [
+      -113.9745013,
+      50.9975322
+    ],
+    "longitude": -113.9745013,
+    "latitude": 50.9975322,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

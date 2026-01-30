@@ -1,0 +1,36 @@
+{
+  "id": "13809942",
+  "fullDetails": {
+    "licenseNumber": "13809942",
+    "name": "BIDELL EQUIPMENT",
+    "address": "6969 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2014-03-20T13:09:27.000Z",
+    "expiryDate": "2026-03-19T13:09:27.000Z",
+    "coordinates": [
+      -113.9341716,
+      50.9516857
+    ],
+    "longitude": -113.9341716,
+    "latitude": 50.9516857,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

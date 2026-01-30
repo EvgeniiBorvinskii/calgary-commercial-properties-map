@@ -1,0 +1,36 @@
+{
+  "id": "16701633",
+  "fullDetails": {
+    "licenseNumber": "16701633",
+    "name": "ROYAL DRUGS",
+    "address": "7111A 6 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-11-19T14:23:56.000Z",
+    "expiryDate": "2026-11-18T14:23:56.000Z",
+    "coordinates": [
+      -114.0496323,
+      50.9906902
+    ],
+    "longitude": -114.0496323,
+    "latitude": 50.9906902,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

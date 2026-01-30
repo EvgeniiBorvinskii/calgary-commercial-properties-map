@@ -1,0 +1,37 @@
+{
+  "id": "15978000",
+  "fullDetails": {
+    "licenseNumber": "15978000",
+    "name": "CANNA CABANA",
+    "address": "1235 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-02-22T15:31:43.000Z",
+    "expiryDate": "2027-02-21T15:31:43.000Z",
+    "coordinates": [
+      -114.0904113,
+      51.0429203
+    ],
+    "longitude": -114.0904113,
+    "latitude": 51.0429203,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

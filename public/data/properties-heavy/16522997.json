@@ -1,0 +1,37 @@
+{
+  "id": "16522997",
+  "fullDetails": {
+    "licenseNumber": "16522997",
+    "name": "BLOOM VIETNAMESE BISTRO",
+    "address": "#115 108 SHAWVILLE PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-31T11:09:58.000Z",
+    "expiryDate": "2026-07-30T11:09:58.000Z",
+    "coordinates": [
+      -114.0689367,
+      50.9107119
+    ],
+    "longitude": -114.0689367,
+    "latitude": 50.9107119,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

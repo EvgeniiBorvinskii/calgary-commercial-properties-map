@@ -1,0 +1,36 @@
+{
+  "id": "15941008",
+  "fullDetails": {
+    "licenseNumber": "15941008",
+    "name": "MATTHEW MICHEL HAIR",
+    "address": "216 RIVERFRONT AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-04-29T13:45:27.000Z",
+    "expiryDate": "2026-04-28T13:45:27.000Z",
+    "coordinates": [
+      -114.0667291,
+      51.0525288
+    ],
+    "longitude": -114.0667291,
+    "latitude": 51.0525288,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

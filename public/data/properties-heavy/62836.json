@@ -1,0 +1,36 @@
+{
+  "id": "62836",
+  "fullDetails": {
+    "licenseNumber": "62836",
+    "name": "IMPORT TOOL WHOLESALE",
+    "address": "#1015 910 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2017-01-26T08:27:54.000Z",
+    "expiryDate": "2026-01-25T08:27:54.000Z",
+    "coordinates": [
+      -114.0820424,
+      51.047319
+    ],
+    "longitude": -114.0820424,
+    "latitude": 51.047319,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14768535",
+  "fullDetails": {
+    "licenseNumber": "14768535",
+    "name": "MINOTAUR AUTO SOLUTIONS",
+    "address": "5420 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-31T14:06:05.000Z",
+    "expiryDate": "2026-03-30T14:06:05.000Z",
+    "coordinates": [
+      -113.956685,
+      51.0059528
+    ],
+    "longitude": -113.956685,
+    "latitude": 51.0059528,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

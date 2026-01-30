@@ -1,0 +1,36 @@
+{
+  "id": "12436499",
+  "fullDetails": {
+    "licenseNumber": "12436499",
+    "name": "ARGYLE CONSTRUCTION",
+    "address": "4522 MANILLA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-10-16T15:51:08.000Z",
+    "expiryDate": "2026-10-15T15:51:07.000Z",
+    "coordinates": [
+      -114.0499985,
+      51.0134388
+    ],
+    "longitude": -114.0499985,
+    "latitude": 51.0134388,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

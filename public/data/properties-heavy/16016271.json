@@ -1,0 +1,37 @@
+{
+  "id": "16016271",
+  "fullDetails": {
+    "licenseNumber": "16016271",
+    "name": "FORTIUS THERAPY SERVICE",
+    "address": "#250 9715 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-19T12:47:45.000Z",
+    "expiryDate": "2026-05-18T12:47:45.000Z",
+    "coordinates": [
+      -114.0754685,
+      50.9675402
+    ],
+    "longitude": -114.0754685,
+    "latitude": 50.9675402,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

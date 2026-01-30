@@ -1,0 +1,36 @@
+{
+  "id": "13754387",
+  "fullDetails": {
+    "licenseNumber": "13754387",
+    "name": "TELUS MOBILITY",
+    "address": "11728 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-02-06T05:33:08.000Z",
+    "expiryDate": "2027-02-05T05:33:08.000Z",
+    "coordinates": [
+      -114.1617719,
+      51.1577992
+    ],
+    "longitude": -114.1617719,
+    "latitude": 51.1577992,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

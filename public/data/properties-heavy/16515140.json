@@ -1,0 +1,36 @@
+{
+  "id": "16515140",
+  "fullDetails": {
+    "licenseNumber": "16515140",
+    "name": "NEURO FIT",
+    "address": "#3 417 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-07-09T16:18:36.000Z",
+    "expiryDate": "2026-07-08T16:18:36.000Z",
+    "coordinates": [
+      -114.055526,
+      51.0055265
+    ],
+    "longitude": -114.055526,
+    "latitude": 51.0055265,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

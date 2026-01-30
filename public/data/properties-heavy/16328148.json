@@ -1,0 +1,36 @@
+{
+  "id": "16328148",
+  "fullDetails": {
+    "licenseNumber": "16328148",
+    "name": "RAKU SUSHI",
+    "address": "1110 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-26T10:19:10.000Z",
+    "expiryDate": "2026-06-25T10:19:09.000Z",
+    "coordinates": [
+      -114.0378496,
+      51.1075272
+    ],
+    "longitude": -114.0378496,
+    "latitude": 51.1075272,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13122858",
+  "fullDetails": {
+    "licenseNumber": "13122858",
+    "name": "PACKAGING COMPANY (THE)",
+    "address": "#111 7151 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-05-21T12:45:29.000Z",
+    "expiryDate": "2026-05-20T12:45:29.000Z",
+    "coordinates": [
+      -113.9710108,
+      50.9911615
+    ],
+    "longitude": -113.9710108,
+    "latitude": 50.9911615,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

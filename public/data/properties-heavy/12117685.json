@@ -1,0 +1,36 @@
+{
+  "id": "12117685",
+  "fullDetails": {
+    "licenseNumber": "12117685",
+    "name": "PARAGON VENTILATION",
+    "address": "10550 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-10-01T06:15:45.000Z",
+    "expiryDate": "2026-09-30T06:15:45.000Z",
+    "coordinates": [
+      -113.9643884,
+      50.9596544
+    ],
+    "longitude": -113.9643884,
+    "latitude": 50.9596544,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

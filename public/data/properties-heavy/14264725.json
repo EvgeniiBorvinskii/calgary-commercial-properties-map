@@ -1,0 +1,36 @@
+{
+  "id": "14264725",
+  "fullDetails": {
+    "licenseNumber": "14264725",
+    "name": "PIECE ON PEACE",
+    "address": "5 SPRUCE CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-08-09T11:05:50.000Z",
+    "expiryDate": "2026-08-08T11:05:50.000Z",
+    "coordinates": [
+      -114.1361819,
+      51.0482632
+    ],
+    "longitude": -114.1361819,
+    "latitude": 51.0482632,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

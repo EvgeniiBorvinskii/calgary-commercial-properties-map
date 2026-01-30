@@ -1,0 +1,36 @@
+{
+  "id": "12317426",
+  "fullDetails": {
+    "licenseNumber": "12317426",
+    "name": "KANAS",
+    "address": "#104 5610 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-04-20T14:07:23.000Z",
+    "expiryDate": "2026-04-19T14:07:23.000Z",
+    "coordinates": [
+      -114.0697429,
+      51.0038765
+    ],
+    "longitude": -114.0697429,
+    "latitude": 51.0038765,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

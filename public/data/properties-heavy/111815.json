@@ -1,0 +1,36 @@
+{
+  "id": "111815",
+  "fullDetails": {
+    "licenseNumber": "111815",
+    "name": "VECOVA CENTRE FOR DISABILITY SERVICES AND RESEARCH",
+    "address": "#1 3304 33 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "licenseTypes": "CHARITABLE ORGANIZATION",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1325477,
+      51.082223
+    ],
+    "longitude": -114.1325477,
+    "latitude": 51.082223,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

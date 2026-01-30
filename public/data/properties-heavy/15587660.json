@@ -1,0 +1,36 @@
+{
+  "id": "15587660",
+  "fullDetails": {
+    "licenseNumber": "15587660",
+    "name": "SUNALTA 1913",
+    "address": "1913 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2020-01-09T14:13:26.000Z",
+    "expiryDate": "2027-01-08T14:13:26.000Z",
+    "coordinates": [
+      -114.1051971,
+      51.0433125
+    ],
+    "longitude": -114.1051971,
+    "latitude": 51.0433125,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

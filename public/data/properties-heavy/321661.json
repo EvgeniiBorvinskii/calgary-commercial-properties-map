@@ -1,0 +1,36 @@
+{
+  "id": "321661",
+  "fullDetails": {
+    "licenseNumber": "321661",
+    "name": "BERNICE'S FASHION",
+    "address": "#238 328 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-29T00:00:00.000Z",
+    "coordinates": [
+      -114.0617526,
+      51.0495717
+    ],
+    "longitude": -114.0617526,
+    "latitude": 51.0495717,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

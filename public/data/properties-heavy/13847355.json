@@ -1,0 +1,36 @@
+{
+  "id": "13847355",
+  "fullDetails": {
+    "licenseNumber": "13847355",
+    "name": "CARTER'S OSHKOSH #3477",
+    "address": "480 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-06-17T12:07:51.000Z",
+    "expiryDate": "2026-06-16T12:07:51.000Z",
+    "coordinates": [
+      -114.171665,
+      51.0160999
+    ],
+    "longitude": -114.171665,
+    "latitude": 51.0160999,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

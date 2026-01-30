@@ -1,0 +1,36 @@
+{
+  "id": "16083925",
+  "fullDetails": {
+    "licenseNumber": "16083925",
+    "name": "H AND A AUTOWORKZ",
+    "address": "#A 4005 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-12-14T07:04:03.000Z",
+    "expiryDate": "2026-12-13T07:04:03.000Z",
+    "coordinates": [
+      -114.0304133,
+      51.019823
+    ],
+    "longitude": -114.0304133,
+    "latitude": 51.019823,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

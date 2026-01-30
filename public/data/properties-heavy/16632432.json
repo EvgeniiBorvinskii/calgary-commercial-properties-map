@@ -1,0 +1,36 @@
+{
+  "id": "16632432",
+  "fullDetails": {
+    "licenseNumber": "16632432",
+    "name": "ALLAN EDWARDS CANADA",
+    "address": "5186 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-09-12T11:14:45.000Z",
+    "expiryDate": "2026-09-11T11:14:45.000Z",
+    "coordinates": [
+      -113.9606509,
+      50.9807937
+    ],
+    "longitude": -113.9606509,
+    "latitude": 50.9807937,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

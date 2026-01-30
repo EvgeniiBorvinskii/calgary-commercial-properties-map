@@ -1,0 +1,37 @@
+{
+  "id": "14308712",
+  "fullDetails": {
+    "licenseNumber": "14308712",
+    "name": "TIMELESS FURNITURE",
+    "address": "#1 5622 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FURNITURE REFINISHING",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "FURNITURE REFINISHING,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-01-06T14:54:45.000Z",
+    "expiryDate": "2027-01-05T14:54:45.000Z",
+    "coordinates": [
+      -114.0447889,
+      51.0055969
+    ],
+    "longitude": -114.0447889,
+    "latitude": 51.0055969,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

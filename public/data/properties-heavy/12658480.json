@@ -1,0 +1,36 @@
+{
+  "id": "12658480",
+  "fullDetails": {
+    "licenseNumber": "12658480",
+    "name": "CAL CRAFT ALUMINUM & STEEL FAB",
+    "address": "5715 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-12-28T11:25:05.000Z",
+    "expiryDate": "2026-12-27T11:25:05.000Z",
+    "coordinates": [
+      -113.982217,
+      51.0017249
+    ],
+    "longitude": -113.982217,
+    "latitude": 51.0017249,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

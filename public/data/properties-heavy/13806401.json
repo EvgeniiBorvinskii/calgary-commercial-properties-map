@@ -1,0 +1,36 @@
+{
+  "id": "13806401",
+  "fullDetails": {
+    "licenseNumber": "13806401",
+    "name": "MCCARTHY TETRAULT #63058",
+    "address": "#4000 421 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2014-10-01T12:50:57.000Z",
+    "expiryDate": "2026-09-30T12:50:57.000Z",
+    "coordinates": [
+      -114.0709501,
+      51.0462411
+    ],
+    "longitude": -114.0709501,
+    "latitude": 51.0462411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

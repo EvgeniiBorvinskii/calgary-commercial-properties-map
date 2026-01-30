@@ -1,0 +1,37 @@
+{
+  "id": "12156246",
+  "fullDetails": {
+    "licenseNumber": "12156246",
+    "name": "MANCHU WOK",
+    "address": "2000 AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2003-01-17T05:34:36.000Z",
+    "expiryDate": "2027-01-16T05:34:36.000Z",
+    "coordinates": [
+      -114.0104184,
+      51.1312263
+    ],
+    "longitude": -114.0104184,
+    "latitude": 51.1312263,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

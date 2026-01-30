@@ -1,0 +1,36 @@
+{
+  "id": "13091970",
+  "fullDetails": {
+    "licenseNumber": "13091970",
+    "name": "ALBERTA MUNICIPAL HEALTH & SAFETY",
+    "address": "#21 5720 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-07-25T08:21:17.000Z",
+    "expiryDate": "2026-07-24T08:21:17.000Z",
+    "coordinates": [
+      -114.1877807,
+      51.1046918
+    ],
+    "longitude": -114.1877807,
+    "latitude": 51.1046918,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

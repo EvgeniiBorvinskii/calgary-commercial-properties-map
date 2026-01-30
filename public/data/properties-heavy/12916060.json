@@ -1,0 +1,36 @@
+{
+  "id": "12916060",
+  "fullDetails": {
+    "licenseNumber": "12916060",
+    "name": "ALPHA BETTER LANDSCAPING",
+    "address": "11800 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-01-21T10:56:23.000Z",
+    "expiryDate": "2027-01-20T10:56:23.000Z",
+    "coordinates": [
+      -113.9767094,
+      50.9454
+    ],
+    "longitude": -113.9767094,
+    "latitude": 50.9454,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

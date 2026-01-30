@@ -1,0 +1,36 @@
+{
+  "id": "15935257",
+  "fullDetails": {
+    "licenseNumber": "15935257",
+    "name": "EDGEMONT LIQUORLAND WINE & BEER SHOP",
+    "address": "#108 45 EDENWOLD DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-09-02T15:01:43.000Z",
+    "expiryDate": "2026-09-01T15:01:43.000Z",
+    "coordinates": [
+      -114.1394553,
+      51.1269448
+    ],
+    "longitude": -114.1394553,
+    "latitude": 51.1269448,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

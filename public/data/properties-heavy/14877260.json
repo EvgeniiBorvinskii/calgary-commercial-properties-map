@@ -1,0 +1,36 @@
+{
+  "id": "14877260",
+  "fullDetails": {
+    "licenseNumber": "14877260",
+    "name": "INSTANT CASH FOR GOLD",
+    "address": "#202 3309 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2018-04-17T11:20:48.000Z",
+    "expiryDate": "2026-04-16T11:20:48.000Z",
+    "coordinates": [
+      -114.0125884,
+      51.0821666
+    ],
+    "longitude": -114.0125884,
+    "latitude": 51.0821666,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15580616",
+  "fullDetails": {
+    "licenseNumber": "15580616",
+    "name": "TOP ROOF AND EXTERIORS",
+    "address": "7130 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-19T07:05:38.000Z",
+    "expiryDate": "2026-08-18T07:05:38.000Z",
+    "coordinates": [
+      -113.9813067,
+      50.9916073
+    ],
+    "longitude": -113.9813067,
+    "latitude": 50.9916073,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

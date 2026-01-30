@@ -1,0 +1,37 @@
+{
+  "id": "15563299",
+  "fullDetails": {
+    "licenseNumber": "15563299",
+    "name": "RAINBOW NAILS AND SPA",
+    "address": "#307 2525 WOODVIEW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-05T08:27:21.000Z",
+    "expiryDate": "2026-06-04T08:27:21.000Z",
+    "coordinates": [
+      -114.1209188,
+      50.9404923
+    ],
+    "longitude": -114.1209188,
+    "latitude": 50.9404923,
+    "community": "WOODBINE",
+    "ward": "WBN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13906300",
+  "fullDetails": {
+    "licenseNumber": "13906300",
+    "name": "TIRE KINGS",
+    "address": "#1 1381 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-10-21T09:41:58.000Z",
+    "expiryDate": "2026-10-20T09:41:58.000Z",
+    "coordinates": [
+      -114.0314539,
+      51.0117903
+    ],
+    "longitude": -114.0314539,
+    "latitude": 51.0117903,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

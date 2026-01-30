@@ -1,0 +1,36 @@
+{
+  "id": "16125916",
+  "fullDetails": {
+    "licenseNumber": "16125916",
+    "name": "NERPA POLYMERS",
+    "address": "#112 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2022-02-18T16:14:18.000Z",
+    "expiryDate": "2026-02-17T16:14:18.000Z",
+    "coordinates": [
+      -114.0058623,
+      51.0784881
+    ],
+    "longitude": -114.0058623,
+    "latitude": 51.0784881,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

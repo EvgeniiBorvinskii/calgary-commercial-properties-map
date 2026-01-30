@@ -1,0 +1,36 @@
+{
+  "id": "552281",
+  "fullDetails": {
+    "licenseNumber": "552281",
+    "name": "MEDICINE SHOPPE PHARMACY #126 (THE)",
+    "address": "#12 5440 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-09-13T09:07:34.000Z",
+    "expiryDate": "2026-09-12T09:07:34.000Z",
+    "coordinates": [
+      -114.0709127,
+      51.09952
+    ],
+    "longitude": -114.0709127,
+    "latitude": 51.09952,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

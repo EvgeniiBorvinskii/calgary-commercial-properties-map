@@ -1,0 +1,36 @@
+{
+  "id": "12430732",
+  "fullDetails": {
+    "licenseNumber": "12430732",
+    "name": "LUCKY AUTOSHINE",
+    "address": "#9 727 33 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2005-10-04T13:57:35.000Z",
+    "expiryDate": "2026-10-03T13:57:35.000Z",
+    "coordinates": [
+      -113.986723,
+      51.0586022
+    ],
+    "longitude": -113.986723,
+    "latitude": 51.0586022,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

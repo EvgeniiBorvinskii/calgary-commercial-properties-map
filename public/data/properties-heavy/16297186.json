@@ -1,0 +1,36 @@
+{
+  "id": "16297186",
+  "fullDetails": {
+    "licenseNumber": "16297186",
+    "name": "FUSION SOLUTIONS",
+    "address": "#129 2750 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-07-03T11:33:52.000Z",
+    "expiryDate": "2026-07-02T11:33:52.000Z",
+    "coordinates": [
+      -113.9955974,
+      51.0550951
+    ],
+    "longitude": -113.9955974,
+    "latitude": 51.0550951,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

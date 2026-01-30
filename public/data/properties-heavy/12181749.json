@@ -1,0 +1,36 @@
+{
+  "id": "12181749",
+  "fullDetails": {
+    "licenseNumber": "12181749",
+    "name": "DEREK BROWNS ACADEMY OF DRIVING",
+    "address": "1809 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2018-11-15T10:32:43.000Z",
+    "expiryDate": "2026-11-14T10:32:43.000Z",
+    "coordinates": [
+      -113.9733357,
+      51.0375323
+    ],
+    "longitude": -113.9733357,
+    "latitude": 51.0375323,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

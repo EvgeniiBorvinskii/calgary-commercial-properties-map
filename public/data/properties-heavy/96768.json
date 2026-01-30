@@ -1,0 +1,36 @@
+{
+  "id": "96768",
+  "fullDetails": {
+    "licenseNumber": "96768",
+    "name": "DOUBLE J AUTOMOTIVES",
+    "address": "#8 417 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2007-05-28T10:41:47.000Z",
+    "expiryDate": "2026-05-27T10:41:47.000Z",
+    "coordinates": [
+      -114.055526,
+      51.0055265
+    ],
+    "longitude": -114.055526,
+    "latitude": 51.0055265,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

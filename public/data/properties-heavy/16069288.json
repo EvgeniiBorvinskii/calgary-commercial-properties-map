@@ -1,0 +1,36 @@
+{
+  "id": "16069288",
+  "fullDetails": {
+    "licenseNumber": "16069288",
+    "name": "CALGARY PROFESSIONAL DRIVING SCHOOL",
+    "address": "4817 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2021-09-27T10:22:56.000Z",
+    "expiryDate": "2026-09-26T10:22:56.000Z",
+    "coordinates": [
+      -113.9646718,
+      51.0998067
+    ],
+    "longitude": -113.9646718,
+    "latitude": 51.0998067,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

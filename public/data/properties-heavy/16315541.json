@@ -1,0 +1,36 @@
+{
+  "id": "16315541",
+  "fullDetails": {
+    "licenseNumber": "16315541",
+    "name": "FRANCA'S PIZZA",
+    "address": "#105 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2023-04-17T12:50:35.000Z",
+    "expiryDate": "2026-04-16T12:50:35.000Z",
+    "coordinates": [
+      -114.1202968,
+      50.971839
+    ],
+    "longitude": -114.1202968,
+    "latitude": 50.971839,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

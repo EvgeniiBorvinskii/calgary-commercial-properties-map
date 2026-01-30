@@ -1,0 +1,36 @@
+{
+  "id": "12811030",
+  "fullDetails": {
+    "licenseNumber": "12811030",
+    "name": "COLUMBIA SPORTSWEAR CANADA",
+    "address": "#50 2256 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2010-04-27T05:48:19.000Z",
+    "expiryDate": "2026-04-26T05:48:19.000Z",
+    "coordinates": [
+      -113.9910527,
+      51.0719141
+    ],
+    "longitude": -113.9910527,
+    "latitude": 51.0719141,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

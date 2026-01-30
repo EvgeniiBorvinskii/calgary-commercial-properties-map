@@ -1,0 +1,37 @@
+{
+  "id": "12628780",
+  "fullDetails": {
+    "licenseNumber": "12628780",
+    "name": "SWAGELOK CALGARY",
+    "address": "3202 12 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-04-14T14:10:47.000Z",
+    "expiryDate": "2026-04-13T14:10:47.000Z",
+    "coordinates": [
+      -113.9880829,
+      51.06339
+    ],
+    "longitude": -113.9880829,
+    "latitude": 51.06339,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

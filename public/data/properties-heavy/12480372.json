@@ -1,0 +1,36 @@
+{
+  "id": "12480372",
+  "fullDetails": {
+    "licenseNumber": "12480372",
+    "name": "TRAGICALLY VITAL THE FRESH COFFEE COMPANY",
+    "address": "#38 11410 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-10T14:47:06.000Z",
+    "expiryDate": "2027-01-09T14:47:06.000Z",
+    "coordinates": [
+      -113.9943949,
+      50.9531229
+    ],
+    "longitude": -113.9943949,
+    "latitude": 50.9531229,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

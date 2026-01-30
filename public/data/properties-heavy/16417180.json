@@ -1,0 +1,36 @@
+{
+  "id": "16417180",
+  "fullDetails": {
+    "licenseNumber": "16417180",
+    "name": "TELUS KOODO",
+    "address": "#8120 8650 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-21T11:22:21.000Z",
+    "expiryDate": "2026-11-20T11:22:21.000Z",
+    "coordinates": [
+      -114.2116042,
+      51.1516662
+    ],
+    "longitude": -114.2116042,
+    "latitude": 51.1516662,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14842454",
+  "fullDetails": {
+    "licenseNumber": "14842454",
+    "name": "SOUTH MACLEOD STORAGE",
+    "address": "22323 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2018-03-14T11:13:57.000Z",
+    "expiryDate": "2026-03-13T11:13:57.000Z",
+    "coordinates": [
+      -114.0269505,
+      50.8515838
+    ],
+    "longitude": -114.0269505,
+    "latitude": 50.8515838,
+    "community": "RESIDUAL WARD 13 - SUB AREA 13M",
+    "ward": "13M",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16098519",
+  "fullDetails": {
+    "licenseNumber": "16098519",
+    "name": "GREAT CANADIAN PIZZA & FRIED CHICKEN",
+    "address": "#205 151 COPPERPOND BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2022-01-06T18:37:52.000Z",
+    "expiryDate": "2027-01-05T18:37:52.000Z",
+    "coordinates": [
+      -113.9323443,
+      50.9240443
+    ],
+    "longitude": -113.9323443,
+    "latitude": 50.9240443,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

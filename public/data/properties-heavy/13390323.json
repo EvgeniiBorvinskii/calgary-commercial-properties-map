@@ -1,0 +1,36 @@
+{
+  "id": "13390323",
+  "fullDetails": {
+    "licenseNumber": "13390323",
+    "name": "SOUTHWOOD AUTOMOTIVE",
+    "address": "11029 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2012-03-09T12:06:36.000Z",
+    "expiryDate": "2026-03-08T12:06:36.000Z",
+    "coordinates": [
+      -114.0850481,
+      50.9533795
+    ],
+    "longitude": -114.0850481,
+    "latitude": 50.9533795,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

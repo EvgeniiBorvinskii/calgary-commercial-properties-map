@@ -1,0 +1,36 @@
+{
+  "id": "12597282",
+  "fullDetails": {
+    "licenseNumber": "12597282",
+    "name": "COPPERFIELD VETERINARY HOSPITAL",
+    "address": "#115 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-09-21T08:31:40.000Z",
+    "expiryDate": "2026-09-20T08:31:40.000Z",
+    "coordinates": [
+      -113.9492329,
+      50.9134021
+    ],
+    "longitude": -113.9492329,
+    "latitude": 50.9134021,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

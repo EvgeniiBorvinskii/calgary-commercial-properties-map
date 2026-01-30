@@ -1,0 +1,37 @@
+{
+  "id": "14771711",
+  "fullDetails": {
+    "licenseNumber": "14771711",
+    "name": "VIKING-CIVES",
+    "address": "#100 10500 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2018-01-26T08:27:07.000Z",
+    "expiryDate": "2026-01-25T08:27:07.000Z",
+    "coordinates": [
+      -113.9643232,
+      50.9601547
+    ],
+    "longitude": -113.9643232,
+    "latitude": 50.9601547,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16539694",
+  "fullDetails": {
+    "licenseNumber": "16539694",
+    "name": "G-DYNAMIC SERVICES",
+    "address": "#231 4999 43 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-15T17:42:05.000Z",
+    "expiryDate": "2026-02-14T17:42:05.000Z",
+    "coordinates": [
+      -113.9709741,
+      51.0092863
+    ],
+    "longitude": -113.9709741,
+    "latitude": 51.0092863,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

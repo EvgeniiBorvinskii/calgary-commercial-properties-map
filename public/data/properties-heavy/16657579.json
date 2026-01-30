@@ -1,0 +1,36 @@
+{
+  "id": "16657579",
+  "fullDetails": {
+    "licenseNumber": "16657579",
+    "name": "AVESTA SHAWARMA",
+    "address": "#105 150 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-08-08T15:06:41.000Z",
+    "expiryDate": "2026-08-07T15:06:41.000Z",
+    "coordinates": [
+      -114.1965359,
+      51.1276992
+    ],
+    "longitude": -114.1965359,
+    "latitude": 51.1276992,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

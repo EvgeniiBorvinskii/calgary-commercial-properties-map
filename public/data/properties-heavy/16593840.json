@@ -1,0 +1,36 @@
+{
+  "id": "16593840",
+  "fullDetails": {
+    "licenseNumber": "16593840",
+    "name": "TREEHOUSE TOYS",
+    "address": "#189 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-21T13:58:39.000Z",
+    "expiryDate": "2026-02-20T13:58:39.000Z",
+    "coordinates": [
+      -114.0744664,
+      50.996273
+    ],
+    "longitude": -114.0744664,
+    "latitude": 50.996273,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

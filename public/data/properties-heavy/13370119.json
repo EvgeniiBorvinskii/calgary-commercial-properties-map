@@ -1,0 +1,36 @@
+{
+  "id": "13370119",
+  "fullDetails": {
+    "licenseNumber": "13370119",
+    "name": "PROSOL",
+    "address": "3101 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-06-23T14:33:09.000Z",
+    "expiryDate": "2026-06-22T14:33:09.000Z",
+    "coordinates": [
+      -114.020632,
+      51.0801314
+    ],
+    "longitude": -114.020632,
+    "latitude": 51.0801314,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

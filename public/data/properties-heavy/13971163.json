@@ -1,0 +1,36 @@
+{
+  "id": "13971163",
+  "fullDetails": {
+    "licenseNumber": "13971163",
+    "name": "NANALYSIS",
+    "address": "#1 4600 5 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-02-15T14:38:43.000Z",
+    "expiryDate": "2027-02-14T14:38:43.000Z",
+    "coordinates": [
+      -114.0505429,
+      51.0933871
+    ],
+    "longitude": -114.0505429,
+    "latitude": 51.0933871,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

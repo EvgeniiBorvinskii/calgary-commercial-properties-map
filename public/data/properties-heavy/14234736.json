@@ -1,0 +1,36 @@
+{
+  "id": "14234736",
+  "fullDetails": {
+    "licenseNumber": "14234736",
+    "name": "KELLY'S NAILS & SPA",
+    "address": "#210 11135 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2016-08-10T15:01:39.000Z",
+    "expiryDate": "2026-08-09T15:01:39.000Z",
+    "coordinates": [
+      -114.0299788,
+      51.1527665
+    ],
+    "longitude": -114.0299788,
+    "latitude": 51.1527665,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16391708",
+  "fullDetails": {
+    "licenseNumber": "16391708",
+    "name": "GESCAN SOLUTIONS",
+    "address": "4030 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-10-16T11:39:38.000Z",
+    "expiryDate": "2026-10-15T11:39:38.000Z",
+    "coordinates": [
+      -114.0451584,
+      51.0186198
+    ],
+    "longitude": -114.0451584,
+    "latitude": 51.0186198,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14930689",
+  "fullDetails": {
+    "licenseNumber": "14930689",
+    "name": "DEALER SERVICE SOLUTIONS",
+    "address": "#120 999 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-06-06T10:57:48.000Z",
+    "expiryDate": "2026-06-05T10:57:47.000Z",
+    "coordinates": [
+      -114.0415861,
+      51.1040943
+    ],
+    "longitude": -114.0415861,
+    "latitude": 51.1040943,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

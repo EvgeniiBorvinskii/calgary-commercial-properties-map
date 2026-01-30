@@ -1,0 +1,36 @@
+{
+  "id": "16675100",
+  "fullDetails": {
+    "licenseNumber": "16675100",
+    "name": "GB TRUCK & TRAILER REPAIR",
+    "address": "4311 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-10-16T08:33:41.000Z",
+    "expiryDate": "2026-10-15T08:33:40.000Z",
+    "coordinates": [
+      -113.9731673,
+      51.0035296
+    ],
+    "longitude": -113.9731673,
+    "latitude": 51.0035296,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

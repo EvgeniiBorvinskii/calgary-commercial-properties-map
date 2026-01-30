@@ -1,0 +1,36 @@
+{
+  "id": "292359",
+  "fullDetails": {
+    "licenseNumber": "292359",
+    "name": "EYE CANDY OPTICAL - OAKRIDGE",
+    "address": "#139 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-09T14:19:07.000Z",
+    "expiryDate": "2026-09-08T14:19:07.000Z",
+    "coordinates": [
+      -114.1203027,
+      50.9713974
+    ],
+    "longitude": -114.1203027,
+    "latitude": 50.9713974,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

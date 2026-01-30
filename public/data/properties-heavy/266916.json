@@ -1,0 +1,37 @@
+{
+  "id": "266916",
+  "fullDetails": {
+    "licenseNumber": "266916",
+    "name": "SOUTHSIDE EQUIPMENT SALES",
+    "address": "3360 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nSECONDHAND DEALER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9850464,
+      51.0092676
+    ],
+    "longitude": -113.9850464,
+    "latitude": 51.0092676,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

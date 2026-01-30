@@ -1,0 +1,36 @@
+{
+  "id": "12722955",
+  "fullDetails": {
+    "licenseNumber": "12722955",
+    "name": "ENVENT ENGINEERING",
+    "address": "2721 HOPEWELL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-12-25T05:33:55.000Z",
+    "expiryDate": "2026-12-24T05:33:55.000Z",
+    "coordinates": [
+      -113.9965082,
+      51.0911929
+    ],
+    "longitude": -113.9965082,
+    "latitude": 51.0911929,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

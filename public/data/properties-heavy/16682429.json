@@ -1,0 +1,37 @@
+{
+  "id": "16682429",
+  "fullDetails": {
+    "licenseNumber": "16682429",
+    "name": "FOREST LAWN MEAT WHOLESALE AND RETAIL",
+    "address": "#12 5315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-16T07:36:01.000Z",
+    "expiryDate": "2026-10-15T07:36:01.000Z",
+    "coordinates": [
+      -113.9570147,
+      51.037347
+    ],
+    "longitude": -113.9570147,
+    "latitude": 51.037347,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

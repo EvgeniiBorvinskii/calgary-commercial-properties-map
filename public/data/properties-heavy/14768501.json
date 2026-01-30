@@ -1,0 +1,36 @@
+{
+  "id": "14768501",
+  "fullDetails": {
+    "licenseNumber": "14768501",
+    "name": "OGEN",
+    "address": "5430 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "pending",
+    "issuedDate": "2019-03-14T08:55:14.000Z",
+    "expiryDate": "2026-03-13T08:55:13.000Z",
+    "coordinates": [
+      -113.9891488,
+      51.0054082
+    ],
+    "longitude": -113.9891488,
+    "latitude": 51.0054082,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

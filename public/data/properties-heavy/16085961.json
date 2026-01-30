@@ -1,0 +1,36 @@
+{
+  "id": "16085961",
+  "fullDetails": {
+    "licenseNumber": "16085961",
+    "name": "HULA POKE",
+    "address": "#J8B 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-20T09:09:16.000Z",
+    "expiryDate": "2026-10-19T09:09:16.000Z",
+    "coordinates": [
+      -114.1539478,
+      51.0848986
+    ],
+    "longitude": -114.1539478,
+    "latitude": 51.0848986,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

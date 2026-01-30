@@ -1,0 +1,36 @@
+{
+  "id": "13566070",
+  "fullDetails": {
+    "licenseNumber": "13566070",
+    "name": "CEILING MASTERS",
+    "address": "#5 1430 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-01-30T15:13:36.000Z",
+    "expiryDate": "2027-01-29T15:13:36.000Z",
+    "coordinates": [
+      -114.0281267,
+      51.0894004
+    ],
+    "longitude": -114.0281267,
+    "latitude": 51.0894004,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

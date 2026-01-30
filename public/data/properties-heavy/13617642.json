@@ -1,0 +1,36 @@
+{
+  "id": "13617642",
+  "fullDetails": {
+    "licenseNumber": "13617642",
+    "name": "THAI THIEN SUBS",
+    "address": "811A 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-01-31T05:35:24.000Z",
+    "expiryDate": "2027-01-30T05:35:24.000Z",
+    "coordinates": [
+      -114.0657924,
+      51.0449478
+    ],
+    "longitude": -114.0657924,
+    "latitude": 51.0449478,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

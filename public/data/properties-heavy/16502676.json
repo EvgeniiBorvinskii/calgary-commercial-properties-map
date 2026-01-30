@@ -1,0 +1,37 @@
+{
+  "id": "16502676",
+  "fullDetails": {
+    "licenseNumber": "16502676",
+    "name": "BRIAN'S CAFE",
+    "address": "2381 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-07-30T15:27:45.000Z",
+    "expiryDate": "2026-07-29T15:27:45.000Z",
+    "coordinates": [
+      -114.0035066,
+      50.9867582
+    ],
+    "longitude": -114.0035066,
+    "latitude": 50.9867582,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

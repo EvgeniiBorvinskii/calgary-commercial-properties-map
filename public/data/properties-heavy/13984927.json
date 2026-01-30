@@ -1,0 +1,36 @@
+{
+  "id": "13984927",
+  "fullDetails": {
+    "licenseNumber": "13984927",
+    "name": "JUNK IN THE TRUNK",
+    "address": "#11 2808 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2015-11-04T10:00:10.000Z",
+    "expiryDate": "2026-11-03T10:00:10.000Z",
+    "coordinates": [
+      -114.0300697,
+      51.0294429
+    ],
+    "longitude": -114.0300697,
+    "latitude": 51.0294429,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

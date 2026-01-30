@@ -1,0 +1,36 @@
+{
+  "id": "14013312",
+  "fullDetails": {
+    "licenseNumber": "14013312",
+    "name": "WESTROCK",
+    "address": "1115 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-10-16T05:34:58.000Z",
+    "expiryDate": "2026-10-15T05:34:58.000Z",
+    "coordinates": [
+      -114.038142,
+      51.0218321
+    ],
+    "longitude": -114.038142,
+    "latitude": 51.0218321,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

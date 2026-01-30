@@ -1,0 +1,37 @@
+{
+  "id": "16254906",
+  "fullDetails": {
+    "licenseNumber": "16254906",
+    "name": "CAPSULE PHARMACY GREENVIEW",
+    "address": "#108 4804 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-12-20T14:30:54.000Z",
+    "expiryDate": "2026-12-19T14:30:54.000Z",
+    "coordinates": [
+      -114.0531661,
+      51.0949858
+    ],
+    "longitude": -114.0531661,
+    "latitude": 51.0949858,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15529811",
+  "fullDetails": {
+    "licenseNumber": "15529811",
+    "name": "CUTTING EDGE",
+    "address": "#120 20 WESTPARK LI SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-10T09:54:18.000Z",
+    "expiryDate": "2026-07-09T09:54:17.000Z",
+    "coordinates": [
+      -114.2093822,
+      51.0604633
+    ],
+    "longitude": -114.2093822,
+    "latitude": 51.0604633,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

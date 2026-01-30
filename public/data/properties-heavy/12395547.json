@@ -1,0 +1,36 @@
+{
+  "id": "12395547",
+  "fullDetails": {
+    "licenseNumber": "12395547",
+    "name": "DOVER",
+    "address": "216 DOVERGLEN CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2005-07-05T09:58:12.000Z",
+    "expiryDate": "2026-07-04T09:58:12.000Z",
+    "coordinates": [
+      -113.9998799,
+      51.0210607
+    ],
+    "longitude": -113.9998799,
+    "latitude": 51.0210607,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

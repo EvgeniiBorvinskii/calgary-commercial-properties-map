@@ -1,0 +1,37 @@
+{
+  "id": "16158107",
+  "fullDetails": {
+    "licenseNumber": "16158107",
+    "name": "CALGARY FARMER'S MARKET",
+    "address": "25 GREENBRIAR DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "MARKET,\nALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2022-08-12T08:10:25.000Z",
+    "expiryDate": "2026-08-11T08:10:25.000Z",
+    "coordinates": [
+      -114.2224815,
+      51.0884205
+    ],
+    "longitude": -114.2224815,
+    "latitude": 51.0884205,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

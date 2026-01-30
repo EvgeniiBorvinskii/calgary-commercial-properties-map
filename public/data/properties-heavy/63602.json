@@ -1,0 +1,36 @@
+{
+  "id": "63602",
+  "fullDetails": {
+    "licenseNumber": "63602",
+    "name": "MYSTIQUE MECHANICAL*",
+    "address": "#120 7865 56 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-10-16T07:10:30.000Z",
+    "expiryDate": "2026-10-15T07:10:30.000Z",
+    "coordinates": [
+      -113.9529518,
+      50.983737
+    ],
+    "longitude": -113.9529518,
+    "latitude": 50.983737,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

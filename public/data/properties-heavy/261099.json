@@ -1,0 +1,36 @@
+{
+  "id": "261099",
+  "fullDetails": {
+    "licenseNumber": "261099",
+    "name": "BEE-CLEAN",
+    "address": "2510 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2019-07-31T09:24:00.000Z",
+    "expiryDate": "2026-07-30T09:24:00.000Z",
+    "coordinates": [
+      -113.9943344,
+      51.0745122
+    ],
+    "longitude": -113.9943344,
+    "latitude": 51.0745122,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

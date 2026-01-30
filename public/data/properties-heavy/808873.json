@@ -1,0 +1,36 @@
+{
+  "id": "808873",
+  "fullDetails": {
+    "licenseNumber": "808873",
+    "name": "SKYWAY CANADA",
+    "address": "6212 90 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-07-04T15:01:27.000Z",
+    "expiryDate": "2026-07-03T15:01:27.000Z",
+    "coordinates": [
+      -113.9462212,
+      50.9740503
+    ],
+    "longitude": -113.9462212,
+    "latitude": 50.9740503,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

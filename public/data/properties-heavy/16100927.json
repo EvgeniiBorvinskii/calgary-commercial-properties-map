@@ -1,0 +1,36 @@
+{
+  "id": "16100927",
+  "fullDetails": {
+    "licenseNumber": "16100927",
+    "name": "CAMBRIAN ANIMAL HOSPITAL",
+    "address": "765 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-05T11:56:52.000Z",
+    "expiryDate": "2026-11-04T11:56:52.000Z",
+    "coordinates": [
+      -114.0956848,
+      51.0825279
+    ],
+    "longitude": -114.0956848,
+    "latitude": 51.0825279,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

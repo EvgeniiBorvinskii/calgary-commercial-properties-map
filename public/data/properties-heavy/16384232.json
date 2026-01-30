@@ -1,0 +1,36 @@
+{
+  "id": "16384232",
+  "fullDetails": {
+    "licenseNumber": "16384232",
+    "name": "MEDI HEALTHCARE",
+    "address": "2017B CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-22T12:25:10.000Z",
+    "expiryDate": "2027-01-21T12:25:10.000Z",
+    "coordinates": [
+      -114.0630218,
+      51.0703982
+    ],
+    "longitude": -114.0630218,
+    "latitude": 51.0703982,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

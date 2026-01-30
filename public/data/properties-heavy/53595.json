@@ -1,0 +1,36 @@
+{
+  "id": "53595",
+  "fullDetails": {
+    "licenseNumber": "53595",
+    "name": "SOLAR TURBINES",
+    "address": "#1250 440 2 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2020-01-30T05:32:57.000Z",
+    "expiryDate": "2026-01-29T05:32:57.000Z",
+    "coordinates": [
+      -114.0710113,
+      51.0519838
+    ],
+    "longitude": -114.0710113,
+    "latitude": 51.0519838,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12611729",
+  "fullDetails": {
+    "licenseNumber": "12611729",
+    "name": "FIT CITY GRILL",
+    "address": "#3 3715 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "subType": "DISTRIBUTION MANAGER (FOOD PRODUCTS)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING),\nDISTRIBUTION MANAGER (FOOD PRODUCTS)",
+    "status": "active",
+    "issuedDate": "2014-09-17T09:27:10.000Z",
+    "expiryDate": "2026-09-16T09:27:10.000Z",
+    "coordinates": [
+      -113.9796948,
+      50.998512
+    ],
+    "longitude": -113.9796948,
+    "latitude": 50.998512,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

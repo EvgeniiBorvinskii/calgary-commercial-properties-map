@@ -1,0 +1,36 @@
+{
+  "id": "13728373",
+  "fullDetails": {
+    "licenseNumber": "13728373",
+    "name": "DOMINO'S PIZZA #10102",
+    "address": "918 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-16T05:31:39.000Z",
+    "expiryDate": "2026-05-15T05:31:38.000Z",
+    "coordinates": [
+      -114.0822752,
+      51.0481776
+    ],
+    "longitude": -114.0822752,
+    "latitude": 51.0481776,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

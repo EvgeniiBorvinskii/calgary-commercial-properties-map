@@ -1,0 +1,36 @@
+{
+  "id": "16512121",
+  "fullDetails": {
+    "licenseNumber": "16512121",
+    "name": "ROCKPORT COMMERCIAL",
+    "address": "#600 707 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-07-15T15:34:57.000Z",
+    "expiryDate": "2025-07-14T15:34:56.000Z",
+    "coordinates": [
+      -114.0766598,
+      51.046608
+    ],
+    "longitude": -114.0766598,
+    "latitude": 51.046608,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

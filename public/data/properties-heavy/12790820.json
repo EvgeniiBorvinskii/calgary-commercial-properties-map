@@ -1,0 +1,36 @@
+{
+  "id": "12790820",
+  "fullDetails": {
+    "licenseNumber": "12790820",
+    "name": "5 STAR PLUMBING HEATING",
+    "address": "#13 2235 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-03-01T15:26:37.000Z",
+    "expiryDate": "2027-02-28T15:26:37.000Z",
+    "coordinates": [
+      -114.0075831,
+      51.0790169
+    ],
+    "longitude": -114.0075831,
+    "latitude": 51.0790169,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

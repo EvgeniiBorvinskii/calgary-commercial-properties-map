@@ -1,0 +1,36 @@
+{
+  "id": "13985221",
+  "fullDetails": {
+    "licenseNumber": "13985221",
+    "name": "SAM'S LIQUOR STORE",
+    "address": "#12 3304 64 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2015-08-27T12:00:38.000Z",
+    "expiryDate": "2026-08-26T12:00:38.000Z",
+    "coordinates": [
+      -113.9403739,
+      51.082007
+    ],
+    "longitude": -113.9403739,
+    "latitude": 51.082007,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

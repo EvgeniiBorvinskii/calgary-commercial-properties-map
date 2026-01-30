@@ -1,0 +1,37 @@
+{
+  "id": "15047350",
+  "fullDetails": {
+    "licenseNumber": "15047350",
+    "name": "KAL TIRE #635",
+    "address": "#150 155 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-09T12:57:49.000Z",
+    "expiryDate": "2026-11-08T12:57:49.000Z",
+    "coordinates": [
+      -114.2089127,
+      51.1257302
+    ],
+    "longitude": -114.2089127,
+    "latitude": 51.1257302,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

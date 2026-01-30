@@ -1,0 +1,37 @@
+{
+  "id": "16051401",
+  "fullDetails": {
+    "licenseNumber": "16051401",
+    "name": "PHOENIX GATE CHINESE CUISINE",
+    "address": "#171 1518 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-07-14T11:48:24.000Z",
+    "expiryDate": "2026-07-13T11:48:24.000Z",
+    "coordinates": [
+      -114.0616641,
+      51.0657797
+    ],
+    "longitude": -114.0616641,
+    "latitude": 51.0657797,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16409898",
+  "fullDetails": {
+    "licenseNumber": "16409898",
+    "name": "PRIME BARBERS",
+    "address": "228 14 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-05-17T10:04:40.000Z",
+    "expiryDate": "2026-05-16T10:04:39.000Z",
+    "coordinates": [
+      -114.0601697,
+      51.0397169
+    ],
+    "longitude": -114.0601697,
+    "latitude": 51.0397169,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16125437",
+  "fullDetails": {
+    "licenseNumber": "16125437",
+    "name": "FA COLLECTIONS",
+    "address": "6029 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2023-03-29T14:39:20.000Z",
+    "expiryDate": "2026-03-28T14:39:20.000Z",
+    "coordinates": [
+      -114.0544289,
+      50.9996622
+    ],
+    "longitude": -114.0544289,
+    "latitude": 50.9996622,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

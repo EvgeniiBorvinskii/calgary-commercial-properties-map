@@ -1,0 +1,37 @@
+{
+  "id": "111302",
+  "fullDetails": {
+    "licenseNumber": "111302",
+    "name": "TK ELEVATOR (CANADA)",
+    "address": "#5 2419 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-09-02T05:28:57.000Z",
+    "expiryDate": "2026-09-01T05:28:57.000Z",
+    "coordinates": [
+      -114.0038284,
+      51.0063832
+    ],
+    "longitude": -114.0038284,
+    "latitude": 51.0063832,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

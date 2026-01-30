@@ -1,0 +1,36 @@
+{
+  "id": "12401709",
+  "fullDetails": {
+    "licenseNumber": "12401709",
+    "name": "SONATA SCHOOL OF MUSIC",
+    "address": "#344 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-14T10:04:04.000Z",
+    "expiryDate": "2026-03-13T10:04:04.000Z",
+    "coordinates": [
+      -114.1110289,
+      50.905233
+    ],
+    "longitude": -114.1110289,
+    "latitude": 50.905233,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

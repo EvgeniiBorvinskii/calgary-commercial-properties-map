@@ -1,0 +1,36 @@
+{
+  "id": "12765947",
+  "fullDetails": {
+    "licenseNumber": "12765947",
+    "name": "FLEXPIPE, A DIVISION OF MATTR COR",
+    "address": "3344 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2015-07-16T15:23:56.000Z",
+    "expiryDate": "2026-07-15T15:23:56.000Z",
+    "coordinates": [
+      -113.9842649,
+      51.0060139
+    ],
+    "longitude": -113.9842649,
+    "latitude": 51.0060139,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

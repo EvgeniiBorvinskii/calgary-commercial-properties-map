@@ -1,0 +1,37 @@
+{
+  "id": "16028409",
+  "fullDetails": {
+    "licenseNumber": "16028409",
+    "name": "CROWFOOT PHARMACY",
+    "address": "#301 150 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-05T08:50:36.000Z",
+    "expiryDate": "2026-08-04T08:50:36.000Z",
+    "coordinates": [
+      -114.1954862,
+      51.127376
+    ],
+    "longitude": -114.1954862,
+    "latitude": 51.127376,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

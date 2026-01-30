@@ -1,0 +1,37 @@
+{
+  "id": "15195613",
+  "fullDetails": {
+    "licenseNumber": "15195613",
+    "name": "A PLUS 1 CONVENIENCE STORE",
+    "address": "#308 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2019-03-15T12:50:13.000Z",
+    "expiryDate": "2026-03-14T12:50:13.000Z",
+    "coordinates": [
+      -114.1188001,
+      50.9718534
+    ],
+    "longitude": -114.1188001,
+    "latitude": 50.9718534,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

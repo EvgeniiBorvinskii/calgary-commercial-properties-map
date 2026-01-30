@@ -1,0 +1,36 @@
+{
+  "id": "15992316",
+  "fullDetails": {
+    "licenseNumber": "15992316",
+    "name": "AUTO SURGEON",
+    "address": "#100 11450 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-05-28T13:44:20.000Z",
+    "expiryDate": "2026-05-27T13:44:20.000Z",
+    "coordinates": [
+      -113.9949335,
+      50.9514614
+    ],
+    "longitude": -113.9949335,
+    "latitude": 50.9514614,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

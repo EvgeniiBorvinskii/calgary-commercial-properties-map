@@ -1,0 +1,36 @@
+{
+  "id": "12576104",
+  "fullDetails": {
+    "licenseNumber": "12576104",
+    "name": "CASK BREWING SYSTEMS",
+    "address": "#60 5100 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-11-05T14:09:07.000Z",
+    "expiryDate": "2026-11-04T14:09:07.000Z",
+    "coordinates": [
+      -113.9604833,
+      50.9974566
+    ],
+    "longitude": -113.9604833,
+    "latitude": 50.9974566,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

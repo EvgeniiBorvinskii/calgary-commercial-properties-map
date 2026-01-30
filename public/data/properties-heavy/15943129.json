@@ -1,0 +1,36 @@
+{
+  "id": "15943129",
+  "fullDetails": {
+    "licenseNumber": "15943129",
+    "name": "MJ MOBILE INSTALL",
+    "address": "#7 3620 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-04-28T08:57:11.000Z",
+    "expiryDate": "2026-04-27T08:57:11.000Z",
+    "coordinates": [
+      -113.9908796,
+      51.0854433
+    ],
+    "longitude": -113.9908796,
+    "latitude": 51.0854433,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

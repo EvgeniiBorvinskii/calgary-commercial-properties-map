@@ -1,0 +1,36 @@
+{
+  "id": "12039152",
+  "fullDetails": {
+    "licenseNumber": "12039152",
+    "name": "AFFORDABLE HOME INSULATORS",
+    "address": "#10 4320 75 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2015-01-22T05:33:27.000Z",
+    "expiryDate": "2026-01-21T05:33:27.000Z",
+    "coordinates": [
+      -113.973294,
+      50.9878935
+    ],
+    "longitude": -113.973294,
+    "latitude": 50.9878935,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

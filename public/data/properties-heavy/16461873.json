@@ -1,0 +1,36 @@
+{
+  "id": "16461873",
+  "fullDetails": {
+    "licenseNumber": "16461873",
+    "name": "FOGGY GORILLA VAPE AND SMOKE SHOP",
+    "address": "#214 11566 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2024-03-15T10:00:37.000Z",
+    "expiryDate": "2026-03-14T10:00:37.000Z",
+    "coordinates": [
+      -114.001735,
+      50.9510179
+    ],
+    "longitude": -114.001735,
+    "latitude": 50.9510179,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

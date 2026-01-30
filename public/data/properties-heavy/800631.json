@@ -1,0 +1,36 @@
+{
+  "id": "800631",
+  "fullDetails": {
+    "licenseNumber": "800631",
+    "name": "NOVATECH",
+    "address": "#40 2626 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2024-04-24T08:53:56.000Z",
+    "expiryDate": "2025-04-23T08:53:56.000Z",
+    "coordinates": [
+      -113.9967669,
+      51.1560234
+    ],
+    "longitude": -113.9967669,
+    "latitude": 51.1560234,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

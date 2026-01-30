@@ -1,0 +1,36 @@
+{
+  "id": "755249",
+  "fullDetails": {
+    "licenseNumber": "755249",
+    "name": "METERCOR",
+    "address": "10801 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-11-25T05:35:08.000Z",
+    "expiryDate": "2026-11-24T05:35:07.000Z",
+    "coordinates": [
+      -113.9980063,
+      50.9565898
+    ],
+    "longitude": -113.9980063,
+    "latitude": 50.9565898,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

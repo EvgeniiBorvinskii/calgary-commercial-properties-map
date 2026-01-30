@@ -1,0 +1,36 @@
+{
+  "id": "12395604",
+  "fullDetails": {
+    "licenseNumber": "12395604",
+    "name": "FALCONCREST",
+    "address": "360 FALSHIRE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2005-11-10T14:33:04.000Z",
+    "expiryDate": "2026-11-09T14:33:04.000Z",
+    "coordinates": [
+      -113.9368305,
+      51.1084602
+    ],
+    "longitude": -113.9368305,
+    "latitude": 51.1084602,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

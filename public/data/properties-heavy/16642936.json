@@ -1,0 +1,36 @@
+{
+  "id": "16642936",
+  "fullDetails": {
+    "licenseNumber": "16642936",
+    "name": "FAIRWEATHER",
+    "address": "#341 751 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-04T15:51:30.000Z",
+    "expiryDate": "2026-07-03T15:51:29.000Z",
+    "coordinates": [
+      -114.0707464,
+      51.0463135
+    ],
+    "longitude": -114.0707464,
+    "latitude": 51.0463135,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

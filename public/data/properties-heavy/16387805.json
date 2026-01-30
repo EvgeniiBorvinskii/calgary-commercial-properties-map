@@ -1,0 +1,36 @@
+{
+  "id": "16387805",
+  "fullDetails": {
+    "licenseNumber": "16387805",
+    "name": "LATINOS BAKERY",
+    "address": "613 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-02T16:03:19.000Z",
+    "expiryDate": "2026-02-01T16:03:19.000Z",
+    "coordinates": [
+      -114.0584075,
+      51.0469092
+    ],
+    "longitude": -114.0584075,
+    "latitude": 51.0469092,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14406144",
+  "fullDetails": {
+    "licenseNumber": "14406144",
+    "name": "APARTMENT BUILDING",
+    "address": "1926 35 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2017-03-03T15:34:32.000Z",
+    "expiryDate": "2026-03-02T15:34:32.000Z",
+    "coordinates": [
+      -114.1379881,
+      51.0369027
+    ],
+    "longitude": -114.1379881,
+    "latitude": 51.0369027,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

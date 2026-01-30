@@ -1,0 +1,36 @@
+{
+  "id": "16066565",
+  "fullDetails": {
+    "licenseNumber": "16066565",
+    "name": "CARE HOME HEALTH SOLUTIONS",
+    "address": "#2110 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-10T13:28:42.000Z",
+    "expiryDate": "2026-08-09T13:28:42.000Z",
+    "coordinates": [
+      -113.9711226,
+      51.1533096
+    ],
+    "longitude": -113.9711226,
+    "latitude": 51.1533096,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

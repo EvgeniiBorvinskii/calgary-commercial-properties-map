@@ -1,0 +1,36 @@
+{
+  "id": "82743",
+  "fullDetails": {
+    "licenseNumber": "82743",
+    "name": "PIPETECH CORPORATION",
+    "address": "3311 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-10-04T17:25:26.000Z",
+    "expiryDate": "2026-10-03T05:35:46.000Z",
+    "coordinates": [
+      -113.9904908,
+      50.9490629
+    ],
+    "longitude": -113.9904908,
+    "latitude": 50.9490629,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

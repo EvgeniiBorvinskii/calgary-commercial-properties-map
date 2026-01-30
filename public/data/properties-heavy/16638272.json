@@ -1,0 +1,36 @@
+{
+  "id": "16638272",
+  "fullDetails": {
+    "licenseNumber": "16638272",
+    "name": "AMAZING MASSAGE",
+    "address": "2123 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-06-27T11:13:21.000Z",
+    "expiryDate": "2026-06-26T11:13:21.000Z",
+    "coordinates": [
+      -114.110705,
+      51.023664
+    ],
+    "longitude": -114.110705,
+    "latitude": 51.023664,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

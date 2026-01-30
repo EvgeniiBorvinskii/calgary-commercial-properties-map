@@ -1,0 +1,37 @@
+{
+  "id": "16647521",
+  "fullDetails": {
+    "licenseNumber": "16647521",
+    "name": "CORA BREAKFAST AND LUNCH",
+    "address": "#1018 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-07-28T09:31:14.000Z",
+    "expiryDate": "2026-07-27T09:31:14.000Z",
+    "coordinates": [
+      -114.1079614,
+      51.1752311
+    ],
+    "longitude": -114.1079614,
+    "latitude": 51.1752311,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

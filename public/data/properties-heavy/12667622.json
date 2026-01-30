@@ -1,0 +1,36 @@
+{
+  "id": "12667622",
+  "fullDetails": {
+    "licenseNumber": "12667622",
+    "name": "CRAFTSMAN COLLISION",
+    "address": "5509 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2008-04-24T08:02:21.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0675805,
+      51.0052538
+    ],
+    "longitude": -114.0675805,
+    "latitude": 51.0052538,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

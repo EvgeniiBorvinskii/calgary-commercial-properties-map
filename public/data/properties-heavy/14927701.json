@@ -1,0 +1,36 @@
+{
+  "id": "14927701",
+  "fullDetails": {
+    "licenseNumber": "14927701",
+    "name": "JERRY HOMES",
+    "address": "#A 1801 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-16T10:59:08.000Z",
+    "expiryDate": "2026-09-15T10:59:07.000Z",
+    "coordinates": [
+      -114.0820758,
+      51.0367654
+    ],
+    "longitude": -114.0820758,
+    "latitude": 51.0367654,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

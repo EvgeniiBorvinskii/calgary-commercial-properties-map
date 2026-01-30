@@ -1,0 +1,37 @@
+{
+  "id": "16077745",
+  "fullDetails": {
+    "licenseNumber": "16077745",
+    "name": "ALFORNO FIRST STREET MARKET",
+    "address": "1327 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-08-25T16:11:25.000Z",
+    "expiryDate": "2026-08-24T16:11:25.000Z",
+    "coordinates": [
+      -114.0661853,
+      51.0400369
+    ],
+    "longitude": -114.0661853,
+    "latitude": 51.0400369,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

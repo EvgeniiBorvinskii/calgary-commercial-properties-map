@@ -1,0 +1,36 @@
+{
+  "id": "16558801",
+  "fullDetails": {
+    "licenseNumber": "16558801",
+    "name": "YYC CROSSFIT",
+    "address": "16 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-11-13T10:54:34.000Z",
+    "expiryDate": "2026-11-12T10:54:33.000Z",
+    "coordinates": [
+      -114.0514641,
+      51.0515555
+    ],
+    "longitude": -114.0514641,
+    "latitude": 51.0515555,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

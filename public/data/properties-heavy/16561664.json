@@ -1,0 +1,36 @@
+{
+  "id": "16561664",
+  "fullDetails": {
+    "licenseNumber": "16561664",
+    "name": "COBS BREAD",
+    "address": "4023 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-01-03T10:15:59.000Z",
+    "expiryDate": "2027-01-02T10:15:58.000Z",
+    "coordinates": [
+      -114.145229,
+      51.0781531
+    ],
+    "longitude": -114.145229,
+    "latitude": 51.0781531,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

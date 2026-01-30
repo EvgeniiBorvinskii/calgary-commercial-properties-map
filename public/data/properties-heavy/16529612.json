@@ -1,0 +1,36 @@
+{
+  "id": "16529612",
+  "fullDetails": {
+    "licenseNumber": "16529612",
+    "name": "XPS XPRESS",
+    "address": "#27 777 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-25T12:10:14.000Z",
+    "expiryDate": "2026-09-24T12:10:13.000Z",
+    "coordinates": [
+      -114.047006,
+      50.996235
+    ],
+    "longitude": -114.047006,
+    "latitude": 50.996235,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

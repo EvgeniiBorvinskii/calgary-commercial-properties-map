@@ -1,0 +1,36 @@
+{
+  "id": "890582",
+  "fullDetails": {
+    "licenseNumber": "890582",
+    "name": "PLASTIC WORKS",
+    "address": "11711 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2003-04-01T05:55:03.000Z",
+    "expiryDate": "2026-03-31T05:55:03.000Z",
+    "coordinates": [
+      -113.9721188,
+      50.946235
+    ],
+    "longitude": -113.9721188,
+    "latitude": 50.946235,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

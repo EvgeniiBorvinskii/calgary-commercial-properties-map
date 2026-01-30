@@ -1,0 +1,36 @@
+{
+  "id": "12431912",
+  "fullDetails": {
+    "licenseNumber": "12431912",
+    "name": "PETLAND",
+    "address": "#300 33 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER",
+    "status": "active",
+    "issuedDate": "2005-12-20T15:12:27.000Z",
+    "expiryDate": "2026-12-19T15:12:27.000Z",
+    "coordinates": [
+      -114.0388349,
+      50.9826597
+    ],
+    "longitude": -114.0388349,
+    "latitude": 50.9826597,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

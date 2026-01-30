@@ -1,0 +1,36 @@
+{
+  "id": "53900",
+  "fullDetails": {
+    "licenseNumber": "53900",
+    "name": "GREAT EVENTS CATERING",
+    "address": "#220 5824 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-02T05:34:36.000Z",
+    "expiryDate": "2026-03-01T05:34:36.000Z",
+    "coordinates": [
+      -114.0682846,
+      51.001588
+    ],
+    "longitude": -114.0682846,
+    "latitude": 51.001588,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

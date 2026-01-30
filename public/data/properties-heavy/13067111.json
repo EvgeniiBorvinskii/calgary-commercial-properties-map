@@ -1,0 +1,36 @@
+{
+  "id": "13067111",
+  "fullDetails": {
+    "licenseNumber": "13067111",
+    "name": "DSI",
+    "address": "#12 3510 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-02-04T14:11:13.000Z",
+    "expiryDate": "2026-02-03T14:11:13.000Z",
+    "coordinates": [
+      -113.9935492,
+      51.0845604
+    ],
+    "longitude": -113.9935492,
+    "latitude": 51.0845604,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

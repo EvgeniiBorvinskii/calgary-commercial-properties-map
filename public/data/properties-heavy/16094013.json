@@ -1,0 +1,37 @@
+{
+  "id": "16094013",
+  "fullDetails": {
+    "licenseNumber": "16094013",
+    "name": "ART & FACT",
+    "address": "#1 2403 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2024-06-05T08:45:32.000Z",
+    "expiryDate": "2026-06-04T08:45:32.000Z",
+    "coordinates": [
+      -114.114613,
+      51.0237252
+    ],
+    "longitude": -114.114613,
+    "latitude": 51.0237252,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

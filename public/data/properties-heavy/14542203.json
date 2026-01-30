@@ -1,0 +1,36 @@
+{
+  "id": "14542203",
+  "fullDetails": {
+    "licenseNumber": "14542203",
+    "name": "ALBERTA HEATING",
+    "address": "#3185 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-03-29T10:36:21.000Z",
+    "expiryDate": "2026-03-28T10:36:21.000Z",
+    "coordinates": [
+      -113.979872,
+      51.1112579
+    ],
+    "longitude": -113.979872,
+    "latitude": 51.1112579,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16130783",
+  "fullDetails": {
+    "licenseNumber": "16130783",
+    "name": "NUERA PROPERTIES",
+    "address": "#230 6940 FISHER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-09T10:14:47.000Z",
+    "expiryDate": "2026-12-08T10:14:47.000Z",
+    "coordinates": [
+      -114.0676245,
+      50.9933275
+    ],
+    "longitude": -114.0676245,
+    "latitude": 50.9933275,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16562597",
+  "fullDetails": {
+    "licenseNumber": "16562597",
+    "name": "FOGGY GORILLA VAPE SMOKE SHOP",
+    "address": "#110 2121 194 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2025-02-05T08:11:19.000Z",
+    "expiryDate": "2026-02-04T08:11:18.000Z",
+    "coordinates": [
+      -114.0107893,
+      50.8773875
+    ],
+    "longitude": -114.0107893,
+    "latitude": 50.8773875,
+    "community": "WOLF WILLOW",
+    "ward": "WWO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

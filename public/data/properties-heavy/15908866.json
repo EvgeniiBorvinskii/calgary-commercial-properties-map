@@ -1,0 +1,36 @@
+{
+  "id": "15908866",
+  "fullDetails": {
+    "licenseNumber": "15908866",
+    "name": "SIGNATURE AUTOS",
+    "address": "#12 5660 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-19T07:45:32.000Z",
+    "expiryDate": "2026-09-18T07:45:32.000Z",
+    "coordinates": [
+      -114.0373083,
+      51.1040707
+    ],
+    "longitude": -114.0373083,
+    "latitude": 51.1040707,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

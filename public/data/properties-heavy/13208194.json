@@ -1,0 +1,36 @@
+{
+  "id": "13208194",
+  "fullDetails": {
+    "licenseNumber": "13208194",
+    "name": "PRINT 3",
+    "address": "#210 333 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-08-11T09:27:20.000Z",
+    "expiryDate": "2026-08-10T09:27:20.000Z",
+    "coordinates": [
+      -114.0696244,
+      51.0482841
+    ],
+    "longitude": -114.0696244,
+    "latitude": 51.0482841,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

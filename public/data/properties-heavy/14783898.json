@@ -1,0 +1,37 @@
+{
+  "id": "14783898",
+  "fullDetails": {
+    "licenseNumber": "14783898",
+    "name": "WENDYS",
+    "address": "3311 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-01-11T15:19:57.000Z",
+    "expiryDate": "2027-01-10T15:19:57.000Z",
+    "coordinates": [
+      -113.9988302,
+      51.0818522
+    ],
+    "longitude": -113.9988302,
+    "latitude": 51.0818522,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

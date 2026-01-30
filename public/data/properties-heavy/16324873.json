@@ -1,0 +1,36 @@
+{
+  "id": "16324873",
+  "fullDetails": {
+    "licenseNumber": "16324873",
+    "name": "SUNDAYS FURNITURE",
+    "address": "#109 220 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-18T16:20:10.000Z",
+    "expiryDate": "2026-05-17T16:20:10.000Z",
+    "coordinates": [
+      -114.0670402,
+      51.0417073
+    ],
+    "longitude": -114.0670402,
+    "latitude": 51.0417073,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

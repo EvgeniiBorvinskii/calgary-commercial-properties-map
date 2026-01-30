@@ -1,0 +1,36 @@
+{
+  "id": "16511800",
+  "fullDetails": {
+    "licenseNumber": "16511800",
+    "name": "HANKKI ACADIA",
+    "address": "391 HERITAGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-11T14:58:59.000Z",
+    "expiryDate": "2026-07-10T14:58:58.000Z",
+    "coordinates": [
+      -114.0607998,
+      50.9792972
+    ],
+    "longitude": -114.0607998,
+    "latitude": 50.9792972,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

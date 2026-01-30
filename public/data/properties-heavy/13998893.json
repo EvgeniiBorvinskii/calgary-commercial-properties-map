@@ -1,0 +1,36 @@
+{
+  "id": "13998893",
+  "fullDetails": {
+    "licenseNumber": "13998893",
+    "name": "ARTERO CUSTOM FINISHING",
+    "address": "#6 4828 PACIFIC RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2016-02-01T12:18:48.000Z",
+    "expiryDate": "2026-01-31T12:18:48.000Z",
+    "coordinates": [
+      -114.0460012,
+      51.0952513
+    ],
+    "longitude": -114.0460012,
+    "latitude": 51.0952513,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

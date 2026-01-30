@@ -1,0 +1,36 @@
+{
+  "id": "13862560",
+  "fullDetails": {
+    "licenseNumber": "13862560",
+    "name": "ABM COLLEGE",
+    "address": "#200 112 28 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-01-07T14:17:30.000Z",
+    "expiryDate": "2027-01-06T14:17:30.000Z",
+    "coordinates": [
+      -113.992491,
+      51.052085
+    ],
+    "longitude": -113.992491,
+    "latitude": 51.052085,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

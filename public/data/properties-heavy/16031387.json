@@ -1,0 +1,37 @@
+{
+  "id": "16031387",
+  "fullDetails": {
+    "licenseNumber": "16031387",
+    "name": "ZAB DER AUTHENTIC THAI",
+    "address": "#1 936 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-07-13T12:09:47.000Z",
+    "expiryDate": "2026-07-12T12:09:47.000Z",
+    "coordinates": [
+      -114.1046466,
+      51.0868427
+    ],
+    "longitude": -114.1046466,
+    "latitude": 51.0868427,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

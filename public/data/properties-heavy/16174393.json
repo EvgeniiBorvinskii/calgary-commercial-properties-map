@@ -1,0 +1,36 @@
+{
+  "id": "16174393",
+  "fullDetails": {
+    "licenseNumber": "16174393",
+    "name": "ALTADORE WINE AND SPIRITS",
+    "address": "4810 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-07-12T11:45:11.000Z",
+    "expiryDate": "2026-07-11T11:45:11.000Z",
+    "coordinates": [
+      -114.0998816,
+      51.0109169
+    ],
+    "longitude": -114.0998816,
+    "latitude": 51.0109169,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

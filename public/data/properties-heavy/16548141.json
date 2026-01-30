@@ -1,0 +1,37 @@
+{
+  "id": "16548141",
+  "fullDetails": {
+    "licenseNumber": "16548141",
+    "name": "TASTE OF YEMEN",
+    "address": "1033 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-12-02T17:11:04.000Z",
+    "expiryDate": "2026-12-01T17:11:03.000Z",
+    "coordinates": [
+      -114.0862299,
+      51.0376755
+    ],
+    "longitude": -114.0862299,
+    "latitude": 51.0376755,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

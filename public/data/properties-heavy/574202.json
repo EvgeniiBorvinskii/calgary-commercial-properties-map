@@ -1,0 +1,37 @@
+{
+  "id": "574202",
+  "fullDetails": {
+    "licenseNumber": "574202",
+    "name": "WENTWORTH MANOR",
+    "address": "5717 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-26T00:00:00.000Z",
+    "coordinates": [
+      -114.169655,
+      51.0385716
+    ],
+    "longitude": -114.169655,
+    "latitude": 51.0385716,
+    "community": "CHRISTIE PARK",
+    "ward": "CHR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15037153",
+  "fullDetails": {
+    "licenseNumber": "15037153",
+    "name": "CANNA CABANA",
+    "address": "1065 CANYON MEADOWS DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2018-10-10T16:45:13.000Z",
+    "expiryDate": "2026-10-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0837218,
+      50.9386255
+    ],
+    "longitude": -114.0837218,
+    "latitude": 50.9386255,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

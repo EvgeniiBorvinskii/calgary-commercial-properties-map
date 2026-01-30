@@ -1,0 +1,36 @@
+{
+  "id": "13088505",
+  "fullDetails": {
+    "licenseNumber": "13088505",
+    "name": "BARAKA STORES",
+    "address": "3409 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-02-24T05:55:12.000Z",
+    "expiryDate": "2026-02-23T05:55:12.000Z",
+    "coordinates": [
+      -113.9854912,
+      51.0373673
+    ],
+    "longitude": -113.9854912,
+    "latitude": 51.0373673,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

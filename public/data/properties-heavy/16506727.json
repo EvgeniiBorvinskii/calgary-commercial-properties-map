@@ -1,0 +1,36 @@
+{
+  "id": "16506727",
+  "fullDetails": {
+    "licenseNumber": "16506727",
+    "name": "SHIPPING UNIVERSE",
+    "address": "#204 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-27T09:34:48.000Z",
+    "expiryDate": "2026-06-26T09:34:48.000Z",
+    "coordinates": [
+      -113.9557107,
+      51.06381
+    ],
+    "longitude": -113.9557107,
+    "latitude": 51.06381,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

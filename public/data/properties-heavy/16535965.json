@@ -1,0 +1,36 @@
+{
+  "id": "16535965",
+  "fullDetails": {
+    "licenseNumber": "16535965",
+    "name": "EGG CLUB",
+    "address": "#3 8720 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-03-28T11:52:02.000Z",
+    "expiryDate": "2026-03-27T11:52:01.000Z",
+    "coordinates": [
+      -114.0702032,
+      50.9757367
+    ],
+    "longitude": -114.0702032,
+    "latitude": 50.9757367,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

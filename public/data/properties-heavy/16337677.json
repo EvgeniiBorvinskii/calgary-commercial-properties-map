@@ -1,0 +1,36 @@
+{
+  "id": "16337677",
+  "fullDetails": {
+    "licenseNumber": "16337677",
+    "name": "YYC FLOORING SOLUTIONS",
+    "address": "#2 3530 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-06T15:43:23.000Z",
+    "expiryDate": "2026-09-05T15:43:23.000Z",
+    "coordinates": [
+      -113.9881726,
+      51.0846368
+    ],
+    "longitude": -113.9881726,
+    "latitude": 51.0846368,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

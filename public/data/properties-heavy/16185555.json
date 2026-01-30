@@ -1,0 +1,37 @@
+{
+  "id": "16185555",
+  "fullDetails": {
+    "licenseNumber": "16185555",
+    "name": "INSIDE OUT TOTAL WELLNESS",
+    "address": "#100 1324 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2022-09-08T11:47:17.000Z",
+    "expiryDate": "2026-09-07T11:47:17.000Z",
+    "coordinates": [
+      -114.0926777,
+      51.0435191
+    ],
+    "longitude": -114.0926777,
+    "latitude": 51.0435191,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

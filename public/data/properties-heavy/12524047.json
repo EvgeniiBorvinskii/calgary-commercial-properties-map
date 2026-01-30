@@ -1,0 +1,37 @@
+{
+  "id": "12524047",
+  "fullDetails": {
+    "licenseNumber": "12524047",
+    "name": "HOME-RAIL",
+    "address": "5520 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-04-20T10:42:09.000Z",
+    "expiryDate": "2026-04-19T10:42:09.000Z",
+    "coordinates": [
+      -114.0530456,
+      51.0044409
+    ],
+    "longitude": -114.0530456,
+    "latitude": 51.0044409,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

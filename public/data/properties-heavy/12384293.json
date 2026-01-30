@@ -1,0 +1,37 @@
+{
+  "id": "12384293",
+  "fullDetails": {
+    "licenseNumber": "12384293",
+    "name": "SANDSTONE PHARMACIES FIFTH AVE",
+    "address": "#222 425 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2005-03-15T05:32:29.000Z",
+    "expiryDate": "2026-03-14T05:32:29.000Z",
+    "coordinates": [
+      -114.0657077,
+      51.0489463
+    ],
+    "longitude": -114.0657077,
+    "latitude": 51.0489463,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

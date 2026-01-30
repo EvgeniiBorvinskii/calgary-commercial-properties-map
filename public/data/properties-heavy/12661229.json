@@ -1,0 +1,36 @@
+{
+  "id": "12661229",
+  "fullDetails": {
+    "licenseNumber": "12661229",
+    "name": "RANGE MOBILITY",
+    "address": "125 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-06-03T05:33:02.000Z",
+    "expiryDate": "2026-06-02T05:33:02.000Z",
+    "coordinates": [
+      -114.0625671,
+      50.997378
+    ],
+    "longitude": -114.0625671,
+    "latitude": 50.997378,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

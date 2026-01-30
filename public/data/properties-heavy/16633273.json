@@ -1,0 +1,36 @@
+{
+  "id": "16633273",
+  "fullDetails": {
+    "licenseNumber": "16633273",
+    "name": "BOMBAY CHOWPATTY (CNT-680) FSFV",
+    "address": "#830 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "status": "active",
+    "issuedDate": "2025-05-22T08:07:00.000Z",
+    "expiryDate": "2026-05-21T08:07:00.000Z",
+    "coordinates": [
+      -113.9629328,
+      51.0976712
+    ],
+    "longitude": -113.9629328,
+    "latitude": 51.0976712,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

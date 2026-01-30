@@ -1,0 +1,36 @@
+{
+  "id": "14502124",
+  "fullDetails": {
+    "licenseNumber": "14502124",
+    "name": "WAVE HOMES",
+    "address": "2332 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-03-19T13:22:11.000Z",
+    "expiryDate": "2026-03-18T13:22:10.000Z",
+    "coordinates": [
+      -114.0026476,
+      51.0729504
+    ],
+    "longitude": -114.0026476,
+    "latitude": 51.0729504,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

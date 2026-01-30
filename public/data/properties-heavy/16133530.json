@@ -1,0 +1,36 @@
+{
+  "id": "16133530",
+  "fullDetails": {
+    "licenseNumber": "16133530",
+    "name": "FORTIFIED TRUCK AND TRAILER REPAIR",
+    "address": "5 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-07-27T10:41:16.000Z",
+    "expiryDate": "2026-07-26T10:41:16.000Z",
+    "coordinates": [
+      -113.9036328,
+      50.969874
+    ],
+    "longitude": -113.9036328,
+    "latitude": 50.969874,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

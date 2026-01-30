@@ -1,0 +1,36 @@
+{
+  "id": "12273009",
+  "fullDetails": {
+    "licenseNumber": "12273009",
+    "name": "AVENUE TOWERS",
+    "address": "333 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2005-01-06T05:42:40.000Z",
+    "expiryDate": "2027-01-05T05:42:39.000Z",
+    "coordinates": [
+      -114.0703084,
+      51.037654
+    ],
+    "longitude": -114.0703084,
+    "latitude": 51.037654,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

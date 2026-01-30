@@ -1,0 +1,37 @@
+{
+  "id": "16414930",
+  "fullDetails": {
+    "licenseNumber": "16414930",
+    "name": "JOY'S ELECTROLYSIS & SKIN CARE",
+    "address": "#209 811 MANNING RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-05T14:26:35.000Z",
+    "expiryDate": "2026-02-04T14:26:35.000Z",
+    "coordinates": [
+      -114.0198919,
+      51.0588608
+    ],
+    "longitude": -114.0198919,
+    "latitude": 51.0588608,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

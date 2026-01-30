@@ -1,0 +1,36 @@
+{
+  "id": "13228143",
+  "fullDetails": {
+    "licenseNumber": "13228143",
+    "name": "PROTECH MAINTENANCE",
+    "address": "1424 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-01-15T05:34:21.000Z",
+    "expiryDate": "2027-01-14T05:34:21.000Z",
+    "coordinates": [
+      -114.0268244,
+      51.0162774
+    ],
+    "longitude": -114.0268244,
+    "latitude": 51.0162774,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

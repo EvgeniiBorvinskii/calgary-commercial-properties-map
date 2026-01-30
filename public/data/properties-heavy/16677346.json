@@ -1,0 +1,36 @@
+{
+  "id": "16677346",
+  "fullDetails": {
+    "licenseNumber": "16677346",
+    "name": "WEST COAST CUTTING CORING GROUP",
+    "address": "#B 5920 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-01T11:59:38.000Z",
+    "expiryDate": "2026-09-30T11:59:38.000Z",
+    "coordinates": [
+      -113.9846087,
+      51.0006132
+    ],
+    "longitude": -113.9846087,
+    "latitude": 51.0006132,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

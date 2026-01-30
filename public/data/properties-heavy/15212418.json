@@ -1,0 +1,36 @@
+{
+  "id": "15212418",
+  "fullDetails": {
+    "licenseNumber": "15212418",
+    "name": "RISING EDGE TECHNOLOGIES",
+    "address": "4800 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2019-03-15T08:19:22.000Z",
+    "expiryDate": "2026-03-14T08:19:22.000Z",
+    "coordinates": [
+      -113.9940199,
+      51.0107983
+    ],
+    "longitude": -113.9940199,
+    "latitude": 51.0107983,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

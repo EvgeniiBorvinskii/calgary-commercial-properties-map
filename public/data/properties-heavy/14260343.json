@@ -1,0 +1,37 @@
+{
+  "id": "14260343",
+  "fullDetails": {
+    "licenseNumber": "14260343",
+    "name": "7-ELEVEN (CANADA STORE #37781H)",
+    "address": "45 EVERRIDGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-07T08:23:53.000Z",
+    "expiryDate": "2026-11-06T08:23:53.000Z",
+    "coordinates": [
+      -114.1240729,
+      50.9210388
+    ],
+    "longitude": -114.1240729,
+    "latitude": 50.9210388,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

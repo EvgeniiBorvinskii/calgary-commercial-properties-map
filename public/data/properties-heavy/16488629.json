@@ -1,0 +1,36 @@
+{
+  "id": "16488629",
+  "fullDetails": {
+    "licenseNumber": "16488629",
+    "name": "TURN-KEY FALL PROTECTION",
+    "address": "2299 20 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-06-19T14:56:41.000Z",
+    "expiryDate": "2026-06-18T14:56:41.000Z",
+    "coordinates": [
+      -114.0069611,
+      51.0701722
+    ],
+    "longitude": -114.0069611,
+    "latitude": 51.0701722,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

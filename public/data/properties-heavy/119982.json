@@ -1,0 +1,36 @@
+{
+  "id": "119982",
+  "fullDetails": {
+    "licenseNumber": "119982",
+    "name": "TRANS AM PIPING PRODUCTS",
+    "address": "9335 ENDEAVOR DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-11-08T11:39:46.000Z",
+    "expiryDate": "2026-11-07T11:39:46.000Z",
+    "coordinates": [
+      -113.8930923,
+      50.9695524
+    ],
+    "longitude": -113.8930923,
+    "latitude": 50.9695524,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

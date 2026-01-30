@@ -1,0 +1,36 @@
+{
+  "id": "16146045",
+  "fullDetails": {
+    "licenseNumber": "16146045",
+    "name": "PAWS DISCOVERY",
+    "address": "140 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-20T13:04:53.000Z",
+    "expiryDate": "2026-06-19T13:04:53.000Z",
+    "coordinates": [
+      -114.0667291,
+      51.0525288
+    ],
+    "longitude": -114.0667291,
+    "latitude": 51.0525288,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

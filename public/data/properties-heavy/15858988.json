@@ -1,0 +1,36 @@
+{
+  "id": "15858988",
+  "fullDetails": {
+    "licenseNumber": "15858988",
+    "name": "PETER HUGHES LANDSCAPE",
+    "address": "7203 FLINT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-02-16T11:01:05.000Z",
+    "expiryDate": "2027-02-15T11:01:05.000Z",
+    "coordinates": [
+      -114.0666657,
+      50.9884089
+    ],
+    "longitude": -114.0666657,
+    "latitude": 50.9884089,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

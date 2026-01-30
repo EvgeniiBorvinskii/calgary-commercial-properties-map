@@ -1,0 +1,36 @@
+{
+  "id": "13461884",
+  "fullDetails": {
+    "licenseNumber": "13461884",
+    "name": "CROWFOOT LIQUOR",
+    "address": "#300 8435 BOWFORT RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2012-05-25T14:26:07.000Z",
+    "expiryDate": "2026-05-24T14:26:07.000Z",
+    "coordinates": [
+      -114.2098359,
+      51.084748
+    ],
+    "longitude": -114.2098359,
+    "latitude": 51.084748,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

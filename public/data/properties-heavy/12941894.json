@@ -1,0 +1,36 @@
+{
+  "id": "12941894",
+  "fullDetails": {
+    "licenseNumber": "12941894",
+    "name": "J L AUTO SERVICE CENTRE",
+    "address": "#9 1404 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-09-09T09:38:28.000Z",
+    "expiryDate": "2026-09-08T09:38:28.000Z",
+    "coordinates": [
+      -114.0294837,
+      51.0920968
+    ],
+    "longitude": -114.0294837,
+    "latitude": 51.0920968,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16617466",
+  "fullDetails": {
+    "licenseNumber": "16617466",
+    "name": "FURNITURE DEPOT",
+    "address": "#140 6600 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-01T13:37:42.000Z",
+    "expiryDate": "2026-07-31T13:37:42.000Z",
+    "coordinates": [
+      -113.9813899,
+      51.1118302
+    ],
+    "longitude": -113.9813899,
+    "latitude": 51.1118302,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

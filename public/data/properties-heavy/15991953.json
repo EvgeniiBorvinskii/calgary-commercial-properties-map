@@ -1,0 +1,36 @@
+{
+  "id": "15991953",
+  "fullDetails": {
+    "licenseNumber": "15991953",
+    "name": "LIQUORAMA",
+    "address": "#1710 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2021-03-08T15:05:12.000Z",
+    "expiryDate": "2026-03-07T15:05:12.000Z",
+    "coordinates": [
+      -113.9512093,
+      51.1564898
+    ],
+    "longitude": -113.9512093,
+    "latitude": 51.1564898,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

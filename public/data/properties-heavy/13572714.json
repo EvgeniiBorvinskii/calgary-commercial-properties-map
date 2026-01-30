@@ -1,0 +1,36 @@
+{
+  "id": "13572714",
+  "fullDetails": {
+    "licenseNumber": "13572714",
+    "name": "THORNCLIFFE AUTOMOTIVE REPAIR / THORNCLIFFE AUTOMOTIVE",
+    "address": "5515 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2012-10-31T13:21:07.000Z",
+    "expiryDate": "2026-10-30T13:21:07.000Z",
+    "coordinates": [
+      -114.0720191,
+      51.1008573
+    ],
+    "longitude": -114.0720191,
+    "latitude": 51.1008573,
+    "community": "THORNCLIFFE",
+    "ward": "THO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

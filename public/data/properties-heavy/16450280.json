@@ -1,0 +1,36 @@
+{
+  "id": "16450280",
+  "fullDetails": {
+    "licenseNumber": "16450280",
+    "name": "CANYON MEADOWS SHOE REPAIR",
+    "address": "#24 11625 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2024-02-09T11:29:42.000Z",
+    "expiryDate": "2026-02-08T11:29:42.000Z",
+    "coordinates": [
+      -114.0850125,
+      50.9493309
+    ],
+    "longitude": -114.0850125,
+    "latitude": 50.9493309,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

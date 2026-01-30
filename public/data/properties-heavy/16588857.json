@@ -1,0 +1,36 @@
+{
+  "id": "16588857",
+  "fullDetails": {
+    "licenseNumber": "16588857",
+    "name": "MYK MOTORS",
+    "address": "15130R BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-11T11:59:27.000Z",
+    "expiryDate": "2026-03-10T11:59:27.000Z",
+    "coordinates": [
+      -114.0670283,
+      50.9181399
+    ],
+    "longitude": -114.0670283,
+    "latitude": 50.9181399,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

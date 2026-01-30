@@ -1,0 +1,37 @@
+{
+  "id": "16454142",
+  "fullDetails": {
+    "licenseNumber": "16454142",
+    "name": "CHEVRON MANCHESTER",
+    "address": "510 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-05-03T09:04:56.000Z",
+    "expiryDate": "2026-05-02T09:04:56.000Z",
+    "coordinates": [
+      -114.0530363,
+      51.0019685
+    ],
+    "longitude": -114.0530363,
+    "latitude": 51.0019685,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

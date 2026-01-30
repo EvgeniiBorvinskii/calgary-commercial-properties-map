@@ -1,0 +1,36 @@
+{
+  "id": "15719867",
+  "fullDetails": {
+    "licenseNumber": "15719867",
+    "name": "FANATTIC",
+    "address": "#233 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-25T10:41:08.000Z",
+    "expiryDate": "2026-09-24T10:41:08.000Z",
+    "coordinates": [
+      -114.065681,
+      50.9528873
+    ],
+    "longitude": -114.065681,
+    "latitude": 50.9528873,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

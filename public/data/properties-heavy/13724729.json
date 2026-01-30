@@ -1,0 +1,36 @@
+{
+  "id": "13724729",
+  "fullDetails": {
+    "licenseNumber": "13724729",
+    "name": "AMBIPAR RESPONSE CANADA",
+    "address": "#101 3016 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2015-04-17T05:30:30.000Z",
+    "expiryDate": "2026-04-16T05:30:30.000Z",
+    "coordinates": [
+      -114.0109526,
+      51.0791392
+    ],
+    "longitude": -114.0109526,
+    "latitude": 51.0791392,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13996871",
+  "fullDetails": {
+    "licenseNumber": "13996871",
+    "name": "VITALITY TAP",
+    "address": "#201 420 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2015-10-30T14:31:12.000Z",
+    "expiryDate": "2024-10-29T14:31:12.000Z",
+    "coordinates": [
+      -114.0671037,
+      51.048957
+    ],
+    "longitude": -114.0671037,
+    "latitude": 51.048957,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

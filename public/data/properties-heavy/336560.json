@@ -1,0 +1,37 @@
+{
+  "id": "336560",
+  "fullDetails": {
+    "licenseNumber": "336560",
+    "name": "HOME DEPOT CANADA #7063",
+    "address": "6500 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nFOOD SERVICE - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-26T00:00:00.000Z",
+    "coordinates": [
+      -114.0686168,
+      50.9960332
+    ],
+    "longitude": -114.0686168,
+    "latitude": 50.9960332,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

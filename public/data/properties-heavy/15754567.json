@@ -1,0 +1,36 @@
+{
+  "id": "15754567",
+  "fullDetails": {
+    "licenseNumber": "15754567",
+    "name": "STOW-AWAY RV STORAGE",
+    "address": "2801 144 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2019-09-23T12:03:26.000Z",
+    "expiryDate": "2026-09-22T12:03:26.000Z",
+    "coordinates": [
+      -113.9965354,
+      51.182874
+    ],
+    "longitude": -113.9965354,
+    "latitude": 51.182874,
+    "community": "STONEY 4",
+    "ward": "ST4",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

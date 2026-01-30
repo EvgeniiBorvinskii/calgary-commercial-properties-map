@@ -1,0 +1,37 @@
+{
+  "id": "16202277",
+  "fullDetails": {
+    "licenseNumber": "16202277",
+    "name": "SKINECHT STUDIO",
+    "address": "470 NA'A CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-04-19T11:29:16.000Z",
+    "expiryDate": "2026-04-18T11:29:16.000Z",
+    "coordinates": [
+      -114.2083265,
+      51.082199
+    ],
+    "longitude": -114.2083265,
+    "latitude": 51.082199,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

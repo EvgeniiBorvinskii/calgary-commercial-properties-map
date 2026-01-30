@@ -1,0 +1,36 @@
+{
+  "id": "16554990",
+  "fullDetails": {
+    "licenseNumber": "16554990",
+    "name": "TORCH FITNESS",
+    "address": "#30 1935 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-12-23T14:16:40.000Z",
+    "expiryDate": "2026-12-22T14:16:39.000Z",
+    "coordinates": [
+      -114.1418451,
+      51.0365667
+    ],
+    "longitude": -114.1418451,
+    "latitude": 51.0365667,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

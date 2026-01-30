@@ -1,0 +1,36 @@
+{
+  "id": "16158057",
+  "fullDetails": {
+    "licenseNumber": "16158057",
+    "name": "OSTEO HOLISTIC CARE CENTRE",
+    "address": "#403 5920 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-13T11:40:27.000Z",
+    "expiryDate": "2027-01-12T11:40:27.000Z",
+    "coordinates": [
+      -114.0659226,
+      51.0002611
+    ],
+    "longitude": -114.0659226,
+    "latitude": 51.0002611,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

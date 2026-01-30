@@ -1,0 +1,36 @@
+{
+  "id": "16231011",
+  "fullDetails": {
+    "licenseNumber": "16231011",
+    "name": "DOGFATHER (THE) COWBOYS",
+    "address": "421 12 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-13T11:19:10.000Z",
+    "expiryDate": "2026-03-12T11:19:09.000Z",
+    "coordinates": [
+      -114.0549915,
+      51.0406002
+    ],
+    "longitude": -114.0549915,
+    "latitude": 51.0406002,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

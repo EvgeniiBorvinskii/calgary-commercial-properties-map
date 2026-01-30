@@ -1,0 +1,36 @@
+{
+  "id": "14168728",
+  "fullDetails": {
+    "licenseNumber": "14168728",
+    "name": "SUNGLASS HUT 3606",
+    "address": "#1Y 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-08-26T15:39:42.000Z",
+    "expiryDate": "2026-08-25T15:39:42.000Z",
+    "coordinates": [
+      -114.07491,
+      50.9969634
+    ],
+    "longitude": -114.07491,
+    "latitude": 50.9969634,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

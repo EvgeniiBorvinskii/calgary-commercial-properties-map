@@ -1,0 +1,37 @@
+{
+  "id": "16206138",
+  "fullDetails": {
+    "licenseNumber": "16206138",
+    "name": "AKAL AUTO REPAIR",
+    "address": "#123 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-07-18T16:04:08.000Z",
+    "expiryDate": "2026-07-17T16:04:08.000Z",
+    "coordinates": [
+      -113.9786422,
+      51.1519461
+    ],
+    "longitude": -113.9786422,
+    "latitude": 51.1519461,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16113011",
+  "fullDetails": {
+    "licenseNumber": "16113011",
+    "name": "108 HOME STORE",
+    "address": "#8 2221 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-01-28T11:40:21.000Z",
+    "expiryDate": "2027-01-27T11:40:21.000Z",
+    "coordinates": [
+      -114.0066898,
+      51.0894667
+    ],
+    "longitude": -114.0066898,
+    "latitude": 51.0894667,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

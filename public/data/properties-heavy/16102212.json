@@ -1,0 +1,37 @@
+{
+  "id": "16102212",
+  "fullDetails": {
+    "licenseNumber": "16102212",
+    "name": "NEW CAMP",
+    "address": "#323 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2022-03-08T06:42:32.000Z",
+    "expiryDate": "2026-03-07T06:42:32.000Z",
+    "coordinates": [
+      -114.1677188,
+      51.0374122
+    ],
+    "longitude": -114.1677188,
+    "latitude": 51.0374122,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

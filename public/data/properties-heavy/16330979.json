@@ -1,0 +1,36 @@
+{
+  "id": "16330979",
+  "fullDetails": {
+    "licenseNumber": "16330979",
+    "name": "NEXTRIDE",
+    "address": "#A 3020 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-14T13:23:07.000Z",
+    "expiryDate": "2026-05-13T13:23:07.000Z",
+    "coordinates": [
+      -114.0305936,
+      51.0271685
+    ],
+    "longitude": -114.0305936,
+    "latitude": 51.0271685,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

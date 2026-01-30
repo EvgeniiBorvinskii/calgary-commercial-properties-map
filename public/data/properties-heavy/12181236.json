@@ -1,0 +1,36 @@
+{
+  "id": "12181236",
+  "fullDetails": {
+    "licenseNumber": "12181236",
+    "name": "FOOTHILLS LANDSCAPING",
+    "address": "#L 2626 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2004-07-23T07:57:29.000Z",
+    "expiryDate": "2026-07-22T07:57:29.000Z",
+    "coordinates": [
+      -113.9640071,
+      51.0307553
+    ],
+    "longitude": -113.9640071,
+    "latitude": 51.0307553,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16172702",
+  "fullDetails": {
+    "licenseNumber": "16172702",
+    "name": "ORIGINAL SWEETS AND RESTAURANT   CGY-1554 (FSFV))",
+    "address": "#560 6520 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE (PRIVATE PROPERTY)",
+    "status": "pending",
+    "issuedDate": "2024-02-06T05:35:19.000Z",
+    "expiryDate": "2026-02-05T05:35:19.000Z",
+    "coordinates": [
+      -113.9452623,
+      51.1116274
+    ],
+    "longitude": -113.9452623,
+    "latitude": 51.1116274,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

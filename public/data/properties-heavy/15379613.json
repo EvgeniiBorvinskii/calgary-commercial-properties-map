@@ -1,0 +1,37 @@
+{
+  "id": "15379613",
+  "fullDetails": {
+    "licenseNumber": "15379613",
+    "name": "ECHELON SUPPLY AND SERVICE",
+    "address": "#2117 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-03-22T10:10:16.000Z",
+    "expiryDate": "2026-03-21T10:10:16.000Z",
+    "coordinates": [
+      -113.943052,
+      50.9804138
+    ],
+    "longitude": -113.943052,
+    "latitude": 50.9804138,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

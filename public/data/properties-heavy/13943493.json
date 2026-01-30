@@ -1,0 +1,36 @@
+{
+  "id": "13943493",
+  "fullDetails": {
+    "licenseNumber": "13943493",
+    "name": "UNIFORMS FOR YOU",
+    "address": "763 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-04-11T15:24:31.000Z",
+    "expiryDate": "2026-04-10T15:24:31.000Z",
+    "coordinates": [
+      -114.0955601,
+      51.0825054
+    ],
+    "longitude": -114.0955601,
+    "latitude": 51.0825054,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

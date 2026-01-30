@@ -1,0 +1,37 @@
+{
+  "id": "16328940",
+  "fullDetails": {
+    "licenseNumber": "16328940",
+    "name": "D&Y HAIR AND BEAUTY SALON",
+    "address": "#114 790 COVENTRY DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2023-06-15T15:55:51.000Z",
+    "expiryDate": "2026-06-14T15:55:51.000Z",
+    "coordinates": [
+      -114.0432677,
+      51.1580818
+    ],
+    "longitude": -114.0432677,
+    "latitude": 51.1580818,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

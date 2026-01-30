@@ -1,0 +1,36 @@
+{
+  "id": "13643861",
+  "fullDetails": {
+    "licenseNumber": "13643861",
+    "name": "INLAND MACHINING SERVICES",
+    "address": "3528 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-04-16T15:49:08.000Z",
+    "expiryDate": "2026-04-15T15:49:08.000Z",
+    "coordinates": [
+      -113.9829693,
+      50.9805756
+    ],
+    "longitude": -113.9829693,
+    "latitude": 50.9805756,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

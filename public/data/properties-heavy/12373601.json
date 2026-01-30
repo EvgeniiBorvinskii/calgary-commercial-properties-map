@@ -1,0 +1,36 @@
+{
+  "id": "12373601",
+  "fullDetails": {
+    "licenseNumber": "12373601",
+    "name": "ALBERTA MOTOR ASSOCIATION",
+    "address": "#600 85 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-17T05:32:17.000Z",
+    "expiryDate": "2026-11-16T05:32:17.000Z",
+    "coordinates": [
+      -114.0673105,
+      50.9054914
+    ],
+    "longitude": -114.0673105,
+    "latitude": 50.9054914,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

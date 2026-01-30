@@ -1,0 +1,36 @@
+{
+  "id": "16577322",
+  "fullDetails": {
+    "licenseNumber": "16577322",
+    "name": "DENGS DUMPLING",
+    "address": "#102 1107 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-02-20T10:15:15.000Z",
+    "expiryDate": "2026-02-19T10:15:15.000Z",
+    "coordinates": [
+      -114.0875461,
+      51.0376028
+    ],
+    "longitude": -114.0875461,
+    "latitude": 51.0376028,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

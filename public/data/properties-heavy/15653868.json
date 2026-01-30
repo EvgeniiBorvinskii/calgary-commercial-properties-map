@@ -1,0 +1,36 @@
+{
+  "id": "15653868",
+  "fullDetails": {
+    "licenseNumber": "15653868",
+    "name": "DOMINO'S PIZZA",
+    "address": "#1150 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-09-04T15:02:29.000Z",
+    "expiryDate": "2026-09-03T15:02:29.000Z",
+    "coordinates": [
+      -114.0096136,
+      50.8625184
+    ],
+    "longitude": -114.0096136,
+    "latitude": 50.8625184,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16661910",
+  "fullDetails": {
+    "licenseNumber": "16661910",
+    "name": "AC MACHINE WORKS",
+    "address": "3551F 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-07-31T08:59:51.000Z",
+    "expiryDate": "2026-07-30T08:59:51.000Z",
+    "coordinates": [
+      -113.982562,
+      50.9811113
+    ],
+    "longitude": -113.982562,
+    "latitude": 50.9811113,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

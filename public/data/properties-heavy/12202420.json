@@ -1,0 +1,37 @@
+{
+  "id": "12202420",
+  "fullDetails": {
+    "licenseNumber": "12202420",
+    "name": "LONDON DRUGS #64",
+    "address": "4701 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2003-07-08T14:34:18.000Z",
+    "expiryDate": "2026-07-07T14:34:18.000Z",
+    "coordinates": [
+      -113.9675683,
+      50.9314289
+    ],
+    "longitude": -113.9675683,
+    "latitude": 50.9314289,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

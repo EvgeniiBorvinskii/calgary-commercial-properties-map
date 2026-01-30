@@ -1,0 +1,36 @@
+{
+  "id": "16674475",
+  "fullDetails": {
+    "licenseNumber": "16674475",
+    "name": "DELICIOUS FISH POT",
+    "address": "310 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-17T11:23:52.000Z",
+    "expiryDate": "2026-11-16T11:23:52.000Z",
+    "coordinates": [
+      -114.0624296,
+      51.049861
+    ],
+    "longitude": -114.0624296,
+    "latitude": 51.049861,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

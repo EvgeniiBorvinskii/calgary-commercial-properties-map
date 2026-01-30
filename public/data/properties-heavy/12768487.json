@@ -1,0 +1,36 @@
+{
+  "id": "12768487",
+  "fullDetails": {
+    "licenseNumber": "12768487",
+    "name": "GRAN QUARTZ",
+    "address": "1663 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-04-18T05:41:11.000Z",
+    "expiryDate": "2026-04-17T05:41:11.000Z",
+    "coordinates": [
+      -114.0201864,
+      51.0809085
+    ],
+    "longitude": -114.0201864,
+    "latitude": 51.0809085,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

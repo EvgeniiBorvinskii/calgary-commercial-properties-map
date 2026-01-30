@@ -1,0 +1,36 @@
+{
+  "id": "12398079",
+  "fullDetails": {
+    "licenseNumber": "12398079",
+    "name": "BUILD-360",
+    "address": "#9C 6215 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-09T10:40:13.000Z",
+    "expiryDate": "2026-09-08T10:40:12.000Z",
+    "coordinates": [
+      -114.0577348,
+      50.9972166
+    ],
+    "longitude": -114.0577348,
+    "latitude": 50.9972166,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

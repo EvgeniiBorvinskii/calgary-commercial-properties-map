@@ -1,0 +1,36 @@
+{
+  "id": "12836326",
+  "fullDetails": {
+    "licenseNumber": "12836326",
+    "name": "SHAWNESSY TOWNE CENTRE SUBWAY",
+    "address": "#260 350 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-10-13T16:37:46.000Z",
+    "expiryDate": "2026-10-12T16:37:46.000Z",
+    "coordinates": [
+      -114.0619309,
+      50.8981885
+    ],
+    "longitude": -114.0619309,
+    "latitude": 50.8981885,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

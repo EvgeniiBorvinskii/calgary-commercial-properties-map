@@ -1,0 +1,36 @@
+{
+  "id": "15905227",
+  "fullDetails": {
+    "licenseNumber": "15905227",
+    "name": "2255241 ALBERTA",
+    "address": "1711 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2020-11-04T11:42:55.000Z",
+    "expiryDate": "2026-11-03T11:42:55.000Z",
+    "coordinates": [
+      -114.0904511,
+      51.0372602
+    ],
+    "longitude": -114.0904511,
+    "latitude": 51.0372602,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

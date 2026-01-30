@@ -1,0 +1,36 @@
+{
+  "id": "209254",
+  "fullDetails": {
+    "licenseNumber": "209254",
+    "name": "PASON SYSTEMS",
+    "address": "6130 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-18T05:31:38.000Z",
+    "coordinates": [
+      -114.056896,
+      50.9974836
+    ],
+    "longitude": -114.056896,
+    "latitude": 50.9974836,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

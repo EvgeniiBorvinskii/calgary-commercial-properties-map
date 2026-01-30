@@ -1,0 +1,36 @@
+{
+  "id": "13602834",
+  "fullDetails": {
+    "licenseNumber": "13602834",
+    "name": "LONG RIVER PROPERTIES",
+    "address": "2203 CHEROKEE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2013-09-27T13:56:47.000Z",
+    "expiryDate": "2026-09-26T13:56:47.000Z",
+    "coordinates": [
+      -114.1114576,
+      51.0876508
+    ],
+    "longitude": -114.1114576,
+    "latitude": 51.0876508,
+    "community": "CHARLESWOOD",
+    "ward": "CHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

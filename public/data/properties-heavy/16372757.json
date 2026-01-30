@@ -1,0 +1,36 @@
+{
+  "id": "16372757",
+  "fullDetails": {
+    "licenseNumber": "16372757",
+    "name": "MOUNT ROYAL ON 14TH",
+    "address": "1838 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-08-11T11:28:24.000Z",
+    "expiryDate": "2026-08-10T11:28:24.000Z",
+    "coordinates": [
+      -114.0942346,
+      51.0364369
+    ],
+    "longitude": -114.0942346,
+    "latitude": 51.0364369,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

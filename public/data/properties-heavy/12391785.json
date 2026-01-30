@@ -1,0 +1,37 @@
+{
+  "id": "12391785",
+  "fullDetails": {
+    "licenseNumber": "12391785",
+    "name": "GETAWAY SPA (THE)",
+    "address": "#3 2005 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "BODY RUB CENTRE",
+    "licenseTypes": "PERSONAL SERVICE,\nBODY RUB CENTRE",
+    "status": "active",
+    "issuedDate": "2020-10-14T12:42:52.000Z",
+    "expiryDate": "2026-10-13T12:42:51.000Z",
+    "coordinates": [
+      -114.1415183,
+      51.0360179
+    ],
+    "longitude": -114.1415183,
+    "latitude": 51.0360179,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

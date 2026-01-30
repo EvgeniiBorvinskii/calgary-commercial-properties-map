@@ -1,0 +1,37 @@
+{
+  "id": "14290993",
+  "fullDetails": {
+    "licenseNumber": "14290993",
+    "name": "CALGARY CO-OP GAS BAR #26",
+    "address": "#200 100 AUBURN MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-07T10:12:45.000Z",
+    "expiryDate": "2026-11-06T10:12:45.000Z",
+    "coordinates": [
+      -113.9447088,
+      50.894124
+    ],
+    "longitude": -113.9447088,
+    "latitude": 50.894124,
+    "community": "AUBURN BAY",
+    "ward": "AUB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

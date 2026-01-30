@@ -1,0 +1,36 @@
+{
+  "id": "907766",
+  "fullDetails": {
+    "licenseNumber": "907766",
+    "name": "G E M",
+    "address": "9330 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-10-21T15:09:50.000Z",
+    "expiryDate": "2026-10-20T15:09:50.000Z",
+    "coordinates": [
+      -113.9633014,
+      50.9702305
+    ],
+    "longitude": -113.9633014,
+    "latitude": 50.9702305,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

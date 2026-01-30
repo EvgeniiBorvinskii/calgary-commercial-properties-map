@@ -1,0 +1,37 @@
+{
+  "id": "16376584",
+  "fullDetails": {
+    "licenseNumber": "16376584",
+    "name": "SUSHI NINJA",
+    "address": "#130 3820 BRENTWOOD RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-14T05:36:06.000Z",
+    "expiryDate": "2026-09-13T05:36:06.000Z",
+    "coordinates": [
+      -114.1287528,
+      51.0865547
+    ],
+    "longitude": -114.1287528,
+    "latitude": 51.0865547,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

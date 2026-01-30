@@ -1,0 +1,37 @@
+{
+  "id": "12028156",
+  "fullDetails": {
+    "licenseNumber": "12028156",
+    "name": "JUBILATIONS DINNER THEATRE & AUSSIE RULES",
+    "address": "#20 1002 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-12-05T20:05:11.000Z",
+    "expiryDate": "2026-12-04T05:45:29.000Z",
+    "coordinates": [
+      -114.1403,
+      51.0439544
+    ],
+    "longitude": -114.1403,
+    "latitude": 51.0439544,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

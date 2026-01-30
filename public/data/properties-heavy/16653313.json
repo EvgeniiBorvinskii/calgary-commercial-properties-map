@@ -1,0 +1,36 @@
+{
+  "id": "16653313",
+  "fullDetails": {
+    "licenseNumber": "16653313",
+    "name": "COST CANNABIS AT RICHMOND LONDON PLACE",
+    "address": "#100 5253 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-08-19T15:26:48.000Z",
+    "expiryDate": "2026-08-18T15:26:48.000Z",
+    "coordinates": [
+      -114.161427,
+      51.0174965
+    ],
+    "longitude": -114.161427,
+    "latitude": 51.0174965,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

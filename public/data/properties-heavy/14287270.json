@@ -1,0 +1,36 @@
+{
+  "id": "14287270",
+  "fullDetails": {
+    "licenseNumber": "14287270",
+    "name": "FIX AUTO CALGARY DEERFOOT",
+    "address": "#138 588 AERO DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2016-10-27T11:49:20.000Z",
+    "expiryDate": "2026-10-26T11:49:20.000Z",
+    "coordinates": [
+      -114.0334665,
+      51.1358527
+    ],
+    "longitude": -114.0334665,
+    "latitude": 51.1358527,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16172355",
+  "fullDetails": {
+    "licenseNumber": "16172355",
+    "name": "IL CENTRO",
+    "address": "#106 6036 3 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-06-30T16:53:47.000Z",
+    "expiryDate": "2026-06-29T16:53:47.000Z",
+    "coordinates": [
+      -114.0691235,
+      50.999289
+    ],
+    "longitude": -114.0691235,
+    "latitude": 50.999289,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

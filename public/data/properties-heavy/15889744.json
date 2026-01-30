@@ -1,0 +1,36 @@
+{
+  "id": "15889744",
+  "fullDetails": {
+    "licenseNumber": "15889744",
+    "name": "M & A AUTO",
+    "address": "1805 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-02T05:31:53.000Z",
+    "expiryDate": "2026-05-01T05:31:53.000Z",
+    "coordinates": [
+      -113.9733366,
+      51.0375519
+    ],
+    "longitude": -113.9733366,
+    "latitude": 51.0375519,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

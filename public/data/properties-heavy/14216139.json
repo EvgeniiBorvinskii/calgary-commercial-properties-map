@@ -1,0 +1,36 @@
+{
+  "id": "14216139",
+  "fullDetails": {
+    "licenseNumber": "14216139",
+    "name": "AIR-SERV CANADA",
+    "address": "#8 12204 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-09-08T14:24:36.000Z",
+    "expiryDate": "2026-09-07T14:24:36.000Z",
+    "coordinates": [
+      -113.9731513,
+      50.9405612
+    ],
+    "longitude": -113.9731513,
+    "latitude": 50.9405612,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

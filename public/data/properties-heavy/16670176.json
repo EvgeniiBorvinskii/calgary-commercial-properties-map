@@ -1,0 +1,36 @@
+{
+  "id": "16670176",
+  "fullDetails": {
+    "licenseNumber": "16670176",
+    "name": "FOURTH STREET LOFTS",
+    "address": "510 15 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-12-18T11:15:58.000Z",
+    "expiryDate": "2026-12-17T11:15:58.000Z",
+    "coordinates": [
+      -114.0720285,
+      51.0391363
+    ],
+    "longitude": -114.0720285,
+    "latitude": 51.0391363,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

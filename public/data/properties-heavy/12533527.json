@@ -1,0 +1,37 @@
+{
+  "id": "12533527",
+  "fullDetails": {
+    "licenseNumber": "12533527",
+    "name": "PAYLESS LIQUOR STORE",
+    "address": "#202 2066 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-12-13T09:41:37.000Z",
+    "expiryDate": "2026-12-12T09:41:37.000Z",
+    "coordinates": [
+      -114.0122567,
+      51.069388
+    ],
+    "longitude": -114.0122567,
+    "latitude": 51.069388,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

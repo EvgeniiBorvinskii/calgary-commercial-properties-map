@@ -1,0 +1,36 @@
+{
+  "id": "15879794",
+  "fullDetails": {
+    "licenseNumber": "15879794",
+    "name": "PHOENIX HAIR NAILS & WELLNESS CENTRE",
+    "address": "9180 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2020-03-03T14:08:25.000Z",
+    "expiryDate": "2026-03-02T14:08:25.000Z",
+    "coordinates": [
+      -114.0697939,
+      50.9714526
+    ],
+    "longitude": -114.0697939,
+    "latitude": 50.9714526,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

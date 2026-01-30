@@ -1,0 +1,36 @@
+{
+  "id": "16476335",
+  "fullDetails": {
+    "licenseNumber": "16476335",
+    "name": "INTEGRATED SOLUTIONS",
+    "address": "#5 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-04-30T15:38:49.000Z",
+    "expiryDate": "2026-04-29T15:38:49.000Z",
+    "coordinates": [
+      -114.0287707,
+      51.0882206
+    ],
+    "longitude": -114.0287707,
+    "latitude": 51.0882206,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

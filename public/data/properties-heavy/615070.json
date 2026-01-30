@@ -1,0 +1,37 @@
+{
+  "id": "615070",
+  "fullDetails": {
+    "licenseNumber": "615070",
+    "name": "TREND FASHIONS",
+    "address": "#1 120 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2002-08-10T17:18:56.000Z",
+    "expiryDate": "2026-08-09T05:32:09.000Z",
+    "coordinates": [
+      -114.0855592,
+      51.0527679
+    ],
+    "longitude": -114.0855592,
+    "latitude": 51.0527679,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

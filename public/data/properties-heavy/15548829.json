@@ -1,0 +1,37 @@
+{
+  "id": "15548829",
+  "fullDetails": {
+    "licenseNumber": "15548829",
+    "name": "CALGARY COOP MACEWAN #55 GAS BAR",
+    "address": "9115 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2019-06-07T09:01:29.000Z",
+    "expiryDate": "2026-06-06T09:01:29.000Z",
+    "coordinates": [
+      -114.1079997,
+      51.1351673
+    ],
+    "longitude": -114.1079997,
+    "latitude": 51.1351673,
+    "community": "MACEWAN GLEN",
+    "ward": "MAC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

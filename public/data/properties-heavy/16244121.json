@@ -1,0 +1,36 @@
+{
+  "id": "16244121",
+  "fullDetails": {
+    "licenseNumber": "16244121",
+    "name": "STACKED PANCAKE AND BREAKFAST HOUSE",
+    "address": "11670 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-12-21T11:32:23.000Z",
+    "expiryDate": "2026-12-20T11:32:23.000Z",
+    "coordinates": [
+      -114.1592881,
+      51.1571197
+    ],
+    "longitude": -114.1592881,
+    "latitude": 51.1571197,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "83287",
+  "fullDetails": {
+    "licenseNumber": "83287",
+    "name": "GLASS GUILD (THE)",
+    "address": "2770 24 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-05-22T15:34:52.000Z",
+    "expiryDate": "2026-05-21T15:34:52.000Z",
+    "coordinates": [
+      -113.9964522,
+      51.0746829
+    ],
+    "longitude": -113.9964522,
+    "latitude": 51.0746829,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

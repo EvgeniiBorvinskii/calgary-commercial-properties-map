@@ -1,0 +1,36 @@
+{
+  "id": "14426597",
+  "fullDetails": {
+    "licenseNumber": "14426597",
+    "name": "SPI CANADA DISTRIBUTION",
+    "address": "#130 2726 45 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-07-29T11:58:04.000Z",
+    "expiryDate": "2026-07-28T11:58:04.000Z",
+    "coordinates": [
+      -113.9953479,
+      51.0140885
+    ],
+    "longitude": -113.9953479,
+    "latitude": 51.0140885,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

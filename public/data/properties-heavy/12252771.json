@@ -1,0 +1,37 @@
+{
+  "id": "12252771",
+  "fullDetails": {
+    "licenseNumber": "12252771",
+    "name": "SUDS N SHINE CARWASH",
+    "address": "11436 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2004-01-15T08:33:30.000Z",
+    "expiryDate": "2027-01-14T08:33:30.000Z",
+    "coordinates": [
+      -113.9942835,
+      50.952765
+    ],
+    "longitude": -113.9942835,
+    "latitude": 50.952765,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

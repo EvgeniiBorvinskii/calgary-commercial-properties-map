@@ -1,0 +1,36 @@
+{
+  "id": "13598792",
+  "fullDetails": {
+    "licenseNumber": "13598792",
+    "name": "MAKLOC BUILDINGS",
+    "address": "#520 255 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-04-20T09:25:58.000Z",
+    "expiryDate": "2026-04-19T09:25:58.000Z",
+    "coordinates": [
+      -114.0669704,
+      51.0481997
+    ],
+    "longitude": -114.0669704,
+    "latitude": 51.0481997,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

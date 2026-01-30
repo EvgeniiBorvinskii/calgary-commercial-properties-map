@@ -1,0 +1,36 @@
+{
+  "id": "16609067",
+  "fullDetails": {
+    "licenseNumber": "16609067",
+    "name": "LUCKY BREAK TATTOO SHOP",
+    "address": "1407A 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-04-22T15:25:14.000Z",
+    "expiryDate": "2026-04-21T15:25:14.000Z",
+    "coordinates": [
+      -114.089243,
+      51.0399223
+    ],
+    "longitude": -114.089243,
+    "latitude": 51.0399223,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

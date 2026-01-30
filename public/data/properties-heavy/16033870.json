@@ -1,0 +1,37 @@
+{
+  "id": "16033870",
+  "fullDetails": {
+    "licenseNumber": "16033870",
+    "name": "MY CHICKEN AND MEAT",
+    "address": "#114 1919 SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-04T14:52:15.000Z",
+    "expiryDate": "2026-10-03T14:52:15.000Z",
+    "coordinates": [
+      -114.1037259,
+      50.9607551
+    ],
+    "longitude": -114.1037259,
+    "latitude": 50.9607551,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

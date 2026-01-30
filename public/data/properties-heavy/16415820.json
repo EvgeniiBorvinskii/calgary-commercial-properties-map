@@ -1,0 +1,36 @@
+{
+  "id": "16415820",
+  "fullDetails": {
+    "licenseNumber": "16415820",
+    "name": "THE VAPE WAREHOUSE",
+    "address": "#10 8607 48 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-01-12T10:55:53.000Z",
+    "expiryDate": "2027-01-11T10:55:53.000Z",
+    "coordinates": [
+      -114.2113015,
+      51.0955053
+    ],
+    "longitude": -114.2113015,
+    "latitude": 51.0955053,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

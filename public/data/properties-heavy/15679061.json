@@ -1,0 +1,37 @@
+{
+  "id": "15679061",
+  "fullDetails": {
+    "licenseNumber": "15679061",
+    "name": "AMJ CAMPBELL CALGARY",
+    "address": "1722 118 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2021-04-08T05:31:19.000Z",
+    "expiryDate": "2026-04-07T05:31:19.000Z",
+    "coordinates": [
+      -114.0224483,
+      51.1595901
+    ],
+    "longitude": -114.0224483,
+    "latitude": 51.1595901,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

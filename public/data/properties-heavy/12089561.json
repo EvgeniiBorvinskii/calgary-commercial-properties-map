@@ -1,0 +1,36 @@
+{
+  "id": "12089561",
+  "fullDetails": {
+    "licenseNumber": "12089561",
+    "name": "K & N AUTO SERVICES",
+    "address": "#501 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2008-01-24T05:39:40.000Z",
+    "expiryDate": "2027-01-23T05:39:39.000Z",
+    "coordinates": [
+      -113.9877032,
+      51.0579604
+    ],
+    "longitude": -113.9877032,
+    "latitude": 51.0579604,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

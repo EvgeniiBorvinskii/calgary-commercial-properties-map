@@ -1,0 +1,36 @@
+{
+  "id": "16103152",
+  "fullDetails": {
+    "licenseNumber": "16103152",
+    "name": "MAUDE KIDS DECOR",
+    "address": "#101 1812 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-12-10T08:20:18.000Z",
+    "expiryDate": "2026-12-09T08:20:17.000Z",
+    "coordinates": [
+      -114.0713156,
+      51.0366586
+    ],
+    "longitude": -114.0713156,
+    "latitude": 51.0366586,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

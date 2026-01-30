@@ -1,0 +1,36 @@
+{
+  "id": "14277776",
+  "fullDetails": {
+    "licenseNumber": "14277776",
+    "name": "ACTEK CANADA",
+    "address": "123 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2024-03-13T12:27:55.000Z",
+    "expiryDate": "2026-03-12T12:27:54.000Z",
+    "coordinates": [
+      -114.0454704,
+      51.0988082
+    ],
+    "longitude": -114.0454704,
+    "latitude": 51.0988082,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

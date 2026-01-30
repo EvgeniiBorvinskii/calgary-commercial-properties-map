@@ -1,0 +1,37 @@
+{
+  "id": "13127196",
+  "fullDetails": {
+    "licenseNumber": "13127196",
+    "name": "GOOD TIRE",
+    "address": "#130 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2011-11-03T14:22:37.000Z",
+    "expiryDate": "2026-11-02T14:22:37.000Z",
+    "coordinates": [
+      -113.95752,
+      51.0367348
+    ],
+    "longitude": -113.95752,
+    "latitude": 51.0367348,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

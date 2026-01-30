@@ -1,0 +1,37 @@
+{
+  "id": "29462",
+  "fullDetails": {
+    "licenseNumber": "29462",
+    "name": "JEWEL TRADE / DILMONI & CO",
+    "address": "#522 304 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2015-02-04T14:35:47.000Z",
+    "expiryDate": "2026-02-03T14:35:47.000Z",
+    "coordinates": [
+      -114.0682479,
+      51.0459629
+    ],
+    "longitude": -114.0682479,
+    "latitude": 51.0459629,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "72991",
+  "fullDetails": {
+    "licenseNumber": "72991",
+    "name": "CHATEAU EXTERIORS",
+    "address": "#124 7865 56 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2020-09-16T05:31:11.000Z",
+    "expiryDate": "2026-09-15T05:31:11.000Z",
+    "coordinates": [
+      -113.9529607,
+      50.9838912
+    ],
+    "longitude": -113.9529607,
+    "latitude": 50.9838912,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

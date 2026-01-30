@@ -1,0 +1,36 @@
+{
+  "id": "16573651",
+  "fullDetails": {
+    "licenseNumber": "16573651",
+    "name": "DROP THE INK CALGARY",
+    "address": "#102 5824 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-12-19T11:59:57.000Z",
+    "expiryDate": "2026-12-18T11:59:57.000Z",
+    "coordinates": [
+      -114.0682847,
+      51.0016784
+    ],
+    "longitude": -114.0682847,
+    "latitude": 51.0016784,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

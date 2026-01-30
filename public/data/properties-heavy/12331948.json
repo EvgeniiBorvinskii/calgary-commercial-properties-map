@@ -1,0 +1,36 @@
+{
+  "id": "12331948",
+  "fullDetails": {
+    "licenseNumber": "12331948",
+    "name": "SOUTHERN SCALE COMPANY",
+    "address": "4738 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-04-11T11:50:29.000Z",
+    "expiryDate": "2026-04-10T11:50:29.000Z",
+    "coordinates": [
+      -114.027832,
+      51.0947326
+    ],
+    "longitude": -114.027832,
+    "latitude": 51.0947326,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

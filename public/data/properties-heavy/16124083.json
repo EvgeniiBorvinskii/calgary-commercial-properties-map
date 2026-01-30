@@ -1,0 +1,36 @@
+{
+  "id": "16124083",
+  "fullDetails": {
+    "licenseNumber": "16124083",
+    "name": "KYMAND HOMES",
+    "address": "#4 6020 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-07-02T13:24:07.000Z",
+    "expiryDate": "2026-07-01T13:24:07.000Z",
+    "coordinates": [
+      -114.0592593,
+      50.9983378
+    ],
+    "longitude": -114.0592593,
+    "latitude": 50.9983378,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

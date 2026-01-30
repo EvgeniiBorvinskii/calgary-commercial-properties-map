@@ -1,0 +1,37 @@
+{
+  "id": "543058",
+  "fullDetails": {
+    "licenseNumber": "543058",
+    "name": "HBI - HERITAGE BUSINESS INTERIORS",
+    "address": "#2050 2600 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2012-09-14T05:42:29.000Z",
+    "expiryDate": "2026-09-13T05:42:29.000Z",
+    "coordinates": [
+      -114.030778,
+      51.0312111
+    ],
+    "longitude": -114.030778,
+    "latitude": 51.0312111,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

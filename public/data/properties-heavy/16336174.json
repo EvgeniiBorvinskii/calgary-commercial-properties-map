@@ -1,0 +1,37 @@
+{
+  "id": "16336174",
+  "fullDetails": {
+    "licenseNumber": "16336174",
+    "name": "CIRCLE K",
+    "address": "1705A 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-10T11:07:56.000Z",
+    "expiryDate": "2026-07-09T11:07:56.000Z",
+    "coordinates": [
+      -114.1006416,
+      51.0374181
+    ],
+    "longitude": -114.1006416,
+    "latitude": 51.0374181,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14356893",
+  "fullDetails": {
+    "licenseNumber": "14356893",
+    "name": "FORMA FITNESS",
+    "address": "#15 4948 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-12-15T10:10:53.000Z",
+    "expiryDate": "2026-12-14T10:10:53.000Z",
+    "coordinates": [
+      -113.9635979,
+      50.9354245
+    ],
+    "longitude": -113.9635979,
+    "latitude": 50.9354245,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

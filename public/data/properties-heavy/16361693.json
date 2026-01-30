@@ -1,0 +1,36 @@
+{
+  "id": "16361693",
+  "fullDetails": {
+    "licenseNumber": "16361693",
+    "name": "DYSON CANADA",
+    "address": "#204 5333 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-26T15:07:17.000Z",
+    "expiryDate": "2026-10-25T15:07:17.000Z",
+    "coordinates": [
+      -113.9563484,
+      50.9986752
+    ],
+    "longitude": -113.9563484,
+    "latitude": 50.9986752,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15407828",
+  "fullDetails": {
+    "licenseNumber": "15407828",
+    "name": "DINER DELUXE - MAHOGANY",
+    "address": "106 MAHOGANY CE SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2019-04-05T12:55:08.000Z",
+    "expiryDate": "2026-04-04T12:55:08.000Z",
+    "coordinates": [
+      -113.9360273,
+      50.8970532
+    ],
+    "longitude": -113.9360273,
+    "latitude": 50.8970532,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

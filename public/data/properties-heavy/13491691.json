@@ -1,0 +1,36 @@
+{
+  "id": "13491691",
+  "fullDetails": {
+    "licenseNumber": "13491691",
+    "name": "BADGER DAYLIGHTING CALGARY",
+    "address": "8615 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-06-20T10:20:02.000Z",
+    "expiryDate": "2026-06-19T10:20:02.000Z",
+    "coordinates": [
+      -113.9709837,
+      50.9763665
+    ],
+    "longitude": -113.9709837,
+    "latitude": 50.9763665,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

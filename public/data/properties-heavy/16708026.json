@@ -1,0 +1,36 @@
+{
+  "id": "16708026",
+  "fullDetails": {
+    "licenseNumber": "16708026",
+    "name": "CURVES BY JENNY",
+    "address": "#430 5920 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-12-04T11:13:31.000Z",
+    "expiryDate": "2026-12-03T11:13:30.000Z",
+    "coordinates": [
+      -114.0709359,
+      51.000533
+    ],
+    "longitude": -114.0709359,
+    "latitude": 51.000533,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

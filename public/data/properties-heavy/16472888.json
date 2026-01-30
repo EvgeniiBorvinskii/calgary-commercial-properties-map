@@ -1,0 +1,37 @@
+{
+  "id": "16472888",
+  "fullDetails": {
+    "licenseNumber": "16472888",
+    "name": "TRITON RIGGING",
+    "address": "#42 4407 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED),\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2024-05-24T12:38:39.000Z",
+    "expiryDate": "2026-05-23T12:38:39.000Z",
+    "coordinates": [
+      -113.9730486,
+      50.9466745
+    ],
+    "longitude": -113.9730486,
+    "latitude": 50.9466745,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

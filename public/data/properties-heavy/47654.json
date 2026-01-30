@@ -1,0 +1,36 @@
+{
+  "id": "47654",
+  "fullDetails": {
+    "licenseNumber": "47654",
+    "name": "CURLERS CORNER",
+    "address": "720 3 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-21T00:00:00.000Z",
+    "coordinates": [
+      -114.0693818,
+      51.0582873
+    ],
+    "longitude": -114.0693818,
+    "latitude": 51.0582873,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

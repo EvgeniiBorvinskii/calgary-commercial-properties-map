@@ -1,0 +1,36 @@
+{
+  "id": "16187270",
+  "fullDetails": {
+    "licenseNumber": "16187270",
+    "name": "NOODLEBOX",
+    "address": "9 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-07T11:10:10.000Z",
+    "expiryDate": "2026-09-06T11:10:10.000Z",
+    "coordinates": [
+      -114.0456889,
+      50.9879054
+    ],
+    "longitude": -114.0456889,
+    "latitude": 50.9879054,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

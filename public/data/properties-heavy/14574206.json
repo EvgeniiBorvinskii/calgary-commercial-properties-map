@@ -1,0 +1,36 @@
+{
+  "id": "14574206",
+  "fullDetails": {
+    "licenseNumber": "14574206",
+    "name": "SOUTHWOOD EYECARE CENTRE",
+    "address": "#160 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-29T15:20:57.000Z",
+    "expiryDate": "2026-08-28T15:20:57.000Z",
+    "coordinates": [
+      -114.0871039,
+      50.9624025
+    ],
+    "longitude": -114.0871039,
+    "latitude": 50.9624025,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

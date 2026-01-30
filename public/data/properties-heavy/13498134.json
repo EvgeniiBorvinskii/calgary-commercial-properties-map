@@ -1,0 +1,36 @@
+{
+  "id": "13498134",
+  "fullDetails": {
+    "licenseNumber": "13498134",
+    "name": "LAPTOP REPAIR DEPOT",
+    "address": "#112 2640 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-08-04T13:53:15.000Z",
+    "expiryDate": "2026-08-03T13:53:15.000Z",
+    "coordinates": [
+      -113.9562281,
+      51.0754024
+    ],
+    "longitude": -113.9562281,
+    "latitude": 51.0754024,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

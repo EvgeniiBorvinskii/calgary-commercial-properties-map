@@ -1,0 +1,36 @@
+{
+  "id": "16473100",
+  "fullDetails": {
+    "licenseNumber": "16473100",
+    "name": "GRANDEUR FLOORING",
+    "address": "5484 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-08-09T08:28:59.000Z",
+    "expiryDate": "2026-08-08T08:28:58.000Z",
+    "coordinates": [
+      -113.9570275,
+      50.9860105
+    ],
+    "longitude": -113.9570275,
+    "latitude": 50.9860105,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

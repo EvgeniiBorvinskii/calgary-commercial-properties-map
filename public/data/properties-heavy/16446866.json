@@ -1,0 +1,36 @@
+{
+  "id": "16446866",
+  "fullDetails": {
+    "licenseNumber": "16446866",
+    "name": "SHAW FAMILY RANCH",
+    "address": "#10 2807 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-12-13T10:02:59.000Z",
+    "expiryDate": "2026-12-12T10:02:59.000Z",
+    "coordinates": [
+      -113.9965676,
+      50.956394
+    ],
+    "longitude": -113.9965676,
+    "latitude": 50.956394,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

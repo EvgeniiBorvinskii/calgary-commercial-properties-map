@@ -1,0 +1,36 @@
+{
+  "id": "69070",
+  "fullDetails": {
+    "licenseNumber": "69070",
+    "name": "EECOL ELECTRIC",
+    "address": "11004 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-09-19T08:44:00.000Z",
+    "expiryDate": "2026-09-18T08:44:00.000Z",
+    "coordinates": [
+      -113.9650796,
+      50.9562479
+    ],
+    "longitude": -113.9650796,
+    "latitude": 50.9562479,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

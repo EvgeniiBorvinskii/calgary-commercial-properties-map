@@ -1,0 +1,36 @@
+{
+  "id": "28340",
+  "fullDetails": {
+    "licenseNumber": "28340",
+    "name": "RAHMAN ORTHOTICS",
+    "address": "#4 4624 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2009-04-14T06:01:11.000Z",
+    "expiryDate": "2026-04-13T06:01:11.000Z",
+    "coordinates": [
+      -114.1541174,
+      51.0935731
+    ],
+    "longitude": -114.1541174,
+    "latitude": 51.0935731,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

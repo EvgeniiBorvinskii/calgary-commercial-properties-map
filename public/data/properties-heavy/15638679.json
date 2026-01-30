@@ -1,0 +1,37 @@
+{
+  "id": "15638679",
+  "fullDetails": {
+    "licenseNumber": "15638679",
+    "name": "CHAPARRAL BARBERS",
+    "address": "#208 10 CHAPARRAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-25T10:01:37.000Z",
+    "expiryDate": "2026-07-24T10:01:37.000Z",
+    "coordinates": [
+      -114.0258677,
+      50.8865184
+    ],
+    "longitude": -114.0258677,
+    "latitude": 50.8865184,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

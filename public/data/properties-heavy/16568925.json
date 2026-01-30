@@ -1,0 +1,37 @@
+{
+  "id": "16568925",
+  "fullDetails": {
+    "licenseNumber": "16568925",
+    "name": "HOLY GRILL SILVERADO",
+    "address": "#1020 19369 SHERIFF KING ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2025-03-26T13:24:12.000Z",
+    "expiryDate": "2026-03-25T13:24:11.000Z",
+    "coordinates": [
+      -114.0721383,
+      50.8778399
+    ],
+    "longitude": -114.0721383,
+    "latitude": 50.8778399,
+    "community": "SILVERADO",
+    "ward": "SVO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

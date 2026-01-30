@@ -1,0 +1,37 @@
+{
+  "id": "16466740",
+  "fullDetails": {
+    "licenseNumber": "16466740",
+    "name": "M M FOOD MARKET",
+    "address": "#226 1221 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-22T13:37:44.000Z",
+    "expiryDate": "2026-03-21T13:37:44.000Z",
+    "coordinates": [
+      -114.0278596,
+      50.9305552
+    ],
+    "longitude": -114.0278596,
+    "latitude": 50.9305552,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

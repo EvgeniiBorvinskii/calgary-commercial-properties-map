@@ -1,0 +1,36 @@
+{
+  "id": "882795",
+  "fullDetails": {
+    "licenseNumber": "882795",
+    "name": "MCRAE WELDING",
+    "address": "#7 2016 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-02-11T12:21:42.000Z",
+    "expiryDate": "2027-02-10T12:21:42.000Z",
+    "coordinates": [
+      -114.0109712,
+      51.0754389
+    ],
+    "longitude": -114.0109712,
+    "latitude": 51.0754389,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

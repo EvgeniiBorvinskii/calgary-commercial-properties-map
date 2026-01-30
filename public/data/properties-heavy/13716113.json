@@ -1,0 +1,37 @@
+{
+  "id": "13716113",
+  "fullDetails": {
+    "licenseNumber": "13716113",
+    "name": "GOLDEN GATE RESTAURANT",
+    "address": "#14 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-08-13T14:56:22.000Z",
+    "expiryDate": "2026-08-12T14:56:22.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

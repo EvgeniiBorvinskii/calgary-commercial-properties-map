@@ -1,0 +1,36 @@
+{
+  "id": "16662843",
+  "fullDetails": {
+    "licenseNumber": "16662843",
+    "name": "BARBURRITO CANADA",
+    "address": "#124 2220 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-10-07T11:26:21.000Z",
+    "expiryDate": "2026-10-06T11:26:21.000Z",
+    "coordinates": [
+      -113.9342944,
+      51.06934
+    ],
+    "longitude": -113.9342944,
+    "latitude": 51.06934,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

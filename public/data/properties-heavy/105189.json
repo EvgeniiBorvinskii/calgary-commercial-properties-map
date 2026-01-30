@@ -1,0 +1,36 @@
+{
+  "id": "105189",
+  "fullDetails": {
+    "licenseNumber": "105189",
+    "name": "CHINOOK PUMPS",
+    "address": "3824 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2004-12-10T05:34:27.000Z",
+    "expiryDate": "2026-12-09T05:34:27.000Z",
+    "coordinates": [
+      -114.0453764,
+      51.0201399
+    ],
+    "longitude": -114.0453764,
+    "latitude": 51.0201399,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

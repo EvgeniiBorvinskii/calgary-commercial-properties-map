@@ -1,0 +1,36 @@
+{
+  "id": "16609323",
+  "fullDetails": {
+    "licenseNumber": "16609323",
+    "name": "CBRE",
+    "address": "#1220 225 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECURITY CONSULTING AGENCY",
+    "licenseTypes": "SECURITY CONSULTING AGENCY",
+    "status": "pending",
+    "issuedDate": "2025-04-03T11:46:29.000Z",
+    "expiryDate": "2026-04-02T11:46:28.000Z",
+    "coordinates": [
+      -114.0657419,
+      51.0470542
+    ],
+    "longitude": -114.0657419,
+    "latitude": 51.0470542,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

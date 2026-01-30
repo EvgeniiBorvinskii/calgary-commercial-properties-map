@@ -1,0 +1,37 @@
+{
+  "id": "903112",
+  "fullDetails": {
+    "licenseNumber": "903112",
+    "name": "7 ELEVEN FOOD STORE #33010H",
+    "address": "7712 RANCHVIEW DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-08T05:33:42.000Z",
+    "coordinates": [
+      -114.1788953,
+      51.1208819
+    ],
+    "longitude": -114.1788953,
+    "latitude": 51.1208819,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

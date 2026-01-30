@@ -1,0 +1,36 @@
+{
+  "id": "16566838",
+  "fullDetails": {
+    "licenseNumber": "16566838",
+    "name": "H & M",
+    "address": "#C13 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-04T15:31:43.000Z",
+    "expiryDate": "2026-03-03T15:31:43.000Z",
+    "coordinates": [
+      -114.1560467,
+      51.0850069
+    ],
+    "longitude": -114.1560467,
+    "latitude": 51.0850069,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

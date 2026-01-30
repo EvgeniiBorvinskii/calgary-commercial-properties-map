@@ -1,0 +1,36 @@
+{
+  "id": "915751",
+  "fullDetails": {
+    "licenseNumber": "915751",
+    "name": "COMFORT INN & SUITES - SOUTH",
+    "address": "4611 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-09T00:00:00.000Z",
+    "coordinates": [
+      -114.0666131,
+      51.0124138
+    ],
+    "longitude": -114.0666131,
+    "latitude": 51.0124138,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16316622",
+  "fullDetails": {
+    "licenseNumber": "16316622",
+    "name": "GATEWAY FOOD TRUCK (FSFV) (CGY-1935)",
+    "address": "107 DR CARPENTER CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2023-07-18T17:35:58.000Z",
+    "expiryDate": "2026-07-17T17:35:58.000Z",
+    "coordinates": [
+      -114.0862819,
+      51.0639005
+    ],
+    "longitude": -114.0862819,
+    "latitude": 51.0639005,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

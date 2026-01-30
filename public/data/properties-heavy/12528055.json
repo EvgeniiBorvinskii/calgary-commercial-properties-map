@@ -1,0 +1,36 @@
+{
+  "id": "12528055",
+  "fullDetails": {
+    "licenseNumber": "12528055",
+    "name": "SOUTHPOINTE PAINT & DECOR",
+    "address": "3328 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-11-03T10:32:52.000Z",
+    "expiryDate": "2026-11-02T10:32:52.000Z",
+    "coordinates": [
+      -113.9898296,
+      50.949977
+    ],
+    "longitude": -113.9898296,
+    "latitude": 50.949977,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

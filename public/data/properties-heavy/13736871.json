@@ -1,0 +1,36 @@
+{
+  "id": "13736871",
+  "fullDetails": {
+    "licenseNumber": "13736871",
+    "name": "NORTHWEST TRANSPORT",
+    "address": "9615 ENDEAVOR DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2014-03-10T13:03:39.000Z",
+    "expiryDate": "2026-03-09T13:03:39.000Z",
+    "coordinates": [
+      -113.8933489,
+      50.9659895
+    ],
+    "longitude": -113.8933489,
+    "latitude": 50.9659895,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

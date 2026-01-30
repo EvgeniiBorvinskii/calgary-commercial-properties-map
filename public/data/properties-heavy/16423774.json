@@ -1,0 +1,36 @@
+{
+  "id": "16423774",
+  "fullDetails": {
+    "licenseNumber": "16423774",
+    "name": "SPECSAVERS CORNERSTONE",
+    "address": "#1030 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-22T12:22:40.000Z",
+    "expiryDate": "2027-01-21T12:22:40.000Z",
+    "coordinates": [
+      -113.9400989,
+      51.1551791
+    ],
+    "longitude": -113.9400989,
+    "latitude": 51.1551791,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16433476",
+  "fullDetails": {
+    "licenseNumber": "16433476",
+    "name": "GREEN MAPLE ENTERPRISE",
+    "address": "#144 3670 63 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-21T14:58:29.000Z",
+    "expiryDate": "2026-08-20T14:58:28.000Z",
+    "coordinates": [
+      -113.9793188,
+      51.1103304
+    ],
+    "longitude": -113.9793188,
+    "latitude": 51.1103304,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

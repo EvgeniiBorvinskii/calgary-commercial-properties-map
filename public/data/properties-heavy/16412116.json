@@ -1,0 +1,36 @@
+{
+  "id": "16412116",
+  "fullDetails": {
+    "licenseNumber": "16412116",
+    "name": "SARCEE TRAIL ANIMAL HOSPITAL",
+    "address": "#420 318 NOLANRIDGE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-01-25T05:34:48.000Z",
+    "expiryDate": "2027-01-24T05:34:48.000Z",
+    "coordinates": [
+      -114.173301,
+      51.1701318
+    ],
+    "longitude": -114.173301,
+    "latitude": 51.1701318,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "ward": "02C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

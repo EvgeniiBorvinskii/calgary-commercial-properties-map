@@ -1,0 +1,36 @@
+{
+  "id": "16395485",
+  "fullDetails": {
+    "licenseNumber": "16395485",
+    "name": "LITTLE RITUALS CANDLE CO",
+    "address": "#20 1934 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-16T10:35:20.000Z",
+    "expiryDate": "2026-10-15T10:35:20.000Z",
+    "coordinates": [
+      -114.1065396,
+      51.0233838
+    ],
+    "longitude": -114.1065396,
+    "latitude": 51.0233838,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

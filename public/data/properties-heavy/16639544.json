@@ -1,0 +1,37 @@
+{
+  "id": "16639544",
+  "fullDetails": {
+    "licenseNumber": "16639544",
+    "name": "MOCAMBO LOUNGE AND GOLDEN ROYAL EVENT CENTER",
+    "address": "#10 3016 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-09T14:45:06.000Z",
+    "expiryDate": "2026-06-08T14:45:05.000Z",
+    "coordinates": [
+      -113.9902678,
+      51.0574643
+    ],
+    "longitude": -113.9902678,
+    "latitude": 51.0574643,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

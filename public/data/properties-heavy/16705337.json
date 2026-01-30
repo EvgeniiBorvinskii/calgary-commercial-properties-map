@@ -1,0 +1,36 @@
+{
+  "id": "16705337",
+  "fullDetails": {
+    "licenseNumber": "16705337",
+    "name": "RESPIRATORY HOMECARE SOLUTIONS",
+    "address": "#222 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-15T15:36:37.000Z",
+    "expiryDate": "2026-12-14T15:36:36.000Z",
+    "coordinates": [
+      -114.0689364,
+      50.9443237
+    ],
+    "longitude": -114.0689364,
+    "latitude": 50.9443237,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12757944",
+  "fullDetails": {
+    "licenseNumber": "12757944",
+    "name": "CALGARY AUTO CONNECTION",
+    "address": "9232 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-02-04T05:57:48.000Z",
+    "expiryDate": "2027-02-03T05:57:48.000Z",
+    "coordinates": [
+      -114.0753248,
+      50.9724404
+    ],
+    "longitude": -114.0753248,
+    "latitude": 50.9724404,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

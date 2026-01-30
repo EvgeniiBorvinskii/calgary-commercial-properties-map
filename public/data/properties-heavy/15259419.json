@@ -1,0 +1,36 @@
+{
+  "id": "15259419",
+  "fullDetails": {
+    "licenseNumber": "15259419",
+    "name": "CLEAN CLUB CALGARY",
+    "address": "76 PRESTWICK ESTATE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2019-01-25T14:19:36.000Z",
+    "expiryDate": "2027-01-24T14:19:36.000Z",
+    "coordinates": [
+      -113.9677395,
+      50.9198099
+    ],
+    "longitude": -113.9677395,
+    "latitude": 50.9198099,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

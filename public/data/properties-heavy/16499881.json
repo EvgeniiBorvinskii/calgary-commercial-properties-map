@@ -1,0 +1,36 @@
+{
+  "id": "16499881",
+  "fullDetails": {
+    "licenseNumber": "16499881",
+    "name": "BUD BAR CANNABIS - BELTLINE WEST",
+    "address": "806 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-06-04T11:47:21.000Z",
+    "expiryDate": "2026-06-03T11:47:21.000Z",
+    "coordinates": [
+      -114.0794827,
+      51.0420746
+    ],
+    "longitude": -114.0794827,
+    "latitude": 51.0420746,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

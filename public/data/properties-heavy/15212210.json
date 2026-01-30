@@ -1,0 +1,37 @@
+{
+  "id": "15212210",
+  "fullDetails": {
+    "licenseNumber": "15212210",
+    "name": "DIXON'S PUB",
+    "address": "#24 15425 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2019-02-20T09:10:45.000Z",
+    "expiryDate": "2026-02-19T09:10:45.000Z",
+    "coordinates": [
+      -114.0663686,
+      50.9147209
+    ],
+    "longitude": -114.0663686,
+    "latitude": 50.9147209,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

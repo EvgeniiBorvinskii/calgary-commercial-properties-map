@@ -1,0 +1,37 @@
+{
+  "id": "15433220",
+  "fullDetails": {
+    "licenseNumber": "15433220",
+    "name": "SADDLERIDGE LIQUOR",
+    "address": "#128 20 SADDLESTONE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2019-07-22T13:56:58.000Z",
+    "expiryDate": "2026-07-21T13:56:58.000Z",
+    "coordinates": [
+      -113.928541,
+      51.1296171
+    ],
+    "longitude": -113.928541,
+    "latitude": 51.1296171,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

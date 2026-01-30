@@ -1,0 +1,36 @@
+{
+  "id": "16506743",
+  "fullDetails": {
+    "licenseNumber": "16506743",
+    "name": "JEMM SUNNYSIDE",
+    "address": "223 9A ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-08-23T13:18:02.000Z",
+    "expiryDate": "2026-08-22T13:18:02.000Z",
+    "coordinates": [
+      -114.0848921,
+      51.0531846
+    ],
+    "longitude": -114.0848921,
+    "latitude": 51.0531846,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

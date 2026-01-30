@@ -1,0 +1,36 @@
+{
+  "id": "61267",
+  "fullDetails": {
+    "licenseNumber": "61267",
+    "name": "ALL-TEX SCREENPRINTING",
+    "address": "6441 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-11T00:00:00.000Z",
+    "coordinates": [
+      -114.06052,
+      50.9947591
+    ],
+    "longitude": -114.06052,
+    "latitude": 50.9947591,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

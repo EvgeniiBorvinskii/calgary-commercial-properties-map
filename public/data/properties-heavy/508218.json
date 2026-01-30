@@ -1,0 +1,36 @@
+{
+  "id": "508218",
+  "fullDetails": {
+    "licenseNumber": "508218",
+    "name": "CONTINENTAL STRESS RELIEVING SERVICES",
+    "address": "318 MONUMENT PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2009-01-06T12:43:30.000Z",
+    "expiryDate": "2027-01-05T12:43:30.000Z",
+    "coordinates": [
+      -113.9965478,
+      51.0508141
+    ],
+    "longitude": -113.9965478,
+    "latitude": 51.0508141,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

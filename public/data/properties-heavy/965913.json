@@ -1,0 +1,36 @@
+{
+  "id": "965913",
+  "fullDetails": {
+    "licenseNumber": "965913",
+    "name": "ALSTON PROPERTIES LIMITED",
+    "address": "1331 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-21T00:00:00.000Z",
+    "coordinates": [
+      -114.093366,
+      51.0401338
+    ],
+    "longitude": -114.093366,
+    "latitude": 51.0401338,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

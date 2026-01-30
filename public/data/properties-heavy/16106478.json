@@ -1,0 +1,37 @@
+{
+  "id": "16106478",
+  "fullDetails": {
+    "licenseNumber": "16106478",
+    "name": "SADDLETOWNE CHALO FRESHCO",
+    "address": "850 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-16T15:27:23.000Z",
+    "expiryDate": "2026-12-15T15:27:23.000Z",
+    "coordinates": [
+      -113.9453015,
+      51.1236648
+    ],
+    "longitude": -113.9453015,
+    "latitude": 51.1236648,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

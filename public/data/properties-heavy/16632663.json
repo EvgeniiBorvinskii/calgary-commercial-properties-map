@@ -1,0 +1,37 @@
+{
+  "id": "16632663",
+  "fullDetails": {
+    "licenseNumber": "16632663",
+    "name": "THE MUSTARD SEED - OGDEN CIC",
+    "address": "2385 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET",
+    "status": "active",
+    "issuedDate": "2025-06-30T09:53:34.000Z",
+    "expiryDate": "2026-06-29T09:53:33.000Z",
+    "coordinates": [
+      -114.0034846,
+      50.9866854
+    ],
+    "longitude": -114.0034846,
+    "latitude": 50.9866854,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

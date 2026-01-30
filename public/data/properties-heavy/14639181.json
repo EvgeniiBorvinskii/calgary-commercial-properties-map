@@ -1,0 +1,37 @@
+{
+  "id": "14639181",
+  "fullDetails": {
+    "licenseNumber": "14639181",
+    "name": "KEVIN'S NO FRILLS",
+    "address": "#50 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-26T11:01:10.000Z",
+    "expiryDate": "2026-09-25T11:01:10.000Z",
+    "coordinates": [
+      -114.0858213,
+      50.9615056
+    ],
+    "longitude": -114.0858213,
+    "latitude": 50.9615056,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

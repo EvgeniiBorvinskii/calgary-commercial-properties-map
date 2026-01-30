@@ -1,0 +1,36 @@
+{
+  "id": "15986060",
+  "fullDetails": {
+    "licenseNumber": "15986060",
+    "name": "YIFANG TAIWAN FRUIT TEA",
+    "address": "#160 3 MAHOGANY RO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-07-07T09:39:19.000Z",
+    "expiryDate": "2026-07-06T09:39:19.000Z",
+    "coordinates": [
+      -113.9398886,
+      50.8979512
+    ],
+    "longitude": -113.9398886,
+    "latitude": 50.8979512,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

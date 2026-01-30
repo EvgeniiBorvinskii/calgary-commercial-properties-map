@@ -1,0 +1,36 @@
+{
+  "id": "14925432",
+  "fullDetails": {
+    "licenseNumber": "14925432",
+    "name": "BONEANDBISCUIT.COM",
+    "address": "#118 1625 210 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-17T10:26:16.000Z",
+    "expiryDate": "2026-07-16T10:26:16.000Z",
+    "coordinates": [
+      -114.025631,
+      50.8636551
+    ],
+    "longitude": -114.025631,
+    "latitude": 50.8636551,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

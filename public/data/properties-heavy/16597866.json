@@ -1,0 +1,36 @@
+{
+  "id": "16597866",
+  "fullDetails": {
+    "licenseNumber": "16597866",
+    "name": "STUART PLACE 1190994",
+    "address": "2142 16A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-06-24T15:56:23.000Z",
+    "expiryDate": "2026-06-23T15:56:22.000Z",
+    "coordinates": [
+      -114.0998815,
+      51.0351542
+    ],
+    "longitude": -114.0998815,
+    "latitude": 51.0351542,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

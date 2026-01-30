@@ -1,0 +1,37 @@
+{
+  "id": "16417933",
+  "fullDetails": {
+    "licenseNumber": "16417933",
+    "name": "O FOODIE PREMIUM MART / O TEA",
+    "address": "#122 30 CRESTRIDGE CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-01-03T09:42:17.000Z",
+    "expiryDate": "2027-01-02T09:42:17.000Z",
+    "coordinates": [
+      -114.2710532,
+      51.086
+    ],
+    "longitude": -114.2710532,
+    "latitude": 51.086,
+    "community": "CRESTMONT",
+    "ward": "CRM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

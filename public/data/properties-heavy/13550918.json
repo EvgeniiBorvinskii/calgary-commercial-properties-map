@@ -1,0 +1,36 @@
+{
+  "id": "13550918",
+  "fullDetails": {
+    "licenseNumber": "13550918",
+    "name": "FITNESS GUY (THE)",
+    "address": "1543 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2024-02-16T09:07:32.000Z",
+    "expiryDate": "2026-02-15T09:07:32.000Z",
+    "coordinates": [
+      -114.0278505,
+      51.0370939
+    ],
+    "longitude": -114.0278505,
+    "latitude": 51.0370939,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

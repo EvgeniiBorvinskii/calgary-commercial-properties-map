@@ -1,0 +1,36 @@
+{
+  "id": "12371993",
+  "fullDetails": {
+    "licenseNumber": "12371993",
+    "name": "HERITAGE POSTERS & MUSIC",
+    "address": "1316 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-05-19T15:59:45.000Z",
+    "expiryDate": "2026-05-18T15:59:45.000Z",
+    "coordinates": [
+      -114.0921956,
+      51.0435447
+    ],
+    "longitude": -114.0921956,
+    "latitude": 51.0435447,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

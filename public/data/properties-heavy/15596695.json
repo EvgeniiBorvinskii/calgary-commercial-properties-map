@@ -1,0 +1,36 @@
+{
+  "id": "15596695",
+  "fullDetails": {
+    "licenseNumber": "15596695",
+    "name": "FREEDOM MOBILE",
+    "address": "#C4 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-25T05:32:34.000Z",
+    "expiryDate": "2026-06-24T05:32:34.000Z",
+    "coordinates": [
+      -114.1557615,
+      51.0844599
+    ],
+    "longitude": -114.1557615,
+    "latitude": 51.0844599,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

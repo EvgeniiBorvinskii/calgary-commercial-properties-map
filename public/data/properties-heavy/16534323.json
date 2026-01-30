@@ -1,0 +1,36 @@
+{
+  "id": "16534323",
+  "fullDetails": {
+    "licenseNumber": "16534323",
+    "name": "ZED LIQUOR STORE",
+    "address": "3908B 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2024-09-06T10:43:55.000Z",
+    "expiryDate": "2026-09-05T10:43:54.000Z",
+    "coordinates": [
+      -113.9779799,
+      51.0381922
+    ],
+    "longitude": -113.9779799,
+    "latitude": 51.0381922,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

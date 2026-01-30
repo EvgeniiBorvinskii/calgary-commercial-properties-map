@@ -1,0 +1,36 @@
+{
+  "id": "16092207",
+  "fullDetails": {
+    "licenseNumber": "16092207",
+    "name": "DAGGER AUTOMOTIVE AND DIESEL PERFORMANCE",
+    "address": "11099 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-10-22T11:28:12.000Z",
+    "expiryDate": "2026-10-21T11:28:12.000Z",
+    "coordinates": [
+      -113.9623183,
+      50.9542815
+    ],
+    "longitude": -113.9623183,
+    "latitude": 50.9542815,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

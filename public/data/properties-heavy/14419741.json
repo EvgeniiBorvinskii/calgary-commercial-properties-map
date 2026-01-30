@@ -1,0 +1,36 @@
+{
+  "id": "14419741",
+  "fullDetails": {
+    "licenseNumber": "14419741",
+    "name": "DESTINATION ART",
+    "address": "#105 3400 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-13T11:42:49.000Z",
+    "expiryDate": "2026-02-12T11:42:49.000Z",
+    "coordinates": [
+      -114.0944736,
+      51.0825786
+    ],
+    "longitude": -114.0944736,
+    "latitude": 51.0825786,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "337444",
+  "fullDetails": {
+    "licenseNumber": "337444",
+    "name": "WESTCAN RECYCLERS",
+    "address": "8919 68 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2004-10-27T15:53:15.000Z",
+    "expiryDate": "2026-10-26T15:53:15.000Z",
+    "coordinates": [
+      -113.9363751,
+      50.9744256
+    ],
+    "longitude": -113.9363751,
+    "latitude": 50.9744256,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

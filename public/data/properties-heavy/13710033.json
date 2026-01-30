@@ -1,0 +1,36 @@
+{
+  "id": "13710033",
+  "fullDetails": {
+    "licenseNumber": "13710033",
+    "name": "ARAMARK CANADA",
+    "address": "11333 85 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-08-21T10:18:06.000Z",
+    "expiryDate": "2026-08-20T10:18:06.000Z",
+    "coordinates": [
+      -114.2180894,
+      51.1557848
+    ],
+    "longitude": -114.2180894,
+    "latitude": 51.1557848,
+    "community": "RESIDUAL WARD 1 - SUB AREA 1K",
+    "ward": "01K",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

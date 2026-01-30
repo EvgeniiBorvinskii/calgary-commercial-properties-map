@@ -1,0 +1,36 @@
+{
+  "id": "16444333",
+  "fullDetails": {
+    "licenseNumber": "16444333",
+    "name": "HAWORTH ESTATES",
+    "address": "117 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2024-04-02T10:33:26.000Z",
+    "expiryDate": "2026-04-01T10:33:26.000Z",
+    "coordinates": [
+      -114.0643359,
+      51.0393405
+    ],
+    "longitude": -114.0643359,
+    "latitude": 51.0393405,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

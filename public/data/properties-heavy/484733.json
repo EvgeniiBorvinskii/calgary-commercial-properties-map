@@ -1,0 +1,36 @@
+{
+  "id": "484733",
+  "fullDetails": {
+    "licenseNumber": "484733",
+    "name": "COMFORT INN & SUITES",
+    "address": "2369 BANFF TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-04T00:00:00.000Z",
+    "coordinates": [
+      -114.1158891,
+      51.0700219
+    ],
+    "longitude": -114.1158891,
+    "latitude": 51.0700219,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "25171",
+  "fullDetails": {
+    "licenseNumber": "25171",
+    "name": "A-PLUS COURIER",
+    "address": "3701 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BICYCLE COURIER AGENCY",
+    "licenseTypes": "BICYCLE COURIER AGENCY",
+    "status": "pending",
+    "issuedDate": "2016-08-27T05:32:16.000Z",
+    "expiryDate": "2024-08-26T05:32:16.000Z",
+    "coordinates": [
+      -114.0125509,
+      51.085978
+    ],
+    "longitude": -114.0125509,
+    "latitude": 51.085978,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16561185",
+  "fullDetails": {
+    "licenseNumber": "16561185",
+    "name": "REBOUND CENTRE",
+    "address": "#11C 6215 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-10-20T15:22:34.000Z",
+    "expiryDate": "2026-10-19T15:22:34.000Z",
+    "coordinates": [
+      -114.0577348,
+      50.9972166
+    ],
+    "longitude": -114.0577348,
+    "latitude": 50.9972166,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

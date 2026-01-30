@@ -1,0 +1,37 @@
+{
+  "id": "15866049",
+  "fullDetails": {
+    "licenseNumber": "15866049",
+    "name": "ELPRO ELEVATORS AND LIFTS",
+    "address": "#9 1925 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-19T10:32:45.000Z",
+    "expiryDate": "2026-08-18T10:32:45.000Z",
+    "coordinates": [
+      -114.0121265,
+      51.0878826
+    ],
+    "longitude": -114.0121265,
+    "latitude": 51.0878826,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

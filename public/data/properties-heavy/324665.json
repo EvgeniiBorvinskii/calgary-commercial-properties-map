@@ -1,0 +1,36 @@
+{
+  "id": "324665",
+  "fullDetails": {
+    "licenseNumber": "324665",
+    "name": "MICROSERVE",
+    "address": "#117 2611 HOPEWELL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2022-05-20T13:51:12.000Z",
+    "expiryDate": "2026-05-19T13:51:12.000Z",
+    "coordinates": [
+      -114.0001985,
+      51.0904202
+    ],
+    "longitude": -114.0001985,
+    "latitude": 51.0904202,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

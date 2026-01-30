@@ -1,0 +1,36 @@
+{
+  "id": "15020753",
+  "fullDetails": {
+    "licenseNumber": "15020753",
+    "name": "MAGIC MIRROR HAIR STUDIO",
+    "address": "#218 2066 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2018-09-05T15:39:06.000Z",
+    "expiryDate": "2026-09-04T15:39:06.000Z",
+    "coordinates": [
+      -114.01199,
+      51.0693962
+    ],
+    "longitude": -114.01199,
+    "latitude": 51.0693962,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

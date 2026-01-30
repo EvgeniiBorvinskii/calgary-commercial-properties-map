@@ -1,0 +1,37 @@
+{
+  "id": "13846225",
+  "fullDetails": {
+    "licenseNumber": "13846225",
+    "name": "GROUPE DERMAPURE",
+    "address": "#2150 1800 194 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-11-26T05:34:02.000Z",
+    "expiryDate": "2026-11-25T05:34:02.000Z",
+    "coordinates": [
+      -114.0241134,
+      50.8782023
+    ],
+    "longitude": -114.0241134,
+    "latitude": 50.8782023,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

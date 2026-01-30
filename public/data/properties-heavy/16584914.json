@@ -1,0 +1,36 @@
+{
+  "id": "16584914",
+  "fullDetails": {
+    "licenseNumber": "16584914",
+    "name": "SECOND CUP",
+    "address": "#115 1919 SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-02-05T13:03:09.000Z",
+    "expiryDate": "2026-02-04T13:03:08.000Z",
+    "coordinates": [
+      -114.1050257,
+      50.960783
+    ],
+    "longitude": -114.1050257,
+    "latitude": 50.960783,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

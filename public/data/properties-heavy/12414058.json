@@ -1,0 +1,36 @@
+{
+  "id": "12414058",
+  "fullDetails": {
+    "licenseNumber": "12414058",
+    "name": "PLATINUM LEAF FACILITIES",
+    "address": "2000 PEGASUS RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2005-07-14T14:12:02.000Z",
+    "expiryDate": "2026-07-13T14:12:01.000Z",
+    "coordinates": [
+      -114.010878,
+      51.0942971
+    ],
+    "longitude": -114.010878,
+    "latitude": 51.0942971,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

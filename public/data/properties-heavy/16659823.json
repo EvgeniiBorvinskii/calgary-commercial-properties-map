@@ -1,0 +1,36 @@
+{
+  "id": "16659823",
+  "fullDetails": {
+    "licenseNumber": "16659823",
+    "name": "CANADIAN VAPE AND SMOKE",
+    "address": "200E HADDON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-10-16T12:45:33.000Z",
+    "expiryDate": "2026-10-15T12:45:32.000Z",
+    "coordinates": [
+      -114.0784857,
+      50.9712013
+    ],
+    "longitude": -114.0784857,
+    "latitude": 50.9712013,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

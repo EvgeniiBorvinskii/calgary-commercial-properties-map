@@ -1,0 +1,36 @@
+{
+  "id": "652172",
+  "fullDetails": {
+    "licenseNumber": "652172",
+    "name": "VOLUME 1 CANADA",
+    "address": "4420 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-11-15T11:12:05.000Z",
+    "expiryDate": "2026-11-14T11:12:05.000Z",
+    "coordinates": [
+      -114.0616723,
+      51.0135211
+    ],
+    "longitude": -114.0616723,
+    "latitude": 51.0135211,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

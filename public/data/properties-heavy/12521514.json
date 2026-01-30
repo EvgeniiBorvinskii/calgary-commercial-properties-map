@@ -1,0 +1,36 @@
+{
+  "id": "12521514",
+  "fullDetails": {
+    "licenseNumber": "12521514",
+    "name": "LUCKY DIM SUM",
+    "address": "#153 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2007-01-19T09:57:51.000Z",
+    "expiryDate": "2027-01-18T09:57:51.000Z",
+    "coordinates": [
+      -114.0634569,
+      51.0665867
+    ],
+    "longitude": -114.0634569,
+    "latitude": 51.0665867,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

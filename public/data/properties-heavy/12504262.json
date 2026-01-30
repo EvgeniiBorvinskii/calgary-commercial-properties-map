@@ -1,0 +1,36 @@
+{
+  "id": "12504262",
+  "fullDetails": {
+    "licenseNumber": "12504262",
+    "name": "CANADIAN DENT",
+    "address": "#30 11410 27 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2016-11-09T11:22:02.000Z",
+    "expiryDate": "2026-11-08T11:22:02.000Z",
+    "coordinates": [
+      -113.9943955,
+      50.953287
+    ],
+    "longitude": -113.9943955,
+    "latitude": 50.953287,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

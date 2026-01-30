@@ -1,0 +1,37 @@
+{
+  "id": "16627697",
+  "fullDetails": {
+    "licenseNumber": "16627697",
+    "name": "BONGO BONGS AND VAPES",
+    "address": "#105 6915 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-05-30T15:45:23.000Z",
+    "expiryDate": "2026-05-29T15:45:22.000Z",
+    "coordinates": [
+      -113.9414704,
+      51.0807289
+    ],
+    "longitude": -113.9414704,
+    "latitude": 51.0807289,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

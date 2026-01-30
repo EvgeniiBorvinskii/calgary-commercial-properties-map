@@ -1,0 +1,37 @@
+{
+  "id": "14620983",
+  "fullDetails": {
+    "licenseNumber": "14620983",
+    "name": "GREAT CLIPS SAGE HILL CROSSING",
+    "address": "#108 65 SAGE HILL PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-15T09:14:47.000Z",
+    "expiryDate": "2026-08-14T09:14:47.000Z",
+    "coordinates": [
+      -114.1463541,
+      51.1692251
+    ],
+    "longitude": -114.1463541,
+    "latitude": 51.1692251,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

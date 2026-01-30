@@ -1,0 +1,37 @@
+{
+  "id": "16482481",
+  "fullDetails": {
+    "licenseNumber": "16482481",
+    "name": "THERAPEUTIC MASSAGE LASER SPA",
+    "address": "726 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-08-06T14:42:38.000Z",
+    "expiryDate": "2026-08-05T14:42:38.000Z",
+    "coordinates": [
+      -114.0540461,
+      51.0582487
+    ],
+    "longitude": -114.0540461,
+    "latitude": 51.0582487,
+    "community": "RENFREW",
+    "ward": "REN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

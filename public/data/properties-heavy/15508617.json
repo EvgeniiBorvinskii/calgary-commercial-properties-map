@@ -1,0 +1,36 @@
+{
+  "id": "15508617",
+  "fullDetails": {
+    "licenseNumber": "15508617",
+    "name": "1916338 ALBERTA / 989 PROMOTIONS",
+    "address": "#4 1313 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-05-08T13:02:48.000Z",
+    "expiryDate": "2026-05-07T13:02:48.000Z",
+    "coordinates": [
+      -114.0313102,
+      51.0913825
+    ],
+    "longitude": -114.0313102,
+    "latitude": 51.0913825,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

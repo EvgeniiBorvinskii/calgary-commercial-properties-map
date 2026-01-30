@@ -1,0 +1,36 @@
+{
+  "id": "14825475",
+  "fullDetails": {
+    "licenseNumber": "14825475",
+    "name": "LONDON HAIR SALON",
+    "address": "#102 5809 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2018-04-25T11:07:38.000Z",
+    "expiryDate": "2026-04-24T11:07:38.000Z",
+    "coordinates": [
+      -114.0724902,
+      51.0021574
+    ],
+    "longitude": -114.0724902,
+    "latitude": 51.0021574,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

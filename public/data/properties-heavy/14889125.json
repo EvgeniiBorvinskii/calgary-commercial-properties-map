@@ -1,0 +1,36 @@
+{
+  "id": "14889125",
+  "fullDetails": {
+    "licenseNumber": "14889125",
+    "name": "TACOTIME",
+    "address": "#440 151 WALDEN GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2018-04-11T10:34:10.000Z",
+    "expiryDate": "2026-04-10T10:34:10.000Z",
+    "coordinates": [
+      -114.0381533,
+      50.8757262
+    ],
+    "longitude": -114.0381533,
+    "latitude": 50.8757262,
+    "community": "WALDEN",
+    "ward": "WAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

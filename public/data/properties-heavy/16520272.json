@@ -1,0 +1,36 @@
+{
+  "id": "16520272",
+  "fullDetails": {
+    "licenseNumber": "16520272",
+    "name": "SVP STUDIO",
+    "address": "#142 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2024-07-25T15:44:08.000Z",
+    "expiryDate": "2026-07-24T15:44:08.000Z",
+    "coordinates": [
+      -113.9735019,
+      51.1070691
+    ],
+    "longitude": -113.9735019,
+    "latitude": 51.1070691,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

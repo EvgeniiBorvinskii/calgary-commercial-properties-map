@@ -1,0 +1,36 @@
+{
+  "id": "13410634",
+  "fullDetails": {
+    "licenseNumber": "13410634",
+    "name": "GOLFTEC CALGARY BLACKFOOT",
+    "address": "#117 8838 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-14T08:47:07.000Z",
+    "expiryDate": "2026-05-13T08:47:07.000Z",
+    "coordinates": [
+      -114.0445619,
+      50.9745941
+    ],
+    "longitude": -114.0445619,
+    "latitude": 50.9745941,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16515447",
+  "fullDetails": {
+    "licenseNumber": "16515447",
+    "name": "HEMINGWAY ROOM (THE)",
+    "address": "1204 20 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nTRADE SHOW (FACILITY)",
+    "status": "active",
+    "issuedDate": "2024-10-25T11:14:23.000Z",
+    "expiryDate": "2026-10-24T11:14:22.000Z",
+    "coordinates": [
+      -114.0366065,
+      51.0359603
+    ],
+    "longitude": -114.0366065,
+    "latitude": 51.0359603,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

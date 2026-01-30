@@ -1,0 +1,37 @@
+{
+  "id": "825489",
+  "fullDetails": {
+    "licenseNumber": "825489",
+    "name": "CALGARY MARRIOTT HOTEL",
+    "address": "110 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nHOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO,\nTRADE SHOW (FACILITY)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0625507,
+      51.0450894
+    ],
+    "longitude": -114.0625507,
+    "latitude": 51.0450894,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

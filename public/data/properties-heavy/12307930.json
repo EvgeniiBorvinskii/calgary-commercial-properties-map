@@ -1,0 +1,36 @@
+{
+  "id": "12307930",
+  "fullDetails": {
+    "licenseNumber": "12307930",
+    "name": "CALGARY'S ONE STOP SHOP",
+    "address": "4076 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-08-21T05:44:57.000Z",
+    "expiryDate": "2026-08-20T05:44:57.000Z",
+    "coordinates": [
+      -113.9772117,
+      50.9670162
+    ],
+    "longitude": -113.9772117,
+    "latitude": 50.9670162,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

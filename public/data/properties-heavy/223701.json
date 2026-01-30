@@ -1,0 +1,36 @@
+{
+  "id": "223701",
+  "fullDetails": {
+    "licenseNumber": "223701",
+    "name": "SMS EQUIPMENT",
+    "address": "7664 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-05-08T15:09:12.000Z",
+    "expiryDate": "2026-05-07T15:09:10.000Z",
+    "coordinates": [
+      -114.0410258,
+      51.1202952
+    ],
+    "longitude": -114.0410258,
+    "latitude": 51.1202952,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

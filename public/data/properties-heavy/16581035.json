@@ -1,0 +1,36 @@
+{
+  "id": "16581035",
+  "fullDetails": {
+    "licenseNumber": "16581035",
+    "name": "PHYSIOARC",
+    "address": "#148 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-03T07:31:07.000Z",
+    "expiryDate": "2026-10-02T07:31:07.000Z",
+    "coordinates": [
+      -113.9966913,
+      51.0803826
+    ],
+    "longitude": -113.9966913,
+    "latitude": 51.0803826,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

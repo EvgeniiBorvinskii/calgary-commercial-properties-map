@@ -1,0 +1,36 @@
+{
+  "id": "368852",
+  "fullDetails": {
+    "licenseNumber": "368852",
+    "name": "CYPRESS SECURITY PRODUCTS",
+    "address": "#B 4114 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-07-06T13:17:10.000Z",
+    "expiryDate": "2026-07-05T13:17:10.000Z",
+    "coordinates": [
+      -114.0630829,
+      51.0171914
+    ],
+    "longitude": -114.0630829,
+    "latitude": 51.0171914,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

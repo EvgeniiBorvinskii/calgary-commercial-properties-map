@@ -1,0 +1,36 @@
+{
+  "id": "135517",
+  "fullDetails": {
+    "licenseNumber": "135517",
+    "name": "DEERFOOT SHOE REPAIR & TAILORING",
+    "address": "#10 10 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-03-18T05:33:27.000Z",
+    "expiryDate": "2026-03-17T05:33:27.000Z",
+    "coordinates": [
+      -114.0722199,
+      51.1429993
+    ],
+    "longitude": -114.0722199,
+    "latitude": 51.1429993,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

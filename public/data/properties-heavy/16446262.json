@@ -1,0 +1,36 @@
+{
+  "id": "16446262",
+  "fullDetails": {
+    "licenseNumber": "16446262",
+    "name": "STAGE 3 SEPARATION CANADA",
+    "address": "#150 56 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2024-04-08T13:17:11.000Z",
+    "expiryDate": "2026-04-07T13:17:11.000Z",
+    "coordinates": [
+      -113.9078251,
+      50.9646166
+    ],
+    "longitude": -113.9078251,
+    "latitude": 50.9646166,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

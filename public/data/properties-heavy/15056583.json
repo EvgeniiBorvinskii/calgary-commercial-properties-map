@@ -1,0 +1,37 @@
+{
+  "id": "15056583",
+  "fullDetails": {
+    "licenseNumber": "15056583",
+    "name": "DIGITAL IMPORTS / THE VAPE WAREHOUSE",
+    "address": "464G WOODBINE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2019-07-31T05:32:45.000Z",
+    "expiryDate": "2026-07-30T05:32:45.000Z",
+    "coordinates": [
+      -114.1334057,
+      50.9464712
+    ],
+    "longitude": -114.1334057,
+    "latitude": 50.9464712,
+    "community": "WOODBINE",
+    "ward": "WBN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

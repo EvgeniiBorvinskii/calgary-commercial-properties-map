@@ -1,0 +1,37 @@
+{
+  "id": "15284417",
+  "fullDetails": {
+    "licenseNumber": "15284417",
+    "name": "CANNA CABANA",
+    "address": "#610 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-07-31T11:48:09.000Z",
+    "expiryDate": "2026-07-30T11:48:09.000Z",
+    "coordinates": [
+      -114.1977455,
+      51.1257074
+    ],
+    "longitude": -114.1977455,
+    "latitude": 51.1257074,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

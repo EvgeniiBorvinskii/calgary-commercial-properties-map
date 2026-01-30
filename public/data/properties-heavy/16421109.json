@@ -1,0 +1,36 @@
+{
+  "id": "16421109",
+  "fullDetails": {
+    "licenseNumber": "16421109",
+    "name": "APARTMENT BUILDING",
+    "address": "536 7 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-12-04T10:34:26.000Z",
+    "expiryDate": "2026-12-03T10:34:26.000Z",
+    "coordinates": [
+      -114.0752745,
+      51.0594589
+    ],
+    "longitude": -114.0752745,
+    "latitude": 51.0594589,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

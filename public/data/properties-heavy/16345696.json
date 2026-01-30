@@ -1,0 +1,37 @@
+{
+  "id": "16345696",
+  "fullDetails": {
+    "licenseNumber": "16345696",
+    "name": "POUR DECISIONS",
+    "address": "#B 1312 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-02-22T10:08:14.000Z",
+    "expiryDate": "2026-02-21T10:08:14.000Z",
+    "coordinates": [
+      -114.0924505,
+      51.0379922
+    ],
+    "longitude": -114.0924505,
+    "latitude": 51.0379922,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

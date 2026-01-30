@@ -1,0 +1,36 @@
+{
+  "id": "12734703",
+  "fullDetails": {
+    "licenseNumber": "12734703",
+    "name": "MANILA EXPRESS",
+    "address": "#945A 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-11-18T16:34:06.000Z",
+    "expiryDate": "2026-11-17T16:34:06.000Z",
+    "coordinates": [
+      -113.984505,
+      51.0617557
+    ],
+    "longitude": -113.984505,
+    "latitude": 51.0617557,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

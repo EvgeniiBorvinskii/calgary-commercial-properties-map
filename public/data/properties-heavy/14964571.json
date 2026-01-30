@@ -1,0 +1,36 @@
+{
+  "id": "14964571",
+  "fullDetails": {
+    "licenseNumber": "14964571",
+    "name": "CREATE DISTRIBUTION",
+    "address": "#13 5815 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-14T11:53:29.000Z",
+    "expiryDate": "2026-09-13T11:53:29.000Z",
+    "coordinates": [
+      -113.9775372,
+      51.0008164
+    ],
+    "longitude": -113.9775372,
+    "latitude": 51.0008164,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16599797",
+  "fullDetails": {
+    "licenseNumber": "16599797",
+    "name": "VAUGH AND CO BARBERSHOPS",
+    "address": "#116 340 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2025-03-07T08:10:27.000Z",
+    "expiryDate": "2026-03-06T08:10:26.000Z",
+    "coordinates": [
+      -114.1582424,
+      51.1827752
+    ],
+    "longitude": -114.1582424,
+    "latitude": 51.1827752,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

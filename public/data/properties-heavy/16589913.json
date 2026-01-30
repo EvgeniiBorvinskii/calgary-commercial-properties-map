@@ -1,0 +1,36 @@
+{
+  "id": "16589913",
+  "fullDetails": {
+    "licenseNumber": "16589913",
+    "name": "HNR AUCTION",
+    "address": "#2 4404 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2025-03-13T09:55:23.000Z",
+    "expiryDate": "2026-03-12T09:55:23.000Z",
+    "coordinates": [
+      -114.0324045,
+      51.0912105
+    ],
+    "longitude": -114.0324045,
+    "latitude": 51.0912105,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

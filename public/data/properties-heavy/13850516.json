@@ -1,0 +1,36 @@
+{
+  "id": "13850516",
+  "fullDetails": {
+    "licenseNumber": "13850516",
+    "name": "OLLIA MACARONS & TEA",
+    "address": "810C 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2014-11-17T13:38:19.000Z",
+    "expiryDate": "2026-11-16T13:38:19.000Z",
+    "coordinates": [
+      -114.0801345,
+      51.038349
+    ],
+    "longitude": -114.0801345,
+    "latitude": 51.038349,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

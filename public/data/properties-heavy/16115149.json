@@ -1,0 +1,36 @@
+{
+  "id": "16115149",
+  "fullDetails": {
+    "licenseNumber": "16115149",
+    "name": "PROSOURCE SUPPLY",
+    "address": "#140 500 BARLOW SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-03-06T13:48:19.000Z",
+    "expiryDate": "2026-03-05T13:48:18.000Z",
+    "coordinates": [
+      -113.9793883,
+      50.9735989
+    ],
+    "longitude": -113.9793883,
+    "latitude": 50.9735989,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

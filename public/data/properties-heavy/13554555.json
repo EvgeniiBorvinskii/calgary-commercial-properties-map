@@ -1,0 +1,36 @@
+{
+  "id": "13554555",
+  "fullDetails": {
+    "licenseNumber": "13554555",
+    "name": "TELUS",
+    "address": "#112 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-20T12:01:05.000Z",
+    "expiryDate": "2026-12-19T12:01:05.000Z",
+    "coordinates": [
+      -113.9861414,
+      51.0739844
+    ],
+    "longitude": -113.9861414,
+    "latitude": 51.0739844,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

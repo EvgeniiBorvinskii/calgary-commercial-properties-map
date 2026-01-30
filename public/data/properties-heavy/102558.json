@@ -1,0 +1,36 @@
+{
+  "id": "102558",
+  "fullDetails": {
+    "licenseNumber": "102558",
+    "name": "CARSTAR CALGARY MCKNIGHT",
+    "address": "4413 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2014-04-02T08:11:19.000Z",
+    "expiryDate": "2026-04-01T08:11:19.000Z",
+    "coordinates": [
+      -114.0362647,
+      51.0912478
+    ],
+    "longitude": -114.0362647,
+    "latitude": 51.0912478,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

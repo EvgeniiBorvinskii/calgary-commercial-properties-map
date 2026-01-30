@@ -1,0 +1,36 @@
+{
+  "id": "958751",
+  "fullDetails": {
+    "licenseNumber": "958751",
+    "name": "MONEY MART",
+    "address": "#327 16061 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-01T09:34:47.000Z",
+    "expiryDate": "2026-08-31T09:34:47.000Z",
+    "coordinates": [
+      -114.0651437,
+      50.9070691
+    ],
+    "longitude": -114.0651437,
+    "latitude": 50.9070691,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

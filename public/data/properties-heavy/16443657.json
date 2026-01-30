@@ -1,0 +1,36 @@
+{
+  "id": "16443657",
+  "fullDetails": {
+    "licenseNumber": "16443657",
+    "name": "SPEXVILLE",
+    "address": "#B 628 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-02-01T16:16:17.000Z",
+    "expiryDate": "2027-01-31T16:16:17.000Z",
+    "coordinates": [
+      -114.0760426,
+      51.0379719
+    ],
+    "longitude": -114.0760426,
+    "latitude": 51.0379719,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

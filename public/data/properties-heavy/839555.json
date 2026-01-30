@@ -1,0 +1,37 @@
+{
+  "id": "839555",
+  "fullDetails": {
+    "licenseNumber": "839555",
+    "name": "WINNERS APPAREL - STORE #295",
+    "address": "#400 85 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-03T00:00:00.000Z",
+    "coordinates": [
+      -114.0692879,
+      50.9047022
+    ],
+    "longitude": -114.0692879,
+    "latitude": 50.9047022,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

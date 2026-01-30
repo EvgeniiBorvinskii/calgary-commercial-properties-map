@@ -1,0 +1,36 @@
+{
+  "id": "111724",
+  "fullDetails": {
+    "licenseNumber": "111724",
+    "name": "MOORE'S THE SUIT PEOPLE",
+    "address": "#500 33 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-05-26T07:31:49.000Z",
+    "expiryDate": "2026-05-25T07:31:49.000Z",
+    "coordinates": [
+      -114.0388933,
+      50.9823708
+    ],
+    "longitude": -114.0388933,
+    "latitude": 50.9823708,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

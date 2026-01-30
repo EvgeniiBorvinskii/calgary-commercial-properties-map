@@ -1,0 +1,36 @@
+{
+  "id": "413187",
+  "fullDetails": {
+    "licenseNumber": "413187",
+    "name": "PACCANA ENTERPRISES",
+    "address": "1916 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-02T05:32:17.000Z",
+    "coordinates": [
+      -114.013726,
+      51.0772585
+    ],
+    "longitude": -114.013726,
+    "latitude": 51.0772585,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

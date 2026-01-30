@@ -1,0 +1,37 @@
+{
+  "id": "16394868",
+  "fullDetails": {
+    "licenseNumber": "16394868",
+    "name": "VACUUM SPECIALIST",
+    "address": "#214 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2024-03-08T05:33:18.000Z",
+    "expiryDate": "2026-03-07T05:33:18.000Z",
+    "coordinates": [
+      -114.0689382,
+      50.9443802
+    ],
+    "longitude": -114.0689382,
+    "latitude": 50.9443802,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

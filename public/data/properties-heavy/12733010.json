@@ -1,0 +1,36 @@
+{
+  "id": "12733010",
+  "fullDetails": {
+    "licenseNumber": "12733010",
+    "name": "SYNCON MANAGEMENT",
+    "address": "232 INITIATIVE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-06-05T11:45:54.000Z",
+    "expiryDate": "2026-06-04T11:45:54.000Z",
+    "coordinates": [
+      -113.9069762,
+      50.9613807
+    ],
+    "longitude": -113.9069762,
+    "latitude": 50.9613807,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

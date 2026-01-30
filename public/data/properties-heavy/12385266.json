@@ -1,0 +1,37 @@
+{
+  "id": "12385266",
+  "fullDetails": {
+    "licenseNumber": "12385266",
+    "name": "ALARMTEC AUTO SECURITY AND SOUND",
+    "address": "#111 700 MORAINE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-07-08T13:18:28.000Z",
+    "expiryDate": "2026-07-07T13:18:27.000Z",
+    "coordinates": [
+      -113.9981116,
+      51.0577744
+    ],
+    "longitude": -113.9981116,
+    "latitude": 51.0577744,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

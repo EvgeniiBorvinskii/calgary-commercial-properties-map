@@ -1,0 +1,37 @@
+{
+  "id": "13911409",
+  "fullDetails": {
+    "licenseNumber": "13911409",
+    "name": "TIM HORTON'S #3383",
+    "address": "35 SAGE HILL GA NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-06-18T11:54:31.000Z",
+    "expiryDate": "2026-06-17T11:54:31.000Z",
+    "coordinates": [
+      -114.1425312,
+      51.1697382
+    ],
+    "longitude": -114.1425312,
+    "latitude": 51.1697382,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13985270",
+  "fullDetails": {
+    "licenseNumber": "13985270",
+    "name": "SPRING VIETNAMESE CUISINE",
+    "address": "#315 11566 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-08-14T09:22:07.000Z",
+    "expiryDate": "2026-08-13T09:22:07.000Z",
+    "coordinates": [
+      -114.0023923,
+      50.9506523
+    ],
+    "longitude": -114.0023923,
+    "latitude": 50.9506523,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

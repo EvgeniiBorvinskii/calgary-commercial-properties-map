@@ -1,0 +1,37 @@
+{
+  "id": "12510566",
+  "fullDetails": {
+    "licenseNumber": "12510566",
+    "name": "WILD ROSE BREWERY",
+    "address": "4580 QUESNAY WOOD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2006-12-02T05:41:19.000Z",
+    "expiryDate": "2026-12-01T05:41:19.000Z",
+    "coordinates": [
+      -114.1226724,
+      51.01452
+    ],
+    "longitude": -114.1226724,
+    "latitude": 51.01452,
+    "community": "CURRIE BARRACKS",
+    "ward": "CUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

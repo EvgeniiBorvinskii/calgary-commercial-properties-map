@@ -1,0 +1,36 @@
+{
+  "id": "790451",
+  "fullDetails": {
+    "licenseNumber": "790451",
+    "name": "ALL KIND DOOR SERVICES",
+    "address": "#100A 1455 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-25T00:00:00.000Z",
+    "coordinates": [
+      -114.0261506,
+      51.0230925
+    ],
+    "longitude": -114.0261506,
+    "latitude": 51.0230925,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

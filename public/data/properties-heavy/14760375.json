@@ -1,0 +1,37 @@
+{
+  "id": "14760375",
+  "fullDetails": {
+    "licenseNumber": "14760375",
+    "name": "MEDIDERM SPA - BOW VALLEY",
+    "address": "#240 250 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-26T15:32:17.000Z",
+    "expiryDate": "2026-10-25T15:32:17.000Z",
+    "coordinates": [
+      -114.0670776,
+      51.047866
+    ],
+    "longitude": -114.0670776,
+    "latitude": 51.047866,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

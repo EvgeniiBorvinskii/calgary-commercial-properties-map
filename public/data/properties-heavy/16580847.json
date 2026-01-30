@@ -1,0 +1,36 @@
+{
+  "id": "16580847",
+  "fullDetails": {
+    "licenseNumber": "16580847",
+    "name": "LUXSTONE LIGHTS",
+    "address": "1502 21 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-20T11:02:13.000Z",
+    "expiryDate": "2027-01-19T11:02:13.000Z",
+    "coordinates": [
+      -114.0950718,
+      51.0717334
+    ],
+    "longitude": -114.0950718,
+    "latitude": 51.0717334,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

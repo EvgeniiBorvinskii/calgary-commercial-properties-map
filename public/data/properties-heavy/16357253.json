@@ -1,0 +1,37 @@
+{
+  "id": "16357253",
+  "fullDetails": {
+    "licenseNumber": "16357253",
+    "name": "REFLEX SUPPLEMENTS",
+    "address": "78 SAGE HILL PS NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-11T15:43:00.000Z",
+    "expiryDate": "2026-07-10T15:43:00.000Z",
+    "coordinates": [
+      -114.1466509,
+      51.1701913
+    ],
+    "longitude": -114.1466509,
+    "latitude": 51.1701913,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

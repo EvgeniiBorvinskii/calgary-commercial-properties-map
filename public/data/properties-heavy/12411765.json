@@ -1,0 +1,36 @@
+{
+  "id": "12411765",
+  "fullDetails": {
+    "licenseNumber": "12411765",
+    "name": "MINIBULK",
+    "address": "#133 7850 66 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-12-21T15:11:02.000Z",
+    "expiryDate": "2026-12-20T15:11:02.000Z",
+    "coordinates": [
+      -113.936847,
+      50.9835609
+    ],
+    "longitude": -113.936847,
+    "latitude": 50.9835609,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

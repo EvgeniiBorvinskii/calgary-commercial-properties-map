@@ -1,0 +1,36 @@
+{
+  "id": "12677050",
+  "fullDetails": {
+    "licenseNumber": "12677050",
+    "name": "MODERN NIAGARA ALBERTA",
+    "address": "3652 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-12-21T05:30:26.000Z",
+    "expiryDate": "2026-12-20T05:30:25.000Z",
+    "coordinates": [
+      -113.9788826,
+      51.0140603
+    ],
+    "longitude": -113.9788826,
+    "latitude": 51.0140603,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

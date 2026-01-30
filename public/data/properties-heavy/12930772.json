@@ -1,0 +1,36 @@
+{
+  "id": "12930772",
+  "fullDetails": {
+    "licenseNumber": "12930772",
+    "name": "COMPASS ENERGY SYSTEMS",
+    "address": "5796 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-02-18T05:57:48.000Z",
+    "expiryDate": "2027-02-17T05:57:48.000Z",
+    "coordinates": [
+      -113.9752052,
+      51.0014583
+    ],
+    "longitude": -113.9752052,
+    "latitude": 51.0014583,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

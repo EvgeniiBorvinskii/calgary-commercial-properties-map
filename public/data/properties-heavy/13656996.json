@@ -1,0 +1,36 @@
+{
+  "id": "13656996",
+  "fullDetails": {
+    "licenseNumber": "13656996",
+    "name": "REDSTONE CRIBBING",
+    "address": "#6230 5850 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-05-08T17:46:29.000Z",
+    "expiryDate": "2026-05-07T17:46:29.000Z",
+    "coordinates": [
+      -113.9492632,
+      51.1334562
+    ],
+    "longitude": -113.9492632,
+    "latitude": 51.1334562,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

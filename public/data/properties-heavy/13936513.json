@@ -1,0 +1,36 @@
+{
+  "id": "13936513",
+  "fullDetails": {
+    "licenseNumber": "13936513",
+    "name": "AUTOLINK INDUSTRIES",
+    "address": "8300 BLACKFOOT TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-15T05:33:02.000Z",
+    "expiryDate": "2026-06-14T05:33:02.000Z",
+    "coordinates": [
+      -114.0472454,
+      50.980068
+    ],
+    "longitude": -114.0472454,
+    "latitude": 50.980068,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12800702",
+  "fullDetails": {
+    "licenseNumber": "12800702",
+    "name": "CACTUS CLUB CAFE",
+    "address": "7010 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2009-07-31T05:34:49.000Z",
+    "expiryDate": "2026-07-30T05:34:49.000Z",
+    "coordinates": [
+      -114.0708343,
+      50.9912773
+    ],
+    "longitude": -114.0708343,
+    "latitude": 50.9912773,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

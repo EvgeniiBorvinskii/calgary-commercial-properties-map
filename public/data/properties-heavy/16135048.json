@@ -1,0 +1,36 @@
+{
+  "id": "16135048",
+  "fullDetails": {
+    "licenseNumber": "16135048",
+    "name": "METALOMANIA",
+    "address": "#13 35 NORMANDY DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "pending",
+    "issuedDate": "2022-04-08T13:08:01.000Z",
+    "expiryDate": "2026-04-07T13:08:01.000Z",
+    "coordinates": [
+      -114.119053,
+      51.0192933
+    ],
+    "longitude": -114.119053,
+    "latitude": 51.0192933,
+    "community": "CURRIE BARRACKS",
+    "ward": "CUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

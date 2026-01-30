@@ -1,0 +1,37 @@
+{
+  "id": "16263071",
+  "fullDetails": {
+    "licenseNumber": "16263071",
+    "name": "EDGEMONT FAMILY PHARMACY",
+    "address": "#6 34 EDGEDALE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-07T11:56:51.000Z",
+    "expiryDate": "2026-03-06T11:56:51.000Z",
+    "coordinates": [
+      -114.1562579,
+      51.1190502
+    ],
+    "longitude": -114.1562579,
+    "latitude": 51.1190502,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

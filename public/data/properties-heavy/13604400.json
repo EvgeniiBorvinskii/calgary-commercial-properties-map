@@ -1,0 +1,36 @@
+{
+  "id": "13604400",
+  "fullDetails": {
+    "licenseNumber": "13604400",
+    "name": "MARK ANTHONY BRANDS",
+    "address": "#210 524 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2013-01-21T10:23:37.000Z",
+    "expiryDate": "2027-01-20T10:23:37.000Z",
+    "coordinates": [
+      -114.0728726,
+      51.0380162
+    ],
+    "longitude": -114.0728726,
+    "latitude": 51.0380162,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

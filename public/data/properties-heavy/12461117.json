@@ -1,0 +1,36 @@
+{
+  "id": "12461117",
+  "fullDetails": {
+    "licenseNumber": "12461117",
+    "name": "ACCELEWARE",
+    "address": "1822 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2026-01-12T13:24:18.000Z",
+    "expiryDate": "2027-01-11T13:24:18.000Z",
+    "coordinates": [
+      -114.0682138,
+      51.037489
+    ],
+    "longitude": -114.0682138,
+    "latitude": 51.037489,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

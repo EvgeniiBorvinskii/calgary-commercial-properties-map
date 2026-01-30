@@ -1,0 +1,36 @@
+{
+  "id": "15915812",
+  "fullDetails": {
+    "licenseNumber": "15915812",
+    "name": "KALAMOIR CONSTRUCTION",
+    "address": "#203 1032 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-05T14:37:59.000Z",
+    "expiryDate": "2026-09-04T14:37:58.000Z",
+    "coordinates": [
+      -114.0859522,
+      51.0380784
+    ],
+    "longitude": -114.0859522,
+    "latitude": 51.0380784,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

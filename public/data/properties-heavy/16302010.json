@@ -1,0 +1,37 @@
+{
+  "id": "16302010",
+  "fullDetails": {
+    "licenseNumber": "16302010",
+    "name": "PIZZA 73",
+    "address": "#150 155 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-15T15:05:19.000Z",
+    "expiryDate": "2026-08-14T15:05:18.000Z",
+    "coordinates": [
+      -114.0922149,
+      51.18308
+    ],
+    "longitude": -114.0922149,
+    "latitude": 51.18308,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

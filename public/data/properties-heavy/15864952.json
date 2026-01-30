@@ -1,0 +1,36 @@
+{
+  "id": "15864952",
+  "fullDetails": {
+    "licenseNumber": "15864952",
+    "name": "TIMBERCREEK ELECTRIC",
+    "address": "#110 41 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-01-16T15:36:54.000Z",
+    "expiryDate": "2027-01-15T15:36:54.000Z",
+    "coordinates": [
+      -114.2006992,
+      51.1522881
+    ],
+    "longitude": -114.2006992,
+    "latitude": 51.1522881,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

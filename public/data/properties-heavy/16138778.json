@@ -1,0 +1,37 @@
+{
+  "id": "16138778",
+  "fullDetails": {
+    "licenseNumber": "16138778",
+    "name": "MEGA SANJHA PUNJAB GROCERY STORE",
+    "address": "606 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-23T07:44:13.000Z",
+    "expiryDate": "2026-03-22T07:44:13.000Z",
+    "coordinates": [
+      -113.9688543,
+      51.1468412
+    ],
+    "longitude": -113.9688543,
+    "latitude": 51.1468412,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

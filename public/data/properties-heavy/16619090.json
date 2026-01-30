@@ -1,0 +1,36 @@
+{
+  "id": "16619090",
+  "fullDetails": {
+    "licenseNumber": "16619090",
+    "name": "RIBBON CANADA",
+    "address": "6049 CENTRE ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-12T14:32:34.000Z",
+    "expiryDate": "2026-06-11T14:32:34.000Z",
+    "coordinates": [
+      -114.0644434,
+      50.9986307
+    ],
+    "longitude": -114.0644434,
+    "latitude": 50.9986307,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

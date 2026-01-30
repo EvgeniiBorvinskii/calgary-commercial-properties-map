@@ -1,0 +1,36 @@
+{
+  "id": "12222139",
+  "fullDetails": {
+    "licenseNumber": "12222139",
+    "name": "GLOBAL TRUCK & TRAILER REPAIR",
+    "address": "4330 68 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2019-04-09T15:09:42.000Z",
+    "expiryDate": "2026-04-08T15:09:42.000Z",
+    "coordinates": [
+      -113.9737992,
+      50.9943518
+    ],
+    "longitude": -113.9737992,
+    "latitude": 50.9943518,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

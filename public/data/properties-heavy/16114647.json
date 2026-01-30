@@ -1,0 +1,37 @@
+{
+  "id": "16114647",
+  "fullDetails": {
+    "licenseNumber": "16114647",
+    "name": "DGR FLOORING",
+    "address": "#106 6420 6A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2022-12-08T14:58:39.000Z",
+    "expiryDate": "2024-12-07T14:58:39.000Z",
+    "coordinates": [
+      -114.0486295,
+      50.9975447
+    ],
+    "longitude": -114.0486295,
+    "latitude": 50.9975447,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

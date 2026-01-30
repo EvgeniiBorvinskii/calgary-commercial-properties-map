@@ -1,0 +1,36 @@
+{
+  "id": "15873904",
+  "fullDetails": {
+    "licenseNumber": "15873904",
+    "name": "TOP GUN KITCHEN",
+    "address": "#7 3927 EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2020-03-04T15:30:53.000Z",
+    "expiryDate": "2026-03-03T15:30:53.000Z",
+    "coordinates": [
+      -114.0523859,
+      51.0883776
+    ],
+    "longitude": -114.0523859,
+    "latitude": 51.0883776,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

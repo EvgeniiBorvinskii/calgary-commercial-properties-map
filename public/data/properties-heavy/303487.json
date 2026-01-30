@@ -1,0 +1,36 @@
+{
+  "id": "303487",
+  "fullDetails": {
+    "licenseNumber": "303487",
+    "name": "SUNDOG EYEWEAR",
+    "address": "#130 300 AERO LI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-11-18T12:45:35.000Z",
+    "expiryDate": "2026-11-17T12:45:34.000Z",
+    "coordinates": [
+      -114.0314165,
+      51.1334102
+    ],
+    "longitude": -114.0314165,
+    "latitude": 51.1334102,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

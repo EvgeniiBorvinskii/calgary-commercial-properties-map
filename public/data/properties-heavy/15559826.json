@@ -1,0 +1,36 @@
+{
+  "id": "15559826",
+  "fullDetails": {
+    "licenseNumber": "15559826",
+    "name": "MCL STORAGE PRODUCTS",
+    "address": "#5 700 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-07-09T13:13:04.000Z",
+    "expiryDate": "2026-07-08T13:13:04.000Z",
+    "coordinates": [
+      -114.0464558,
+      51.0020491
+    ],
+    "longitude": -114.0464558,
+    "latitude": 51.0020491,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

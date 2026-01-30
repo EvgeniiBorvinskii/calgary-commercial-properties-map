@@ -1,0 +1,37 @@
+{
+  "id": "12655551",
+  "fullDetails": {
+    "licenseNumber": "12655551",
+    "name": "REAL CANADIAN SUPERSTORE #1545",
+    "address": "7020 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "subType": "SCHOOL (PROV. NOT REQUIRED),",
+    "licenseTypes": "PHOTOGRAPHER,\nSCHOOL (PROV. NOT REQUIRED),\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2009-02-12T07:22:59.000Z",
+    "expiryDate": "2026-02-11T07:22:58.000Z",
+    "coordinates": [
+      -114.0693876,
+      51.1157759
+    ],
+    "longitude": -114.0693876,
+    "latitude": 51.1157759,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

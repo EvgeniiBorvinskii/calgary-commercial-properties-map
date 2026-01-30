@@ -1,0 +1,36 @@
+{
+  "id": "13807433",
+  "fullDetails": {
+    "licenseNumber": "13807433",
+    "name": "ENGINEERED AIR",
+    "address": "1401 HASTINGS CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2014-02-19T09:00:57.000Z",
+    "expiryDate": "2026-02-18T09:00:57.000Z",
+    "coordinates": [
+      -114.0301803,
+      51.0116703
+    ],
+    "longitude": -114.0301803,
+    "latitude": 51.0116703,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

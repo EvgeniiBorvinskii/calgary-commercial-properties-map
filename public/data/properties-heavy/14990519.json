@@ -1,0 +1,37 @@
+{
+  "id": "14990519",
+  "fullDetails": {
+    "licenseNumber": "14990519",
+    "name": "LULU BAR",
+    "address": "510 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2019-03-25T14:21:50.000Z",
+    "expiryDate": "2026-03-24T14:21:50.000Z",
+    "coordinates": [
+      -114.0721995,
+      51.0380233
+    ],
+    "longitude": -114.0721995,
+    "latitude": 51.0380233,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

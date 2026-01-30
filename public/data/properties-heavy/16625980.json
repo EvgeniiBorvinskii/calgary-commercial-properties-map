@@ -1,0 +1,36 @@
+{
+  "id": "16625980",
+  "fullDetails": {
+    "licenseNumber": "16625980",
+    "name": "COCO BUBBLE TEA",
+    "address": "#810 3950 SAGE HILL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-18T11:11:50.000Z",
+    "expiryDate": "2026-06-17T11:11:50.000Z",
+    "coordinates": [
+      -114.1398144,
+      51.1747349
+    ],
+    "longitude": -114.1398144,
+    "latitude": 51.1747349,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

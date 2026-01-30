@@ -1,0 +1,36 @@
+{
+  "id": "13088349",
+  "fullDetails": {
+    "licenseNumber": "13088349",
+    "name": "ODL NORTH AMERICA",
+    "address": "#36 8009 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-02-23T14:59:53.000Z",
+    "expiryDate": "2027-02-22T14:59:53.000Z",
+    "coordinates": [
+      -113.9474642,
+      50.9817822
+    ],
+    "longitude": -113.9474642,
+    "latitude": 50.9817822,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

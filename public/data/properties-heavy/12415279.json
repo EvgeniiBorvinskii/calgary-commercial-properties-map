@@ -1,0 +1,36 @@
+{
+  "id": "12415279",
+  "fullDetails": {
+    "licenseNumber": "12415279",
+    "name": "S I ENERGY",
+    "address": "#22 666 GODDARD AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-07-13T06:34:20.000Z",
+    "expiryDate": "2026-07-12T06:34:20.000Z",
+    "coordinates": [
+      -114.0497004,
+      51.0982251
+    ],
+    "longitude": -114.0497004,
+    "latitude": 51.0982251,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

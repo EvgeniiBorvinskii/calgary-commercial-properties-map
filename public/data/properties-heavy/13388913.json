@@ -1,0 +1,37 @@
+{
+  "id": "13388913",
+  "fullDetails": {
+    "licenseNumber": "13388913",
+    "name": "GREEN IVY HAIR SALON & SPA",
+    "address": "#120 40 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2012-03-09T05:41:52.000Z",
+    "expiryDate": "2026-03-08T05:41:52.000Z",
+    "coordinates": [
+      -114.0708002,
+      51.1419931
+    ],
+    "longitude": -114.0708002,
+    "latitude": 51.1419931,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

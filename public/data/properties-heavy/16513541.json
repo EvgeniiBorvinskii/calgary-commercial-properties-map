@@ -1,0 +1,37 @@
+{
+  "id": "16513541",
+  "fullDetails": {
+    "licenseNumber": "16513541",
+    "name": "ACE LIQUOR DISCOUNTER AT HUNTERHORN",
+    "address": "566 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2025-03-28T12:26:00.000Z",
+    "expiryDate": "2026-03-27T12:25:59.000Z",
+    "coordinates": [
+      -114.0546513,
+      51.1113527
+    ],
+    "longitude": -114.0546513,
+    "latitude": 51.1113527,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

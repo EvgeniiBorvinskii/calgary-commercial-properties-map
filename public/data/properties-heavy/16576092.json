@@ -1,0 +1,36 @@
+{
+  "id": "16576092",
+  "fullDetails": {
+    "licenseNumber": "16576092",
+    "name": "BIJOU",
+    "address": "#200 1411 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "pending",
+    "issuedDate": "2025-02-05T10:35:03.000Z",
+    "expiryDate": "2026-02-04T10:35:02.000Z",
+    "coordinates": [
+      -114.0612439,
+      51.038714
+    ],
+    "longitude": -114.0612439,
+    "latitude": 51.038714,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

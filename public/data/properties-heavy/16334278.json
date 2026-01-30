@@ -1,0 +1,37 @@
+{
+  "id": "16334278",
+  "fullDetails": {
+    "licenseNumber": "16334278",
+    "name": "BENCH RESTAURANT YYC (THE)",
+    "address": "#100 333 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-18T09:59:59.000Z",
+    "expiryDate": "2026-09-17T09:59:59.000Z",
+    "coordinates": [
+      -114.0637631,
+      50.8972489
+    ],
+    "longitude": -114.0637631,
+    "latitude": 50.8972489,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

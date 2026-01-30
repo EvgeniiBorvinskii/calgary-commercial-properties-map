@@ -1,0 +1,37 @@
+{
+  "id": "13848502",
+  "fullDetails": {
+    "licenseNumber": "13848502",
+    "name": "RAWLEIGH FOOD MART",
+    "address": "1525 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2017-10-20T09:25:13.000Z",
+    "expiryDate": "2026-10-19T09:25:13.000Z",
+    "coordinates": [
+      -114.0718638,
+      51.0382932
+    ],
+    "longitude": -114.0718638,
+    "latitude": 51.0382932,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

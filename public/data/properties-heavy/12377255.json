@@ -1,0 +1,37 @@
+{
+  "id": "12377255",
+  "fullDetails": {
+    "licenseNumber": "12377255",
+    "name": "HOME DEPOT CANADA #7037",
+    "address": "1818 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nFOOD SERVICE - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-11-21T10:59:40.000Z",
+    "expiryDate": "2026-11-20T10:59:40.000Z",
+    "coordinates": [
+      -114.1042598,
+      51.0671271
+    ],
+    "longitude": -114.1042598,
+    "latitude": 51.0671271,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16530925",
+  "fullDetails": {
+    "licenseNumber": "16530925",
+    "name": "VALUE VILLAGE",
+    "address": "120 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2024-11-23T10:37:25.000Z",
+    "expiryDate": "2026-11-22T10:37:23.000Z",
+    "coordinates": [
+      -114.0643102,
+      51.0458214
+    ],
+    "longitude": -114.0643102,
+    "latitude": 51.0458214,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

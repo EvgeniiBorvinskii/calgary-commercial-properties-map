@@ -1,0 +1,36 @@
+{
+  "id": "19646",
+  "fullDetails": {
+    "licenseNumber": "19646",
+    "name": "GLAZIER ELECTRIC",
+    "address": "7134 FISHER ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-10T17:12:24.000Z",
+    "coordinates": [
+      -114.0692612,
+      50.990813
+    ],
+    "longitude": -114.0692612,
+    "latitude": 50.990813,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

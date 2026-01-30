@@ -1,0 +1,36 @@
+{
+  "id": "15868417",
+  "fullDetails": {
+    "licenseNumber": "15868417",
+    "name": "SAIGON DELI",
+    "address": "#11 4527 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-02-06T11:56:58.000Z",
+    "expiryDate": "2027-02-05T11:56:57.000Z",
+    "coordinates": [
+      -113.9694677,
+      51.0443818
+    ],
+    "longitude": -113.9694677,
+    "latitude": 51.0443818,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

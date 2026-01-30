@@ -1,0 +1,37 @@
+{
+  "id": "14505754",
+  "fullDetails": {
+    "licenseNumber": "14505754",
+    "name": "CAN ECO LOGICAL SOLUTIONS",
+    "address": "#8 3401 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-07-05T11:39:19.000Z",
+    "expiryDate": "2026-07-04T11:39:19.000Z",
+    "coordinates": [
+      -114.0126255,
+      51.0833323
+    ],
+    "longitude": -114.0126255,
+    "latitude": 51.0833323,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

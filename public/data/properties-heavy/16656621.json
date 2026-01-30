@@ -1,0 +1,36 @@
+{
+  "id": "16656621",
+  "fullDetails": {
+    "licenseNumber": "16656621",
+    "name": "ARTHOUSE",
+    "address": "#400 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-25T09:10:06.000Z",
+    "expiryDate": "2026-09-24T09:10:05.000Z",
+    "coordinates": [
+      -114.0704303,
+      50.976664
+    ],
+    "longitude": -114.0704303,
+    "latitude": 50.976664,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

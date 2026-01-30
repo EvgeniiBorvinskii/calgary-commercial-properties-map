@@ -1,0 +1,36 @@
+{
+  "id": "16091811",
+  "fullDetails": {
+    "licenseNumber": "16091811",
+    "name": "MIRAJ RESTAURANT",
+    "address": "#310 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-21T12:16:30.000Z",
+    "expiryDate": "2026-10-20T12:16:30.000Z",
+    "coordinates": [
+      -113.974578,
+      51.1071676
+    ],
+    "longitude": -113.974578,
+    "latitude": 51.1071676,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

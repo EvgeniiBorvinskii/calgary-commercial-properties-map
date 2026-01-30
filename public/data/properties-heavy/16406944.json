@@ -1,0 +1,37 @@
+{
+  "id": "16406944",
+  "fullDetails": {
+    "licenseNumber": "16406944",
+    "name": "BUTTERFLY HEALTH SERVICES",
+    "address": "#142 1111 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2023-11-22T07:55:31.000Z",
+    "expiryDate": "2026-11-21T07:55:31.000Z",
+    "coordinates": [
+      -114.0870354,
+      51.047975
+    ],
+    "longitude": -114.0870354,
+    "latitude": 51.047975,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

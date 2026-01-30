@@ -1,0 +1,36 @@
+{
+  "id": "15954001",
+  "fullDetails": {
+    "licenseNumber": "15954001",
+    "name": "REITMANS #1037",
+    "address": "#510 85 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-21T11:17:04.000Z",
+    "expiryDate": "2026-12-22T00:00:00.000Z",
+    "coordinates": [
+      -114.0688512,
+      50.9053467
+    ],
+    "longitude": -114.0688512,
+    "latitude": 50.9053467,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

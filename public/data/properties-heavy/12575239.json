@@ -1,0 +1,37 @@
+{
+  "id": "12575239",
+  "fullDetails": {
+    "licenseNumber": "12575239",
+    "name": "CALGARY CO-OP GAS BAR #33",
+    "address": "4608 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2008-09-16T05:32:58.000Z",
+    "expiryDate": "2026-09-15T05:32:58.000Z",
+    "coordinates": [
+      -114.1613906,
+      51.0708648
+    ],
+    "longitude": -114.1613906,
+    "latitude": 51.0708648,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

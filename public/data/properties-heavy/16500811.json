@@ -1,0 +1,36 @@
+{
+  "id": "16500811",
+  "fullDetails": {
+    "licenseNumber": "16500811",
+    "name": "NOVA CAREER COLLEGE",
+    "address": "3430 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2024-08-02T08:59:50.000Z",
+    "expiryDate": "2026-08-01T08:59:50.000Z",
+    "coordinates": [
+      -114.0002692,
+      51.0844571
+    ],
+    "longitude": -114.0002692,
+    "latitude": 51.0844571,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

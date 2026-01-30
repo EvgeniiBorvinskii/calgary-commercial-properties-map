@@ -1,0 +1,36 @@
+{
+  "id": "39792",
+  "fullDetails": {
+    "licenseNumber": "39792",
+    "name": "CAVALCADE AUTO ACCEPTANCE",
+    "address": "#7 625 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-23T14:59:17.000Z",
+    "expiryDate": "2026-12-22T14:59:17.000Z",
+    "coordinates": [
+      -114.0499061,
+      50.984042
+    ],
+    "longitude": -114.0499061,
+    "latitude": 50.984042,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

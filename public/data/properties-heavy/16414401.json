@@ -1,0 +1,36 @@
+{
+  "id": "16414401",
+  "fullDetails": {
+    "licenseNumber": "16414401",
+    "name": "CENTRAL PAINTING",
+    "address": "#105 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-07T10:37:15.000Z",
+    "expiryDate": "2026-12-06T10:37:15.000Z",
+    "coordinates": [
+      -114.0405282,
+      51.1042589
+    ],
+    "longitude": -114.0405282,
+    "latitude": 51.1042589,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

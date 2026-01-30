@@ -1,0 +1,37 @@
+{
+  "id": "16690257",
+  "fullDetails": {
+    "licenseNumber": "16690257",
+    "name": "CLOUD NAAN",
+    "address": "#270 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-12-23T11:41:58.000Z",
+    "expiryDate": "2026-12-22T11:41:57.000Z",
+    "coordinates": [
+      -113.9406041,
+      51.1558134
+    ],
+    "longitude": -113.9406041,
+    "latitude": 51.1558134,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

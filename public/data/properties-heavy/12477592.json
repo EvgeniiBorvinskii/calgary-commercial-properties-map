@@ -1,0 +1,36 @@
+{
+  "id": "12477592",
+  "fullDetails": {
+    "licenseNumber": "12477592",
+    "name": "ARCTIC AIR REFRIGERATION, AIR CONDITIONING & HEATING",
+    "address": "#123 2710 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-09-11T09:24:51.000Z",
+    "expiryDate": "2026-09-10T09:24:51.000Z",
+    "coordinates": [
+      -113.9969049,
+      51.0549673
+    ],
+    "longitude": -113.9969049,
+    "latitude": 51.0549673,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

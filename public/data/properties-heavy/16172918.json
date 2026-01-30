@@ -1,0 +1,37 @@
+{
+  "id": "16172918",
+  "fullDetails": {
+    "licenseNumber": "16172918",
+    "name": "7-ELEVEN - STORE 42105H",
+    "address": "208 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2022-09-15T09:10:24.000Z",
+    "expiryDate": "2026-09-14T09:10:24.000Z",
+    "coordinates": [
+      -113.9667964,
+      51.1468278
+    ],
+    "longitude": -113.9667964,
+    "latitude": 51.1468278,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

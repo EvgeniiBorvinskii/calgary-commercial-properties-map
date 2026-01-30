@@ -1,0 +1,36 @@
+{
+  "id": "721043",
+  "fullDetails": {
+    "licenseNumber": "721043",
+    "name": "ROYAL BUILDING SOLUTIONS",
+    "address": "#107 5760 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2008-04-03T14:10:10.000Z",
+    "expiryDate": "2026-04-02T14:10:10.000Z",
+    "coordinates": [
+      -114.0405965,
+      51.0048596
+    ],
+    "longitude": -114.0405965,
+    "latitude": 51.0048596,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

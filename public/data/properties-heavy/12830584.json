@@ -1,0 +1,36 @@
+{
+  "id": "12830584",
+  "fullDetails": {
+    "licenseNumber": "12830584",
+    "name": "EPT",
+    "address": "#17 3900 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-08-29T05:32:58.000Z",
+    "expiryDate": "2026-08-28T05:32:58.000Z",
+    "coordinates": [
+      -113.9802909,
+      50.9593024
+    ],
+    "longitude": -113.9802909,
+    "latitude": 50.9593024,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

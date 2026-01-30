@@ -1,0 +1,37 @@
+{
+  "id": "16555252",
+  "fullDetails": {
+    "licenseNumber": "16555252",
+    "name": "BIZARRE GASTRO PUB/BINGE PIZZA/BUBBLE BREW BAR",
+    "address": "2016 SPILLER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-24T08:52:19.000Z",
+    "expiryDate": "2026-12-23T08:52:19.000Z",
+    "coordinates": [
+      -114.042016,
+      51.0348228
+    ],
+    "longitude": -114.042016,
+    "latitude": 51.0348228,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

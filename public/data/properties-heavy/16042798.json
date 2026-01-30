@@ -1,0 +1,36 @@
+{
+  "id": "16042798",
+  "fullDetails": {
+    "licenseNumber": "16042798",
+    "name": "VALUE PAINTING & HOME SERVICES",
+    "address": "#16 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-06-02T05:30:23.000Z",
+    "expiryDate": "2026-06-01T05:30:23.000Z",
+    "coordinates": [
+      -114.0288066,
+      51.0876669
+    ],
+    "longitude": -114.0288066,
+    "latitude": 51.0876669,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

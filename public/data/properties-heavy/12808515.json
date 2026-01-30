@@ -1,0 +1,36 @@
+{
+  "id": "12808515",
+  "fullDetails": {
+    "licenseNumber": "12808515",
+    "name": "RESTORERS GROUP (THE)",
+    "address": "6230 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2020-03-20T09:26:37.000Z",
+    "expiryDate": "2026-03-19T09:26:37.000Z",
+    "coordinates": [
+      -113.9637385,
+      50.9979591
+    ],
+    "longitude": -113.9637385,
+    "latitude": 50.9979591,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

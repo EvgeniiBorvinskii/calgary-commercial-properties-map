@@ -1,0 +1,36 @@
+{
+  "id": "16212284",
+  "fullDetails": {
+    "licenseNumber": "16212284",
+    "name": "GULAB HOMES KAAYA LUXURY AYURVEDA",
+    "address": "#1111 4058 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-15T15:23:55.000Z",
+    "expiryDate": "2026-07-14T15:23:54.000Z",
+    "coordinates": [
+      -113.9760379,
+      51.1533254
+    ],
+    "longitude": -113.9760379,
+    "latitude": 51.1533254,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

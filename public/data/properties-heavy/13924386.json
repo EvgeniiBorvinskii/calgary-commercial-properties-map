@@ -1,0 +1,36 @@
+{
+  "id": "13924386",
+  "fullDetails": {
+    "licenseNumber": "13924386",
+    "name": "PINNACLE AQUATIC GROUP",
+    "address": "#140 5423 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-03-14T14:12:56.000Z",
+    "expiryDate": "2026-03-13T14:12:55.000Z",
+    "coordinates": [
+      -113.9539791,
+      50.9984562
+    ],
+    "longitude": -113.9539791,
+    "latitude": 50.9984562,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

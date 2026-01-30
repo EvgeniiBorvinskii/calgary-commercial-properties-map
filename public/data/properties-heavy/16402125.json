@@ -1,0 +1,36 @@
+{
+  "id": "16402125",
+  "fullDetails": {
+    "licenseNumber": "16402125",
+    "name": "OGDEN MASSAGE",
+    "address": "#201 7248 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE",
+    "licenseTypes": "BODY RUB CENTRE",
+    "status": "active",
+    "issuedDate": "2023-12-19T05:34:22.000Z",
+    "expiryDate": "2026-12-18T05:34:22.000Z",
+    "coordinates": [
+      -113.9982518,
+      50.9871388
+    ],
+    "longitude": -113.9982518,
+    "latitude": 50.9871388,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

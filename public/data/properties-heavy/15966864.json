@@ -1,0 +1,36 @@
+{
+  "id": "15966864",
+  "fullDetails": {
+    "licenseNumber": "15966864",
+    "name": "MAISCONTRACTING",
+    "address": "#107 8203 31 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-01-26T15:08:57.000Z",
+    "expiryDate": "2027-01-25T15:08:57.000Z",
+    "coordinates": [
+      -113.9874029,
+      50.9814475
+    ],
+    "longitude": -113.9874029,
+    "latitude": 50.9814475,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

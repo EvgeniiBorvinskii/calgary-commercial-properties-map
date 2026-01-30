@@ -1,0 +1,36 @@
+{
+  "id": "12873782",
+  "fullDetails": {
+    "licenseNumber": "12873782",
+    "name": "OPUS CORPORATION",
+    "address": "#500 5119 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-09-17T05:34:43.000Z",
+    "expiryDate": "2026-09-16T05:34:43.000Z",
+    "coordinates": [
+      -114.0816999,
+      51.0082756
+    ],
+    "longitude": -114.0816999,
+    "latitude": 51.0082756,
+    "community": "WINDSOR PARK",
+    "ward": "WND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

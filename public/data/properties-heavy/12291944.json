@@ -1,0 +1,36 @@
+{
+  "id": "12291944",
+  "fullDetails": {
+    "licenseNumber": "12291944",
+    "name": "BRICK FURNITURE CLEARANCE OUTLET (THE)",
+    "address": "3451 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-07-14T05:34:17.000Z",
+    "expiryDate": "2026-07-13T05:34:17.000Z",
+    "coordinates": [
+      -113.9862513,
+      51.0678673
+    ],
+    "longitude": -113.9862513,
+    "latitude": 51.0678673,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

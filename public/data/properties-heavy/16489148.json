@@ -1,0 +1,37 @@
+{
+  "id": "16489148",
+  "fullDetails": {
+    "licenseNumber": "16489148",
+    "name": "BARBURRITO",
+    "address": "#105 19651 SETON WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-06-14T08:26:25.000Z",
+    "expiryDate": "2026-06-13T08:26:25.000Z",
+    "coordinates": [
+      -113.9578923,
+      50.8747419
+    ],
+    "longitude": -113.9578923,
+    "latitude": 50.8747419,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

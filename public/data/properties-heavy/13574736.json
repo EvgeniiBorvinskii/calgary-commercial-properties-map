@@ -1,0 +1,37 @@
+{
+  "id": "13574736",
+  "fullDetails": {
+    "licenseNumber": "13574736",
+    "name": "OLYMPIA LIQUOR MACLEOD TRAIL SE",
+    "address": "#107 9950 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "LIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-01-24T09:48:43.000Z",
+    "expiryDate": "2026-01-23T09:48:43.000Z",
+    "coordinates": [
+      -114.0695194,
+      50.9622049
+    ],
+    "longitude": -114.0695194,
+    "latitude": 50.9622049,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

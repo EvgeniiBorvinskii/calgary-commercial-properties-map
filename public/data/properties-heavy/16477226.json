@@ -1,0 +1,37 @@
+{
+  "id": "16477226",
+  "fullDetails": {
+    "licenseNumber": "16477226",
+    "name": "ORANGE THEORY FITNESS",
+    "address": "1933 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (MOBILE) (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MOBILE) (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2024-04-30T09:47:14.000Z",
+    "expiryDate": "2026-04-29T09:47:14.000Z",
+    "coordinates": [
+      -114.1064012,
+      51.0238729
+    ],
+    "longitude": -114.1064012,
+    "latitude": 51.0238729,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

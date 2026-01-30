@@ -1,0 +1,36 @@
+{
+  "id": "16707960",
+  "fullDetails": {
+    "licenseNumber": "16707960",
+    "name": "VIVA HOMES BY ATCO",
+    "address": "5302 FORAND ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-16T16:17:44.000Z",
+    "expiryDate": "2026-12-15T16:17:44.000Z",
+    "coordinates": [
+      -114.1203817,
+      51.0063955
+    ],
+    "longitude": -114.1203817,
+    "latitude": 51.0063955,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

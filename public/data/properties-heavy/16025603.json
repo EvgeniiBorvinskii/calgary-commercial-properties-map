@@ -1,0 +1,37 @@
+{
+  "id": "16025603",
+  "fullDetails": {
+    "licenseNumber": "16025603",
+    "name": "CANNA CABANA",
+    "address": "#2 7400 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-05-17T14:06:53.000Z",
+    "expiryDate": "2026-05-16T14:06:53.000Z",
+    "coordinates": [
+      -114.0708032,
+      50.9869305
+    ],
+    "longitude": -114.0708032,
+    "latitude": 50.9869305,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

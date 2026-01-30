@@ -1,0 +1,36 @@
+{
+  "id": "15164213",
+  "fullDetails": {
+    "licenseNumber": "15164213",
+    "name": "ALLURE RESIDENTIAL & COMMERCIAL",
+    "address": "#2900 350 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-03-23T05:33:04.000Z",
+    "expiryDate": "2026-03-22T05:33:04.000Z",
+    "coordinates": [
+      -114.0698758,
+      51.0471154
+    ],
+    "longitude": -114.0698758,
+    "latitude": 51.0471154,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

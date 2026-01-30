@@ -1,0 +1,37 @@
+{
+  "id": "16669350",
+  "fullDetails": {
+    "licenseNumber": "16669350",
+    "name": "LV NAIL LOUNGE",
+    "address": "#5 5308 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-09-02T14:17:34.000Z",
+    "expiryDate": "2026-09-01T14:17:34.000Z",
+    "coordinates": [
+      -114.1609882,
+      51.0382827
+    ],
+    "longitude": -114.1609882,
+    "latitude": 51.0382827,
+    "community": "WESTGATE",
+    "ward": "WGT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

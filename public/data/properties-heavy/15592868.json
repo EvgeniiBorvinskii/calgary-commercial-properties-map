@@ -1,0 +1,37 @@
+{
+  "id": "15592868",
+  "fullDetails": {
+    "licenseNumber": "15592868",
+    "name": "INNER SENSE MASSAGE",
+    "address": "#220 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2020-03-06T11:53:42.000Z",
+    "expiryDate": "2026-03-05T11:53:42.000Z",
+    "coordinates": [
+      -114.0063603,
+      51.0801243
+    ],
+    "longitude": -114.0063603,
+    "latitude": 51.0801243,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

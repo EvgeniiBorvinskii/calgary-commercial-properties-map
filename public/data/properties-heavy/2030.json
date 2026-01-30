@@ -1,0 +1,36 @@
+{
+  "id": "2030",
+  "fullDetails": {
+    "licenseNumber": "2030",
+    "name": "ZIMCO INSTRUMENTATION",
+    "address": "11141 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-05-06T14:48:07.000Z",
+    "expiryDate": "2026-05-05T14:48:07.000Z",
+    "coordinates": [
+      -114.0260009,
+      51.1537479
+    ],
+    "longitude": -114.0260009,
+    "latitude": 51.1537479,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

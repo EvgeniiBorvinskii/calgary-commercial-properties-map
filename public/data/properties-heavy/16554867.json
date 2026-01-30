@@ -1,0 +1,36 @@
+{
+  "id": "16554867",
+  "fullDetails": {
+    "licenseNumber": "16554867",
+    "name": "CONNECT HEARING",
+    "address": "#378 11520 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-19T17:52:43.000Z",
+    "expiryDate": "2026-11-18T17:52:42.000Z",
+    "coordinates": [
+      -114.0015085,
+      50.9520973
+    ],
+    "longitude": -114.0015085,
+    "latitude": 50.9520973,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

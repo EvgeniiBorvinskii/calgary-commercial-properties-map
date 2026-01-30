@@ -1,0 +1,36 @@
+{
+  "id": "16158115",
+  "fullDetails": {
+    "licenseNumber": "16158115",
+    "name": "COPY N MORE OPERATING UNDER AIRWAYS PRINTING",
+    "address": "#139 5120 47 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-05-26T13:51:09.000Z",
+    "expiryDate": "2026-05-25T13:51:09.000Z",
+    "coordinates": [
+      -113.9648804,
+      51.0990486
+    ],
+    "longitude": -113.9648804,
+    "latitude": 51.0990486,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

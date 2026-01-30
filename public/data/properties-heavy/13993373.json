@@ -1,0 +1,36 @@
+{
+  "id": "13993373",
+  "fullDetails": {
+    "licenseNumber": "13993373",
+    "name": "BANNO AUTO REPAIR",
+    "address": "#110 2850 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-10-02T09:32:11.000Z",
+    "expiryDate": "2026-10-01T09:32:11.000Z",
+    "coordinates": [
+      -113.9952903,
+      50.9573908
+    ],
+    "longitude": -113.9952903,
+    "latitude": 50.9573908,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

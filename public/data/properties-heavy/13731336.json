@@ -1,0 +1,36 @@
+{
+  "id": "13731336",
+  "fullDetails": {
+    "licenseNumber": "13731336",
+    "name": "PARTSOURCE #714",
+    "address": "1817 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-11-29T10:24:22.000Z",
+    "expiryDate": "2026-11-28T10:24:22.000Z",
+    "coordinates": [
+      -113.9589026,
+      51.0372135
+    ],
+    "longitude": -113.9589026,
+    "latitude": 51.0372135,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

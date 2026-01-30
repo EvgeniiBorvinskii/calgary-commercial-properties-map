@@ -1,0 +1,37 @@
+{
+  "id": "12858692",
+  "fullDetails": {
+    "licenseNumber": "12858692",
+    "name": "PHIL & SEBASTIAN COFFEE COMPANY",
+    "address": "2043 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2010-09-23T05:49:49.000Z",
+    "expiryDate": "2026-09-22T05:49:49.000Z",
+    "coordinates": [
+      -114.108645,
+      51.0238452
+    ],
+    "longitude": -114.108645,
+    "latitude": 51.0238452,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "368803",
+  "fullDetails": {
+    "licenseNumber": "368803",
+    "name": "MY INTEGRATED HEALTH CLINIC",
+    "address": "#207 3400 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "licenseTypes": "BODY RUB CENTRE (GRANDFATHERED MASSAGE CENTRE COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-18T00:00:00.000Z",
+    "coordinates": [
+      -114.0940741,
+      51.0825498
+    ],
+    "longitude": -114.0940741,
+    "latitude": 51.0825498,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

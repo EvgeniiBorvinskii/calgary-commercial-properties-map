@@ -1,0 +1,36 @@
+{
+  "id": "12310330",
+  "fullDetails": {
+    "licenseNumber": "12310330",
+    "name": "CLASSIC OFFICE MOVERS",
+    "address": "#115 7879 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2004-08-17T07:50:19.000Z",
+    "expiryDate": "2026-08-16T07:50:19.000Z",
+    "coordinates": [
+      -114.0440293,
+      51.1209826
+    ],
+    "longitude": -114.0440293,
+    "latitude": 51.1209826,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

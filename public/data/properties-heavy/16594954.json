@@ -1,0 +1,37 @@
+{
+  "id": "16594954",
+  "fullDetails": {
+    "licenseNumber": "16594954",
+    "name": "MR LUBE CANADA #285",
+    "address": "#3000 250 EAST HILLS SQ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-03-07T16:24:08.000Z",
+    "expiryDate": "2026-03-06T16:24:07.000Z",
+    "coordinates": [
+      -113.9092905,
+      51.041023
+    ],
+    "longitude": -113.9092905,
+    "latitude": 51.041023,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

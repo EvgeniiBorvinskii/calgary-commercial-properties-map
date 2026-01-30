@@ -1,0 +1,36 @@
+{
+  "id": "14955355",
+  "fullDetails": {
+    "licenseNumber": "14955355",
+    "name": "AUTO VALUE PARTS-COUNTRY HILLS",
+    "address": "#170 11358 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-10T08:53:44.000Z",
+    "expiryDate": "2026-10-09T08:53:43.000Z",
+    "coordinates": [
+      -114.0007763,
+      51.1549257
+    ],
+    "longitude": -114.0007763,
+    "latitude": 51.1549257,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

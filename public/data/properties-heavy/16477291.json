@@ -1,0 +1,36 @@
+{
+  "id": "16477291",
+  "fullDetails": {
+    "licenseNumber": "16477291",
+    "name": "HI-CALIBRE VIEWS",
+    "address": "#105 12318 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-02T11:16:47.000Z",
+    "expiryDate": "2026-12-01T11:16:47.000Z",
+    "coordinates": [
+      -113.993526,
+      51.1647113
+    ],
+    "longitude": -113.993526,
+    "latitude": 51.1647113,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

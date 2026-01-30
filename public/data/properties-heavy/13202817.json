@@ -1,0 +1,36 @@
+{
+  "id": "13202817",
+  "fullDetails": {
+    "licenseNumber": "13202817",
+    "name": "KISMET SOLUTIONS",
+    "address": "#577 717 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-05-12T05:32:04.000Z",
+    "expiryDate": "2026-05-11T05:32:04.000Z",
+    "coordinates": [
+      -114.0775096,
+      51.0466546
+    ],
+    "longitude": -114.0775096,
+    "latitude": 51.0466546,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

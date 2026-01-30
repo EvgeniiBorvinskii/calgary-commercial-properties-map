@@ -1,0 +1,37 @@
+{
+  "id": "13002902",
+  "fullDetails": {
+    "licenseNumber": "13002902",
+    "name": "WEST POINT STONES",
+    "address": "88 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-07T05:33:46.000Z",
+    "expiryDate": "2026-03-06T05:33:46.000Z",
+    "coordinates": [
+      -114.0441984,
+      51.0978095
+    ],
+    "longitude": -114.0441984,
+    "latitude": 51.0978095,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14487128",
+  "fullDetails": {
+    "licenseNumber": "14487128",
+    "name": "ISOLOC INSULATED PANEL & DOOR SYSTEMS",
+    "address": "#E 707 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "DISTRIBUTION MANAGER,",
+    "licenseTypes": "MANUFACTURER,\nDISTRIBUTION MANAGER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-07-26T05:30:21.000Z",
+    "expiryDate": "2026-07-25T05:30:21.000Z",
+    "coordinates": [
+      -114.0044478,
+      51.0484726
+    ],
+    "longitude": -114.0044478,
+    "latitude": 51.0484726,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13753827",
+  "fullDetails": {
+    "licenseNumber": "13753827",
+    "name": "NISKOAT",
+    "address": "#22 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-07-07T05:33:15.000Z",
+    "expiryDate": "2026-07-06T05:33:15.000Z",
+    "coordinates": [
+      -113.9013782,
+      50.9629349
+    ],
+    "longitude": -113.9013782,
+    "latitude": 50.9629349,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

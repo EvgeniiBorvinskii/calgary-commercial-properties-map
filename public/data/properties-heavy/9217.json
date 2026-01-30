@@ -1,0 +1,36 @@
+{
+  "id": "9217",
+  "fullDetails": {
+    "licenseNumber": "9217",
+    "name": "CORAL CANADA WIDE",
+    "address": "#30 2150 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2017-03-09T05:32:28.000Z",
+    "expiryDate": "2026-03-08T05:32:28.000Z",
+    "coordinates": [
+      -113.9912575,
+      51.0709727
+    ],
+    "longitude": -113.9912575,
+    "latitude": 51.0709727,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

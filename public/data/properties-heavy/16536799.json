@@ -1,0 +1,36 @@
+{
+  "id": "16536799",
+  "fullDetails": {
+    "licenseNumber": "16536799",
+    "name": "HAIR BY CAROL",
+    "address": "200A HADDON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-09-11T09:05:05.000Z",
+    "expiryDate": "2026-09-10T09:05:04.000Z",
+    "coordinates": [
+      -114.0784122,
+      50.9714145
+    ],
+    "longitude": -114.0784122,
+    "latitude": 50.9714145,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

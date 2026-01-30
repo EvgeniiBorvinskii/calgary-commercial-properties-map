@@ -1,0 +1,36 @@
+{
+  "id": "16642183",
+  "fullDetails": {
+    "licenseNumber": "16642183",
+    "name": "YUSRAH HIJAB N THINGS",
+    "address": "3502 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-15T11:59:33.000Z",
+    "expiryDate": "2026-08-14T11:59:33.000Z",
+    "coordinates": [
+      -113.984427,
+      51.0380278
+    ],
+    "longitude": -113.984427,
+    "latitude": 51.0380278,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

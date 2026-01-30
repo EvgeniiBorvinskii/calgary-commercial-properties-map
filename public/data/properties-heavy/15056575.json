@@ -1,0 +1,37 @@
+{
+  "id": "15056575",
+  "fullDetails": {
+    "licenseNumber": "15056575",
+    "name": "DIGITAL IMPORTS / THE VAPE WAREHOUSE",
+    "address": "1626 115 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2019-02-15T05:33:24.000Z",
+    "expiryDate": "2027-02-14T05:33:24.000Z",
+    "coordinates": [
+      -114.0238957,
+      51.1581033
+    ],
+    "longitude": -114.0238957,
+    "latitude": 51.1581033,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

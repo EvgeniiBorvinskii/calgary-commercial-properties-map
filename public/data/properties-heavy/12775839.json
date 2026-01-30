@@ -1,0 +1,36 @@
+{
+  "id": "12775839",
+  "fullDetails": {
+    "licenseNumber": "12775839",
+    "name": "PENBROOKE LIQUOR",
+    "address": "#318 5320 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2009-07-30T08:21:48.000Z",
+    "expiryDate": "2026-07-29T08:21:48.000Z",
+    "coordinates": [
+      -113.956635,
+      51.0458347
+    ],
+    "longitude": -113.956635,
+    "latitude": 51.0458347,
+    "community": "PENBROOKE MEADOWS",
+    "ward": "PEN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

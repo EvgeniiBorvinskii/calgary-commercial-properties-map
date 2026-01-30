@@ -1,0 +1,37 @@
+{
+  "id": "12955076",
+  "fullDetails": {
+    "licenseNumber": "12955076",
+    "name": "STAMPEDE CASINO",
+    "address": "421 12 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2010-06-17T09:45:20.000Z",
+    "expiryDate": "2026-06-16T09:45:20.000Z",
+    "coordinates": [
+      -114.0549915,
+      51.0406002
+    ],
+    "longitude": -114.0549915,
+    "latitude": 51.0406002,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

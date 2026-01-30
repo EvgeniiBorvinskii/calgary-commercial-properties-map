@@ -1,0 +1,36 @@
+{
+  "id": "16659922",
+  "fullDetails": {
+    "licenseNumber": "16659922",
+    "name": "FLIKKY MARKET",
+    "address": "5614C BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-02T08:29:52.000Z",
+    "expiryDate": "2026-10-01T08:29:52.000Z",
+    "coordinates": [
+      -114.0445989,
+      51.0048357
+    ],
+    "longitude": -114.0445989,
+    "latitude": 51.0048357,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

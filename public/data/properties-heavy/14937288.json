@@ -1,0 +1,36 @@
+{
+  "id": "14937288",
+  "fullDetails": {
+    "licenseNumber": "14937288",
+    "name": "MECHANIGO",
+    "address": "#102 3656 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2019-03-21T08:35:37.000Z",
+    "expiryDate": "2026-03-20T08:35:37.000Z",
+    "coordinates": [
+      -113.9820922,
+      50.9995072
+    ],
+    "longitude": -113.9820922,
+    "latitude": 50.9995072,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

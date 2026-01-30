@@ -1,0 +1,36 @@
+{
+  "id": "15585623",
+  "fullDetails": {
+    "licenseNumber": "15585623",
+    "name": "BENGAL FOODS",
+    "address": "#A 4030 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-03-09T05:32:01.000Z",
+    "expiryDate": "2026-03-08T05:32:01.000Z",
+    "coordinates": [
+      -114.0423967,
+      51.0182913
+    ],
+    "longitude": -114.0423967,
+    "latitude": 51.0182913,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

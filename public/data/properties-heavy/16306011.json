@@ -1,0 +1,37 @@
+{
+  "id": "16306011",
+  "fullDetails": {
+    "licenseNumber": "16306011",
+    "name": "BLOSSOM NAILS & MASSAGE",
+    "address": "#540 85 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2023-04-22T05:32:50.000Z",
+    "expiryDate": "2026-04-21T05:32:50.000Z",
+    "coordinates": [
+      -114.06835,
+      50.9054118
+    ],
+    "longitude": -114.06835,
+    "latitude": 50.9054118,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

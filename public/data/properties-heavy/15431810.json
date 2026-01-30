@@ -1,0 +1,37 @@
+{
+  "id": "15431810",
+  "fullDetails": {
+    "licenseNumber": "15431810",
+    "name": "MUCHO BURRITO FAIRMOUNT DRIVE",
+    "address": "#130 9825 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-05-27T15:20:17.000Z",
+    "expiryDate": "2026-05-26T15:20:17.000Z",
+    "coordinates": [
+      -114.0592567,
+      50.9642953
+    ],
+    "longitude": -114.0592567,
+    "latitude": 50.9642953,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

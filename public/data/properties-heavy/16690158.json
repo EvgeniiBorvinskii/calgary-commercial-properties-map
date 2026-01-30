@@ -1,0 +1,37 @@
+{
+  "id": "16690158",
+  "fullDetails": {
+    "licenseNumber": "16690158",
+    "name": "SHOPPERS DRUG MART 2335",
+    "address": "#126 40 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-28T10:35:42.000Z",
+    "expiryDate": "2026-10-27T10:35:41.000Z",
+    "coordinates": [
+      -114.0572389,
+      50.902116
+    ],
+    "longitude": -114.0572389,
+    "latitude": 50.902116,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

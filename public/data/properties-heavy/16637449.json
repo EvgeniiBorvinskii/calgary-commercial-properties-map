@@ -1,0 +1,37 @@
+{
+  "id": "16637449",
+  "fullDetails": {
+    "licenseNumber": "16637449",
+    "name": "SUPPLEMENT WORLD INGLEWOOD",
+    "address": "1390 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-12T09:48:32.000Z",
+    "expiryDate": "2026-06-11T09:48:31.000Z",
+    "coordinates": [
+      -114.0354926,
+      51.0388138
+    ],
+    "longitude": -114.0354926,
+    "latitude": 51.0388138,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

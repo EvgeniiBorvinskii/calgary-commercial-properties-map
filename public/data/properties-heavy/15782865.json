@@ -1,0 +1,37 @@
+{
+  "id": "15782865",
+  "fullDetails": {
+    "licenseNumber": "15782865",
+    "name": "LEAF LIFE",
+    "address": "10109 HIDDEN VALLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2020-08-26T10:03:04.000Z",
+    "expiryDate": "2026-08-25T10:03:04.000Z",
+    "coordinates": [
+      -114.1055538,
+      51.1464362
+    ],
+    "longitude": -114.1055538,
+    "latitude": 51.1464362,
+    "community": "HIDDEN VALLEY",
+    "ward": "HID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

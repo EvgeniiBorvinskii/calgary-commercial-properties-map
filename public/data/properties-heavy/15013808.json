@@ -1,0 +1,36 @@
+{
+  "id": "15013808",
+  "fullDetails": {
+    "licenseNumber": "15013808",
+    "name": "ART SPACE AND DESIGN",
+    "address": "#149 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-06T18:21:16.000Z",
+    "expiryDate": "2026-06-05T18:21:16.000Z",
+    "coordinates": [
+      -114.0737497,
+      51.0003469
+    ],
+    "longitude": -114.0737497,
+    "latitude": 51.0003469,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

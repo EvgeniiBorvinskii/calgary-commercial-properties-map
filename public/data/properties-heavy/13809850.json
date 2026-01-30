@@ -1,0 +1,36 @@
+{
+  "id": "13809850",
+  "fullDetails": {
+    "licenseNumber": "13809850",
+    "name": "ELITE SCAFFOLDING SYSTEMS",
+    "address": "39 TECHNOLOGY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2014-02-21T12:32:35.000Z",
+    "expiryDate": "2026-02-20T12:32:35.000Z",
+    "coordinates": [
+      -113.9093935,
+      50.9664678
+    ],
+    "longitude": -113.9093935,
+    "latitude": 50.9664678,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

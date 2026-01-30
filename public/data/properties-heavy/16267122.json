@@ -1,0 +1,36 @@
+{
+  "id": "16267122",
+  "fullDetails": {
+    "licenseNumber": "16267122",
+    "name": "SURETEK ELECTRIC AND TECHNOLOGIES",
+    "address": "#50 999 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-12-19T14:00:36.000Z",
+    "expiryDate": "2026-12-18T14:00:35.000Z",
+    "coordinates": [
+      -114.0415782,
+      51.1048343
+    ],
+    "longitude": -114.0415782,
+    "latitude": 51.1048343,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

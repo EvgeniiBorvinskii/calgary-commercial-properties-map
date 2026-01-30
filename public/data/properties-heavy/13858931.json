@@ -1,0 +1,36 @@
+{
+  "id": "13858931",
+  "fullDetails": {
+    "licenseNumber": "13858931",
+    "name": "WESTERN CANADA TRUCK REPAIRS",
+    "address": "#38 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2014-09-22T08:14:47.000Z",
+    "expiryDate": "2026-09-21T08:14:47.000Z",
+    "coordinates": [
+      -113.9008401,
+      50.9629323
+    ],
+    "longitude": -113.9008401,
+    "latitude": 50.9629323,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

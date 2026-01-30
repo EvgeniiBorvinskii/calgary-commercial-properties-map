@@ -1,0 +1,36 @@
+{
+  "id": "13577010",
+  "fullDetails": {
+    "licenseNumber": "13577010",
+    "name": "FREEDOM MOBILE",
+    "address": "#317 5155 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-12-07T15:31:28.000Z",
+    "expiryDate": "2026-12-06T15:31:28.000Z",
+    "coordinates": [
+      -113.9607513,
+      50.9309899
+    ],
+    "longitude": -113.9607513,
+    "latitude": 50.9309899,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

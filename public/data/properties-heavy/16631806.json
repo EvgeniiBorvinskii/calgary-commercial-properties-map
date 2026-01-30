@@ -1,0 +1,37 @@
+{
+  "id": "16631806",
+  "fullDetails": {
+    "licenseNumber": "16631806",
+    "name": "A PLUS 1CONVENIENCE STORE",
+    "address": "2067 146 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-06-10T15:45:11.000Z",
+    "expiryDate": "2026-06-09T15:45:11.000Z",
+    "coordinates": [
+      -114.0148717,
+      50.9196381
+    ],
+    "longitude": -114.0148717,
+    "latitude": 50.9196381,
+    "community": "DEER RUN",
+    "ward": "DRN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

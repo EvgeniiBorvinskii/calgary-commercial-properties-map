@@ -1,0 +1,36 @@
+{
+  "id": "368209",
+  "fullDetails": {
+    "licenseNumber": "368209",
+    "name": "CROWFOOT MARTINIZING",
+    "address": "240 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2010-12-01T08:57:05.000Z",
+    "expiryDate": "2026-11-30T08:57:05.000Z",
+    "coordinates": [
+      -114.198933,
+      51.1286705
+    ],
+    "longitude": -114.198933,
+    "latitude": 51.1286705,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

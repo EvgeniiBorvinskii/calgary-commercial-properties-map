@@ -1,0 +1,36 @@
+{
+  "id": "16131757",
+  "fullDetails": {
+    "licenseNumber": "16131757",
+    "name": "SWIMCO",
+    "address": "6403 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2022-02-22T17:02:07.000Z",
+    "expiryDate": "2027-02-21T17:02:07.000Z",
+    "coordinates": [
+      -114.0472003,
+      50.9977885
+    ],
+    "longitude": -114.0472003,
+    "latitude": 50.9977885,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

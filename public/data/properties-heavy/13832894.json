@@ -1,0 +1,36 @@
+{
+  "id": "13832894",
+  "fullDetails": {
+    "licenseNumber": "13832894",
+    "name": "RIDGELINE PROJECT MANAGEMENT",
+    "address": "#1135 10655 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2024-07-22T07:13:54.000Z",
+    "expiryDate": "2026-07-21T07:13:54.000Z",
+    "coordinates": [
+      -114.0741121,
+      50.9590908
+    ],
+    "longitude": -114.0741121,
+    "latitude": 50.9590908,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

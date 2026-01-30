@@ -1,0 +1,37 @@
+{
+  "id": "16470221",
+  "fullDetails": {
+    "licenseNumber": "16470221",
+    "name": "CARSTAR CROWFOOT",
+    "address": "#110 240 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-07-22T15:54:06.000Z",
+    "expiryDate": "2026-07-21T15:54:05.000Z",
+    "coordinates": [
+      -114.1989252,
+      51.1285921
+    ],
+    "longitude": -114.1989252,
+    "latitude": 51.1285921,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

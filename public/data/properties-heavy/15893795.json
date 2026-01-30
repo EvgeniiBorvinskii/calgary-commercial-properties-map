@@ -1,0 +1,36 @@
+{
+  "id": "15893795",
+  "fullDetails": {
+    "licenseNumber": "15893795",
+    "name": "PHO X O",
+    "address": "#109 6 CROWFOOT CI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-04-23T13:08:41.000Z",
+    "expiryDate": "2026-04-22T13:08:41.000Z",
+    "coordinates": [
+      -114.2031014,
+      51.1233912
+    ],
+    "longitude": -114.2031014,
+    "latitude": 51.1233912,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

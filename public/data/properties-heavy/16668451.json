@@ -1,0 +1,36 @@
+{
+  "id": "16668451",
+  "fullDetails": {
+    "licenseNumber": "16668451",
+    "name": "FRESH CAR EXPRESS",
+    "address": "823 5 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2025-08-26T11:45:51.000Z",
+    "expiryDate": "2026-08-25T11:45:50.000Z",
+    "coordinates": [
+      -114.0751637,
+      51.0452265
+    ],
+    "longitude": -114.0751637,
+    "latitude": 51.0452265,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

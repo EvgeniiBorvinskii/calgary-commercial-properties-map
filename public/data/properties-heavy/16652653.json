@@ -1,0 +1,36 @@
+{
+  "id": "16652653",
+  "fullDetails": {
+    "licenseNumber": "16652653",
+    "name": "WAKUWAKU SUSHI",
+    "address": "1439 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-08-07T10:37:05.000Z",
+    "expiryDate": "2026-08-06T10:37:04.000Z",
+    "coordinates": [
+      -114.0951292,
+      51.0376722
+    ],
+    "longitude": -114.0951292,
+    "latitude": 51.0376722,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

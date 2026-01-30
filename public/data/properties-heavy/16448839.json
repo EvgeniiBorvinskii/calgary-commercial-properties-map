@@ -1,0 +1,36 @@
+{
+  "id": "16448839",
+  "fullDetails": {
+    "licenseNumber": "16448839",
+    "name": "JESO PARTY WORLD",
+    "address": "#255 50 NOLANRIDGE CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-06T15:20:07.000Z",
+    "expiryDate": "2026-03-05T15:20:06.000Z",
+    "coordinates": [
+      -114.1677898,
+      51.170715
+    ],
+    "longitude": -114.1677898,
+    "latitude": 51.170715,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16126021",
+  "fullDetails": {
+    "licenseNumber": "16126021",
+    "name": "FENCING CALGARY",
+    "address": "#12 6325 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-07-04T11:14:07.000Z",
+    "expiryDate": "2026-07-03T11:14:07.000Z",
+    "coordinates": [
+      -114.0368721,
+      50.9961506
+    ],
+    "longitude": -114.0368721,
+    "latitude": 50.9961506,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

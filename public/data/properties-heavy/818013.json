@@ -1,0 +1,36 @@
+{
+  "id": "818013",
+  "fullDetails": {
+    "licenseNumber": "818013",
+    "name": "CALGARY CYCLE",
+    "address": "#10 4623 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-07T14:25:21.000Z",
+    "expiryDate": "2026-11-06T14:25:21.000Z",
+    "coordinates": [
+      -114.1537595,
+      51.0486665
+    ],
+    "longitude": -114.1537595,
+    "latitude": 51.0486665,
+    "community": "WESTGATE",
+    "ward": "WGT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

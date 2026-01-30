@@ -1,0 +1,36 @@
+{
+  "id": "15854045",
+  "fullDetails": {
+    "licenseNumber": "15854045",
+    "name": "DOODLE DOGS",
+    "address": "841 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-06T13:15:14.000Z",
+    "expiryDate": "2026-12-05T13:15:14.000Z",
+    "coordinates": [
+      -114.0435552,
+      51.0530752
+    ],
+    "longitude": -114.0435552,
+    "latitude": 51.0530752,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

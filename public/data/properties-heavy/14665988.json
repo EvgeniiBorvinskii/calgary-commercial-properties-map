@@ -1,0 +1,37 @@
+{
+  "id": "14665988",
+  "fullDetails": {
+    "licenseNumber": "14665988",
+    "name": "QUALITY FRAME WORK",
+    "address": "#129 1725 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "AUTO BODY SHOP",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nAUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2017-10-20T12:48:18.000Z",
+    "expiryDate": "2026-10-19T12:48:18.000Z",
+    "coordinates": [
+      -114.0178418,
+      51.0803723
+    ],
+    "longitude": -114.0178418,
+    "latitude": 51.0803723,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16399784",
+  "fullDetails": {
+    "licenseNumber": "16399784",
+    "name": "ROCKWELL FOOD & TAPS",
+    "address": "#5000 150 MILLRISE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2023-10-27T10:30:53.000Z",
+    "expiryDate": "2026-10-26T10:30:53.000Z",
+    "coordinates": [
+      -114.07227,
+      50.9137355
+    ],
+    "longitude": -114.07227,
+    "latitude": 50.9137355,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

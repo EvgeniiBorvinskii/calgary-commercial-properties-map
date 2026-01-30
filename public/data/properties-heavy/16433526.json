@@ -1,0 +1,36 @@
+{
+  "id": "16433526",
+  "fullDetails": {
+    "licenseNumber": "16433526",
+    "name": "TUXEDO PARK PLACE",
+    "address": "111 26 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-12-28T10:00:53.000Z",
+    "expiryDate": "2026-12-27T10:00:53.000Z",
+    "coordinates": [
+      -114.0634096,
+      51.0758527
+    ],
+    "longitude": -114.0634096,
+    "latitude": 51.0758527,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

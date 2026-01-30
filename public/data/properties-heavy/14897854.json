@@ -1,0 +1,37 @@
+{
+  "id": "14897854",
+  "fullDetails": {
+    "licenseNumber": "14897854",
+    "name": "EVERCLEAN FACILITY SERVICES",
+    "address": "#1540 715 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-10T13:27:36.000Z",
+    "expiryDate": "2026-05-09T13:27:36.000Z",
+    "coordinates": [
+      -114.0776121,
+      51.0485333
+    ],
+    "longitude": -114.0776121,
+    "latitude": 51.0485333,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16269862",
+  "fullDetails": {
+    "licenseNumber": "16269862",
+    "name": "DOLLARAMA 1479",
+    "address": "#16 11625 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-29T12:21:16.000Z",
+    "expiryDate": "2026-05-28T12:21:16.000Z",
+    "coordinates": [
+      -114.0857775,
+      50.9493667
+    ],
+    "longitude": -114.0857775,
+    "latitude": 50.9493667,
+    "community": "CANYON MEADOWS",
+    "ward": "CAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

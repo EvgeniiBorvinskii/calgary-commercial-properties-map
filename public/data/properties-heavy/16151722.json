@@ -1,0 +1,36 @@
+{
+  "id": "16151722",
+  "fullDetails": {
+    "licenseNumber": "16151722",
+    "name": "VANCOUVER FRIED CHICKEN",
+    "address": "#3 624D BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-06-22T14:28:15.000Z",
+    "expiryDate": "2026-06-21T14:28:15.000Z",
+    "coordinates": [
+      -114.049914,
+      51.1013339
+    ],
+    "longitude": -114.049914,
+    "latitude": 51.1013339,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

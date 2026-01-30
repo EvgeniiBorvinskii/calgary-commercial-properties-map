@@ -1,0 +1,37 @@
+{
+  "id": "15965486",
+  "fullDetails": {
+    "licenseNumber": "15965486",
+    "name": "RELIABILITY AUTO SERVICE/SPEEDY AUTO CONNECT",
+    "address": "4415I 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-05-09T09:11:03.000Z",
+    "expiryDate": "2026-05-08T09:11:01.000Z",
+    "coordinates": [
+      -113.9719948,
+      51.0005347
+    ],
+    "longitude": -113.9719948,
+    "latitude": 51.0005347,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

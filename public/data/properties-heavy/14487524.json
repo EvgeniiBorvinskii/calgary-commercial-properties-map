@@ -1,0 +1,36 @@
+{
+  "id": "14487524",
+  "fullDetails": {
+    "licenseNumber": "14487524",
+    "name": "INSPIRE DANCE ARTS",
+    "address": "2009 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2017-03-22T12:35:14.000Z",
+    "expiryDate": "2026-03-21T12:35:14.000Z",
+    "coordinates": [
+      -114.0108388,
+      51.0878888
+    ],
+    "longitude": -114.0108388,
+    "latitude": 51.0878888,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

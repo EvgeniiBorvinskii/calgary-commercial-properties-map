@@ -1,0 +1,36 @@
+{
+  "id": "16450090",
+  "fullDetails": {
+    "licenseNumber": "16450090",
+    "name": "KNS INDUSTRIES",
+    "address": "5170 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-02-23T09:05:19.000Z",
+    "expiryDate": "2026-02-22T09:05:19.000Z",
+    "coordinates": [
+      -113.9608787,
+      50.9807938
+    ],
+    "longitude": -113.9608787,
+    "latitude": 50.9807938,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

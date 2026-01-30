@@ -1,0 +1,37 @@
+{
+  "id": "16354458",
+  "fullDetails": {
+    "licenseNumber": "16354458",
+    "name": "TOMMY GUNS ORIGINAL BARBER SHOP",
+    "address": "#8A 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-24T09:09:53.000Z",
+    "expiryDate": "2026-07-23T09:09:53.000Z",
+    "coordinates": [
+      -114.0667556,
+      50.9529219
+    ],
+    "longitude": -114.0667556,
+    "latitude": 50.9529219,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

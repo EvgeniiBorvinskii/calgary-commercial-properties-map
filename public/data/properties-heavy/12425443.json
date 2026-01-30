@@ -1,0 +1,36 @@
+{
+  "id": "12425443",
+  "fullDetails": {
+    "licenseNumber": "12425443",
+    "name": "MATRIX ORBITAL",
+    "address": "#602 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-07-20T11:15:28.000Z",
+    "expiryDate": "2026-07-19T11:15:28.000Z",
+    "coordinates": [
+      -113.9656274,
+      51.1004659
+    ],
+    "longitude": -113.9656274,
+    "latitude": 51.1004659,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

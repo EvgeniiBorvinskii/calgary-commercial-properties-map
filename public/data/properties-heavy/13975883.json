@@ -1,0 +1,37 @@
+{
+  "id": "13975883",
+  "fullDetails": {
+    "licenseNumber": "13975883",
+    "name": "CURBEX - EFFECTIVE SIGNS",
+    "address": "#145 1011 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2018-03-17T05:32:31.000Z",
+    "expiryDate": "2026-03-16T05:32:31.000Z",
+    "coordinates": [
+      -114.0405278,
+      51.103768
+    ],
+    "longitude": -114.0405278,
+    "latitude": 51.103768,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

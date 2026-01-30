@@ -1,0 +1,36 @@
+{
+  "id": "12239273",
+  "fullDetails": {
+    "licenseNumber": "12239273",
+    "name": "LOQI CONTRACTING",
+    "address": "#1413 8810 ROYAL BIRCH BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2015-04-23T05:34:07.000Z",
+    "expiryDate": "2025-04-22T05:34:07.000Z",
+    "coordinates": [
+      -114.215848,
+      51.1492707
+    ],
+    "longitude": -114.215848,
+    "latitude": 51.1492707,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

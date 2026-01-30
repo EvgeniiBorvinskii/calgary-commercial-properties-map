@@ -1,0 +1,36 @@
+{
+  "id": "12299343",
+  "fullDetails": {
+    "licenseNumber": "12299343",
+    "name": "D & K AUTOMOTIVE REPAIRS",
+    "address": "#11 2824 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2004-07-16T14:38:15.000Z",
+    "expiryDate": "2026-07-15T14:38:15.000Z",
+    "coordinates": [
+      -113.9955597,
+      51.0023722
+    ],
+    "longitude": -113.9955597,
+    "latitude": 51.0023722,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

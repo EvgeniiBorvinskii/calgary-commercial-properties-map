@@ -1,0 +1,36 @@
+{
+  "id": "12815049",
+  "fullDetails": {
+    "licenseNumber": "12815049",
+    "name": "SUPERIOR WAREHOUSING & DISTRIBUTION",
+    "address": "6011 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2011-11-09T14:46:53.000Z",
+    "expiryDate": "2026-11-08T14:46:53.000Z",
+    "coordinates": [
+      -113.9681547,
+      51.000854
+    ],
+    "longitude": -113.9681547,
+    "latitude": 51.000854,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

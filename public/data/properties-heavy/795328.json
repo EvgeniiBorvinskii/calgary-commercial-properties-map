@@ -1,0 +1,36 @@
+{
+  "id": "795328",
+  "fullDetails": {
+    "licenseNumber": "795328",
+    "name": "LIFTING EQUIPMENT",
+    "address": "#5 711 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-07-05T05:34:45.000Z",
+    "expiryDate": "2026-07-04T05:34:45.000Z",
+    "coordinates": [
+      -114.0471103,
+      51.0100665
+    ],
+    "longitude": -114.0471103,
+    "latitude": 51.0100665,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

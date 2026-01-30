@@ -1,0 +1,37 @@
+{
+  "id": "14940654",
+  "fullDetails": {
+    "licenseNumber": "14940654",
+    "name": "SUPER M DRUGS (2018)",
+    "address": "216 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-05T13:21:37.000Z",
+    "expiryDate": "2026-07-04T13:21:37.000Z",
+    "coordinates": [
+      -114.062424,
+      51.050638
+    ],
+    "longitude": -114.062424,
+    "latitude": 51.050638,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

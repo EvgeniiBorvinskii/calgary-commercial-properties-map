@@ -1,0 +1,36 @@
+{
+  "id": "773069",
+  "fullDetails": {
+    "licenseNumber": "773069",
+    "name": "HARVEST HILLS VETERINARY CLINIC",
+    "address": "#711 500 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0541361,
+      51.1554047
+    ],
+    "longitude": -114.0541361,
+    "latitude": 51.1554047,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

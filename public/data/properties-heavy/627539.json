@@ -1,0 +1,37 @@
+{
+  "id": "627539",
+  "fullDetails": {
+    "licenseNumber": "627539",
+    "name": "STAR ALUMINUM RAILING SYSTEM",
+    "address": "#1 3511 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-08-23T16:13:25.000Z",
+    "expiryDate": "2026-08-22T16:13:25.000Z",
+    "coordinates": [
+      -113.983829,
+      50.9949202
+    ],
+    "longitude": -113.983829,
+    "latitude": 50.9949202,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "86561",
+  "fullDetails": {
+    "licenseNumber": "86561",
+    "name": "CONSTANT FIRE PROTECTION SYSTEMS",
+    "address": "5442 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2010-03-17T05:47:49.000Z",
+    "expiryDate": "2026-03-16T05:47:49.000Z",
+    "coordinates": [
+      -113.9553945,
+      51.0024833
+    ],
+    "longitude": -113.9553945,
+    "latitude": 51.0024833,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

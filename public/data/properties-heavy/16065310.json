@@ -1,0 +1,36 @@
+{
+  "id": "16065310",
+  "fullDetails": {
+    "licenseNumber": "16065310",
+    "name": "FORTNINE",
+    "address": "#6 3110 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-03-16T18:29:57.000Z",
+    "expiryDate": "2026-03-15T18:29:57.000Z",
+    "coordinates": [
+      -113.9901567,
+      51.0658545
+    ],
+    "longitude": -113.9901567,
+    "latitude": 51.0658545,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

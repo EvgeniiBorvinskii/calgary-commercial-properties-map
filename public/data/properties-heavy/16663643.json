@@ -1,0 +1,36 @@
+{
+  "id": "16663643",
+  "fullDetails": {
+    "licenseNumber": "16663643",
+    "name": "DEWAT EAST INDIAN CUISINE",
+    "address": "1103 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-09-02T15:05:36.000Z",
+    "expiryDate": "2026-09-01T15:05:36.000Z",
+    "coordinates": [
+      -114.0949463,
+      51.043071
+    ],
+    "longitude": -114.0949463,
+    "latitude": 51.043071,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

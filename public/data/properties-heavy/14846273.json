@@ -1,0 +1,37 @@
+{
+  "id": "14846273",
+  "fullDetails": {
+    "licenseNumber": "14846273",
+    "name": "MADILL THE OFFICE COMPANY",
+    "address": "#5 925 30 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "WHOLESALER,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-04-10T14:01:38.000Z",
+    "expiryDate": "2026-04-09T14:01:38.000Z",
+    "coordinates": [
+      -113.9900888,
+      51.0605438
+    ],
+    "longitude": -113.9900888,
+    "latitude": 51.0605438,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

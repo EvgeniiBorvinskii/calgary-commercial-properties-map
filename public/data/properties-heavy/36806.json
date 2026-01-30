@@ -1,0 +1,36 @@
+{
+  "id": "36806",
+  "fullDetails": {
+    "licenseNumber": "36806",
+    "name": "I B JENSEN MASONRY",
+    "address": "3632 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-06-26T13:20:04.000Z",
+    "expiryDate": "2026-06-25T13:20:04.000Z",
+    "coordinates": [
+      -114.0563492,
+      51.0222883
+    ],
+    "longitude": -114.0563492,
+    "latitude": 51.0222883,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

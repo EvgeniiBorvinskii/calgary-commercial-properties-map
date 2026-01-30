@@ -1,0 +1,36 @@
+{
+  "id": "15851413",
+  "fullDetails": {
+    "licenseNumber": "15851413",
+    "name": "BEST WAY AUTO REPAIR",
+    "address": "3415 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-01-09T15:25:20.000Z",
+    "expiryDate": "2027-01-08T15:25:20.000Z",
+    "coordinates": [
+      -113.9891226,
+      51.0830432
+    ],
+    "longitude": -113.9891226,
+    "latitude": 51.0830432,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

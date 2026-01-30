@@ -1,0 +1,36 @@
+{
+  "id": "16363681",
+  "fullDetails": {
+    "licenseNumber": "16363681",
+    "name": "VAPE OASIS",
+    "address": "#103 2763 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "VAPE RETAILER",
+    "licenseTypes": "VAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-12-13T15:11:35.000Z",
+    "expiryDate": "2026-12-12T15:11:35.000Z",
+    "coordinates": [
+      -113.9997702,
+      51.0721221
+    ],
+    "longitude": -113.9997702,
+    "latitude": 51.0721221,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

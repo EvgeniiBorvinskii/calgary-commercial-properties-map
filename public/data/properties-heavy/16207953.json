@@ -1,0 +1,37 @@
+{
+  "id": "16207953",
+  "fullDetails": {
+    "licenseNumber": "16207953",
+    "name": "REFRIGERATIVE SUPPLY LIMITED",
+    "address": "#14 5543 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-06-06T13:41:55.000Z",
+    "expiryDate": "2026-06-05T13:41:55.000Z",
+    "coordinates": [
+      -113.9481411,
+      50.9887864
+    ],
+    "longitude": -113.9481411,
+    "latitude": 50.9887864,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12477964",
+  "fullDetails": {
+    "licenseNumber": "12477964",
+    "name": "MAJESTIC AUTO CENTER",
+    "address": "2625 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2007-03-19T14:33:54.000Z",
+    "expiryDate": "2026-03-18T14:33:54.000Z",
+    "coordinates": [
+      -113.9988043,
+      51.0760119
+    ],
+    "longitude": -113.9988043,
+    "latitude": 51.0760119,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

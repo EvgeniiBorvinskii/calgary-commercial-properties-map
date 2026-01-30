@@ -1,0 +1,36 @@
+{
+  "id": "13293808",
+  "fullDetails": {
+    "licenseNumber": "13293808",
+    "name": "JUGO JUICE",
+    "address": "#8201T 2000D AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2011-11-25T14:36:56.000Z",
+    "expiryDate": "2026-11-24T14:36:56.000Z",
+    "coordinates": [
+      -114.0111217,
+      51.1310716
+    ],
+    "longitude": -114.0111217,
+    "latitude": 51.1310716,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

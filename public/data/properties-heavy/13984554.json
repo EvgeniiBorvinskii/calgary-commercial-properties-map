@@ -1,0 +1,36 @@
+{
+  "id": "13984554",
+  "fullDetails": {
+    "licenseNumber": "13984554",
+    "name": "ROCKY MOUNTAIN SOAP COMPANY",
+    "address": "#H10C 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-07-22T13:21:24.000Z",
+    "expiryDate": "2026-07-21T13:21:24.000Z",
+    "coordinates": [
+      -114.1543531,
+      51.0853355
+    ],
+    "longitude": -114.1543531,
+    "latitude": 51.0853355,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

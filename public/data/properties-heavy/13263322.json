@@ -1,0 +1,36 @@
+{
+  "id": "13263322",
+  "fullDetails": {
+    "licenseNumber": "13263322",
+    "name": "WESTERN TOWER TECH",
+    "address": "1919 HIGHFIELD CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-10-15T05:48:47.000Z",
+    "expiryDate": "2026-10-14T05:48:46.000Z",
+    "coordinates": [
+      -114.0362145,
+      51.0071599
+    ],
+    "longitude": -114.0362145,
+    "latitude": 51.0071599,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13824834",
+  "fullDetails": {
+    "licenseNumber": "13824834",
+    "name": "CELLICON",
+    "address": "#Z32 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-07-04T05:32:59.000Z",
+    "expiryDate": "2026-07-03T05:32:59.000Z",
+    "coordinates": [
+      -114.1556673,
+      51.0849717
+    ],
+    "longitude": -114.1556673,
+    "latitude": 51.0849717,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

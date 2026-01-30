@@ -1,0 +1,37 @@
+{
+  "id": "16649881",
+  "fullDetails": {
+    "licenseNumber": "16649881",
+    "name": "A N VAPES",
+    "address": "#214 2066 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-07-23T09:41:48.000Z",
+    "expiryDate": "2026-07-22T09:41:48.000Z",
+    "coordinates": [
+      -114.0120235,
+      51.069393
+    ],
+    "longitude": -114.0120235,
+    "latitude": 51.069393,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

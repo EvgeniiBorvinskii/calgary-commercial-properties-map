@@ -1,0 +1,36 @@
+{
+  "id": "16347221",
+  "fullDetails": {
+    "licenseNumber": "16347221",
+    "name": "SIROCCO OPTICAL",
+    "address": "#224 1919 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-10T14:55:25.000Z",
+    "expiryDate": "2026-08-09T14:55:25.000Z",
+    "coordinates": [
+      -114.1663777,
+      51.0363884
+    ],
+    "longitude": -114.1663777,
+    "latitude": 51.0363884,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

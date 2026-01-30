@@ -1,0 +1,36 @@
+{
+  "id": "14914659",
+  "fullDetails": {
+    "licenseNumber": "14914659",
+    "name": "EAST-WEST COLLEGE OF BUSINESS AND TECHNOLOGY",
+    "address": "#200 3880 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2019-06-28T09:18:17.000Z",
+    "expiryDate": "2026-06-27T09:18:17.000Z",
+    "coordinates": [
+      -113.9908818,
+      51.0869564
+    ],
+    "longitude": -113.9908818,
+    "latitude": 51.0869564,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

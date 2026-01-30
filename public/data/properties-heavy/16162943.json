@@ -1,0 +1,37 @@
+{
+  "id": "16162943",
+  "fullDetails": {
+    "licenseNumber": "16162943",
+    "name": "REGAL CAT CAFE",
+    "address": "303 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-06-09T12:21:30.000Z",
+    "expiryDate": "2026-06-08T12:21:30.000Z",
+    "coordinates": [
+      -114.0861105,
+      51.0542086
+    ],
+    "longitude": -114.0861105,
+    "latitude": 51.0542086,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

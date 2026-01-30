@@ -1,0 +1,36 @@
+{
+  "id": "13827621",
+  "fullDetails": {
+    "licenseNumber": "13827621",
+    "name": "CANADA WEST MECHANICAL",
+    "address": "#111 12159 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2024-03-28T10:25:35.000Z",
+    "expiryDate": "2026-03-27T10:25:35.000Z",
+    "coordinates": [
+      -113.9724896,
+      50.9420877
+    ],
+    "longitude": -113.9724896,
+    "latitude": 50.9420877,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

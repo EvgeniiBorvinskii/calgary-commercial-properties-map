@@ -1,0 +1,36 @@
+{
+  "id": "13929443",
+  "fullDetails": {
+    "licenseNumber": "13929443",
+    "name": "DAMERJI'S MARTIAL ARTS ACADEMY DMA",
+    "address": "#1235 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-12T15:02:31.000Z",
+    "expiryDate": "2026-02-11T15:02:30.000Z",
+    "coordinates": [
+      -113.980802,
+      51.1107562
+    ],
+    "longitude": -113.980802,
+    "latitude": 51.1107562,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

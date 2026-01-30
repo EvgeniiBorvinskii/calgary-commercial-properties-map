@@ -1,0 +1,37 @@
+{
+  "id": "13656178",
+  "fullDetails": {
+    "licenseNumber": "13656178",
+    "name": "FONTILE CALGARY",
+    "address": "#16 6325 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-03-13T08:26:22.000Z",
+    "expiryDate": "2026-03-12T08:26:22.000Z",
+    "coordinates": [
+      -114.0392723,
+      50.9962842
+    ],
+    "longitude": -114.0392723,
+    "latitude": 50.9962842,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

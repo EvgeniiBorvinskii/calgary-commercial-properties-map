@@ -1,0 +1,36 @@
+{
+  "id": "16664849",
+  "fullDetails": {
+    "licenseNumber": "16664849",
+    "name": "MT BEST HAIRCUT",
+    "address": "#104 80 SAGE HILL RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-08-26T14:01:19.000Z",
+    "expiryDate": "2026-08-25T14:01:19.000Z",
+    "coordinates": [
+      -114.1440823,
+      51.173912
+    ],
+    "longitude": -114.1440823,
+    "latitude": 51.173912,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

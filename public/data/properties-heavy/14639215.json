@@ -1,0 +1,36 @@
+{
+  "id": "14639215",
+  "fullDetails": {
+    "licenseNumber": "14639215",
+    "name": "CROSS CUT DIRECTIONAL BORING",
+    "address": "9605 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-12-18T08:56:02.000Z",
+    "expiryDate": "2026-12-17T08:56:02.000Z",
+    "coordinates": [
+      -113.9665017,
+      50.9676563
+    ],
+    "longitude": -113.9665017,
+    "latitude": 50.9676563,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

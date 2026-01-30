@@ -1,0 +1,36 @@
+{
+  "id": "840165",
+  "fullDetails": {
+    "licenseNumber": "840165",
+    "name": "INTERNATIONAL DRIVING ACADEMY",
+    "address": "2921 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2008-09-20T05:32:51.000Z",
+    "expiryDate": "2026-09-19T05:32:51.000Z",
+    "coordinates": [
+      -114.0629792,
+      51.0785773
+    ],
+    "longitude": -114.0629792,
+    "latitude": 51.0785773,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

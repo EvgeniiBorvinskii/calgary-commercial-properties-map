@@ -1,0 +1,36 @@
+{
+  "id": "16413536",
+  "fullDetails": {
+    "licenseNumber": "16413536",
+    "name": "BEST WESTERN AIRPORT INN",
+    "address": "1947 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2024-01-19T08:00:46.000Z",
+    "expiryDate": "2027-01-18T08:00:46.000Z",
+    "coordinates": [
+      -114.0146153,
+      51.0684045
+    ],
+    "longitude": -114.0146153,
+    "latitude": 51.0684045,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

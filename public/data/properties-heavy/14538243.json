@@ -1,0 +1,36 @@
+{
+  "id": "14538243",
+  "fullDetails": {
+    "licenseNumber": "14538243",
+    "name": "TIP TOP TAILORS / GEORGE RICHARDS",
+    "address": "5971 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-24T14:50:53.000Z",
+    "expiryDate": "2026-10-23T14:50:53.000Z",
+    "coordinates": [
+      -114.1752277,
+      51.0172162
+    ],
+    "longitude": -114.1752277,
+    "latitude": 51.0172162,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

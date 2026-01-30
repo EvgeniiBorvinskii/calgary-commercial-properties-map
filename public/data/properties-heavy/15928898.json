@@ -1,0 +1,36 @@
+{
+  "id": "15928898",
+  "fullDetails": {
+    "licenseNumber": "15928898",
+    "name": "EZ STORAGE",
+    "address": "11919 149 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-06-09T05:34:10.000Z",
+    "expiryDate": "2026-06-08T05:34:10.000Z",
+    "coordinates": [
+      -113.8611832,
+      50.9192061
+    ],
+    "longitude": -113.8611832,
+    "latitude": 50.9192061,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12L",
+    "ward": "12L",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

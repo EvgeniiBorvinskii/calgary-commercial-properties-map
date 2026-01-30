@@ -1,0 +1,36 @@
+{
+  "id": "16505067",
+  "fullDetails": {
+    "licenseNumber": "16505067",
+    "name": "TEMPLE MEDICAL CLINIC PHARMACY",
+    "address": "#108 5401 TEMPLE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-25T12:00:47.000Z",
+    "expiryDate": "2026-09-24T12:00:46.000Z",
+    "coordinates": [
+      -113.9564461,
+      51.0849482
+    ],
+    "longitude": -113.9564461,
+    "latitude": 51.0849482,
+    "community": "TEMPLE",
+    "ward": "TEM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

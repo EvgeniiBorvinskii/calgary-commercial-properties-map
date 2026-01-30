@@ -1,0 +1,37 @@
+{
+  "id": "12291928",
+  "fullDetails": {
+    "licenseNumber": "12291928",
+    "name": "KAL TIRE #620",
+    "address": "1616 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2004-07-20T10:02:12.000Z",
+    "expiryDate": "2026-07-19T10:02:12.000Z",
+    "coordinates": [
+      -114.0969427,
+      51.0658302
+    ],
+    "longitude": -114.0969427,
+    "latitude": 51.0658302,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

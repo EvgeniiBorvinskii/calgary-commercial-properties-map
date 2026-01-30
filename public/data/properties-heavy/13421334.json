@@ -1,0 +1,36 @@
+{
+  "id": "13421334",
+  "fullDetails": {
+    "licenseNumber": "13421334",
+    "name": "DJS MOBILE TINTING",
+    "address": "#115 2719 7 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2021-02-16T15:40:57.000Z",
+    "expiryDate": "2026-02-15T15:40:57.000Z",
+    "coordinates": [
+      -113.9951692,
+      51.0580799
+    ],
+    "longitude": -113.9951692,
+    "latitude": 51.0580799,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

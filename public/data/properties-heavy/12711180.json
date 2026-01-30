@@ -1,0 +1,37 @@
+{
+  "id": "12711180",
+  "fullDetails": {
+    "licenseNumber": "12711180",
+    "name": "STANLEY PARK LAWN BOWLING CLUB",
+    "address": "350 42 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2008-11-20T10:22:31.000Z",
+    "expiryDate": "2026-11-19T10:22:31.000Z",
+    "coordinates": [
+      -114.069537,
+      51.0158813
+    ],
+    "longitude": -114.069537,
+    "latitude": 51.0158813,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

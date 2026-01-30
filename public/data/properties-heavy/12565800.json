@@ -1,0 +1,36 @@
+{
+  "id": "12565800",
+  "fullDetails": {
+    "licenseNumber": "12565800",
+    "name": "ESTERINA DRESSMAKING",
+    "address": "#17 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-08-17T05:32:46.000Z",
+    "expiryDate": "2026-08-16T05:32:46.000Z",
+    "coordinates": [
+      -114.1158249,
+      50.952925
+    ],
+    "longitude": -114.1158249,
+    "latitude": 50.952925,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

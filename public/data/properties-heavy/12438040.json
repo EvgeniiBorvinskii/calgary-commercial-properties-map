@@ -1,0 +1,36 @@
+{
+  "id": "12438040",
+  "fullDetails": {
+    "licenseNumber": "12438040",
+    "name": "PROACTIS SOLUTIONS",
+    "address": "210 7 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-29T05:33:25.000Z",
+    "expiryDate": "2026-03-28T05:33:25.000Z",
+    "coordinates": [
+      -114.0453373,
+      51.0536714
+    ],
+    "longitude": -114.0453373,
+    "latitude": 51.0536714,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

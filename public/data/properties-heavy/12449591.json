@@ -1,0 +1,36 @@
+{
+  "id": "12449591",
+  "fullDetails": {
+    "licenseNumber": "12449591",
+    "name": "FUSION EYEWEAR",
+    "address": "#315 3508 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2006-02-28T16:26:53.000Z",
+    "expiryDate": "2026-02-27T16:26:53.000Z",
+    "coordinates": [
+      -113.9851536,
+      51.0824364
+    ],
+    "longitude": -113.9851536,
+    "latitude": 51.0824364,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

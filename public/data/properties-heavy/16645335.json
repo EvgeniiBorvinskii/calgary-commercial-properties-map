@@ -1,0 +1,37 @@
+{
+  "id": "16645335",
+  "fullDetails": {
+    "licenseNumber": "16645335",
+    "name": "POETIC ARCHES",
+    "address": "#205D 8855 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-22T13:56:53.000Z",
+    "expiryDate": "2026-07-21T13:56:52.000Z",
+    "coordinates": [
+      -114.072955,
+      50.9746308
+    ],
+    "longitude": -114.072955,
+    "latitude": 50.9746308,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

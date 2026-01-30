@@ -1,0 +1,36 @@
+{
+  "id": "94623",
+  "fullDetails": {
+    "licenseNumber": "94623",
+    "name": "KAYCAN",
+    "address": "5020 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-20T05:31:38.000Z",
+    "coordinates": [
+      -113.9621185,
+      51.0026616
+    ],
+    "longitude": -113.9621185,
+    "latitude": 51.0026616,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

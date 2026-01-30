@@ -1,0 +1,36 @@
+{
+  "id": "14519763",
+  "fullDetails": {
+    "licenseNumber": "14519763",
+    "name": "BFL NUTRITION",
+    "address": "#B 63 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-08-22T05:31:58.000Z",
+    "expiryDate": "2026-08-21T05:31:58.000Z",
+    "coordinates": [
+      -114.0455706,
+      51.0971665
+    ],
+    "longitude": -114.0455706,
+    "latitude": 51.0971665,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

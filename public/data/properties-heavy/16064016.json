@@ -1,0 +1,37 @@
+{
+  "id": "16064016",
+  "fullDetails": {
+    "licenseNumber": "16064016",
+    "name": "MCKENZIE LAKE CHIROPRACTIC",
+    "address": "16764 MCKENZIE LAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-20T08:07:01.000Z",
+    "expiryDate": "2026-08-19T08:07:01.000Z",
+    "coordinates": [
+      -113.9898771,
+      50.9026032
+    ],
+    "longitude": -113.9898771,
+    "latitude": 50.9026032,
+    "community": "MCKENZIE LAKE",
+    "ward": "MCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

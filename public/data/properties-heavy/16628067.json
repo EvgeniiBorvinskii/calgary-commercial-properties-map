@@ -1,0 +1,37 @@
+{
+  "id": "16628067",
+  "fullDetails": {
+    "licenseNumber": "16628067",
+    "name": "MEDITERRANEAN HALAL MEAT & DELI",
+    "address": "3917A 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-03T12:16:18.000Z",
+    "expiryDate": "2026-06-02T12:16:18.000Z",
+    "coordinates": [
+      -113.9775622,
+      51.0374665
+    ],
+    "longitude": -113.9775622,
+    "latitude": 51.0374665,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

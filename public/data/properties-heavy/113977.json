@@ -1,0 +1,37 @@
+{
+  "id": "113977",
+  "fullDetails": {
+    "licenseNumber": "113977",
+    "name": "BONA ROMA PIZZA",
+    "address": "89 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-03-02T14:40:20.000Z",
+    "expiryDate": "2026-03-01T14:40:19.000Z",
+    "coordinates": [
+      -114.2074037,
+      51.0846058
+    ],
+    "longitude": -114.2074037,
+    "latitude": 51.0846058,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13252291",
+  "fullDetails": {
+    "licenseNumber": "13252291",
+    "name": "MUSEO",
+    "address": "#128 2500 UNIVERSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-09-30T15:07:38.000Z",
+    "expiryDate": "2026-09-29T15:07:38.000Z",
+    "coordinates": [
+      -114.128642,
+      51.0745912
+    ],
+    "longitude": -114.128642,
+    "latitude": 51.0745912,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "787754",
+  "fullDetails": {
+    "licenseNumber": "787754",
+    "name": "PROCESS COMBUSTION SYSTEMS",
+    "address": "#120 270 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-22T13:01:24.000Z",
+    "expiryDate": "2027-01-21T13:01:24.000Z",
+    "coordinates": [
+      -113.9040245,
+      50.9628823
+    ],
+    "longitude": -113.9040245,
+    "latitude": 50.9628823,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

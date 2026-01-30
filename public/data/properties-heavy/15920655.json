@@ -1,0 +1,36 @@
+{
+  "id": "15920655",
+  "fullDetails": {
+    "licenseNumber": "15920655",
+    "name": "SHAWARMA MAKERS",
+    "address": "#106 2845 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-08-25T15:22:59.000Z",
+    "expiryDate": "2026-08-24T15:22:59.000Z",
+    "coordinates": [
+      -114.0064174,
+      51.0784875
+    ],
+    "longitude": -114.0064174,
+    "latitude": 51.0784875,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

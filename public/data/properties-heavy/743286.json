@@ -1,0 +1,36 @@
+{
+  "id": "743286",
+  "fullDetails": {
+    "licenseNumber": "743286",
+    "name": "MOBILE AIR*CLIMATE CONTROL SERVICES",
+    "address": "4017 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2002-05-31T17:28:17.000Z",
+    "expiryDate": "2026-05-30T05:32:32.000Z",
+    "coordinates": [
+      -114.0527052,
+      51.0176003
+    ],
+    "longitude": -114.0527052,
+    "latitude": 51.0176003,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

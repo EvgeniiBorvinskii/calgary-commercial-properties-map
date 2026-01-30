@@ -1,0 +1,37 @@
+{
+  "id": "16638264",
+  "fullDetails": {
+    "licenseNumber": "16638264",
+    "name": "TWISTED VAPE",
+    "address": "627 SHAWCLIFFE GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "TOBACCO RETAILER,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-08-01T09:31:06.000Z",
+    "expiryDate": "2026-07-31T09:31:06.000Z",
+    "coordinates": [
+      -114.0745759,
+      50.9112724
+    ],
+    "longitude": -114.0745759,
+    "latitude": 50.9112724,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

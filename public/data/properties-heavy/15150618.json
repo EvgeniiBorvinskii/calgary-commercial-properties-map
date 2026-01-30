@@ -1,0 +1,37 @@
+{
+  "id": "15150618",
+  "fullDetails": {
+    "licenseNumber": "15150618",
+    "name": "SUSHI CRAVE JAPANESE CAFE",
+    "address": "#336 22 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-12-07T12:12:59.000Z",
+    "expiryDate": "2026-12-06T12:12:59.000Z",
+    "coordinates": [
+      -114.0651211,
+      50.9148957
+    ],
+    "longitude": -114.0651211,
+    "latitude": 50.9148957,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

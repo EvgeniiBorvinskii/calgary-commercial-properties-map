@@ -1,0 +1,36 @@
+{
+  "id": "14790885",
+  "fullDetails": {
+    "licenseNumber": "14790885",
+    "name": "GRATITUDE BEAUTY",
+    "address": "#202 310 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2018-07-04T05:33:12.000Z",
+    "expiryDate": "2026-07-03T05:33:12.000Z",
+    "coordinates": [
+      -114.0681792,
+      51.0672278
+    ],
+    "longitude": -114.0681792,
+    "latitude": 51.0672278,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

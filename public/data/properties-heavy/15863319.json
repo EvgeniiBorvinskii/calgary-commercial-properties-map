@@ -1,0 +1,36 @@
+{
+  "id": "15863319",
+  "fullDetails": {
+    "licenseNumber": "15863319",
+    "name": "3-CI",
+    "address": "#18 5555 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-01-10T08:17:00.000Z",
+    "expiryDate": "2027-01-09T08:17:00.000Z",
+    "coordinates": [
+      -113.9517301,
+      51.0072679
+    ],
+    "longitude": -113.9517301,
+    "latitude": 51.0072679,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

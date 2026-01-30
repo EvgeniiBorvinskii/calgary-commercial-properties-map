@@ -1,0 +1,37 @@
+{
+  "id": "14501514",
+  "fullDetails": {
+    "licenseNumber": "14501514",
+    "name": "TRAPPED ESCAPE ROOM",
+    "address": "1139 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-05-09T13:58:17.000Z",
+    "expiryDate": "2026-05-08T13:58:17.000Z",
+    "coordinates": [
+      -114.0882652,
+      51.0522094
+    ],
+    "longitude": -114.0882652,
+    "latitude": 51.0522094,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

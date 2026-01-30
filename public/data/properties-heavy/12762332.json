@@ -1,0 +1,36 @@
+{
+  "id": "12762332",
+  "fullDetails": {
+    "licenseNumber": "12762332",
+    "name": "STEELING HOME",
+    "address": "1010 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-09-15T15:09:31.000Z",
+    "expiryDate": "2026-09-14T15:09:31.000Z",
+    "coordinates": [
+      -114.0847934,
+      51.0380259
+    ],
+    "longitude": -114.0847934,
+    "latitude": 51.0380259,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

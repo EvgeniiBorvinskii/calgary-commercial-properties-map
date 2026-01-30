@@ -1,0 +1,37 @@
+{
+  "id": "16478687",
+  "fullDetails": {
+    "licenseNumber": "16478687",
+    "name": "WINS THRIFT STORE",
+    "address": "#110 67 GLENBROOK PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2024-07-05T08:45:49.000Z",
+    "expiryDate": "2026-07-04T08:45:49.000Z",
+    "coordinates": [
+      -114.1632844,
+      51.0214292
+    ],
+    "longitude": -114.1632844,
+    "latitude": 51.0214292,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "162891",
+  "fullDetails": {
+    "licenseNumber": "162891",
+    "name": "KELLER EQUIPMENT SUPPLY",
+    "address": "1228 26 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-02-19T05:36:10.000Z",
+    "expiryDate": "2027-02-18T05:36:10.000Z",
+    "coordinates": [
+      -114.0349014,
+      51.0310685
+    ],
+    "longitude": -114.0349014,
+    "latitude": 51.0310685,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

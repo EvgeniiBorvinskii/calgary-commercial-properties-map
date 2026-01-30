@@ -1,0 +1,36 @@
+{
+  "id": "506402",
+  "fullDetails": {
+    "licenseNumber": "506402",
+    "name": "FOREST LAWN BOTTLE DEPOT",
+    "address": "2228 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-22T00:00:00.000Z",
+    "coordinates": [
+      -113.9574304,
+      51.0340371
+    ],
+    "longitude": -113.9574304,
+    "latitude": 51.0340371,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

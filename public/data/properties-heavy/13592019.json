@@ -1,0 +1,36 @@
+{
+  "id": "13592019",
+  "fullDetails": {
+    "licenseNumber": "13592019",
+    "name": "BOLLEA LOGISTICS",
+    "address": "#30 5350 86 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2019-11-02T05:33:16.000Z",
+    "expiryDate": "2026-11-01T05:33:16.000Z",
+    "coordinates": [
+      -113.9540888,
+      50.9776525
+    ],
+    "longitude": -113.9540888,
+    "latitude": 50.9776525,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14260699",
+  "fullDetails": {
+    "licenseNumber": "14260699",
+    "name": "7-ELEVEN (CANADA STORE# 37799)",
+    "address": "15150 MT MCKENZIE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-11-08T14:25:47.000Z",
+    "expiryDate": "2026-11-07T14:25:47.000Z",
+    "coordinates": [
+      -113.980886,
+      50.9171946
+    ],
+    "longitude": -113.980886,
+    "latitude": 50.9171946,
+    "community": "MCKENZIE LAKE",
+    "ward": "MCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

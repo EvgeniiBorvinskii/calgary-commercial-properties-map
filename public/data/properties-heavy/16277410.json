@@ -1,0 +1,36 @@
+{
+  "id": "16277410",
+  "fullDetails": {
+    "licenseNumber": "16277410",
+    "name": "TACO TIME",
+    "address": "#122A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-13T05:33:30.000Z",
+    "expiryDate": "2026-03-12T05:33:30.000Z",
+    "coordinates": [
+      -114.098134,
+      50.9743333
+    ],
+    "longitude": -114.098134,
+    "latitude": 50.9743333,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

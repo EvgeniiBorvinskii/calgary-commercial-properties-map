@@ -1,0 +1,36 @@
+{
+  "id": "13811294",
+  "fullDetails": {
+    "licenseNumber": "13811294",
+    "name": "SENTINTEL SELF STORAGE",
+    "address": "#3000 1800 194 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2014-04-01T05:33:35.000Z",
+    "expiryDate": "2026-03-31T05:33:35.000Z",
+    "coordinates": [
+      -114.0236585,
+      50.8788113
+    ],
+    "longitude": -114.0236585,
+    "latitude": 50.8788113,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

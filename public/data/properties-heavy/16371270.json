@@ -1,0 +1,37 @@
+{
+  "id": "16371270",
+  "fullDetails": {
+    "licenseNumber": "16371270",
+    "name": "HOMEY FOOD & CAFE",
+    "address": "#19 1410 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-08-28T16:27:21.000Z",
+    "expiryDate": "2026-08-27T16:27:21.000Z",
+    "coordinates": [
+      -114.0297561,
+      51.0890767
+    ],
+    "longitude": -114.0297561,
+    "latitude": 51.0890767,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14080006",
+  "fullDetails": {
+    "licenseNumber": "14080006",
+    "name": "24/7 RESTORATION",
+    "address": "2200 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-01-29T16:58:33.000Z",
+    "expiryDate": "2027-01-28T16:58:33.000Z",
+    "coordinates": [
+      -114.0083913,
+      51.0886597
+    ],
+    "longitude": -114.0083913,
+    "latitude": 51.0886597,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

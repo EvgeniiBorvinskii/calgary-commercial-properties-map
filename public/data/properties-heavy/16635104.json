@@ -1,0 +1,36 @@
+{
+  "id": "16635104",
+  "fullDetails": {
+    "licenseNumber": "16635104",
+    "name": "LIMBER DISC GOLF",
+    "address": "#5 7 PARKDALE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-04T15:40:27.000Z",
+    "expiryDate": "2026-11-03T15:40:26.000Z",
+    "coordinates": [
+      -114.1354614,
+      51.0581991
+    ],
+    "longitude": -114.1354614,
+    "latitude": 51.0581991,
+    "community": "PARKDALE",
+    "ward": "PKD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

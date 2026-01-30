@@ -1,0 +1,36 @@
+{
+  "id": "15870116",
+  "fullDetails": {
+    "licenseNumber": "15870116",
+    "name": "MEN IN KILTS CALGARY",
+    "address": "#2 3521 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "pending",
+    "issuedDate": "2024-03-15T14:02:36.000Z",
+    "expiryDate": "2026-03-14T14:02:36.000Z",
+    "coordinates": [
+      -113.9846368,
+      50.9819281
+    ],
+    "longitude": -113.9846368,
+    "latitude": 50.9819281,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

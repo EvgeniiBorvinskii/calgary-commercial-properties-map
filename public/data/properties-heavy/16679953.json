@@ -1,0 +1,36 @@
+{
+  "id": "16679953",
+  "fullDetails": {
+    "licenseNumber": "16679953",
+    "name": "VIRGIN PLUS",
+    "address": "#16K 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-10T12:04:08.000Z",
+    "expiryDate": "2026-10-09T12:04:07.000Z",
+    "coordinates": [
+      -113.9844917,
+      51.0616535
+    ],
+    "longitude": -113.9844917,
+    "latitude": 51.0616535,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

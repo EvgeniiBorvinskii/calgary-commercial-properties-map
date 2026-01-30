@@ -1,0 +1,37 @@
+{
+  "id": "15849896",
+  "fullDetails": {
+    "licenseNumber": "15849896",
+    "name": "CITY & COUNTRY WINERY",
+    "address": "544 38A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-11-26T13:01:30.000Z",
+    "expiryDate": "2026-11-25T13:01:29.000Z",
+    "coordinates": [
+      -114.0537734,
+      51.0199614
+    ],
+    "longitude": -114.0537734,
+    "latitude": 51.0199614,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

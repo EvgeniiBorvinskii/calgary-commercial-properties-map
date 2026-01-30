@@ -1,0 +1,36 @@
+{
+  "id": "16693103",
+  "fullDetails": {
+    "licenseNumber": "16693103",
+    "name": "FLAME AND BITE",
+    "address": "#78 7930 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-12T08:44:50.000Z",
+    "expiryDate": "2026-11-11T08:44:49.000Z",
+    "coordinates": [
+      -114.1999563,
+      51.0903712
+    ],
+    "longitude": -114.1999563,
+    "latitude": 51.0903712,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

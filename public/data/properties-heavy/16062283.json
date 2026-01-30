@@ -1,0 +1,36 @@
+{
+  "id": "16062283",
+  "fullDetails": {
+    "licenseNumber": "16062283",
+    "name": "WINE AND BEYOND AT DEERFOOT CITY",
+    "address": "#1120 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-10-14T09:51:13.000Z",
+    "expiryDate": "2026-10-13T09:51:13.000Z",
+    "coordinates": [
+      -114.0436784,
+      51.1088104
+    ],
+    "longitude": -114.0436784,
+    "latitude": 51.1088104,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

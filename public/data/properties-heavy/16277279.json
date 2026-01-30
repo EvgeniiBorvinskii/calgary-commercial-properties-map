@@ -1,0 +1,37 @@
+{
+  "id": "16277279",
+  "fullDetails": {
+    "licenseNumber": "16277279",
+    "name": "DREAMERS BAR",
+    "address": "1140 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-21T09:26:54.000Z",
+    "expiryDate": "2026-06-20T09:26:54.000Z",
+    "coordinates": [
+      -114.0882404,
+      51.0443886
+    ],
+    "longitude": -114.0882404,
+    "latitude": 51.0443886,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

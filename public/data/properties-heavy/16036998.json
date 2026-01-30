@@ -1,0 +1,37 @@
+{
+  "id": "16036998",
+  "fullDetails": {
+    "licenseNumber": "16036998",
+    "name": "SHAANAY GROCERY STORE / FRUITICANA",
+    "address": "#1900 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-25T08:59:56.000Z",
+    "expiryDate": "2026-02-24T08:59:55.000Z",
+    "coordinates": [
+      -113.9509523,
+      51.1559316
+    ],
+    "longitude": -113.9509523,
+    "latitude": 51.1559316,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

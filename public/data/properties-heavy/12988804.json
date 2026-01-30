@@ -1,0 +1,37 @@
+{
+  "id": "12988804",
+  "fullDetails": {
+    "licenseNumber": "12988804",
+    "name": "CELEBRITY HAIR EXTENSION AND HAIR REPLACEMENT SALON",
+    "address": "3808 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-02-01T09:29:50.000Z",
+    "expiryDate": "2026-01-31T09:29:50.000Z",
+    "coordinates": [
+      -114.0601164,
+      51.0211445
+    ],
+    "longitude": -114.0601164,
+    "latitude": 51.0211445,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

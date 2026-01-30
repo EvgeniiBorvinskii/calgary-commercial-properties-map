@@ -1,0 +1,36 @@
+{
+  "id": "34652",
+  "fullDetails": {
+    "licenseNumber": "34652",
+    "name": "DYNAMIC DRYWALL",
+    "address": "#26 6420 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2018-03-03T05:32:21.000Z",
+    "expiryDate": "2026-03-02T05:32:21.000Z",
+    "coordinates": [
+      -113.9391204,
+      50.982202
+    ],
+    "longitude": -113.9391204,
+    "latitude": 50.982202,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

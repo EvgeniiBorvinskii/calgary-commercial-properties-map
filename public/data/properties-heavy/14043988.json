@@ -1,0 +1,36 @@
+{
+  "id": "14043988",
+  "fullDetails": {
+    "licenseNumber": "14043988",
+    "name": "MARC CAIN CANADA",
+    "address": "817 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-01-05T11:04:08.000Z",
+    "expiryDate": "2027-01-04T11:04:08.000Z",
+    "coordinates": [
+      -114.082726,
+      51.0093594
+    ],
+    "longitude": -114.082726,
+    "latitude": 51.0093594,
+    "community": "BRITANNIA",
+    "ward": "BRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

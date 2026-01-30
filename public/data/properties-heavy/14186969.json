@@ -1,0 +1,36 @@
+{
+  "id": "14186969",
+  "fullDetails": {
+    "licenseNumber": "14186969",
+    "name": "MOUNTAIN VIEW TERMINALS",
+    "address": "5366 55 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-06-02T10:13:45.000Z",
+    "expiryDate": "2026-06-01T10:13:44.000Z",
+    "coordinates": [
+      -113.9504454,
+      51.0054449
+    ],
+    "longitude": -113.9504454,
+    "latitude": 51.0054449,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

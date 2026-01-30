@@ -1,0 +1,37 @@
+{
+  "id": "14965701",
+  "fullDetails": {
+    "licenseNumber": "14965701",
+    "name": "GOOD EARTH - SHELDON CHUMIR #63054",
+    "address": "#103 1213 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2018-08-31T14:46:57.000Z",
+    "expiryDate": "2026-08-30T14:46:57.000Z",
+    "coordinates": [
+      -114.071937,
+      51.0408988
+    ],
+    "longitude": -114.071937,
+    "latitude": 51.0408988,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

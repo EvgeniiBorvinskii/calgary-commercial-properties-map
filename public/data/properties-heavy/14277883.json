@@ -1,0 +1,36 @@
+{
+  "id": "14277883",
+  "fullDetails": {
+    "licenseNumber": "14277883",
+    "name": "APPS CARGO TERMINALS",
+    "address": "#8 7095 64 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2017-10-10T09:33:07.000Z",
+    "expiryDate": "2026-10-09T09:33:07.000Z",
+    "coordinates": [
+      -113.9403439,
+      50.9915685
+    ],
+    "longitude": -113.9403439,
+    "latitude": 50.9915685,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

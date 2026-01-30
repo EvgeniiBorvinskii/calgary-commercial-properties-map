@@ -1,0 +1,37 @@
+{
+  "id": "15972151",
+  "fullDetails": {
+    "licenseNumber": "15972151",
+    "name": "HUDSON",
+    "address": "#601AH 2016D AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-01-26T09:25:14.000Z",
+    "expiryDate": "2027-01-25T09:25:14.000Z",
+    "coordinates": [
+      -114.0045825,
+      51.1303398
+    ],
+    "longitude": -114.0045825,
+    "latitude": 51.1303398,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

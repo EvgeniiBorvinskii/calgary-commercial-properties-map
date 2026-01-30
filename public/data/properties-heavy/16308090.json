@@ -1,0 +1,36 @@
+{
+  "id": "16308090",
+  "fullDetails": {
+    "licenseNumber": "16308090",
+    "name": "PAPPA ROTI CAFE AND BAKERY",
+    "address": "#100 333 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-05-10T15:38:40.000Z",
+    "expiryDate": "2026-05-09T15:38:40.000Z",
+    "coordinates": [
+      -114.0693729,
+      51.042376
+    ],
+    "longitude": -114.0693729,
+    "latitude": 51.042376,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

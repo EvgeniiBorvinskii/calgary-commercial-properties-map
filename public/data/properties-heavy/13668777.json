@@ -1,0 +1,36 @@
+{
+  "id": "13668777",
+  "fullDetails": {
+    "licenseNumber": "13668777",
+    "name": "SERVPRO CAR WASH",
+    "address": "#200 437 36 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2013-07-17T16:11:13.000Z",
+    "expiryDate": "2026-07-16T16:11:13.000Z",
+    "coordinates": [
+      -114.0545758,
+      51.0209596
+    ],
+    "longitude": -114.0545758,
+    "latitude": 51.0209596,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15013980",
+  "fullDetails": {
+    "licenseNumber": "15013980",
+    "name": "CENTRAL AUTO REPAIR SERVICES",
+    "address": "3515A 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-12-04T10:20:04.000Z",
+    "expiryDate": "2026-12-03T10:20:04.000Z",
+    "coordinates": [
+      -113.9890095,
+      51.0845531
+    ],
+    "longitude": -113.9890095,
+    "latitude": 51.0845531,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

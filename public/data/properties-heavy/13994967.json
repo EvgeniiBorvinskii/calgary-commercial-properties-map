@@ -1,0 +1,36 @@
+{
+  "id": "13994967",
+  "fullDetails": {
+    "licenseNumber": "13994967",
+    "name": "WAGONMASTER DISTRIBUTORS",
+    "address": "#1145 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-11-13T07:16:06.000Z",
+    "expiryDate": "2026-11-12T07:16:06.000Z",
+    "coordinates": [
+      -113.9414061,
+      50.981354
+    ],
+    "longitude": -113.9414061,
+    "latitude": 50.981354,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15952187",
+  "fullDetails": {
+    "licenseNumber": "15952187",
+    "name": "PROFESSIONAL INSTITUTE OF MANAGEMENT & TECHNOLOGY",
+    "address": "#103 1422 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2021-01-20T08:02:52.000Z",
+    "expiryDate": "2027-01-19T08:02:52.000Z",
+    "coordinates": [
+      -114.0934237,
+      51.0527812
+    ],
+    "longitude": -114.0934237,
+    "latitude": 51.0527812,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

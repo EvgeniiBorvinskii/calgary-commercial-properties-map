@@ -1,0 +1,36 @@
+{
+  "id": "14225098",
+  "fullDetails": {
+    "licenseNumber": "14225098",
+    "name": "INTERNATIONAL BEAUTY SERVICES",
+    "address": "1928 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-08-19T11:23:58.000Z",
+    "expiryDate": "2026-08-18T11:23:58.000Z",
+    "coordinates": [
+      -114.0123391,
+      51.0818824
+    ],
+    "longitude": -114.0123391,
+    "latitude": 51.0818824,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

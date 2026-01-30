@@ -1,0 +1,36 @@
+{
+  "id": "15380215",
+  "fullDetails": {
+    "licenseNumber": "15380215",
+    "name": "DO NAILS & SPA",
+    "address": "#120 8835 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2019-09-10T05:30:46.000Z",
+    "expiryDate": "2026-04-04T00:00:00.000Z",
+    "coordinates": [
+      -114.0734534,
+      50.975243
+    ],
+    "longitude": -114.0734534,
+    "latitude": 50.975243,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

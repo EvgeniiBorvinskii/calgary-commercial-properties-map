@@ -1,0 +1,36 @@
+{
+  "id": "13965322",
+  "fullDetails": {
+    "licenseNumber": "13965322",
+    "name": "SOLUTION FOAM SERVICES",
+    "address": "2921 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2016-02-03T13:46:39.000Z",
+    "expiryDate": "2026-02-02T13:46:39.000Z",
+    "coordinates": [
+      -113.9948138,
+      51.0010096
+    ],
+    "longitude": -113.9948138,
+    "latitude": 51.0010096,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12503033",
+  "fullDetails": {
+    "licenseNumber": "12503033",
+    "name": "SUREBOND SAFE FLOORS (A DIVISION OF DIAMOND HARD SURFACES (CALGARY))",
+    "address": "#10 6420 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2017-02-03T05:32:16.000Z",
+    "expiryDate": "2026-02-02T05:32:16.000Z",
+    "coordinates": [
+      -113.940197,
+      50.9822015
+    ],
+    "longitude": -113.940197,
+    "latitude": 50.9822015,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

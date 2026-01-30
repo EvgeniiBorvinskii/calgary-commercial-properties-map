@@ -1,0 +1,36 @@
+{
+  "id": "16093254",
+  "fullDetails": {
+    "licenseNumber": "16093254",
+    "name": "WAIS BBQ HOUSE",
+    "address": "#183C 1623 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-24T08:57:11.000Z",
+    "expiryDate": "2026-10-23T08:57:11.000Z",
+    "coordinates": [
+      -114.06388,
+      51.0665477
+    ],
+    "longitude": -114.06388,
+    "latitude": 51.0665477,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

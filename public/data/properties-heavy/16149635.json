@@ -1,0 +1,36 @@
+{
+  "id": "16149635",
+  "fullDetails": {
+    "licenseNumber": "16149635",
+    "name": "CUTTING EDGE BARBERSHOP VARSITY",
+    "address": "#6 4624 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-06-02T15:24:20.000Z",
+    "expiryDate": "2026-06-01T15:24:20.000Z",
+    "coordinates": [
+      -114.1539848,
+      51.0935447
+    ],
+    "longitude": -114.1539848,
+    "latitude": 51.0935447,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

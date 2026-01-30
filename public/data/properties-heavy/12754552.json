@@ -1,0 +1,36 @@
+{
+  "id": "12754552",
+  "fullDetails": {
+    "licenseNumber": "12754552",
+    "name": "HILL'S TRUCK WASH",
+    "address": "5 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2009-04-17T08:58:46.000Z",
+    "expiryDate": "2026-04-16T08:58:46.000Z",
+    "coordinates": [
+      -113.9036328,
+      50.969874
+    ],
+    "longitude": -113.9036328,
+    "latitude": 50.969874,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

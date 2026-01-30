@@ -1,0 +1,36 @@
+{
+  "id": "13652144",
+  "fullDetails": {
+    "licenseNumber": "13652144",
+    "name": "BRANDELL DIESEL",
+    "address": "8010 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-10-04T10:12:49.000Z",
+    "expiryDate": "2026-10-03T10:12:49.000Z",
+    "coordinates": [
+      -113.9695719,
+      50.9809149
+    ],
+    "longitude": -113.9695719,
+    "latitude": 50.9809149,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

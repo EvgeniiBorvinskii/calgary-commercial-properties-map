@@ -1,0 +1,37 @@
+{
+  "id": "16536823",
+  "fullDetails": {
+    "licenseNumber": "16536823",
+    "name": "UNA PIZZA UNIVERSITY DISTRICT",
+    "address": "4034 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-11-15T13:41:13.000Z",
+    "expiryDate": "2026-11-14T13:41:12.000Z",
+    "coordinates": [
+      -114.1457678,
+      51.0785206
+    ],
+    "longitude": -114.1457678,
+    "latitude": 51.0785206,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

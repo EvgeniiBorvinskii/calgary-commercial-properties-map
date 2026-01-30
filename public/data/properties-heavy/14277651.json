@@ -1,0 +1,36 @@
+{
+  "id": "14277651",
+  "fullDetails": {
+    "licenseNumber": "14277651",
+    "name": "FEBELI",
+    "address": "#157 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-14T10:12:47.000Z",
+    "expiryDate": "2026-09-13T10:12:47.000Z",
+    "coordinates": [
+      -114.1603943,
+      51.1061823
+    ],
+    "longitude": -114.1603943,
+    "latitude": 51.1061823,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

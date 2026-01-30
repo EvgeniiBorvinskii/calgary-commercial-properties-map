@@ -1,0 +1,36 @@
+{
+  "id": "16299794",
+  "fullDetails": {
+    "licenseNumber": "16299794",
+    "name": "RACK ATTACK",
+    "address": "4720 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-02-28T15:53:43.000Z",
+    "expiryDate": "2026-02-28T15:53:43.000Z",
+    "coordinates": [
+      -114.1637352,
+      51.0724437
+    ],
+    "longitude": -114.1637352,
+    "latitude": 51.0724437,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

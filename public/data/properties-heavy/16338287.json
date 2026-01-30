@@ -1,0 +1,36 @@
+{
+  "id": "16338287",
+  "fullDetails": {
+    "licenseNumber": "16338287",
+    "name": "UNBOTHERED TATTOO CO",
+    "address": "#1003 4515 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-06-09T05:34:09.000Z",
+    "expiryDate": "2026-06-08T05:34:09.000Z",
+    "coordinates": [
+      -114.0661419,
+      51.0134073
+    ],
+    "longitude": -114.0661419,
+    "latitude": 51.0134073,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13718762",
+  "fullDetails": {
+    "licenseNumber": "13718762",
+    "name": "RUSSPET CONSTRUCTION",
+    "address": "4734 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-05-28T07:58:31.000Z",
+    "expiryDate": "2026-05-27T07:58:31.000Z",
+    "coordinates": [
+      -114.02777,
+      51.0945573
+    ],
+    "longitude": -114.02777,
+    "latitude": 51.0945573,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13554910",
+  "fullDetails": {
+    "licenseNumber": "13554910",
+    "name": "PEAK OF THE MARKET",
+    "address": "#118 10761 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-05-22T15:15:56.000Z",
+    "expiryDate": "2026-05-21T15:15:56.000Z",
+    "coordinates": [
+      -113.9986153,
+      51.1527115
+    ],
+    "longitude": -113.9986153,
+    "latitude": 51.1527115,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

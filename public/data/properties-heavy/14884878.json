@@ -1,0 +1,36 @@
+{
+  "id": "14884878",
+  "fullDetails": {
+    "licenseNumber": "14884878",
+    "name": "TAIL BLAZERS RANCHLANDS",
+    "address": "#155 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-04-06T11:05:11.000Z",
+    "expiryDate": "2026-04-05T11:05:11.000Z",
+    "coordinates": [
+      -114.1980485,
+      51.1232364
+    ],
+    "longitude": -114.1980485,
+    "latitude": 51.1232364,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

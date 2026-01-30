@@ -1,0 +1,36 @@
+{
+  "id": "16134736",
+  "fullDetails": {
+    "licenseNumber": "16134736",
+    "name": "SUCRE BODY SUGARING",
+    "address": "#1 600 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-07-21T12:13:20.000Z",
+    "expiryDate": "2026-07-20T12:13:20.000Z",
+    "coordinates": [
+      -114.2044863,
+      51.1290228
+    ],
+    "longitude": -114.2044863,
+    "latitude": 51.1290228,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

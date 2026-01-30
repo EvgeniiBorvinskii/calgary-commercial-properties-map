@@ -1,0 +1,37 @@
+{
+  "id": "737254",
+  "fullDetails": {
+    "licenseNumber": "737254",
+    "name": "MANUEL LATRUWE BELGIAN PATISSERIE & BREAD SHOP",
+    "address": "1333 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-12T00:00:00.000Z",
+    "coordinates": [
+      -114.0614317,
+      51.0401775
+    ],
+    "longitude": -114.0614317,
+    "latitude": 51.0401775,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

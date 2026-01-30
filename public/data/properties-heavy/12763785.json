@@ -1,0 +1,37 @@
+{
+  "id": "12763785",
+  "fullDetails": {
+    "licenseNumber": "12763785",
+    "name": "A-1 GRANITE & MARBLE",
+    "address": "10758 74 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-09-08T08:42:53.000Z",
+    "expiryDate": "2026-09-07T08:42:53.000Z",
+    "coordinates": [
+      -113.9240449,
+      50.9600281
+    ],
+    "longitude": -113.9240449,
+    "latitude": 50.9600281,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

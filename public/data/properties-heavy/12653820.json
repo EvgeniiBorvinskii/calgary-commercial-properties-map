@@ -1,0 +1,36 @@
+{
+  "id": "12653820",
+  "fullDetails": {
+    "licenseNumber": "12653820",
+    "name": "AQUATIC IMPORTS (2008)",
+    "address": "#9 2021 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2008-07-17T15:38:30.000Z",
+    "expiryDate": "2026-07-16T15:38:30.000Z",
+    "coordinates": [
+      -114.0100573,
+      51.0878867
+    ],
+    "longitude": -114.0100573,
+    "latitude": 51.0878867,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

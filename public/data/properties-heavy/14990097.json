@@ -1,0 +1,36 @@
+{
+  "id": "14990097",
+  "fullDetails": {
+    "licenseNumber": "14990097",
+    "name": "OVAL BEAUTY BAR & LASER CLINIC",
+    "address": "#205 1235 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2022-06-21T16:54:40.000Z",
+    "expiryDate": "2026-06-20T16:54:40.000Z",
+    "coordinates": [
+      -114.0908564,
+      51.0375281
+    ],
+    "longitude": -114.0908564,
+    "latitude": 51.0375281,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

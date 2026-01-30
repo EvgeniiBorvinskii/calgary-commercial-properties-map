@@ -1,0 +1,37 @@
+{
+  "id": "15894181",
+  "fullDetails": {
+    "licenseNumber": "15894181",
+    "name": "JANE BOND BBQ",
+    "address": "#321 723 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-15T07:43:03.000Z",
+    "expiryDate": "2026-05-14T07:43:03.000Z",
+    "coordinates": [
+      -114.0465007,
+      51.0105901
+    ],
+    "longitude": -114.0465007,
+    "latitude": 51.0105901,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

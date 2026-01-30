@@ -1,0 +1,36 @@
+{
+  "id": "16291502",
+  "fullDetails": {
+    "licenseNumber": "16291502",
+    "name": "GREGG DISTRIBUTORS",
+    "address": "10660 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-04-25T16:20:32.000Z",
+    "expiryDate": "2026-04-24T16:20:32.000Z",
+    "coordinates": [
+      -113.9600493,
+      50.958554
+    ],
+    "longitude": -113.9600493,
+    "latitude": 50.958554,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

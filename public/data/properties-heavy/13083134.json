@@ -1,0 +1,36 @@
+{
+  "id": "13083134",
+  "fullDetails": {
+    "licenseNumber": "13083134",
+    "name": "CRYSTAL WATERS HOME COMFORT",
+    "address": "#A 7004 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-06-22T07:30:01.000Z",
+    "expiryDate": "2026-06-21T07:30:01.000Z",
+    "coordinates": [
+      -114.0487555,
+      50.99346
+    ],
+    "longitude": -114.0487555,
+    "latitude": 50.99346,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

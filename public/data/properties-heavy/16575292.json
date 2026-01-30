@@ -1,0 +1,37 @@
+{
+  "id": "16575292",
+  "fullDetails": {
+    "licenseNumber": "16575292",
+    "name": "AGECARE BOW CREST UNIT #64464",
+    "address": "5927 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nCLEANING SERVICE (RESIDENTIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2025-07-29T09:17:10.000Z",
+    "expiryDate": "2026-07-28T09:17:10.000Z",
+    "coordinates": [
+      -114.1739227,
+      51.0819338
+    ],
+    "longitude": -114.1739227,
+    "latitude": 51.0819338,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

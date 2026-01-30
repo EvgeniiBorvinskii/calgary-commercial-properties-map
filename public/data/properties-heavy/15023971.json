@@ -1,0 +1,36 @@
+{
+  "id": "15023971",
+  "fullDetails": {
+    "licenseNumber": "15023971",
+    "name": "N S PAWLIUK & SON CONTRACTING",
+    "address": "#7 2820 CENTRE AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2021-03-17T05:31:17.000Z",
+    "expiryDate": "2026-03-16T05:31:16.000Z",
+    "coordinates": [
+      -113.9941814,
+      51.0527458
+    ],
+    "longitude": -113.9941814,
+    "latitude": 51.0527458,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

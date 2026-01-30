@@ -1,0 +1,36 @@
+{
+  "id": "16548828",
+  "fullDetails": {
+    "licenseNumber": "16548828",
+    "name": "THE THRIFT STORE",
+    "address": "#10 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2025-01-24T14:44:38.000Z",
+    "expiryDate": "2026-01-23T14:44:38.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16471666",
+  "fullDetails": {
+    "licenseNumber": "16471666",
+    "name": "POPEYES SUPPLEMENTS",
+    "address": "#139 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-05T12:33:18.000Z",
+    "expiryDate": "2026-04-04T12:33:18.000Z",
+    "coordinates": [
+      -114.1607614,
+      51.1063274
+    ],
+    "longitude": -114.1607614,
+    "latitude": 51.1063274,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

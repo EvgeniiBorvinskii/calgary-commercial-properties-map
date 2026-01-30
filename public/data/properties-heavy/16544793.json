@@ -1,0 +1,37 @@
+{
+  "id": "16544793",
+  "fullDetails": {
+    "licenseNumber": "16544793",
+    "name": "CHICK-FIL-A MACLEOD TRAIL",
+    "address": "9223 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-11-05T07:24:14.000Z",
+    "expiryDate": "2026-11-04T07:24:13.000Z",
+    "coordinates": [
+      -114.072695,
+      50.9730008
+    ],
+    "longitude": -114.072695,
+    "latitude": 50.9730008,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

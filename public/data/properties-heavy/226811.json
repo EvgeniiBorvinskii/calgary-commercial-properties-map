@@ -1,0 +1,36 @@
+{
+  "id": "226811",
+  "fullDetails": {
+    "licenseNumber": "226811",
+    "name": "SUM CANADA ENTERPRISES",
+    "address": "#24 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-08-11T10:27:07.000Z",
+    "expiryDate": "2026-08-10T10:27:07.000Z",
+    "coordinates": [
+      -113.9839405,
+      50.9916073
+    ],
+    "longitude": -113.9839405,
+    "latitude": 50.9916073,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

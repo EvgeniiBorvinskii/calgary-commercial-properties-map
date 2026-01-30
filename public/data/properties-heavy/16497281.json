@@ -1,0 +1,36 @@
+{
+  "id": "16497281",
+  "fullDetails": {
+    "licenseNumber": "16497281",
+    "name": "THE BIKE SHOP",
+    "address": "11 BOWRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-27T08:04:43.000Z",
+    "expiryDate": "2026-10-26T08:04:43.000Z",
+    "coordinates": [
+      -114.2044544,
+      51.0829857
+    ],
+    "longitude": -114.2044544,
+    "latitude": 51.0829857,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

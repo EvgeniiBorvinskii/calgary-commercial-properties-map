@@ -1,0 +1,37 @@
+{
+  "id": "16088213",
+  "fullDetails": {
+    "licenseNumber": "16088213",
+    "name": "CHEESE AND DOUGH",
+    "address": "#3 2220 20 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2021-10-27T09:01:26.000Z",
+    "expiryDate": "2026-10-26T09:01:26.000Z",
+    "coordinates": [
+      -114.1111698,
+      51.0705032
+    ],
+    "longitude": -114.1111698,
+    "latitude": 51.0705032,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

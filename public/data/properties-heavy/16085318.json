@@ -1,0 +1,36 @@
+{
+  "id": "16085318",
+  "fullDetails": {
+    "licenseNumber": "16085318",
+    "name": "SABERDENT",
+    "address": "#39 3610 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-05-27T12:45:08.000Z",
+    "expiryDate": "2026-05-26T12:45:07.000Z",
+    "coordinates": [
+      -113.9810861,
+      51.0096175
+    ],
+    "longitude": -113.9810861,
+    "latitude": 51.0096175,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

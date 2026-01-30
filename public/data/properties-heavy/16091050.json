@@ -1,0 +1,37 @@
+{
+  "id": "16091050",
+  "fullDetails": {
+    "licenseNumber": "16091050",
+    "name": "FOUNTAIN TIRE MIDNAPORE",
+    "address": "15208 SHAW RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-11-05T08:22:32.000Z",
+    "expiryDate": "2026-11-04T08:22:32.000Z",
+    "coordinates": [
+      -114.0685776,
+      50.9168043
+    ],
+    "longitude": -114.0685776,
+    "latitude": 50.9168043,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

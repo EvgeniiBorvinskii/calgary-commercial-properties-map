@@ -1,0 +1,36 @@
+{
+  "id": "16483240",
+  "fullDetails": {
+    "licenseNumber": "16483240",
+    "name": "PROTECH CHEMICALS",
+    "address": "#16 8009 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-06-27T15:51:42.000Z",
+    "expiryDate": "2026-06-26T15:51:42.000Z",
+    "coordinates": [
+      -113.9474648,
+      50.9812389
+    ],
+    "longitude": -113.9474648,
+    "latitude": 50.9812389,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

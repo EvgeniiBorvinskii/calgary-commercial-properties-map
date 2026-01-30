@@ -1,0 +1,36 @@
+{
+  "id": "12597431",
+  "fullDetails": {
+    "licenseNumber": "12597431",
+    "name": "TAYLOR CONSTRUCTION",
+    "address": "#2 314 EXPLORATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2014-07-04T05:30:29.000Z",
+    "expiryDate": "2026-07-03T05:30:29.000Z",
+    "coordinates": [
+      -113.9020574,
+      50.9629393
+    ],
+    "longitude": -113.9020574,
+    "latitude": 50.9629393,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

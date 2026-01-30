@@ -1,0 +1,37 @@
+{
+  "id": "16314221",
+  "fullDetails": {
+    "licenseNumber": "16314221",
+    "name": "NIELSENS HOMEOPATHIC AND INTEGRATIVE CLINIC",
+    "address": "#116 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-21T08:26:43.000Z",
+    "expiryDate": "2026-06-20T08:26:43.000Z",
+    "coordinates": [
+      -114.0729563,
+      50.9907367
+    ],
+    "longitude": -114.0729563,
+    "latitude": 50.9907367,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

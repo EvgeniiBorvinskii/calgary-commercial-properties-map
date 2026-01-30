@@ -1,0 +1,36 @@
+{
+  "id": "14729602",
+  "fullDetails": {
+    "licenseNumber": "14729602",
+    "name": "REGENT SUPPLY",
+    "address": "5715 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-07-25T05:31:32.000Z",
+    "expiryDate": "2026-07-24T05:31:32.000Z",
+    "coordinates": [
+      -114.0460422,
+      51.0038981
+    ],
+    "longitude": -114.0460422,
+    "latitude": 51.0038981,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

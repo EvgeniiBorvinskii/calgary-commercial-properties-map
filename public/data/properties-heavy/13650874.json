@@ -1,0 +1,37 @@
+{
+  "id": "13650874",
+  "fullDetails": {
+    "licenseNumber": "13650874",
+    "name": "SHOPPERS DRUG MART #2390",
+    "address": "1622 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-03-25T11:05:19.000Z",
+    "expiryDate": "2026-03-24T11:05:19.000Z",
+    "coordinates": [
+      -114.1399735,
+      51.0396434
+    ],
+    "longitude": -114.1399735,
+    "latitude": 51.0396434,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

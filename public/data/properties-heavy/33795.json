@@ -1,0 +1,36 @@
+{
+  "id": "33795",
+  "fullDetails": {
+    "licenseNumber": "33795",
+    "name": "FREE HOUSE DANCE PLUS",
+    "address": "2020 12 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-01T12:13:28.000Z",
+    "expiryDate": "2026-11-30T12:13:28.000Z",
+    "coordinates": [
+      -114.1088466,
+      51.0636392
+    ],
+    "longitude": -114.1088466,
+    "latitude": 51.0636392,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

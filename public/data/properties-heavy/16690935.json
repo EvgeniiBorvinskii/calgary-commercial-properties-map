@@ -1,0 +1,36 @@
+{
+  "id": "16690935",
+  "fullDetails": {
+    "licenseNumber": "16690935",
+    "name": "EXCITE TRADING & MERCHANDISING",
+    "address": "#120 3215 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-29T15:16:34.000Z",
+    "expiryDate": "2026-10-28T15:16:34.000Z",
+    "coordinates": [
+      -113.9890448,
+      51.036578
+    ],
+    "longitude": -113.9890448,
+    "latitude": 51.036578,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16328163",
+  "fullDetails": {
+    "licenseNumber": "16328163",
+    "name": "RAKU SUSHI",
+    "address": "#100 310 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-07-04T07:16:13.000Z",
+    "expiryDate": "2026-07-03T07:16:13.000Z",
+    "coordinates": [
+      -114.0613718,
+      50.9008781
+    ],
+    "longitude": -114.0613718,
+    "latitude": 50.9008781,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

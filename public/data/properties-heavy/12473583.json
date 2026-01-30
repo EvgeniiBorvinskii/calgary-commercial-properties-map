@@ -1,0 +1,36 @@
+{
+  "id": "12473583",
+  "fullDetails": {
+    "licenseNumber": "12473583",
+    "name": "BEDDINGTON LOTTERY CENTRE",
+    "address": "#222 8120 BEDDINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-11-26T10:24:59.000Z",
+    "expiryDate": "2026-11-25T10:24:59.000Z",
+    "coordinates": [
+      -114.0729325,
+      51.1271047
+    ],
+    "longitude": -114.0729325,
+    "latitude": 51.1271047,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

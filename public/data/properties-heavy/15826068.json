@@ -1,0 +1,36 @@
+{
+  "id": "15826068",
+  "fullDetails": {
+    "licenseNumber": "15826068",
+    "name": "CUBE",
+    "address": "1177 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-11-01T15:02:06.000Z",
+    "expiryDate": "2026-10-31T15:02:06.000Z",
+    "coordinates": [
+      -114.0885188,
+      51.0428135
+    ],
+    "longitude": -114.0885188,
+    "latitude": 51.0428135,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

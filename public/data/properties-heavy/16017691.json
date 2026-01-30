@@ -1,0 +1,37 @@
+{
+  "id": "16017691",
+  "fullDetails": {
+    "licenseNumber": "16017691",
+    "name": "BISMILLAH MEAT & GROCERY",
+    "address": "#4110 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-05-05T12:56:24.000Z",
+    "expiryDate": "2026-05-04T12:56:24.000Z",
+    "coordinates": [
+      -113.9730823,
+      51.1536208
+    ],
+    "longitude": -113.9730823,
+    "latitude": 51.1536208,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

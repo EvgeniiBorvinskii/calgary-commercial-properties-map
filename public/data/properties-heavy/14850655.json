@@ -1,0 +1,37 @@
+{
+  "id": "14850655",
+  "fullDetails": {
+    "licenseNumber": "14850655",
+    "name": "SELECT STAMPS & COVERS",
+    "address": "#107B 825 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2019-08-13T15:32:27.000Z",
+    "expiryDate": "2026-08-12T15:32:27.000Z",
+    "coordinates": [
+      -114.0804468,
+      51.0457687
+    ],
+    "longitude": -114.0804468,
+    "latitude": 51.0457687,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

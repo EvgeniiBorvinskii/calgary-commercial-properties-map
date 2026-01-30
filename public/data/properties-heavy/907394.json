@@ -1,0 +1,36 @@
+{
+  "id": "907394",
+  "fullDetails": {
+    "licenseNumber": "907394",
+    "name": "CHOICES CAFE & BISTRO #4",
+    "address": "3553 31 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-29T00:00:00.000Z",
+    "coordinates": [
+      -114.1306015,
+      51.0839709
+    ],
+    "longitude": -114.1306015,
+    "latitude": 51.0839709,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

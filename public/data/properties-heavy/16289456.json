@@ -1,0 +1,37 @@
+{
+  "id": "16289456",
+  "fullDetails": {
+    "licenseNumber": "16289456",
+    "name": "AIRWAYS FOODS",
+    "address": "#115 1935 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-07T10:56:17.000Z",
+    "expiryDate": "2026-03-06T10:56:17.000Z",
+    "coordinates": [
+      -114.0128039,
+      51.0811067
+    ],
+    "longitude": -114.0128039,
+    "latitude": 51.0811067,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

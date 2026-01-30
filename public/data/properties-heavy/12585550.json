@@ -1,0 +1,37 @@
+{
+  "id": "12585550",
+  "fullDetails": {
+    "licenseNumber": "12585550",
+    "name": "ANOTHER DIMENSION CUSTOM STAINLESS",
+    "address": "219 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-06-26T13:47:03.000Z",
+    "expiryDate": "2026-06-25T13:47:03.000Z",
+    "coordinates": [
+      -114.0587548,
+      51.0896865
+    ],
+    "longitude": -114.0587548,
+    "latitude": 51.0896865,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

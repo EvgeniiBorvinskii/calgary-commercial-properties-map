@@ -1,0 +1,36 @@
+{
+  "id": "16189078",
+  "fullDetails": {
+    "licenseNumber": "16189078",
+    "name": "DAY DREAM COFFEE",
+    "address": "536 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-01-23T14:05:04.000Z",
+    "expiryDate": "2027-01-22T14:05:04.000Z",
+    "coordinates": [
+      -114.0733416,
+      51.0670939
+    ],
+    "longitude": -114.0733416,
+    "latitude": 51.0670939,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

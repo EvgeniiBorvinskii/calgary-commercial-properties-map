@@ -1,0 +1,36 @@
+{
+  "id": "136291",
+  "fullDetails": {
+    "licenseNumber": "136291",
+    "name": "LAIRD PLASTICS CANADA",
+    "address": "935 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-10-10T11:22:55.000Z",
+    "expiryDate": "2026-10-09T11:22:55.000Z",
+    "coordinates": [
+      -113.9943295,
+      51.0601355
+    ],
+    "longitude": -113.9943295,
+    "latitude": 51.0601355,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

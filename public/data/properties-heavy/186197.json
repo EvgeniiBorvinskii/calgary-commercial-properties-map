@@ -1,0 +1,36 @@
+{
+  "id": "186197",
+  "fullDetails": {
+    "licenseNumber": "186197",
+    "name": "KLASS MECHANICAL SALES",
+    "address": "#10 3610 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "in_progress",
+    "issuedDate": "2012-09-11T05:46:51.000Z",
+    "expiryDate": "2026-09-10T05:46:51.000Z",
+    "coordinates": [
+      -113.9905587,
+      51.0850348
+    ],
+    "longitude": -113.9905587,
+    "latitude": 51.0850348,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

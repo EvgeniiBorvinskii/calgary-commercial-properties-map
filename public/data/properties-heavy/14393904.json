@@ -1,0 +1,36 @@
+{
+  "id": "14393904",
+  "fullDetails": {
+    "licenseNumber": "14393904",
+    "name": "MARK'S WORK WEARHOUSE #561",
+    "address": "#30 7155 64 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-02-28T05:32:57.000Z",
+    "expiryDate": "2026-02-27T05:32:57.000Z",
+    "coordinates": [
+      -113.9405636,
+      50.9911689
+    ],
+    "longitude": -113.9405636,
+    "latitude": 50.9911689,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

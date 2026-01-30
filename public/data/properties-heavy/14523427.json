@@ -1,0 +1,36 @@
+{
+  "id": "14523427",
+  "fullDetails": {
+    "licenseNumber": "14523427",
+    "name": "BATH AND TIDY",
+    "address": "1155 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-01T05:35:56.000Z",
+    "expiryDate": "2026-04-30T05:35:56.000Z",
+    "coordinates": [
+      -114.1179683,
+      51.0891417
+    ],
+    "longitude": -114.1179683,
+    "latitude": 51.0891417,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12597092",
+  "fullDetails": {
+    "licenseNumber": "12597092",
+    "name": "DAYS INN CALGARY SOUTH",
+    "address": "3828 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "HOTEL/MOTEL,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nHOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2007-11-14T14:26:08.000Z",
+    "expiryDate": "2026-11-13T14:26:08.000Z",
+    "coordinates": [
+      -114.0605949,
+      51.0204931
+    ],
+    "longitude": -114.0605949,
+    "latitude": 51.0204931,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

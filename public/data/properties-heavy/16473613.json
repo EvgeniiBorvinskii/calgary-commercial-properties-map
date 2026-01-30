@@ -1,0 +1,36 @@
+{
+  "id": "16473613",
+  "fullDetails": {
+    "licenseNumber": "16473613",
+    "name": "MOBILE KLINIK",
+    "address": "#G11 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-15T08:35:43.000Z",
+    "expiryDate": "2026-04-14T08:35:43.000Z",
+    "coordinates": [
+      -114.1559288,
+      51.0860735
+    ],
+    "longitude": -114.1559288,
+    "latitude": 51.0860735,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16437527",
+  "fullDetails": {
+    "licenseNumber": "16437527",
+    "name": "GOOSE MECHANICAL",
+    "address": "4528 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-12T08:13:04.000Z",
+    "expiryDate": "2027-01-11T08:13:04.000Z",
+    "coordinates": [
+      -113.9712291,
+      50.9522302
+    ],
+    "longitude": -113.9712291,
+    "latitude": 50.9522302,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

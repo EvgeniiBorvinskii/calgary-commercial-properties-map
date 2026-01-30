@@ -1,0 +1,36 @@
+{
+  "id": "16478364",
+  "fullDetails": {
+    "licenseNumber": "16478364",
+    "name": "TOTAL SIGNWORKS",
+    "address": "538 38A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-10-04T14:58:26.000Z",
+    "expiryDate": "2026-10-03T14:58:26.000Z",
+    "coordinates": [
+      -114.0541977,
+      51.0199648
+    ],
+    "longitude": -114.0541977,
+    "latitude": 51.0199648,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

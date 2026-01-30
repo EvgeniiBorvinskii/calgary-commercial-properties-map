@@ -1,0 +1,36 @@
+{
+  "id": "16057473",
+  "fullDetails": {
+    "licenseNumber": "16057473",
+    "name": "BOWNESS LIQUOR",
+    "address": "#5 8607 48 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2023-06-20T14:19:31.000Z",
+    "expiryDate": "2026-06-19T14:19:31.000Z",
+    "coordinates": [
+      -114.211483,
+      51.095503
+    ],
+    "longitude": -114.211483,
+    "latitude": 51.095503,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

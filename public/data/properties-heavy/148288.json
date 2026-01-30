@@ -1,0 +1,36 @@
+{
+  "id": "148288",
+  "fullDetails": {
+    "licenseNumber": "148288",
+    "name": "GUNNAR GROUP",
+    "address": "3220 118 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-10-14T10:14:14.000Z",
+    "expiryDate": "2026-10-13T10:14:13.000Z",
+    "coordinates": [
+      -113.9907492,
+      50.9478767
+    ],
+    "longitude": -113.9907492,
+    "latitude": 50.9478767,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

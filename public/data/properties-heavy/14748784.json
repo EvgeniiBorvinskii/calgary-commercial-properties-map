@@ -1,0 +1,37 @@
+{
+  "id": "14748784",
+  "fullDetails": {
+    "licenseNumber": "14748784",
+    "name": "JUNIOR VARSITY VOLLEYBALL TRAINING CENTRE",
+    "address": "#130 10 SMED LN SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2017-11-17T08:31:42.000Z",
+    "expiryDate": "2026-11-16T08:31:42.000Z",
+    "coordinates": [
+      -113.9527614,
+      50.9956339
+    ],
+    "longitude": -113.9527614,
+    "latitude": 50.9956339,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

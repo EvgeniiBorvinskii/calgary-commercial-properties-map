@@ -1,0 +1,37 @@
+{
+  "id": "16399750",
+  "fullDetails": {
+    "licenseNumber": "16399750",
+    "name": "7-ELEVEN - STORE 37907",
+    "address": "#220 2505 EVERSYDE AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-01-19T07:23:24.000Z",
+    "expiryDate": "2027-01-18T07:23:24.000Z",
+    "coordinates": [
+      -114.1179148,
+      50.9072928
+    ],
+    "longitude": -114.1179148,
+    "latitude": 50.9072928,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

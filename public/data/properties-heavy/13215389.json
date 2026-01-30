@@ -1,0 +1,36 @@
+{
+  "id": "13215389",
+  "fullDetails": {
+    "licenseNumber": "13215389",
+    "name": "DANIADOWN QUILTS",
+    "address": "262 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-06-13T12:25:37.000Z",
+    "expiryDate": "2026-06-12T12:25:37.000Z",
+    "coordinates": [
+      -114.17034,
+      51.0142002
+    ],
+    "longitude": -114.17034,
+    "latitude": 51.0142002,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

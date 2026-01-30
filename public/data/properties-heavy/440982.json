@@ -1,0 +1,36 @@
+{
+  "id": "440982",
+  "fullDetails": {
+    "licenseNumber": "440982",
+    "name": "ALBERTA BEVERAGE CONTAINER RECYCLING CORPORATION",
+    "address": "901 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-05-01T15:47:21.000Z",
+    "expiryDate": "2026-04-30T15:47:21.000Z",
+    "coordinates": [
+      -114.0428581,
+      51.1049024
+    ],
+    "longitude": -114.0428581,
+    "latitude": 51.1049024,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

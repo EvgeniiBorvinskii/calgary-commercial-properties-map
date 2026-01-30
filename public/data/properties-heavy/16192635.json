@@ -1,0 +1,37 @@
+{
+  "id": "16192635",
+  "fullDetails": {
+    "licenseNumber": "16192635",
+    "name": "HR MASSAGE CENTRE",
+    "address": "4827 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2022-10-28T15:03:32.000Z",
+    "expiryDate": "2026-10-27T15:03:32.000Z",
+    "coordinates": [
+      -114.067707,
+      51.0101193
+    ],
+    "longitude": -114.067707,
+    "latitude": 51.0101193,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

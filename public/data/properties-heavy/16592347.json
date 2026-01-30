@@ -1,0 +1,36 @@
+{
+  "id": "16592347",
+  "fullDetails": {
+    "licenseNumber": "16592347",
+    "name": "SHOPPERS DRUG MART 6780",
+    "address": "2520 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-12T11:03:17.000Z",
+    "expiryDate": "2026-05-11T11:03:16.000Z",
+    "coordinates": [
+      -113.9560898,
+      51.0748359
+    ],
+    "longitude": -113.9560898,
+    "latitude": 51.0748359,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

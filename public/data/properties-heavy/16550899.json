@@ -1,0 +1,37 @@
+{
+  "id": "16550899",
+  "fullDetails": {
+    "licenseNumber": "16550899",
+    "name": "BOOSTER JUICE",
+    "address": "#430 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-21T09:32:37.000Z",
+    "expiryDate": "2026-10-20T09:32:36.000Z",
+    "coordinates": [
+      -114.198459,
+      51.1257087
+    ],
+    "longitude": -114.198459,
+    "latitude": 51.1257087,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

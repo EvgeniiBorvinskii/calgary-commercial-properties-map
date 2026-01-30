@@ -1,0 +1,36 @@
+{
+  "id": "16488652",
+  "fullDetails": {
+    "licenseNumber": "16488652",
+    "name": "ZAVIER JEWELLERS",
+    "address": "#R34 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-08T09:09:12.000Z",
+    "expiryDate": "2026-05-07T09:09:12.000Z",
+    "coordinates": [
+      -114.1548767,
+      51.083092
+    ],
+    "longitude": -114.1548767,
+    "latitude": 51.083092,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

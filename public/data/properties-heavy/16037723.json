@@ -1,0 +1,36 @@
+{
+  "id": "16037723",
+  "fullDetails": {
+    "licenseNumber": "16037723",
+    "name": "SUBWAY",
+    "address": "#120 5504 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-22T15:43:35.000Z",
+    "expiryDate": "2026-06-21T15:43:35.000Z",
+    "coordinates": [
+      -114.0694554,
+      51.005213
+    ],
+    "longitude": -114.0694554,
+    "latitude": 51.005213,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

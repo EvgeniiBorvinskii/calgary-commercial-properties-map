@@ -1,0 +1,37 @@
+{
+  "id": "13172457",
+  "fullDetails": {
+    "licenseNumber": "13172457",
+    "name": "AFL",
+    "address": "#220 7260 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-09-26T05:31:11.000Z",
+    "expiryDate": "2026-09-25T05:31:11.000Z",
+    "coordinates": [
+      -114.036666,
+      50.9895922
+    ],
+    "longitude": -114.036666,
+    "latitude": 50.9895922,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

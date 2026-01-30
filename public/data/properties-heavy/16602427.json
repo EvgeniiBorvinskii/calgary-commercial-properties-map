@@ -1,0 +1,37 @@
+{
+  "id": "16602427",
+  "fullDetails": {
+    "licenseNumber": "16602427",
+    "name": "WILD WEST PILATES",
+    "address": "925 1 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-30T09:48:02.000Z",
+    "expiryDate": "2026-06-29T09:48:02.000Z",
+    "coordinates": [
+      -114.0420297,
+      51.053084
+    ],
+    "longitude": -114.0420297,
+    "latitude": 51.053084,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

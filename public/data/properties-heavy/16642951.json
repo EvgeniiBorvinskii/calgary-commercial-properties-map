@@ -1,0 +1,36 @@
+{
+  "id": "16642951",
+  "fullDetails": {
+    "licenseNumber": "16642951",
+    "name": "MCGREGOR MECHANICAL",
+    "address": "7620 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-11T11:12:03.000Z",
+    "expiryDate": "2026-08-10T11:12:03.000Z",
+    "coordinates": [
+      -114.0825202,
+      50.9854707
+    ],
+    "longitude": -114.0825202,
+    "latitude": 50.9854707,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16644304",
+  "fullDetails": {
+    "licenseNumber": "16644304",
+    "name": "ULTIMATE CARE SPA",
+    "address": "1816 14 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-11-18T11:46:21.000Z",
+    "expiryDate": "2026-11-17T11:46:20.000Z",
+    "coordinates": [
+      -114.016622,
+      51.0657108
+    ],
+    "longitude": -114.016622,
+    "latitude": 51.0657108,
+    "community": "MAYLAND HEIGHTS",
+    "ward": "MAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

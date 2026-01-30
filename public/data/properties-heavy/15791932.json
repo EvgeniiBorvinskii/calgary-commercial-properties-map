@@ -1,0 +1,37 @@
+{
+  "id": "15791932",
+  "fullDetails": {
+    "licenseNumber": "15791932",
+    "name": "BLOOM CULTURE",
+    "address": "#1 3131 68 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-11-12T13:02:21.000Z",
+    "expiryDate": "2026-11-11T13:02:21.000Z",
+    "coordinates": [
+      -114.1847991,
+      51.0807165
+    ],
+    "longitude": -114.1847991,
+    "latitude": 51.0807165,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

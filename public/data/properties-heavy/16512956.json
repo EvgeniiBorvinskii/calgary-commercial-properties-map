@@ -1,0 +1,36 @@
+{
+  "id": "16512956",
+  "fullDetails": {
+    "licenseNumber": "16512956",
+    "name": "QUAD TRADING",
+    "address": "4516 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-07-15T07:59:30.000Z",
+    "expiryDate": "2026-07-14T07:59:29.000Z",
+    "coordinates": [
+      -114.0378528,
+      51.0931404
+    ],
+    "longitude": -114.0378528,
+    "latitude": 51.0931404,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "598383",
+  "fullDetails": {
+    "licenseNumber": "598383",
+    "name": "ALLSPEC COLLISION",
+    "address": "4120 15A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2006-11-03T15:17:47.000Z",
+    "expiryDate": "2026-11-02T15:17:47.000Z",
+    "coordinates": [
+      -114.0232174,
+      51.0178769
+    ],
+    "longitude": -114.0232174,
+    "latitude": 51.0178769,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "13712518",
+  "fullDetails": {
+    "licenseNumber": "13712518",
+    "name": "HOLISTIC INSTITUTE OF HEALTH & FERTILITY",
+    "address": "#143 14919 DEER RIDGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-11-21T10:24:48.000Z",
+    "expiryDate": "2026-11-20T10:24:48.000Z",
+    "coordinates": [
+      -114.0249299,
+      50.9303924
+    ],
+    "longitude": -114.0249299,
+    "latitude": 50.9303924,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

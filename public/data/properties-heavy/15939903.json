@@ -1,0 +1,37 @@
+{
+  "id": "15939903",
+  "fullDetails": {
+    "licenseNumber": "15939903",
+    "name": "E.B. HORSMAN & SON",
+    "address": "#104 11080 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-11-24T09:57:23.000Z",
+    "expiryDate": "2026-11-23T09:57:23.000Z",
+    "coordinates": [
+      -113.960785,
+      50.9542384
+    ],
+    "longitude": -113.960785,
+    "latitude": 50.9542384,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14729610",
+  "fullDetails": {
+    "licenseNumber": "14729610",
+    "name": "FRESHII",
+    "address": "#214 420 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2017-12-05T15:59:46.000Z",
+    "expiryDate": "2026-12-04T15:59:46.000Z",
+    "coordinates": [
+      -114.0671014,
+      51.0489563
+    ],
+    "longitude": -114.0671014,
+    "latitude": 51.0489563,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

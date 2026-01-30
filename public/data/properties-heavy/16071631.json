@@ -1,0 +1,36 @@
+{
+  "id": "16071631",
+  "fullDetails": {
+    "licenseNumber": "16071631",
+    "name": "LINH LY STUDIOS",
+    "address": "5631 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-09-13T15:52:58.000Z",
+    "expiryDate": "2026-09-12T15:52:58.000Z",
+    "coordinates": [
+      -114.0457799,
+      51.0046089
+    ],
+    "longitude": -114.0457799,
+    "latitude": 51.0046089,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

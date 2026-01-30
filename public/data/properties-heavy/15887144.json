@@ -1,0 +1,36 @@
+{
+  "id": "15887144",
+  "fullDetails": {
+    "licenseNumber": "15887144",
+    "name": "CLEARLY",
+    "address": "#2192 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-01-06T10:45:31.000Z",
+    "expiryDate": "2027-01-05T10:45:31.000Z",
+    "coordinates": [
+      -114.0742296,
+      51.0003575
+    ],
+    "longitude": -114.0742296,
+    "latitude": 51.0003575,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

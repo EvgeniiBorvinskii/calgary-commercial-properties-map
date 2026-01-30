@@ -1,0 +1,37 @@
+{
+  "id": "12224838",
+  "fullDetails": {
+    "licenseNumber": "12224838",
+    "name": "GOODWILL INDUSTRIES OF ALBERTA",
+    "address": "1140 137 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2004-05-12T15:54:28.000Z",
+    "expiryDate": "2026-05-11T15:54:27.000Z",
+    "coordinates": [
+      -114.0282297,
+      50.9281978
+    ],
+    "longitude": -114.0282297,
+    "latitude": 50.9281978,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

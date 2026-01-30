@@ -1,0 +1,37 @@
+{
+  "id": "13945225",
+  "fullDetails": {
+    "licenseNumber": "13945225",
+    "name": "TIM HORTON'S #5571",
+    "address": "4705 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2015-07-20T10:03:14.000Z",
+    "expiryDate": "2026-07-19T10:03:14.000Z",
+    "coordinates": [
+      -114.1638214,
+      51.0717362
+    ],
+    "longitude": -114.1638214,
+    "latitude": 51.0717362,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15945892",
+  "fullDetails": {
+    "licenseNumber": "15945892",
+    "name": "CALGARY METAL RECYCLING",
+    "address": "2828 BONNYBROOK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2020-09-26T05:31:29.000Z",
+    "expiryDate": "2026-09-25T05:31:29.000Z",
+    "coordinates": [
+      -114.0294418,
+      51.0271595
+    ],
+    "longitude": -114.0294418,
+    "latitude": 51.0271595,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16627879",
+  "fullDetails": {
+    "licenseNumber": "16627879",
+    "name": "SCREWCO ENT",
+    "address": "7719 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-09T10:12:23.000Z",
+    "expiryDate": "2027-01-08T10:12:22.000Z",
+    "coordinates": [
+      -113.9769997,
+      50.9843419
+    ],
+    "longitude": -113.9769997,
+    "latitude": 50.9843419,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

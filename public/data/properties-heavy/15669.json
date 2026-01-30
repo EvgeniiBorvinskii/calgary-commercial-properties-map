@@ -1,0 +1,36 @@
+{
+  "id": "15669",
+  "fullDetails": {
+    "licenseNumber": "15669",
+    "name": "ZIRCO 1989",
+    "address": "#7 6143 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-06-27T14:49:00.000Z",
+    "expiryDate": "2026-06-26T14:49:00.000Z",
+    "coordinates": [
+      -114.0543443,
+      50.9972012
+    ],
+    "longitude": -114.0543443,
+    "latitude": 50.9972012,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

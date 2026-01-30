@@ -1,0 +1,36 @@
+{
+  "id": "13886734",
+  "fullDetails": {
+    "licenseNumber": "13886734",
+    "name": "CANADA UNIFIED SERVICES",
+    "address": "#115 1925 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL) (PRESSURE WASHING)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL) (PRESSURE WASHING)",
+    "status": "pending",
+    "issuedDate": "2024-03-07T05:30:21.000Z",
+    "expiryDate": "2026-03-06T05:30:21.000Z",
+    "coordinates": [
+      -114.0158663,
+      51.0679823
+    ],
+    "longitude": -114.0158663,
+    "latitude": 51.0679823,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

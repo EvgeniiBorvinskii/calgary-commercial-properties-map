@@ -1,0 +1,36 @@
+{
+  "id": "14959134",
+  "fullDetails": {
+    "licenseNumber": "14959134",
+    "name": "CASEMOGUL",
+    "address": "#238K 250 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-11-14T15:28:40.000Z",
+    "expiryDate": "2026-11-13T15:28:40.000Z",
+    "coordinates": [
+      -114.0670776,
+      51.047866
+    ],
+    "longitude": -114.0670776,
+    "latitude": 51.047866,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

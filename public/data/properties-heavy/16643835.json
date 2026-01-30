@@ -1,0 +1,37 @@
+{
+  "id": "16643835",
+  "fullDetails": {
+    "licenseNumber": "16643835",
+    "name": "RPM AT HOME TEAM",
+    "address": "#302 4014 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-07-07T08:32:29.000Z",
+    "expiryDate": "2026-07-06T08:32:28.000Z",
+    "coordinates": [
+      -114.0624353,
+      51.0180293
+    ],
+    "longitude": -114.0624353,
+    "latitude": 51.0180293,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

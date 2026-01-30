@@ -1,0 +1,36 @@
+{
+  "id": "768655",
+  "fullDetails": {
+    "licenseNumber": "768655",
+    "name": "SHOE COMPANY (THE)",
+    "address": "72 CROWFOOT TC NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-09-24T00:00:00.000Z",
+    "coordinates": [
+      -114.2009475,
+      51.1286299
+    ],
+    "longitude": -114.2009475,
+    "latitude": 51.1286299,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

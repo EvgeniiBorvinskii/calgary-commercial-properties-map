@@ -1,0 +1,36 @@
+{
+  "id": "623629",
+  "fullDetails": {
+    "licenseNumber": "623629",
+    "name": "DRIVING FORCE (THE)",
+    "address": "11375 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-01-26T13:42:43.000Z",
+    "expiryDate": "2027-01-25T13:42:43.000Z",
+    "coordinates": [
+      -113.9661648,
+      50.9515526
+    ],
+    "longitude": -113.9661648,
+    "latitude": 50.9515526,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

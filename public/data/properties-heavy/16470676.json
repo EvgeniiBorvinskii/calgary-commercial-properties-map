@@ -1,0 +1,36 @@
+{
+  "id": "16470676",
+  "fullDetails": {
+    "licenseNumber": "16470676",
+    "name": "THE WINSTON",
+    "address": "1008 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-04-23T10:22:08.000Z",
+    "expiryDate": "2026-04-22T10:22:08.000Z",
+    "coordinates": [
+      -114.0845688,
+      51.0403774
+    ],
+    "longitude": -114.0845688,
+    "latitude": 51.0403774,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

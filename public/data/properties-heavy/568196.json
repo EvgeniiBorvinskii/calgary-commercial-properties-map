@@ -1,0 +1,36 @@
+{
+  "id": "568196",
+  "fullDetails": {
+    "licenseNumber": "568196",
+    "name": "BOUTIQUE LA VIE EN ROSE",
+    "address": "#283 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-19T14:02:44.000Z",
+    "expiryDate": "2026-09-18T14:02:44.000Z",
+    "coordinates": [
+      -114.068771,
+      51.0464509
+    ],
+    "longitude": -114.068771,
+    "latitude": 51.0464509,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

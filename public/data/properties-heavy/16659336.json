@@ -1,0 +1,36 @@
+{
+  "id": "16659336",
+  "fullDetails": {
+    "licenseNumber": "16659336",
+    "name": "PRIME HEARING CLINIC",
+    "address": "#1410 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-27T12:17:49.000Z",
+    "expiryDate": "2026-08-26T12:17:48.000Z",
+    "coordinates": [
+      -113.9517864,
+      51.1548283
+    ],
+    "longitude": -113.9517864,
+    "latitude": 51.1548283,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16440364",
+  "fullDetails": {
+    "licenseNumber": "16440364",
+    "name": "SAMANTHA HAIR SERVICES",
+    "address": "216 RIVERFRONT AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2024-01-29T09:46:31.000Z",
+    "expiryDate": "2026-01-28T09:46:31.000Z",
+    "coordinates": [
+      -114.0667291,
+      51.0525288
+    ],
+    "longitude": -114.0667291,
+    "latitude": 51.0525288,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

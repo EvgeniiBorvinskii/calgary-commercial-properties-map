@@ -1,0 +1,36 @@
+{
+  "id": "16187429",
+  "fullDetails": {
+    "licenseNumber": "16187429",
+    "name": "LEVEL (THE) - 19671 40 ST SE",
+    "address": "19671 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2023-07-26T14:51:33.000Z",
+    "expiryDate": "2026-07-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9516218,
+      50.875297
+    ],
+    "longitude": -113.9516218,
+    "latitude": 50.875297,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

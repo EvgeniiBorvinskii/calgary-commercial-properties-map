@@ -1,0 +1,36 @@
+{
+  "id": "12190526",
+  "fullDetails": {
+    "licenseNumber": "12190526",
+    "name": "HOLIDAY INN EXPRESS - HOTEL & SUITES",
+    "address": "1020 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2003-06-14T05:33:53.000Z",
+    "expiryDate": "2026-06-13T05:33:53.000Z",
+    "coordinates": [
+      -114.0851319,
+      51.0464526
+    ],
+    "longitude": -114.0851319,
+    "latitude": 51.0464526,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

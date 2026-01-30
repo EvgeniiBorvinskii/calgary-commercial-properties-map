@@ -1,0 +1,37 @@
+{
+  "id": "15415276",
+  "fullDetails": {
+    "licenseNumber": "15415276",
+    "name": "UNIVERSAL AUTO SALES/M&A AUTO BODY SHOP",
+    "address": "3627 15A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nAUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2019-08-26T14:26:42.000Z",
+    "expiryDate": "2026-08-25T14:26:42.000Z",
+    "coordinates": [
+      -114.0239913,
+      51.0222375
+    ],
+    "longitude": -114.0239913,
+    "latitude": 51.0222375,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

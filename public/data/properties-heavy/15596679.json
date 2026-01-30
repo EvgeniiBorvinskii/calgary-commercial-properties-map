@@ -1,0 +1,37 @@
+{
+  "id": "15596679",
+  "fullDetails": {
+    "licenseNumber": "15596679",
+    "name": "SURFACE WEST",
+    "address": "#E 1145 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-01-23T05:31:30.000Z",
+    "expiryDate": "2027-01-22T05:31:29.000Z",
+    "coordinates": [
+      -114.0394035,
+      51.0134492
+    ],
+    "longitude": -114.0394035,
+    "latitude": 51.0134492,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

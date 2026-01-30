@@ -1,0 +1,37 @@
+{
+  "id": "16379125",
+  "fullDetails": {
+    "licenseNumber": "16379125",
+    "name": "FABUTAN #01",
+    "address": "#125 8835 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-22T09:22:36.000Z",
+    "expiryDate": "2026-11-21T09:22:36.000Z",
+    "coordinates": [
+      -114.0734469,
+      50.9751755
+    ],
+    "longitude": -114.0734469,
+    "latitude": 50.9751755,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

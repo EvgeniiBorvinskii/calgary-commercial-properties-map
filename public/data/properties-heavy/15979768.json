@@ -1,0 +1,36 @@
+{
+  "id": "15979768",
+  "fullDetails": {
+    "licenseNumber": "15979768",
+    "name": "GATEWAY TRAILER REPAIRS",
+    "address": "8950 INNOVATION AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-02-11T05:31:25.000Z",
+    "expiryDate": "2027-02-10T05:31:25.000Z",
+    "coordinates": [
+      -113.9048921,
+      50.9667881
+    ],
+    "longitude": -113.9048921,
+    "latitude": 50.9667881,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

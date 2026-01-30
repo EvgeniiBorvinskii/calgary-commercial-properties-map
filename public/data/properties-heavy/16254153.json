@@ -1,0 +1,36 @@
+{
+  "id": "16254153",
+  "fullDetails": {
+    "licenseNumber": "16254153",
+    "name": "PLUMBING GALLERY",
+    "address": "2031 CENTRE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-11-04T05:34:00.000Z",
+    "expiryDate": "2026-11-03T05:34:00.000Z",
+    "coordinates": [
+      -114.0071991,
+      51.0516279
+    ],
+    "longitude": -114.0071991,
+    "latitude": 51.0516279,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

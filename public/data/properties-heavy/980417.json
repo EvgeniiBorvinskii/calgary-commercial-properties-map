@@ -1,0 +1,36 @@
+{
+  "id": "980417",
+  "fullDetails": {
+    "licenseNumber": "980417",
+    "name": "MERIT MECHANICAL",
+    "address": "#109 2060 PEGASUS RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2016-02-09T14:50:25.000Z",
+    "expiryDate": "2026-02-08T14:50:25.000Z",
+    "coordinates": [
+      -114.0090221,
+      51.0943713
+    ],
+    "longitude": -114.0090221,
+    "latitude": 51.0943713,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

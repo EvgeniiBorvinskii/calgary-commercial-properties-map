@@ -1,0 +1,36 @@
+{
+  "id": "16626665",
+  "fullDetails": {
+    "licenseNumber": "16626665",
+    "name": "FUEL INNOVATION DESIGN AND MANUFACTURING",
+    "address": "#27 1339 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-07-15T07:33:39.000Z",
+    "expiryDate": "2026-07-14T07:33:38.000Z",
+    "coordinates": [
+      -114.0302462,
+      51.0878302
+    ],
+    "longitude": -114.0302462,
+    "latitude": 51.0878302,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

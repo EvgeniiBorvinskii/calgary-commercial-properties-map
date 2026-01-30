@@ -1,0 +1,37 @@
+{
+  "id": "16714263",
+  "fullDetails": {
+    "licenseNumber": "16714263",
+    "name": "FASHION IQ",
+    "address": "#3125 4250 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-17T12:43:54.000Z",
+    "expiryDate": "2026-12-16T12:43:53.000Z",
+    "coordinates": [
+      -113.9721158,
+      51.1537022
+    ],
+    "longitude": -113.9721158,
+    "latitude": 51.1537022,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

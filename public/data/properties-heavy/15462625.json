@@ -1,0 +1,36 @@
+{
+  "id": "15462625",
+  "fullDetails": {
+    "licenseNumber": "15462625",
+    "name": "BON A-PET-TREAT",
+    "address": "815 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-23T09:23:42.000Z",
+    "expiryDate": "2026-07-22T09:23:42.000Z",
+    "coordinates": [
+      -114.082726,
+      51.0093594
+    ],
+    "longitude": -114.082726,
+    "latitude": 51.0093594,
+    "community": "BRITANNIA",
+    "ward": "BRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

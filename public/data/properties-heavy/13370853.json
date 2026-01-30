@@ -1,0 +1,36 @@
+{
+  "id": "13370853",
+  "fullDetails": {
+    "licenseNumber": "13370853",
+    "name": "VISCOUNT CLEANERS",
+    "address": "2927 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2012-03-21T08:26:16.000Z",
+    "expiryDate": "2026-03-20T08:26:16.000Z",
+    "coordinates": [
+      -114.1289895,
+      51.0255644
+    ],
+    "longitude": -114.1289895,
+    "latitude": 51.0255644,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

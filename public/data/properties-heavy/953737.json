@@ -1,0 +1,36 @@
+{
+  "id": "953737",
+  "fullDetails": {
+    "licenseNumber": "953737",
+    "name": "SOUTHLAND SPORT PHYSIO",
+    "address": "2000 SOUTHLAND DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2003-02-04T05:34:56.000Z",
+    "expiryDate": "2027-02-03T05:34:56.000Z",
+    "coordinates": [
+      -114.1084865,
+      50.9624914
+    ],
+    "longitude": -114.1084865,
+    "latitude": 50.9624914,
+    "community": "PALLISER",
+    "ward": "PAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

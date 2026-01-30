@@ -1,0 +1,37 @@
+{
+  "id": "16529646",
+  "fullDetails": {
+    "licenseNumber": "16529646",
+    "name": "BRIDGES DRUG MART",
+    "address": "72 9 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-07T08:41:07.000Z",
+    "expiryDate": "2026-11-06T08:41:06.000Z",
+    "coordinates": [
+      -114.0401516,
+      51.0513088
+    ],
+    "longitude": -114.0401516,
+    "latitude": 51.0513088,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

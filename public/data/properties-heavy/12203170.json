@@ -1,0 +1,36 @@
+{
+  "id": "12203170",
+  "fullDetails": {
+    "licenseNumber": "12203170",
+    "name": "URBAN BARN",
+    "address": "64 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-08-20T05:34:08.000Z",
+    "expiryDate": "2026-08-19T05:34:08.000Z",
+    "coordinates": [
+      -114.0438556,
+      50.9887343
+    ],
+    "longitude": -114.0438556,
+    "latitude": 50.9887343,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

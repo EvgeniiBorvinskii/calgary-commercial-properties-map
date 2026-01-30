@@ -1,0 +1,36 @@
+{
+  "id": "16521122",
+  "fullDetails": {
+    "licenseNumber": "16521122",
+    "name": "YARMOUTH APARTMENTS",
+    "address": "2109 17 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2025-03-14T08:33:52.000Z",
+    "expiryDate": "2026-03-13T08:33:51.000Z",
+    "coordinates": [
+      -114.1019418,
+      51.0361881
+    ],
+    "longitude": -114.1019418,
+    "latitude": 51.0361881,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

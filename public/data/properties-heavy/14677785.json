@@ -1,0 +1,36 @@
+{
+  "id": "14677785",
+  "fullDetails": {
+    "licenseNumber": "14677785",
+    "name": "DAIRY QUEEN",
+    "address": "#313 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-10-16T12:49:11.000Z",
+    "expiryDate": "2026-10-15T12:49:11.000Z",
+    "coordinates": [
+      -114.1616278,
+      51.1047304
+    ],
+    "longitude": -114.1616278,
+    "latitude": 51.1047304,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

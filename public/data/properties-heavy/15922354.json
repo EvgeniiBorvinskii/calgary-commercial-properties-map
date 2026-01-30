@@ -1,0 +1,36 @@
+{
+  "id": "15922354",
+  "fullDetails": {
+    "licenseNumber": "15922354",
+    "name": "BALANCED APPROACH WELLNESS",
+    "address": "1104 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2020-08-10T11:31:39.000Z",
+    "expiryDate": "2026-08-09T11:31:39.000Z",
+    "coordinates": [
+      -114.0861732,
+      51.0427621
+    ],
+    "longitude": -114.0861732,
+    "latitude": 51.0427621,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

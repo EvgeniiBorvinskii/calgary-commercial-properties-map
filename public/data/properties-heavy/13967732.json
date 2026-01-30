@@ -1,0 +1,36 @@
+{
+  "id": "13967732",
+  "fullDetails": {
+    "licenseNumber": "13967732",
+    "name": "FOREVER YOUNG LASER CLINIC SPA & SALON",
+    "address": "#65 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2017-05-01T05:30:39.000Z",
+    "expiryDate": "2026-04-30T05:30:39.000Z",
+    "coordinates": [
+      -113.971634,
+      50.9301544
+    ],
+    "longitude": -113.971634,
+    "latitude": 50.9301544,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

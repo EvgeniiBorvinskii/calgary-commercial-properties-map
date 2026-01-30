@@ -1,0 +1,36 @@
+{
+  "id": "16476269",
+  "fullDetails": {
+    "licenseNumber": "16476269",
+    "name": "BARBURRITO",
+    "address": "#1010 1155 CORNERSTONE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-30T08:55:21.000Z",
+    "expiryDate": "2026-05-29T08:55:21.000Z",
+    "coordinates": [
+      -113.9400953,
+      51.1550685
+    ],
+    "longitude": -113.9400953,
+    "latitude": 51.1550685,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

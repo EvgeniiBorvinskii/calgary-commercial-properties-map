@@ -1,0 +1,36 @@
+{
+  "id": "12567780",
+  "fullDetails": {
+    "licenseNumber": "12567780",
+    "name": "DI-CORP",
+    "address": "4049R 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2019-03-20T08:57:28.000Z",
+    "expiryDate": "2026-03-19T08:57:28.000Z",
+    "coordinates": [
+      -113.9792968,
+      50.9869734
+    ],
+    "longitude": -113.9792968,
+    "latitude": 50.9869734,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

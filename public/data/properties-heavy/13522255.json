@@ -1,0 +1,37 @@
+{
+  "id": "13522255",
+  "fullDetails": {
+    "licenseNumber": "13522255",
+    "name": "HYDRORENTS BY BRANDSAFWAY",
+    "address": "7041 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-11-25T05:32:29.000Z",
+    "expiryDate": "2026-11-24T05:32:29.000Z",
+    "coordinates": [
+      -114.0577831,
+      50.9919483
+    ],
+    "longitude": -114.0577831,
+    "latitude": 50.9919483,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16447021",
+  "fullDetails": {
+    "licenseNumber": "16447021",
+    "name": "WYLDEWOOD ESTATES",
+    "address": "280 SOUTHLAND DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-04-26T15:14:36.000Z",
+    "expiryDate": "2026-04-25T15:14:36.000Z",
+    "coordinates": [
+      -114.0667827,
+      50.9653695
+    ],
+    "longitude": -114.0667827,
+    "latitude": 50.9653695,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

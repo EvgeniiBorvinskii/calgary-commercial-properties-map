@@ -1,0 +1,36 @@
+{
+  "id": "15053358",
+  "fullDetails": {
+    "licenseNumber": "15053358",
+    "name": "NICOYA AUTO BODY SHOP",
+    "address": "4518 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2019-07-22T09:10:35.000Z",
+    "expiryDate": "2026-07-21T09:10:35.000Z",
+    "coordinates": [
+      -114.0276374,
+      51.0926777
+    ],
+    "longitude": -114.0276374,
+    "latitude": 51.0926777,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

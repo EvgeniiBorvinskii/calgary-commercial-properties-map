@@ -1,0 +1,36 @@
+{
+  "id": "13999669",
+  "fullDetails": {
+    "licenseNumber": "13999669",
+    "name": "ALL SYSTEMS COMMUNICATIONS CONTRACTING",
+    "address": "#3 6025 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-10-26T13:56:28.000Z",
+    "expiryDate": "2026-10-25T13:56:28.000Z",
+    "coordinates": [
+      -114.03532,
+      50.99925
+    ],
+    "longitude": -114.03532,
+    "latitude": 50.99925,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

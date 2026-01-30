@@ -1,0 +1,36 @@
+{
+  "id": "12750972",
+  "fullDetails": {
+    "licenseNumber": "12750972",
+    "name": "VARSITY SHOE REPAIR & ALTERATIONS",
+    "address": "#2 4624 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2009-04-09T05:34:30.000Z",
+    "expiryDate": "2026-04-08T05:34:30.000Z",
+    "coordinates": [
+      -114.154303,
+      51.0935914
+    ],
+    "longitude": -114.154303,
+    "latitude": 51.0935914,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

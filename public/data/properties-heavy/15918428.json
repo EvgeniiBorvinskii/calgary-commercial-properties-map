@@ -1,0 +1,36 @@
+{
+  "id": "15918428",
+  "fullDetails": {
+    "licenseNumber": "15918428",
+    "name": "SHAWARMA PASSION",
+    "address": "#104 218 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-07-13T16:37:37.000Z",
+    "expiryDate": "2026-07-12T16:37:37.000Z",
+    "coordinates": [
+      -113.9483609,
+      51.1243925
+    ],
+    "longitude": -113.9483609,
+    "latitude": 51.1243925,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

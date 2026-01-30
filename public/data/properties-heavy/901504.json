@@ -1,0 +1,37 @@
+{
+  "id": "901504",
+  "fullDetails": {
+    "licenseNumber": "901504",
+    "name": "TIM HORTON DONUTS",
+    "address": "1810 UXBRIDGE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-17T00:00:00.000Z",
+    "coordinates": [
+      -114.1282726,
+      51.0690606
+    ],
+    "longitude": -114.1282726,
+    "latitude": 51.0690606,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

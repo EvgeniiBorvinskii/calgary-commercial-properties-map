@@ -1,0 +1,36 @@
+{
+  "id": "14051585",
+  "fullDetails": {
+    "licenseNumber": "14051585",
+    "name": "PORTFOLIO 1",
+    "address": "121 13 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2016-04-04T09:44:02.000Z",
+    "expiryDate": "2026-04-03T09:44:02.000Z",
+    "coordinates": [
+      -114.064413,
+      51.0402329
+    ],
+    "longitude": -114.064413,
+    "latitude": 51.0402329,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

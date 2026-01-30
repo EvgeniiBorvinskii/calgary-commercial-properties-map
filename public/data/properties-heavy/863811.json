@@ -1,0 +1,36 @@
+{
+  "id": "863811",
+  "fullDetails": {
+    "licenseNumber": "863811",
+    "name": "NATURAL WAY CHIROPRACTIC",
+    "address": "#201 3527 18 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2017-10-03T15:35:07.000Z",
+    "expiryDate": "2024-10-02T15:35:07.000Z",
+    "coordinates": [
+      -114.1052161,
+      51.0222382
+    ],
+    "longitude": -114.1052161,
+    "latitude": 51.0222382,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16080582",
+  "fullDetails": {
+    "licenseNumber": "16080582",
+    "name": "SPRINGBOROUGH PHARMASAVE",
+    "address": "#104 30 SPRINGBOROUGH BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-21T14:11:10.000Z",
+    "expiryDate": "2026-10-20T14:11:10.000Z",
+    "coordinates": [
+      -114.1908282,
+      51.034774
+    ],
+    "longitude": -114.1908282,
+    "latitude": 51.034774,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

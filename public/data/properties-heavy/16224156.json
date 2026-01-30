@@ -1,0 +1,36 @@
+{
+  "id": "16224156",
+  "fullDetails": {
+    "licenseNumber": "16224156",
+    "name": "BLACK BELT BAE TAEKWONDO",
+    "address": "#160 141 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-02-13T15:32:16.000Z",
+    "expiryDate": "2026-02-12T15:32:16.000Z",
+    "coordinates": [
+      -114.0929506,
+      51.1838298
+    ],
+    "longitude": -114.0929506,
+    "latitude": 51.1838298,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16042483",
+  "fullDetails": {
+    "licenseNumber": "16042483",
+    "name": "V-CARE PHARMACY",
+    "address": "4304A 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-30T14:09:02.000Z",
+    "expiryDate": "2026-07-29T14:09:02.000Z",
+    "coordinates": [
+      -113.972636,
+      51.0381352
+    ],
+    "longitude": -113.972636,
+    "latitude": 51.0381352,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

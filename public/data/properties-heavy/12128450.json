@@ -1,0 +1,36 @@
+{
+  "id": "12128450",
+  "fullDetails": {
+    "licenseNumber": "12128450",
+    "name": "GOOD WATER WAREHOUSE",
+    "address": "#6 3967 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-01-27T05:32:47.000Z",
+    "expiryDate": "2027-01-26T05:32:47.000Z",
+    "coordinates": [
+      -113.9789121,
+      50.9513957
+    ],
+    "longitude": -113.9789121,
+    "latitude": 50.9513957,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

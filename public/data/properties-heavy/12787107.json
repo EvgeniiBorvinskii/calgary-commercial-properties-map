@@ -1,0 +1,36 @@
+{
+  "id": "12787107",
+  "fullDetails": {
+    "licenseNumber": "12787107",
+    "name": "CALGARY DROP-IN & REHAB CENTRE SOCIETY (THE)",
+    "address": "835 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2009-04-30T05:34:08.000Z",
+    "expiryDate": "2026-04-29T05:34:08.000Z",
+    "coordinates": [
+      -114.0806917,
+      51.0476732
+    ],
+    "longitude": -114.0806917,
+    "latitude": 51.0476732,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12799458",
+  "fullDetails": {
+    "licenseNumber": "12799458",
+    "name": "HYCAL OVERHEAD CRANE",
+    "address": "7193 108 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2012-09-28T12:16:14.000Z",
+    "expiryDate": "2026-09-27T12:16:14.000Z",
+    "coordinates": [
+      -113.929777,
+      50.9565376
+    ],
+    "longitude": -113.929777,
+    "latitude": 50.9565376,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

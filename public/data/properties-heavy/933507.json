@@ -1,0 +1,36 @@
+{
+  "id": "933507",
+  "fullDetails": {
+    "licenseNumber": "933507",
+    "name": "LES BOUTIQUES LA VIE EN ROSE",
+    "address": "#224 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-01-07T15:55:51.000Z",
+    "expiryDate": "2027-01-06T15:55:51.000Z",
+    "coordinates": [
+      -114.065778,
+      50.953275
+    ],
+    "longitude": -114.065778,
+    "latitude": 50.953275,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

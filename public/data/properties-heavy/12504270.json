@@ -1,0 +1,36 @@
+{
+  "id": "12504270",
+  "fullDetails": {
+    "licenseNumber": "12504270",
+    "name": "BRENTVIEW SALON",
+    "address": "3520 31 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2006-10-02T08:34:00.000Z",
+    "expiryDate": "2026-10-01T08:34:00.000Z",
+    "coordinates": [
+      -114.1286357,
+      51.0841805
+    ],
+    "longitude": -114.1286357,
+    "latitude": 51.0841805,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13730064",
+  "fullDetails": {
+    "licenseNumber": "13730064",
+    "name": "XLNC FURNITURE & MATTRESSES",
+    "address": "#G 2020 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-06-16T15:24:15.000Z",
+    "expiryDate": "2026-06-15T15:24:15.000Z",
+    "coordinates": [
+      -114.0095407,
+      51.0819696
+    ],
+    "longitude": -114.0095407,
+    "latitude": 51.0819696,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

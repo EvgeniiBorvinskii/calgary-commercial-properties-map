@@ -1,0 +1,36 @@
+{
+  "id": "12419826",
+  "fullDetails": {
+    "licenseNumber": "12419826",
+    "name": "TUDOR ARMS APARTMENT BUILDING",
+    "address": "515 19 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2005-11-26T05:32:27.000Z",
+    "expiryDate": "2026-11-25T05:32:26.000Z",
+    "coordinates": [
+      -114.0724301,
+      51.0358154
+    ],
+    "longitude": -114.0724301,
+    "latitude": 51.0358154,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

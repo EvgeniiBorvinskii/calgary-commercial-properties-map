@@ -1,0 +1,36 @@
+{
+  "id": "15012172",
+  "fullDetails": {
+    "licenseNumber": "15012172",
+    "name": "REVOLUTION DANCE STUDIOS",
+    "address": "239 MIDPARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-08-28T09:49:07.000Z",
+    "expiryDate": "2026-08-27T09:49:07.000Z",
+    "coordinates": [
+      -114.0625363,
+      50.9119818
+    ],
+    "longitude": -114.0625363,
+    "latitude": 50.9119818,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

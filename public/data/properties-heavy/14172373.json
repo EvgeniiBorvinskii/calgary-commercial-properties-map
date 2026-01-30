@@ -1,0 +1,36 @@
+{
+  "id": "14172373",
+  "fullDetails": {
+    "licenseNumber": "14172373",
+    "name": "HAIR ART SALON & SPA",
+    "address": "#330 15 ROYAL VISTA PL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-06-20T16:10:38.000Z",
+    "expiryDate": "2026-06-19T16:10:38.000Z",
+    "coordinates": [
+      -114.2100853,
+      51.1508984
+    ],
+    "longitude": -114.2100853,
+    "latitude": 51.1508984,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

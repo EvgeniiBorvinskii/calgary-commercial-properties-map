@@ -1,0 +1,36 @@
+{
+  "id": "16133506",
+  "fullDetails": {
+    "licenseNumber": "16133506",
+    "name": "LUX WINDOWS AND GLASS",
+    "address": "5535 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2025-04-16T09:31:39.000Z",
+    "expiryDate": "2026-04-15T09:31:39.000Z",
+    "coordinates": [
+      -114.0370829,
+      51.1016904
+    ],
+    "longitude": -114.0370829,
+    "latitude": 51.1016904,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

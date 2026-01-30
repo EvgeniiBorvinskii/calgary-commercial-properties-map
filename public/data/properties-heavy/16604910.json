@@ -1,0 +1,37 @@
+{
+  "id": "16604910",
+  "fullDetails": {
+    "licenseNumber": "16604910",
+    "name": "UNFILTERED WINE BAR",
+    "address": "1020 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-06-11T15:04:17.000Z",
+    "expiryDate": "2026-06-10T15:04:16.000Z",
+    "coordinates": [
+      -114.0944465,
+      51.0438591
+    ],
+    "longitude": -114.0944465,
+    "latitude": 51.0438591,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15957103",
+  "fullDetails": {
+    "licenseNumber": "15957103",
+    "name": "CHALLENGER MANUFACTURING",
+    "address": "#3 5815 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-01-06T09:56:29.000Z",
+    "expiryDate": "2027-01-05T09:56:29.000Z",
+    "coordinates": [
+      -113.9775372,
+      51.0008164
+    ],
+    "longitude": -113.9775372,
+    "latitude": 51.0008164,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

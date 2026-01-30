@@ -1,0 +1,37 @@
+{
+  "id": "16209017",
+  "fullDetails": {
+    "licenseNumber": "16209017",
+    "name": "ESSO SOUTHVIEW",
+    "address": "2825 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2022-11-17T13:53:28.000Z",
+    "expiryDate": "2026-11-16T13:53:28.000Z",
+    "coordinates": [
+      -113.9919999,
+      51.0373007
+    ],
+    "longitude": -113.9919999,
+    "latitude": 51.0373007,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

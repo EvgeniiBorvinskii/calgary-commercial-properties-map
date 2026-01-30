@@ -1,0 +1,36 @@
+{
+  "id": "16546319",
+  "fullDetails": {
+    "licenseNumber": "16546319",
+    "name": "T & M AUTO BODY",
+    "address": "#4 4616 6A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2025-02-27T14:03:15.000Z",
+    "expiryDate": "2026-02-26T14:03:15.000Z",
+    "coordinates": [
+      -114.0464309,
+      51.0936631
+    ],
+    "longitude": -114.0464309,
+    "latitude": 51.0936631,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "786418",
+  "fullDetails": {
+    "licenseNumber": "786418",
+    "name": "AVALON MASTER BUILDER / AVALON INDUSTRIES",
+    "address": "#221 4615 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2014-03-12T11:09:15.000Z",
+    "expiryDate": "2026-03-11T11:09:15.000Z",
+    "coordinates": [
+      -113.9685439,
+      50.9514293
+    ],
+    "longitude": -113.9685439,
+    "latitude": 50.9514293,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

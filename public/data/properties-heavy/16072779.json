@@ -1,0 +1,36 @@
+{
+  "id": "16072779",
+  "fullDetails": {
+    "licenseNumber": "16072779",
+    "name": "LUCIAESTHETICS",
+    "address": "#1 503 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2022-08-26T14:03:31.000Z",
+    "expiryDate": "2026-08-25T14:03:31.000Z",
+    "coordinates": [
+      -114.0718111,
+      51.0375996
+    ],
+    "longitude": -114.0718111,
+    "latitude": 51.0375996,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

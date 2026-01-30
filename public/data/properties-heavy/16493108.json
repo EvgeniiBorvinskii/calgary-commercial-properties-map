@@ -1,0 +1,37 @@
+{
+  "id": "16493108",
+  "fullDetails": {
+    "licenseNumber": "16493108",
+    "name": "DELISH PIZZA",
+    "address": "#8 33 HARVEST HILLS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-06-06T09:55:55.000Z",
+    "expiryDate": "2026-06-05T09:55:55.000Z",
+    "coordinates": [
+      -114.0506132,
+      51.1509056
+    ],
+    "longitude": -114.0506132,
+    "latitude": 51.1509056,
+    "community": "HARVEST HILLS",
+    "ward": "HAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

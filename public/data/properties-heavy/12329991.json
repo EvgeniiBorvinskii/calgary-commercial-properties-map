@@ -1,0 +1,37 @@
+{
+  "id": "12329991",
+  "fullDetails": {
+    "licenseNumber": "12329991",
+    "name": "CROWCHILD COIN CARWASH",
+    "address": "516 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2004-12-22T14:21:15.000Z",
+    "expiryDate": "2026-12-21T14:21:15.000Z",
+    "coordinates": [
+      -114.1174558,
+      51.0569893
+    ],
+    "longitude": -114.1174558,
+    "latitude": 51.0569893,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

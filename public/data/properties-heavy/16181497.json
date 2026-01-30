@@ -1,0 +1,37 @@
+{
+  "id": "16181497",
+  "fullDetails": {
+    "licenseNumber": "16181497",
+    "name": "ULTIMATE CUTS",
+    "address": "3963 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-07-20T13:13:44.000Z",
+    "expiryDate": "2026-07-19T13:13:44.000Z",
+    "coordinates": [
+      -114.1441257,
+      51.03737
+    ],
+    "longitude": -114.1441257,
+    "latitude": 51.03737,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

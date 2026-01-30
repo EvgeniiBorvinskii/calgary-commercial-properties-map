@@ -1,0 +1,37 @@
+{
+  "id": "16378168",
+  "fullDetails": {
+    "licenseNumber": "16378168",
+    "name": "BRAR INDIAN CUISINE AND SWEET HOUSE",
+    "address": "#15 5315 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-10-19T10:58:32.000Z",
+    "expiryDate": "2026-10-18T10:58:32.000Z",
+    "coordinates": [
+      -113.9567823,
+      51.0373577
+    ],
+    "longitude": -113.9567823,
+    "latitude": 51.0373577,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14075717",
+  "fullDetails": {
+    "licenseNumber": "14075717",
+    "name": "BIG BEN CLEANING",
+    "address": "#1 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2021-01-13T05:30:14.000Z",
+    "expiryDate": "2027-01-12T05:30:14.000Z",
+    "coordinates": [
+      -114.0287709,
+      51.0884318
+    ],
+    "longitude": -114.0287709,
+    "latitude": 51.0884318,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16036212",
+  "fullDetails": {
+    "licenseNumber": "16036212",
+    "name": "GO FURNACE",
+    "address": "4526 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-02-17T14:21:29.000Z",
+    "expiryDate": "2027-02-16T14:21:29.000Z",
+    "coordinates": [
+      -114.0272204,
+      51.0926785
+    ],
+    "longitude": -114.0272204,
+    "latitude": 51.0926785,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

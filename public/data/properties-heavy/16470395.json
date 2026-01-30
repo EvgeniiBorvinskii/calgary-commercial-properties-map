@@ -1,0 +1,36 @@
+{
+  "id": "16470395",
+  "fullDetails": {
+    "licenseNumber": "16470395",
+    "name": "TUK TUK THAI",
+    "address": "#8FC 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-16T10:17:31.000Z",
+    "expiryDate": "2026-04-15T10:17:31.000Z",
+    "coordinates": [
+      -114.0645053,
+      50.9528447
+    ],
+    "longitude": -114.0645053,
+    "latitude": 50.9528447,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16626020",
+  "fullDetails": {
+    "licenseNumber": "16626020",
+    "name": "CLEO",
+    "address": "#146 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-09T15:52:44.000Z",
+    "expiryDate": "2026-07-08T15:52:43.000Z",
+    "coordinates": [
+      -113.985678,
+      51.0738788
+    ],
+    "longitude": -113.985678,
+    "latitude": 51.0738788,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

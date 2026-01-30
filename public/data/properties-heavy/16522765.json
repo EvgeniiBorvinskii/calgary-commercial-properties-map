@@ -1,0 +1,36 @@
+{
+  "id": "16522765",
+  "fullDetails": {
+    "licenseNumber": "16522765",
+    "name": "LODGING HOUSE",
+    "address": "708 75 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2025-02-18T08:36:41.000Z",
+    "expiryDate": "2027-02-17T08:36:40.000Z",
+    "coordinates": [
+      -114.0798383,
+      50.9861987
+    ],
+    "longitude": -114.0798383,
+    "latitude": 50.9861987,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

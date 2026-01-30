@@ -1,0 +1,37 @@
+{
+  "id": "16533010",
+  "fullDetails": {
+    "licenseNumber": "16533010",
+    "name": "37ST BARBERSHOP",
+    "address": "#26 4604 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-21T08:37:50.000Z",
+    "expiryDate": "2026-10-20T08:37:49.000Z",
+    "coordinates": [
+      -114.1396751,
+      51.0133368
+    ],
+    "longitude": -114.1396751,
+    "latitude": 51.0133368,
+    "community": "RUTLAND PARK",
+    "ward": "RUT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

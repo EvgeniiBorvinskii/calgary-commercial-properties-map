@@ -1,0 +1,36 @@
+{
+  "id": "13942594",
+  "fullDetails": {
+    "licenseNumber": "13942594",
+    "name": "WAL-MART PORTRAIT STUDIO #3010",
+    "address": "9650 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2015-06-09T05:33:26.000Z",
+    "expiryDate": "2026-06-08T05:33:26.000Z",
+    "coordinates": [
+      -114.0692383,
+      50.9660485
+    ],
+    "longitude": -114.0692383,
+    "latitude": 50.9660485,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

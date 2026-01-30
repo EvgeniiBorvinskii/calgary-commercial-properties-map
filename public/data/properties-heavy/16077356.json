@@ -1,0 +1,37 @@
+{
+  "id": "16077356",
+  "fullDetails": {
+    "licenseNumber": "16077356",
+    "name": "BOW VALLEY ATHLETIC CLUB",
+    "address": "#370 250 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING),",
+    "licenseTypes": "FOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING),\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2021-11-01T12:30:36.000Z",
+    "expiryDate": "2026-10-31T12:30:36.000Z",
+    "coordinates": [
+      -114.0670776,
+      51.047866
+    ],
+    "longitude": -114.0670776,
+    "latitude": 51.047866,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

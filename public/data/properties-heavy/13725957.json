@@ -1,0 +1,36 @@
+{
+  "id": "13725957",
+  "fullDetails": {
+    "licenseNumber": "13725957",
+    "name": "SHADOW TINT",
+    "address": "4664 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2013-08-23T08:31:48.000Z",
+    "expiryDate": "2026-08-22T08:31:48.000Z",
+    "coordinates": [
+      -114.0650049,
+      51.0114239
+    ],
+    "longitude": -114.0650049,
+    "latitude": 51.0114239,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

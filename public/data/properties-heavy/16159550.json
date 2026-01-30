@@ -1,0 +1,36 @@
+{
+  "id": "16159550",
+  "fullDetails": {
+    "licenseNumber": "16159550",
+    "name": "GENCO HOMES",
+    "address": "#2135 30 SAVANNA CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-22T10:42:49.000Z",
+    "expiryDate": "2026-10-21T10:42:48.000Z",
+    "coordinates": [
+      -113.9478486,
+      51.1333322
+    ],
+    "longitude": -113.9478486,
+    "latitude": 51.1333322,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

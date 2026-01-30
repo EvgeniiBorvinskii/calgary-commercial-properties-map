@@ -1,0 +1,36 @@
+{
+  "id": "16338261",
+  "fullDetails": {
+    "licenseNumber": "16338261",
+    "name": "STRETCHLAB",
+    "address": "#218 366 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-29T16:31:48.000Z",
+    "expiryDate": "2026-09-28T16:31:48.000Z",
+    "coordinates": [
+      -114.2091908,
+      51.0400644
+    ],
+    "longitude": -114.2091908,
+    "latitude": 51.0400644,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

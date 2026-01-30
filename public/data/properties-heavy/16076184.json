@@ -1,0 +1,36 @@
+{
+  "id": "16076184",
+  "fullDetails": {
+    "licenseNumber": "16076184",
+    "name": "STUMPCRAFT",
+    "address": "#2D 6115 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-09-08T09:18:40.000Z",
+    "expiryDate": "2026-09-07T09:18:40.000Z",
+    "coordinates": [
+      -114.0577332,
+      50.9983433
+    ],
+    "longitude": -114.0577332,
+    "latitude": 50.9983433,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

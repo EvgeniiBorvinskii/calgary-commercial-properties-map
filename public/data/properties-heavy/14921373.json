@@ -1,0 +1,36 @@
+{
+  "id": "14921373",
+  "fullDetails": {
+    "licenseNumber": "14921373",
+    "name": "SOHO 1",
+    "address": "738 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2018-10-03T14:44:20.000Z",
+    "expiryDate": "2026-10-02T14:44:20.000Z",
+    "coordinates": [
+      -114.0787876,
+      51.0401836
+    ],
+    "longitude": -114.0787876,
+    "latitude": 51.0401836,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12204996",
+  "fullDetails": {
+    "licenseNumber": "12204996",
+    "name": "GMS MACHINE WORKS",
+    "address": "#19 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-09-04T11:50:48.000Z",
+    "expiryDate": "2026-09-03T11:50:48.000Z",
+    "coordinates": [
+      -113.9845836,
+      50.9916783
+    ],
+    "longitude": -113.9845836,
+    "latitude": 50.9916783,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

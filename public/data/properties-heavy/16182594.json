@@ -1,0 +1,36 @@
+{
+  "id": "16182594",
+  "fullDetails": {
+    "licenseNumber": "16182594",
+    "name": "REGAL NAILS SALON & SPA",
+    "address": "#1100 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2022-09-28T10:27:52.000Z",
+    "expiryDate": "2026-09-27T10:27:52.000Z",
+    "coordinates": [
+      -113.9784233,
+      51.0536543
+    ],
+    "longitude": -113.9784233,
+    "latitude": 51.0536543,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

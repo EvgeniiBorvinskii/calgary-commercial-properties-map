@@ -1,0 +1,37 @@
+{
+  "id": "700294",
+  "fullDetails": {
+    "licenseNumber": "700294",
+    "name": "GUITARWORKS",
+    "address": "#G5 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-02T11:51:02.000Z",
+    "expiryDate": "2026-07-01T11:51:02.000Z",
+    "coordinates": [
+      -114.1549996,
+      51.0861214
+    ],
+    "longitude": -114.1549996,
+    "latitude": 51.0861214,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

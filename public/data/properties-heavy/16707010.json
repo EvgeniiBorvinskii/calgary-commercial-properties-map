@@ -1,0 +1,36 @@
+{
+  "id": "16707010",
+  "fullDetails": {
+    "licenseNumber": "16707010",
+    "name": "LA REINA AESTHETICS",
+    "address": "#314 6707 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2026-01-08T09:05:26.000Z",
+    "expiryDate": "2027-01-07T09:05:26.000Z",
+    "coordinates": [
+      -114.0841407,
+      50.9935419
+    ],
+    "longitude": -114.0841407,
+    "latitude": 50.9935419,
+    "community": "KELVIN GROVE",
+    "ward": "KEL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

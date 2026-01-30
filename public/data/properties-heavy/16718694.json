@@ -1,0 +1,36 @@
+{
+  "id": "16718694",
+  "fullDetails": {
+    "licenseNumber": "16718694",
+    "name": "BOSS LIQUOR DISCOUNTER",
+    "address": "#270 2971 136 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2026-01-12T12:55:50.000Z",
+    "expiryDate": "2027-01-11T12:55:49.000Z",
+    "coordinates": [
+      -114.1330727,
+      51.175002
+    ],
+    "longitude": -114.1330727,
+    "latitude": 51.175002,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

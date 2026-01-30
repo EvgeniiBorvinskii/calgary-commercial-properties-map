@@ -1,0 +1,36 @@
+{
+  "id": "15993017",
+  "fullDetails": {
+    "licenseNumber": "15993017",
+    "name": "HAIRSTYLING",
+    "address": "#205 8855 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2021-02-18T11:27:53.000Z",
+    "expiryDate": "2026-02-17T11:27:53.000Z",
+    "coordinates": [
+      -114.072897,
+      50.9746442
+    ],
+    "longitude": -114.072897,
+    "latitude": 50.9746442,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

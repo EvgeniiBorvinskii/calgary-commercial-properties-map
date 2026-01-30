@@ -1,0 +1,37 @@
+{
+  "id": "610634",
+  "fullDetails": {
+    "licenseNumber": "610634",
+    "name": "CONCEPT ONE",
+    "address": "18 HIGHFIELD CI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2002-01-09T12:07:15.000Z",
+    "expiryDate": "2027-01-07T05:44:52.000Z",
+    "coordinates": [
+      -114.0459086,
+      51.0132968
+    ],
+    "longitude": -114.0459086,
+    "latitude": 51.0132968,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

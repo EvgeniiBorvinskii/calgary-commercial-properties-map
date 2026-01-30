@@ -1,0 +1,36 @@
+{
+  "id": "16014938",
+  "fullDetails": {
+    "licenseNumber": "16014938",
+    "name": "LIQUOR PLEX",
+    "address": "1030 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-05-06T14:44:45.000Z",
+    "expiryDate": "2026-05-05T14:44:45.000Z",
+    "coordinates": [
+      -114.0846284,
+      51.0671303
+    ],
+    "longitude": -114.0846284,
+    "latitude": 51.0671303,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

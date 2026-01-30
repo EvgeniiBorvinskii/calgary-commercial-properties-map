@@ -1,0 +1,37 @@
+{
+  "id": "16190670",
+  "fullDetails": {
+    "licenseNumber": "16190670",
+    "name": "ST MARK JAMES TRAINING",
+    "address": "#110 3359 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-21T20:37:27.000Z",
+    "expiryDate": "2026-09-20T20:37:26.000Z",
+    "coordinates": [
+      -113.9949916,
+      51.0829054
+    ],
+    "longitude": -113.9949916,
+    "latitude": 51.0829054,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

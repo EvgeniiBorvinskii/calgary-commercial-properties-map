@@ -1,0 +1,36 @@
+{
+  "id": "12055950",
+  "fullDetails": {
+    "licenseNumber": "12055950",
+    "name": "CALHEX INDUSTRIES",
+    "address": "9515 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2005-10-17T13:26:54.000Z",
+    "expiryDate": "2026-10-16T13:26:54.000Z",
+    "coordinates": [
+      -113.9643669,
+      50.9682428
+    ],
+    "longitude": -113.9643669,
+    "latitude": 50.9682428,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

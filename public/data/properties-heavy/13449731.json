@@ -1,0 +1,36 @@
+{
+  "id": "13449731",
+  "fullDetails": {
+    "licenseNumber": "13449731",
+    "name": "NORTH CALGARY DANCE CENTRE",
+    "address": "#2114 12 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-10-12T08:17:09.000Z",
+    "expiryDate": "2026-10-11T08:17:09.000Z",
+    "coordinates": [
+      -114.2058934,
+      51.1527196
+    ],
+    "longitude": -114.2058934,
+    "latitude": 51.1527196,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

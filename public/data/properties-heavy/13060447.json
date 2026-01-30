@@ -1,0 +1,36 @@
+{
+  "id": "13060447",
+  "fullDetails": {
+    "licenseNumber": "13060447",
+    "name": "PMO GLOBAL SERVICES",
+    "address": "#910 250 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-04-08T05:30:24.000Z",
+    "expiryDate": "2026-04-07T05:30:24.000Z",
+    "coordinates": [
+      -114.0670765,
+      51.0477883
+    ],
+    "longitude": -114.0670765,
+    "latitude": 51.0477883,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

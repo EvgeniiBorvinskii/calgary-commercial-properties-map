@@ -1,0 +1,37 @@
+{
+  "id": "16723793",
+  "fullDetails": {
+    "licenseNumber": "16723793",
+    "name": "BUD MART",
+    "address": "#115 14919 DEER RIDGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2026-01-16T15:49:58.000Z",
+    "expiryDate": "2027-01-15T15:49:57.000Z",
+    "coordinates": [
+      -114.0250998,
+      50.9299969
+    ],
+    "longitude": -114.0250998,
+    "latitude": 50.9299969,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

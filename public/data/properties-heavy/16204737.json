@@ -1,0 +1,36 @@
+{
+  "id": "16204737",
+  "fullDetails": {
+    "licenseNumber": "16204737",
+    "name": "FIFTH AVENUE HOMES",
+    "address": "#620 10201 SOUTHPORT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2023-02-22T16:32:56.000Z",
+    "expiryDate": "2026-02-21T16:32:56.000Z",
+    "coordinates": [
+      -114.0731437,
+      50.9637576
+    ],
+    "longitude": -114.0731437,
+    "latitude": 50.9637576,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

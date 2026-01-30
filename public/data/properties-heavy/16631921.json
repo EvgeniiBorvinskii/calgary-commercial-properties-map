@@ -1,0 +1,36 @@
+{
+  "id": "16631921",
+  "fullDetails": {
+    "licenseNumber": "16631921",
+    "name": "BANG BANG BANH MI",
+    "address": "#132 3604 52 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-18T10:35:22.000Z",
+    "expiryDate": "2026-06-17T10:35:22.000Z",
+    "coordinates": [
+      -114.1388848,
+      51.1017297
+    ],
+    "longitude": -114.1388848,
+    "latitude": 51.1017297,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

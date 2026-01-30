@@ -1,0 +1,36 @@
+{
+  "id": "16526972",
+  "fullDetails": {
+    "licenseNumber": "16526972",
+    "name": "IRON MOUNTAIN CANADA",
+    "address": "5811 26 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-09-11T09:39:24.000Z",
+    "expiryDate": "2026-09-10T09:39:24.000Z",
+    "coordinates": [
+      -113.9986476,
+      51.0048968
+    ],
+    "longitude": -113.9986476,
+    "latitude": 51.0048968,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16094278",
+  "fullDetails": {
+    "licenseNumber": "16094278",
+    "name": "CALGARY BARBELL",
+    "address": "5421 11 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2022-09-06T12:24:15.000Z",
+    "expiryDate": "2026-09-05T12:24:15.000Z",
+    "coordinates": [
+      -114.0371647,
+      51.1007432
+    ],
+    "longitude": -114.0371647,
+    "latitude": 51.1007432,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

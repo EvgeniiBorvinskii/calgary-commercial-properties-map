@@ -1,0 +1,36 @@
+{
+  "id": "13877634",
+  "fullDetails": {
+    "licenseNumber": "13877634",
+    "name": "ENGAGE BUILDING PRODUCTS",
+    "address": "#101 4441 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-01-29T10:41:22.000Z",
+    "expiryDate": "2026-01-28T10:41:22.000Z",
+    "coordinates": [
+      -113.9707455,
+      50.9845357
+    ],
+    "longitude": -113.9707455,
+    "latitude": 50.9845357,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

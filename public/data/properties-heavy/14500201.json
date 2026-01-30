@@ -1,0 +1,36 @@
+{
+  "id": "14500201",
+  "fullDetails": {
+    "licenseNumber": "14500201",
+    "name": "OFFICIAL PLUMBING & HEATING",
+    "address": "#5 5710 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-11T12:14:04.000Z",
+    "expiryDate": "2026-12-10T12:14:04.000Z",
+    "coordinates": [
+      -113.9868192,
+      51.0018089
+    ],
+    "longitude": -113.9868192,
+    "latitude": 51.0018089,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

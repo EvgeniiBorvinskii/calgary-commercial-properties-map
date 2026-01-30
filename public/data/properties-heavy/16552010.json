@@ -1,0 +1,36 @@
+{
+  "id": "16552010",
+  "fullDetails": {
+    "licenseNumber": "16552010",
+    "name": "ROYAL PIZZA SIGNAL HILL",
+    "address": "#412 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-12-06T13:02:17.000Z",
+    "expiryDate": "2026-12-05T13:02:17.000Z",
+    "coordinates": [
+      -114.1673874,
+      51.0370653
+    ],
+    "longitude": -114.1673874,
+    "latitude": 51.0370653,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

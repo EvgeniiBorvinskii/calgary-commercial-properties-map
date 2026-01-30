@@ -1,0 +1,37 @@
+{
+  "id": "711168",
+  "fullDetails": {
+    "licenseNumber": "711168",
+    "name": "AUTOMOTIVE VILLAGE NE",
+    "address": "1633 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-05-29T14:59:57.000Z",
+    "expiryDate": "2026-05-28T14:59:57.000Z",
+    "coordinates": [
+      -114.021804,
+      51.0810125
+    ],
+    "longitude": -114.021804,
+    "latitude": 51.0810125,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16340481",
+  "fullDetails": {
+    "licenseNumber": "16340481",
+    "name": "PETRO-CANADA",
+    "address": "100 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-07-18T11:10:25.000Z",
+    "expiryDate": "2026-07-17T11:10:25.000Z",
+    "coordinates": [
+      -114.2058586,
+      51.1256826
+    ],
+    "longitude": -114.2058586,
+    "latitude": 51.1256826,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

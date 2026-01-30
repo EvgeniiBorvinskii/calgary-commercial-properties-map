@@ -1,0 +1,36 @@
+{
+  "id": "16640260",
+  "fullDetails": {
+    "licenseNumber": "16640260",
+    "name": "QUADREAL PROPERTY GROUP",
+    "address": "11 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-11-17T15:24:17.000Z",
+    "expiryDate": "2026-11-16T15:24:17.000Z",
+    "coordinates": [
+      -114.2047758,
+      51.1521007
+    ],
+    "longitude": -114.2047758,
+    "latitude": 51.1521007,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

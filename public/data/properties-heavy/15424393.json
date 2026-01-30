@@ -1,0 +1,37 @@
+{
+  "id": "15424393",
+  "fullDetails": {
+    "licenseNumber": "15424393",
+    "name": "HUEY LAM SUITS",
+    "address": "#110 901 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-07-22T14:28:49.000Z",
+    "expiryDate": "2026-07-21T14:28:49.000Z",
+    "coordinates": [
+      -114.0628849,
+      51.0599469
+    ],
+    "longitude": -114.0628849,
+    "latitude": 51.0599469,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15208416",
+  "fullDetails": {
+    "licenseNumber": "15208416",
+    "name": "SODO",
+    "address": "620 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2019-01-28T14:22:43.000Z",
+    "expiryDate": "2026-01-27T14:22:43.000Z",
+    "coordinates": [
+      -114.0754382,
+      51.04398
+    ],
+    "longitude": -114.0754382,
+    "latitude": 51.04398,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

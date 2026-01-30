@@ -1,0 +1,36 @@
+{
+  "id": "16661274",
+  "fullDetails": {
+    "licenseNumber": "16661274",
+    "name": "CALGARY DESI GROCERIES",
+    "address": "#2110 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-10T10:51:59.000Z",
+    "expiryDate": "2026-09-09T10:51:58.000Z",
+    "coordinates": [
+      -113.964402,
+      51.1320455
+    ],
+    "longitude": -113.964402,
+    "latitude": 51.1320455,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "76190",
+  "fullDetails": {
+    "licenseNumber": "76190",
+    "name": "PREMIUM RENOVATIONS",
+    "address": "#108 3907 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2015-02-05T10:48:10.000Z",
+    "expiryDate": "2026-02-04T10:48:10.000Z",
+    "coordinates": [
+      -114.0541538,
+      51.0871365
+    ],
+    "longitude": -114.0541538,
+    "latitude": 51.0871365,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

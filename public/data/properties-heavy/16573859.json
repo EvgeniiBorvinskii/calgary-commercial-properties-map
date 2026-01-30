@@ -1,0 +1,37 @@
+{
+  "id": "16573859",
+  "fullDetails": {
+    "licenseNumber": "16573859",
+    "name": "KENSINGTON TAILORING AND DRY CLEANING",
+    "address": "111 18 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "FABRIC CLEANING,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-10-16T14:14:38.000Z",
+    "expiryDate": "2026-10-15T14:14:38.000Z",
+    "coordinates": [
+      -114.1027095,
+      51.0528377
+    ],
+    "longitude": -114.1027095,
+    "latitude": 51.0528377,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

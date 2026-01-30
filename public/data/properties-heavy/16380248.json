@@ -1,0 +1,36 @@
+{
+  "id": "16380248",
+  "fullDetails": {
+    "licenseNumber": "16380248",
+    "name": "EXPRESS MOTORS",
+    "address": "1818 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-01-30T09:21:11.000Z",
+    "expiryDate": "2026-01-29T09:21:11.000Z",
+    "coordinates": [
+      -113.9825938,
+      51.0364583
+    ],
+    "longitude": -113.9825938,
+    "latitude": 51.0364583,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

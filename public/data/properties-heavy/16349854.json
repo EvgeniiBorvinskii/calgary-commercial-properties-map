@@ -1,0 +1,36 @@
+{
+  "id": "16349854",
+  "fullDetails": {
+    "licenseNumber": "16349854",
+    "name": "EVERY.DAY.FOODS.",
+    "address": "608 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-14T14:52:46.000Z",
+    "expiryDate": "2026-07-13T14:52:46.000Z",
+    "coordinates": [
+      -114.0646484,
+      51.0471559
+    ],
+    "longitude": -114.0646484,
+    "latitude": 51.0471559,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

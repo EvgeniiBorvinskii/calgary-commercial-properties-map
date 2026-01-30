@@ -1,0 +1,36 @@
+{
+  "id": "12551255",
+  "fullDetails": {
+    "licenseNumber": "12551255",
+    "name": "WESTCAN BUILDERS",
+    "address": "#2 4616 6A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2010-05-07T05:50:58.000Z",
+    "expiryDate": "2026-05-06T05:50:58.000Z",
+    "coordinates": [
+      -114.0464309,
+      51.0936631
+    ],
+    "longitude": -114.0464309,
+    "latitude": 51.0936631,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

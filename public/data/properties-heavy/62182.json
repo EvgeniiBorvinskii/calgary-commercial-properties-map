@@ -1,0 +1,36 @@
+{
+  "id": "62182",
+  "fullDetails": {
+    "licenseNumber": "62182",
+    "name": "TDL DRYWALL",
+    "address": "#200 4279 120 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2003-10-16T05:35:39.000Z",
+    "expiryDate": "2026-10-15T05:35:39.000Z",
+    "coordinates": [
+      -113.9735272,
+      50.9428325
+    ],
+    "longitude": -113.9735272,
+    "latitude": 50.9428325,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

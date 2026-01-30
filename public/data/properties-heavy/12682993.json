@@ -1,0 +1,36 @@
+{
+  "id": "12682993",
+  "fullDetails": {
+    "licenseNumber": "12682993",
+    "name": "ARTOPEX",
+    "address": "3619 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2010-04-09T05:47:25.000Z",
+    "expiryDate": "2026-04-08T05:47:25.000Z",
+    "coordinates": [
+      -114.0438978,
+      51.022457
+    ],
+    "longitude": -114.0438978,
+    "latitude": 51.022457,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

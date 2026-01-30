@@ -1,0 +1,36 @@
+{
+  "id": "13838404",
+  "fullDetails": {
+    "licenseNumber": "13838404",
+    "name": "TAIKO TACO (FSFV) (CGY-733)",
+    "address": "3851 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2014-08-14T13:40:39.000Z",
+    "expiryDate": "2026-08-13T13:40:39.000Z",
+    "coordinates": [
+      -114.0586229,
+      51.0203319
+    ],
+    "longitude": -114.0586229,
+    "latitude": 51.0203319,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13906540",
+  "fullDetails": {
+    "licenseNumber": "13906540",
+    "name": "SADDLERIDGE BOTTLE DEPOT",
+    "address": "4207 80 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2015-01-14T14:20:46.000Z",
+    "expiryDate": "2027-01-13T14:20:46.000Z",
+    "coordinates": [
+      -113.9730642,
+      51.1244206
+    ],
+    "longitude": -113.9730642,
+    "latitude": 51.1244206,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

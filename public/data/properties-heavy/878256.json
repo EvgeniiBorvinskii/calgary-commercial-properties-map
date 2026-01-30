@@ -1,0 +1,37 @@
+{
+  "id": "878256",
+  "fullDetails": {
+    "licenseNumber": "878256",
+    "name": "WEASELHEAD BAR & GRILL",
+    "address": "#30 4604 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "",
+    "expiryDate": "2026-01-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1397978,
+      51.0132075
+    ],
+    "longitude": -114.1397978,
+    "latitude": 51.0132075,
+    "community": "RUTLAND PARK",
+    "ward": "RUT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

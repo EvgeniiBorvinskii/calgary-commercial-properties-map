@@ -1,0 +1,36 @@
+{
+  "id": "935049",
+  "fullDetails": {
+    "licenseNumber": "935049",
+    "name": "CANADIAN REMARKETING GROUP",
+    "address": "4116 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-05-21T05:34:18.000Z",
+    "expiryDate": "2026-05-20T05:34:18.000Z",
+    "coordinates": [
+      -113.9751478,
+      51.0093021
+    ],
+    "longitude": -113.9751478,
+    "latitude": 51.0093021,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

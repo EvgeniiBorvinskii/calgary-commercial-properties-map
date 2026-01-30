@@ -1,0 +1,36 @@
+{
+  "id": "15960263",
+  "fullDetails": {
+    "licenseNumber": "15960263",
+    "name": "EAST VILLAGE LIQUOR BOUTIQUE",
+    "address": "605 6 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2021-11-05T09:47:33.000Z",
+    "expiryDate": "2026-11-04T09:47:33.000Z",
+    "coordinates": [
+      -114.0503181,
+      51.046922
+    ],
+    "longitude": -114.0503181,
+    "latitude": 51.046922,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

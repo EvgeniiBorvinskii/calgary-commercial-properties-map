@@ -1,0 +1,36 @@
+{
+  "id": "12194346",
+  "fullDetails": {
+    "licenseNumber": "12194346",
+    "name": "TWISTER INSTRUMENTATION & PROCESS SOLUTIONS",
+    "address": "#144 5050 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-10-06T13:23:31.000Z",
+    "expiryDate": "2026-10-05T13:23:31.000Z",
+    "coordinates": [
+      -113.9620482,
+      50.9583563
+    ],
+    "longitude": -113.9620482,
+    "latitude": 50.9583563,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

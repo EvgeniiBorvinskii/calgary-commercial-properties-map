@@ -1,0 +1,37 @@
+{
+  "id": "14080543",
+  "fullDetails": {
+    "licenseNumber": "14080543",
+    "name": "FUSION SUSHI",
+    "address": "#159 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-02-29T12:16:25.000Z",
+    "expiryDate": "2026-02-27T12:16:25.000Z",
+    "coordinates": [
+      -114.1983072,
+      51.1233023
+    ],
+    "longitude": -114.1983072,
+    "latitude": 51.1233023,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

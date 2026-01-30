@@ -1,0 +1,36 @@
+{
+  "id": "14826077",
+  "fullDetails": {
+    "licenseNumber": "14826077",
+    "name": "CALGARY L&G",
+    "address": "2900 ALYTH RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-03-06T10:40:29.000Z",
+    "expiryDate": "2026-03-05T10:40:29.000Z",
+    "coordinates": [
+      -114.0207373,
+      51.0280302
+    ],
+    "longitude": -114.0207373,
+    "latitude": 51.0280302,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

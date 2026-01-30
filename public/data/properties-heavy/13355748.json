@@ -1,0 +1,36 @@
+{
+  "id": "13355748",
+  "fullDetails": {
+    "licenseNumber": "13355748",
+    "name": "MANCHESTER BOTTLE DEPOT",
+    "address": "410 38A AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "pending",
+    "issuedDate": "2012-02-03T09:46:11.000Z",
+    "expiryDate": "2026-02-02T09:46:11.000Z",
+    "coordinates": [
+      -114.0551914,
+      51.0199644
+    ],
+    "longitude": -114.0551914,
+    "latitude": 51.0199644,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

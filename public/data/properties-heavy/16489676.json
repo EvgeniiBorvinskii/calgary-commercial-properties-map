@@ -1,0 +1,36 @@
+{
+  "id": "16489676",
+  "fullDetails": {
+    "licenseNumber": "16489676",
+    "name": "BARBURRITO",
+    "address": "5420 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-31T13:31:40.000Z",
+    "expiryDate": "2026-05-30T13:31:40.000Z",
+    "coordinates": [
+      -113.956455,
+      51.0981227
+    ],
+    "longitude": -113.956455,
+    "latitude": 51.0981227,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

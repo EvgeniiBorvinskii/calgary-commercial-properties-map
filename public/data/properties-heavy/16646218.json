@@ -1,0 +1,36 @@
+{
+  "id": "16646218",
+  "fullDetails": {
+    "licenseNumber": "16646218",
+    "name": "BLACKHEART TATTOO STUDIO",
+    "address": "1010 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "in_progress",
+    "issuedDate": "2025-07-09T13:52:19.000Z",
+    "expiryDate": "2026-07-08T13:52:18.000Z",
+    "coordinates": [
+      -114.0581052,
+      51.0428726
+    ],
+    "longitude": -114.0581052,
+    "latitude": 51.0428726,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16562308",
+  "fullDetails": {
+    "licenseNumber": "16562308",
+    "name": "SCARPETTA CUCINA ITALIANA",
+    "address": "645 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-01-20T08:43:14.000Z",
+    "expiryDate": "2027-01-19T08:43:13.000Z",
+    "coordinates": [
+      -114.0761465,
+      51.043484
+    ],
+    "longitude": -114.0761465,
+    "latitude": 51.043484,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

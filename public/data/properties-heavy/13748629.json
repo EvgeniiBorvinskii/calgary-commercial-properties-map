@@ -1,0 +1,36 @@
+{
+  "id": "13748629",
+  "fullDetails": {
+    "licenseNumber": "13748629",
+    "name": "C A E SAFETY CONSULTANTS",
+    "address": "#6 343 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2023-11-21T08:29:22.000Z",
+    "expiryDate": "2026-11-20T08:29:22.000Z",
+    "coordinates": [
+      -114.0566507,
+      50.9931093
+    ],
+    "longitude": -114.0566507,
+    "latitude": 50.9931093,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

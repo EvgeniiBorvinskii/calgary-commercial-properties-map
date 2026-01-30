@@ -1,0 +1,36 @@
+{
+  "id": "15552227",
+  "fullDetails": {
+    "licenseNumber": "15552227",
+    "name": "MAINSTREET EQUITY",
+    "address": "305 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-08-16T12:01:25.000Z",
+    "expiryDate": "2026-08-15T12:01:25.000Z",
+    "coordinates": [
+      -114.057836,
+      51.0429065
+    ],
+    "longitude": -114.057836,
+    "latitude": 51.0429065,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

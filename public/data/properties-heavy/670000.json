@@ -1,0 +1,36 @@
+{
+  "id": "670000",
+  "fullDetails": {
+    "licenseNumber": "670000",
+    "name": "WESTCOMM PUMP & EQUIPMENT",
+    "address": "#2 3424 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-08-11T05:33:35.000Z",
+    "expiryDate": "2026-08-10T05:33:35.000Z",
+    "coordinates": [
+      -113.9971496,
+      51.0840263
+    ],
+    "longitude": -113.9971496,
+    "latitude": 51.0840263,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

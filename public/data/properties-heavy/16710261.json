@@ -1,0 +1,36 @@
+{
+  "id": "16710261",
+  "fullDetails": {
+    "licenseNumber": "16710261",
+    "name": "KACHI KACHI WORLD CATERING",
+    "address": "5735 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES (NON-RES)",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES (NON-RES)",
+    "status": "active",
+    "issuedDate": "2025-12-04T15:14:05.000Z",
+    "expiryDate": "2026-12-03T15:14:05.000Z",
+    "coordinates": [
+      -114.0576873,
+      51.0030658
+    ],
+    "longitude": -114.0576873,
+    "latitude": 51.0030658,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

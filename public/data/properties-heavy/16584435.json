@@ -1,0 +1,37 @@
+{
+  "id": "16584435",
+  "fullDetails": {
+    "licenseNumber": "16584435",
+    "name": "ARDENT ROOF SYSTEMS AND EXTERIORS",
+    "address": "#40 999 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "subType": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED),\nDISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "pending",
+    "issuedDate": "2025-03-11T12:44:14.000Z",
+    "expiryDate": "2026-03-10T12:44:13.000Z",
+    "coordinates": [
+      -114.0415783,
+      51.1049178
+    ],
+    "longitude": -114.0415783,
+    "latitude": 51.1049178,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

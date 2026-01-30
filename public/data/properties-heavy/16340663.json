@@ -1,0 +1,37 @@
+{
+  "id": "16340663",
+  "fullDetails": {
+    "licenseNumber": "16340663",
+    "name": "PALAK STUDIOINK",
+    "address": "#235 12318 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-17T14:25:39.000Z",
+    "expiryDate": "2026-11-16T14:25:38.000Z",
+    "coordinates": [
+      -113.9929559,
+      51.1646644
+    ],
+    "longitude": -113.9929559,
+    "latitude": 51.1646644,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

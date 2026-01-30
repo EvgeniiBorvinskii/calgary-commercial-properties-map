@@ -1,0 +1,36 @@
+{
+  "id": "15864473",
+  "fullDetails": {
+    "licenseNumber": "15864473",
+    "name": "HAZA RENTALS",
+    "address": "4045 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2020-02-26T15:22:18.000Z",
+    "expiryDate": "2026-02-25T15:22:18.000Z",
+    "coordinates": [
+      -113.979938,
+      50.9667203
+    ],
+    "longitude": -113.979938,
+    "latitude": 50.9667203,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

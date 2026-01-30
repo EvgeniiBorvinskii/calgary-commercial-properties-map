@@ -1,0 +1,37 @@
+{
+  "id": "12770053",
+  "fullDetails": {
+    "licenseNumber": "12770053",
+    "name": "CALYPSO GREEK TAVERNA",
+    "address": "2101 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2009-05-04T15:07:30.000Z",
+    "expiryDate": "2026-05-03T15:07:30.000Z",
+    "coordinates": [
+      -114.0630992,
+      51.0708397
+    ],
+    "longitude": -114.0630992,
+    "latitude": 51.0708397,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

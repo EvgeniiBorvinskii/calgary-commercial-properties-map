@@ -1,0 +1,36 @@
+{
+  "id": "14604268",
+  "fullDetails": {
+    "licenseNumber": "14604268",
+    "name": "KOR DANCEWORKS",
+    "address": "#2113 19605 WALDEN BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-09-08T09:16:27.000Z",
+    "expiryDate": "2026-09-07T09:16:27.000Z",
+    "coordinates": [
+      -114.0261028,
+      50.8756214
+    ],
+    "longitude": -114.0261028,
+    "latitude": 50.8756214,
+    "community": "WALDEN",
+    "ward": "WAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

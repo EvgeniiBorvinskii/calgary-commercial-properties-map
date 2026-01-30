@@ -1,0 +1,37 @@
+{
+  "id": "16492993",
+  "fullDetails": {
+    "licenseNumber": "16492993",
+    "name": "WOKBOX BRAE",
+    "address": "#9 11440 BRAESIDE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-14T08:40:44.000Z",
+    "expiryDate": "2026-05-13T08:40:44.000Z",
+    "coordinates": [
+      -114.1158265,
+      50.9532677
+    ],
+    "longitude": -114.1158265,
+    "latitude": 50.9532677,
+    "community": "BRAESIDE",
+    "ward": "BRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "988048",
+  "fullDetails": {
+    "licenseNumber": "988048",
+    "name": "MCKINLEY MASTERS",
+    "address": "8544 47 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2006-01-24T13:40:28.000Z",
+    "expiryDate": "2027-01-23T13:40:28.000Z",
+    "coordinates": [
+      -114.2106168,
+      51.0952983
+    ],
+    "longitude": -114.2106168,
+    "latitude": 51.0952983,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

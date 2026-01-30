@@ -1,0 +1,36 @@
+{
+  "id": "16130056",
+  "fullDetails": {
+    "licenseNumber": "16130056",
+    "name": "BOLDER MENSWEAR",
+    "address": "#119 333 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-02-17T15:55:43.000Z",
+    "expiryDate": "2026-02-16T15:55:43.000Z",
+    "coordinates": [
+      -114.2076519,
+      51.0396936
+    ],
+    "longitude": -114.2076519,
+    "latitude": 51.0396936,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

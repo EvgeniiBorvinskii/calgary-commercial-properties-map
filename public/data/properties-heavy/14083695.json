@@ -1,0 +1,36 @@
+{
+  "id": "14083695",
+  "fullDetails": {
+    "licenseNumber": "14083695",
+    "name": "WALLBOARD TRIM & TOOL",
+    "address": "#115 3016 10 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2016-04-14T10:15:32.000Z",
+    "expiryDate": "2026-04-13T10:15:32.000Z",
+    "coordinates": [
+      -113.9914041,
+      51.062527
+    ],
+    "longitude": -113.9914041,
+    "latitude": 51.062527,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

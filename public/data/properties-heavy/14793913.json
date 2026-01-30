@@ -1,0 +1,36 @@
+{
+  "id": "14793913",
+  "fullDetails": {
+    "licenseNumber": "14793913",
+    "name": "ROWE KIDS",
+    "address": "#120 1212 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-10-17T08:50:59.000Z",
+    "expiryDate": "2026-10-16T08:50:59.000Z",
+    "coordinates": [
+      -114.0373361,
+      51.0235188
+    ],
+    "longitude": -114.0373361,
+    "latitude": 51.0235188,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

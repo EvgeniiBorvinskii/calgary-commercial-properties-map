@@ -1,0 +1,36 @@
+{
+  "id": "15976335",
+  "fullDetails": {
+    "licenseNumber": "15976335",
+    "name": "AQUINAS COLLEGE",
+    "address": "#400 9705C HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2023-09-22T09:01:37.000Z",
+    "expiryDate": "2026-09-21T09:01:37.000Z",
+    "coordinates": [
+      -114.0754902,
+      50.9680089
+    ],
+    "longitude": -114.0754902,
+    "latitude": 50.9680089,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

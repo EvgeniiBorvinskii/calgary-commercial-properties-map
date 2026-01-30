@@ -1,0 +1,37 @@
+{
+  "id": "16208753",
+  "fullDetails": {
+    "licenseNumber": "16208753",
+    "name": "500 COLLECTIVE",
+    "address": "#300 321 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-16T07:22:03.000Z",
+    "expiryDate": "2026-10-15T07:22:03.000Z",
+    "coordinates": [
+      -114.0586812,
+      51.0081561
+    ],
+    "longitude": -114.0586812,
+    "latitude": 51.0081561,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

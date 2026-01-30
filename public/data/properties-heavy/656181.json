@@ -1,0 +1,36 @@
+{
+  "id": "656181",
+  "fullDetails": {
+    "licenseNumber": "656181",
+    "name": "DUTCH PASTRY BOUTIQUE",
+    "address": "7440 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-01-31T05:35:02.000Z",
+    "expiryDate": "2027-01-30T05:35:02.000Z",
+    "coordinates": [
+      -114.0401353,
+      51.1188752
+    ],
+    "longitude": -114.0401353,
+    "latitude": 51.1188752,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

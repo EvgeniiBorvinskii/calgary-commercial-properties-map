@@ -1,0 +1,37 @@
+{
+  "id": "16593642",
+  "fullDetails": {
+    "licenseNumber": "16593642",
+    "name": "PHO THANH NGA VIETNAMESE RESTAURANT",
+    "address": "#6002 356 CRANSTON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-02-24T14:43:19.000Z",
+    "expiryDate": "2026-02-23T14:43:18.000Z",
+    "coordinates": [
+      -113.977437,
+      50.8801517
+    ],
+    "longitude": -113.977437,
+    "latitude": 50.8801517,
+    "community": "CRANSTON",
+    "ward": "CRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

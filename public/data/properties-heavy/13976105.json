@@ -1,0 +1,36 @@
+{
+  "id": "13976105",
+  "fullDetails": {
+    "licenseNumber": "13976105",
+    "name": "SUPER NATURE SOLUTIONS",
+    "address": "#147 2710 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-02-17T08:29:27.000Z",
+    "expiryDate": "2027-02-16T08:29:27.000Z",
+    "coordinates": [
+      -113.9968958,
+      51.0552603
+    ],
+    "longitude": -113.9968958,
+    "latitude": 51.0552603,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

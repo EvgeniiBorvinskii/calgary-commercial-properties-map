@@ -1,0 +1,36 @@
+{
+  "id": "16308546",
+  "fullDetails": {
+    "licenseNumber": "16308546",
+    "name": "WFRFIRE",
+    "address": "#129 7155 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-11-09T05:34:56.000Z",
+    "expiryDate": "2026-11-08T05:34:56.000Z",
+    "coordinates": [
+      -113.9475366,
+      50.9897706
+    ],
+    "longitude": -113.9475366,
+    "latitude": 50.9897706,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

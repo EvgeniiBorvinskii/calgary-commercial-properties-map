@@ -1,0 +1,36 @@
+{
+  "id": "16643454",
+  "fullDetails": {
+    "licenseNumber": "16643454",
+    "name": "RITZ MAKEUP STUDIO AND SPA",
+    "address": "#125 270 NOLANRIDGE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-07-08T13:00:47.000Z",
+    "expiryDate": "2026-07-07T13:00:46.000Z",
+    "coordinates": [
+      -114.1727088,
+      51.1701544
+    ],
+    "longitude": -114.1727088,
+    "latitude": 51.1701544,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "ward": "02C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16413643",
+  "fullDetails": {
+    "licenseNumber": "16413643",
+    "name": "SKIN LASER GENESIS",
+    "address": "#52 6130 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-16T14:53:53.000Z",
+    "expiryDate": "2026-09-15T14:53:52.000Z",
+    "coordinates": [
+      -114.0665189,
+      50.9982287
+    ],
+    "longitude": -114.0665189,
+    "latitude": 50.9982287,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

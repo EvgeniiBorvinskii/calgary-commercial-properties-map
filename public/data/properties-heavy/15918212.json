@@ -1,0 +1,36 @@
+{
+  "id": "15918212",
+  "fullDetails": {
+    "licenseNumber": "15918212",
+    "name": "CODE NINJAS MARDA LOOP",
+    "address": "#208 2032 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-05T08:04:22.000Z",
+    "expiryDate": "2026-11-04T08:04:22.000Z",
+    "coordinates": [
+      -114.108432,
+      51.0243314
+    ],
+    "longitude": -114.108432,
+    "latitude": 51.0243314,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16465247",
+  "fullDetails": {
+    "licenseNumber": "16465247",
+    "name": "PHONE STATION",
+    "address": "#69 3131 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-23T12:28:47.000Z",
+    "expiryDate": "2026-04-22T12:28:47.000Z",
+    "coordinates": [
+      -113.9963759,
+      51.0799808
+    ],
+    "longitude": -113.9963759,
+    "latitude": 51.0799808,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

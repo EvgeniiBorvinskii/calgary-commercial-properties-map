@@ -1,0 +1,37 @@
+{
+  "id": "16605750",
+  "fullDetails": {
+    "licenseNumber": "16605750",
+    "name": "SEPHORA",
+    "address": "#3132 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-16T15:55:22.000Z",
+    "expiryDate": "2026-05-15T15:55:22.000Z",
+    "coordinates": [
+      -114.0411326,
+      51.1090826
+    ],
+    "longitude": -114.0411326,
+    "latitude": 51.1090826,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

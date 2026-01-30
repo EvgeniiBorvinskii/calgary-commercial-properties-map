@@ -1,0 +1,36 @@
+{
+  "id": "736074",
+  "fullDetails": {
+    "licenseNumber": "736074",
+    "name": "COUNTRY LIVING FURNISHINGS",
+    "address": "#A 3919 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-11T13:32:33.000Z",
+    "expiryDate": "2026-07-10T13:32:33.000Z",
+    "coordinates": [
+      -114.1433057,
+      51.0206386
+    ],
+    "longitude": -114.1433057,
+    "latitude": 51.0206386,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

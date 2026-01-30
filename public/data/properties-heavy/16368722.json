@@ -1,0 +1,36 @@
+{
+  "id": "16368722",
+  "fullDetails": {
+    "licenseNumber": "16368722",
+    "name": "SIP A TEA - THE BUBBLE TEA EXPERTS",
+    "address": "#1817 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-11-01T15:02:25.000Z",
+    "expiryDate": "2026-10-31T15:02:25.000Z",
+    "coordinates": [
+      -114.1023498,
+      51.0657672
+    ],
+    "longitude": -114.1023498,
+    "latitude": 51.0657672,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

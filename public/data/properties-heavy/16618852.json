@@ -1,0 +1,36 @@
+{
+  "id": "16618852",
+  "fullDetails": {
+    "licenseNumber": "16618852",
+    "name": "AUGUST10",
+    "address": "#10 1934 34 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-14T12:29:51.000Z",
+    "expiryDate": "2026-07-13T12:29:50.000Z",
+    "coordinates": [
+      -114.106416,
+      51.0233866
+    ],
+    "longitude": -114.106416,
+    "latitude": 51.0233866,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

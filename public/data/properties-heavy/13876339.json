@@ -1,0 +1,37 @@
+{
+  "id": "13876339",
+  "fullDetails": {
+    "licenseNumber": "13876339",
+    "name": "TOP DOG STORE (THE)",
+    "address": "#4 5010 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "KENNEL SERVICE/PET DEALER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "KENNEL SERVICE/PET DEALER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-12-01T13:48:16.000Z",
+    "expiryDate": "2026-11-30T13:48:16.000Z",
+    "coordinates": [
+      -114.0529492,
+      51.0963934
+    ],
+    "longitude": -114.0529492,
+    "latitude": 51.0963934,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

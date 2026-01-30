@@ -1,0 +1,36 @@
+{
+  "id": "14080345",
+  "fullDetails": {
+    "licenseNumber": "14080345",
+    "name": "CUBE ENTERTAINMENT",
+    "address": "#191 5330 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT",
+    "status": "pending",
+    "issuedDate": "2016-02-24T12:22:42.000Z",
+    "expiryDate": "2026-02-23T12:22:42.000Z",
+    "coordinates": [
+      -113.9569363,
+      50.9902789
+    ],
+    "longitude": -113.9569363,
+    "latitude": 50.9902789,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

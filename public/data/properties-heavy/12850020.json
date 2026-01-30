@@ -1,0 +1,36 @@
+{
+  "id": "12850020",
+  "fullDetails": {
+    "licenseNumber": "12850020",
+    "name": "SHUSWAP SKI & BOARD",
+    "address": "#1 521 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2010-09-08T10:23:59.000Z",
+    "expiryDate": "2026-09-07T10:23:59.000Z",
+    "coordinates": [
+      -114.0517004,
+      51.0006873
+    ],
+    "longitude": -114.0517004,
+    "latitude": 51.0006873,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

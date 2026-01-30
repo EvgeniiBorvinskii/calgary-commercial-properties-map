@@ -1,0 +1,36 @@
+{
+  "id": "345058",
+  "fullDetails": {
+    "licenseNumber": "345058",
+    "name": "SERVICEMASTER OF CALGARY JMS",
+    "address": "#1 3530 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-07T00:00:00.000Z",
+    "coordinates": [
+      -114.0335798,
+      51.0841708
+    ],
+    "longitude": -114.0335798,
+    "latitude": 51.0841708,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

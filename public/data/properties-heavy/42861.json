@@ -1,0 +1,36 @@
+{
+  "id": "42861",
+  "fullDetails": {
+    "licenseNumber": "42861",
+    "name": "JANSSEN HOMES",
+    "address": "6733 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-09-18T10:06:02.000Z",
+    "expiryDate": "2026-09-17T10:06:02.000Z",
+    "coordinates": [
+      -114.0646374,
+      50.9928983
+    ],
+    "longitude": -114.0646374,
+    "latitude": 50.9928983,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

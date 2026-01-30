@@ -1,0 +1,36 @@
+{
+  "id": "12501946",
+  "fullDetails": {
+    "licenseNumber": "12501946",
+    "name": "TRYZUB UKRAINIAN DANCE STUDIO",
+    "address": "#115 3953 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2008-03-14T05:41:09.000Z",
+    "expiryDate": "2026-03-13T05:41:09.000Z",
+    "coordinates": [
+      -113.9803726,
+      50.9520323
+    ],
+    "longitude": -113.9803726,
+    "latitude": 50.9520323,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

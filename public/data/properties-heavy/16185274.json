@@ -1,0 +1,37 @@
+{
+  "id": "16185274",
+  "fullDetails": {
+    "licenseNumber": "16185274",
+    "name": "FOUNDATION BARBERSHOP",
+    "address": "#3 1335 9 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-11-07T15:37:07.000Z",
+    "expiryDate": "2026-11-06T15:37:07.000Z",
+    "coordinates": [
+      -114.032395,
+      51.0403826
+    ],
+    "longitude": -114.032395,
+    "latitude": 51.0403826,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

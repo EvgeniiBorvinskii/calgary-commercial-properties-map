@@ -1,0 +1,36 @@
+{
+  "id": "16107955",
+  "fullDetails": {
+    "licenseNumber": "16107955",
+    "name": "CELLULAR FIX",
+    "address": "#60 1200 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-29T15:21:05.000Z",
+    "expiryDate": "2026-12-28T15:21:05.000Z",
+    "coordinates": [
+      -114.1393982,
+      51.0415803
+    ],
+    "longitude": -114.1393982,
+    "latitude": 51.0415803,
+    "community": "Unknown",
+    "ward": "",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

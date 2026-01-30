@@ -1,0 +1,36 @@
+{
+  "id": "15561012",
+  "fullDetails": {
+    "licenseNumber": "15561012",
+    "name": "BE2BE HAIR SALON",
+    "address": "8220 BOWRIDGE CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-06-13T12:41:14.000Z",
+    "expiryDate": "2026-06-12T12:41:14.000Z",
+    "coordinates": [
+      -114.2059457,
+      51.0833707
+    ],
+    "longitude": -114.2059457,
+    "latitude": 51.0833707,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

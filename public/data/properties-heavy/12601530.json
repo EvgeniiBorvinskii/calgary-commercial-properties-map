@@ -1,0 +1,37 @@
+{
+  "id": "12601530",
+  "fullDetails": {
+    "licenseNumber": "12601530",
+    "name": "CANYON MEADOWS CINEMAS",
+    "address": "#110 13226 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CINEMA",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "CINEMA,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2008-04-01T07:00:29.000Z",
+    "expiryDate": "2026-03-31T07:00:29.000Z",
+    "coordinates": [
+      -114.066151,
+      50.9325485
+    ],
+    "longitude": -114.066151,
+    "latitude": 50.9325485,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

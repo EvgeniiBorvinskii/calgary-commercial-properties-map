@@ -1,0 +1,37 @@
+{
+  "id": "281519",
+  "fullDetails": {
+    "licenseNumber": "281519",
+    "name": "WAL-MART CANADA",
+    "address": "1110 57 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2004-12-02T11:52:18.000Z",
+    "expiryDate": "2026-12-01T11:52:18.000Z",
+    "coordinates": [
+      -114.0378496,
+      51.1075272
+    ],
+    "longitude": -114.0378496,
+    "latitude": 51.1075272,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

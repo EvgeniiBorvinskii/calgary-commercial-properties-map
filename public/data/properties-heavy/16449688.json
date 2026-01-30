@@ -1,0 +1,36 @@
+{
+  "id": "16449688",
+  "fullDetails": {
+    "licenseNumber": "16449688",
+    "name": "DEAR LASH",
+    "address": "1230A 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2024-02-23T15:43:31.000Z",
+    "expiryDate": "2026-02-22T15:43:31.000Z",
+    "coordinates": [
+      -114.0908777,
+      51.0380975
+    ],
+    "longitude": -114.0908777,
+    "latitude": 51.0380975,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

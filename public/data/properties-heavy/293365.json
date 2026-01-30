@@ -1,0 +1,36 @@
+{
+  "id": "293365",
+  "fullDetails": {
+    "licenseNumber": "293365",
+    "name": "REGISTRY SERVICES",
+    "address": "#610 19587 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-04T15:59:39.000Z",
+    "expiryDate": "2026-08-03T15:59:39.000Z",
+    "coordinates": [
+      -113.9595108,
+      50.8795982
+    ],
+    "longitude": -113.9595108,
+    "latitude": 50.8795982,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

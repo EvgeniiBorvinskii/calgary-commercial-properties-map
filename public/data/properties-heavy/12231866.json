@@ -1,0 +1,36 @@
+{
+  "id": "12231866",
+  "fullDetails": {
+    "licenseNumber": "12231866",
+    "name": "EVOLUTION AV",
+    "address": "#129 2312 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2016-04-04T15:25:42.000Z",
+    "expiryDate": "2026-04-03T15:25:42.000Z",
+    "coordinates": [
+      -114.004639,
+      51.0074207
+    ],
+    "longitude": -114.004639,
+    "latitude": 51.0074207,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

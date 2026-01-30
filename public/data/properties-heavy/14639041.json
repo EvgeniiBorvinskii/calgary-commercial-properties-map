@@ -1,0 +1,36 @@
+{
+  "id": "14639041",
+  "fullDetails": {
+    "licenseNumber": "14639041",
+    "name": "BOYD AUTOBODY & GLASS #11108",
+    "address": "37 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2017-11-14T11:15:14.000Z",
+    "expiryDate": "2026-11-13T11:15:14.000Z",
+    "coordinates": [
+      -114.2008633,
+      51.1517194
+    ],
+    "longitude": -114.2008633,
+    "latitude": 51.1517194,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

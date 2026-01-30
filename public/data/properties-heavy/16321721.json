@@ -1,0 +1,36 @@
+{
+  "id": "16321721",
+  "fullDetails": {
+    "licenseNumber": "16321721",
+    "name": "ATCO FRONTEC / ATCO FIRE PREVENTION SERVICES",
+    "address": "3122 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-23T14:02:12.000Z",
+    "expiryDate": "2026-12-22T14:02:11.000Z",
+    "coordinates": [
+      -113.994052,
+      50.9502798
+    ],
+    "longitude": -113.994052,
+    "latitude": 50.9502798,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

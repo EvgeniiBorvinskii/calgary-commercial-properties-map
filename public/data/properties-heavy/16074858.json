@@ -1,0 +1,36 @@
+{
+  "id": "16074858",
+  "fullDetails": {
+    "licenseNumber": "16074858",
+    "name": "TRINITY HILLS EYECARE",
+    "address": "913 NA'A DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-27T16:35:50.000Z",
+    "expiryDate": "2026-10-26T16:35:50.000Z",
+    "coordinates": [
+      -114.1953239,
+      51.0797078
+    ],
+    "longitude": -114.1953239,
+    "latitude": 51.0797078,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14814255",
+  "fullDetails": {
+    "licenseNumber": "14814255",
+    "name": "GALAXY AUTO REPAIRS",
+    "address": "#7 3850 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-03-02T15:40:38.000Z",
+    "expiryDate": "2027-03-01T15:40:38.000Z",
+    "coordinates": [
+      -114.0106475,
+      51.087272
+    ],
+    "longitude": -114.0106475,
+    "latitude": 51.087272,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

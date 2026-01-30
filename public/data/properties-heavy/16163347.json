@@ -1,0 +1,36 @@
+{
+  "id": "16163347",
+  "fullDetails": {
+    "licenseNumber": "16163347",
+    "name": "FISH CREEK CARWASH",
+    "address": "15211 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "pending",
+    "issuedDate": "2024-02-29T10:52:48.000Z",
+    "expiryDate": "2026-02-27T10:52:48.000Z",
+    "coordinates": [
+      -114.0680662,
+      50.9168261
+    ],
+    "longitude": -114.0680662,
+    "latitude": 50.9168261,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15950637",
+  "fullDetails": {
+    "licenseNumber": "15950637",
+    "name": "BLANCO CANTINA",
+    "address": "8537 BROADCAST AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2020-12-08T15:29:30.000Z",
+    "expiryDate": "2026-12-07T15:29:30.000Z",
+    "coordinates": [
+      -114.2104404,
+      51.0645361
+    ],
+    "longitude": -114.2104404,
+    "latitude": 51.0645361,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

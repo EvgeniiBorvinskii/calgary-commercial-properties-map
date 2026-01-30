@@ -1,0 +1,36 @@
+{
+  "id": "15825672",
+  "fullDetails": {
+    "licenseNumber": "15825672",
+    "name": "JIFFY LUBE #1111",
+    "address": "#1 5725 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-11-21T07:46:12.000Z",
+    "expiryDate": "2026-11-20T07:46:12.000Z",
+    "coordinates": [
+      -113.9524353,
+      51.0374278
+    ],
+    "longitude": -113.9524353,
+    "latitude": 51.0374278,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15851900",
+  "fullDetails": {
+    "licenseNumber": "15851900",
+    "name": "ENERGY SAFETY CANADA",
+    "address": "#150 2 SMED LN SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-12-13T15:12:10.000Z",
+    "expiryDate": "2026-12-12T15:12:10.000Z",
+    "coordinates": [
+      -113.9568037,
+      50.9953905
+    ],
+    "longitude": -113.9568037,
+    "latitude": 50.9953905,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

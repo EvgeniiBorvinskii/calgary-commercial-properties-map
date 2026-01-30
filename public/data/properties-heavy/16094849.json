@@ -1,0 +1,36 @@
+{
+  "id": "16094849",
+  "fullDetails": {
+    "licenseNumber": "16094849",
+    "name": "BELLA VIE NAILS & SPA",
+    "address": "#224 500 ROYAL OAK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2021-10-25T15:11:52.000Z",
+    "expiryDate": "2026-10-24T15:11:52.000Z",
+    "coordinates": [
+      -114.2333274,
+      51.1394444
+    ],
+    "longitude": -114.2333274,
+    "latitude": 51.1394444,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15092786",
+  "fullDetails": {
+    "licenseNumber": "15092786",
+    "name": "STRUCTUBE FURNITURE & ACCESSORIES",
+    "address": "#4105 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-11-13T15:56:53.000Z",
+    "expiryDate": "2026-11-12T15:56:53.000Z",
+    "coordinates": [
+      -114.0409002,
+      51.1091704
+    ],
+    "longitude": -114.0409002,
+    "latitude": 51.1091704,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

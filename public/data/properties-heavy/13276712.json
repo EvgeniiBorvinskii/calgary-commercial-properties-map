@@ -1,0 +1,36 @@
+{
+  "id": "13276712",
+  "fullDetails": {
+    "licenseNumber": "13276712",
+    "name": "APARTMENT BUILDING",
+    "address": "124 44 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2011-12-31T05:53:11.000Z",
+    "expiryDate": "2026-12-30T05:53:11.000Z",
+    "coordinates": [
+      -114.06396,
+      51.0928502
+    ],
+    "longitude": -114.06396,
+    "latitude": 51.0928502,
+    "community": "HIGHLAND PARK",
+    "ward": "HPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16585457",
+  "fullDetails": {
+    "licenseNumber": "16585457",
+    "name": "PERFECT MOBILITY",
+    "address": "#221 5700 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-01-24T09:10:49.000Z",
+    "expiryDate": "2027-01-23T09:10:49.000Z",
+    "coordinates": [
+      -113.9547995,
+      51.0985971
+    ],
+    "longitude": -113.9547995,
+    "latitude": 51.0985971,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

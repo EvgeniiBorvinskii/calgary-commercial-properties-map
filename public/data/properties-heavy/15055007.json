@@ -1,0 +1,36 @@
+{
+  "id": "15055007",
+  "fullDetails": {
+    "licenseNumber": "15055007",
+    "name": "NEW-FIRMUS",
+    "address": "#120 5720 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-10-28T12:32:32.000Z",
+    "expiryDate": "2026-10-27T12:32:32.000Z",
+    "coordinates": [
+      -114.0533556,
+      51.0026234
+    ],
+    "longitude": -114.0533556,
+    "latitude": 51.0026234,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

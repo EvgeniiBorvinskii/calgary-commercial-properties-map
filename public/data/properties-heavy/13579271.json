@@ -1,0 +1,37 @@
+{
+  "id": "13579271",
+  "fullDetails": {
+    "licenseNumber": "13579271",
+    "name": "SOPHIE'S BEAUTY SPA",
+    "address": "349 7 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-04-25T15:35:31.000Z",
+    "expiryDate": "2026-04-24T15:35:30.000Z",
+    "coordinates": [
+      -114.0549087,
+      51.0586466
+    ],
+    "longitude": -114.0549087,
+    "latitude": 51.0586466,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

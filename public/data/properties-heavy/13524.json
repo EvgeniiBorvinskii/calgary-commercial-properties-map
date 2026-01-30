@@ -1,0 +1,36 @@
+{
+  "id": "13524",
+  "fullDetails": {
+    "licenseNumber": "13524",
+    "name": "CARSTAR CALGARY BOWNESS",
+    "address": "6316 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-16T00:00:00.000Z",
+    "coordinates": [
+      -114.1786577,
+      51.0854336
+    ],
+    "longitude": -114.1786577,
+    "latitude": 51.0854336,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14175665",
+  "fullDetails": {
+    "licenseNumber": "14175665",
+    "name": "SWEET RELIEF PASTRIES",
+    "address": "120 13 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-08-23T05:32:41.000Z",
+    "expiryDate": "2026-08-22T05:32:41.000Z",
+    "coordinates": [
+      -114.0643474,
+      51.0407577
+    ],
+    "longitude": -114.0643474,
+    "latitude": 51.0407577,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

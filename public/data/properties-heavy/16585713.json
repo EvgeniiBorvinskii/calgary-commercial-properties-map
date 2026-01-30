@@ -1,0 +1,37 @@
+{
+  "id": "16585713",
+  "fullDetails": {
+    "licenseNumber": "16585713",
+    "name": "HELD HOLISTIC WELLNESS SPA",
+    "address": "#760 11012 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-19T12:40:53.000Z",
+    "expiryDate": "2026-03-18T12:40:52.000Z",
+    "coordinates": [
+      -114.069993,
+      50.9549237
+    ],
+    "longitude": -114.069993,
+    "latitude": 50.9549237,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

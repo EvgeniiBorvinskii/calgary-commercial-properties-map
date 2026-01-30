@@ -1,0 +1,36 @@
+{
+  "id": "13399522",
+  "fullDetails": {
+    "licenseNumber": "13399522",
+    "name": "HEALTH FLOW",
+    "address": "#120M 2204 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2018-06-22T05:33:44.000Z",
+    "expiryDate": "2026-06-21T05:33:44.000Z",
+    "coordinates": [
+      -114.0684335,
+      51.0330001
+    ],
+    "longitude": -114.0684335,
+    "latitude": 51.0330001,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

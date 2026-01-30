@@ -1,0 +1,36 @@
+{
+  "id": "13817887",
+  "fullDetails": {
+    "licenseNumber": "13817887",
+    "name": "EYE SPY OPTOMETRY",
+    "address": "210 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2019-04-12T12:31:21.000Z",
+    "expiryDate": "2026-04-11T12:31:21.000Z",
+    "coordinates": [
+      -114.066415,
+      51.0427011
+    ],
+    "longitude": -114.066415,
+    "latitude": 51.0427011,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

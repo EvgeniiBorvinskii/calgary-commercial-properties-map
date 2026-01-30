@@ -1,0 +1,37 @@
+{
+  "id": "16411084",
+  "fullDetails": {
+    "licenseNumber": "16411084",
+    "name": "ZAVIER JEWELLERS",
+    "address": "#1124 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-20T14:05:25.000Z",
+    "expiryDate": "2026-12-19T14:05:24.000Z",
+    "coordinates": [
+      -113.9783964,
+      51.0544203
+    ],
+    "longitude": -113.9783964,
+    "latitude": 51.0544203,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

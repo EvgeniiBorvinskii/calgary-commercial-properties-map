@@ -1,0 +1,36 @@
+{
+  "id": "12703211",
+  "fullDetails": {
+    "licenseNumber": "12703211",
+    "name": "PARTS FOR TRUCKS",
+    "address": "5654 55 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2019-03-20T15:33:16.000Z",
+    "expiryDate": "2026-03-19T15:33:16.000Z",
+    "coordinates": [
+      -113.949841,
+      51.0022958
+    ],
+    "longitude": -113.949841,
+    "latitude": 51.0022958,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

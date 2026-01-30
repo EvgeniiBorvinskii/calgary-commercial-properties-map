@@ -1,0 +1,36 @@
+{
+  "id": "16509457",
+  "fullDetails": {
+    "licenseNumber": "16509457",
+    "name": "KOKOCUPS",
+    "address": "#319 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-01T11:55:22.000Z",
+    "expiryDate": "2026-07-31T11:55:21.000Z",
+    "coordinates": [
+      -113.9847221,
+      51.060854
+    ],
+    "longitude": -113.9847221,
+    "latitude": 51.060854,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

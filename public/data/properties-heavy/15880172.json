@@ -1,0 +1,36 @@
+{
+  "id": "15880172",
+  "fullDetails": {
+    "licenseNumber": "15880172",
+    "name": "CITIZEN SALON STUDIOS",
+    "address": "#232 2031 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2020-03-17T05:32:44.000Z",
+    "expiryDate": "2026-03-16T05:32:44.000Z",
+    "coordinates": [
+      -114.1087805,
+      51.0237623
+    ],
+    "longitude": -114.1087805,
+    "latitude": 51.0237623,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

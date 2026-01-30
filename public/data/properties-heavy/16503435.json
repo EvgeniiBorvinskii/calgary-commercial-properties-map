@@ -1,0 +1,36 @@
+{
+  "id": "16503435",
+  "fullDetails": {
+    "licenseNumber": "16503435",
+    "name": "SHELLAINE (THE)",
+    "address": "2404 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-06-27T12:03:15.000Z",
+    "expiryDate": "2026-06-26T12:03:15.000Z",
+    "coordinates": [
+      -114.0686396,
+      51.0312666
+    ],
+    "longitude": -114.0686396,
+    "latitude": 51.0312666,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16661803",
+  "fullDetails": {
+    "licenseNumber": "16661803",
+    "name": "NUHOME WINDOWS AND DOORS CALGARY",
+    "address": "#500 5940 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "subType": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "licenseTypes": "CONTRACTOR,\nDISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "active",
+    "issuedDate": "2026-01-19T12:24:13.000Z",
+    "expiryDate": "2027-01-18T12:24:13.000Z",
+    "coordinates": [
+      -114.0700957,
+      51.0004979
+    ],
+    "longitude": -114.0700957,
+    "latitude": 51.0004979,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

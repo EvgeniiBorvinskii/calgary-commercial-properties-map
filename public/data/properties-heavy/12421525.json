@@ -1,0 +1,36 @@
+{
+  "id": "12421525",
+  "fullDetails": {
+    "licenseNumber": "12421525",
+    "name": "DALYNN BIOLOGICALS",
+    "address": "3253 34 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-05-08T07:58:36.000Z",
+    "expiryDate": "2026-05-07T07:58:36.000Z",
+    "coordinates": [
+      -113.9900605,
+      51.0831341
+    ],
+    "longitude": -113.9900605,
+    "latitude": 51.0831341,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

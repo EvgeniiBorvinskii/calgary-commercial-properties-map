@@ -1,0 +1,36 @@
+{
+  "id": "13875182",
+  "fullDetails": {
+    "licenseNumber": "13875182",
+    "name": "YUM YUM BBQ SOUTHWOOD",
+    "address": "#180 10233 ELBOW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2014-09-03T13:25:37.000Z",
+    "expiryDate": "2026-09-02T13:25:37.000Z",
+    "coordinates": [
+      -114.0873017,
+      50.9625868
+    ],
+    "longitude": -114.0873017,
+    "latitude": 50.9625868,
+    "community": "SOUTHWOOD",
+    "ward": "SOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

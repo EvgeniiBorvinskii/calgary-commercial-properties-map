@@ -1,0 +1,36 @@
+{
+  "id": "543405",
+  "fullDetails": {
+    "licenseNumber": "543405",
+    "name": "J N E & ASSOCIATES",
+    "address": "4435 MANITOBA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-02-06T00:00:00.000Z",
+    "coordinates": [
+      -114.0552834,
+      51.0141346
+    ],
+    "longitude": -114.0552834,
+    "latitude": 51.0141346,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

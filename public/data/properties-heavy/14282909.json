@@ -1,0 +1,36 @@
+{
+  "id": "14282909",
+  "fullDetails": {
+    "licenseNumber": "14282909",
+    "name": "PREMIUM FORKLIFT SERVICE",
+    "address": "#4 6613 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2017-01-28T05:32:22.000Z",
+    "expiryDate": "2026-01-27T05:32:22.000Z",
+    "coordinates": [
+      -113.9707196,
+      50.9955401
+    ],
+    "longitude": -113.9707196,
+    "latitude": 50.9955401,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

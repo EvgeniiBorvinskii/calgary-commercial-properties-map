@@ -1,0 +1,36 @@
+{
+  "id": "16675845",
+  "fullDetails": {
+    "licenseNumber": "16675845",
+    "name": "SERENITY FIRE AND SAFETY",
+    "address": "#300 160 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-22T08:15:05.000Z",
+    "expiryDate": "2026-12-21T08:15:04.000Z",
+    "coordinates": [
+      -114.0098544,
+      50.9644273
+    ],
+    "longitude": -114.0098544,
+    "latitude": 50.9644273,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

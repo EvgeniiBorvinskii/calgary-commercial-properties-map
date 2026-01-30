@@ -1,0 +1,36 @@
+{
+  "id": "303982",
+  "fullDetails": {
+    "licenseNumber": "303982",
+    "name": "SEWING WORLD",
+    "address": "2130 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-07T00:00:00.000Z",
+    "coordinates": [
+      -114.1168152,
+      51.0703537
+    ],
+    "longitude": -114.1168152,
+    "latitude": 51.0703537,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

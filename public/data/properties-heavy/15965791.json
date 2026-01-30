@@ -1,0 +1,36 @@
+{
+  "id": "15965791",
+  "fullDetails": {
+    "licenseNumber": "15965791",
+    "name": "MAS STUDIOS",
+    "address": "812A 16 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "pending",
+    "issuedDate": "2021-01-21T14:59:51.000Z",
+    "expiryDate": "2026-01-20T14:59:51.000Z",
+    "coordinates": [
+      -114.0801345,
+      51.038349
+    ],
+    "longitude": -114.0801345,
+    "latitude": 51.038349,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

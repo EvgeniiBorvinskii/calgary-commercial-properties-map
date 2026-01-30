@@ -1,0 +1,36 @@
+{
+  "id": "16070823",
+  "fullDetails": {
+    "licenseNumber": "16070823",
+    "name": "CANBROOK HOMES",
+    "address": "#402 4655 54 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-16T05:30:21.000Z",
+    "expiryDate": "2026-08-15T05:30:20.000Z",
+    "coordinates": [
+      -113.9671085,
+      51.1014901
+    ],
+    "longitude": -113.9671085,
+    "latitude": 51.1014901,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

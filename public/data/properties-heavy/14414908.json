@@ -1,0 +1,37 @@
+{
+  "id": "14414908",
+  "fullDetails": {
+    "licenseNumber": "14414908",
+    "name": "LIQUOR ZONE",
+    "address": "#8 728 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "LIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2017-01-26T08:24:39.000Z",
+    "expiryDate": "2026-01-25T08:24:39.000Z",
+    "coordinates": [
+      -114.0924784,
+      51.082266
+    ],
+    "longitude": -114.0924784,
+    "latitude": 51.082266,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

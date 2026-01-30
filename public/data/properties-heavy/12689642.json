@@ -1,0 +1,36 @@
+{
+  "id": "12689642",
+  "fullDetails": {
+    "licenseNumber": "12689642",
+    "name": "21 CENTURY SEAFOOD",
+    "address": "#130 11080 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-02-11T16:23:05.000Z",
+    "expiryDate": "2027-02-10T16:23:05.000Z",
+    "coordinates": [
+      -113.9607823,
+      50.9546766
+    ],
+    "longitude": -113.9607823,
+    "latitude": 50.9546766,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

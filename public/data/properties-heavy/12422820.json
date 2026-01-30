@@ -1,0 +1,36 @@
+{
+  "id": "12422820",
+  "fullDetails": {
+    "licenseNumber": "12422820",
+    "name": "PHILLIPS RENOVATIONS",
+    "address": "4876 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-12-19T12:53:31.000Z",
+    "expiryDate": "2026-12-18T12:53:31.000Z",
+    "coordinates": [
+      -113.9811127,
+      51.0109946
+    ],
+    "longitude": -113.9811127,
+    "latitude": 51.0109946,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

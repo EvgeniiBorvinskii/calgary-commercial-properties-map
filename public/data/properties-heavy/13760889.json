@@ -1,0 +1,36 @@
+{
+  "id": "13760889",
+  "fullDetails": {
+    "licenseNumber": "13760889",
+    "name": "PRO BINDERY SERVICES",
+    "address": "#152 4925 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-08-27T10:04:46.000Z",
+    "expiryDate": "2026-08-26T10:04:46.000Z",
+    "coordinates": [
+      -114.0048933,
+      51.0967079
+    ],
+    "longitude": -114.0048933,
+    "latitude": 51.0967079,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

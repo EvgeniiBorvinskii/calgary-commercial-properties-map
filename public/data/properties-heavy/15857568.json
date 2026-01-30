@@ -1,0 +1,36 @@
+{
+  "id": "15857568",
+  "fullDetails": {
+    "licenseNumber": "15857568",
+    "name": "OOMOMO",
+    "address": "#1075 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-01-03T07:40:19.000Z",
+    "expiryDate": "2027-01-02T07:40:19.000Z",
+    "coordinates": [
+      -113.9842402,
+      51.0619209
+    ],
+    "longitude": -113.9842402,
+    "latitude": 51.0619209,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

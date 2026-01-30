@@ -1,0 +1,37 @@
+{
+  "id": "12497202",
+  "fullDetails": {
+    "licenseNumber": "12497202",
+    "name": "DE-CHOSEN AFRICAN MARKETS",
+    "address": "#116 6800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-08-02T14:43:14.000Z",
+    "expiryDate": "2026-08-01T14:43:14.000Z",
+    "coordinates": [
+      -113.9366415,
+      51.0528222
+    ],
+    "longitude": -113.9366415,
+    "latitude": 51.0528222,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

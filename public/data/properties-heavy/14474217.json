@@ -1,0 +1,36 @@
+{
+  "id": "14474217",
+  "fullDetails": {
+    "licenseNumber": "14474217",
+    "name": "MONTEREY SENIORS VILLAGE",
+    "address": "4288 CATALINA BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "status": "pending",
+    "issuedDate": "2017-03-28T11:56:21.000Z",
+    "expiryDate": "2026-03-27T11:56:21.000Z",
+    "coordinates": [
+      -113.9335388,
+      51.0913234
+    ],
+    "longitude": -113.9335388,
+    "latitude": 51.0913234,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

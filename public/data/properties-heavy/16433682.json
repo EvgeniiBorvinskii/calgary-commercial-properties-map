@@ -1,0 +1,37 @@
+{
+  "id": "16433682",
+  "fullDetails": {
+    "licenseNumber": "16433682",
+    "name": "THE PHONE ZONE",
+    "address": "1340 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-09-09T12:51:12.000Z",
+    "expiryDate": "2026-09-08T12:51:11.000Z",
+    "coordinates": [
+      -114.1284139,
+      51.0931293
+    ],
+    "longitude": -114.1284139,
+    "latitude": 51.0931293,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

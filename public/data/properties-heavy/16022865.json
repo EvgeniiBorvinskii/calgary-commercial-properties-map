@@ -1,0 +1,36 @@
+{
+  "id": "16022865",
+  "fullDetails": {
+    "licenseNumber": "16022865",
+    "name": "26 AVE PHARMACY AND CLINIC",
+    "address": "#5 4801 26 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-22T08:24:49.000Z",
+    "expiryDate": "2026-07-21T08:24:49.000Z",
+    "coordinates": [
+      -113.9659005,
+      51.0769796
+    ],
+    "longitude": -113.9659005,
+    "latitude": 51.0769796,
+    "community": "RUNDLE",
+    "ward": "RUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16469462",
+  "fullDetails": {
+    "licenseNumber": "16469462",
+    "name": "BLISSFUL BRIDAL",
+    "address": "#127 7004 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-10T11:02:40.000Z",
+    "expiryDate": "2026-04-09T11:02:40.000Z",
+    "coordinates": [
+      -114.0698998,
+      50.991618
+    ],
+    "longitude": -114.0698998,
+    "latitude": 50.991618,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

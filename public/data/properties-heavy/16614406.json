@@ -1,0 +1,36 @@
+{
+  "id": "16614406",
+  "fullDetails": {
+    "licenseNumber": "16614406",
+    "name": "MANDERLEY TURF PRODUCTS",
+    "address": "#B 3020 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-15T13:18:48.000Z",
+    "expiryDate": "2026-07-14T13:18:47.000Z",
+    "coordinates": [
+      -113.9578027,
+      51.0269044
+    ],
+    "longitude": -113.9578027,
+    "latitude": 51.0269044,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

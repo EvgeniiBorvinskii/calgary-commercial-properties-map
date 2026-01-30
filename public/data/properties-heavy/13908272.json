@@ -1,0 +1,36 @@
+{
+  "id": "13908272",
+  "fullDetails": {
+    "licenseNumber": "13908272",
+    "name": "CITY VIEW APARTMENTS",
+    "address": "2315 16A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2015-01-27T15:57:41.000Z",
+    "expiryDate": "2027-01-26T15:57:41.000Z",
+    "coordinates": [
+      -114.1007573,
+      51.0335632
+    ],
+    "longitude": -114.1007573,
+    "latitude": 51.0335632,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

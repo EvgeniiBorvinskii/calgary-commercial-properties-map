@@ -1,0 +1,36 @@
+{
+  "id": "15985682",
+  "fullDetails": {
+    "licenseNumber": "15985682",
+    "name": "LABODE SHOPPE & INTERIORS",
+    "address": "812 49 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-12T15:21:15.000Z",
+    "expiryDate": "2026-10-11T15:21:15.000Z",
+    "coordinates": [
+      -114.0822844,
+      51.0097802
+    ],
+    "longitude": -114.0822844,
+    "latitude": 51.0097802,
+    "community": "BRITANNIA",
+    "ward": "BRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16457657",
+  "fullDetails": {
+    "licenseNumber": "16457657",
+    "name": "SMITHBILT HATS",
+    "address": "914 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-08T11:02:36.000Z",
+    "expiryDate": "2026-05-07T11:02:36.000Z",
+    "coordinates": [
+      -114.0359281,
+      51.0411359
+    ],
+    "longitude": -114.0359281,
+    "latitude": 51.0411359,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

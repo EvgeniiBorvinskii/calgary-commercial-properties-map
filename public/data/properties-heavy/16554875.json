@@ -1,0 +1,36 @@
+{
+  "id": "16554875",
+  "fullDetails": {
+    "licenseNumber": "16554875",
+    "name": "EVERY EYE",
+    "address": "#2102 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-11-01T08:40:30.000Z",
+    "expiryDate": "2026-10-31T08:40:30.000Z",
+    "coordinates": [
+      -113.9644002,
+      51.1323194
+    ],
+    "longitude": -113.9644002,
+    "latitude": 51.1323194,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

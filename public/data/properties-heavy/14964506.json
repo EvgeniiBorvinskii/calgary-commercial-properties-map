@@ -1,0 +1,36 @@
+{
+  "id": "14964506",
+  "fullDetails": {
+    "licenseNumber": "14964506",
+    "name": "KUEHNE + NAGEL",
+    "address": "1882 118 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-11-30T10:58:00.000Z",
+    "expiryDate": "2026-11-29T10:58:00.000Z",
+    "coordinates": [
+      -114.0199063,
+      51.159554
+    ],
+    "longitude": -114.0199063,
+    "latitude": 51.159554,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

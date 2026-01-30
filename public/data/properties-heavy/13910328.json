@@ -1,0 +1,37 @@
+{
+  "id": "13910328",
+  "fullDetails": {
+    "licenseNumber": "13910328",
+    "name": "DOLLARAMA",
+    "address": "#24 7400 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-01-23T15:20:19.000Z",
+    "expiryDate": "2027-01-22T15:20:19.000Z",
+    "coordinates": [
+      -114.0703209,
+      50.9869689
+    ],
+    "longitude": -114.0703209,
+    "latitude": 50.9869689,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

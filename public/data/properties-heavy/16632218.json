@@ -1,0 +1,37 @@
+{
+  "id": "16632218",
+  "fullDetails": {
+    "licenseNumber": "16632218",
+    "name": "MILLE RESTAURANT AND CAFE",
+    "address": "#102 1000 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-06-05T11:01:04.000Z",
+    "expiryDate": "2026-06-04T11:01:03.000Z",
+    "coordinates": [
+      -114.0842795,
+      51.0473911
+    ],
+    "longitude": -114.0842795,
+    "latitude": 51.0473911,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

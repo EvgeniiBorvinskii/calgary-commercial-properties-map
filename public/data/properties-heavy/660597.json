@@ -1,0 +1,36 @@
+{
+  "id": "660597",
+  "fullDetails": {
+    "licenseNumber": "660597",
+    "name": "LYNN APARTMENTS",
+    "address": "126 13 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-19T00:00:00.000Z",
+    "coordinates": [
+      -114.0641136,
+      51.0645885
+    ],
+    "longitude": -114.0641136,
+    "latitude": 51.0645885,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

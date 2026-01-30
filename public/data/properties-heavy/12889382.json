@@ -1,0 +1,37 @@
+{
+  "id": "12889382",
+  "fullDetails": {
+    "licenseNumber": "12889382",
+    "name": "BOW CLIFF SENIORS",
+    "address": "#121 3375 SPRUCE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-06-06T09:32:10.000Z",
+    "expiryDate": "2026-06-05T09:32:10.000Z",
+    "coordinates": [
+      -114.1359938,
+      51.0474508
+    ],
+    "longitude": -114.1359938,
+    "latitude": 51.0474508,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

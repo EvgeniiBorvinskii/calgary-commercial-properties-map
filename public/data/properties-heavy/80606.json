@@ -1,0 +1,36 @@
+{
+  "id": "80606",
+  "fullDetails": {
+    "licenseNumber": "80606",
+    "name": "HOMES BY AVI (CANADA)",
+    "address": "245 FORGE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2003-02-25T05:36:49.000Z",
+    "expiryDate": "2026-02-24T05:36:49.000Z",
+    "coordinates": [
+      -114.0594038,
+      50.9933599
+    ],
+    "longitude": -114.0594038,
+    "latitude": 50.9933599,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

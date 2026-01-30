@@ -1,0 +1,36 @@
+{
+  "id": "16668386",
+  "fullDetails": {
+    "licenseNumber": "16668386",
+    "name": "LAKESIDE CANNABIS",
+    "address": "1276 68 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-10-10T11:51:42.000Z",
+    "expiryDate": "2026-10-09T11:51:42.000Z",
+    "coordinates": [
+      -113.9343418,
+      51.042985
+    ],
+    "longitude": -113.9343418,
+    "latitude": 51.042985,
+    "community": "APPLEWOOD PARK",
+    "ward": "APP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

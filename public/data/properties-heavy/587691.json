@@ -1,0 +1,36 @@
+{
+  "id": "587691",
+  "fullDetails": {
+    "licenseNumber": "587691",
+    "name": "STURDY LADDER",
+    "address": "#100R 4209 17A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-09T00:00:00.000Z",
+    "coordinates": [
+      -114.0180215,
+      51.0168577
+    ],
+    "longitude": -114.0180215,
+    "latitude": 51.0168577,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

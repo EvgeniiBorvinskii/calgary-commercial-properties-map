@@ -1,0 +1,36 @@
+{
+  "id": "16515215",
+  "fullDetails": {
+    "licenseNumber": "16515215",
+    "name": "CANNA CABANA",
+    "address": "#28 20 DOUGLAS WOODS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-07-26T12:01:18.000Z",
+    "expiryDate": "2026-07-25T12:01:18.000Z",
+    "coordinates": [
+      -114.001595,
+      50.9434047
+    ],
+    "longitude": -114.001595,
+    "latitude": 50.9434047,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

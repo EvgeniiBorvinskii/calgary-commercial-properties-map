@@ -1,0 +1,36 @@
+{
+  "id": "14333892",
+  "fullDetails": {
+    "licenseNumber": "14333892",
+    "name": "MCDONALD'S RESTAURANT",
+    "address": "153 WALDEN GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-12-16T15:45:46.000Z",
+    "expiryDate": "2026-12-15T15:45:46.000Z",
+    "coordinates": [
+      -114.0393464,
+      50.8756924
+    ],
+    "longitude": -114.0393464,
+    "latitude": 50.8756924,
+    "community": "WALDEN",
+    "ward": "WAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

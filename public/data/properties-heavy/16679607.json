@@ -1,0 +1,37 @@
+{
+  "id": "16679607",
+  "fullDetails": {
+    "licenseNumber": "16679607",
+    "name": "TIDY LIFE BUILD AND DESIGN",
+    "address": "#290 6815 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-07T08:42:02.000Z",
+    "expiryDate": "2026-10-06T08:42:01.000Z",
+    "coordinates": [
+      -114.0454446,
+      51.1140385
+    ],
+    "longitude": -114.0454446,
+    "latitude": 51.1140385,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

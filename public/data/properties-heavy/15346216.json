@@ -1,0 +1,37 @@
+{
+  "id": "15346216",
+  "fullDetails": {
+    "licenseNumber": "15346216",
+    "name": "TIN TIN DIM SUM",
+    "address": "#192A 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2019-03-06T05:30:43.000Z",
+    "expiryDate": "2026-03-05T05:30:43.000Z",
+    "coordinates": [
+      -114.0744952,
+      50.9961549
+    ],
+    "longitude": -114.0744952,
+    "latitude": 50.9961549,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

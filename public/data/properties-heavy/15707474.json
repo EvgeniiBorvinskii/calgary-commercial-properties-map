@@ -1,0 +1,37 @@
+{
+  "id": "15707474",
+  "fullDetails": {
+    "licenseNumber": "15707474",
+    "name": "F45 PUMPHILL",
+    "address": "#312 2515 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2019-08-26T13:33:31.000Z",
+    "expiryDate": "2026-08-25T13:33:31.000Z",
+    "coordinates": [
+      -114.1186252,
+      50.9718751
+    ],
+    "longitude": -114.1186252,
+    "latitude": 50.9718751,
+    "community": "OAKRIDGE",
+    "ward": "OAK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

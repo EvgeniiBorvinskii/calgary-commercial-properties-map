@@ -1,0 +1,36 @@
+{
+  "id": "16434557",
+  "fullDetails": {
+    "licenseNumber": "16434557",
+    "name": "INGLEWOOD DRIVE-IN",
+    "address": "802 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-01-29T10:39:36.000Z",
+    "expiryDate": "2027-01-28T10:39:36.000Z",
+    "coordinates": [
+      -114.0335825,
+      51.0417939
+    ],
+    "longitude": -114.0335825,
+    "latitude": 51.0417939,
+    "community": "INGLEWOOD",
+    "ward": "ING",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

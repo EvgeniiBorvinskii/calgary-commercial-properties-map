@@ -1,0 +1,36 @@
+{
+  "id": "16497273",
+  "fullDetails": {
+    "licenseNumber": "16497273",
+    "name": "SWEET PEA 3D",
+    "address": "#2 2507 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-08T05:34:14.000Z",
+    "expiryDate": "2026-06-07T05:34:14.000Z",
+    "coordinates": [
+      -114.0952025,
+      51.0319067
+    ],
+    "longitude": -114.0952025,
+    "latitude": 51.0319067,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

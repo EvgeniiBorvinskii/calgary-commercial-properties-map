@@ -1,0 +1,36 @@
+{
+  "id": "15977622",
+  "fullDetails": {
+    "licenseNumber": "15977622",
+    "name": "SW STUDIO",
+    "address": "#175 150 DIEPPE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2021-01-15T10:01:26.000Z",
+    "expiryDate": "2027-01-14T10:01:26.000Z",
+    "coordinates": [
+      -114.1282626,
+      51.0174485
+    ],
+    "longitude": -114.1282626,
+    "latitude": 51.0174485,
+    "community": "CURRIE BARRACKS",
+    "ward": "CUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

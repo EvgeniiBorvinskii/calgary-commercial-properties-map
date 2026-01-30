@@ -1,0 +1,36 @@
+{
+  "id": "16610487",
+  "fullDetails": {
+    "licenseNumber": "16610487",
+    "name": "PRESTIGE APARTMENTS",
+    "address": "824 13 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-07-16T15:42:35.000Z",
+    "expiryDate": "2026-07-15T15:42:35.000Z",
+    "coordinates": [
+      -114.0804686,
+      51.0411838
+    ],
+    "longitude": -114.0804686,
+    "latitude": 51.0411838,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

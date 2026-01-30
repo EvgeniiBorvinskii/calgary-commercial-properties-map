@@ -1,0 +1,36 @@
+{
+  "id": "14117691",
+  "fullDetails": {
+    "licenseNumber": "14117691",
+    "name": "ZACK AUTO & TRUCKS",
+    "address": "#8 820 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-01-17T09:12:35.000Z",
+    "expiryDate": "2027-01-16T09:12:35.000Z",
+    "coordinates": [
+      -113.991589,
+      51.0593601
+    ],
+    "longitude": -113.991589,
+    "latitude": 51.0593601,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

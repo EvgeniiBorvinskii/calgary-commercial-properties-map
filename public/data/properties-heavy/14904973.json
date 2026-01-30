@@ -1,0 +1,36 @@
+{
+  "id": "14904973",
+  "fullDetails": {
+    "licenseNumber": "14904973",
+    "name": "DIAMOND ACRES",
+    "address": "17515 53 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-06-06T15:02:10.000Z",
+    "expiryDate": "2026-06-05T15:02:10.000Z",
+    "coordinates": [
+      -114.1648195,
+      50.8955255
+    ],
+    "longitude": -114.1648195,
+    "latitude": 50.8955255,
+    "community": "RESIDUAL WARD 13 - SUB AREA 13F",
+    "ward": "13F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

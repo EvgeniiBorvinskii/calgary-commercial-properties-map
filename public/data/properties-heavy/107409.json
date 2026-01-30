@@ -1,0 +1,36 @@
+{
+  "id": "107409",
+  "fullDetails": {
+    "licenseNumber": "107409",
+    "name": "SOLETANCHE BACHY CANADA",
+    "address": "4115 116 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-06-30T14:28:45.000Z",
+    "expiryDate": "2026-06-29T14:28:45.000Z",
+    "coordinates": [
+      -113.9768681,
+      50.9465798
+    ],
+    "longitude": -113.9768681,
+    "latitude": 50.9465798,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

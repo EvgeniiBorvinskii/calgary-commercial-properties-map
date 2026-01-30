@@ -1,0 +1,36 @@
+{
+  "id": "12065280",
+  "fullDetails": {
+    "licenseNumber": "12065280",
+    "name": "BUGLE FORKLIFT SALES & RENTALS",
+    "address": "#105 4919 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-11-30T12:04:13.000Z",
+    "expiryDate": "2026-11-29T12:04:13.000Z",
+    "coordinates": [
+      -113.9633612,
+      50.9889612
+    ],
+    "longitude": -113.9633612,
+    "latitude": 50.9889612,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

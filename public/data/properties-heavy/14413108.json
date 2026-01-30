@@ -1,0 +1,36 @@
+{
+  "id": "14413108",
+  "fullDetails": {
+    "licenseNumber": "14413108",
+    "name": "RUMBLE BOXING STUDIO",
+    "address": "#100 720 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2017-01-28T05:32:27.000Z",
+    "expiryDate": "2026-01-27T05:32:27.000Z",
+    "coordinates": [
+      -114.0780939,
+      51.0381287
+    ],
+    "longitude": -114.0780939,
+    "latitude": 51.0381287,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

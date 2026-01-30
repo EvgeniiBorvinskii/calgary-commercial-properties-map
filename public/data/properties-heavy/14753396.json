@@ -1,0 +1,37 @@
+{
+  "id": "14753396",
+  "fullDetails": {
+    "licenseNumber": "14753396",
+    "name": "MYO LAB HEALTH & WELLNESS",
+    "address": "#300 227 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2018-05-07T16:00:54.000Z",
+    "expiryDate": "2026-05-06T16:00:54.000Z",
+    "coordinates": [
+      -114.0862915,
+      51.0537216
+    ],
+    "longitude": -114.0862915,
+    "latitude": 51.0537216,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

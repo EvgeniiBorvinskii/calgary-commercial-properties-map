@@ -1,0 +1,36 @@
+{
+  "id": "16408361",
+  "fullDetails": {
+    "licenseNumber": "16408361",
+    "name": "OS SYSTEMS",
+    "address": "#101 2750 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-21T14:38:28.000Z",
+    "expiryDate": "2026-11-20T14:38:28.000Z",
+    "coordinates": [
+      -113.9955974,
+      51.054706
+    ],
+    "longitude": -113.9955974,
+    "latitude": 51.054706,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

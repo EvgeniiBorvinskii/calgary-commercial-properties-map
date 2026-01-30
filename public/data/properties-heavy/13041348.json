@@ -1,0 +1,36 @@
+{
+  "id": "13041348",
+  "fullDetails": {
+    "licenseNumber": "13041348",
+    "name": "ROOTS CANADA",
+    "address": "#1207 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-04T08:15:48.000Z",
+    "expiryDate": "2026-10-03T08:15:48.000Z",
+    "coordinates": [
+      -114.0738323,
+      50.9984866
+    ],
+    "longitude": -114.0738323,
+    "latitude": 50.9984866,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

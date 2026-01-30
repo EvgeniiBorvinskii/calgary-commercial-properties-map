@@ -1,0 +1,37 @@
+{
+  "id": "142265",
+  "fullDetails": {
+    "licenseNumber": "142265",
+    "name": "CLOVERDALE PAINT",
+    "address": "#21A 240 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-23T00:00:00.000Z",
+    "coordinates": [
+      -114.0640594,
+      50.9136573
+    ],
+    "longitude": -114.0640594,
+    "latitude": 50.9136573,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

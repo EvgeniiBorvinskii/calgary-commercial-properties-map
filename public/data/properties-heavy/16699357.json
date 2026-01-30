@@ -1,0 +1,37 @@
+{
+  "id": "16699357",
+  "fullDetails": {
+    "licenseNumber": "16699357",
+    "name": "RAHAT BAKERY CALGARY",
+    "address": "#2155 4150 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-10T16:23:25.000Z",
+    "expiryDate": "2026-12-09T16:23:24.000Z",
+    "coordinates": [
+      -113.9735483,
+      51.1536769
+    ],
+    "longitude": -113.9735483,
+    "latitude": 51.1536769,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

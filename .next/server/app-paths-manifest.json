@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/changelog/page": "app/changelog/page.js",
+  "/docs/page": "app/docs/page.js",
+  "/api/properties/light/route": "app/api/properties/light/route.js",
+  "/api/update/route": "app/api/update/route.js",
+  "/api/properties/[id]/details/route": "app/api/properties/[id]/details/route.js",
+  "/api/properties/route": "app/api/properties/route.js"
+}

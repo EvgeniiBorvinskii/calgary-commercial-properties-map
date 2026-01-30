@@ -1,0 +1,36 @@
+{
+  "id": "14695993",
+  "fullDetails": {
+    "licenseNumber": "14695993",
+    "name": "CANADA GOOSE",
+    "address": "#1171 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-30T15:33:50.000Z",
+    "expiryDate": "2026-11-29T15:33:50.000Z",
+    "coordinates": [
+      -114.0732716,
+      50.9998415
+    ],
+    "longitude": -114.0732716,
+    "latitude": 50.9998415,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "86041",
+  "fullDetails": {
+    "licenseNumber": "86041",
+    "name": "LUXURY JEWELLERS",
+    "address": "#7107 150 MILLRISE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2006-10-06T16:03:38.000Z",
+    "expiryDate": "2026-10-05T16:03:38.000Z",
+    "coordinates": [
+      -114.0732519,
+      50.9142425
+    ],
+    "longitude": -114.0732519,
+    "latitude": 50.9142425,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "44669",
+  "fullDetails": {
+    "licenseNumber": "44669",
+    "name": "CALGARY CO-OP GAS BAR #11",
+    "address": "1221 CANYON MEADOWS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FUEL SALES/STORAGE,",
+    "licenseTypes": "TOBACCO RETAILER,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0301538,
+      50.9301057
+    ],
+    "longitude": -114.0301538,
+    "latitude": 50.9301057,
+    "community": "DEER RIDGE",
+    "ward": "DRG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16498933",
+  "fullDetails": {
+    "licenseNumber": "16498933",
+    "name": "WONTON NINJA (CGY-2163)",
+    "address": "#2 110 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2024-06-24T08:44:42.000Z",
+    "expiryDate": "2026-06-23T08:44:42.000Z",
+    "coordinates": [
+      -114.0619472,
+      51.0514671
+    ],
+    "longitude": -114.0619472,
+    "latitude": 51.0514671,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

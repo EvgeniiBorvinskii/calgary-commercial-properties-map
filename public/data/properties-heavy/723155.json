@@ -1,0 +1,36 @@
+{
+  "id": "723155",
+  "fullDetails": {
+    "licenseNumber": "723155",
+    "name": "SPILL SOLUTIONS CANADA",
+    "address": "#M 2410 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2003-03-15T05:35:12.000Z",
+    "expiryDate": "2026-03-14T05:35:12.000Z",
+    "coordinates": [
+      -114.0041921,
+      51.051027
+    ],
+    "longitude": -114.0041921,
+    "latitude": 51.051027,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

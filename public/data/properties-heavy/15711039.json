@@ -1,0 +1,37 @@
+{
+  "id": "15711039",
+  "fullDetails": {
+    "licenseNumber": "15711039",
+    "name": "ALTITUDE FLIGHT SIMULATION",
+    "address": "#122 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "AMUSEMENT ARCADE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-06T10:47:29.000Z",
+    "expiryDate": "2026-09-05T10:47:29.000Z",
+    "coordinates": [
+      -114.0064485,
+      51.0800792
+    ],
+    "longitude": -114.0064485,
+    "latitude": 51.0800792,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

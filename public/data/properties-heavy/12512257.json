@@ -1,0 +1,36 @@
+{
+  "id": "12512257",
+  "fullDetails": {
+    "licenseNumber": "12512257",
+    "name": "STITCH IT",
+    "address": "#107B 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-09-08T05:32:08.000Z",
+    "expiryDate": "2026-09-07T05:32:08.000Z",
+    "coordinates": [
+      -114.073753,
+      50.9966969
+    ],
+    "longitude": -114.073753,
+    "latitude": 50.9966969,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

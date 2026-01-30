@@ -1,0 +1,37 @@
+{
+  "id": "16177925",
+  "fullDetails": {
+    "licenseNumber": "16177925",
+    "name": "MASTER POOLS",
+    "address": "#130 7000 RAILWAY ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-08-15T10:25:24.000Z",
+    "expiryDate": "2026-08-14T10:25:24.000Z",
+    "coordinates": [
+      -114.0422483,
+      50.9913757
+    ],
+    "longitude": -114.0422483,
+    "latitude": 50.9913757,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

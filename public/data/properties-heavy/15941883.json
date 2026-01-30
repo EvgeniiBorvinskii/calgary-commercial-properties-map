@@ -1,0 +1,36 @@
+{
+  "id": "15941883",
+  "fullDetails": {
+    "licenseNumber": "15941883",
+    "name": "CODE NINJA WEST SPRINGS",
+    "address": "#410 8560 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-09-18T09:27:33.000Z",
+    "expiryDate": "2026-09-17T09:27:33.000Z",
+    "coordinates": [
+      -114.2095343,
+      51.0622288
+    ],
+    "longitude": -114.2095343,
+    "latitude": 51.0622288,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15186489",
+  "fullDetails": {
+    "licenseNumber": "15186489",
+    "name": "POWDER WORKS",
+    "address": "#5 1231 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2019-04-18T15:46:55.000Z",
+    "expiryDate": "2026-04-17T15:46:55.000Z",
+    "coordinates": [
+      -114.0322303,
+      51.0849175
+    ],
+    "longitude": -114.0322303,
+    "latitude": 51.0849175,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

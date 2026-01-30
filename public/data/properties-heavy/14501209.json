@@ -1,0 +1,37 @@
+{
+  "id": "14501209",
+  "fullDetails": {
+    "licenseNumber": "14501209",
+    "name": "YYC SMOKE & CIGAR",
+    "address": "#108 2550 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2017-07-06T15:35:51.000Z",
+    "expiryDate": "2026-07-05T15:35:51.000Z",
+    "coordinates": [
+      -113.9997899,
+      51.1551289
+    ],
+    "longitude": -113.9997899,
+    "latitude": 51.1551289,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15456817",
+  "fullDetails": {
+    "licenseNumber": "15456817",
+    "name": "MARBANK COIN LAUNDRY",
+    "address": "#139 920 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2019-05-09T09:14:55.000Z",
+    "expiryDate": "2026-05-08T09:14:55.000Z",
+    "coordinates": [
+      -113.9809154,
+      51.0619049
+    ],
+    "longitude": -113.9809154,
+    "latitude": 51.0619049,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12589883",
+  "fullDetails": {
+    "licenseNumber": "12589883",
+    "name": "PROPAINTING SOLUTIONS",
+    "address": "3513 62 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-11-21T08:54:12.000Z",
+    "expiryDate": "2026-11-20T08:54:12.000Z",
+    "coordinates": [
+      -113.9854288,
+      50.9975151
+    ],
+    "longitude": -113.9854288,
+    "latitude": 50.9975151,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

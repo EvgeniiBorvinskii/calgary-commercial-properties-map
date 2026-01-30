@@ -1,0 +1,36 @@
+{
+  "id": "13845896",
+  "fullDetails": {
+    "licenseNumber": "13845896",
+    "name": "ROAD SAVERS WESTERN",
+    "address": "8483 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-07-29T05:32:59.000Z",
+    "expiryDate": "2026-07-28T05:32:59.000Z",
+    "coordinates": [
+      -113.9138118,
+      51.072681
+    ],
+    "longitude": -113.9138118,
+    "latitude": 51.072681,
+    "community": "RESIDUAL WARD 10 - SUB AREA 10E",
+    "ward": "10E",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

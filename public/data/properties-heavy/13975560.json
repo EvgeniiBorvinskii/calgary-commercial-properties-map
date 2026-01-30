@@ -1,0 +1,37 @@
+{
+  "id": "13975560",
+  "fullDetails": {
+    "licenseNumber": "13975560",
+    "name": "STATION PUB (THE)",
+    "address": "40 RIVERGLEN DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2015-08-04T11:42:55.000Z",
+    "expiryDate": "2026-08-03T11:42:55.000Z",
+    "coordinates": [
+      -114.0136926,
+      50.9764361
+    ],
+    "longitude": -114.0136926,
+    "latitude": 50.9764361,
+    "community": "RIVERBEND",
+    "ward": "RIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

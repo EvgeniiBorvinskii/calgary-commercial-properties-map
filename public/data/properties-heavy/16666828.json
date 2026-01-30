@@ -1,0 +1,36 @@
+{
+  "id": "16666828",
+  "fullDetails": {
+    "licenseNumber": "16666828",
+    "name": "NEWROZ SWEET & BAKERY",
+    "address": "#124 3670 63 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2026-01-08T14:25:40.000Z",
+    "expiryDate": "2027-01-07T14:25:39.000Z",
+    "coordinates": [
+      -113.979507,
+      51.1101
+    ],
+    "longitude": -113.979507,
+    "latitude": 51.1101,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

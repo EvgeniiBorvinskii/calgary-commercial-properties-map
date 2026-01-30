@@ -1,0 +1,37 @@
+{
+  "id": "14515233",
+  "fullDetails": {
+    "licenseNumber": "14515233",
+    "name": "TIM HORTON'S #6983",
+    "address": "#1816 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-05-24T15:10:38.000Z",
+    "expiryDate": "2026-05-23T15:10:37.000Z",
+    "coordinates": [
+      -114.1025202,
+      51.0659753
+    ],
+    "longitude": -114.1025202,
+    "latitude": 51.0659753,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

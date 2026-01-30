@@ -1,0 +1,37 @@
+{
+  "id": "12692059",
+  "fullDetails": {
+    "licenseNumber": "12692059",
+    "name": "H2O INNOVATION",
+    "address": "1046 18 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2009-04-08T15:07:02.000Z",
+    "expiryDate": "2026-04-07T15:07:02.000Z",
+    "coordinates": [
+      -114.0371771,
+      51.03725
+    ],
+    "longitude": -114.0371771,
+    "latitude": 51.03725,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

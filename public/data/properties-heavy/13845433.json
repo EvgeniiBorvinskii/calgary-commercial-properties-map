@@ -1,0 +1,36 @@
+{
+  "id": "13845433",
+  "fullDetails": {
+    "licenseNumber": "13845433",
+    "name": "NEW LINE SKATEPARKS",
+    "address": "#202 6923 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2018-01-26T05:30:22.000Z",
+    "expiryDate": "2026-01-25T05:30:22.000Z",
+    "coordinates": [
+      -114.0615471,
+      50.9917766
+    ],
+    "longitude": -114.0615471,
+    "latitude": 50.9917766,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

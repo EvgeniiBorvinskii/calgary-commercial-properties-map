@@ -1,0 +1,36 @@
+{
+  "id": "14248124",
+  "fullDetails": {
+    "licenseNumber": "14248124",
+    "name": "THRIFT  STATION  #9",
+    "address": "#7 2388 CRESTWOOD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SECONDHAND DEALER",
+    "licenseTypes": "SECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2016-08-04T15:02:12.000Z",
+    "expiryDate": "2026-08-03T15:02:12.000Z",
+    "coordinates": [
+      -114.0028377,
+      50.9912461
+    ],
+    "longitude": -114.0028377,
+    "latitude": 50.9912461,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

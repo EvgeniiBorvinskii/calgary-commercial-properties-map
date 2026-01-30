@@ -1,0 +1,36 @@
+{
+  "id": "14508907",
+  "fullDetails": {
+    "licenseNumber": "14508907",
+    "name": "DOUGLASDALE BARBER SHOP",
+    "address": "#38 20 DOUGLAS WOODS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2017-06-05T12:08:40.000Z",
+    "expiryDate": "2026-06-04T12:08:40.000Z",
+    "coordinates": [
+      -114.0018064,
+      50.9434836
+    ],
+    "longitude": -114.0018064,
+    "latitude": 50.9434836,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

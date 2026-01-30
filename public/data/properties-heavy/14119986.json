@@ -1,0 +1,36 @@
+{
+  "id": "14119986",
+  "fullDetails": {
+    "licenseNumber": "14119986",
+    "name": "COLOUR ME MINE",
+    "address": "1504 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2016-03-09T15:54:58.000Z",
+    "expiryDate": "2026-03-08T15:54:57.000Z",
+    "coordinates": [
+      -114.0888715,
+      51.0391041
+    ],
+    "longitude": -114.0888715,
+    "latitude": 51.0391041,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

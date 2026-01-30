@@ -1,0 +1,36 @@
+{
+  "id": "16455909",
+  "fullDetails": {
+    "licenseNumber": "16455909",
+    "name": "DONALD RIGGING",
+    "address": "278 INITIATIVE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2024-03-15T05:33:27.000Z",
+    "expiryDate": "2026-03-14T05:33:27.000Z",
+    "coordinates": [
+      -113.903963,
+      50.9614375
+    ],
+    "longitude": -113.903963,
+    "latitude": 50.9614375,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

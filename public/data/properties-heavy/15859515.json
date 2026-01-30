@@ -1,0 +1,36 @@
+{
+  "id": "15859515",
+  "fullDetails": {
+    "licenseNumber": "15859515",
+    "name": "FIRST PEEK BABY ULTRASOUND",
+    "address": "#200 1001 1 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-01-08T12:41:34.000Z",
+    "expiryDate": "2027-01-07T12:41:34.000Z",
+    "coordinates": [
+      -114.061255,
+      51.0430128
+    ],
+    "longitude": -114.061255,
+    "latitude": 51.0430128,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

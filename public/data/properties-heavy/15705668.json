@@ -1,0 +1,36 @@
+{
+  "id": "15705668",
+  "fullDetails": {
+    "licenseNumber": "15705668",
+    "name": "HITZ AUTOBODY",
+    "address": "4631 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2019-10-24T12:52:34.000Z",
+    "expiryDate": "2026-10-23T12:52:34.000Z",
+    "coordinates": [
+      -114.0342369,
+      51.0942458
+    ],
+    "longitude": -114.0342369,
+    "latitude": 51.0942458,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

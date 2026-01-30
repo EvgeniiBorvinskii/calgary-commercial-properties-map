@@ -1,0 +1,36 @@
+{
+  "id": "16424871",
+  "fullDetails": {
+    "licenseNumber": "16424871",
+    "name": "HAIR BY JOCELYN MATTHIES",
+    "address": "#2008 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2024-01-03T05:33:38.000Z",
+    "expiryDate": "2027-01-02T05:33:38.000Z",
+    "coordinates": [
+      -114.1081434,
+      51.1749421
+    ],
+    "longitude": -114.1081434,
+    "latitude": 51.1749421,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

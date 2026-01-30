@@ -1,0 +1,36 @@
+{
+  "id": "16359663",
+  "fullDetails": {
+    "licenseNumber": "16359663",
+    "name": "DARK DIMENSION TATTOO",
+    "address": "#207 1039 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2024-05-10T07:56:47.000Z",
+    "expiryDate": "2026-05-09T07:56:47.000Z",
+    "coordinates": [
+      -114.0866591,
+      51.0376086
+    ],
+    "longitude": -114.0866591,
+    "latitude": 51.0376086,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

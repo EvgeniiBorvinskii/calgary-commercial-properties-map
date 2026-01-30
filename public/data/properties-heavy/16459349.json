@@ -1,0 +1,36 @@
+{
+  "id": "16459349",
+  "fullDetails": {
+    "licenseNumber": "16459349",
+    "name": "INKBYKM",
+    "address": "#202 2212 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "pending",
+    "issuedDate": "2024-03-11T05:30:21.000Z",
+    "expiryDate": "2026-03-10T05:30:21.000Z",
+    "coordinates": [
+      -114.0711694,
+      51.0328624
+    ],
+    "longitude": -114.0711694,
+    "latitude": 51.0328624,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

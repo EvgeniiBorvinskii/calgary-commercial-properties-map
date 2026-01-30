@@ -1,0 +1,37 @@
+{
+  "id": "12586160",
+  "fullDetails": {
+    "licenseNumber": "12586160",
+    "name": "A B C LIQUOR STORE",
+    "address": "#24 430 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "LIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-07-12T14:42:36.000Z",
+    "expiryDate": "2026-07-11T14:42:36.000Z",
+    "coordinates": [
+      -114.0479276,
+      50.9697732
+    ],
+    "longitude": -114.0479276,
+    "latitude": 50.9697732,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

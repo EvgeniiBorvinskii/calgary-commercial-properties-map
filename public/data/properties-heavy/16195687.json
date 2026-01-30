@@ -1,0 +1,36 @@
+{
+  "id": "16195687",
+  "fullDetails": {
+    "licenseNumber": "16195687",
+    "name": "AUTO POCKET NE",
+    "address": "#10 40 HOPEWELL WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-21T08:50:47.000Z",
+    "expiryDate": "2026-10-20T08:50:47.000Z",
+    "coordinates": [
+      -113.996245,
+      51.0943583
+    ],
+    "longitude": -113.996245,
+    "latitude": 51.0943583,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

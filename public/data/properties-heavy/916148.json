@@ -1,0 +1,36 @@
+{
+  "id": "916148",
+  "fullDetails": {
+    "licenseNumber": "916148",
+    "name": "VIPER CONCRETE 2000",
+    "address": "#6000 4 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2009-11-02T12:40:20.000Z",
+    "expiryDate": "2026-11-01T12:40:20.000Z",
+    "coordinates": [
+      -113.9017965,
+      50.9691531
+    ],
+    "longitude": -113.9017965,
+    "latitude": 50.9691531,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

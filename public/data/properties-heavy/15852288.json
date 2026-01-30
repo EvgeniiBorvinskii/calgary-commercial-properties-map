@@ -1,0 +1,37 @@
+{
+  "id": "15852288",
+  "fullDetails": {
+    "licenseNumber": "15852288",
+    "name": "AGECARE SKYPOINTE BISTRO & TUCK SHOP",
+    "address": "179 SKYVIEW CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-12-11T09:28:23.000Z",
+    "expiryDate": "2026-12-10T09:28:23.000Z",
+    "coordinates": [
+      -113.9495822,
+      51.1568051
+    ],
+    "longitude": -113.9495822,
+    "latitude": 51.1568051,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

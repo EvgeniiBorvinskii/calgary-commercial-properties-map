@@ -1,0 +1,37 @@
+{
+  "id": "16533838",
+  "fullDetails": {
+    "licenseNumber": "16533838",
+    "name": "GREAT TASTE CHINESE RESTAURANT",
+    "address": "#101 123 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-04T08:17:47.000Z",
+    "expiryDate": "2026-10-03T08:17:46.000Z",
+    "coordinates": [
+      -114.0612897,
+      51.0509579
+    ],
+    "longitude": -114.0612897,
+    "latitude": 51.0509579,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16073140",
+  "fullDetails": {
+    "licenseNumber": "16073140",
+    "name": "MATTAMY (NORTHPOINT)",
+    "address": "2583 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-11T11:47:22.000Z",
+    "expiryDate": "2026-08-10T11:47:22.000Z",
+    "coordinates": [
+      -113.992612,
+      51.075782
+    ],
+    "longitude": -113.992612,
+    "latitude": 51.075782,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

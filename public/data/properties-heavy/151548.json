@@ -1,0 +1,36 @@
+{
+  "id": "151548",
+  "fullDetails": {
+    "licenseNumber": "151548",
+    "name": "PC  C O R P",
+    "address": "#100 820 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-05T12:37:42.000Z",
+    "expiryDate": "2026-09-04T12:37:42.000Z",
+    "coordinates": [
+      -114.0858783,
+      51.045985
+    ],
+    "longitude": -114.0858783,
+    "latitude": 51.045985,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

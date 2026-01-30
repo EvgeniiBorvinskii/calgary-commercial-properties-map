@@ -1,0 +1,37 @@
+{
+  "id": "109884",
+  "fullDetails": {
+    "licenseNumber": "109884",
+    "name": "TIMBERTOWN BUILDING CENTRE",
+    "address": "4215 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-02-08T10:10:00.000Z",
+    "expiryDate": "2027-02-07T10:10:00.000Z",
+    "coordinates": [
+      -114.0332171,
+      51.0895233
+    ],
+    "longitude": -114.0332171,
+    "latitude": 51.0895233,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

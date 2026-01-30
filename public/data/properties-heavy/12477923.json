@@ -1,0 +1,36 @@
+{
+  "id": "12477923",
+  "fullDetails": {
+    "licenseNumber": "12477923",
+    "name": "SUBWAY SANDWICHES & SALADS",
+    "address": "#106 2066 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2006-06-23T15:42:37.000Z",
+    "expiryDate": "2026-06-22T15:42:37.000Z",
+    "coordinates": [
+      -114.0125271,
+      51.0692979
+    ],
+    "longitude": -114.0125271,
+    "latitude": 51.0692979,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

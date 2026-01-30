@@ -1,0 +1,37 @@
+{
+  "id": "14268718",
+  "fullDetails": {
+    "licenseNumber": "14268718",
+    "name": "BRAFASCO",
+    "address": "5484 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-09-14T14:53:02.000Z",
+    "expiryDate": "2026-09-13T14:53:02.000Z",
+    "coordinates": [
+      -113.9570275,
+      50.9860105
+    ],
+    "longitude": -113.9570275,
+    "latitude": 50.9860105,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

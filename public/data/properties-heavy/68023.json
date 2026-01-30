@@ -1,0 +1,37 @@
+{
+  "id": "68023",
+  "fullDetails": {
+    "licenseNumber": "68023",
+    "name": "COMFORT-AIRE",
+    "address": "16600 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-12-27T09:41:46.000Z",
+    "expiryDate": "2026-12-26T09:41:46.000Z",
+    "coordinates": [
+      -114.065601,
+      51.2020301
+    ],
+    "longitude": -114.065601,
+    "latitude": 51.2020301,
+    "community": "RESIDUAL WARD 3 - SUB AREA 03W",
+    "ward": "03W",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

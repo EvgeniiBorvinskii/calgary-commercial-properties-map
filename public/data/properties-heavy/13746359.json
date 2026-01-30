@@ -1,0 +1,36 @@
+{
+  "id": "13746359",
+  "fullDetails": {
+    "licenseNumber": "13746359",
+    "name": "BOTANECO",
+    "address": "#134 2985 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-07-21T10:38:59.000Z",
+    "expiryDate": "2026-07-20T10:38:59.000Z",
+    "coordinates": [
+      -113.9941212,
+      51.0712089
+    ],
+    "longitude": -113.9941212,
+    "latitude": 51.0712089,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

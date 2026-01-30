@@ -1,0 +1,36 @@
+{
+  "id": "16101131",
+  "fullDetails": {
+    "licenseNumber": "16101131",
+    "name": "BING FEN WORLD",
+    "address": "#11 1431 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-12-14T17:17:13.000Z",
+    "expiryDate": "2026-12-13T17:17:13.000Z",
+    "coordinates": [
+      -114.0296144,
+      51.0881096
+    ],
+    "longitude": -114.0296144,
+    "latitude": 51.0881096,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

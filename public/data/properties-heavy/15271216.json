@@ -1,0 +1,36 @@
+{
+  "id": "15271216",
+  "fullDetails": {
+    "licenseNumber": "15271216",
+    "name": "KAVAL INDUSTRIES",
+    "address": "#3 5622 BURBANK CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-09-10T13:46:38.000Z",
+    "expiryDate": "2026-09-09T13:46:38.000Z",
+    "coordinates": [
+      -114.0464564,
+      51.0057269
+    ],
+    "longitude": -114.0464564,
+    "latitude": 51.0057269,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

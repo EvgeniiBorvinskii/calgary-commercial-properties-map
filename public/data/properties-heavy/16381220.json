@@ -1,0 +1,37 @@
+{
+  "id": "16381220",
+  "fullDetails": {
+    "licenseNumber": "16381220",
+    "name": "ONE ROOF GROCERIES & CONVENIENCE",
+    "address": "#120 750 NOLAN HILL BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-08T16:46:15.000Z",
+    "expiryDate": "2026-12-07T16:46:15.000Z",
+    "coordinates": [
+      -114.1694615,
+      51.1795018
+    ],
+    "longitude": -114.1694615,
+    "latitude": 51.1795018,
+    "community": "NOLAN HILL",
+    "ward": "NOL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

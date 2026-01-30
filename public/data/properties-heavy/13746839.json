@@ -1,0 +1,36 @@
+{
+  "id": "13746839",
+  "fullDetails": {
+    "licenseNumber": "13746839",
+    "name": "ACCU-FLO METER SERVICE",
+    "address": "4024 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-11-06T12:27:51.000Z",
+    "expiryDate": "2026-11-05T12:27:51.000Z",
+    "coordinates": [
+      -114.0453989,
+      51.0191522
+    ],
+    "longitude": -114.0453989,
+    "latitude": 51.0191522,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16041675",
+  "fullDetails": {
+    "licenseNumber": "16041675",
+    "name": "VANTAGE MOTORS YYC",
+    "address": "2620 BARLOW TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-25T09:46:21.000Z",
+    "expiryDate": "2026-11-24T09:46:20.000Z",
+    "coordinates": [
+      -114.0005764,
+      51.0760091
+    ],
+    "longitude": -114.0005764,
+    "latitude": 51.0760091,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

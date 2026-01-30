@@ -1,0 +1,37 @@
+{
+  "id": "12245908",
+  "fullDetails": {
+    "licenseNumber": "12245908",
+    "name": "FLAME BROILED BARBEQUE",
+    "address": "#208 555 SADDLEDOME RI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2004-02-23T10:39:39.000Z",
+    "expiryDate": "2026-02-22T10:39:39.000Z",
+    "coordinates": [
+      -114.0519846,
+      51.0374055
+    ],
+    "longitude": -114.0519846,
+    "latitude": 51.0374055,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16501413",
+  "fullDetails": {
+    "licenseNumber": "16501413",
+    "name": "TUCKERS FOOD STORE",
+    "address": "4004 26 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES (NO SEATING),\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-08-21T12:32:31.000Z",
+    "expiryDate": "2026-08-20T12:32:31.000Z",
+    "coordinates": [
+      -113.9983848,
+      51.0184289
+    ],
+    "longitude": -113.9983848,
+    "latitude": 51.0184289,
+    "community": "DOVER",
+    "ward": "DOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

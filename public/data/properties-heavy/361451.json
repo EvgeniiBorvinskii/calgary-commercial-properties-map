@@ -1,0 +1,36 @@
+{
+  "id": "361451",
+  "fullDetails": {
+    "licenseNumber": "361451",
+    "name": "SERVICEMASTER OF CALGARY",
+    "address": "#4 1450 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2011-09-26T15:22:01.000Z",
+    "expiryDate": "2026-09-25T15:22:01.000Z",
+    "coordinates": [
+      -113.9912314,
+      51.064627
+    ],
+    "longitude": -113.9912314,
+    "latitude": 51.064627,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

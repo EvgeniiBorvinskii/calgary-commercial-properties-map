@@ -1,0 +1,36 @@
+{
+  "id": "16308421",
+  "fullDetails": {
+    "licenseNumber": "16308421",
+    "name": "JIFFY LUBE #1117",
+    "address": "4320 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-05-10T11:45:46.000Z",
+    "expiryDate": "2026-05-09T11:45:46.000Z",
+    "coordinates": [
+      -113.9717904,
+      51.0381306
+    ],
+    "longitude": -113.9717904,
+    "latitude": 51.0381306,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

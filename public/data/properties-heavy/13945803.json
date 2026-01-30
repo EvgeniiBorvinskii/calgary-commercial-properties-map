@@ -1,0 +1,36 @@
+{
+  "id": "13945803",
+  "fullDetails": {
+    "licenseNumber": "13945803",
+    "name": "KAMBO GLASS WORKS",
+    "address": "#403 4655 54 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-07-17T08:27:14.000Z",
+    "expiryDate": "2026-07-16T08:27:14.000Z",
+    "coordinates": [
+      -113.9669853,
+      51.101483
+    ],
+    "longitude": -113.9669853,
+    "latitude": 51.101483,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

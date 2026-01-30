@@ -1,0 +1,36 @@
+{
+  "id": "15485410",
+  "fullDetails": {
+    "licenseNumber": "15485410",
+    "name": "SUNBELT RENTALS OF CANADA",
+    "address": "301 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-23T14:39:55.000Z",
+    "expiryDate": "2026-05-22T14:39:55.000Z",
+    "coordinates": [
+      -114.0587274,
+      51.0130085
+    ],
+    "longitude": -114.0587274,
+    "latitude": 51.0130085,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

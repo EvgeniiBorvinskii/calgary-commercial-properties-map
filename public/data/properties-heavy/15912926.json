@@ -1,0 +1,36 @@
+{
+  "id": "15912926",
+  "fullDetails": {
+    "licenseNumber": "15912926",
+    "name": "RXO LAST MILE CANADA",
+    "address": "#121 2312 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2020-10-21T09:25:44.000Z",
+    "expiryDate": "2026-10-20T09:25:44.000Z",
+    "coordinates": [
+      -114.0050739,
+      51.0074183
+    ],
+    "longitude": -114.0050739,
+    "latitude": 51.0074183,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

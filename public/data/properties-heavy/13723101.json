@@ -1,0 +1,36 @@
+{
+  "id": "13723101",
+  "fullDetails": {
+    "licenseNumber": "13723101",
+    "name": "CONNECT HEARING",
+    "address": "#104A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-19T09:42:56.000Z",
+    "expiryDate": "2026-09-18T09:42:56.000Z",
+    "coordinates": [
+      -114.0988044,
+      50.9741228
+    ],
+    "longitude": -114.0988044,
+    "latitude": 50.9741228,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

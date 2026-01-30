@@ -1,0 +1,37 @@
+{
+  "id": "12062592",
+  "fullDetails": {
+    "licenseNumber": "12062592",
+    "name": "PROTECH DIAMOND TOOLS",
+    "address": "#105 1626 115 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-06-02T08:33:33.000Z",
+    "expiryDate": "2026-06-01T08:33:33.000Z",
+    "coordinates": [
+      -114.0238958,
+      51.1582061
+    ],
+    "longitude": -114.0238958,
+    "latitude": 51.1582061,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

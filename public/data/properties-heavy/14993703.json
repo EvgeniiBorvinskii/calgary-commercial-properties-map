@@ -1,0 +1,36 @@
+{
+  "id": "14993703",
+  "fullDetails": {
+    "licenseNumber": "14993703",
+    "name": "GARAGE212",
+    "address": "#10 9616 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-09-28T14:46:55.000Z",
+    "expiryDate": "2026-09-27T14:46:55.000Z",
+    "coordinates": [
+      -113.9694094,
+      50.9677394
+    ],
+    "longitude": -113.9694094,
+    "latitude": 50.9677394,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

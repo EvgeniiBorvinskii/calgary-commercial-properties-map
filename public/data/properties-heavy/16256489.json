@@ -1,0 +1,36 @@
+{
+  "id": "16256489",
+  "fullDetails": {
+    "licenseNumber": "16256489",
+    "name": "FIREFLY SOLAR",
+    "address": "#4 6020 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "licenseTypes": "DISTRIBUTION MANAGER (DIRECT SALES)",
+    "status": "active",
+    "issuedDate": "2023-12-12T08:44:20.000Z",
+    "expiryDate": "2026-12-11T08:44:20.000Z",
+    "coordinates": [
+      -114.0592593,
+      50.9983378
+    ],
+    "longitude": -114.0592593,
+    "latitude": 50.9983378,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

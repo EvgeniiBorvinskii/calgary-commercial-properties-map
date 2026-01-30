@@ -1,0 +1,36 @@
+{
+  "id": "14982904",
+  "fullDetails": {
+    "licenseNumber": "14982904",
+    "name": "YOGA SANTOSHA",
+    "address": "821 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-08-14T12:51:44.000Z",
+    "expiryDate": "2026-08-13T12:51:44.000Z",
+    "coordinates": [
+      -114.0952028,
+      51.0591483
+    ],
+    "longitude": -114.0952028,
+    "latitude": 51.0591483,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

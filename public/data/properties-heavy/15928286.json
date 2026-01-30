@@ -1,0 +1,36 @@
+{
+  "id": "15928286",
+  "fullDetails": {
+    "licenseNumber": "15928286",
+    "name": "CANADIAN PIZZA UNLIMITED",
+    "address": "#1118 4818 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-15T09:13:40.000Z",
+    "expiryDate": "2026-12-14T09:13:40.000Z",
+    "coordinates": [
+      -113.9653464,
+      51.1006957
+    ],
+    "longitude": -113.9653464,
+    "latitude": 51.1006957,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

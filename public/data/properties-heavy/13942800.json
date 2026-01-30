@@ -1,0 +1,37 @@
+{
+  "id": "13942800",
+  "fullDetails": {
+    "licenseNumber": "13942800",
+    "name": "BEAUTY DEPOT ENTERPRISES & THE ESTHETIC INSTITUTE TRAINING CENTER",
+    "address": "1351 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-12-01T05:35:20.000Z",
+    "expiryDate": "2026-11-30T05:35:20.000Z",
+    "coordinates": [
+      -114.0250158,
+      51.0808188
+    ],
+    "longitude": -114.0250158,
+    "latitude": 51.0808188,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

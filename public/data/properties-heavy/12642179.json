@@ -1,0 +1,37 @@
+{
+  "id": "12642179",
+  "fullDetails": {
+    "licenseNumber": "12642179",
+    "name": "STARBUCKS COFFEE # 4864",
+    "address": "#103 12294 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2008-12-10T06:43:24.000Z",
+    "expiryDate": "2026-12-09T06:43:24.000Z",
+    "coordinates": [
+      -114.1272773,
+      51.1634599
+    ],
+    "longitude": -114.1272773,
+    "latitude": 51.1634599,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

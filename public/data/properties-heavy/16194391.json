@@ -1,0 +1,37 @@
+{
+  "id": "16194391",
+  "fullDetails": {
+    "licenseNumber": "16194391",
+    "name": "MR. LUBE",
+    "address": "#5110 4 ROYAL VISTA WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-11-10T16:41:42.000Z",
+    "expiryDate": "2026-11-09T16:41:42.000Z",
+    "coordinates": [
+      -114.206857,
+      51.1523451
+    ],
+    "longitude": -114.206857,
+    "latitude": 51.1523451,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14825467",
+  "fullDetails": {
+    "licenseNumber": "14825467",
+    "name": "ANDERWERKS MOTORRAD SPEZIALIST",
+    "address": "#3 3924 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-16T15:44:41.000Z",
+    "expiryDate": "2026-03-15T15:44:41.000Z",
+    "coordinates": [
+      -114.0530225,
+      51.0879033
+    ],
+    "longitude": -114.0530225,
+    "latitude": 51.0879033,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

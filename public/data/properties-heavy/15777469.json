@@ -1,0 +1,36 @@
+{
+  "id": "15777469",
+  "fullDetails": {
+    "licenseNumber": "15777469",
+    "name": "SOLUTION FINANCIAL",
+    "address": "#5L 155 GLENDEER CI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-05T08:42:26.000Z",
+    "expiryDate": "2026-12-04T08:42:26.000Z",
+    "coordinates": [
+      -114.0339584,
+      50.9891571
+    ],
+    "longitude": -114.0339584,
+    "latitude": 50.9891571,
+    "community": "GLENDEER BUSINESS PARK",
+    "ward": "GBP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

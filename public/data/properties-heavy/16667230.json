@@ -1,0 +1,37 @@
+{
+  "id": "16667230",
+  "fullDetails": {
+    "licenseNumber": "16667230",
+    "name": "CJLUX NAILS BAR",
+    "address": "#185 108 SHAWVILLE PL SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2025-08-21T08:05:52.000Z",
+    "expiryDate": "2026-08-20T08:05:52.000Z",
+    "coordinates": [
+      -114.0686342,
+      50.9114899
+    ],
+    "longitude": -114.0686342,
+    "latitude": 50.9114899,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

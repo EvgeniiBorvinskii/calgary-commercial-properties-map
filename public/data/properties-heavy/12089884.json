@@ -1,0 +1,37 @@
+{
+  "id": "12089884",
+  "fullDetails": {
+    "licenseNumber": "12089884",
+    "name": "STARBUCKS COFFEE #75131",
+    "address": "#100 450 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2002-04-05T17:25:42.000Z",
+    "expiryDate": "2026-04-04T15:27:01.000Z",
+    "coordinates": [
+      -114.0645609,
+      51.04893
+    ],
+    "longitude": -114.0645609,
+    "latitude": 51.04893,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

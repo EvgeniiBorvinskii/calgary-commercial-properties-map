@@ -1,0 +1,36 @@
+{
+  "id": "12038378",
+  "fullDetails": {
+    "licenseNumber": "12038378",
+    "name": "UPS SUPPLY CHAIN SOLUTIONS",
+    "address": "4807 47 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2002-08-14T17:18:20.000Z",
+    "expiryDate": "2026-08-13T05:31:51.000Z",
+    "coordinates": [
+      -113.9664059,
+      51.0120503
+    ],
+    "longitude": -113.9664059,
+    "latitude": 51.0120503,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

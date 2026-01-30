@@ -1,0 +1,37 @@
+{
+  "id": "15945991",
+  "fullDetails": {
+    "licenseNumber": "15945991",
+    "name": "GLOBAL AUTO BODY SUPPLIES",
+    "address": "1623 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-11-25T11:30:47.000Z",
+    "expiryDate": "2026-11-24T11:30:47.000Z",
+    "coordinates": [
+      -114.0223272,
+      51.0810087
+    ],
+    "longitude": -114.0223272,
+    "latitude": 51.0810087,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

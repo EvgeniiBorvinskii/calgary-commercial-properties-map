@@ -1,0 +1,37 @@
+{
+  "id": "16004343",
+  "fullDetails": {
+    "licenseNumber": "16004343",
+    "name": "PHONE SENSE",
+    "address": "#117 216 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-07-27T15:44:10.000Z",
+    "expiryDate": "2026-07-26T15:44:10.000Z",
+    "coordinates": [
+      -113.9479316,
+      51.1245961
+    ],
+    "longitude": -113.9479316,
+    "latitude": 51.1245961,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

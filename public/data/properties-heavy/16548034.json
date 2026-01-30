@@ -1,0 +1,36 @@
+{
+  "id": "16548034",
+  "fullDetails": {
+    "licenseNumber": "16548034",
+    "name": "FLOORING SOLUTIONS",
+    "address": "#113 1324 44 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-15T14:05:47.000Z",
+    "expiryDate": "2026-09-14T14:05:46.000Z",
+    "coordinates": [
+      -114.0310673,
+      51.0921219
+    ],
+    "longitude": -114.0310673,
+    "latitude": 51.0921219,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

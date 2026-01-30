@@ -1,0 +1,36 @@
+{
+  "id": "543926",
+  "fullDetails": {
+    "licenseNumber": "543926",
+    "name": "MORNING SUN HEALTH FOODS",
+    "address": "#41A 1200 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-09T00:00:00.000Z",
+    "coordinates": [
+      -114.140256,
+      51.0421834
+    ],
+    "longitude": -114.140256,
+    "latitude": 51.0421834,
+    "community": "ROSSCARROCK",
+    "ward": "RCK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

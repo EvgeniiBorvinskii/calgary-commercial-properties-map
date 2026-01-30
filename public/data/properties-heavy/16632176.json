@@ -1,0 +1,36 @@
+{
+  "id": "16632176",
+  "fullDetails": {
+    "licenseNumber": "16632176",
+    "name": "GOLDS GYM VILLAGE SQUARE",
+    "address": "#180 2520 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-06-06T16:10:03.000Z",
+    "expiryDate": "2026-06-05T16:10:02.000Z",
+    "coordinates": [
+      -113.9561116,
+      51.0746184
+    ],
+    "longitude": -113.9561116,
+    "latitude": 51.0746184,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

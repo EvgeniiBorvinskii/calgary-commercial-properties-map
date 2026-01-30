@@ -1,0 +1,36 @@
+{
+  "id": "16159972",
+  "fullDetails": {
+    "licenseNumber": "16159972",
+    "name": "WOLFS CATERING AND BBQ (CGY-1647)",
+    "address": "#3515 120 YORKVILLE PA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2022-05-11T07:42:19.000Z",
+    "expiryDate": "2026-05-10T07:42:19.000Z",
+    "coordinates": [
+      -114.0723588,
+      50.8706836
+    ],
+    "longitude": -114.0723588,
+    "latitude": 50.8706836,
+    "community": "YORKVILLE",
+    "ward": "YKV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

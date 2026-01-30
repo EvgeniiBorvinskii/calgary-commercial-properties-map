@@ -1,0 +1,37 @@
+{
+  "id": "15926991",
+  "fullDetails": {
+    "licenseNumber": "15926991",
+    "name": "STORYBOOK THEATRE",
+    "address": "375 BERMUDA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "CHARITABLE ORGANIZATION,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nCHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-13T10:00:28.000Z",
+    "expiryDate": "2026-11-12T10:00:28.000Z",
+    "coordinates": [
+      -114.0852073,
+      51.131657
+    ],
+    "longitude": -114.0852073,
+    "latitude": 51.131657,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

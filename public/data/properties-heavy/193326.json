@@ -1,0 +1,36 @@
+{
+  "id": "193326",
+  "fullDetails": {
+    "licenseNumber": "193326",
+    "name": "KALLEN PRINTING",
+    "address": "#116 239 MAYLAND PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-12-06T11:05:45.000Z",
+    "expiryDate": "2026-12-05T11:05:45.000Z",
+    "coordinates": [
+      -114.012007,
+      51.0544298
+    ],
+    "longitude": -114.012007,
+    "latitude": 51.0544298,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

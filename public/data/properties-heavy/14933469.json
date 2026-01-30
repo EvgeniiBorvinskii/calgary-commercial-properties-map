@@ -1,0 +1,37 @@
+{
+  "id": "14933469",
+  "fullDetails": {
+    "licenseNumber": "14933469",
+    "name": "FLYING SQUIRREL SOUTH CALGARY",
+    "address": "#13 5342 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-08-28T15:13:56.000Z",
+    "expiryDate": "2026-08-27T15:13:56.000Z",
+    "coordinates": [
+      -113.9562193,
+      50.9904702
+    ],
+    "longitude": -113.9562193,
+    "latitude": 50.9904702,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16451213",
+  "fullDetails": {
+    "licenseNumber": "16451213",
+    "name": "YOU GLOW CALGARY NW",
+    "address": "#228 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-05-23T19:27:35.000Z",
+    "expiryDate": "2026-05-22T19:27:35.000Z",
+    "coordinates": [
+      -114.1974859,
+      51.1230029
+    ],
+    "longitude": -114.1974859,
+    "latitude": 51.1230029,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

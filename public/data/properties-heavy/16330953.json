@@ -1,0 +1,37 @@
+{
+  "id": "16330953",
+  "fullDetails": {
+    "licenseNumber": "16330953",
+    "name": "RONA+",
+    "address": "9630 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-07-26T08:34:49.000Z",
+    "expiryDate": "2026-07-25T08:34:49.000Z",
+    "coordinates": [
+      -114.0694736,
+      50.9674068
+    ],
+    "longitude": -114.0694736,
+    "latitude": 50.9674068,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

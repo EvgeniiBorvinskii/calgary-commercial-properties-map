@@ -1,0 +1,36 @@
+{
+  "id": "16638611",
+  "fullDetails": {
+    "licenseNumber": "16638611",
+    "name": "FRESCO SOLUTIONS",
+    "address": "#19 4905 102 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-09T07:25:49.000Z",
+    "expiryDate": "2026-06-08T07:25:49.000Z",
+    "coordinates": [
+      -113.9638168,
+      50.961902
+    ],
+    "longitude": -113.9638168,
+    "latitude": 50.961902,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

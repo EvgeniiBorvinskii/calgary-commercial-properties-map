@@ -1,0 +1,36 @@
+{
+  "id": "12823431",
+  "fullDetails": {
+    "licenseNumber": "12823431",
+    "name": "FAR EAST FOOD",
+    "address": "2830 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2010-09-20T10:14:42.000Z",
+    "expiryDate": "2026-09-19T10:14:42.000Z",
+    "coordinates": [
+      -113.9935742,
+      51.038041
+    ],
+    "longitude": -113.9935742,
+    "latitude": 51.038041,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14930119",
+  "fullDetails": {
+    "licenseNumber": "14930119",
+    "name": "BOWNESS ANIMAL HOSPITAL",
+    "address": "#52 7930 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-14T15:34:56.000Z",
+    "expiryDate": "2026-05-13T15:34:56.000Z",
+    "coordinates": [
+      -114.2003443,
+      51.0900941
+    ],
+    "longitude": -114.2003443,
+    "latitude": 51.0900941,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

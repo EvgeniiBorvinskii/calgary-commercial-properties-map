@@ -1,0 +1,36 @@
+{
+  "id": "16702789",
+  "fullDetails": {
+    "licenseNumber": "16702789",
+    "name": "SOBEYS WEST DISTRICT 4066",
+    "address": "740 85 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-16T15:05:14.000Z",
+    "expiryDate": "2026-12-15T15:05:14.000Z",
+    "coordinates": [
+      -114.2101513,
+      51.0651974
+    ],
+    "longitude": -114.2101513,
+    "latitude": 51.0651974,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

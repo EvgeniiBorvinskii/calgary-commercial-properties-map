@@ -1,0 +1,36 @@
+{
+  "id": "16700726",
+  "fullDetails": {
+    "licenseNumber": "16700726",
+    "name": "GREAT CHOICE MEAT AND POULTRY",
+    "address": "#130 70 SADDLEPEACE MR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2026-01-15T11:10:12.000Z",
+    "expiryDate": "2027-01-14T11:10:11.000Z",
+    "coordinates": [
+      -113.9663034,
+      51.1313533
+    ],
+    "longitude": -113.9663034,
+    "latitude": 51.1313533,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12618179",
+  "fullDetails": {
+    "licenseNumber": "12618179",
+    "name": "UNDER THE ROOF DECORATING",
+    "address": "#200 1711 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "pending",
+    "issuedDate": "2016-04-04T15:27:31.000Z",
+    "expiryDate": "2026-04-03T15:27:31.000Z",
+    "coordinates": [
+      -114.1000362,
+      51.0440872
+    ],
+    "longitude": -114.1000362,
+    "latitude": 51.0440872,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

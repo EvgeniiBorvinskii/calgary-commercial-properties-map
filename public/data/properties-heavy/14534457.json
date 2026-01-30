@@ -1,0 +1,36 @@
+{
+  "id": "14534457",
+  "fullDetails": {
+    "licenseNumber": "14534457",
+    "name": "VIVIAN BROMMELAND",
+    "address": "11800 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2023-10-02T12:58:12.000Z",
+    "expiryDate": "2026-10-01T12:58:12.000Z",
+    "coordinates": [
+      -114.067251,
+      50.9478054
+    ],
+    "longitude": -114.067251,
+    "latitude": 50.9478054,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

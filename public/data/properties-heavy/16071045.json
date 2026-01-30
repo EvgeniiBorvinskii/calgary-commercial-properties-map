@@ -1,0 +1,36 @@
+{
+  "id": "16071045",
+  "fullDetails": {
+    "licenseNumber": "16071045",
+    "name": "MANSIS KITCHEN",
+    "address": "#120 45 EDENWOLD DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-29T09:42:21.000Z",
+    "expiryDate": "2026-09-28T09:42:21.000Z",
+    "coordinates": [
+      -114.1395164,
+      51.1269445
+    ],
+    "longitude": -114.1395164,
+    "latitude": 51.1269445,
+    "community": "EDGEMONT",
+    "ward": "EDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

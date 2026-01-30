@@ -1,0 +1,36 @@
+{
+  "id": "14484570",
+  "fullDetails": {
+    "licenseNumber": "14484570",
+    "name": "INDOCHINO APPAREL",
+    "address": "#169 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-07-12T11:00:49.000Z",
+    "expiryDate": "2026-07-11T11:00:49.000Z",
+    "coordinates": [
+      -114.0740651,
+      50.9985179
+    ],
+    "longitude": -114.0740651,
+    "latitude": 50.9985179,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

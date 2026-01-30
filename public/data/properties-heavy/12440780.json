@@ -1,0 +1,36 @@
+{
+  "id": "12440780",
+  "fullDetails": {
+    "licenseNumber": "12440780",
+    "name": "CALIBRE DEVELOPMENTS",
+    "address": "6224 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2005-11-08T08:23:31.000Z",
+    "expiryDate": "2026-11-07T08:23:31.000Z",
+    "coordinates": [
+      -113.988447,
+      50.9968012
+    ],
+    "longitude": -113.988447,
+    "latitude": 50.9968012,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

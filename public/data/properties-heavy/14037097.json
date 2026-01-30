@@ -1,0 +1,37 @@
+{
+  "id": "14037097",
+  "fullDetails": {
+    "licenseNumber": "14037097",
+    "name": "A-MART",
+    "address": "#4 7400 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-02T14:56:41.000Z",
+    "expiryDate": "2026-12-01T14:56:40.000Z",
+    "coordinates": [
+      -114.0705886,
+      50.9869611
+    ],
+    "longitude": -114.0705886,
+    "latitude": 50.9869611,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

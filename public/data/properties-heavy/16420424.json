@@ -1,0 +1,36 @@
+{
+  "id": "16420424",
+  "fullDetails": {
+    "licenseNumber": "16420424",
+    "name": "MOVE DANCE STUDIO",
+    "address": "#3 2312 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2023-12-14T15:57:12.000Z",
+    "expiryDate": "2026-12-13T15:57:12.000Z",
+    "coordinates": [
+      -114.0711512,
+      51.0317542
+    ],
+    "longitude": -114.0711512,
+    "latitude": 51.0317542,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

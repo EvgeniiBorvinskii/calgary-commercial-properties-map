@@ -1,0 +1,36 @@
+{
+  "id": "13804216",
+  "fullDetails": {
+    "licenseNumber": "13804216",
+    "name": "ACCESS INFORMATION MANAGEMENT OF CANADA",
+    "address": "#150 7505 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-12-19T05:33:31.000Z",
+    "expiryDate": "2026-12-18T05:33:30.000Z",
+    "coordinates": [
+      -113.9666663,
+      50.9868377
+    ],
+    "longitude": -113.9666663,
+    "latitude": 50.9868377,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

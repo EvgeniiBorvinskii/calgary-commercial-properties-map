@@ -1,0 +1,36 @@
+{
+  "id": "14262695",
+  "fullDetails": {
+    "licenseNumber": "14262695",
+    "name": "AUTO-MOTIVATION",
+    "address": "3835 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2017-02-09T08:13:50.000Z",
+    "expiryDate": "2027-02-08T08:13:50.000Z",
+    "coordinates": [
+      -113.9952785,
+      51.0874314
+    ],
+    "longitude": -113.9952785,
+    "latitude": 51.0874314,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

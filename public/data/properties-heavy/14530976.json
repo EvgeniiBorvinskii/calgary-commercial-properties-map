@@ -1,0 +1,36 @@
+{
+  "id": "14530976",
+  "fullDetails": {
+    "licenseNumber": "14530976",
+    "name": "CLEANO2 CARBON CAPTURE TECHNOLOGIES",
+    "address": "4500 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-07-07T10:16:28.000Z",
+    "expiryDate": "2026-07-06T10:16:28.000Z",
+    "coordinates": [
+      -113.9685611,
+      51.0093824
+    ],
+    "longitude": -113.9685611,
+    "latitude": 51.0093824,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

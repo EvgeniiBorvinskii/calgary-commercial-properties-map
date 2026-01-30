@@ -1,0 +1,36 @@
+{
+  "id": "15690266",
+  "fullDetails": {
+    "licenseNumber": "15690266",
+    "name": "MACLEOD TRAIL ANIMAL HOSPITAL",
+    "address": "8910 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-04T08:57:41.000Z",
+    "expiryDate": "2026-09-03T08:57:41.000Z",
+    "coordinates": [
+      -114.0708998,
+      50.9733371
+    ],
+    "longitude": -114.0708998,
+    "latitude": 50.9733371,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

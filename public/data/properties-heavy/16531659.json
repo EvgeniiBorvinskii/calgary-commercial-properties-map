@@ -1,0 +1,37 @@
+{
+  "id": "16531659",
+  "fullDetails": {
+    "licenseNumber": "16531659",
+    "name": "WESTERN RETAIL SOLUTIONS",
+    "address": "#129 7850 66 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2024-11-29T08:17:14.000Z",
+    "expiryDate": "2026-11-28T08:17:13.000Z",
+    "coordinates": [
+      -113.9369826,
+      50.9835647
+    ],
+    "longitude": -113.9369826,
+    "latitude": 50.9835647,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

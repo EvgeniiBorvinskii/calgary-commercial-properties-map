@@ -1,0 +1,36 @@
+{
+  "id": "16581928",
+  "fullDetails": {
+    "licenseNumber": "16581928",
+    "name": "MEREB TRADITIONAL",
+    "address": "3413 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-03T09:23:02.000Z",
+    "expiryDate": "2026-07-02T09:23:02.000Z",
+    "coordinates": [
+      -113.9854912,
+      51.0373673
+    ],
+    "longitude": -113.9854912,
+    "latitude": 51.0373673,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

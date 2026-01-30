@@ -1,0 +1,36 @@
+{
+  "id": "12380283",
+  "fullDetails": {
+    "licenseNumber": "12380283",
+    "name": "REGISTRY @ SOUTH TRAIL CROSSING",
+    "address": "#66 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2005-04-01T07:28:13.000Z",
+    "expiryDate": "2026-03-31T07:28:13.000Z",
+    "coordinates": [
+      -113.9722114,
+      50.9292856
+    ],
+    "longitude": -113.9722114,
+    "latitude": 50.9292856,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

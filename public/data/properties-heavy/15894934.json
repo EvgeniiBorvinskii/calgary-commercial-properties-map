@@ -1,0 +1,36 @@
+{
+  "id": "15894934",
+  "fullDetails": {
+    "licenseNumber": "15894934",
+    "name": "WAYNE'S BAGELS",
+    "address": "831 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-08T16:01:13.000Z",
+    "expiryDate": "2026-05-07T16:01:13.000Z",
+    "coordinates": [
+      -114.0808936,
+      51.0437115
+    ],
+    "longitude": -114.0808936,
+    "latitude": 51.0437115,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16670465",
+  "fullDetails": {
+    "licenseNumber": "16670465",
+    "name": "FRESHCO FRONTIER 9623",
+    "address": "1910 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-19T12:33:41.000Z",
+    "expiryDate": "2026-09-18T12:33:40.000Z",
+    "coordinates": [
+      -114.1032466,
+      51.0527269
+    ],
+    "longitude": -114.1032466,
+    "latitude": 51.0527269,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

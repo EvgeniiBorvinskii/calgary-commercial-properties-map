@@ -1,0 +1,36 @@
+{
+  "id": "16078057",
+  "fullDetails": {
+    "licenseNumber": "16078057",
+    "name": "ISPA LOUNGE",
+    "address": "#300 317 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-19T11:59:01.000Z",
+    "expiryDate": "2026-10-18T11:59:01.000Z",
+    "coordinates": [
+      -114.0687721,
+      51.0464509
+    ],
+    "longitude": -114.0687721,
+    "latitude": 51.0464509,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

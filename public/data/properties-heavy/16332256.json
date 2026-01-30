@@ -1,0 +1,36 @@
+{
+  "id": "16332256",
+  "fullDetails": {
+    "licenseNumber": "16332256",
+    "name": "TEAM TOWN SPORTS",
+    "address": "33 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-03T07:49:06.000Z",
+    "expiryDate": "2026-07-02T07:49:06.000Z",
+    "coordinates": [
+      -114.046918,
+      50.9877574
+    ],
+    "longitude": -114.046918,
+    "latitude": 50.9877574,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

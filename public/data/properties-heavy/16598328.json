@@ -1,0 +1,37 @@
+{
+  "id": "16598328",
+  "fullDetails": {
+    "licenseNumber": "16598328",
+    "name": "SAGE HILL VAPES",
+    "address": "#850 3950 SAGE HILL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-05-15T08:30:27.000Z",
+    "expiryDate": "2026-05-14T08:30:27.000Z",
+    "coordinates": [
+      -114.1391579,
+      51.1747333
+    ],
+    "longitude": -114.1391579,
+    "latitude": 51.1747333,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

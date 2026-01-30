@@ -1,0 +1,36 @@
+{
+  "id": "977413",
+  "fullDetails": {
+    "licenseNumber": "977413",
+    "name": "DATADRILL COMMUNICATIONS",
+    "address": "4865 35A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-03T12:09:51.000Z",
+    "expiryDate": "2026-06-02T12:09:51.000Z",
+    "coordinates": [
+      -113.9805607,
+      51.0108753
+    ],
+    "longitude": -113.9805607,
+    "latitude": 51.0108753,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

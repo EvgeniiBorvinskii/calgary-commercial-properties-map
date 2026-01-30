@@ -1,0 +1,37 @@
+{
+  "id": "15453426",
+  "fullDetails": {
+    "licenseNumber": "15453426",
+    "name": "SMART LIFE",
+    "address": "#9 1815 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER),\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-05-06T12:33:04.000Z",
+    "expiryDate": "2026-05-05T12:33:03.000Z",
+    "coordinates": [
+      -114.0162656,
+      51.0760666
+    ],
+    "longitude": -114.0162656,
+    "latitude": 51.0760666,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

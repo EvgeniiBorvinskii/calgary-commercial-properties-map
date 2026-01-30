@@ -1,0 +1,37 @@
+{
+  "id": "16058141",
+  "fullDetails": {
+    "licenseNumber": "16058141",
+    "name": "GOOD EARTH COFFEEHOUSE",
+    "address": "410 UNIVERSITY CO NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-09-08T13:37:56.000Z",
+    "expiryDate": "2026-09-07T13:37:56.000Z",
+    "coordinates": [
+      -114.1304663,
+      51.0769086
+    ],
+    "longitude": -114.1304663,
+    "latitude": 51.0769086,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12595500",
+  "fullDetails": {
+    "licenseNumber": "12595500",
+    "name": "KRISH DOLLAR AND GIFT BAZAAR",
+    "address": "#104 208 SADDLETOWNE CI NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2007-09-25T10:39:34.000Z",
+    "expiryDate": "2026-09-24T10:39:34.000Z",
+    "coordinates": [
+      -113.9470742,
+      51.1241483
+    ],
+    "longitude": -113.9470742,
+    "latitude": 51.1241483,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

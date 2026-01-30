@@ -1,0 +1,37 @@
+{
+  "id": "16316150",
+  "fullDetails": {
+    "licenseNumber": "16316150",
+    "name": "PAYLESS RADIATORS AND CONDENSERS",
+    "address": "#5 3800 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-05-29T07:41:15.000Z",
+    "expiryDate": "2026-05-28T07:41:14.000Z",
+    "coordinates": [
+      -114.0106507,
+      51.0867785
+    ],
+    "longitude": -114.0106507,
+    "latitude": 51.0867785,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

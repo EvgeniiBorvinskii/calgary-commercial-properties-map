@@ -1,0 +1,36 @@
+{
+  "id": "16151904",
+  "fullDetails": {
+    "licenseNumber": "16151904",
+    "name": "BIDELL EQUIPMENT",
+    "address": "5550 55 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-10-21T12:22:15.000Z",
+    "expiryDate": "2026-10-20T12:22:15.000Z",
+    "coordinates": [
+      -113.9489494,
+      51.0032167
+    ],
+    "longitude": -113.9489494,
+    "latitude": 51.0032167,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

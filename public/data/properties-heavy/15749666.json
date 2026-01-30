@@ -1,0 +1,36 @@
+{
+  "id": "15749666",
+  "fullDetails": {
+    "licenseNumber": "15749666",
+    "name": "TRUE NORTH CONCRETE CUTTING AND CORING",
+    "address": "#101 3904 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-02-24T13:33:43.000Z",
+    "expiryDate": "2026-02-23T13:33:43.000Z",
+    "coordinates": [
+      -114.053024,
+      51.0870132
+    ],
+    "longitude": -114.053024,
+    "latitude": 51.0870132,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

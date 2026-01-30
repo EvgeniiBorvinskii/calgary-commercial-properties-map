@@ -1,0 +1,36 @@
+{
+  "id": "16161119",
+  "fullDetails": {
+    "licenseNumber": "16161119",
+    "name": "FAGAN FAMILY AUTOMOTIVE",
+    "address": "#120 1122 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-12T05:32:54.000Z",
+    "expiryDate": "2026-07-11T05:32:54.000Z",
+    "coordinates": [
+      -114.0354382,
+      51.0893076
+    ],
+    "longitude": -114.0354382,
+    "latitude": 51.0893076,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

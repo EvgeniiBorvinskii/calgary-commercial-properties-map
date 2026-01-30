@@ -1,0 +1,36 @@
+{
+  "id": "15091960",
+  "fullDetails": {
+    "licenseNumber": "15091960",
+    "name": "WESTJET HEAD OFFICE #63365",
+    "address": "22 AERIAL PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-12-19T14:53:20.000Z",
+    "expiryDate": "2026-12-18T14:53:20.000Z",
+    "coordinates": [
+      -114.0074988,
+      51.1212931
+    ],
+    "longitude": -114.0074988,
+    "latitude": 51.1212931,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

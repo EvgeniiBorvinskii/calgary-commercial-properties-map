@@ -1,0 +1,36 @@
+{
+  "id": "16589350",
+  "fullDetails": {
+    "licenseNumber": "16589350",
+    "name": "S PILATES",
+    "address": "2640 24 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-02-14T09:47:38.000Z",
+    "expiryDate": "2026-02-13T09:47:37.000Z",
+    "coordinates": [
+      -114.1175634,
+      51.03069
+    ],
+    "longitude": -114.1175634,
+    "latitude": 51.03069,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

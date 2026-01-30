@@ -1,0 +1,36 @@
+{
+  "id": "16565681",
+  "fullDetails": {
+    "licenseNumber": "16565681",
+    "name": "WENDYS RESTAURANT",
+    "address": "#900 388 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2025-04-11T10:22:58.000Z",
+    "expiryDate": "2026-04-10T10:22:57.000Z",
+    "coordinates": [
+      -114.0655846,
+      51.1543049
+    ],
+    "longitude": -114.0655846,
+    "latitude": 51.1543049,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

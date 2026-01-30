@@ -1,0 +1,36 @@
+{
+  "id": "920108",
+  "fullDetails": {
+    "licenseNumber": "920108",
+    "name": "KNIBBE AUTOMOTIVE REPAIR",
+    "address": "160 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-20T00:00:00.000Z",
+    "coordinates": [
+      -114.2081841,
+      51.1266055
+    ],
+    "longitude": -114.2081841,
+    "latitude": 51.1266055,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

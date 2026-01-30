@@ -1,0 +1,37 @@
+{
+  "id": "15128952",
+  "fullDetails": {
+    "licenseNumber": "15128952",
+    "name": "NATOLOGY - INTEGRATIVE SKIN THERAPY",
+    "address": "507 18 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-11-15T11:59:58.000Z",
+    "expiryDate": "2026-11-14T11:59:58.000Z",
+    "coordinates": [
+      -114.072173,
+      51.0366876
+    ],
+    "longitude": -114.072173,
+    "latitude": 51.0366876,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

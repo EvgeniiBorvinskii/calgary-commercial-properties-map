@@ -1,0 +1,37 @@
+{
+  "id": "16520090",
+  "fullDetails": {
+    "licenseNumber": "16520090",
+    "name": "RIVER HALL",
+    "address": "311 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "MARKET,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nMARKET,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2024-08-30T15:26:00.000Z",
+    "expiryDate": "2026-08-29T15:25:59.000Z",
+    "coordinates": [
+      -114.0811466,
+      51.0501953
+    ],
+    "longitude": -114.0811466,
+    "latitude": 51.0501953,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

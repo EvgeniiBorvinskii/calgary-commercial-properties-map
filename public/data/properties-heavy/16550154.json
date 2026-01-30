@@ -1,0 +1,36 @@
+{
+  "id": "16550154",
+  "fullDetails": {
+    "licenseNumber": "16550154",
+    "name": "CENTRAL AUTO ZONE",
+    "address": "5210 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (MOBILE) (HOME BASED)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (MOBILE) (HOME BASED)",
+    "status": "in_progress",
+    "issuedDate": "2024-10-24T14:58:05.000Z",
+    "expiryDate": "2025-10-23T14:58:05.000Z",
+    "coordinates": [
+      -113.9592027,
+      51.0380532
+    ],
+    "longitude": -113.9592027,
+    "latitude": 51.0380532,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

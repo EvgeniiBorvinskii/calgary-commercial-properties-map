@@ -1,0 +1,36 @@
+{
+  "id": "16571739",
+  "fullDetails": {
+    "licenseNumber": "16571739",
+    "name": "ALL-STAR BARBERSHOP",
+    "address": "#130 6915 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-12-18T16:24:16.000Z",
+    "expiryDate": "2026-12-17T16:24:15.000Z",
+    "coordinates": [
+      -113.9415517,
+      51.0809923
+    ],
+    "longitude": -113.9415517,
+    "latitude": 51.0809923,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

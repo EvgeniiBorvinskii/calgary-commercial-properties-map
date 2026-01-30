@@ -1,0 +1,37 @@
+{
+  "id": "12462594",
+  "fullDetails": {
+    "licenseNumber": "12462594",
+    "name": "PULCINELLA RESTAURANT",
+    "address": "1147 KENSINGTON CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2006-04-07T14:49:46.000Z",
+    "expiryDate": "2026-04-06T14:49:46.000Z",
+    "coordinates": [
+      -114.0887328,
+      51.0522132
+    ],
+    "longitude": -114.0887328,
+    "latitude": 51.0522132,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

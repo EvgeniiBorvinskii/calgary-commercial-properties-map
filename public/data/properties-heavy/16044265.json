@@ -1,0 +1,36 @@
+{
+  "id": "16044265",
+  "fullDetails": {
+    "licenseNumber": "16044265",
+    "name": "BABYLON RECYCLING",
+    "address": "2719 3 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "in_progress",
+    "issuedDate": "2021-08-11T08:56:51.000Z",
+    "expiryDate": "2026-08-10T08:56:51.000Z",
+    "coordinates": [
+      -113.9963529,
+      51.053631
+    ],
+    "longitude": -113.9963529,
+    "latitude": 51.053631,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

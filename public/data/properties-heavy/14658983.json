@@ -1,0 +1,37 @@
+{
+  "id": "14658983",
+  "fullDetails": {
+    "licenseNumber": "14658983",
+    "name": "SOLE RESTAURANT & BAR",
+    "address": "#120 703 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "TOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-01-23T11:33:59.000Z",
+    "expiryDate": "2027-01-22T11:33:58.000Z",
+    "coordinates": [
+      -114.0767342,
+      51.0475889
+    ],
+    "longitude": -114.0767342,
+    "latitude": 51.0475889,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

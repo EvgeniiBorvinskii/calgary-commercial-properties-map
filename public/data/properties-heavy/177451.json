@@ -1,0 +1,36 @@
+{
+  "id": "177451",
+  "fullDetails": {
+    "licenseNumber": "177451",
+    "name": "LANCASHIRE SAW SALES & SERVICE",
+    "address": "#4 7503 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-01-03T10:56:31.000Z",
+    "expiryDate": "2027-01-02T10:56:31.000Z",
+    "coordinates": [
+      -113.9833844,
+      50.9861496
+    ],
+    "longitude": -113.9833844,
+    "latitude": 50.9861496,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

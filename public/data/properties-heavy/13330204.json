@@ -1,0 +1,36 @@
+{
+  "id": "13330204",
+  "fullDetails": {
+    "licenseNumber": "13330204",
+    "name": "SLIVER CUSTOM DESIGN & FINISHING",
+    "address": "#305 3223 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-07-20T13:36:23.000Z",
+    "expiryDate": "2026-07-19T13:36:23.000Z",
+    "coordinates": [
+      -113.9867555,
+      51.0565276
+    ],
+    "longitude": -113.9867555,
+    "latitude": 51.0565276,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

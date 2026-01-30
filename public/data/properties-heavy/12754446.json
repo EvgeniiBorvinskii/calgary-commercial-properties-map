@@ -1,0 +1,37 @@
+{
+  "id": "12754446",
+  "fullDetails": {
+    "licenseNumber": "12754446",
+    "name": "SHOPPERS DRUG MART #376",
+    "address": "#300 85 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-01-21T14:00:18.000Z",
+    "expiryDate": "2027-01-20T14:00:18.000Z",
+    "coordinates": [
+      -114.068982,
+      50.9041115
+    ],
+    "longitude": -114.068982,
+    "latitude": 50.9041115,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

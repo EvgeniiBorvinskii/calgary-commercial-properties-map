@@ -1,0 +1,37 @@
+{
+  "id": "14170153",
+  "fullDetails": {
+    "licenseNumber": "14170153",
+    "name": "FLO DRAULIC CONTROLS",
+    "address": "12138 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2021-06-02T16:30:54.000Z",
+    "expiryDate": "2026-06-01T16:30:54.000Z",
+    "coordinates": [
+      -113.9735425,
+      50.941467
+    ],
+    "longitude": -113.9735425,
+    "latitude": 50.941467,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

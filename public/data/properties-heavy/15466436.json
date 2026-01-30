@@ -1,0 +1,36 @@
+{
+  "id": "15466436",
+  "fullDetails": {
+    "licenseNumber": "15466436",
+    "name": "HOTSHOT LIQUOR STORE",
+    "address": "336 14 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2019-05-14T12:24:41.000Z",
+    "expiryDate": "2026-05-13T12:24:40.000Z",
+    "coordinates": [
+      -114.0942383,
+      51.0545908
+    ],
+    "longitude": -114.0942383,
+    "latitude": 51.0545908,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13135843",
+  "fullDetails": {
+    "licenseNumber": "13135843",
+    "name": "DESERT SUN PATIOS",
+    "address": "#8C 6215 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-04-28T09:47:04.000Z",
+    "expiryDate": "2026-04-27T09:47:04.000Z",
+    "coordinates": [
+      -114.0577348,
+      50.9972166
+    ],
+    "longitude": -114.0577348,
+    "latitude": 50.9972166,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

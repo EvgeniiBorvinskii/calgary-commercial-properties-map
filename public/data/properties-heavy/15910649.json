@@ -1,0 +1,36 @@
+{
+  "id": "15910649",
+  "fullDetails": {
+    "licenseNumber": "15910649",
+    "name": "BLACK CAT METAL",
+    "address": "#B 2525 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-02-10T09:40:59.000Z",
+    "expiryDate": "2026-02-09T09:40:59.000Z",
+    "coordinates": [
+      -114.0226133,
+      51.030881
+    ],
+    "longitude": -114.0226133,
+    "latitude": 51.030881,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

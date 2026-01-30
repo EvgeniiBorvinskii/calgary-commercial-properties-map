@@ -1,0 +1,36 @@
+{
+  "id": "16599706",
+  "fullDetails": {
+    "licenseNumber": "16599706",
+    "name": "RICE AND NOODLE",
+    "address": "1252 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-07T14:08:48.000Z",
+    "expiryDate": "2026-05-06T14:08:46.000Z",
+    "coordinates": [
+      -114.0913441,
+      51.0380153
+    ],
+    "longitude": -114.0913441,
+    "latitude": 51.0380153,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

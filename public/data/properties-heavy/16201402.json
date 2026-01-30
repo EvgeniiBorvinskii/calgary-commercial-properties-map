@@ -1,0 +1,36 @@
+{
+  "id": "16201402",
+  "fullDetails": {
+    "licenseNumber": "16201402",
+    "name": "CALGARYNWRVSTORAGE",
+    "address": "6627 144 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-01-03T09:32:48.000Z",
+    "expiryDate": "2027-01-02T09:32:48.000Z",
+    "coordinates": [
+      -114.1827502,
+      51.1815192
+    ],
+    "longitude": -114.1827502,
+    "latitude": 51.1815192,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2C",
+    "ward": "02C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

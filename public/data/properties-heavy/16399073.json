@@ -1,0 +1,36 @@
+{
+  "id": "16399073",
+  "fullDetails": {
+    "licenseNumber": "16399073",
+    "name": "IMAGINE DENTAL LEGACY",
+    "address": "#505 180 LEGACY MAIN ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-10-10T15:16:53.000Z",
+    "expiryDate": "2026-10-09T15:16:53.000Z",
+    "coordinates": [
+      -114.0260681,
+      50.8620862
+    ],
+    "longitude": -114.0260681,
+    "latitude": 50.8620862,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

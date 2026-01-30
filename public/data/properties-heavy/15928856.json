@@ -1,0 +1,36 @@
+{
+  "id": "15928856",
+  "fullDetails": {
+    "licenseNumber": "15928856",
+    "name": "MMXXEMOS WORKS",
+    "address": "3296 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2026-01-14T12:05:38.000Z",
+    "expiryDate": "2027-01-13T12:05:37.000Z",
+    "coordinates": [
+      -113.9868638,
+      51.0144001
+    ],
+    "longitude": -113.9868638,
+    "latitude": 51.0144001,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

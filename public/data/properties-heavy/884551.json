@@ -1,0 +1,36 @@
+{
+  "id": "884551",
+  "fullDetails": {
+    "licenseNumber": "884551",
+    "name": "ALTITUDE COMMUNICATIONS",
+    "address": "#440 2710 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-10-11T07:48:44.000Z",
+    "expiryDate": "2026-10-10T07:48:44.000Z",
+    "coordinates": [
+      -113.9973819,
+      51.0380655
+    ],
+    "longitude": -113.9973819,
+    "latitude": 51.0380655,
+    "community": "ALBERT PARK/RADISSON HEIGHTS",
+    "ward": "ALB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

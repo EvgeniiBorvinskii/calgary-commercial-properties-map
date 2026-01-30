@@ -1,0 +1,36 @@
+{
+  "id": "12156428",
+  "fullDetails": {
+    "licenseNumber": "12156428",
+    "name": "ROBERTSON BULK SALES CALGARY",
+    "address": "6811 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "active",
+    "issuedDate": "2003-02-21T05:35:32.000Z",
+    "expiryDate": "2027-02-20T05:35:32.000Z",
+    "coordinates": [
+      -113.9591549,
+      50.9935021
+    ],
+    "longitude": -113.9591549,
+    "latitude": 50.9935021,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

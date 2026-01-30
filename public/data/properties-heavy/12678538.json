@@ -1,0 +1,37 @@
+{
+  "id": "12678538",
+  "fullDetails": {
+    "licenseNumber": "12678538",
+    "name": "BIG T'S BBQ",
+    "address": "2138 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2008-07-04T09:11:20.000Z",
+    "expiryDate": "2026-07-03T09:11:20.000Z",
+    "coordinates": [
+      -114.1168152,
+      51.0703537
+    ],
+    "longitude": -114.1168152,
+    "latitude": 51.0703537,
+    "community": "BANFF TRAIL",
+    "ward": "BNF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

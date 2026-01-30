@@ -1,0 +1,36 @@
+{
+  "id": "16329120",
+  "fullDetails": {
+    "licenseNumber": "16329120",
+    "name": "BLUE PLANET APPAREL AND TEXTILES",
+    "address": "#1437 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-30T14:42:29.000Z",
+    "expiryDate": "2026-06-29T14:42:29.000Z",
+    "coordinates": [
+      -113.978872,
+      51.0565492
+    ],
+    "longitude": -113.978872,
+    "latitude": 51.0565492,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15901168",
+  "fullDetails": {
+    "licenseNumber": "15901168",
+    "name": "EV UNDERGROUND",
+    "address": "2605 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-07-22T15:58:02.000Z",
+    "expiryDate": "2026-07-21T15:58:02.000Z",
+    "coordinates": [
+      -114.1212746,
+      51.037395
+    ],
+    "longitude": -114.1212746,
+    "latitude": 51.037395,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

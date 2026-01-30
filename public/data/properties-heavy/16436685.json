@@ -1,0 +1,36 @@
+{
+  "id": "16436685",
+  "fullDetails": {
+    "licenseNumber": "16436685",
+    "name": "AUJLA AUTO REPAIRS",
+    "address": "#2030 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-10-02T12:16:13.000Z",
+    "expiryDate": "2026-10-01T12:16:13.000Z",
+    "coordinates": [
+      -113.9800247,
+      51.1524592
+    ],
+    "longitude": -113.9800247,
+    "latitude": 51.1524592,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

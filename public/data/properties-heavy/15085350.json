@@ -1,0 +1,37 @@
+{
+  "id": "15085350",
+  "fullDetails": {
+    "licenseNumber": "15085350",
+    "name": "EXCELHEALTH PHARMACY",
+    "address": "#100 3916 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-30T15:40:22.000Z",
+    "expiryDate": "2026-10-29T15:40:21.000Z",
+    "coordinates": [
+      -114.062065,
+      51.01868
+    ],
+    "longitude": -114.062065,
+    "latitude": 51.01868,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16472557",
+  "fullDetails": {
+    "licenseNumber": "16472557",
+    "name": "HONEST",
+    "address": "#340 10980 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-16T10:41:05.000Z",
+    "expiryDate": "2026-04-15T10:41:05.000Z",
+    "coordinates": [
+      -113.9774553,
+      51.1515208
+    ],
+    "longitude": -113.9774553,
+    "latitude": 51.1515208,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14899009",
+  "fullDetails": {
+    "licenseNumber": "14899009",
+    "name": "RIGHT CHOICE AUTO",
+    "address": "#2113 4905 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-09-16T12:31:22.000Z",
+    "expiryDate": "2026-09-15T12:31:22.000Z",
+    "coordinates": [
+      -113.9893806,
+      51.0104645
+    ],
+    "longitude": -113.9893806,
+    "latitude": 51.0104645,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

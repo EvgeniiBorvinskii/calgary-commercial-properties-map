@@ -1,0 +1,36 @@
+{
+  "id": "12694543",
+  "fullDetails": {
+    "licenseNumber": "12694543",
+    "name": "MANDALA FLORAL",
+    "address": "14 HIGH ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2008-07-21T15:48:11.000Z",
+    "expiryDate": "2026-07-20T15:48:11.000Z",
+    "coordinates": [
+      -113.9600239,
+      50.9158172
+    ],
+    "longitude": -113.9600239,
+    "latitude": 50.9158172,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

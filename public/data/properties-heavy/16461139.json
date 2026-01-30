@@ -1,0 +1,37 @@
+{
+  "id": "16461139",
+  "fullDetails": {
+    "licenseNumber": "16461139",
+    "name": "WILSON SIGNS",
+    "address": "#7 4045 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2025-04-16T14:34:24.000Z",
+    "expiryDate": "2026-04-15T14:34:23.000Z",
+    "coordinates": [
+      -113.9799997,
+      50.9873293
+    ],
+    "longitude": -113.9799997,
+    "latitude": 50.9873293,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

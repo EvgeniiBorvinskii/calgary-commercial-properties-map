@@ -1,0 +1,37 @@
+{
+  "id": "15883556",
+  "fullDetails": {
+    "licenseNumber": "15883556",
+    "name": "STARBUCKS COFFEE #53552",
+    "address": "5524 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2021-01-26T15:47:00.000Z",
+    "expiryDate": "2026-01-25T15:47:00.000Z",
+    "coordinates": [
+      -114.069823,
+      51.004973
+    ],
+    "longitude": -114.069823,
+    "latitude": 51.004973,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14390546",
+  "fullDetails": {
+    "licenseNumber": "14390546",
+    "name": "GOOD BREAD",
+    "address": "#110 11600 STONEHILL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-11T12:23:46.000Z",
+    "expiryDate": "2026-08-10T12:23:45.000Z",
+    "coordinates": [
+      -114.0021987,
+      51.1605473
+    ],
+    "longitude": -114.0021987,
+    "latitude": 51.1605473,
+    "community": "STONEGATE LANDING",
+    "ward": "SGL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

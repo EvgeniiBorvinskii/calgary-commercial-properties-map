@@ -1,0 +1,37 @@
+{
+  "id": "16302226",
+  "fullDetails": {
+    "licenseNumber": "16302226",
+    "name": "BLACK BOX INNOVATIONS",
+    "address": "#110 4350 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-04-24T10:24:05.000Z",
+    "expiryDate": "2026-04-23T10:24:05.000Z",
+    "coordinates": [
+      -113.9733326,
+      50.9610602
+    ],
+    "longitude": -113.9733326,
+    "latitude": 50.9610602,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

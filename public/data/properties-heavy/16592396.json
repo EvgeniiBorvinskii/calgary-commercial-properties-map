@@ -1,0 +1,36 @@
+{
+  "id": "16592396",
+  "fullDetails": {
+    "licenseNumber": "16592396",
+    "name": "VALARD CONSTRUCTION",
+    "address": "4124 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-30T10:10:17.000Z",
+    "expiryDate": "2026-06-29T10:10:17.000Z",
+    "coordinates": [
+      -114.039892,
+      51.0174628
+    ],
+    "longitude": -114.039892,
+    "latitude": 51.0174628,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

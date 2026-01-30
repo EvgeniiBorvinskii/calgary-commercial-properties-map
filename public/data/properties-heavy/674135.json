@@ -1,0 +1,36 @@
+{
+  "id": "674135",
+  "fullDetails": {
+    "licenseNumber": "674135",
+    "name": "APARTMENT BUILDING",
+    "address": "6139 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-29T00:00:00.000Z",
+    "coordinates": [
+      -114.1758175,
+      51.0835439
+    ],
+    "longitude": -114.1758175,
+    "latitude": 51.0835439,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

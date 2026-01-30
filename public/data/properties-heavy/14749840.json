@@ -1,0 +1,36 @@
+{
+  "id": "14749840",
+  "fullDetails": {
+    "licenseNumber": "14749840",
+    "name": "GK SIDING",
+    "address": "#2045 4231 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-12-04T14:50:28.000Z",
+    "expiryDate": "2026-12-03T14:50:27.000Z",
+    "coordinates": [
+      -113.9730356,
+      51.152183
+    ],
+    "longitude": -113.9730356,
+    "latitude": 51.152183,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

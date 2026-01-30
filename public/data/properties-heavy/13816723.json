@@ -1,0 +1,36 @@
+{
+  "id": "13816723",
+  "fullDetails": {
+    "licenseNumber": "13816723",
+    "name": "LIQUOR EMPORIUM",
+    "address": "4606 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2014-04-01T10:29:27.000Z",
+    "expiryDate": "2026-03-31T10:29:27.000Z",
+    "coordinates": [
+      -114.1589638,
+      51.0718364
+    ],
+    "longitude": -114.1589638,
+    "latitude": 51.0718364,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

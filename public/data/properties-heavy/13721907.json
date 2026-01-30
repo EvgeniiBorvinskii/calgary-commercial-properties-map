@@ -1,0 +1,37 @@
+{
+  "id": "13721907",
+  "fullDetails": {
+    "licenseNumber": "13721907",
+    "name": "DALHOUSIE TEMPO",
+    "address": "#301 5005 DALHOUSIE DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2022-09-28T14:27:37.000Z",
+    "expiryDate": "2026-09-27T14:27:37.000Z",
+    "coordinates": [
+      -114.1610227,
+      51.1044981
+    ],
+    "longitude": -114.1610227,
+    "latitude": 51.1044981,
+    "community": "DALHOUSIE",
+    "ward": "DAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

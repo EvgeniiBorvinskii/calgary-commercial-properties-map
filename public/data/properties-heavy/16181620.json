@@ -1,0 +1,36 @@
+{
+  "id": "16181620",
+  "fullDetails": {
+    "licenseNumber": "16181620",
+    "name": "MR ROOTER PLUMBING OF CALGARY",
+    "address": "5045 13 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-08-22T15:02:36.000Z",
+    "expiryDate": "2026-08-21T15:02:36.000Z",
+    "coordinates": [
+      -114.0338637,
+      51.0079572
+    ],
+    "longitude": -114.0338637,
+    "latitude": 51.0079572,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

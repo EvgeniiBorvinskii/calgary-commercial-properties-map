@@ -1,0 +1,36 @@
+{
+  "id": "16527020",
+  "fullDetails": {
+    "licenseNumber": "16527020",
+    "name": "WALKER LAKE MEAT SHOP",
+    "address": "904 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-08-30T13:15:16.000Z",
+    "expiryDate": "2026-08-29T13:15:15.000Z",
+    "coordinates": [
+      -113.967728,
+      51.1461563
+    ],
+    "longitude": -113.967728,
+    "latitude": 51.1461563,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

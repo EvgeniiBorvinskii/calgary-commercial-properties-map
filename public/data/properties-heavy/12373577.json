@@ -1,0 +1,36 @@
+{
+  "id": "12373577",
+  "fullDetails": {
+    "licenseNumber": "12373577",
+    "name": "STARCHEVSKI  SCHOOL OF BALLET",
+    "address": "#201 200 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2005-10-21T09:41:57.000Z",
+    "expiryDate": "2026-10-20T09:41:57.000Z",
+    "coordinates": [
+      -114.0737167,
+      51.1430754
+    ],
+    "longitude": -114.0737167,
+    "latitude": 51.1430754,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

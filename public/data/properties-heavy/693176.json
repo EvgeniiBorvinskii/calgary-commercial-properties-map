@@ -1,0 +1,36 @@
+{
+  "id": "693176",
+  "fullDetails": {
+    "licenseNumber": "693176",
+    "name": "VICTORY CHURCHES INTERNATIONAL",
+    "address": "10623 WEST VALLEY RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2008-11-27T12:33:49.000Z",
+    "expiryDate": "2026-11-26T12:33:49.000Z",
+    "coordinates": [
+      -114.2410245,
+      51.0872417
+    ],
+    "longitude": -114.2410245,
+    "latitude": 51.0872417,
+    "community": "RESIDUAL WARD 1 - CALGARY WEST",
+    "ward": "01C",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

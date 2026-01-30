@@ -1,0 +1,37 @@
+{
+  "id": "14772099",
+  "fullDetails": {
+    "licenseNumber": "14772099",
+    "name": "SUPER WELLNESS",
+    "address": "2215 PEGASUS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-01-06T14:08:58.000Z",
+    "expiryDate": "2027-01-05T14:08:58.000Z",
+    "coordinates": [
+      -114.0072928,
+      51.0949667
+    ],
+    "longitude": -114.0072928,
+    "latitude": 51.0949667,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

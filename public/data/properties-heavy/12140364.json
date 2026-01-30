@@ -1,0 +1,36 @@
+{
+  "id": "12140364",
+  "fullDetails": {
+    "licenseNumber": "12140364",
+    "name": "AINSWORTH",
+    "address": "#100 2588 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-04-13T15:08:35.000Z",
+    "expiryDate": "2026-04-12T15:08:35.000Z",
+    "coordinates": [
+      -113.9936878,
+      51.0758108
+    ],
+    "longitude": -113.9936878,
+    "latitude": 51.0758108,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

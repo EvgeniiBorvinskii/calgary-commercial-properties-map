@@ -1,0 +1,37 @@
+{
+  "id": "891309",
+  "fullDetails": {
+    "licenseNumber": "891309",
+    "name": "TOM'S HOUSE OF PIZZA/ JOHN HENRY'S PUB",
+    "address": "17103 JAMES MCKEVITT RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "TOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-18T00:00:00.000Z",
+    "coordinates": [
+      -114.0948766,
+      50.9006964
+    ],
+    "longitude": -114.0948766,
+    "latitude": 50.9006964,
+    "community": "SOMERSET",
+    "ward": "SOM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

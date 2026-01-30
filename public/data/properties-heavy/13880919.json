@@ -1,0 +1,36 @@
+{
+  "id": "13880919",
+  "fullDetails": {
+    "licenseNumber": "13880919",
+    "name": "BOW VALLEY AUTO DETAILING",
+    "address": "#5 2807 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2014-11-20T15:00:19.000Z",
+    "expiryDate": "2026-11-19T15:00:19.000Z",
+    "coordinates": [
+      -113.9965676,
+      50.956394
+    ],
+    "longitude": -113.9965676,
+    "latitude": 50.956394,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

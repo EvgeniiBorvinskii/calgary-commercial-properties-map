@@ -1,0 +1,36 @@
+{
+  "id": "13255682",
+  "fullDetails": {
+    "licenseNumber": "13255682",
+    "name": "M2M MACHINING",
+    "address": "#15 4216 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2011-11-17T08:22:38.000Z",
+    "expiryDate": "2026-11-16T08:22:38.000Z",
+    "coordinates": [
+      -113.9745196,
+      50.9972068
+    ],
+    "longitude": -113.9745196,
+    "latitude": 50.9972068,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

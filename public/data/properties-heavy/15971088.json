@@ -1,0 +1,36 @@
+{
+  "id": "15971088",
+  "fullDetails": {
+    "licenseNumber": "15971088",
+    "name": "WALDEN BOTTLE DEPOT",
+    "address": "19618 WALDEN BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2020-12-31T14:28:18.000Z",
+    "expiryDate": "2026-12-30T14:28:18.000Z",
+    "coordinates": [
+      -114.0252281,
+      50.8747603
+    ],
+    "longitude": -114.0252281,
+    "latitude": 50.8747603,
+    "community": "WALDEN",
+    "ward": "WAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

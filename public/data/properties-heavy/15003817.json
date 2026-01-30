@@ -1,0 +1,37 @@
+{
+  "id": "15003817",
+  "fullDetails": {
+    "licenseNumber": "15003817",
+    "name": "MODERNA CANNABIS SOCIETY",
+    "address": "155 MAHOGANY CE SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2019-11-26T08:28:20.000Z",
+    "expiryDate": "2026-11-25T08:28:19.000Z",
+    "coordinates": [
+      -113.9352677,
+      50.8967691
+    ],
+    "longitude": -113.9352677,
+    "latitude": 50.8967691,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

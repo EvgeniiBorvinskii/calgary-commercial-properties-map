@@ -1,0 +1,36 @@
+{
+  "id": "15927015",
+  "fullDetails": {
+    "licenseNumber": "15927015",
+    "name": "ARC'TERYX CHINOOK BRAND STORE",
+    "address": "#1183 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-09-18T12:57:29.000Z",
+    "expiryDate": "2026-09-17T12:57:29.000Z",
+    "coordinates": [
+      -114.0734181,
+      50.9995804
+    ],
+    "longitude": -114.0734181,
+    "latitude": 50.9995804,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

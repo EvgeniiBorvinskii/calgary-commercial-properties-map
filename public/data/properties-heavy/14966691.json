@@ -1,0 +1,37 @@
+{
+  "id": "14966691",
+  "fullDetails": {
+    "licenseNumber": "14966691",
+    "name": "HYATT PLACE CALGARY AIRPORT",
+    "address": "10 AERO CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "HOTEL/MOTEL,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nHOTEL/MOTEL,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-07-07T12:32:54.000Z",
+    "expiryDate": "2026-07-06T12:32:54.000Z",
+    "coordinates": [
+      -114.0347267,
+      51.1375267
+    ],
+    "longitude": -114.0347267,
+    "latitude": 51.1375267,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16043614",
+  "fullDetails": {
+    "licenseNumber": "16043614",
+    "name": "TEATRX",
+    "address": "#3A 2116 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-08-18T12:11:34.000Z",
+    "expiryDate": "2026-08-17T12:11:34.000Z",
+    "coordinates": [
+      -114.0099115,
+      51.0754444
+    ],
+    "longitude": -114.0099115,
+    "latitude": 51.0754444,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

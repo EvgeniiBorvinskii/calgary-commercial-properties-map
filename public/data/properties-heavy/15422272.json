@@ -1,0 +1,36 @@
+{
+  "id": "15422272",
+  "fullDetails": {
+    "licenseNumber": "15422272",
+    "name": "MARK MALYSZKO",
+    "address": "2221 28 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-07-23T11:48:13.000Z",
+    "expiryDate": "2026-07-22T11:48:13.000Z",
+    "coordinates": [
+      -114.1284954,
+      51.03394
+    ],
+    "longitude": -114.1284954,
+    "latitude": 51.03394,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

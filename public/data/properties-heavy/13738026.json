@@ -1,0 +1,36 @@
+{
+  "id": "13738026",
+  "fullDetails": {
+    "licenseNumber": "13738026",
+    "name": "CROWFOOT SAFEWAY WINE & SPIRITS",
+    "address": "77 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2013-11-01T05:32:26.000Z",
+    "expiryDate": "2026-10-31T05:32:26.000Z",
+    "coordinates": [
+      -114.2023981,
+      51.1256899
+    ],
+    "longitude": -114.2023981,
+    "latitude": 51.1256899,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

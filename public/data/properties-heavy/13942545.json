@@ -1,0 +1,36 @@
+{
+  "id": "13942545",
+  "fullDetails": {
+    "licenseNumber": "13942545",
+    "name": "WAL-MART PORTRAIT STUDIO #21089",
+    "address": "7979 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2015-06-09T05:33:25.000Z",
+    "expiryDate": "2026-06-08T05:33:25.000Z",
+    "coordinates": [
+      -114.0461081,
+      50.9840837
+    ],
+    "longitude": -114.0461081,
+    "latitude": 50.9840837,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "307488",
+  "fullDetails": {
+    "licenseNumber": "307488",
+    "name": "CROWFOOT IMAGE AUTO BODY",
+    "address": "#25 141 CROWFOOT WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "pending",
+    "issuedDate": "2013-03-14T14:30:58.000Z",
+    "expiryDate": "2026-03-13T14:30:58.000Z",
+    "coordinates": [
+      -114.2087921,
+      51.1252854
+    ],
+    "longitude": -114.2087921,
+    "latitude": 51.1252854,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

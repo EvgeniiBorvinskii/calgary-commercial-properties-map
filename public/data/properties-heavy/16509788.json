@@ -1,0 +1,37 @@
+{
+  "id": "16509788",
+  "fullDetails": {
+    "licenseNumber": "16509788",
+    "name": "PQ SIGNS AND DESIGNS",
+    "address": "#4 4220 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-11-26T05:30:34.000Z",
+    "expiryDate": "2026-11-25T05:30:33.000Z",
+    "coordinates": [
+      -114.0043161,
+      51.0902378
+    ],
+    "longitude": -114.0043161,
+    "latitude": 51.0902378,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

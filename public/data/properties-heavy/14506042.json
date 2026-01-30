@@ -1,0 +1,36 @@
+{
+  "id": "14506042",
+  "fullDetails": {
+    "licenseNumber": "14506042",
+    "name": "LSUSU HAIR + MAKEUP STUDIO",
+    "address": "#324 508 24 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2023-08-15T15:57:56.000Z",
+    "expiryDate": "2026-08-14T15:57:56.000Z",
+    "coordinates": [
+      -114.0716999,
+      51.0319036
+    ],
+    "longitude": -114.0716999,
+    "latitude": 51.0319036,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

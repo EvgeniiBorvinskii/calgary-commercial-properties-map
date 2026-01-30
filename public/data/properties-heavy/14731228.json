@@ -1,0 +1,36 @@
+{
+  "id": "14731228",
+  "fullDetails": {
+    "licenseNumber": "14731228",
+    "name": "BLACK BELT ACADEMY",
+    "address": "#8 390 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-11-08T10:38:39.000Z",
+    "expiryDate": "2026-11-07T10:38:38.000Z",
+    "coordinates": [
+      -114.0795887,
+      51.0932237
+    ],
+    "longitude": -114.0795887,
+    "latitude": 51.0932237,
+    "community": "HIGHWOOD",
+    "ward": "HIW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

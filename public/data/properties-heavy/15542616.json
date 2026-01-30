@@ -1,0 +1,36 @@
+{
+  "id": "15542616",
+  "fullDetails": {
+    "licenseNumber": "15542616",
+    "name": "TECHBROTHERZ",
+    "address": "3317 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-05-29T13:06:58.000Z",
+    "expiryDate": "2026-05-28T13:06:58.000Z",
+    "coordinates": [
+      -113.9870055,
+      51.0366536
+    ],
+    "longitude": -113.9870055,
+    "latitude": 51.0366536,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

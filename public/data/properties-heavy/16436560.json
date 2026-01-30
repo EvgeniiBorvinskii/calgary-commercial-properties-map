@@ -1,0 +1,37 @@
+{
+  "id": "16436560",
+  "fullDetails": {
+    "licenseNumber": "16436560",
+    "name": "FLEX NAILS & BEAUTY SUPERSTORE",
+    "address": "#17 9250 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-02-02T15:10:14.000Z",
+    "expiryDate": "2026-02-01T15:10:14.000Z",
+    "coordinates": [
+      -114.0697504,
+      50.9702889
+    ],
+    "longitude": -114.0697504,
+    "latitude": 50.9702889,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

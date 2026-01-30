@@ -1,0 +1,37 @@
+{
+  "id": "15885262",
+  "fullDetails": {
+    "licenseNumber": "15885262",
+    "name": "OGDEN CANNABIS",
+    "address": "2130 GLENMORE CO SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2020-03-10T10:37:39.000Z",
+    "expiryDate": "2026-03-09T10:37:39.000Z",
+    "coordinates": [
+      -113.996095,
+      50.981029
+    ],
+    "longitude": -113.996095,
+    "latitude": 50.981029,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

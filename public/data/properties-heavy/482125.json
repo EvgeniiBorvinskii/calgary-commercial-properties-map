@@ -1,0 +1,36 @@
+{
+  "id": "482125",
+  "fullDetails": {
+    "licenseNumber": "482125",
+    "name": "MONEYBACK CONTAINER SHACK",
+    "address": "#10 2835 37 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-27T00:00:00.000Z",
+    "coordinates": [
+      -114.1420345,
+      51.0292496
+    ],
+    "longitude": -114.1420345,
+    "latitude": 51.0292496,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

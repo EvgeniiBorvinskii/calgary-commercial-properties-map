@@ -1,0 +1,36 @@
+{
+  "id": "14762439",
+  "fullDetails": {
+    "licenseNumber": "14762439",
+    "name": "CAPITAL TRUCK AND TRAILER REPAIR",
+    "address": "9777 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-07-19T10:12:29.000Z",
+    "expiryDate": "2026-07-18T10:12:29.000Z",
+    "coordinates": [
+      -113.8983507,
+      50.9656944
+    ],
+    "longitude": -113.8983507,
+    "latitude": 50.9656944,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

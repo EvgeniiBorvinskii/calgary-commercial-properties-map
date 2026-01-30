@@ -1,0 +1,36 @@
+{
+  "id": "16345738",
+  "fullDetails": {
+    "licenseNumber": "16345738",
+    "name": "JZ MOTORS",
+    "address": "755 MCTAVISH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-13T08:04:06.000Z",
+    "expiryDate": "2026-09-12T08:04:05.000Z",
+    "coordinates": [
+      -114.0145457,
+      51.0966648
+    ],
+    "longitude": -114.0145457,
+    "latitude": 51.0966648,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

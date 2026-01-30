@@ -1,0 +1,36 @@
+{
+  "id": "13244314",
+  "fullDetails": {
+    "licenseNumber": "13244314",
+    "name": "MUSIC AND PLAY (M&P)",
+    "address": "1005 NA'A DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-27T16:12:02.000Z",
+    "expiryDate": "2026-08-26T16:12:01.000Z",
+    "coordinates": [
+      -114.1961117,
+      51.0800397
+    ],
+    "longitude": -114.1961117,
+    "latitude": 51.0800397,
+    "community": "MEDICINE HILL",
+    "ward": "MDH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

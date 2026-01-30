@@ -1,0 +1,36 @@
+{
+  "id": "15414022",
+  "fullDetails": {
+    "licenseNumber": "15414022",
+    "name": "PRECISION AUTO CENTRE",
+    "address": "#103 3424 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2019-05-14T12:47:43.000Z",
+    "expiryDate": "2026-05-13T12:47:43.000Z",
+    "coordinates": [
+      -113.9942772,
+      51.0837496
+    ],
+    "longitude": -113.9942772,
+    "latitude": 51.0837496,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

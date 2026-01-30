@@ -1,0 +1,36 @@
+{
+  "id": "324814",
+  "fullDetails": {
+    "licenseNumber": "324814",
+    "name": "IGNITION DIGITAL GRAPHICS",
+    "address": "#12 11651 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2007-01-17T05:38:24.000Z",
+    "expiryDate": "2027-01-16T05:38:24.000Z",
+    "coordinates": [
+      -113.9780883,
+      50.9458499
+    ],
+    "longitude": -113.9780883,
+    "latitude": 50.9458499,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

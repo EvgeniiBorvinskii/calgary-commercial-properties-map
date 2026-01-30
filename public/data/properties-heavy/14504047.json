@@ -1,0 +1,36 @@
+{
+  "id": "14504047",
+  "fullDetails": {
+    "licenseNumber": "14504047",
+    "name": "DAIRY QUEEN",
+    "address": "#2036 2060 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-08-16T14:57:06.000Z",
+    "expiryDate": "2026-08-15T14:57:05.000Z",
+    "coordinates": [
+      -114.108368,
+      51.1745194
+    ],
+    "longitude": -114.108368,
+    "latitude": 51.1745194,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

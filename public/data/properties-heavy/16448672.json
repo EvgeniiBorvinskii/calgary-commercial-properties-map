@@ -1,0 +1,36 @@
+{
+  "id": "16448672",
+  "fullDetails": {
+    "licenseNumber": "16448672",
+    "name": "COVE PROPERTIES WHITNEY LP",
+    "address": "#1100 300 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2024-03-09T05:33:43.000Z",
+    "expiryDate": "2026-03-08T05:33:43.000Z",
+    "coordinates": [
+      -114.0683248,
+      51.0488411
+    ],
+    "longitude": -114.0683248,
+    "latitude": 51.0488411,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

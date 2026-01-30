@@ -1,0 +1,36 @@
+{
+  "id": "162479",
+  "fullDetails": {
+    "licenseNumber": "162479",
+    "name": "BRESLAUER & WARREN JEWELLERS",
+    "address": "#104M 202 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-06-08T08:28:09.000Z",
+    "expiryDate": "2026-06-07T08:28:08.000Z",
+    "coordinates": [
+      -114.0658254,
+      51.0478252
+    ],
+    "longitude": -114.0658254,
+    "latitude": 51.0478252,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

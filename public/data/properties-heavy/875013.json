@@ -1,0 +1,36 @@
+{
+  "id": "875013",
+  "fullDetails": {
+    "licenseNumber": "875013",
+    "name": "BOW VALLEY MILLWORK",
+    "address": "4015 2 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2014-03-12T09:27:20.000Z",
+    "expiryDate": "2026-03-11T09:27:20.000Z",
+    "coordinates": [
+      -114.0578095,
+      51.0884921
+    ],
+    "longitude": -114.0578095,
+    "latitude": 51.0884921,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

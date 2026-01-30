@@ -1,0 +1,36 @@
+{
+  "id": "15936651",
+  "fullDetails": {
+    "licenseNumber": "15936651",
+    "name": "SALVAGE BROS - AUTO PARTS",
+    "address": "412 36 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2021-02-16T12:49:21.000Z",
+    "expiryDate": "2027-02-15T12:49:21.000Z",
+    "coordinates": [
+      -114.0540657,
+      51.0850993
+    ],
+    "longitude": -114.0540657,
+    "latitude": 51.0850993,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

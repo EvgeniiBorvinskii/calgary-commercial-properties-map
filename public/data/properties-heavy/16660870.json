@@ -1,0 +1,36 @@
+{
+  "id": "16660870",
+  "fullDetails": {
+    "licenseNumber": "16660870",
+    "name": "ONYX CONSTRUCTION GROUP",
+    "address": "4301D 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-06T16:29:16.000Z",
+    "expiryDate": "2026-08-05T16:29:15.000Z",
+    "coordinates": [
+      -114.0410903,
+      51.0155972
+    ],
+    "longitude": -114.0410903,
+    "latitude": 51.0155972,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

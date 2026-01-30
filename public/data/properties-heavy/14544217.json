@@ -1,0 +1,36 @@
+{
+  "id": "14544217",
+  "fullDetails": {
+    "licenseNumber": "14544217",
+    "name": "UKRAINIAN FINE FOODS (CGY-1080)",
+    "address": "540 CLEVELAND CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2017-08-10T09:57:40.000Z",
+    "expiryDate": "2026-08-09T09:57:40.000Z",
+    "coordinates": [
+      -114.0532795,
+      51.0173166
+    ],
+    "longitude": -114.0532795,
+    "latitude": 51.0173166,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

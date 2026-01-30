@@ -1,0 +1,37 @@
+{
+  "id": "16094088",
+  "fullDetails": {
+    "licenseNumber": "16094088",
+    "name": "ROOTED IN YOU",
+    "address": "#6303J 15 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-05T07:56:45.000Z",
+    "expiryDate": "2026-07-04T07:56:45.000Z",
+    "coordinates": [
+      -114.0575583,
+      50.9044962
+    ],
+    "longitude": -114.0575583,
+    "latitude": 50.9044962,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

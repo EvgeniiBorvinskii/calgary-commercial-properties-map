@@ -1,0 +1,36 @@
+{
+  "id": "13837273",
+  "fullDetails": {
+    "licenseNumber": "13837273",
+    "name": "AN TATTOO",
+    "address": "102 7 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2019-05-17T12:34:16.000Z",
+    "expiryDate": "2026-05-16T12:34:16.000Z",
+    "coordinates": [
+      -114.0780216,
+      51.0519784
+    ],
+    "longitude": -114.0780216,
+    "latitude": 51.0519784,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

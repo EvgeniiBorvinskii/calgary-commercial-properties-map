@@ -1,0 +1,37 @@
+{
+  "id": "15944069",
+  "fullDetails": {
+    "licenseNumber": "15944069",
+    "name": "ELLA GRACE MARKETPLACE",
+    "address": "7271 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "pending",
+    "issuedDate": "2021-04-09T07:49:44.000Z",
+    "expiryDate": "2026-04-08T07:49:44.000Z",
+    "coordinates": [
+      -114.0378623,
+      50.9893998
+    ],
+    "longitude": -114.0378623,
+    "latitude": 50.9893998,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

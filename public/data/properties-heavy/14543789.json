@@ -1,0 +1,36 @@
+{
+  "id": "14543789",
+  "fullDetails": {
+    "licenseNumber": "14543789",
+    "name": "REEVES COLLEGE - CALGARY NORTH",
+    "address": "#120 2886 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "in_progress",
+    "issuedDate": "2019-11-22T05:32:47.000Z",
+    "expiryDate": "2026-11-21T05:32:47.000Z",
+    "coordinates": [
+      -113.9970452,
+      51.0704491
+    ],
+    "longitude": -113.9970452,
+    "latitude": 51.0704491,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

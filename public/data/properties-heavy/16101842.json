@@ -1,0 +1,37 @@
+{
+  "id": "16101842",
+  "fullDetails": {
+    "licenseNumber": "16101842",
+    "name": "REMA WELDING",
+    "address": "8230 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-12-16T09:33:02.000Z",
+    "expiryDate": "2026-12-15T09:33:02.000Z",
+    "coordinates": [
+      -113.989399,
+      50.9810546
+    ],
+    "longitude": -113.989399,
+    "latitude": 50.9810546,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

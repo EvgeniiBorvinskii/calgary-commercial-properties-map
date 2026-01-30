@@ -1,0 +1,37 @@
+{
+  "id": "15867633",
+  "fullDetails": {
+    "licenseNumber": "15867633",
+    "name": "ABBEY'S CREATIONS",
+    "address": "#13 4703 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-25T15:41:56.000Z",
+    "expiryDate": "2026-05-24T15:41:56.000Z",
+    "coordinates": [
+      -114.1612615,
+      51.0726396
+    ],
+    "longitude": -114.1612615,
+    "latitude": 51.0726396,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

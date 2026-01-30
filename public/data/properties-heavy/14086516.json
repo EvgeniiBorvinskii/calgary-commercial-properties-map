@@ -1,0 +1,37 @@
+{
+  "id": "14086516",
+  "fullDetails": {
+    "licenseNumber": "14086516",
+    "name": "SHAMS AUTO",
+    "address": "#113 3850 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2016-03-09T11:34:42.000Z",
+    "expiryDate": "2026-03-08T11:34:42.000Z",
+    "coordinates": [
+      -113.9877195,
+      51.0874291
+    ],
+    "longitude": -113.9877195,
+    "latitude": 51.0874291,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

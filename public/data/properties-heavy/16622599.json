@@ -1,0 +1,36 @@
+{
+  "id": "16622599",
+  "fullDetails": {
+    "licenseNumber": "16622599",
+    "name": "SUBWAY",
+    "address": "826 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-02T12:51:27.000Z",
+    "expiryDate": "2026-05-01T12:51:27.000Z",
+    "coordinates": [
+      -113.9344643,
+      51.0591917
+    ],
+    "longitude": -113.9344643,
+    "latitude": 51.0591917,
+    "community": "ABBEYDALE",
+    "ward": "ABB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

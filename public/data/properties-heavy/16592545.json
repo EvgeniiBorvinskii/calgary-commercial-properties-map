@@ -1,0 +1,36 @@
+{
+  "id": "16592545",
+  "fullDetails": {
+    "licenseNumber": "16592545",
+    "name": "GOLDEN HAPPINESS BAKERY",
+    "address": "3636 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-27T16:31:56.000Z",
+    "expiryDate": "2026-02-26T16:31:55.000Z",
+    "coordinates": [
+      -113.9801898,
+      51.0128243
+    ],
+    "longitude": -113.9801898,
+    "latitude": 51.0128243,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

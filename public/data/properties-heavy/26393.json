@@ -1,0 +1,37 @@
+{
+  "id": "26393",
+  "fullDetails": {
+    "licenseNumber": "26393",
+    "name": "NATIONAL PROCESS EQUIPMENT",
+    "address": "5049 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER,\nWAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2012-02-02T14:13:13.000Z",
+    "expiryDate": "2026-02-01T14:13:13.000Z",
+    "coordinates": [
+      -113.9623121,
+      50.9868267
+    ],
+    "longitude": -113.9623121,
+    "latitude": 50.9868267,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

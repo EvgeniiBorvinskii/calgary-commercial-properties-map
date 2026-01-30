@@ -1,0 +1,36 @@
+{
+  "id": "60731",
+  "fullDetails": {
+    "licenseNumber": "60731",
+    "name": "CEDAR SHOP (THE)",
+    "address": "#100 285 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-01-23T10:59:51.000Z",
+    "expiryDate": "2027-01-22T10:59:51.000Z",
+    "coordinates": [
+      -114.0579608,
+      51.0138524
+    ],
+    "longitude": -114.0579608,
+    "latitude": 51.0138524,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

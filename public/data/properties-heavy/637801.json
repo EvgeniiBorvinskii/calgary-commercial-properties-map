@@ -1,0 +1,37 @@
+{
+  "id": "637801",
+  "fullDetails": {
+    "licenseNumber": "637801",
+    "name": "HENRY'S MENS & LADIES TAILORING",
+    "address": "#D9 8330 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-11T00:00:00.000Z",
+    "coordinates": [
+      -114.0694725,
+      50.9782835
+    ],
+    "longitude": -114.0694725,
+    "latitude": 50.9782835,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

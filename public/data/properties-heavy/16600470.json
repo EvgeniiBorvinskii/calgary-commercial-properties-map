@@ -1,0 +1,36 @@
+{
+  "id": "16600470",
+  "fullDetails": {
+    "licenseNumber": "16600470",
+    "name": "EGOF AUTOFARM DEALERSHIP",
+    "address": "2730 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-04-29T16:04:19.000Z",
+    "expiryDate": "2026-04-28T16:04:19.000Z",
+    "coordinates": [
+      -114.0042119,
+      51.076339
+    ],
+    "longitude": -114.0042119,
+    "latitude": 51.076339,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

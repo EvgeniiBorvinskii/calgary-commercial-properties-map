@@ -1,0 +1,36 @@
+{
+  "id": "16080558",
+  "fullDetails": {
+    "licenseNumber": "16080558",
+    "name": "NORTH SIDE AUTO SERVICES",
+    "address": "#118 1725 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2022-03-11T13:41:03.000Z",
+    "expiryDate": "2026-03-10T13:41:03.000Z",
+    "coordinates": [
+      -114.016718,
+      51.0807002
+    ],
+    "longitude": -114.016718,
+    "latitude": 51.0807002,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

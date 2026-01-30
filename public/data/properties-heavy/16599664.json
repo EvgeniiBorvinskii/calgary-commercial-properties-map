@@ -1,0 +1,36 @@
+{
+  "id": "16599664",
+  "fullDetails": {
+    "licenseNumber": "16599664",
+    "name": "HD HOMES CONSTRUCTION",
+    "address": "#236 4850 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-31T09:34:12.000Z",
+    "expiryDate": "2026-12-30T09:34:11.000Z",
+    "coordinates": [
+      -113.9640528,
+      51.1010113
+    ],
+    "longitude": -113.9640528,
+    "latitude": 51.1010113,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

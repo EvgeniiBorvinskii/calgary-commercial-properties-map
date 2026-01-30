@@ -1,0 +1,36 @@
+{
+  "id": "12474136",
+  "fullDetails": {
+    "licenseNumber": "12474136",
+    "name": "MASTER BARBER SHOP",
+    "address": "#6 920 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2006-07-11T15:30:15.000Z",
+    "expiryDate": "2026-07-10T15:30:15.000Z",
+    "coordinates": [
+      -114.103767,
+      51.0867109
+    ],
+    "longitude": -114.103767,
+    "latitude": 51.0867109,
+    "community": "COLLINGWOOD",
+    "ward": "COL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

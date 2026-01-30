@@ -1,0 +1,36 @@
+{
+  "id": "13655691",
+  "fullDetails": {
+    "licenseNumber": "13655691",
+    "name": "DEVCON",
+    "address": "315A 19 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-06-15T13:24:04.000Z",
+    "expiryDate": "2026-06-14T13:24:04.000Z",
+    "coordinates": [
+      -114.0088135,
+      51.0503069
+    ],
+    "longitude": -114.0088135,
+    "latitude": 51.0503069,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

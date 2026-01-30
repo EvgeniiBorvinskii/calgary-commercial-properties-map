@@ -1,0 +1,37 @@
+{
+  "id": "11544",
+  "fullDetails": {
+    "licenseNumber": "11544",
+    "name": "REGENCY IRRIGATION",
+    "address": "#103 90 FREEPORT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-05-28T15:43:36.000Z",
+    "expiryDate": "2026-05-27T15:43:35.000Z",
+    "coordinates": [
+      -114.0129692,
+      51.1515125
+    ],
+    "longitude": -114.0129692,
+    "latitude": 51.1515125,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

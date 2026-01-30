@@ -1,0 +1,37 @@
+{
+  "id": "16684995",
+  "fullDetails": {
+    "licenseNumber": "16684995",
+    "name": "PIND TO PEAKS YYC",
+    "address": "#2114 3730 108 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-10-08T08:09:30.000Z",
+    "expiryDate": "2026-10-07T08:09:29.000Z",
+    "coordinates": [
+      -113.9810427,
+      51.1517562
+    ],
+    "longitude": -113.9810427,
+    "latitude": 51.1517562,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

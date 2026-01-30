@@ -1,0 +1,36 @@
+{
+  "id": "16394355",
+  "fullDetails": {
+    "licenseNumber": "16394355",
+    "name": "JOY SKIN STUDIO",
+    "address": "#170 159 CARRINGTON PZ NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-10-17T13:58:23.000Z",
+    "expiryDate": "2026-10-16T13:58:23.000Z",
+    "coordinates": [
+      -114.0915514,
+      51.1831318
+    ],
+    "longitude": -114.0915514,
+    "latitude": 51.1831318,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

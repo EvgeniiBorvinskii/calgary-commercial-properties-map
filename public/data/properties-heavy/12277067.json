@@ -1,0 +1,37 @@
+{
+  "id": "12277067",
+  "fullDetails": {
+    "licenseNumber": "12277067",
+    "name": "AVENTA TREATMENT FOUNDATION FOR WOMEN",
+    "address": "610 25 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2004-03-11T05:36:25.000Z",
+    "expiryDate": "2026-03-10T05:36:25.000Z",
+    "coordinates": [
+      -114.073949,
+      51.0308784
+    ],
+    "longitude": -114.073949,
+    "latitude": 51.0308784,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

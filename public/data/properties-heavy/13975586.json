@@ -1,0 +1,37 @@
+{
+  "id": "13975586",
+  "fullDetails": {
+    "licenseNumber": "13975586",
+    "name": "EVOLVE KITCHENS",
+    "address": "#1 4220 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-08-04T13:48:20.000Z",
+    "expiryDate": "2026-08-03T13:48:20.000Z",
+    "coordinates": [
+      -114.0043161,
+      51.0902378
+    ],
+    "longitude": -114.0043161,
+    "latitude": 51.0902378,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

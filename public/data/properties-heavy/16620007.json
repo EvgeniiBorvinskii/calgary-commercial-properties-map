@@ -1,0 +1,36 @@
+{
+  "id": "16620007",
+  "fullDetails": {
+    "licenseNumber": "16620007",
+    "name": "DANK CANNABIS",
+    "address": "#445 9737 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-05-01T12:03:09.000Z",
+    "expiryDate": "2026-04-30T12:03:08.000Z",
+    "coordinates": [
+      -114.0732721,
+      50.9668057
+    ],
+    "longitude": -114.0732721,
+    "latitude": 50.9668057,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "276188",
+  "fullDetails": {
+    "licenseNumber": "276188",
+    "name": "DANCE SPECTRUM",
+    "address": "6452 OLD BANFF COACH RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2021-03-19T05:32:12.000Z",
+    "expiryDate": "2026-03-18T05:32:12.000Z",
+    "coordinates": [
+      -114.1803798,
+      51.0607221
+    ],
+    "longitude": -114.1803798,
+    "latitude": 51.0607221,
+    "community": "PATTERSON",
+    "ward": "PAT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

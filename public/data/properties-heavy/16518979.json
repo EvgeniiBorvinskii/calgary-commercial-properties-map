@@ -1,0 +1,36 @@
+{
+  "id": "16518979",
+  "fullDetails": {
+    "licenseNumber": "16518979",
+    "name": "SECONDS COLLECTIVE",
+    "address": "205 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "licenseTypes": "MARKET",
+    "status": "active",
+    "issuedDate": "2024-11-15T15:59:39.000Z",
+    "expiryDate": "2026-11-14T15:59:38.000Z",
+    "coordinates": [
+      -114.0658321,
+      51.0453615
+    ],
+    "longitude": -114.0658321,
+    "latitude": 51.0453615,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

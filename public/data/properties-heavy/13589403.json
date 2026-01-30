@@ -1,0 +1,36 @@
+{
+  "id": "13589403",
+  "fullDetails": {
+    "licenseNumber": "13589403",
+    "name": "BANTREL MANAGEMENT SERVICES",
+    "address": "#2900 700 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-20T13:13:45.000Z",
+    "expiryDate": "2026-09-19T13:13:45.000Z",
+    "coordinates": [
+      -114.0674602,
+      51.0461506
+    ],
+    "longitude": -114.0674602,
+    "latitude": 51.0461506,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

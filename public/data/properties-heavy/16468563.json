@@ -1,0 +1,36 @@
+{
+  "id": "16468563",
+  "fullDetails": {
+    "licenseNumber": "16468563",
+    "name": "RPMS TECH",
+    "address": "#1 5608 BURBANK CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-22T07:48:14.000Z",
+    "expiryDate": "2026-08-21T07:48:13.000Z",
+    "coordinates": [
+      -114.045644,
+      51.00576
+    ],
+    "longitude": -114.045644,
+    "latitude": 51.00576,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

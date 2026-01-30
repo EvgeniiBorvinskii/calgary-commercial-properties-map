@@ -1,0 +1,37 @@
+{
+  "id": "16456063",
+  "fullDetails": {
+    "licenseNumber": "16456063",
+    "name": "MY KIRANA STORE",
+    "address": "#1125 6520 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-04-11T14:49:23.000Z",
+    "expiryDate": "2026-04-10T14:49:23.000Z",
+    "coordinates": [
+      -113.9810542,
+      51.1108319
+    ],
+    "longitude": -113.9810542,
+    "latitude": 51.1108319,
+    "community": "SADDLE RIDGE INDUSTRIAL",
+    "ward": "SRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16208423",
+  "fullDetails": {
+    "licenseNumber": "16208423",
+    "name": "AMERICAN EAGLE OUTFITTERS 1518",
+    "address": "#182 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-11-10T09:36:30.000Z",
+    "expiryDate": "2026-11-09T09:36:30.000Z",
+    "coordinates": [
+      -114.0741432,
+      50.9974504
+    ],
+    "longitude": -114.0741432,
+    "latitude": 50.9974504,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

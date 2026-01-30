@@ -1,0 +1,36 @@
+{
+  "id": "16590465",
+  "fullDetails": {
+    "licenseNumber": "16590465",
+    "name": "KELSIE HJORLEIFSON MASSAGE THERAPY",
+    "address": "#200 1127 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2025-02-11T12:55:54.000Z",
+    "expiryDate": "2026-02-10T12:55:54.000Z",
+    "coordinates": [
+      -114.088917,
+      51.0375377
+    ],
+    "longitude": -114.088917,
+    "latitude": 51.0375377,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

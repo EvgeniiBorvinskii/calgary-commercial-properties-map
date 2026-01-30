@@ -1,0 +1,37 @@
+{
+  "id": "185298",
+  "fullDetails": {
+    "licenseNumber": "185298",
+    "name": "COSTCO WHOLESALE #251",
+    "address": "99 HERITAGE GA SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "FUEL SALES/STORAGE,",
+    "licenseTypes": "TOBACCO RETAILER,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (1),\nWHOLESALER,\nFOOD SERVICE - PREMISES (NO SEATING),\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2003-04-26T05:37:25.000Z",
+    "expiryDate": "2026-04-25T05:37:25.000Z",
+    "coordinates": [
+      -114.0463751,
+      50.9896247
+    ],
+    "longitude": -114.0463751,
+    "latitude": 50.9896247,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

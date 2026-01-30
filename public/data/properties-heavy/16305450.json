@@ -1,0 +1,36 @@
+{
+  "id": "16305450",
+  "fullDetails": {
+    "licenseNumber": "16305450",
+    "name": "SUNWARD CANADA",
+    "address": "2055 PEGASUS RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-08-08T16:25:54.000Z",
+    "expiryDate": "2026-08-07T16:25:53.000Z",
+    "coordinates": [
+      -114.009455,
+      51.0934502
+    ],
+    "longitude": -114.009455,
+    "latitude": 51.0934502,
+    "community": "PEGASUS",
+    "ward": "PEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16614380",
+  "fullDetails": {
+    "licenseNumber": "16614380",
+    "name": "MAINSTREET BELTLINE APARTMENTS",
+    "address": "1231 15 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-09-23T16:05:57.000Z",
+    "expiryDate": "2026-09-22T16:05:56.000Z",
+    "coordinates": [
+      -114.0909511,
+      51.0391368
+    ],
+    "longitude": -114.0909511,
+    "latitude": 51.0391368,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

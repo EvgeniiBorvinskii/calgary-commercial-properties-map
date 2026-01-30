@@ -1,0 +1,37 @@
+{
+  "id": "12418802",
+  "fullDetails": {
+    "licenseNumber": "12418802",
+    "name": "STONEGATE PUB",
+    "address": "#12 7640 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2005-08-17T14:27:19.000Z",
+    "expiryDate": "2026-08-16T14:27:19.000Z",
+    "coordinates": [
+      -114.0592561,
+      50.9853959
+    ],
+    "longitude": -114.0592561,
+    "latitude": 50.9853959,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

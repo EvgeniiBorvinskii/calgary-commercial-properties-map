@@ -1,0 +1,36 @@
+{
+  "id": "13630017",
+  "fullDetails": {
+    "licenseNumber": "13630017",
+    "name": "STAMP'S STORE FANANTIC",
+    "address": "1817 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2013-03-01T12:46:09.000Z",
+    "expiryDate": "2026-02-28T12:46:09.000Z",
+    "coordinates": [
+      -114.1209315,
+      51.0694965
+    ],
+    "longitude": -114.1209315,
+    "latitude": 51.0694965,
+    "community": "UNIVERSITY OF CALGARY",
+    "ward": "UOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

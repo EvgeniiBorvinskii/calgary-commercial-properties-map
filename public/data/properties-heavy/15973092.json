@@ -1,0 +1,37 @@
+{
+  "id": "15973092",
+  "fullDetails": {
+    "licenseNumber": "15973092",
+    "name": "SPIRITLEAF",
+    "address": "#110 20 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-04-29T14:32:00.000Z",
+    "expiryDate": "2026-04-28T14:32:00.000Z",
+    "coordinates": [
+      -114.0283754,
+      50.8641924
+    ],
+    "longitude": -114.0283754,
+    "latitude": 50.8641924,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

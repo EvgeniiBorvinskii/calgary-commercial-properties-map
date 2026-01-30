@@ -1,0 +1,36 @@
+{
+  "id": "12471389",
+  "fullDetails": {
+    "licenseNumber": "12471389",
+    "name": "COSTCO CANADA LIQUOR",
+    "address": "11592 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2006-04-05T07:53:20.000Z",
+    "expiryDate": "2026-04-04T07:53:19.000Z",
+    "coordinates": [
+      -114.1553248,
+      51.1547621
+    ],
+    "longitude": -114.1553248,
+    "latitude": 51.1547621,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

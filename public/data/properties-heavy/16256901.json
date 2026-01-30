@@ -1,0 +1,37 @@
+{
+  "id": "16256901",
+  "fullDetails": {
+    "licenseNumber": "16256901",
+    "name": "MASSAGE ADDICT SETON",
+    "address": "#330 3775 202 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-02-08T11:36:40.000Z",
+    "expiryDate": "2026-02-07T11:36:40.000Z",
+    "coordinates": [
+      -113.9500532,
+      50.8656073
+    ],
+    "longitude": -113.9500532,
+    "latitude": 50.8656073,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

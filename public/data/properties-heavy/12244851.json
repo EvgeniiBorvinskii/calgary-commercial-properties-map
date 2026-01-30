@@ -1,0 +1,36 @@
+{
+  "id": "12244851",
+  "fullDetails": {
+    "licenseNumber": "12244851",
+    "name": "INSITUFORM TECHNOLOGIES",
+    "address": "#4 8009 57 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-11-25T09:09:46.000Z",
+    "expiryDate": "2026-11-24T09:09:46.000Z",
+    "coordinates": [
+      -113.9474652,
+      50.9808831
+    ],
+    "longitude": -113.9474652,
+    "latitude": 50.9808831,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

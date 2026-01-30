@@ -1,0 +1,37 @@
+{
+  "id": "15952427",
+  "fullDetails": {
+    "licenseNumber": "15952427",
+    "name": "RUSTYK DESIGN",
+    "address": "4014 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2020-12-10T08:23:14.000Z",
+    "expiryDate": "2025-12-09T08:23:14.000Z",
+    "coordinates": [
+      -114.0517726,
+      51.0180513
+    ],
+    "longitude": -114.0517726,
+    "latitude": 51.0180513,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

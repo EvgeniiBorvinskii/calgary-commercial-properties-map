@@ -1,0 +1,36 @@
+{
+  "id": "16641409",
+  "fullDetails": {
+    "licenseNumber": "16641409",
+    "name": "ADVANCEDUAV TECH",
+    "address": "#H 1423 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-07-09T08:38:26.000Z",
+    "expiryDate": "2026-07-08T08:38:26.000Z",
+    "coordinates": [
+      -114.0294432,
+      51.0929473
+    ],
+    "longitude": -114.0294432,
+    "latitude": 51.0929473,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

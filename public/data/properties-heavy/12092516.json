@@ -1,0 +1,36 @@
+{
+  "id": "12092516",
+  "fullDetails": {
+    "licenseNumber": "12092516",
+    "name": "MACHINEMAX",
+    "address": "#109 1108 53 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-12-05T05:34:22.000Z",
+    "expiryDate": "2026-12-04T05:34:21.000Z",
+    "coordinates": [
+      -114.0391017,
+      51.1011273
+    ],
+    "longitude": -114.0391017,
+    "latitude": 51.1011273,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

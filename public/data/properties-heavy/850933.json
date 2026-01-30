@@ -1,0 +1,36 @@
+{
+  "id": "850933",
+  "fullDetails": {
+    "licenseNumber": "850933",
+    "name": "FITNESS FACTORY CANADA WEST",
+    "address": "628 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-03-05T00:00:00.000Z",
+    "coordinates": [
+      -114.0499032,
+      51.0107
+    ],
+    "longitude": -114.0499032,
+    "latitude": 51.0107,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

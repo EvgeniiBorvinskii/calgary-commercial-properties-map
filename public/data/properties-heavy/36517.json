@@ -1,0 +1,37 @@
+{
+  "id": "36517",
+  "fullDetails": {
+    "licenseNumber": "36517",
+    "name": "IKEA",
+    "address": "8000 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2004-11-09T15:01:06.000Z",
+    "expiryDate": "2026-11-08T15:01:06.000Z",
+    "coordinates": [
+      -114.0445481,
+      50.9799374
+    ],
+    "longitude": -114.0445481,
+    "latitude": 50.9799374,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

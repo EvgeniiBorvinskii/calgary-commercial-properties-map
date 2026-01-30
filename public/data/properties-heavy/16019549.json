@@ -1,0 +1,36 @@
+{
+  "id": "16019549",
+  "fullDetails": {
+    "licenseNumber": "16019549",
+    "name": "SURREAL GROWERS",
+    "address": "809 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "active",
+    "issuedDate": "2021-10-15T15:28:36.000Z",
+    "expiryDate": "2026-10-14T15:28:36.000Z",
+    "coordinates": [
+      -114.0444501,
+      51.022648
+    ],
+    "longitude": -114.0444501,
+    "latitude": 51.022648,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

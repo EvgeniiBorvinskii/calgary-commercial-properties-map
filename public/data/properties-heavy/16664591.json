@@ -1,0 +1,36 @@
+{
+  "id": "16664591",
+  "fullDetails": {
+    "licenseNumber": "16664591",
+    "name": "GHIE'S DRIVING SCHOOL",
+    "address": "502 HERITAGE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "in_progress",
+    "issuedDate": "2025-08-05T15:10:31.000Z",
+    "expiryDate": "2026-08-04T15:10:30.000Z",
+    "coordinates": [
+      -114.0745604,
+      50.9803896
+    ],
+    "longitude": -114.0745604,
+    "latitude": 50.9803896,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

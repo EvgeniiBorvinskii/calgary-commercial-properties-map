@@ -1,0 +1,36 @@
+{
+  "id": "12288064",
+  "fullDetails": {
+    "licenseNumber": "12288064",
+    "name": "GRACE ELECTRIC",
+    "address": "7070A FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2022-03-09T07:30:46.000Z",
+    "expiryDate": "2026-03-08T07:30:46.000Z",
+    "coordinates": [
+      -114.0544963,
+      50.9912354
+    ],
+    "longitude": -114.0544963,
+    "latitude": 50.9912354,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

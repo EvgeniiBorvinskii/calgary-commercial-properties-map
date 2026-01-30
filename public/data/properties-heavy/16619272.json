@@ -1,0 +1,36 @@
+{
+  "id": "16619272",
+  "fullDetails": {
+    "licenseNumber": "16619272",
+    "name": "HOMESTEAD LIQUOR",
+    "address": "#1110 64 HOMESTEAD GA NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-07-10T10:25:25.000Z",
+    "expiryDate": "2026-07-09T10:25:24.000Z",
+    "coordinates": [
+      -113.9136733,
+      51.1201981
+    ],
+    "longitude": -113.9136733,
+    "latitude": 51.1201981,
+    "community": "HOMESTEAD",
+    "ward": "HSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

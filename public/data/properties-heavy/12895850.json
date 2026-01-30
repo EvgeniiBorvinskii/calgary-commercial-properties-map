@@ -1,0 +1,36 @@
+{
+  "id": "12895850",
+  "fullDetails": {
+    "licenseNumber": "12895850",
+    "name": "SKYFIRE ENERGY",
+    "address": "4038A 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-05-02T05:30:36.000Z",
+    "expiryDate": "2026-05-01T05:30:36.000Z",
+    "coordinates": [
+      -114.0452832,
+      51.018057
+    ],
+    "longitude": -114.0452832,
+    "latitude": 51.018057,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

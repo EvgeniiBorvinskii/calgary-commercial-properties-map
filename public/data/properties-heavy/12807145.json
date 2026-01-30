@@ -1,0 +1,36 @@
+{
+  "id": "12807145",
+  "fullDetails": {
+    "licenseNumber": "12807145",
+    "name": "INNOVATIVE AUTOWORX",
+    "address": "#12 4970 102 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2014-03-08T05:33:13.000Z",
+    "expiryDate": "2026-03-07T05:33:13.000Z",
+    "coordinates": [
+      -113.9610452,
+      50.9625369
+    ],
+    "longitude": -113.9610452,
+    "latitude": 50.9625369,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

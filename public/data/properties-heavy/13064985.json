@@ -1,0 +1,37 @@
+{
+  "id": "13064985",
+  "fullDetails": {
+    "licenseNumber": "13064985",
+    "name": "ARMITAGE RESOURCES MANAGEMENT",
+    "address": "4527 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2016-04-21T10:05:17.000Z",
+    "expiryDate": "2026-04-20T10:05:17.000Z",
+    "coordinates": [
+      -113.9706381,
+      50.9597918
+    ],
+    "longitude": -113.9706381,
+    "latitude": 50.9597918,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

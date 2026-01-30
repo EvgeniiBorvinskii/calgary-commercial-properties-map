@@ -1,0 +1,36 @@
+{
+  "id": "16475535",
+  "fullDetails": {
+    "licenseNumber": "16475535",
+    "name": "FRANCISCO AUTO REPAIR LIMITED",
+    "address": "2433 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-06-05T11:28:50.000Z",
+    "expiryDate": "2026-06-04T11:28:50.000Z",
+    "coordinates": [
+      -114.0024992,
+      51.0074631
+    ],
+    "longitude": -114.0024992,
+    "latitude": 51.0074631,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

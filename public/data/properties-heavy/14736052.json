@@ -1,0 +1,37 @@
+{
+  "id": "14736052",
+  "fullDetails": {
+    "licenseNumber": "14736052",
+    "name": "CMRX4 PHARMACY",
+    "address": "4139 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-14T12:57:13.000Z",
+    "expiryDate": "2026-11-13T12:57:12.000Z",
+    "coordinates": [
+      -114.0721532,
+      51.0887731
+    ],
+    "longitude": -114.0721532,
+    "latitude": 51.0887731,
+    "community": "HIGHWOOD",
+    "ward": "HIW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

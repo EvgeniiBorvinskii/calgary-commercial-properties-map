@@ -1,0 +1,37 @@
+{
+  "id": "13701768",
+  "fullDetails": {
+    "licenseNumber": "13701768",
+    "name": "FOODWAY GROCERY",
+    "address": "2923 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-08-06T10:59:02.000Z",
+    "expiryDate": "2026-08-05T10:59:02.000Z",
+    "coordinates": [
+      -114.1289895,
+      51.0255644
+    ],
+    "longitude": -114.1289895,
+    "latitude": 51.0255644,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

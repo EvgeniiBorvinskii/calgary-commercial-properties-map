@@ -1,0 +1,37 @@
+{
+  "id": "16021941",
+  "fullDetails": {
+    "licenseNumber": "16021941",
+    "name": "GREEK CORNER (THE)",
+    "address": "7521 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-06-16T09:09:58.000Z",
+    "expiryDate": "2026-06-15T09:09:58.000Z",
+    "coordinates": [
+      -114.0724149,
+      50.9862323
+    ],
+    "longitude": -114.0724149,
+    "latitude": 50.9862323,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

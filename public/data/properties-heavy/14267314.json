@@ -1,0 +1,37 @@
+{
+  "id": "14267314",
+  "fullDetails": {
+    "licenseNumber": "14267314",
+    "name": "STARBUCKS WEST MARKET #75003",
+    "address": "#124 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2016-08-08T12:16:20.000Z",
+    "expiryDate": "2026-08-07T12:16:20.000Z",
+    "coordinates": [
+      -114.168879,
+      51.037593
+    ],
+    "longitude": -114.168879,
+    "latitude": 51.037593,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

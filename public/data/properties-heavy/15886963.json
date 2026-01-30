@@ -1,0 +1,36 @@
+{
+  "id": "15886963",
+  "fullDetails": {
+    "licenseNumber": "15886963",
+    "name": "MY CPAP CANADA",
+    "address": "#8 21 HIGHFIELD CI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-06-09T15:50:38.000Z",
+    "expiryDate": "2026-06-08T15:50:38.000Z",
+    "coordinates": [
+      -114.0448436,
+      51.0124902
+    ],
+    "longitude": -114.0448436,
+    "latitude": 51.0124902,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

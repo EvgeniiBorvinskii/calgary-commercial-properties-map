@@ -1,0 +1,36 @@
+{
+  "id": "15465420",
+  "fullDetails": {
+    "licenseNumber": "15465420",
+    "name": "NEIL AUTOMOTIVE",
+    "address": "#7 3815 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-05-13T10:13:39.000Z",
+    "expiryDate": "2026-05-12T10:13:39.000Z",
+    "coordinates": [
+      -113.9786406,
+      50.9985103
+    ],
+    "longitude": -113.9786406,
+    "latitude": 50.9985103,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

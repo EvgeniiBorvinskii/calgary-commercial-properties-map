@@ -1,0 +1,36 @@
+{
+  "id": "16326498",
+  "fullDetails": {
+    "licenseNumber": "16326498",
+    "name": "DOMINIUM COMMERCIAL",
+    "address": "#207 70 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-09-08T13:44:44.000Z",
+    "expiryDate": "2026-09-07T13:44:44.000Z",
+    "coordinates": [
+      -114.072992,
+      51.1416392
+    ],
+    "longitude": -114.072992,
+    "latitude": 51.1416392,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

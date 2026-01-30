@@ -1,0 +1,36 @@
+{
+  "id": "13832290",
+  "fullDetails": {
+    "licenseNumber": "13832290",
+    "name": "BOATHOUSE",
+    "address": "#115 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-05-01T14:12:51.000Z",
+    "expiryDate": "2026-04-30T14:12:51.000Z",
+    "coordinates": [
+      -113.9859553,
+      51.0741382
+    ],
+    "longitude": -113.9859553,
+    "latitude": 51.0741382,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

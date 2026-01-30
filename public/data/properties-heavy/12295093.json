@@ -1,0 +1,36 @@
+{
+  "id": "12295093",
+  "fullDetails": {
+    "licenseNumber": "12295093",
+    "name": "CUTTING EDGE CABINETRY",
+    "address": "47 SKYLINE CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-11-03T15:53:36.000Z",
+    "expiryDate": "2026-11-02T15:53:36.000Z",
+    "coordinates": [
+      -114.0457434,
+      51.0976337
+    ],
+    "longitude": -114.0457434,
+    "latitude": 51.0976337,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

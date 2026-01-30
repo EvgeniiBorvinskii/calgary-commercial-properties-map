@@ -1,0 +1,36 @@
+{
+  "id": "16683690",
+  "fullDetails": {
+    "licenseNumber": "16683690",
+    "name": "GRILL BITES",
+    "address": "1512 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-12-30T14:30:25.000Z",
+    "expiryDate": "2026-12-29T14:30:24.000Z",
+    "coordinates": [
+      -114.0944597,
+      51.0389066
+    ],
+    "longitude": -114.0944597,
+    "latitude": 51.0389066,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

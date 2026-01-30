@@ -1,0 +1,36 @@
+{
+  "id": "16524332",
+  "fullDetails": {
+    "licenseNumber": "16524332",
+    "name": "SMART GLOBAL FOODS",
+    "address": "#115 1925 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0158663,
+      51.0679823
+    ],
+    "longitude": -114.0158663,
+    "latitude": 51.0679823,
+    "community": "VISTA HEIGHTS",
+    "ward": "VIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14278402",
+  "fullDetails": {
+    "licenseNumber": "14278402",
+    "name": "PAG GENERAL CONTRACTOR",
+    "address": "#1 5215 8 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-12-08T08:42:31.000Z",
+    "expiryDate": "2026-12-07T08:42:31.000Z",
+    "coordinates": [
+      -114.0462674,
+      51.0997502
+    ],
+    "longitude": -114.0462674,
+    "latitude": 51.0997502,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

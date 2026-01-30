@@ -1,0 +1,36 @@
+{
+  "id": "16632739",
+  "fullDetails": {
+    "licenseNumber": "16632739",
+    "name": "DE HAVILLAND AIRCRAFT OF CANADA LIMITED",
+    "address": "3615 34 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-19T10:43:50.000Z",
+    "expiryDate": "2026-06-18T10:43:49.000Z",
+    "coordinates": [
+      -113.9862423,
+      51.0854362
+    ],
+    "longitude": -113.9862423,
+    "latitude": 51.0854362,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16582785",
+  "fullDetails": {
+    "licenseNumber": "16582785",
+    "name": "TOTAL SITE SUPPLIES",
+    "address": "2875 107 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-09-09T09:38:09.000Z",
+    "expiryDate": "2026-09-08T09:38:09.000Z",
+    "coordinates": [
+      -113.9942676,
+      50.9563328
+    ],
+    "longitude": -113.9942676,
+    "latitude": 50.9563328,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

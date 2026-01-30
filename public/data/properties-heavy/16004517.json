@@ -1,0 +1,36 @@
+{
+  "id": "16004517",
+  "fullDetails": {
+    "licenseNumber": "16004517",
+    "name": "REBEL ROSE STYLING",
+    "address": "3023 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-05-07T13:17:03.000Z",
+    "expiryDate": "2026-05-06T13:17:01.000Z",
+    "coordinates": [
+      -114.1000518,
+      51.027276
+    ],
+    "longitude": -114.1000518,
+    "latitude": 51.027276,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

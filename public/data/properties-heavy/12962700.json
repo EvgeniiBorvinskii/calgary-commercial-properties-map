@@ -1,0 +1,36 @@
+{
+  "id": "12962700",
+  "fullDetails": {
+    "licenseNumber": "12962700",
+    "name": "BENTO",
+    "address": "#100 20 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2010-06-17T15:48:55.000Z",
+    "expiryDate": "2026-06-16T15:48:55.000Z",
+    "coordinates": [
+      -114.0419279,
+      50.9864479
+    ],
+    "longitude": -114.0419279,
+    "latitude": 50.9864479,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

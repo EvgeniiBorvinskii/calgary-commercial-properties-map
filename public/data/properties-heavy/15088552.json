@@ -1,0 +1,36 @@
+{
+  "id": "15088552",
+  "fullDetails": {
+    "licenseNumber": "15088552",
+    "name": "PANAGO PIZZA #134 EAST HILLS",
+    "address": "291 EAST HILLS BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-11-26T15:47:33.000Z",
+    "expiryDate": "2026-11-25T15:47:33.000Z",
+    "coordinates": [
+      -113.9113116,
+      51.0398066
+    ],
+    "longitude": -113.9113116,
+    "latitude": 51.0398066,
+    "community": "BELVEDERE",
+    "ward": "BVD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

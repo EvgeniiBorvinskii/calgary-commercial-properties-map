@@ -1,0 +1,37 @@
+{
+  "id": "14426092",
+  "fullDetails": {
+    "licenseNumber": "14426092",
+    "name": "GOODWILL INDUSTRIES OF ALBERTA",
+    "address": "#710 12024 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2017-05-10T09:44:07.000Z",
+    "expiryDate": "2026-05-09T09:44:07.000Z",
+    "coordinates": [
+      -114.1606117,
+      51.1609059
+    ],
+    "longitude": -114.1606117,
+    "latitude": 51.1609059,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16208209",
+  "fullDetails": {
+    "licenseNumber": "16208209",
+    "name": "WINEBAR KENSINGTON",
+    "address": "#50 1131 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-10-07T09:03:03.000Z",
+    "expiryDate": "2026-10-06T09:03:03.000Z",
+    "coordinates": [
+      -114.0877992,
+      51.0523181
+    ],
+    "longitude": -114.0877992,
+    "latitude": 51.0523181,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

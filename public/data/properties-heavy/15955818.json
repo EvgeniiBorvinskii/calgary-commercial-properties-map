@@ -1,0 +1,36 @@
+{
+  "id": "15955818",
+  "fullDetails": {
+    "licenseNumber": "15955818",
+    "name": "CHINOOK ELEVATOR",
+    "address": "#1 4216 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2023-03-21T10:47:25.000Z",
+    "expiryDate": "2026-03-20T10:47:25.000Z",
+    "coordinates": [
+      -114.0372798,
+      51.0899865
+    ],
+    "longitude": -114.0372798,
+    "latitude": 51.0899865,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

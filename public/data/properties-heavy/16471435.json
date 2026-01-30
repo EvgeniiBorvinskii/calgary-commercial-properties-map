@@ -1,0 +1,37 @@
+{
+  "id": "16471435",
+  "fullDetails": {
+    "licenseNumber": "16471435",
+    "name": "CHATEAU RENOIR",
+    "address": "9229 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-04-06T05:34:23.000Z",
+    "expiryDate": "2026-04-05T05:34:23.000Z",
+    "coordinates": [
+      -114.1010384,
+      50.9712892
+    ],
+    "longitude": -114.1010384,
+    "latitude": 50.9712892,
+    "community": "PUMP HILL",
+    "ward": "PUM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

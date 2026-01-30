@@ -1,0 +1,36 @@
+{
+  "id": "14048243",
+  "fullDetails": {
+    "licenseNumber": "14048243",
+    "name": "COBS BREAD",
+    "address": "#107 150 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-01-19T15:29:14.000Z",
+    "expiryDate": "2027-01-18T15:29:14.000Z",
+    "coordinates": [
+      -114.1966168,
+      51.1276774
+    ],
+    "longitude": -114.1966168,
+    "latitude": 51.1276774,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

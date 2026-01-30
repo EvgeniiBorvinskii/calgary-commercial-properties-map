@@ -1,0 +1,36 @@
+{
+  "id": "12449757",
+  "fullDetails": {
+    "licenseNumber": "12449757",
+    "name": "INTEGRITY MECHANICAL",
+    "address": "6519 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2011-05-11T09:24:23.000Z",
+    "expiryDate": "2026-05-10T09:24:23.000Z",
+    "coordinates": [
+      -113.9768717,
+      50.9963018
+    ],
+    "longitude": -113.9768717,
+    "latitude": 50.9963018,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16304685",
+  "fullDetails": {
+    "licenseNumber": "16304685",
+    "name": "SPICES INDIAN AND NEPALESE CUISINE",
+    "address": "#415 19587 SETON CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-05-05T11:53:30.000Z",
+    "expiryDate": "2026-05-04T11:53:29.000Z",
+    "coordinates": [
+      -113.9611525,
+      50.8786121
+    ],
+    "longitude": -113.9611525,
+    "latitude": 50.8786121,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

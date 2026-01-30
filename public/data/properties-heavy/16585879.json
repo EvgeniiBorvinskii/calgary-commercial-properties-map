@@ -1,0 +1,36 @@
+{
+  "id": "16585879",
+  "fullDetails": {
+    "licenseNumber": "16585879",
+    "name": "WOODLANDS MANOR - BUILDING 2000 - AVENUE LIVING",
+    "address": "1825 WOODVIEW DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-05-09T15:33:57.000Z",
+    "expiryDate": "2026-05-08T15:33:55.000Z",
+    "coordinates": [
+      -114.1027565,
+      50.9402369
+    ],
+    "longitude": -114.1027565,
+    "latitude": 50.9402369,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

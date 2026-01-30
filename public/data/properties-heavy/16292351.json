@@ -1,0 +1,37 @@
+{
+  "id": "16292351",
+  "fullDetails": {
+    "licenseNumber": "16292351",
+    "name": "TRUST CONVENIENCE STORE",
+    "address": "#3155 40 CHRISTIE PARK VW SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2024-04-11T05:34:01.000Z",
+    "expiryDate": "2026-04-10T05:34:01.000Z",
+    "coordinates": [
+      -114.1774838,
+      51.0376386
+    ],
+    "longitude": -114.1774838,
+    "latitude": 51.0376386,
+    "community": "CHRISTIE PARK",
+    "ward": "CHR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

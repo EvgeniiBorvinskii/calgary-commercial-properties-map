@@ -1,0 +1,36 @@
+{
+  "id": "12439386",
+  "fullDetails": {
+    "licenseNumber": "12439386",
+    "name": "FABRICLAND",
+    "address": "#1 7130 FISHER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-02-03T12:22:53.000Z",
+    "expiryDate": "2027-02-02T12:22:53.000Z",
+    "coordinates": [
+      -114.0674466,
+      50.9903508
+    ],
+    "longitude": -114.0674466,
+    "latitude": 50.9903508,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

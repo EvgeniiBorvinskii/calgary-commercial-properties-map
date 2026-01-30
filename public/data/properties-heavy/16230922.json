@@ -1,0 +1,36 @@
+{
+  "id": "16230922",
+  "fullDetails": {
+    "licenseNumber": "16230922",
+    "name": "ATHLETA 5114",
+    "address": "#179 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-11-28T09:06:57.000Z",
+    "expiryDate": "2026-11-27T09:06:57.000Z",
+    "coordinates": [
+      -114.0740798,
+      50.9977039
+    ],
+    "longitude": -114.0740798,
+    "latitude": 50.9977039,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

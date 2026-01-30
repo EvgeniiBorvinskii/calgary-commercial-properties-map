@@ -1,0 +1,37 @@
+{
+  "id": "14497366",
+  "fullDetails": {
+    "licenseNumber": "14497366",
+    "name": "PANTHER INTEGRATION",
+    "address": "#202 5920 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-04-25T11:36:09.000Z",
+    "expiryDate": "2026-04-24T11:36:09.000Z",
+    "coordinates": [
+      -113.9846087,
+      51.0006132
+    ],
+    "longitude": -113.9846087,
+    "latitude": 51.0006132,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

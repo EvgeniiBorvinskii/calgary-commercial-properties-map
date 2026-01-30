@@ -1,0 +1,36 @@
+{
+  "id": "13985916",
+  "fullDetails": {
+    "licenseNumber": "13985916",
+    "name": "SOURCE TATTOO SUPPLY",
+    "address": "#6 1935 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-16T09:17:18.000Z",
+    "expiryDate": "2026-09-15T09:17:18.000Z",
+    "coordinates": [
+      -114.0124681,
+      51.0763396
+    ],
+    "longitude": -114.0124681,
+    "latitude": 51.0763396,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

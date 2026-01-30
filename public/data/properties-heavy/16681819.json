@@ -1,0 +1,37 @@
+{
+  "id": "16681819",
+  "fullDetails": {
+    "licenseNumber": "16681819",
+    "name": "HAIRTASTIC HEADSPA AND MASSAGE",
+    "address": "#4A 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2025-10-03T15:54:50.000Z",
+    "expiryDate": "2026-10-02T15:54:50.000Z",
+    "coordinates": [
+      -114.0007165,
+      51.0502634
+    ],
+    "longitude": -114.0007165,
+    "latitude": 51.0502634,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

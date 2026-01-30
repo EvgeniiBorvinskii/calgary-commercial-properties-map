@@ -1,0 +1,37 @@
+{
+  "id": "16508509",
+  "fullDetails": {
+    "licenseNumber": "16508509",
+    "name": "POTTERY 123",
+    "address": "#116 11979 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "MANUFACTURER",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nMANUFACTURER",
+    "status": "in_progress",
+    "issuedDate": "2024-09-27T10:05:14.000Z",
+    "expiryDate": "2026-09-26T10:05:14.000Z",
+    "coordinates": [
+      -113.9760557,
+      50.94265
+    ],
+    "longitude": -113.9760557,
+    "latitude": 50.94265,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

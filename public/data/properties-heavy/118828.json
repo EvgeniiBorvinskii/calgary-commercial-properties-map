@@ -1,0 +1,37 @@
+{
+  "id": "118828",
+  "fullDetails": {
+    "licenseNumber": "118828",
+    "name": "RUTLAND PARK COMMUNITY ASSOCIATION",
+    "address": "3130 40 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1352688,
+      51.0183993
+    ],
+    "longitude": -114.1352688,
+    "latitude": 51.0183993,
+    "community": "RUTLAND PARK",
+    "ward": "RUT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

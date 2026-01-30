@@ -1,0 +1,36 @@
+{
+  "id": "489856",
+  "fullDetails": {
+    "licenseNumber": "489856",
+    "name": "ECOSSE WELDING",
+    "address": "6120 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-05-16T08:05:57.000Z",
+    "expiryDate": "2026-05-15T08:05:57.000Z",
+    "coordinates": [
+      -113.9758365,
+      50.9981972
+    ],
+    "longitude": -113.9758365,
+    "latitude": 50.9981972,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

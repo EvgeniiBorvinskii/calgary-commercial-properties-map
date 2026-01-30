@@ -1,0 +1,37 @@
+{
+  "id": "16577009",
+  "fullDetails": {
+    "licenseNumber": "16577009",
+    "name": "D BISHOP FAMINC",
+    "address": "#230 200 HARTELL WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-01-21T09:19:56.000Z",
+    "expiryDate": "2026-01-20T09:19:55.000Z",
+    "coordinates": [
+      -114.0265159,
+      50.8638957
+    ],
+    "longitude": -114.0265159,
+    "latitude": 50.8638957,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "92551",
+  "fullDetails": {
+    "licenseNumber": "92551",
+    "name": "EMCO",
+    "address": "7110 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-11-17T14:58:18.000Z",
+    "expiryDate": "2026-11-16T14:58:18.000Z",
+    "coordinates": [
+      -113.9699754,
+      50.992339
+    ],
+    "longitude": -113.9699754,
+    "latitude": 50.992339,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

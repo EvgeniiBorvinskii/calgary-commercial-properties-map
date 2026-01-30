@@ -1,0 +1,36 @@
+{
+  "id": "13052360",
+  "fullDetails": {
+    "licenseNumber": "13052360",
+    "name": "YOURHERE",
+    "address": "#11 6143 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2016-04-01T05:33:38.000Z",
+    "expiryDate": "2026-03-31T05:33:37.000Z",
+    "coordinates": [
+      -114.0543364,
+      50.9969182
+    ],
+    "longitude": -114.0543364,
+    "latitude": 50.9969182,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

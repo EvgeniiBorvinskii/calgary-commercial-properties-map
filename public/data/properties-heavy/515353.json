@@ -1,0 +1,36 @@
+{
+  "id": "515353",
+  "fullDetails": {
+    "licenseNumber": "515353",
+    "name": "K W OPTICAL -- CALGARY",
+    "address": "3408 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2019-01-28T09:28:29.000Z",
+    "expiryDate": "2027-01-27T09:28:29.000Z",
+    "coordinates": [
+      -114.0002824,
+      51.0837702
+    ],
+    "longitude": -114.0002824,
+    "latitude": 51.0837702,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

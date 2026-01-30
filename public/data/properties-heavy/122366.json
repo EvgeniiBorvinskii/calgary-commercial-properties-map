@@ -1,0 +1,36 @@
+{
+  "id": "122366",
+  "fullDetails": {
+    "licenseNumber": "122366",
+    "name": "MARK'S WORK WEARHOUSE #16",
+    "address": "#1120 33 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2005-07-29T09:23:40.000Z",
+    "expiryDate": "2026-07-28T09:23:40.000Z",
+    "coordinates": [
+      -114.0414321,
+      50.9823282
+    ],
+    "longitude": -114.0414321,
+    "latitude": 50.9823282,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

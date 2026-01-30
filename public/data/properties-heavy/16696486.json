@@ -1,0 +1,36 @@
+{
+  "id": "16696486",
+  "fullDetails": {
+    "licenseNumber": "16696486",
+    "name": "BROOKEBLENDS",
+    "address": "1180 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-11-12T15:32:41.000Z",
+    "expiryDate": "2026-11-11T15:32:41.000Z",
+    "coordinates": [
+      -114.0556829,
+      51.0416044
+    ],
+    "longitude": -114.0556829,
+    "latitude": 51.0416044,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

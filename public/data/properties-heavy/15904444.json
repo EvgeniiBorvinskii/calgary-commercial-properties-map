@@ -1,0 +1,37 @@
+{
+  "id": "15904444",
+  "fullDetails": {
+    "licenseNumber": "15904444",
+    "name": "NISSTECH AUTOMOTIVE CENTER",
+    "address": "444 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "AUTO BODY SHOP,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-01-13T07:18:21.000Z",
+    "expiryDate": "2027-01-12T07:18:20.000Z",
+    "coordinates": [
+      -114.056392,
+      51.0165156
+    ],
+    "longitude": -114.056392,
+    "latitude": 51.0165156,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

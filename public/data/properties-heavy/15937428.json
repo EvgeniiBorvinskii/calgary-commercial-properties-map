@@ -1,0 +1,37 @@
+{
+  "id": "15937428",
+  "fullDetails": {
+    "licenseNumber": "15937428",
+    "name": "PHARMASAVE WHITEHORN # 3018",
+    "address": "#17 4525 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-11-18T14:48:01.000Z",
+    "expiryDate": "2026-11-17T14:48:01.000Z",
+    "coordinates": [
+      -113.9592401,
+      51.0919071
+    ],
+    "longitude": -113.9592401,
+    "latitude": 51.0919071,
+    "community": "WHITEHORN",
+    "ward": "WHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

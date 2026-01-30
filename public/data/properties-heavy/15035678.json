@@ -1,0 +1,36 @@
+{
+  "id": "15035678",
+  "fullDetails": {
+    "licenseNumber": "15035678",
+    "name": "MOBSQUAD",
+    "address": "#2100 150 9 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-10-22T13:43:33.000Z",
+    "expiryDate": "2026-10-21T13:43:33.000Z",
+    "coordinates": [
+      -114.0646705,
+      51.0449379
+    ],
+    "longitude": -114.0646705,
+    "latitude": 51.0449379,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

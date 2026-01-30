@@ -1,0 +1,36 @@
+{
+  "id": "16245680",
+  "fullDetails": {
+    "licenseNumber": "16245680",
+    "name": "HAYS HEAVY DUTY",
+    "address": "4920 32 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-01-08T08:25:01.000Z",
+    "expiryDate": "2027-01-07T08:25:00.000Z",
+    "coordinates": [
+      -113.9859526,
+      51.0100117
+    ],
+    "longitude": -113.9859526,
+    "latitude": 51.0100117,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

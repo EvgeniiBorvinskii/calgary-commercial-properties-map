@@ -1,0 +1,37 @@
+{
+  "id": "12308789",
+  "fullDetails": {
+    "licenseNumber": "12308789",
+    "name": "SOMERSET LIQUOR STORE",
+    "address": "16329 SOMERCREST ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2004-10-08T09:52:42.000Z",
+    "expiryDate": "2026-10-07T09:52:42.000Z",
+    "coordinates": [
+      -114.0905245,
+      50.9032748
+    ],
+    "longitude": -114.0905245,
+    "latitude": 50.9032748,
+    "community": "SOMERSET",
+    "ward": "SOM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

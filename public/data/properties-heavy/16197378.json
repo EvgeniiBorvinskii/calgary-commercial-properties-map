@@ -1,0 +1,37 @@
+{
+  "id": "16197378",
+  "fullDetails": {
+    "licenseNumber": "16197378",
+    "name": "MODERN LOVE",
+    "address": "613 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "ENTERTAINMENT ESTABLISHMENT,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nENTERTAINMENT ESTABLISHMENT,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-09-07T14:31:53.000Z",
+    "expiryDate": "2026-09-06T14:31:53.000Z",
+    "coordinates": [
+      -114.0749915,
+      51.042466
+    ],
+    "longitude": -114.0749915,
+    "latitude": 51.042466,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

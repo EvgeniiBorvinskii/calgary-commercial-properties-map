@@ -1,0 +1,37 @@
+{
+  "id": "15847668",
+  "fullDetails": {
+    "licenseNumber": "15847668",
+    "name": "BRAVO",
+    "address": "3503 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2019-11-15T07:55:50.000Z",
+    "expiryDate": "2026-11-14T07:55:50.000Z",
+    "coordinates": [
+      -113.9842334,
+      51.0374634
+    ],
+    "longitude": -113.9842334,
+    "latitude": 51.0374634,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

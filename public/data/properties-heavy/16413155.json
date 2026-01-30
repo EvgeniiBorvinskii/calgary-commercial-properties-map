@@ -1,0 +1,36 @@
+{
+  "id": "16413155",
+  "fullDetails": {
+    "licenseNumber": "16413155",
+    "name": "PIZZA HUT #2858",
+    "address": "#1 5012 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-07T12:07:35.000Z",
+    "expiryDate": "2026-03-06T12:07:35.000Z",
+    "coordinates": [
+      -114.1649958,
+      51.0738147
+    ],
+    "longitude": -114.1649958,
+    "latitude": 51.0738147,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

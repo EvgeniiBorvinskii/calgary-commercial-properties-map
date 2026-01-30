@@ -1,0 +1,36 @@
+{
+  "id": "16009508",
+  "fullDetails": {
+    "licenseNumber": "16009508",
+    "name": "AXIS PHARMACY CLINIC",
+    "address": "3503 20 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-04T14:55:28.000Z",
+    "expiryDate": "2026-08-03T14:55:28.000Z",
+    "coordinates": [
+      -114.1094743,
+      51.0229513
+    ],
+    "longitude": -114.1094743,
+    "latitude": 51.0229513,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

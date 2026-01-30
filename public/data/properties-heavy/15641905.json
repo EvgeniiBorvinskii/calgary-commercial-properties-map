@@ -1,0 +1,36 @@
+{
+  "id": "15641905",
+  "fullDetails": {
+    "licenseNumber": "15641905",
+    "name": "GIGI NAILS",
+    "address": "15225 BANNISTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2020-06-22T14:19:41.000Z",
+    "expiryDate": "2026-06-21T14:19:41.000Z",
+    "coordinates": [
+      -114.0676437,
+      50.9162639
+    ],
+    "longitude": -114.0676437,
+    "latitude": 50.9162639,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

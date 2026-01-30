@@ -1,0 +1,36 @@
+{
+  "id": "16470932",
+  "fullDetails": {
+    "licenseNumber": "16470932",
+    "name": "BENTO SUSHI",
+    "address": "4940 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-03T12:23:35.000Z",
+    "expiryDate": "2026-07-02T12:23:35.000Z",
+    "coordinates": [
+      -114.1588587,
+      51.0190809
+    ],
+    "longitude": -114.1588587,
+    "latitude": 51.0190809,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

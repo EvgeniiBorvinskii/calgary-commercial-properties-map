@@ -1,0 +1,36 @@
+{
+  "id": "16302432",
+  "fullDetails": {
+    "licenseNumber": "16302432",
+    "name": "FOUR20",
+    "address": "#120 6008 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2023-03-27T13:04:54.000Z",
+    "expiryDate": "2026-03-26T13:04:54.000Z",
+    "coordinates": [
+      -114.0708725,
+      50.9994116
+    ],
+    "longitude": -114.0708725,
+    "latitude": 50.9994116,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

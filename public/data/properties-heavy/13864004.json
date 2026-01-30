@@ -1,0 +1,36 @@
+{
+  "id": "13864004",
+  "fullDetails": {
+    "licenseNumber": "13864004",
+    "name": "POMERLEAU",
+    "address": "#170 6223 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-11-02T13:45:31.000Z",
+    "expiryDate": "2026-11-01T13:45:31.000Z",
+    "coordinates": [
+      -114.0613583,
+      50.9956716
+    ],
+    "longitude": -114.0613583,
+    "latitude": 50.9956716,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

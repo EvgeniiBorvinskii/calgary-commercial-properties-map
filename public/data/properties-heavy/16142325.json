@@ -1,0 +1,36 @@
+{
+  "id": "16142325",
+  "fullDetails": {
+    "licenseNumber": "16142325",
+    "name": "FASTRACK DRIVING ACADEMY",
+    "address": "#1141 4058 109 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2023-11-13T11:34:44.000Z",
+    "expiryDate": "2026-11-12T11:34:44.000Z",
+    "coordinates": [
+      -113.9767078,
+      51.153785
+    ],
+    "longitude": -113.9767078,
+    "latitude": 51.153785,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

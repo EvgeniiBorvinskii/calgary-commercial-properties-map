@@ -1,0 +1,37 @@
+{
+  "id": "16070641",
+  "fullDetails": {
+    "licenseNumber": "16070641",
+    "name": "LEELA ECO SPA - MARDA LOOP",
+    "address": "#260 2240 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2021-09-15T14:49:52.000Z",
+    "expiryDate": "2026-09-14T14:49:52.000Z",
+    "coordinates": [
+      -114.11366,
+      51.0242389
+    ],
+    "longitude": -114.11366,
+    "latitude": 51.0242389,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

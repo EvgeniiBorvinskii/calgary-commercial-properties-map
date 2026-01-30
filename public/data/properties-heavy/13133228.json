@@ -1,0 +1,36 @@
+{
+  "id": "13133228",
+  "fullDetails": {
+    "licenseNumber": "13133228",
+    "name": "THE GREAT CANADIAN ROOFING CORPORATION",
+    "address": "#7 1936 25 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-28T15:31:57.000Z",
+    "expiryDate": "2026-11-27T15:31:57.000Z",
+    "coordinates": [
+      -114.0124734,
+      51.0754973
+    ],
+    "longitude": -114.0124734,
+    "latitude": 51.0754973,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

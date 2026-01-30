@@ -1,0 +1,36 @@
+{
+  "id": "388066",
+  "fullDetails": {
+    "licenseNumber": "388066",
+    "name": "CHINOOK BOTTLE DEPOT",
+    "address": "108 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2009-05-26T05:33:44.000Z",
+    "expiryDate": "2026-05-25T05:33:44.000Z",
+    "coordinates": [
+      -114.0627352,
+      50.9980388
+    ],
+    "longitude": -114.0627352,
+    "latitude": 50.9980388,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

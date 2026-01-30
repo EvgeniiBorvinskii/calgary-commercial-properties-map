@@ -1,0 +1,36 @@
+{
+  "id": "13232830",
+  "fullDetails": {
+    "licenseNumber": "13232830",
+    "name": "BAIZA HAIR SALON",
+    "address": "#100 108 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-03-07T08:40:55.000Z",
+    "expiryDate": "2026-03-06T08:40:55.000Z",
+    "coordinates": [
+      -114.0632611,
+      51.0506084
+    ],
+    "longitude": -114.0632611,
+    "latitude": 51.0506084,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

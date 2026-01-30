@@ -1,0 +1,36 @@
+{
+  "id": "15839269",
+  "fullDetails": {
+    "licenseNumber": "15839269",
+    "name": "COCO TEA",
+    "address": "#19 9250 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-11-28T12:45:11.000Z",
+    "expiryDate": "2026-11-27T12:45:11.000Z",
+    "coordinates": [
+      -114.069788,
+      50.9701299
+    ],
+    "longitude": -114.069788,
+    "latitude": 50.9701299,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

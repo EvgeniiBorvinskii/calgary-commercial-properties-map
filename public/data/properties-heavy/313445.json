@@ -1,0 +1,36 @@
+{
+  "id": "313445",
+  "fullDetails": {
+    "licenseNumber": "313445",
+    "name": "RUNNING ROOM",
+    "address": "#126A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-09-28T05:52:20.000Z",
+    "expiryDate": "2026-09-27T05:52:20.000Z",
+    "coordinates": [
+      -114.0979548,
+      50.9743335
+    ],
+    "longitude": -114.0979548,
+    "latitude": 50.9743335,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

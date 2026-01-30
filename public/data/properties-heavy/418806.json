@@ -1,0 +1,37 @@
+{
+  "id": "418806",
+  "fullDetails": {
+    "licenseNumber": "418806",
+    "name": "LEMMER SPRAY SYSTEMS",
+    "address": "4624 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "pending",
+    "issuedDate": "2005-02-15T08:49:34.000Z",
+    "expiryDate": "2026-02-14T08:49:34.000Z",
+    "coordinates": [
+      -114.0326271,
+      51.0941584
+    ],
+    "longitude": -114.0326271,
+    "latitude": 51.0941584,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16441123",
+  "fullDetails": {
+    "licenseNumber": "16441123",
+    "name": "RUIF AUTO",
+    "address": "#9 1431 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-02-26T15:59:14.000Z",
+    "expiryDate": "2026-02-25T15:59:14.000Z",
+    "coordinates": [
+      -114.0295389,
+      51.0880602
+    ],
+    "longitude": -114.0295389,
+    "latitude": 51.0880602,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

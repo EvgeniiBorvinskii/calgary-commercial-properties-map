@@ -1,0 +1,37 @@
+{
+  "id": "16489346",
+  "fullDetails": {
+    "licenseNumber": "16489346",
+    "name": "S'MORE PLEASE",
+    "address": "202D CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-16T14:17:09.000Z",
+    "expiryDate": "2026-05-15T14:17:09.000Z",
+    "coordinates": [
+      -114.0623788,
+      51.051013
+    ],
+    "longitude": -114.0623788,
+    "latitude": 51.051013,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

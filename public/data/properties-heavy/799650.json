@@ -1,0 +1,37 @@
+{
+  "id": "799650",
+  "fullDetails": {
+    "licenseNumber": "799650",
+    "name": "NORCAN FLUID POWER",
+    "address": "5520 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2012-05-15T05:43:47.000Z",
+    "expiryDate": "2026-05-14T05:43:47.000Z",
+    "coordinates": [
+      -113.9529113,
+      51.0055088
+    ],
+    "longitude": -113.9529113,
+    "latitude": 51.0055088,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

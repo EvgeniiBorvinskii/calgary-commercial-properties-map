@@ -1,0 +1,36 @@
+{
+  "id": "725598",
+  "fullDetails": {
+    "licenseNumber": "725598",
+    "name": "P C COMPUTER CLEANING/PRAYMAYER CLEANING",
+    "address": "8 HILLGREEN PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "pending",
+    "issuedDate": "2003-02-21T05:35:17.000Z",
+    "expiryDate": "2026-02-20T05:35:17.000Z",
+    "coordinates": [
+      -114.0926182,
+      50.9664285
+    ],
+    "longitude": -114.0926182,
+    "latitude": 50.9664285,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

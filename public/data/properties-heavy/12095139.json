@@ -1,0 +1,36 @@
+{
+  "id": "12095139",
+  "fullDetails": {
+    "licenseNumber": "12095139",
+    "name": "EDGE MARKETING GROUP",
+    "address": "#141 10760 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-05-23T12:49:07.000Z",
+    "expiryDate": "2026-05-22T12:49:07.000Z",
+    "coordinates": [
+      -113.9943214,
+      51.1519298
+    ],
+    "longitude": -113.9943214,
+    "latitude": 51.1519298,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

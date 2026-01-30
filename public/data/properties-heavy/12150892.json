@@ -1,0 +1,36 @@
+{
+  "id": "12150892",
+  "fullDetails": {
+    "licenseNumber": "12150892",
+    "name": "AMIGO ELECTRICAL SERVICES",
+    "address": "#145 251 MIDPARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2014-10-23T05:30:46.000Z",
+    "expiryDate": "2026-10-22T05:30:46.000Z",
+    "coordinates": [
+      -114.0629079,
+      50.9111896
+    ],
+    "longitude": -114.0629079,
+    "latitude": 50.9111896,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

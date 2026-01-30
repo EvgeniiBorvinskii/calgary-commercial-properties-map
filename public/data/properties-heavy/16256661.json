@@ -1,0 +1,36 @@
+{
+  "id": "16256661",
+  "fullDetails": {
+    "licenseNumber": "16256661",
+    "name": "CROWN KITCHEN CABINETS",
+    "address": "1225 38 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-02-02T05:36:32.000Z",
+    "expiryDate": "2027-02-01T05:36:31.000Z",
+    "coordinates": [
+      -114.0327455,
+      51.0867911
+    ],
+    "longitude": -114.0327455,
+    "latitude": 51.0867911,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

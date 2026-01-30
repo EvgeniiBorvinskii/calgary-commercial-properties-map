@@ -1,0 +1,36 @@
+{
+  "id": "13104427",
+  "fullDetails": {
+    "licenseNumber": "13104427",
+    "name": "INTERNATIONAL PAINT",
+    "address": "4460 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2011-04-12T05:53:15.000Z",
+    "expiryDate": "2026-04-11T05:53:15.000Z",
+    "coordinates": [
+      -113.9685611,
+      51.0093824
+    ],
+    "longitude": -113.9685611,
+    "latitude": 51.0093824,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16647836",
+  "fullDetails": {
+    "licenseNumber": "16647836",
+    "name": "ALBERTA BEER EXCHANGE",
+    "address": "#130 1642 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-07-16T09:03:20.000Z",
+    "expiryDate": "2026-07-15T09:03:20.000Z",
+    "coordinates": [
+      -114.0988948,
+      51.0445571
+    ],
+    "longitude": -114.0988948,
+    "latitude": 51.0445571,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

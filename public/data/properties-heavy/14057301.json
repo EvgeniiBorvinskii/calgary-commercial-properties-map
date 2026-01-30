@@ -1,0 +1,37 @@
+{
+  "id": "14057301",
+  "fullDetails": {
+    "licenseNumber": "14057301",
+    "name": "MAC'S CONVENIENCE STORE #2063",
+    "address": "838 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2018-09-12T14:55:40.000Z",
+    "expiryDate": "2026-09-11T14:55:40.000Z",
+    "coordinates": [
+      -113.9343773,
+      51.0593641
+    ],
+    "longitude": -113.9343773,
+    "latitude": 51.0593641,
+    "community": "ABBEYDALE",
+    "ward": "ABB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

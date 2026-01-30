@@ -1,0 +1,37 @@
+{
+  "id": "12185948",
+  "fullDetails": {
+    "licenseNumber": "12185948",
+    "name": "GLOBAL DIAMONDS",
+    "address": "9685 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2003-06-11T08:25:53.000Z",
+    "expiryDate": "2026-06-10T08:25:53.000Z",
+    "coordinates": [
+      -114.0725448,
+      50.9680749
+    ],
+    "longitude": -114.0725448,
+    "latitude": 50.9680749,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

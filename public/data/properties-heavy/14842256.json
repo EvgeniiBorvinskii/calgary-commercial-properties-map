@@ -1,0 +1,37 @@
+{
+  "id": "14842256",
+  "fullDetails": {
+    "licenseNumber": "14842256",
+    "name": "TO CIGAR BOUTIQUE",
+    "address": "#120 1851 SIROCCO DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2018-03-29T12:47:30.000Z",
+    "expiryDate": "2026-03-28T12:47:30.000Z",
+    "coordinates": [
+      -114.1689483,
+      51.0375653
+    ],
+    "longitude": -114.1689483,
+    "latitude": 51.0375653,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

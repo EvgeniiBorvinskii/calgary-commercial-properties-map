@@ -1,0 +1,37 @@
+{
+  "id": "15929821",
+  "fullDetails": {
+    "licenseNumber": "15929821",
+    "name": "CABINET DOCTOR (THE)",
+    "address": "#8 1235 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2023-03-16T07:25:11.000Z",
+    "expiryDate": "2026-03-15T07:25:11.000Z",
+    "coordinates": [
+      -114.0376332,
+      50.9949706
+    ],
+    "longitude": -114.0376332,
+    "latitude": 50.9949706,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

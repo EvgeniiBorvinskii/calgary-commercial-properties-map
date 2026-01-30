@@ -1,0 +1,36 @@
+{
+  "id": "15975824",
+  "fullDetails": {
+    "licenseNumber": "15975824",
+    "name": "LIVING POTENTIAL",
+    "address": "964 BERKLEY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "pending",
+    "issuedDate": "2021-02-23T07:19:17.000Z",
+    "expiryDate": "2026-02-22T07:19:17.000Z",
+    "coordinates": [
+      -114.0807313,
+      51.1266878
+    ],
+    "longitude": -114.0807313,
+    "latitude": 51.1266878,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

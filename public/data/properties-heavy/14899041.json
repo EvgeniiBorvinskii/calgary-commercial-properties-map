@@ -1,0 +1,36 @@
+{
+  "id": "14899041",
+  "fullDetails": {
+    "licenseNumber": "14899041",
+    "name": "S & B IMAGE DESIGN",
+    "address": "#4 2828 18 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-04-19T12:02:49.000Z",
+    "expiryDate": "2026-04-18T12:02:49.000Z",
+    "coordinates": [
+      -114.0137659,
+      51.0779674
+    ],
+    "longitude": -114.0137659,
+    "latitude": 51.0779674,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15574619",
+  "fullDetails": {
+    "licenseNumber": "15574619",
+    "name": "LONDON AT HERITAGE",
+    "address": "8880 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2020-03-03T16:16:11.000Z",
+    "expiryDate": "2026-03-02T16:16:11.000Z",
+    "coordinates": [
+      -114.0741167,
+      50.9743582
+    ],
+    "longitude": -114.0741167,
+    "latitude": 50.9743582,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

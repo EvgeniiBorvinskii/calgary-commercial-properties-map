@@ -1,0 +1,36 @@
+{
+  "id": "99788",
+  "fullDetails": {
+    "licenseNumber": "99788",
+    "name": "VAN MASON COATINGS",
+    "address": "#100 512 MORAINE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2004-11-10T05:32:12.000Z",
+    "expiryDate": "2026-11-09T05:32:12.000Z",
+    "coordinates": [
+      -113.9978905,
+      51.0555669
+    ],
+    "longitude": -113.9978905,
+    "latitude": 51.0555669,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

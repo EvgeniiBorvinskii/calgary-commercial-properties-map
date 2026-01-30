@@ -1,0 +1,37 @@
+{
+  "id": "16555468",
+  "fullDetails": {
+    "licenseNumber": "16555468",
+    "name": "DAMASCUS BUTCHER",
+    "address": "#125 6915 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-02-07T11:49:48.000Z",
+    "expiryDate": "2026-02-06T11:49:48.000Z",
+    "coordinates": [
+      -113.9415467,
+      51.0809359
+    ],
+    "longitude": -113.9415467,
+    "latitude": 51.0809359,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

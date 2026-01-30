@@ -1,0 +1,36 @@
+{
+  "id": "13571344",
+  "fullDetails": {
+    "licenseNumber": "13571344",
+    "name": "RUBY'S NAILS AND SPA",
+    "address": "#11 8 WESTON DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2012-11-02T15:59:22.000Z",
+    "expiryDate": "2026-11-01T15:59:22.000Z",
+    "coordinates": [
+      -114.1947748,
+      51.063608
+    ],
+    "longitude": -114.1947748,
+    "latitude": 51.063608,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

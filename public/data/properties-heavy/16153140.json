@@ -1,0 +1,36 @@
+{
+  "id": "16153140",
+  "fullDetails": {
+    "licenseNumber": "16153140",
+    "name": "LIQUORVILLE BEACON HILL",
+    "address": "#410 11877 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-04-21T10:13:35.000Z",
+    "expiryDate": "2026-04-20T10:13:35.000Z",
+    "coordinates": [
+      -114.1634335,
+      51.1583043
+    ],
+    "longitude": -114.1634335,
+    "latitude": 51.1583043,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2F",
+    "ward": "02F",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

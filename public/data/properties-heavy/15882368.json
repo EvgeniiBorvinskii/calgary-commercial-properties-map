@@ -1,0 +1,36 @@
+{
+  "id": "15882368",
+  "fullDetails": {
+    "licenseNumber": "15882368",
+    "name": "LEHIGH INLAND CEMENT",
+    "address": "2820 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-06-01T09:57:07.000Z",
+    "expiryDate": "2026-05-31T09:57:07.000Z",
+    "coordinates": [
+      -113.9925124,
+      51.004507
+    ],
+    "longitude": -113.9925124,
+    "latitude": 51.004507,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

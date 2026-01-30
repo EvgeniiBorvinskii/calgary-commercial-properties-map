@@ -1,0 +1,36 @@
+{
+  "id": "12292652",
+  "fullDetails": {
+    "licenseNumber": "12292652",
+    "name": "SEAMLESS STEEL PIPE",
+    "address": "7147 110 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-08-16T07:45:15.000Z",
+    "expiryDate": "2026-08-15T07:45:15.000Z",
+    "coordinates": [
+      -113.9307797,
+      50.9542322
+    ],
+    "longitude": -113.9307797,
+    "latitude": 50.9542322,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

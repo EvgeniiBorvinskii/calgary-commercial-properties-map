@@ -1,0 +1,37 @@
+{
+  "id": "16551970",
+  "fullDetails": {
+    "licenseNumber": "16551970",
+    "name": "CIRCLE K #22145",
+    "address": "3 CORAL SPRINGS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-11-08T15:51:53.000Z",
+    "expiryDate": "2026-11-07T15:51:53.000Z",
+    "coordinates": [
+      -113.934415,
+      51.098766
+    ],
+    "longitude": -113.934415,
+    "latitude": 51.098766,
+    "community": "CORAL SPRINGS",
+    "ward": "COR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

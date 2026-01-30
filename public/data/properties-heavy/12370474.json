@@ -1,0 +1,36 @@
+{
+  "id": "12370474",
+  "fullDetails": {
+    "licenseNumber": "12370474",
+    "name": "TAYCOUR CONTRACTING",
+    "address": "#100 3668 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2014-02-07T13:15:06.000Z",
+    "expiryDate": "2026-02-06T13:15:06.000Z",
+    "coordinates": [
+      -113.9817677,
+      51.0004795
+    ],
+    "longitude": -113.9817677,
+    "latitude": 51.0004795,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

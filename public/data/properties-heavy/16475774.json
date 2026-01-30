@@ -1,0 +1,36 @@
+{
+  "id": "16475774",
+  "fullDetails": {
+    "licenseNumber": "16475774",
+    "name": "APPLEWOOD VILLAGE - BUILDING B",
+    "address": "3805B MARLBOROUGH DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-06-20T09:38:13.000Z",
+    "expiryDate": "2026-06-19T09:38:13.000Z",
+    "coordinates": [
+      -113.9787294,
+      51.0588293
+    ],
+    "longitude": -113.9787294,
+    "latitude": 51.0588293,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

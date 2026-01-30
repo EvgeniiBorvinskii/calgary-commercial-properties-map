@@ -1,0 +1,36 @@
+{
+  "id": "12446308",
+  "fullDetails": {
+    "licenseNumber": "12446308",
+    "name": "HENRY SCHEIN CANADA",
+    "address": "#138 4303 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2006-03-09T05:33:53.000Z",
+    "expiryDate": "2026-03-08T05:33:53.000Z",
+    "coordinates": [
+      -113.9987136,
+      51.0898939
+    ],
+    "longitude": -113.9987136,
+    "latitude": 51.0898939,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

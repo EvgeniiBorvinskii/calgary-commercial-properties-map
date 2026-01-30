@@ -1,0 +1,36 @@
+{
+  "id": "16327066",
+  "fullDetails": {
+    "licenseNumber": "16327066",
+    "name": "FLAIR SERVICES & RENTALS",
+    "address": "7730 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-06-06T12:53:22.000Z",
+    "expiryDate": "2026-06-05T12:53:22.000Z",
+    "coordinates": [
+      -113.9665697,
+      50.9836402
+    ],
+    "longitude": -113.9665697,
+    "latitude": 50.9836402,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

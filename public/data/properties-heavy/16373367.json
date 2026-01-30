@@ -1,0 +1,37 @@
+{
+  "id": "16373367",
+  "fullDetails": {
+    "licenseNumber": "16373367",
+    "name": "RYUKO",
+    "address": "#3150 40 CHRISTIE PARK VW SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2024-03-19T16:30:58.000Z",
+    "expiryDate": "2026-03-18T16:30:58.000Z",
+    "coordinates": [
+      -114.1775985,
+      51.0376375
+    ],
+    "longitude": -114.1775985,
+    "latitude": 51.0376375,
+    "community": "CHRISTIE PARK",
+    "ward": "CHR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

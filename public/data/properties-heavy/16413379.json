@@ -1,0 +1,36 @@
+{
+  "id": "16413379",
+  "fullDetails": {
+    "licenseNumber": "16413379",
+    "name": "PIZZA HUT #2868",
+    "address": "#3103 55 SKYVIEW RANCH RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2023-12-12T15:52:07.000Z",
+    "expiryDate": "2026-12-11T15:52:07.000Z",
+    "coordinates": [
+      -113.9624192,
+      51.164917
+    ],
+    "longitude": -113.9624192,
+    "latitude": 51.164917,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

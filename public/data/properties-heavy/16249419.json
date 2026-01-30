@@ -1,0 +1,36 @@
+{
+  "id": "16249419",
+  "fullDetails": {
+    "licenseNumber": "16249419",
+    "name": "JOE CEPEDA INSTITUTE",
+    "address": "#430 5920 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-01-12T12:25:19.000Z",
+    "expiryDate": "2027-01-11T12:25:19.000Z",
+    "coordinates": [
+      -114.0709359,
+      51.000533
+    ],
+    "longitude": -114.0709359,
+    "latitude": 51.000533,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16640161",
+  "fullDetails": {
+    "licenseNumber": "16640161",
+    "name": "QUADREAL PROPERTY GROUP",
+    "address": "803 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2025-07-08T11:38:47.000Z",
+    "expiryDate": "2026-07-07T11:38:47.000Z",
+    "coordinates": [
+      -114.0476275,
+      50.9955856
+    ],
+    "longitude": -114.0476275,
+    "latitude": 50.9955856,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

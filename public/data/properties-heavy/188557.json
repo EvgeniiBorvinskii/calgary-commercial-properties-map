@@ -1,0 +1,37 @@
+{
+  "id": "188557",
+  "fullDetails": {
+    "licenseNumber": "188557",
+    "name": "INSIGHT AUTOMATION INTERNATIONAL",
+    "address": "#10 7130 FISHER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALARM AGENCY,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALARM AGENCY,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-12-13T09:24:47.000Z",
+    "expiryDate": "2026-12-12T09:24:47.000Z",
+    "coordinates": [
+      -114.0674466,
+      50.9903508
+    ],
+    "longitude": -114.0674466,
+    "latitude": 50.9903508,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

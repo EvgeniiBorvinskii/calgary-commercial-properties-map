@@ -1,0 +1,36 @@
+{
+  "id": "842534",
+  "fullDetails": {
+    "licenseNumber": "842534",
+    "name": "MONEY MART #507",
+    "address": "6726 4 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER",
+    "licenseTypes": "PAYDAY LENDER",
+    "status": "active",
+    "issuedDate": "2024-09-19T14:40:34.000Z",
+    "expiryDate": "2026-09-18T14:40:33.000Z",
+    "coordinates": [
+      -114.0562105,
+      51.1123331
+    ],
+    "longitude": -114.0562105,
+    "latitude": 51.1123331,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

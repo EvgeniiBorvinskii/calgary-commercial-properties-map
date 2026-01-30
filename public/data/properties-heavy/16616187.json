@@ -1,0 +1,37 @@
+{
+  "id": "16616187",
+  "fullDetails": {
+    "licenseNumber": "16616187",
+    "name": "ONE LOVE CARIBBEAN RESTAURANT",
+    "address": "1510 6 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-29T10:49:17.000Z",
+    "expiryDate": "2026-05-28T10:49:17.000Z",
+    "coordinates": [
+      -114.076662,
+      51.0383806
+    ],
+    "longitude": -114.076662,
+    "latitude": 51.0383806,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

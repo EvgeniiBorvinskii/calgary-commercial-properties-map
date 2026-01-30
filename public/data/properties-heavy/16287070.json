@@ -1,0 +1,36 @@
+{
+  "id": "16287070",
+  "fullDetails": {
+    "licenseNumber": "16287070",
+    "name": "SOUTH CITY MACHINING",
+    "address": "8625 68 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2023-02-27T08:38:00.000Z",
+    "expiryDate": "2026-02-26T08:38:00.000Z",
+    "coordinates": [
+      -113.9360469,
+      50.9765122
+    ],
+    "longitude": -113.9360469,
+    "latitude": 50.9765122,
+    "community": "SECTION 23",
+    "ward": "S23",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

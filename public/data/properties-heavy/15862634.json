@@ -1,0 +1,36 @@
+{
+  "id": "15862634",
+  "fullDetails": {
+    "licenseNumber": "15862634",
+    "name": "CAPSTONE EDGE COLLEGE",
+    "address": "#202A 2750 22 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "in_progress",
+    "issuedDate": "2020-03-17T05:32:43.000Z",
+    "expiryDate": "2026-03-16T05:32:42.000Z",
+    "coordinates": [
+      -114.0065987,
+      51.076336
+    ],
+    "longitude": -114.0065987,
+    "latitude": 51.076336,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

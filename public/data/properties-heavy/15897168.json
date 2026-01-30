@@ -1,0 +1,37 @@
+{
+  "id": "15897168",
+  "fullDetails": {
+    "licenseNumber": "15897168",
+    "name": "PANDA WELLNESS & AESTHETICS",
+    "address": "1861 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-02T12:30:09.000Z",
+    "expiryDate": "2026-09-01T12:30:08.000Z",
+    "coordinates": [
+      -114.1032531,
+      51.0376515
+    ],
+    "longitude": -114.1032531,
+    "latitude": 51.0376515,
+    "community": "BANKVIEW",
+    "ward": "BNK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

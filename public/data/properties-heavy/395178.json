@@ -1,0 +1,36 @@
+{
+  "id": "395178",
+  "fullDetails": {
+    "licenseNumber": "395178",
+    "name": "NETWORK INNOVATIONS",
+    "address": "4424 MANILLA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-04-10T05:32:11.000Z",
+    "expiryDate": "2026-04-09T05:32:11.000Z",
+    "coordinates": [
+      -114.0510286,
+      51.0139041
+    ],
+    "longitude": -114.0510286,
+    "latitude": 51.0139041,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

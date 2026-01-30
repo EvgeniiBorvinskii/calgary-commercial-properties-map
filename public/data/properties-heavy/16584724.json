@@ -1,0 +1,36 @@
+{
+  "id": "16584724",
+  "fullDetails": {
+    "licenseNumber": "16584724",
+    "name": "BLACK BELT JUNG'S TAEKWONDO",
+    "address": "11838 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-01-29T09:47:43.000Z",
+    "expiryDate": "2027-01-28T09:47:42.000Z",
+    "coordinates": [
+      -114.1581986,
+      51.1583161
+    ],
+    "longitude": -114.1581986,
+    "latitude": 51.1583161,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

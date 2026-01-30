@@ -1,0 +1,36 @@
+{
+  "id": "863878",
+  "fullDetails": {
+    "licenseNumber": "863878",
+    "name": "TENNISON MASSAGE THERAPY*",
+    "address": "#203 5917 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2021-09-10T10:46:20.000Z",
+    "expiryDate": "2026-09-09T10:46:20.000Z",
+    "coordinates": [
+      -114.0681056,
+      51.0007178
+    ],
+    "longitude": -114.0681056,
+    "latitude": 51.0007178,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

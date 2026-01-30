@@ -1,0 +1,36 @@
+{
+  "id": "16499311",
+  "fullDetails": {
+    "licenseNumber": "16499311",
+    "name": "CITRUS CLEANING",
+    "address": "#245 3700 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2024-09-27T10:07:27.000Z",
+    "expiryDate": "2026-09-26T10:07:26.000Z",
+    "coordinates": [
+      -113.9809037,
+      50.9830073
+    ],
+    "longitude": -113.9809037,
+    "latitude": 50.9830073,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

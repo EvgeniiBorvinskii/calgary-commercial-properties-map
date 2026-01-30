@@ -1,0 +1,37 @@
+{
+  "id": "41277",
+  "fullDetails": {
+    "licenseNumber": "41277",
+    "name": "FRAME FOR LESS",
+    "address": "1509 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-09-13T15:46:20.000Z",
+    "expiryDate": "2026-09-12T15:46:20.000Z",
+    "coordinates": [
+      -114.0953376,
+      51.0302664
+    ],
+    "longitude": -114.0953376,
+    "latitude": 51.0302664,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

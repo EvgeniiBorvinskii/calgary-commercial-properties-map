@@ -1,0 +1,36 @@
+{
+  "id": "644476",
+  "fullDetails": {
+    "licenseNumber": "644476",
+    "name": "X J AUTO SERVICE",
+    "address": "#B 5648 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2010-08-17T12:52:38.000Z",
+    "expiryDate": "2026-08-16T12:52:38.000Z",
+    "coordinates": [
+      -114.0426312,
+      51.0051924
+    ],
+    "longitude": -114.0426312,
+    "latitude": 51.0051924,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

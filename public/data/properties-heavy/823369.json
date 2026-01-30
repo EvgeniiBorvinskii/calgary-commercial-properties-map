@@ -1,0 +1,36 @@
+{
+  "id": "823369",
+  "fullDetails": {
+    "licenseNumber": "823369",
+    "name": "CLARK BUILDERS",
+    "address": "#222 4000 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-05-11T07:29:21.000Z",
+    "expiryDate": "2026-05-10T07:29:21.000Z",
+    "coordinates": [
+      -114.0497548,
+      51.0189591
+    ],
+    "longitude": -114.0497548,
+    "latitude": 51.0189591,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

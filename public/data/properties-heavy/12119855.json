@@ -1,0 +1,36 @@
+{
+  "id": "12119855",
+  "fullDetails": {
+    "licenseNumber": "12119855",
+    "name": "MAGIC CLEANERS",
+    "address": "4702 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2003-03-08T05:37:06.000Z",
+    "expiryDate": "2026-03-07T05:37:06.000Z",
+    "coordinates": [
+      -114.1531325,
+      51.0308055
+    ],
+    "longitude": -114.1531325,
+    "latitude": 51.0308055,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "149724",
+  "fullDetails": {
+    "licenseNumber": "149724",
+    "name": "NEW WEST ELECTRIC",
+    "address": "#8 2280 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2007-04-03T05:35:06.000Z",
+    "expiryDate": "2026-04-02T05:35:05.000Z",
+    "coordinates": [
+      -114.0065887,
+      51.0887033
+    ],
+    "longitude": -114.0065887,
+    "latitude": 51.0887033,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

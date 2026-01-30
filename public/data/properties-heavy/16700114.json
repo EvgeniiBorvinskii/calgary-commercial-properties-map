@@ -1,0 +1,36 @@
+{
+  "id": "16700114",
+  "fullDetails": {
+    "licenseNumber": "16700114",
+    "name": "MAILINTA HAJDINI",
+    "address": "#312 4620 BOW TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "active",
+    "issuedDate": "2025-12-01T08:38:26.000Z",
+    "expiryDate": "2026-11-30T08:38:25.000Z",
+    "coordinates": [
+      -114.1531988,
+      51.0492216
+    ],
+    "longitude": -114.1531988,
+    "latitude": 51.0492216,
+    "community": "WILDWOOD",
+    "ward": "WLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

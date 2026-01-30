@@ -1,0 +1,36 @@
+{
+  "id": "14492110",
+  "fullDetails": {
+    "licenseNumber": "14492110",
+    "name": "AURA ENVIRONMENTAL RESTORATIONS",
+    "address": "#2112 8800 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-05-14T11:19:47.000Z",
+    "expiryDate": "2026-05-13T11:19:47.000Z",
+    "coordinates": [
+      -113.9058037,
+      50.9708727
+    ],
+    "longitude": -113.9058037,
+    "latitude": 50.9708727,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

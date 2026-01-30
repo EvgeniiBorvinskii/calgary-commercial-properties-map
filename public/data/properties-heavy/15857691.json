@@ -1,0 +1,36 @@
+{
+  "id": "15857691",
+  "fullDetails": {
+    "licenseNumber": "15857691",
+    "name": "YOUR KEY MANAGEMENT",
+    "address": "4045 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2024-01-26T05:34:35.000Z",
+    "expiryDate": "2027-01-25T05:34:35.000Z",
+    "coordinates": [
+      -114.0376977,
+      51.0179698
+    ],
+    "longitude": -114.0376977,
+    "latitude": 51.0179698,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

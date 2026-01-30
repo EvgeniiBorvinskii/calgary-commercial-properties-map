@@ -1,0 +1,36 @@
+{
+  "id": "12377511",
+  "fullDetails": {
+    "licenseNumber": "12377511",
+    "name": "COOLIT SYSTEMS",
+    "address": "#10 2928 SUNRIDGE WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2015-06-15T16:21:06.000Z",
+    "expiryDate": "2026-06-14T16:21:06.000Z",
+    "coordinates": [
+      -113.9958528,
+      51.0700298
+    ],
+    "longitude": -113.9958528,
+    "latitude": 51.0700298,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16291494",
+  "fullDetails": {
+    "licenseNumber": "16291494",
+    "name": "RGH - HEALTHY TRENDZ #63092",
+    "address": "7007 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2023-03-31T15:36:01.000Z",
+    "expiryDate": "2026-03-30T15:36:01.000Z",
+    "coordinates": [
+      -114.0976357,
+      50.9901268
+    ],
+    "longitude": -114.0976357,
+    "latitude": 50.9901268,
+    "community": "EAGLE RIDGE",
+    "ward": "EAG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

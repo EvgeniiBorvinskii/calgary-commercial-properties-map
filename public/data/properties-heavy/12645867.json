@@ -1,0 +1,36 @@
+{
+  "id": "12645867",
+  "fullDetails": {
+    "licenseNumber": "12645867",
+    "name": "PLUSMA EYEWEAR & OPTOMETRISTS",
+    "address": "912 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2018-03-08T15:30:33.000Z",
+    "expiryDate": "2026-03-07T15:30:33.000Z",
+    "coordinates": [
+      -114.0815235,
+      51.0492027
+    ],
+    "longitude": -114.0815235,
+    "latitude": 51.0492027,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16439176",
+  "fullDetails": {
+    "licenseNumber": "16439176",
+    "name": "PLANTLIFE",
+    "address": "#110 19651 SETON WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CANNABIS STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2024-02-26T16:26:14.000Z",
+    "expiryDate": "2027-02-25T16:26:14.000Z",
+    "coordinates": [
+      -113.9578839,
+      50.8746914
+    ],
+    "longitude": -113.9578839,
+    "latitude": 50.8746914,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

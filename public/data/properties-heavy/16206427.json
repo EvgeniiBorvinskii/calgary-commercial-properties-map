@@ -1,0 +1,37 @@
+{
+  "id": "16206427",
+  "fullDetails": {
+    "licenseNumber": "16206427",
+    "name": "CANNIBALE BARBERSHOP",
+    "address": "545 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "PERSONAL SERVICE,\nFOOD SERVICE - PREMISES,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2022-11-04T12:55:31.000Z",
+    "expiryDate": "2026-11-03T12:55:31.000Z",
+    "coordinates": [
+      -114.0728468,
+      51.0455327
+    ],
+    "longitude": -114.0728468,
+    "latitude": 51.0455327,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

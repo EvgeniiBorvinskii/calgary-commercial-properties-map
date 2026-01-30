@@ -1,0 +1,36 @@
+{
+  "id": "16419103",
+  "fullDetails": {
+    "licenseNumber": "16419103",
+    "name": "LOGEL HOMES",
+    "address": "#200 4838 RICHARD RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-01-30T08:32:24.000Z",
+    "expiryDate": "2026-01-29T08:32:23.000Z",
+    "coordinates": [
+      -114.1259444,
+      51.0105371
+    ],
+    "longitude": -114.1259444,
+    "latitude": 51.0105371,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16505687",
+  "fullDetails": {
+    "licenseNumber": "16505687",
+    "name": "LAXMI HOUSE OF SPICE CANADA",
+    "address": "#30 5381 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-05T14:55:34.000Z",
+    "expiryDate": "2026-09-04T14:55:34.000Z",
+    "coordinates": [
+      -113.9545017,
+      50.9881324
+    ],
+    "longitude": -113.9545017,
+    "latitude": 50.9881324,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

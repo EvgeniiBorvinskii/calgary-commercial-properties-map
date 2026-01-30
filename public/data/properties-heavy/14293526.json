@@ -1,0 +1,36 @@
+{
+  "id": "14293526",
+  "fullDetails": {
+    "licenseNumber": "14293526",
+    "name": "PME",
+    "address": "4540 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-22T09:15:38.000Z",
+    "expiryDate": "2026-05-21T09:15:38.000Z",
+    "coordinates": [
+      -113.9696148,
+      51.0041725
+    ],
+    "longitude": -113.9696148,
+    "latitude": 51.0041725,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "580514",
+  "fullDetails": {
+    "licenseNumber": "580514",
+    "name": "SOFTCHOICE",
+    "address": "#2715 308 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2023-03-28T14:39:42.000Z",
+    "expiryDate": "2026-03-27T14:39:42.000Z",
+    "coordinates": [
+      -114.0679997,
+      51.0498639
+    ],
+    "longitude": -114.0679997,
+    "latitude": 51.0498639,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

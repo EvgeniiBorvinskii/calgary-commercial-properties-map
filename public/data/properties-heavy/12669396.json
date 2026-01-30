@@ -1,0 +1,36 @@
+{
+  "id": "12669396",
+  "fullDetails": {
+    "licenseNumber": "12669396",
+    "name": "JACKSON MASONRY",
+    "address": "7144 FOUNTAIN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-04T09:31:03.000Z",
+    "expiryDate": "2026-12-03T09:31:02.000Z",
+    "coordinates": [
+      -114.0548876,
+      50.9892785
+    ],
+    "longitude": -114.0548876,
+    "latitude": 50.9892785,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

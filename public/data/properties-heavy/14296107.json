@@ -1,0 +1,36 @@
+{
+  "id": "14296107",
+  "fullDetails": {
+    "licenseNumber": "14296107",
+    "name": "RPB INDUSTRIES",
+    "address": "3773 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2020-01-13T09:11:57.000Z",
+    "expiryDate": "2026-01-12T09:11:57.000Z",
+    "coordinates": [
+      -114.0124238,
+      51.0867929
+    ],
+    "longitude": -114.0124238,
+    "latitude": 51.0867929,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15902836",
+  "fullDetails": {
+    "licenseNumber": "15902836",
+    "name": "MJM WHEELS",
+    "address": "3324 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-06-23T14:43:52.000Z",
+    "expiryDate": "2026-06-22T14:43:52.000Z",
+    "coordinates": [
+      -113.9899999,
+      50.9499744
+    ],
+    "longitude": -113.9899999,
+    "latitude": 50.9499744,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "342915",
+  "fullDetails": {
+    "licenseNumber": "342915",
+    "name": "ATLANTIC ANTIGUA WHOLESALE",
+    "address": "2410K 2 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-15T00:00:00.000Z",
+    "coordinates": [
+      -114.0027584,
+      51.0511071
+    ],
+    "longitude": -114.0027584,
+    "latitude": 51.0511071,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16684383",
+  "fullDetails": {
+    "licenseNumber": "16684383",
+    "name": "REBEL INK",
+    "address": "#200 1316 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-12-15T11:11:03.000Z",
+    "expiryDate": "2026-12-14T11:11:03.000Z",
+    "coordinates": [
+      -114.065388,
+      51.0400092
+    ],
+    "longitude": -114.065388,
+    "latitude": 51.0400092,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

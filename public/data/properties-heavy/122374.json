@@ -1,0 +1,36 @@
+{
+  "id": "122374",
+  "fullDetails": {
+    "licenseNumber": "122374",
+    "name": "MARK'S WORK WEARHOUSE #15",
+    "address": "400 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-04-09T00:00:00.000Z",
+    "coordinates": [
+      -114.17175,
+      51.0155456
+    ],
+    "longitude": -114.17175,
+    "latitude": 51.0155456,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

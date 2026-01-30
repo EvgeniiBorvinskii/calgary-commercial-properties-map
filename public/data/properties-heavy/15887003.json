@@ -1,0 +1,36 @@
+{
+  "id": "15887003",
+  "fullDetails": {
+    "licenseNumber": "15887003",
+    "name": "VERSUS LIVING",
+    "address": "917 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2020-05-22T05:31:37.000Z",
+    "expiryDate": "2026-05-21T05:31:37.000Z",
+    "coordinates": [
+      -114.0827001,
+      51.0437139
+    ],
+    "longitude": -114.0827001,
+    "latitude": 51.0437139,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

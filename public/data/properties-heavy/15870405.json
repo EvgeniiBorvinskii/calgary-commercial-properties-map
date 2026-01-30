@@ -1,0 +1,36 @@
+{
+  "id": "15870405",
+  "fullDetails": {
+    "licenseNumber": "15870405",
+    "name": "ALBERTA EDUCATIONAL CENTRE",
+    "address": "5980 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2024-09-23T08:27:10.000Z",
+    "expiryDate": "2026-09-22T08:27:10.000Z",
+    "coordinates": [
+      -114.0629748,
+      50.9993735
+    ],
+    "longitude": -114.0629748,
+    "latitude": 50.9993735,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "715672",
+  "fullDetails": {
+    "licenseNumber": "715672",
+    "name": "MASH BITS & DRILLING SUPPLY",
+    "address": "4812 35A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-08-02T15:12:47.000Z",
+    "expiryDate": "2026-08-01T15:12:47.000Z",
+    "coordinates": [
+      -113.9793507,
+      51.0119402
+    ],
+    "longitude": -113.9793507,
+    "latitude": 51.0119402,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

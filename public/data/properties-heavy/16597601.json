@@ -1,0 +1,37 @@
+{
+  "id": "16597601",
+  "fullDetails": {
+    "licenseNumber": "16597601",
+    "name": "LUXE LIFE MASSAGE",
+    "address": "#200C 3517 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-27T09:52:26.000Z",
+    "expiryDate": "2026-03-26T09:52:25.000Z",
+    "coordinates": [
+      -113.983359,
+      51.0374084
+    ],
+    "longitude": -113.983359,
+    "latitude": 51.0374084,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

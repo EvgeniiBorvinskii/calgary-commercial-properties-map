@@ -1,0 +1,36 @@
+{
+  "id": "16696833",
+  "fullDetails": {
+    "licenseNumber": "16696833",
+    "name": "JUGO JUICE",
+    "address": "#249U 4825 MOUNT ROYAL GA SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-02T09:51:45.000Z",
+    "expiryDate": "2026-12-01T09:51:45.000Z",
+    "coordinates": [
+      -114.1347795,
+      51.0119746
+    ],
+    "longitude": -114.1347795,
+    "latitude": 51.0119746,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

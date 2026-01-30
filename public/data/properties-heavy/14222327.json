@@ -1,0 +1,36 @@
+{
+  "id": "14222327",
+  "fullDetails": {
+    "licenseNumber": "14222327",
+    "name": "WESTERN CANADIAN FURNACE COMPANY (2016)",
+    "address": "#12 1435 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-10-07T11:30:04.000Z",
+    "expiryDate": "2026-10-06T11:30:03.000Z",
+    "coordinates": [
+      -114.0287796,
+      51.0878533
+    ],
+    "longitude": -114.0287796,
+    "latitude": 51.0878533,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

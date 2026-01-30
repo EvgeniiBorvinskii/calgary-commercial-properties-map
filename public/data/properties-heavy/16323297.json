@@ -1,0 +1,36 @@
+{
+  "id": "16323297",
+  "fullDetails": {
+    "licenseNumber": "16323297",
+    "name": "A-MART WAREHOUSE",
+    "address": "935B 48 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-22T11:37:41.000Z",
+    "expiryDate": "2026-06-21T11:37:41.000Z",
+    "coordinates": [
+      -114.0405965,
+      51.010937
+    ],
+    "longitude": -114.0405965,
+    "latitude": 51.010937,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

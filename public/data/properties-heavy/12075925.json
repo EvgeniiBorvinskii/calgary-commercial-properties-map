@@ -1,0 +1,37 @@
+{
+  "id": "12075925",
+  "fullDetails": {
+    "licenseNumber": "12075925",
+    "name": "SENSATIONS STORE (SAITSA)",
+    "address": "509 ROSS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-06-18T17:29:34.000Z",
+    "expiryDate": "2026-06-17T09:34:00.000Z",
+    "coordinates": [
+      -114.0892658,
+      51.0646418
+    ],
+    "longitude": -114.0892658,
+    "latitude": 51.0646418,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

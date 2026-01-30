@@ -1,0 +1,36 @@
+{
+  "id": "12192258",
+  "fullDetails": {
+    "licenseNumber": "12192258",
+    "name": "MONEY MART",
+    "address": "238 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-03T10:59:30.000Z",
+    "expiryDate": "2026-09-02T10:59:30.000Z",
+    "coordinates": [
+      -114.0672056,
+      51.0468604
+    ],
+    "longitude": -114.0672056,
+    "latitude": 51.0468604,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

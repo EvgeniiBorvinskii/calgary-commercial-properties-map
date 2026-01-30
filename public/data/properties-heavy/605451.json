@@ -1,0 +1,37 @@
+{
+  "id": "605451",
+  "fullDetails": {
+    "licenseNumber": "605451",
+    "name": "PACIFIC JEWELLERY",
+    "address": "#103 1039 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-10-21T00:00:00.000Z",
+    "coordinates": [
+      -114.0864567,
+      51.0376331
+    ],
+    "longitude": -114.0864567,
+    "latitude": 51.0376331,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

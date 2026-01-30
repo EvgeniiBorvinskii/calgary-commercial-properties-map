@@ -1,0 +1,36 @@
+{
+  "id": "14136964",
+  "fullDetails": {
+    "licenseNumber": "14136964",
+    "name": "ACCUTEC",
+    "address": "#6 3716 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-07-22T12:47:56.000Z",
+    "expiryDate": "2026-07-21T12:47:56.000Z",
+    "coordinates": [
+      -113.9804418,
+      51.0023774
+    ],
+    "longitude": -113.9804418,
+    "latitude": 51.0023774,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

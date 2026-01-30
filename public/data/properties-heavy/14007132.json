@@ -1,0 +1,36 @@
+{
+  "id": "14007132",
+  "fullDetails": {
+    "licenseNumber": "14007132",
+    "name": "KIEHL'S SINCE 1851",
+    "address": "#M3B 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-02T08:10:05.000Z",
+    "expiryDate": "2026-10-01T08:10:05.000Z",
+    "coordinates": [
+      -114.1544146,
+      51.0846778
+    ],
+    "longitude": -114.1544146,
+    "latitude": 51.0846778,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

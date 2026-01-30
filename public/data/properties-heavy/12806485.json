@@ -1,0 +1,36 @@
+{
+  "id": "12806485",
+  "fullDetails": {
+    "licenseNumber": "12806485",
+    "name": "ASPEN BRICK & STONE",
+    "address": "4427 MANITOBA RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2018-11-15T11:33:06.000Z",
+    "expiryDate": "2026-11-14T11:33:06.000Z",
+    "coordinates": [
+      -114.0547177,
+      51.0139905
+    ],
+    "longitude": -114.0547177,
+    "latitude": 51.0139905,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14520472",
+  "fullDetails": {
+    "licenseNumber": "14520472",
+    "name": "GOOD GRANITE",
+    "address": "4112 23 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2017-07-31T13:59:07.000Z",
+    "expiryDate": "2026-07-30T13:59:07.000Z",
+    "coordinates": [
+      -114.0043034,
+      51.0895531
+    ],
+    "longitude": -114.0043034,
+    "latitude": 51.0895531,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

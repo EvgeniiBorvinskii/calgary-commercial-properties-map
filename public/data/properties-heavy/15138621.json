@@ -1,0 +1,36 @@
+{
+  "id": "15138621",
+  "fullDetails": {
+    "licenseNumber": "15138621",
+    "name": "BENJ SALON BY ARABELLA",
+    "address": "#2B 1701 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2018-12-13T09:19:19.000Z",
+    "expiryDate": "2026-12-12T09:19:19.000Z",
+    "coordinates": [
+      -114.0371011,
+      51.0376286
+    ],
+    "longitude": -114.0371011,
+    "latitude": 51.0376286,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

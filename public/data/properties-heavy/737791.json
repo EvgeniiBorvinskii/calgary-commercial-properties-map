@@ -1,0 +1,36 @@
+{
+  "id": "737791",
+  "fullDetails": {
+    "licenseNumber": "737791",
+    "name": "CHAMPION CONCRETE CUTTING",
+    "address": "8512 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-13T15:32:07.000Z",
+    "expiryDate": "2026-05-12T15:32:07.000Z",
+    "coordinates": [
+      -113.969175,
+      50.9775578
+    ],
+    "longitude": -113.969175,
+    "latitude": 50.9775578,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

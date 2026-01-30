@@ -1,0 +1,36 @@
+{
+  "id": "14533939",
+  "fullDetails": {
+    "licenseNumber": "14533939",
+    "name": "ARTEX TEXTURING",
+    "address": "#117 427 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-08-22T12:52:31.000Z",
+    "expiryDate": "2026-08-21T12:52:31.000Z",
+    "coordinates": [
+      -114.0554074,
+      51.0068426
+    ],
+    "longitude": -114.0554074,
+    "latitude": 51.0068426,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

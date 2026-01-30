@@ -1,0 +1,36 @@
+{
+  "id": "14126924",
+  "fullDetails": {
+    "licenseNumber": "14126924",
+    "name": "CITYBOX STORAGE (MANCHESTER)",
+    "address": "5319 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2016-06-06T11:48:21.000Z",
+    "expiryDate": "2026-06-05T11:48:21.000Z",
+    "coordinates": [
+      -114.0577865,
+      51.0067161
+    ],
+    "longitude": -114.0577865,
+    "latitude": 51.0067161,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

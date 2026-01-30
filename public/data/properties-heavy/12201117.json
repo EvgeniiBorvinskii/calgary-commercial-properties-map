@@ -1,0 +1,36 @@
+{
+  "id": "12201117",
+  "fullDetails": {
+    "licenseNumber": "12201117",
+    "name": "ATCOM SYSTEMS",
+    "address": "7023 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2013-06-19T15:25:08.000Z",
+    "expiryDate": "2026-06-18T15:25:08.000Z",
+    "coordinates": [
+      -114.0524497,
+      50.9911712
+    ],
+    "longitude": -114.0524497,
+    "latitude": 50.9911712,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

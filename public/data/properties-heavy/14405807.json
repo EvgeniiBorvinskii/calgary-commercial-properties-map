@@ -1,0 +1,37 @@
+{
+  "id": "14405807",
+  "fullDetails": {
+    "licenseNumber": "14405807",
+    "name": "AFFINITY ACADEMY OF MARTIAL ARTS",
+    "address": "#215 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-04T16:25:28.000Z",
+    "expiryDate": "2026-10-03T16:25:27.000Z",
+    "coordinates": [
+      -114.1652535,
+      51.103957
+    ],
+    "longitude": -114.1652535,
+    "latitude": 51.103957,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

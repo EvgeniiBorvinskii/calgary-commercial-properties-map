@@ -1,0 +1,36 @@
+{
+  "id": "15892987",
+  "fullDetails": {
+    "licenseNumber": "15892987",
+    "name": "EYECARE PLUS",
+    "address": "#230 5255 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-02T08:17:46.000Z",
+    "expiryDate": "2026-10-01T08:17:46.000Z",
+    "coordinates": [
+      -114.1623173,
+      51.0170758
+    ],
+    "longitude": -114.1623173,
+    "latitude": 51.0170758,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14839054",
+  "fullDetails": {
+    "licenseNumber": "14839054",
+    "name": "PAWSITIVELY POOCHED",
+    "address": "#16 728 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-05-01T08:41:18.000Z",
+    "expiryDate": "2026-04-30T08:41:18.000Z",
+    "coordinates": [
+      -114.0933995,
+      51.0824842
+    ],
+    "longitude": -114.0933995,
+    "latitude": 51.0824842,
+    "community": "ROSEMONT",
+    "ward": "RMT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

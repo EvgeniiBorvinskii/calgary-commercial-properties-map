@@ -1,0 +1,36 @@
+{
+  "id": "14342539",
+  "fullDetails": {
+    "licenseNumber": "14342539",
+    "name": "1998863 ALBERTA",
+    "address": "#2136 8800 VENTURE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-12-06T11:11:46.000Z",
+    "expiryDate": "2026-12-05T11:11:46.000Z",
+    "coordinates": [
+      -113.9058032,
+      50.971119
+    ],
+    "longitude": -113.9058032,
+    "latitude": 50.971119,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

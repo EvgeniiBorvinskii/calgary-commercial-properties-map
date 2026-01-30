@@ -1,0 +1,37 @@
+{
+  "id": "15932916",
+  "fullDetails": {
+    "licenseNumber": "15932916",
+    "name": "TONG FOOK TONG",
+    "address": "1312 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-01-18T09:55:43.000Z",
+    "expiryDate": "2027-01-17T09:55:43.000Z",
+    "coordinates": [
+      -114.0622491,
+      51.0637837
+    ],
+    "longitude": -114.0622491,
+    "latitude": 51.0637837,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

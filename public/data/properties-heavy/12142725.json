@@ -1,0 +1,36 @@
+{
+  "id": "12142725",
+  "fullDetails": {
+    "licenseNumber": "12142725",
+    "name": "4 ST PIZZA & SUB",
+    "address": "2107 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2002-11-13T05:34:23.000Z",
+    "expiryDate": "2026-11-12T05:34:23.000Z",
+    "coordinates": [
+      -114.0717854,
+      51.0339328
+    ],
+    "longitude": -114.0717854,
+    "latitude": 51.0339328,
+    "community": "CLIFF BUNGALOW",
+    "ward": "CLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

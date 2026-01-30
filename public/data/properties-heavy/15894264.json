@@ -1,0 +1,36 @@
+{
+  "id": "15894264",
+  "fullDetails": {
+    "licenseNumber": "15894264",
+    "name": "JAZZ LIQUOR CORNERSTORE",
+    "address": "#160 75 CORNER MEADOWS PA NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-05-21T09:42:06.000Z",
+    "expiryDate": "2026-05-20T09:42:06.000Z",
+    "coordinates": [
+      -113.9340405,
+      51.1509215
+    ],
+    "longitude": -113.9340405,
+    "latitude": 51.1509215,
+    "community": "CORNERSTONE",
+    "ward": "CNS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

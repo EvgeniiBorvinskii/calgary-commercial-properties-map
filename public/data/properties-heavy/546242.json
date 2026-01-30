@@ -1,0 +1,37 @@
+{
+  "id": "546242",
+  "fullDetails": {
+    "licenseNumber": "546242",
+    "name": "ADRIA INTERNATIONAL",
+    "address": "7004K 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2012-11-07T16:13:15.000Z",
+    "expiryDate": "2026-11-06T16:13:15.000Z",
+    "coordinates": [
+      -114.0495856,
+      50.992957
+    ],
+    "longitude": -114.0495856,
+    "latitude": 50.992957,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

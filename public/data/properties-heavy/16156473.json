@@ -1,0 +1,36 @@
+{
+  "id": "16156473",
+  "fullDetails": {
+    "licenseNumber": "16156473",
+    "name": "EDO JAPAN",
+    "address": "3923 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-09-17T16:00:35.000Z",
+    "expiryDate": "2026-09-16T16:00:35.000Z",
+    "coordinates": [
+      -114.1438815,
+      51.0369683
+    ],
+    "longitude": -114.1438815,
+    "latitude": 51.0369683,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

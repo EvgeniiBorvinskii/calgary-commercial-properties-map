@@ -1,0 +1,37 @@
+{
+  "id": "16512949",
+  "fullDetails": {
+    "licenseNumber": "16512949",
+    "name": "SIZZLING GRILL",
+    "address": "#122 790 COVENTRY DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-19T14:07:11.000Z",
+    "expiryDate": "2026-07-18T14:07:10.000Z",
+    "coordinates": [
+      -114.0432318,
+      51.1581829
+    ],
+    "longitude": -114.0432318,
+    "latitude": 51.1581829,
+    "community": "COVENTRY HILLS",
+    "ward": "COV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16575987",
+  "fullDetails": {
+    "licenseNumber": "16575987",
+    "name": "HARVEST CONVENIENCE",
+    "address": "#1 33 HARVEST HILLS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2025-01-02T11:08:27.000Z",
+    "expiryDate": "2027-01-01T11:08:26.000Z",
+    "coordinates": [
+      -114.0500467,
+      51.1509065
+    ],
+    "longitude": -114.0500467,
+    "latitude": 51.1509065,
+    "community": "HARVEST HILLS",
+    "ward": "HAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

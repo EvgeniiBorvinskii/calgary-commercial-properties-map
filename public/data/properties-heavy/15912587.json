@@ -1,0 +1,36 @@
+{
+  "id": "15912587",
+  "fullDetails": {
+    "licenseNumber": "15912587",
+    "name": "MINTO COMMUNITIES",
+    "address": "#300 402 11 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2022-04-21T15:55:47.000Z",
+    "expiryDate": "2026-04-20T15:55:47.000Z",
+    "coordinates": [
+      -114.0555197,
+      51.0424174
+    ],
+    "longitude": -114.0555197,
+    "latitude": 51.0424174,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

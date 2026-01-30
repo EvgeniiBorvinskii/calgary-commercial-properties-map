@@ -1,0 +1,36 @@
+{
+  "id": "15098080",
+  "fullDetails": {
+    "licenseNumber": "15098080",
+    "name": "UNIMED NAIL AND SPA",
+    "address": "#130 5049 NORTHLAND DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-01-21T16:14:25.000Z",
+    "expiryDate": "2026-01-20T16:14:25.000Z",
+    "coordinates": [
+      -114.1423282,
+      51.0981329
+    ],
+    "longitude": -114.1423282,
+    "latitude": 51.0981329,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

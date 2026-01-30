@@ -1,0 +1,36 @@
+{
+  "id": "14869804",
+  "fullDetails": {
+    "licenseNumber": "14869804",
+    "name": "L A TRUCKING (1994)",
+    "address": "#131 10301 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "pending",
+    "issuedDate": "2019-02-13T09:03:15.000Z",
+    "expiryDate": "2026-02-12T09:03:15.000Z",
+    "coordinates": [
+      -114.0143562,
+      51.145823
+    ],
+    "longitude": -114.0143562,
+    "latitude": 51.145823,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

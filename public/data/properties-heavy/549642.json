@@ -1,0 +1,36 @@
+{
+  "id": "549642",
+  "fullDetails": {
+    "licenseNumber": "549642",
+    "name": "ATHLETIC APPROACH",
+    "address": "19 MARYLAND PL SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MOBILE)",
+    "licenseTypes": "PERSONAL SERVICE (MOBILE)",
+    "status": "active",
+    "issuedDate": "2003-05-13T10:04:24.000Z",
+    "expiryDate": "2026-05-12T10:04:24.000Z",
+    "coordinates": [
+      -114.0853962,
+      50.9966692
+    ],
+    "longitude": -114.0853962,
+    "latitude": 50.9966692,
+    "community": "MAYFAIR",
+    "ward": "MAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

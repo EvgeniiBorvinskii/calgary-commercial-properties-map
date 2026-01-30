@@ -1,0 +1,36 @@
+{
+  "id": "16400715",
+  "fullDetails": {
+    "licenseNumber": "16400715",
+    "name": "PLUMACHER SPORTS ACADEMY",
+    "address": "1347 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-01-10T10:09:05.000Z",
+    "expiryDate": "2027-01-09T10:09:05.000Z",
+    "coordinates": [
+      -114.1295292,
+      51.0930804
+    ],
+    "longitude": -114.1295292,
+    "latitude": 51.0930804,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

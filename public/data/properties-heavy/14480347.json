@@ -1,0 +1,36 @@
+{
+  "id": "14480347",
+  "fullDetails": {
+    "licenseNumber": "14480347",
+    "name": "ITK BAKERY & CATERING SERVICES",
+    "address": "#103 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-14T08:03:35.000Z",
+    "expiryDate": "2026-09-13T08:03:35.000Z",
+    "coordinates": [
+      -113.9878493,
+      51.0598342
+    ],
+    "longitude": -113.9878493,
+    "latitude": 51.0598342,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

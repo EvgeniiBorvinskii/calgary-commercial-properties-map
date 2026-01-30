@@ -1,0 +1,36 @@
+{
+  "id": "14155436",
+  "fullDetails": {
+    "licenseNumber": "14155436",
+    "name": "NAYLOLIT FILIPINO FLAVOR",
+    "address": "#519 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2016-06-10T11:36:36.000Z",
+    "expiryDate": "2026-06-09T11:36:35.000Z",
+    "coordinates": [
+      -113.9877106,
+      51.0585741
+    ],
+    "longitude": -113.9877106,
+    "latitude": 51.0585741,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

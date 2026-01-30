@@ -1,0 +1,37 @@
+{
+  "id": "14281661",
+  "fullDetails": {
+    "licenseNumber": "14281661",
+    "name": "SUPPLEMENT KING",
+    "address": "#148 3715 51 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-11-02T12:23:14.000Z",
+    "expiryDate": "2026-11-01T12:23:14.000Z",
+    "coordinates": [
+      -114.1617155,
+      51.0214575
+    ],
+    "longitude": -114.1617155,
+    "latitude": 51.0214575,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

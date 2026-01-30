@@ -1,0 +1,36 @@
+{
+  "id": "16668428",
+  "fullDetails": {
+    "licenseNumber": "16668428",
+    "name": "SKY AESTHETICS",
+    "address": "352 4 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-11-13T09:50:41.000Z",
+    "expiryDate": "2026-11-12T09:50:41.000Z",
+    "coordinates": [
+      -114.0556627,
+      51.0493873
+    ],
+    "longitude": -114.0556627,
+    "latitude": 51.0493873,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

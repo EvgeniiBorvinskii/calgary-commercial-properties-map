@@ -1,0 +1,36 @@
+{
+  "id": "15764277",
+  "fullDetails": {
+    "licenseNumber": "15764277",
+    "name": "PLANT BY WESTLEAF LABS (THE)",
+    "address": "3223 10 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS FACILITY",
+    "licenseTypes": "CANNABIS FACILITY",
+    "status": "pending",
+    "issuedDate": "2020-02-19T10:01:54.000Z",
+    "expiryDate": "2026-02-18T10:01:54.000Z",
+    "coordinates": [
+      -114.0388332,
+      51.0251632
+    ],
+    "longitude": -114.0388332,
+    "latitude": 51.0251632,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

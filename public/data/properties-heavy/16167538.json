@@ -1,0 +1,36 @@
+{
+  "id": "16167538",
+  "fullDetails": {
+    "licenseNumber": "16167538",
+    "name": "POPEYES LOUISIANA KITCHEN",
+    "address": "4049 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-06-15T15:13:07.000Z",
+    "expiryDate": "2026-06-14T15:13:07.000Z",
+    "coordinates": [
+      -114.0636736,
+      51.0178773
+    ],
+    "longitude": -114.0636736,
+    "latitude": 51.0178773,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15917776",
+  "fullDetails": {
+    "licenseNumber": "15917776",
+    "name": "MISSION CO-OP GAS BAR",
+    "address": "3623 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2020-08-21T10:25:44.000Z",
+    "expiryDate": "2026-08-20T10:25:44.000Z",
+    "coordinates": [
+      -114.060332,
+      51.0224361
+    ],
+    "longitude": -114.060332,
+    "latitude": 51.0224361,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16138364",
+  "fullDetails": {
+    "licenseNumber": "16138364",
+    "name": "KINGSWAY HOMES",
+    "address": "#130 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-04-28T13:04:51.000Z",
+    "expiryDate": "2026-04-27T13:04:51.000Z",
+    "coordinates": [
+      -113.9737259,
+      51.1072378
+    ],
+    "longitude": -113.9737259,
+    "latitude": 51.1072378,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

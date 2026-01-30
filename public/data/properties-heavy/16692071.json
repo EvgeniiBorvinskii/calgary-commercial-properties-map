@@ -1,0 +1,36 @@
+{
+  "id": "16692071",
+  "fullDetails": {
+    "licenseNumber": "16692071",
+    "name": "OLYMPIA LIQUOR 2025 32ND ST",
+    "address": "#C 3930 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-11-26T11:58:30.000Z",
+    "expiryDate": "2026-11-25T11:58:29.000Z",
+    "coordinates": [
+      -113.9866237,
+      51.0884017
+    ],
+    "longitude": -113.9866237,
+    "latitude": 51.0884017,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12505004",
+  "fullDetails": {
+    "licenseNumber": "12505004",
+    "name": "QUEST GASKET",
+    "address": "#27 10099 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2021-01-27T11:03:27.000Z",
+    "expiryDate": "2026-01-26T11:03:27.000Z",
+    "coordinates": [
+      -114.0259048,
+      51.1431371
+    ],
+    "longitude": -114.0259048,
+    "latitude": 51.1431371,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

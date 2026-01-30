@@ -1,0 +1,36 @@
+{
+  "id": "16471724",
+  "fullDetails": {
+    "licenseNumber": "16471724",
+    "name": "QC",
+    "address": "6603 4 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LODGING HOUSE",
+    "licenseTypes": "LODGING HOUSE",
+    "status": "active",
+    "issuedDate": "2025-10-22T14:36:36.000Z",
+    "expiryDate": "2026-10-21T14:36:35.000Z",
+    "coordinates": [
+      -114.0719034,
+      51.1122918
+    ],
+    "longitude": -114.0719034,
+    "latitude": 51.1122918,
+    "community": "HUNTINGTON HILLS",
+    "ward": "HUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

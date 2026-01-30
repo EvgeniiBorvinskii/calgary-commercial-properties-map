@@ -1,0 +1,36 @@
+{
+  "id": "16662603",
+  "fullDetails": {
+    "licenseNumber": "16662603",
+    "name": "THE ARCH",
+    "address": "1115 9 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-08-05T08:26:15.000Z",
+    "expiryDate": "2026-08-04T08:26:15.000Z",
+    "coordinates": [
+      -114.0842675,
+      51.04228
+    ],
+    "longitude": -114.0842675,
+    "latitude": 51.04228,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16017519",
+  "fullDetails": {
+    "licenseNumber": "16017519",
+    "name": "ANALOG SOUTHCENTRE MALL",
+    "address": "#11 100 ANDERSON RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-08-20T09:57:02.000Z",
+    "expiryDate": "2026-08-19T09:57:02.000Z",
+    "coordinates": [
+      -114.0665351,
+      50.9532068
+    ],
+    "longitude": -114.0665351,
+    "latitude": 50.9532068,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

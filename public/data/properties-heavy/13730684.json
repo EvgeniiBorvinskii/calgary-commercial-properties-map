@@ -1,0 +1,37 @@
+{
+  "id": "13730684",
+  "fullDetails": {
+    "licenseNumber": "13730684",
+    "name": "FOUNTAIN TIRE SUNRIDGE",
+    "address": "2616 32 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2013-11-13T12:11:19.000Z",
+    "expiryDate": "2026-11-12T12:11:19.000Z",
+    "coordinates": [
+      -113.9864614,
+      51.0763703
+    ],
+    "longitude": -113.9864614,
+    "latitude": 51.0763703,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

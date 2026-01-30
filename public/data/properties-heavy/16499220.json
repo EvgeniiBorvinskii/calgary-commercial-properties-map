@@ -1,0 +1,36 @@
+{
+  "id": "16499220",
+  "fullDetails": {
+    "licenseNumber": "16499220",
+    "name": "MARKET YYC ASSOCIATION",
+    "address": "103 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "licenseTypes": "MARKET",
+    "status": "in_progress",
+    "issuedDate": "",
+    "expiryDate": null,
+    "coordinates": [
+      -114.0638515,
+      51.0375933
+    ],
+    "longitude": -114.0638515,
+    "latitude": 51.0375933,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

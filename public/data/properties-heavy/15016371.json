@@ -1,0 +1,37 @@
+{
+  "id": "15016371",
+  "fullDetails": {
+    "licenseNumber": "15016371",
+    "name": "THREE-ONE DISTRIBUTORS",
+    "address": "#116 3670 63 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "WHOLESALER,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-09-05T15:04:23.000Z",
+    "expiryDate": "2026-09-04T15:04:23.000Z",
+    "coordinates": [
+      -113.9797168,
+      51.1100734
+    ],
+    "longitude": -113.9797168,
+    "latitude": 51.1100734,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

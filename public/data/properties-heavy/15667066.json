@@ -1,0 +1,36 @@
+{
+  "id": "15667066",
+  "fullDetails": {
+    "licenseNumber": "15667066",
+    "name": "EMERALD SKY WEST BUILDING 3000",
+    "address": "15 KINCORA GLEN PA NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-07-25T13:58:36.000Z",
+    "expiryDate": "2026-07-24T13:58:36.000Z",
+    "coordinates": [
+      -114.1423112,
+      51.1659999
+    ],
+    "longitude": -114.1423112,
+    "latitude": 51.1659999,
+    "community": "KINCORA",
+    "ward": "KCA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

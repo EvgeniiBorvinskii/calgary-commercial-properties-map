@@ -1,0 +1,37 @@
+{
+  "id": "16598948",
+  "fullDetails": {
+    "licenseNumber": "16598948",
+    "name": "PRO TOUCH BEAUTY",
+    "address": "#200 909 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-30T07:46:29.000Z",
+    "expiryDate": "2026-06-29T07:46:28.000Z",
+    "coordinates": [
+      -114.0815495,
+      51.0486387
+    ],
+    "longitude": -114.0815495,
+    "latitude": 51.0486387,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13130943",
+  "fullDetails": {
+    "licenseNumber": "13130943",
+    "name": "MINIMAX GROUP",
+    "address": "#23A 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-08-17T05:35:13.000Z",
+    "expiryDate": "2026-08-16T05:35:13.000Z",
+    "coordinates": [
+      -113.9993096,
+      51.050196
+    ],
+    "longitude": -113.9993096,
+    "latitude": 51.050196,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

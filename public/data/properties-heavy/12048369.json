@@ -1,0 +1,36 @@
+{
+  "id": "12048369",
+  "fullDetails": {
+    "licenseNumber": "12048369",
+    "name": "OPTIMUM WELLNESS CENTRES - GLAMORGAN",
+    "address": "#22 3919 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2001-12-05T20:05:43.000Z",
+    "expiryDate": "2026-12-04T05:45:37.000Z",
+    "coordinates": [
+      -114.1427184,
+      51.0206062
+    ],
+    "longitude": -114.1427184,
+    "latitude": 51.0206062,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

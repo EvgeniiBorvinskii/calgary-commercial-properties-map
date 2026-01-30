@@ -1,0 +1,36 @@
+{
+  "id": "780296",
+  "fullDetails": {
+    "licenseNumber": "780296",
+    "name": "RENOVA HOMES & RENOVATIONS",
+    "address": "#6 6020 2 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "in_progress",
+    "issuedDate": "2019-04-18T09:23:55.000Z",
+    "expiryDate": "2025-04-17T09:23:55.000Z",
+    "coordinates": [
+      -114.0592593,
+      50.9983378
+    ],
+    "longitude": -114.0592593,
+    "latitude": 50.9983378,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

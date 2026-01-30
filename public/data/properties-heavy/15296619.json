@@ -1,0 +1,37 @@
+{
+  "id": "15296619",
+  "fullDetails": {
+    "licenseNumber": "15296619",
+    "name": "BUDGET BLINDS OF CENTRAL CALGARY",
+    "address": "#7 5918 5 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2019-09-06T09:26:43.000Z",
+    "expiryDate": "2026-09-05T09:26:43.000Z",
+    "coordinates": [
+      -114.0501972,
+      50.9999124
+    ],
+    "longitude": -114.0501972,
+    "latitude": 50.9999124,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

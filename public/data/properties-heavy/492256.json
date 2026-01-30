@@ -1,0 +1,36 @@
+{
+  "id": "492256",
+  "fullDetails": {
+    "licenseNumber": "492256",
+    "name": "WILLOW PARK ANIMAL CLINIC",
+    "address": "#108 580 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-09-06T11:20:58.000Z",
+    "expiryDate": "2026-09-05T11:20:58.000Z",
+    "coordinates": [
+      -114.0479546,
+      50.9643089
+    ],
+    "longitude": -114.0479546,
+    "latitude": 50.9643089,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

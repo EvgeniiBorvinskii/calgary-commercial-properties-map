@@ -1,0 +1,36 @@
+{
+  "id": "744367",
+  "fullDetails": {
+    "licenseNumber": "744367",
+    "name": "SILVER TREASURE",
+    "address": "#150 328 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2002-06-13T17:17:49.000Z",
+    "expiryDate": "2026-06-12T05:31:56.000Z",
+    "coordinates": [
+      -114.0617526,
+      51.0495717
+    ],
+    "longitude": -114.0617526,
+    "latitude": 51.0495717,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

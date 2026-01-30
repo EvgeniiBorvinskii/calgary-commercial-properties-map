@@ -1,0 +1,36 @@
+{
+  "id": "130922",
+  "fullDetails": {
+    "licenseNumber": "130922",
+    "name": "ECCO SUPPLY",
+    "address": "#23 11150 38 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2008-01-31T09:39:54.000Z",
+    "expiryDate": "2026-01-30T09:39:54.000Z",
+    "coordinates": [
+      -113.9795096,
+      50.9541033
+    ],
+    "longitude": -113.9795096,
+    "latitude": 50.9541033,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

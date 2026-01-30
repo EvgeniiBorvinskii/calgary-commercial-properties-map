@@ -1,0 +1,36 @@
+{
+  "id": "16161200",
+  "fullDetails": {
+    "licenseNumber": "16161200",
+    "name": "PINK DOOR PIZZA (CGY-1015)  FSFV",
+    "address": "#180 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2023-01-03T10:48:09.000Z",
+    "expiryDate": "2025-01-02T10:48:08.000Z",
+    "coordinates": [
+      -113.9689089,
+      50.9314108
+    ],
+    "longitude": -113.9689089,
+    "latitude": 50.9314108,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

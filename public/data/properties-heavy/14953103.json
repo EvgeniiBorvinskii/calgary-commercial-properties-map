@@ -1,0 +1,36 @@
+{
+  "id": "14953103",
+  "fullDetails": {
+    "licenseNumber": "14953103",
+    "name": "CALGARY CO-OP WINES SPIRITS BEER - CROWCHILD CORNER",
+    "address": "#17 2439 54 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2018-08-09T15:17:51.000Z",
+    "expiryDate": "2026-08-08T15:17:51.000Z",
+    "coordinates": [
+      -114.1167785,
+      51.0044674
+    ],
+    "longitude": -114.1167785,
+    "latitude": 51.0044674,
+    "community": "NORTH GLENMORE PARK",
+    "ward": "NGM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

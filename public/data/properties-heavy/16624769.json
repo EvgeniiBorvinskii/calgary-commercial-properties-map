@@ -1,0 +1,36 @@
+{
+  "id": "16624769",
+  "fullDetails": {
+    "licenseNumber": "16624769",
+    "name": "BAREBEAUTY BY CATE",
+    "address": "1108 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-05-27T13:07:23.000Z",
+    "expiryDate": "2026-05-26T13:07:23.000Z",
+    "coordinates": [
+      -114.0883193,
+      51.0424201
+    ],
+    "longitude": -114.0883193,
+    "latitude": 51.0424201,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13993928",
+  "fullDetails": {
+    "licenseNumber": "13993928",
+    "name": "UNITED ACTIVE LIVING COMMUNITIES - FISH CREEK LP",
+    "address": "51 PROVIDENCE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2016-01-15T05:34:12.000Z",
+    "expiryDate": "2027-01-14T05:34:12.000Z",
+    "coordinates": [
+      -114.0658426,
+      50.9210333
+    ],
+    "longitude": -114.0658426,
+    "latitude": 50.9210333,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

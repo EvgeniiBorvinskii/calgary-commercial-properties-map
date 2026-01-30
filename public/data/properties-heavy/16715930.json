@@ -1,0 +1,37 @@
+{
+  "id": "16715930",
+  "fullDetails": {
+    "licenseNumber": "16715930",
+    "name": "ROCKLAND PARK HOMEOWNERS ASSOCIATION",
+    "address": "90 ROWLEY WY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2026-01-08T11:10:37.000Z",
+    "expiryDate": "2027-01-07T11:10:37.000Z",
+    "coordinates": [
+      -114.270573,
+      51.106371
+    ],
+    "longitude": -114.270573,
+    "latitude": 51.106371,
+    "community": "HASKAYNE",
+    "ward": "HSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

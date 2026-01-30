@@ -1,0 +1,36 @@
+{
+  "id": "13670476",
+  "fullDetails": {
+    "licenseNumber": "13670476",
+    "name": "CALGARY'S BEST BUY FURNITURE & MATTRESS",
+    "address": "#308 4774 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2013-12-18T15:53:50.000Z",
+    "expiryDate": "2026-12-17T15:53:50.000Z",
+    "coordinates": [
+      -113.9664952,
+      51.101193
+    ],
+    "longitude": -113.9664952,
+    "latitude": 51.101193,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

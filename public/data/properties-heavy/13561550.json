@@ -1,0 +1,37 @@
+{
+  "id": "13561550",
+  "fullDetails": {
+    "licenseNumber": "13561550",
+    "name": "SPRUCE COMMUNITY TUCK SHOP",
+    "address": "1055 BOW VALLEY DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-12-06T15:20:37.000Z",
+    "expiryDate": "2026-12-05T15:20:37.000Z",
+    "coordinates": [
+      -114.0383115,
+      51.0491419
+    ],
+    "longitude": -114.0383115,
+    "latitude": 51.0491419,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

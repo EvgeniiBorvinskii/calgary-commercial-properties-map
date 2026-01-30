@@ -1,0 +1,37 @@
+{
+  "id": "16476251",
+  "fullDetails": {
+    "licenseNumber": "16476251",
+    "name": "PIZZA DEPOT",
+    "address": "#2125 235 RED EMBERS WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-05-10T14:18:41.000Z",
+    "expiryDate": "2026-05-09T14:18:41.000Z",
+    "coordinates": [
+      -113.9574479,
+      51.1659899
+    ],
+    "longitude": -113.9574479,
+    "latitude": 51.1659899,
+    "community": "REDSTONE",
+    "ward": "RSN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

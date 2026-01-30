@@ -1,0 +1,36 @@
+{
+  "id": "16406092",
+  "fullDetails": {
+    "licenseNumber": "16406092",
+    "name": "BURGERS NEAR ME",
+    "address": "#100D 227 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-12-04T08:24:25.000Z",
+    "expiryDate": "2026-12-03T08:24:25.000Z",
+    "coordinates": [
+      -114.0676817,
+      51.0420974
+    ],
+    "longitude": -114.0676817,
+    "latitude": 51.0420974,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

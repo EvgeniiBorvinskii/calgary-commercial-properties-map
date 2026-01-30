@@ -1,0 +1,37 @@
+{
+  "id": "12659223",
+  "fullDetails": {
+    "licenseNumber": "12659223",
+    "name": "VERO BISTRO MODERNE",
+    "address": "209 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2008-07-16T15:59:14.000Z",
+    "expiryDate": "2026-07-15T15:59:14.000Z",
+    "coordinates": [
+      -114.0861794,
+      51.0530817
+    ],
+    "longitude": -114.0861794,
+    "latitude": 51.0530817,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

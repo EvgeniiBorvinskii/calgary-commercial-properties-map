@@ -1,0 +1,37 @@
+{
+  "id": "15982507",
+  "fullDetails": {
+    "licenseNumber": "15982507",
+    "name": "TIM HORTONS",
+    "address": "#102 255 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2021-02-01T12:21:06.000Z",
+    "expiryDate": "2027-01-31T12:21:06.000Z",
+    "coordinates": [
+      -114.160382,
+      51.1819099
+    ],
+    "longitude": -114.160382,
+    "latitude": 51.1819099,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

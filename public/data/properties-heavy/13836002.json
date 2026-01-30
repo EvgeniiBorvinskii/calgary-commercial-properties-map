@@ -1,0 +1,36 @@
+{
+  "id": "13836002",
+  "fullDetails": {
+    "licenseNumber": "13836002",
+    "name": "CROWN COLLISION",
+    "address": "#1040 4385 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2014-06-13T12:48:56.000Z",
+    "expiryDate": "2026-06-12T12:48:56.000Z",
+    "coordinates": [
+      -113.9722529,
+      50.9602317
+    ],
+    "longitude": -113.9722529,
+    "latitude": 50.9602317,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

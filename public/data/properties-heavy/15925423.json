@@ -1,0 +1,37 @@
+{
+  "id": "15925423",
+  "fullDetails": {
+    "licenseNumber": "15925423",
+    "name": "COMMUNITY NATURAL FOODS",
+    "address": "850 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-01-21T09:22:20.000Z",
+    "expiryDate": "2027-01-20T09:22:20.000Z",
+    "coordinates": [
+      -114.2072343,
+      51.1266546
+    ],
+    "longitude": -114.2072343,
+    "latitude": 51.1266546,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

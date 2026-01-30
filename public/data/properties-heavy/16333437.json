@@ -1,0 +1,36 @@
+{
+  "id": "16333437",
+  "fullDetails": {
+    "licenseNumber": "16333437",
+    "name": "OLDCASTLE BUILDINGENVELOPE",
+    "address": "3601 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-07-11T05:34:48.000Z",
+    "expiryDate": "2026-07-10T05:34:48.000Z",
+    "coordinates": [
+      -113.980213,
+      50.9887876
+    ],
+    "longitude": -113.980213,
+    "latitude": 50.9887876,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

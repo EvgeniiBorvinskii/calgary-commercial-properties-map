@@ -1,0 +1,36 @@
+{
+  "id": "12069795",
+  "fullDetails": {
+    "licenseNumber": "12069795",
+    "name": "WING CHUN KUNG FU ACADEMY",
+    "address": "#203 628 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-09-07T11:32:47.000Z",
+    "expiryDate": "2026-09-06T11:32:46.000Z",
+    "coordinates": [
+      -114.0758349,
+      51.0420487
+    ],
+    "longitude": -114.0758349,
+    "latitude": 51.0420487,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

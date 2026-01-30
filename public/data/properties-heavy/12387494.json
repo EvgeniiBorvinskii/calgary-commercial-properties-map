@@ -1,0 +1,36 @@
+{
+  "id": "12387494",
+  "fullDetails": {
+    "licenseNumber": "12387494",
+    "name": "LAVA HAIR",
+    "address": "2028 33 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2005-07-13T16:02:45.000Z",
+    "expiryDate": "2026-07-12T16:02:45.000Z",
+    "coordinates": [
+      -114.1084357,
+      51.0243386
+    ],
+    "longitude": -114.1084357,
+    "latitude": 51.0243386,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

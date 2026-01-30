@@ -1,0 +1,36 @@
+{
+  "id": "14538169",
+  "fullDetails": {
+    "licenseNumber": "14538169",
+    "name": "WESTROSE INTERIORS",
+    "address": "#5 3716 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2020-09-11T14:28:56.000Z",
+    "expiryDate": "2026-09-10T14:28:56.000Z",
+    "coordinates": [
+      -113.9804418,
+      51.0023774
+    ],
+    "longitude": -113.9804418,
+    "latitude": 51.0023774,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

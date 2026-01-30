@@ -1,0 +1,36 @@
+{
+  "id": "13869359",
+  "fullDetails": {
+    "licenseNumber": "13869359",
+    "name": "A B CUSHING MILLS (2014)",
+    "address": "7103 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-09-30T15:54:48.000Z",
+    "expiryDate": "2026-09-29T15:54:48.000Z",
+    "coordinates": [
+      -113.9844459,
+      50.9900768
+    ],
+    "longitude": -113.9844459,
+    "latitude": 50.9900768,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

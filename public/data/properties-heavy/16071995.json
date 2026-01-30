@@ -1,0 +1,36 @@
+{
+  "id": "16071995",
+  "fullDetails": {
+    "licenseNumber": "16071995",
+    "name": "APARTMENT BUILDING",
+    "address": "1728 38 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2022-02-23T11:10:47.000Z",
+    "expiryDate": "2026-02-22T11:10:46.000Z",
+    "coordinates": [
+      -113.9783704,
+      51.038406
+    ],
+    "longitude": -113.9783704,
+    "latitude": 51.038406,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

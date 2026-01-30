@@ -1,0 +1,36 @@
+{
+  "id": "13632591",
+  "fullDetails": {
+    "licenseNumber": "13632591",
+    "name": "LOCKHEED MARTIN CANADA CDL SYSTEMS",
+    "address": "#5301 333 96 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-02-22T05:33:14.000Z",
+    "expiryDate": "2026-02-21T05:33:14.000Z",
+    "coordinates": [
+      -114.0639383,
+      51.1401491
+    ],
+    "longitude": -114.0639383,
+    "latitude": 51.1401491,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

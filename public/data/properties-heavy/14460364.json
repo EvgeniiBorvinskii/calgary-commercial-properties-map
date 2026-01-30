@@ -1,0 +1,36 @@
+{
+  "id": "14460364",
+  "fullDetails": {
+    "licenseNumber": "14460364",
+    "name": "COLOR ME MINE",
+    "address": "#115 333 ASPEN GLEN LD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-02-16T15:49:59.000Z",
+    "expiryDate": "2027-02-15T15:49:59.000Z",
+    "coordinates": [
+      -114.2077001,
+      51.0397384
+    ],
+    "longitude": -114.2077001,
+    "latitude": 51.0397384,
+    "community": "ASPEN WOODS",
+    "ward": "ASP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

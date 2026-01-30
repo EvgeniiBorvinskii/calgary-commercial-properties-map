@@ -1,0 +1,36 @@
+{
+  "id": "12188892",
+  "fullDetails": {
+    "licenseNumber": "12188892",
+    "name": "AURORA WINDOW SYSTEMS",
+    "address": "535 MANITOU RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-05-13T13:56:02.000Z",
+    "expiryDate": "2026-05-12T13:56:02.000Z",
+    "coordinates": [
+      -114.052126,
+      51.0095727
+    ],
+    "longitude": -114.052126,
+    "latitude": 51.0095727,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

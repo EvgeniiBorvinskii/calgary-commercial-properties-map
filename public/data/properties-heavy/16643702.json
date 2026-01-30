@@ -1,0 +1,37 @@
+{
+  "id": "16643702",
+  "fullDetails": {
+    "licenseNumber": "16643702",
+    "name": "FABUTAN HUSH LASH STUDIO",
+    "address": "34 SAGE HILL PS NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-07-30T09:51:27.000Z",
+    "expiryDate": "2026-07-29T09:51:26.000Z",
+    "coordinates": [
+      -114.1464779,
+      51.1692728
+    ],
+    "longitude": -114.1464779,
+    "latitude": 51.1692728,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

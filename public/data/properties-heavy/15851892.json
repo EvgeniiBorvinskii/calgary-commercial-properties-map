@@ -1,0 +1,36 @@
+{
+  "id": "15851892",
+  "fullDetails": {
+    "licenseNumber": "15851892",
+    "name": "CEDARBRAE MANOR II",
+    "address": "11621 OAKFIELD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2021-04-22T05:31:08.000Z",
+    "expiryDate": "2026-04-21T05:31:08.000Z",
+    "coordinates": [
+      -114.1189309,
+      50.953599
+    ],
+    "longitude": -114.1189309,
+    "latitude": 50.953599,
+    "community": "CEDARBRAE",
+    "ward": "CED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

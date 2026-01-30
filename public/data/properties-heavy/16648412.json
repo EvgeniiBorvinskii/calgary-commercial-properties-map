@@ -1,0 +1,36 @@
+{
+  "id": "16648412",
+  "fullDetails": {
+    "licenseNumber": "16648412",
+    "name": "2587346 AB",
+    "address": "#18 7003 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T10:45:13.000Z",
+    "expiryDate": "2026-07-08T10:45:12.000Z",
+    "coordinates": [
+      -113.9847098,
+      50.9916971
+    ],
+    "longitude": -113.9847098,
+    "latitude": 50.9916971,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

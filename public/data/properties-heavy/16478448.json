@@ -1,0 +1,36 @@
+{
+  "id": "16478448",
+  "fullDetails": {
+    "licenseNumber": "16478448",
+    "name": "DEXTEROUS CONSTRUCTIONS",
+    "address": "4108 MONTGOMERY VW NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-05-18T05:33:54.000Z",
+    "expiryDate": "2026-05-17T05:33:54.000Z",
+    "coordinates": [
+      -114.1531042,
+      51.0653011
+    ],
+    "longitude": -114.1531042,
+    "latitude": 51.0653011,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

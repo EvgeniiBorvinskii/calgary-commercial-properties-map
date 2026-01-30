@@ -1,0 +1,37 @@
+{
+  "id": "15947443",
+  "fullDetails": {
+    "licenseNumber": "15947443",
+    "name": "DOLLARAMA (#1349)",
+    "address": "5506 SIGNAL HILL CE SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-12-01T16:13:11.000Z",
+    "expiryDate": "2026-11-30T16:13:11.000Z",
+    "coordinates": [
+      -114.1679534,
+      51.0209474
+    ],
+    "longitude": -114.1679534,
+    "latitude": 51.0209474,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

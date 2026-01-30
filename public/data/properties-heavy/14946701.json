@@ -1,0 +1,36 @@
+{
+  "id": "14946701",
+  "fullDetails": {
+    "licenseNumber": "14946701",
+    "name": "NW FURNACE",
+    "address": "#130 32 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (RESIDENTIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2018-06-20T12:39:20.000Z",
+    "expiryDate": "2026-06-19T12:39:20.000Z",
+    "coordinates": [
+      -113.9716143,
+      51.1070818
+    ],
+    "longitude": -113.9716143,
+    "latitude": 51.1070818,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12142105",
+  "fullDetails": {
+    "licenseNumber": "12142105",
+    "name": "AE SECURITY*",
+    "address": "#19 4511 GLENMORE TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2003-05-23T05:35:37.000Z",
+    "expiryDate": "2026-05-22T05:35:37.000Z",
+    "coordinates": [
+      -113.969426,
+      50.9787965
+    ],
+    "longitude": -113.969426,
+    "latitude": 50.9787965,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

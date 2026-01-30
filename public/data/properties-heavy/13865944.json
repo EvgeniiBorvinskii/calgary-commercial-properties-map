@@ -1,0 +1,36 @@
+{
+  "id": "13865944",
+  "fullDetails": {
+    "licenseNumber": "13865944",
+    "name": "WESTBROOK PRINT",
+    "address": "3709 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2014-10-02T08:21:59.000Z",
+    "expiryDate": "2026-10-01T08:21:59.000Z",
+    "coordinates": [
+      -114.1408404,
+      51.0375761
+    ],
+    "longitude": -114.1408404,
+    "latitude": 51.0375761,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

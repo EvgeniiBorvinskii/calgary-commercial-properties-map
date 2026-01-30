@@ -1,0 +1,36 @@
+{
+  "id": "15929466",
+  "fullDetails": {
+    "licenseNumber": "15929466",
+    "name": "MARKET WINES",
+    "address": "4109 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2020-08-21T09:42:32.000Z",
+    "expiryDate": "2026-08-20T09:42:32.000Z",
+    "coordinates": [
+      -114.145979,
+      51.077958
+    ],
+    "longitude": -114.145979,
+    "latitude": 51.077958,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

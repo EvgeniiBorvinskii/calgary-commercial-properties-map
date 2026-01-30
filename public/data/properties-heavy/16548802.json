@@ -1,0 +1,36 @@
+{
+  "id": "16548802",
+  "fullDetails": {
+    "licenseNumber": "16548802",
+    "name": "JUK AFRO CARIBBEAN MARKET",
+    "address": "1711 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-13T11:32:29.000Z",
+    "expiryDate": "2026-05-12T11:32:29.000Z",
+    "coordinates": [
+      -113.9590263,
+      51.0389333
+    ],
+    "longitude": -113.9590263,
+    "latitude": 51.0389333,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

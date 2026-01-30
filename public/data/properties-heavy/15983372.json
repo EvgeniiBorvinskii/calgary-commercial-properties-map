@@ -1,0 +1,36 @@
+{
+  "id": "15983372",
+  "fullDetails": {
+    "licenseNumber": "15983372",
+    "name": "SESAME",
+    "address": "4122 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2021-02-11T13:14:49.000Z",
+    "expiryDate": "2026-02-10T13:14:49.000Z",
+    "coordinates": [
+      -114.1467611,
+      51.0782001
+    ],
+    "longitude": -114.1467611,
+    "latitude": 51.0782001,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16506321",
+  "fullDetails": {
+    "licenseNumber": "16506321",
+    "name": "TELUS KOODO",
+    "address": "#320 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-08-22T11:45:28.000Z",
+    "expiryDate": "2026-08-21T11:45:28.000Z",
+    "coordinates": [
+      -114.0301846,
+      50.8650455
+    ],
+    "longitude": -114.0301846,
+    "latitude": 50.8650455,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

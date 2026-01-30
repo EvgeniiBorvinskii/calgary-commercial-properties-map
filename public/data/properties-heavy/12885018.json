@@ -1,0 +1,37 @@
+{
+  "id": "12885018",
+  "fullDetails": {
+    "licenseNumber": "12885018",
+    "name": "SUNALTA LODGING HOUSE",
+    "address": "1916 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2011-09-23T05:52:48.000Z",
+    "expiryDate": "2026-08-31T00:00:00.000Z",
+    "coordinates": [
+      -114.1050495,
+      51.0438422
+    ],
+    "longitude": -114.1050495,
+    "latitude": 51.0438422,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

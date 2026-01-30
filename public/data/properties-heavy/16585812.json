@@ -1,0 +1,36 @@
+{
+  "id": "16585812",
+  "fullDetails": {
+    "licenseNumber": "16585812",
+    "name": "BAAC CONSTRUCTION",
+    "address": "11330 70 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-12-05T10:03:40.000Z",
+    "expiryDate": "2026-12-04T10:03:39.000Z",
+    "coordinates": [
+      -113.9300953,
+      50.9515329
+    ],
+    "longitude": -113.9300953,
+    "latitude": 50.9515329,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

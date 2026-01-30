@@ -1,0 +1,37 @@
+{
+  "id": "16330300",
+  "fullDetails": {
+    "licenseNumber": "16330300",
+    "name": "POLE FLOW STUDIO YYC",
+    "address": "#20 12221 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-21T12:02:01.000Z",
+    "expiryDate": "2026-06-20T12:02:01.000Z",
+    "coordinates": [
+      -113.9721956,
+      50.9408176
+    ],
+    "longitude": -113.9721956,
+    "latitude": 50.9408176,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

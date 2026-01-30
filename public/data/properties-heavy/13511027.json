@@ -1,0 +1,36 @@
+{
+  "id": "13511027",
+  "fullDetails": {
+    "licenseNumber": "13511027",
+    "name": "INVISIBLE WINDOWS",
+    "address": "#10 5510 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2023-10-20T15:24:54.000Z",
+    "expiryDate": "2026-10-19T15:24:54.000Z",
+    "coordinates": [
+      -114.0564086,
+      51.0055257
+    ],
+    "longitude": -114.0564086,
+    "latitude": 51.0055257,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

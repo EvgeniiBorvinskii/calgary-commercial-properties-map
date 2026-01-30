@@ -1,0 +1,36 @@
+{
+  "id": "16645673",
+  "fullDetails": {
+    "licenseNumber": "16645673",
+    "name": "DRIVEWELL AUTOMOTIVE",
+    "address": "#7 2135 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-09-10T12:56:01.000Z",
+    "expiryDate": "2026-09-09T12:56:01.000Z",
+    "coordinates": [
+      -114.0088321,
+      51.0805141
+    ],
+    "longitude": -114.0088321,
+    "latitude": 51.0805141,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

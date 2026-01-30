@@ -1,0 +1,37 @@
+{
+  "id": "13793245",
+  "fullDetails": {
+    "licenseNumber": "13793245",
+    "name": "PROGRESSIVE AUTO REPAIR",
+    "address": "4081 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2014-03-17T10:39:49.000Z",
+    "expiryDate": "2026-03-16T10:39:49.000Z",
+    "coordinates": [
+      -114.0216776,
+      51.0183929
+    ],
+    "longitude": -114.0216776,
+    "latitude": 51.0183929,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

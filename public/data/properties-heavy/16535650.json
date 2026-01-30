@@ -1,0 +1,37 @@
+{
+  "id": "16535650",
+  "fullDetails": {
+    "licenseNumber": "16535650",
+    "name": "LALAVA MODERN LAUNDROMAT",
+    "address": "#205 45 CARRINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "FABRIC CLEANING,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-06-19T12:58:20.000Z",
+    "expiryDate": "2026-06-18T12:58:20.000Z",
+    "coordinates": [
+      -114.0750662,
+      51.1830691
+    ],
+    "longitude": -114.0750662,
+    "latitude": 51.1830691,
+    "community": "CARRINGTON",
+    "ward": "CAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

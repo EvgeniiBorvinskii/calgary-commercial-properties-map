@@ -1,0 +1,36 @@
+{
+  "id": "16231565",
+  "fullDetails": {
+    "licenseNumber": "16231565",
+    "name": "SKF MAGNETIC BEARINGS",
+    "address": "1034 72 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-01-04T14:03:08.000Z",
+    "expiryDate": "2027-01-03T14:03:08.000Z",
+    "coordinates": [
+      -114.0412522,
+      51.1182299
+    ],
+    "longitude": -114.0412522,
+    "latitude": 51.1182299,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

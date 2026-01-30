@@ -1,0 +1,36 @@
+{
+  "id": "12572517",
+  "fullDetails": {
+    "licenseNumber": "12572517",
+    "name": "GINGER BEEF EXPRESS",
+    "address": "#212 420 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2014-08-14T15:59:01.000Z",
+    "expiryDate": "2026-08-13T15:59:01.000Z",
+    "coordinates": [
+      -114.0671014,
+      51.0489563
+    ],
+    "longitude": -114.0671014,
+    "latitude": 51.0489563,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

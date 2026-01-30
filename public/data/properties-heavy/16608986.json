@@ -1,0 +1,36 @@
+{
+  "id": "16608986",
+  "fullDetails": {
+    "licenseNumber": "16608986",
+    "name": "MT NAILS",
+    "address": "#260 3775 202 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2025-03-26T09:23:59.000Z",
+    "expiryDate": "2026-03-25T09:23:58.000Z",
+    "coordinates": [
+      -113.9509732,
+      50.8655979
+    ],
+    "longitude": -113.9509732,
+    "latitude": 50.8655979,
+    "community": "SETON",
+    "ward": "SET",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

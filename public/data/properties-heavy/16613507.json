@@ -1,0 +1,37 @@
+{
+  "id": "16613507",
+  "fullDetails": {
+    "licenseNumber": "16613507",
+    "name": "FATBURGER",
+    "address": "#10 252 AVIATION BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-01T15:32:01.000Z",
+    "expiryDate": "2026-04-30T15:32:01.000Z",
+    "coordinates": [
+      -114.0320538,
+      51.0974527
+    ],
+    "longitude": -114.0320538,
+    "latitude": 51.0974527,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

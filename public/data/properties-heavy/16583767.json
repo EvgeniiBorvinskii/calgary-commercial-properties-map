@@ -1,0 +1,37 @@
+{
+  "id": "16583767",
+  "fullDetails": {
+    "licenseNumber": "16583767",
+    "name": "THERAPEUTIC & RELAXATION MASSAGE CLINIC",
+    "address": "#2160 2 ROYAL VISTA LI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-20T12:50:02.000Z",
+    "expiryDate": "2026-08-19T12:50:02.000Z",
+    "coordinates": [
+      -114.2038075,
+      51.1538372
+    ],
+    "longitude": -114.2038075,
+    "latitude": 51.1538372,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

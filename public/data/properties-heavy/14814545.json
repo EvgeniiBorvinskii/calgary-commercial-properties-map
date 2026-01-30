@@ -1,0 +1,36 @@
+{
+  "id": "14814545",
+  "fullDetails": {
+    "licenseNumber": "14814545",
+    "name": "FEEL GOOD CAFE",
+    "address": "#105 8180 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2018-03-01T15:13:53.000Z",
+    "expiryDate": "2026-02-28T15:13:53.000Z",
+    "coordinates": [
+      -114.0704234,
+      50.9818455
+    ],
+    "longitude": -114.0704234,
+    "latitude": 50.9818455,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

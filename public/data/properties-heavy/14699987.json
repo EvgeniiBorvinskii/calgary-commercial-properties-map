@@ -1,0 +1,36 @@
+{
+  "id": "14699987",
+  "fullDetails": {
+    "licenseNumber": "14699987",
+    "name": "FLARE SKATE BLADE",
+    "address": "#209 3505 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-09-28T05:33:25.000Z",
+    "expiryDate": "2026-09-27T05:33:25.000Z",
+    "coordinates": [
+      -114.0950997,
+      51.0227659
+    ],
+    "longitude": -114.0950997,
+    "latitude": 51.0227659,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

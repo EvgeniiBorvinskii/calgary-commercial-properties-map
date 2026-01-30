@@ -1,0 +1,36 @@
+{
+  "id": "16664773",
+  "fullDetails": {
+    "licenseNumber": "16664773",
+    "name": "NEW WEST COLLEGE",
+    "address": "#106 2635 37 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2025-12-19T12:29:21.000Z",
+    "expiryDate": "2026-12-18T12:29:21.000Z",
+    "coordinates": [
+      -113.9999359,
+      51.0859022
+    ],
+    "longitude": -113.9999359,
+    "latitude": 51.0859022,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

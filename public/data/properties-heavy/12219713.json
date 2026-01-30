@@ -1,0 +1,36 @@
+{
+  "id": "12219713",
+  "fullDetails": {
+    "licenseNumber": "12219713",
+    "name": "GLOBAL SEISMIC REPAIRS",
+    "address": "4405A 75 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-10-17T07:35:26.000Z",
+    "expiryDate": "2026-10-16T07:35:26.000Z",
+    "coordinates": [
+      -113.9725286,
+      50.9868803
+    ],
+    "longitude": -113.9725286,
+    "latitude": 50.9868803,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

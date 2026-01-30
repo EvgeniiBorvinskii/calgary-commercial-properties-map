@@ -1,0 +1,37 @@
+{
+  "id": "13956388",
+  "fullDetails": {
+    "licenseNumber": "13956388",
+    "name": "5 SENSES RAMEN & SUSHI BAR",
+    "address": "634A 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2015-05-20T15:34:54.000Z",
+    "expiryDate": "2026-05-19T15:34:54.000Z",
+    "coordinates": [
+      -114.0765307,
+      51.0380241
+    ],
+    "longitude": -114.0765307,
+    "latitude": 51.0380241,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

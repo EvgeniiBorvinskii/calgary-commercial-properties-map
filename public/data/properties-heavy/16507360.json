@@ -1,0 +1,37 @@
+{
+  "id": "16507360",
+  "fullDetails": {
+    "licenseNumber": "16507360",
+    "name": "ELITE MARTIAL ARTS ACADEMY",
+    "address": "#15 7335 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-01-23T08:03:37.000Z",
+    "expiryDate": "2027-01-22T08:03:37.000Z",
+    "coordinates": [
+      -114.0667011,
+      50.9872617
+    ],
+    "longitude": -114.0667011,
+    "latitude": 50.9872617,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

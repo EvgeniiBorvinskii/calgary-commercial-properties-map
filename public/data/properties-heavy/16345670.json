@@ -1,0 +1,36 @@
+{
+  "id": "16345670",
+  "fullDetails": {
+    "licenseNumber": "16345670",
+    "name": "XPERTECH REPAIR",
+    "address": "#228 7171 80 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-12T10:58:30.000Z",
+    "expiryDate": "2026-07-11T10:58:30.000Z",
+    "coordinates": [
+      -113.9316291,
+      51.1245987
+    ],
+    "longitude": -113.9316291,
+    "latitude": 51.1245987,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

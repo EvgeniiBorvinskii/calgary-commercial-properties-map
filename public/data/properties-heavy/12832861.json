@@ -1,0 +1,36 @@
+{
+  "id": "12832861",
+  "fullDetails": {
+    "licenseNumber": "12832861",
+    "name": "BENTO SUSHI",
+    "address": "#4 1480 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-11-28T07:56:17.000Z",
+    "expiryDate": "2026-11-27T07:56:17.000Z",
+    "coordinates": [
+      -113.9904758,
+      51.0639172
+    ],
+    "longitude": -113.9904758,
+    "latitude": 51.0639172,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

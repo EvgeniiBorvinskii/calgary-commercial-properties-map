@@ -1,0 +1,37 @@
+{
+  "id": "15729528",
+  "fullDetails": {
+    "licenseNumber": "15729528",
+    "name": "BONGO BONGS AND VAPES",
+    "address": "#320 22 MIDLAKE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2019-10-29T14:48:51.000Z",
+    "expiryDate": "2026-10-28T14:48:51.000Z",
+    "coordinates": [
+      -114.0646701,
+      50.9149913
+    ],
+    "longitude": -114.0646701,
+    "latitude": 50.9149913,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

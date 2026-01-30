@@ -1,0 +1,36 @@
+{
+  "id": "912568",
+  "fullDetails": {
+    "licenseNumber": "912568",
+    "name": "HOLIDAY INN EXPRESS",
+    "address": "12025 LAKE FRASER DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-05-30T00:00:00.000Z",
+    "coordinates": [
+      -114.0693551,
+      50.9461784
+    ],
+    "longitude": -114.0693551,
+    "latitude": 50.9461784,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

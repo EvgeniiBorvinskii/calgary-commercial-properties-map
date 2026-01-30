@@ -1,0 +1,36 @@
+{
+  "id": "13079132",
+  "fullDetails": {
+    "licenseNumber": "13079132",
+    "name": "CRMR LAUNDRY",
+    "address": "#105 7943 43 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "pending",
+    "issuedDate": "2011-04-05T05:48:59.000Z",
+    "expiryDate": "2026-04-04T05:48:59.000Z",
+    "coordinates": [
+      -114.2017507,
+      51.0909097
+    ],
+    "longitude": -114.2017507,
+    "latitude": 51.0909097,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

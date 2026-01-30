@@ -1,0 +1,36 @@
+{
+  "id": "15720667",
+  "fullDetails": {
+    "licenseNumber": "15720667",
+    "name": "WOODS ROSE NATURAL SKINCARE",
+    "address": "#208 815 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2021-09-09T08:38:56.000Z",
+    "expiryDate": "2026-09-08T08:38:56.000Z",
+    "coordinates": [
+      -114.0657924,
+      51.0449478
+    ],
+    "longitude": -114.0657924,
+    "latitude": 51.0449478,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

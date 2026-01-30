@@ -1,0 +1,36 @@
+{
+  "id": "16274763",
+  "fullDetails": {
+    "licenseNumber": "16274763",
+    "name": "BROADSTREET PROPERTIES - MAHOGANY RIDGE",
+    "address": "45 MASTERS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2023-02-24T09:22:52.000Z",
+    "expiryDate": "2026-02-23T09:22:52.000Z",
+    "coordinates": [
+      -113.9100458,
+      50.8944954
+    ],
+    "longitude": -113.9100458,
+    "latitude": 50.8944954,
+    "community": "MAHOGANY",
+    "ward": "MAH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16611154",
+  "fullDetails": {
+    "licenseNumber": "16611154",
+    "name": "INKLORE TATTOOZ",
+    "address": "#2202 4715 88 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-05-02T10:28:27.000Z",
+    "expiryDate": "2026-05-01T10:28:26.000Z",
+    "coordinates": [
+      -113.9644048,
+      51.132172
+    ],
+    "longitude": -113.9644048,
+    "latitude": 51.132172,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12806709",
+  "fullDetails": {
+    "licenseNumber": "12806709",
+    "name": "IGT-CANADA",
+    "address": "#6 2010 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2009-07-13T14:24:37.000Z",
+    "expiryDate": "2026-07-12T14:24:37.000Z",
+    "coordinates": [
+      -114.0108666,
+      51.0803005
+    ],
+    "longitude": -114.0108666,
+    "latitude": 51.0803005,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

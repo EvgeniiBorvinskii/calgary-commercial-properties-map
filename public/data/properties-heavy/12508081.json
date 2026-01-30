@@ -1,0 +1,37 @@
+{
+  "id": "12508081",
+  "fullDetails": {
+    "licenseNumber": "12508081",
+    "name": "FERROPOL INDUSTRIES",
+    "address": "#3 6613 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2013-04-11T08:39:32.000Z",
+    "expiryDate": "2026-04-10T08:39:32.000Z",
+    "coordinates": [
+      -113.9707196,
+      50.9955401
+    ],
+    "longitude": -113.9707196,
+    "latitude": 50.9955401,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

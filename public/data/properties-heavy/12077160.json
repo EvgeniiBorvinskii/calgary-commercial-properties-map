@@ -1,0 +1,36 @@
+{
+  "id": "12077160",
+  "fullDetails": {
+    "licenseNumber": "12077160",
+    "name": "WONDERFUL NETWORK (CANADA)",
+    "address": "#3 2915 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-02-04T05:35:44.000Z",
+    "expiryDate": "2027-02-03T05:35:44.000Z",
+    "coordinates": [
+      -114.0126034,
+      51.0782418
+    ],
+    "longitude": -114.0126034,
+    "latitude": 51.0782418,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

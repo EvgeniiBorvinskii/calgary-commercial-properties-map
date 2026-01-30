@@ -1,0 +1,36 @@
+{
+  "id": "12857900",
+  "fullDetails": {
+    "licenseNumber": "12857900",
+    "name": "HAKIM OPTICAL",
+    "address": "#1171 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2010-02-05T13:05:36.000Z",
+    "expiryDate": "2026-02-04T13:05:36.000Z",
+    "coordinates": [
+      -113.9787408,
+      51.0549307
+    ],
+    "longitude": -113.9787408,
+    "latitude": 51.0549307,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

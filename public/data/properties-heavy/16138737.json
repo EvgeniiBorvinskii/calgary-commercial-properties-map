@@ -1,0 +1,36 @@
+{
+  "id": "16138737",
+  "fullDetails": {
+    "licenseNumber": "16138737",
+    "name": "SKIN CLINICAL CALGARY",
+    "address": "#212 602 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2022-04-26T16:38:41.000Z",
+    "expiryDate": "2026-04-25T16:38:41.000Z",
+    "coordinates": [
+      -114.0743672,
+      51.0672991
+    ],
+    "longitude": -114.0743672,
+    "latitude": 51.0672991,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16605305",
+  "fullDetails": {
+    "licenseNumber": "16605305",
+    "name": "FOODSERVICE EQUIPMENT DEPOT",
+    "address": "#5 6613 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2025-05-05T10:51:28.000Z",
+    "expiryDate": "2026-05-04T10:51:27.000Z",
+    "coordinates": [
+      -113.9707196,
+      50.9955401
+    ],
+    "longitude": -113.9707196,
+    "latitude": 50.9955401,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

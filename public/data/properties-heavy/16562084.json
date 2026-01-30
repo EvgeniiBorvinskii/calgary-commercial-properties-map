@@ -1,0 +1,36 @@
+{
+  "id": "16562084",
+  "fullDetails": {
+    "licenseNumber": "16562084",
+    "name": "FUSION BOX CGY-2020",
+    "address": "#156 6800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2025-02-24T12:25:07.000Z",
+    "expiryDate": "2026-02-23T12:25:07.000Z",
+    "coordinates": [
+      -113.936088,
+      51.053025
+    ],
+    "longitude": -113.936088,
+    "latitude": 51.053025,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

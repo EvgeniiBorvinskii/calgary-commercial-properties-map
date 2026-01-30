@@ -1,0 +1,36 @@
+{
+  "id": "16503849",
+  "fullDetails": {
+    "licenseNumber": "16503849",
+    "name": "ELITE MOTORSPORTS",
+    "address": "5210 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-08T10:32:12.000Z",
+    "expiryDate": "2026-10-07T10:32:11.000Z",
+    "coordinates": [
+      -114.0676822,
+      51.0080986
+    ],
+    "longitude": -114.0676822,
+    "latitude": 51.0080986,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

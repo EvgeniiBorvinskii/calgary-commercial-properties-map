@@ -1,0 +1,36 @@
+{
+  "id": "16117988",
+  "fullDetails": {
+    "licenseNumber": "16117988",
+    "name": "ATHENA INDUSTRIAL SERVICES",
+    "address": "7475 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-02-04T09:10:10.000Z",
+    "expiryDate": "2027-02-03T09:10:10.000Z",
+    "coordinates": [
+      -113.9610067,
+      50.9882723
+    ],
+    "longitude": -113.9610067,
+    "latitude": 50.9882723,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

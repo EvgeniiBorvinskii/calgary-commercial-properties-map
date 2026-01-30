@@ -1,0 +1,36 @@
+{
+  "id": "969360",
+  "fullDetails": {
+    "licenseNumber": "969360",
+    "name": "MONEY MART #508",
+    "address": "#450 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PAYDAY LENDER (GRANDFATHERED)",
+    "licenseTypes": "PAYDAY LENDER (GRANDFATHERED)",
+    "status": "active",
+    "issuedDate": "2009-09-08T15:50:28.000Z",
+    "expiryDate": "2026-09-07T15:50:28.000Z",
+    "coordinates": [
+      -114.1982043,
+      51.1257792
+    ],
+    "longitude": -114.1982043,
+    "latitude": 51.1257792,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

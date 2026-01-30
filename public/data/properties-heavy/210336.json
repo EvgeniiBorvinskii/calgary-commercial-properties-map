@@ -1,0 +1,36 @@
+{
+  "id": "210336",
+  "fullDetails": {
+    "licenseNumber": "210336",
+    "name": "UTC FIRE & SECURITY CANADA",
+    "address": "#8 1470 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2004-06-19T05:33:49.000Z",
+    "expiryDate": "2026-06-18T05:33:49.000Z",
+    "coordinates": [
+      -113.9904758,
+      51.064951
+    ],
+    "longitude": -113.9904758,
+    "latitude": 51.064951,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

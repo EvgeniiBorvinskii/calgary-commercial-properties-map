@@ -1,0 +1,36 @@
+{
+  "id": "654137",
+  "fullDetails": {
+    "licenseNumber": "654137",
+    "name": "SPECIALTY WIRE & CABLE",
+    "address": "10911 72 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-01-25T05:32:02.000Z",
+    "expiryDate": "2027-01-24T05:32:02.000Z",
+    "coordinates": [
+      -113.9279609,
+      50.9563607
+    ],
+    "longitude": -113.9279609,
+    "latitude": 50.9563607,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

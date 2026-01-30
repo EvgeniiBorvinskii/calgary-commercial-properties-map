@@ -1,0 +1,36 @@
+{
+  "id": "855106",
+  "fullDetails": {
+    "licenseNumber": "855106",
+    "name": "AIR HAWK TRUCK ACCESSORIES",
+    "address": "4124 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2004-07-08T05:34:08.000Z",
+    "expiryDate": "2026-07-07T05:34:08.000Z",
+    "coordinates": [
+      -114.0424751,
+      51.0171469
+    ],
+    "longitude": -114.0424751,
+    "latitude": 51.0171469,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

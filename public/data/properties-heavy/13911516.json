@@ -1,0 +1,36 @@
+{
+  "id": "13911516",
+  "fullDetails": {
+    "licenseNumber": "13911516",
+    "name": "VOGUE UNIFORMS",
+    "address": "4618 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-01-21T14:25:44.000Z",
+    "expiryDate": "2027-01-20T14:25:44.000Z",
+    "coordinates": [
+      -114.0648862,
+      51.0126205
+    ],
+    "longitude": -114.0648862,
+    "latitude": 51.0126205,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16239964",
+  "fullDetails": {
+    "licenseNumber": "16239964",
+    "name": "REGRUB",
+    "address": "#5113 901 64 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-11-29T11:04:38.000Z",
+    "expiryDate": "2026-11-28T11:04:38.000Z",
+    "coordinates": [
+      -114.0405752,
+      51.1082037
+    ],
+    "longitude": -114.0405752,
+    "latitude": 51.1082037,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

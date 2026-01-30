@@ -1,0 +1,36 @@
+{
+  "id": "13843313",
+  "fullDetails": {
+    "licenseNumber": "13843313",
+    "name": "OISHII SUSHI & BENTO",
+    "address": "#1225 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2014-09-15T10:28:14.000Z",
+    "expiryDate": "2026-09-14T10:28:14.000Z",
+    "coordinates": [
+      -113.978651,
+      51.0553248
+    ],
+    "longitude": -113.978651,
+    "latitude": 51.0553248,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

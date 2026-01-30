@@ -1,0 +1,36 @@
+{
+  "id": "698001",
+  "fullDetails": {
+    "licenseNumber": "698001",
+    "name": "PRO-STAR AUTO & RV SERVICE",
+    "address": "#3 2705 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-02-23T00:00:00.000Z",
+    "coordinates": [
+      -113.9969326,
+      51.0561458
+    ],
+    "longitude": -113.9969326,
+    "latitude": 51.0561458,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

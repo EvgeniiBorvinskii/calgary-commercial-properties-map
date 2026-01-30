@@ -1,0 +1,36 @@
+{
+  "id": "612895",
+  "fullDetails": {
+    "licenseNumber": "612895",
+    "name": "VISTAVU SOLUTIONS",
+    "address": "#3310 605 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-10-31T15:22:07.000Z",
+    "expiryDate": "2026-10-30T15:22:07.000Z",
+    "coordinates": [
+      -114.0744999,
+      51.0484449
+    ],
+    "longitude": -114.0744999,
+    "latitude": 51.0484449,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

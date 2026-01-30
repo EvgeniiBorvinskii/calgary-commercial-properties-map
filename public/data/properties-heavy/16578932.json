@@ -1,0 +1,37 @@
+{
+  "id": "16578932",
+  "fullDetails": {
+    "licenseNumber": "16578932",
+    "name": "VAPE STADIUM AND CIGARS 10 AVE",
+    "address": "1012 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "pending",
+    "issuedDate": "2025-04-10T13:51:29.000Z",
+    "expiryDate": "2026-04-09T13:51:28.000Z",
+    "coordinates": [
+      -114.0581308,
+      51.0428383
+    ],
+    "longitude": -114.0581308,
+    "latitude": 51.0428383,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

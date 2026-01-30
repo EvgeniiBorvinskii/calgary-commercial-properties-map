@@ -1,0 +1,36 @@
+{
+  "id": "12325452",
+  "fullDetails": {
+    "licenseNumber": "12325452",
+    "name": "PAN AM SPINDLE REPAIR",
+    "address": "#2 1916A 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2005-02-25T08:56:44.000Z",
+    "expiryDate": "2026-02-24T08:56:44.000Z",
+    "coordinates": [
+      -114.0142078,
+      51.0804794
+    ],
+    "longitude": -114.0142078,
+    "latitude": 51.0804794,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

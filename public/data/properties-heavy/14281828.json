@@ -1,0 +1,36 @@
+{
+  "id": "14281828",
+  "fullDetails": {
+    "licenseNumber": "14281828",
+    "name": "GAO-BADMINTON",
+    "address": "4839 47 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2016-11-30T13:27:01.000Z",
+    "expiryDate": "2026-11-29T13:27:01.000Z",
+    "coordinates": [
+      -113.9663924,
+      51.0110709
+    ],
+    "longitude": -113.9663924,
+    "latitude": 51.0110709,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

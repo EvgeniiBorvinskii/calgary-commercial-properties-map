@@ -1,0 +1,37 @@
+{
+  "id": "16030215",
+  "fullDetails": {
+    "licenseNumber": "16030215",
+    "name": "BARBURRITO",
+    "address": "4125 UNIVERSITY AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2022-02-16T14:27:23.000Z",
+    "expiryDate": "2026-02-15T14:27:23.000Z",
+    "coordinates": [
+      -114.1464301,
+      51.0778061
+    ],
+    "longitude": -114.1464301,
+    "latitude": 51.0778061,
+    "community": "UNIVERSITY DISTRICT",
+    "ward": "UND",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

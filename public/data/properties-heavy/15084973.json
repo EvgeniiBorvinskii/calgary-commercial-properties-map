@@ -1,0 +1,36 @@
+{
+  "id": "15084973",
+  "fullDetails": {
+    "licenseNumber": "15084973",
+    "name": "CAR MEDIC",
+    "address": "608 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-07-16T09:01:51.000Z",
+    "expiryDate": "2026-07-15T09:01:50.000Z",
+    "coordinates": [
+      -114.0500134,
+      51.0163199
+    ],
+    "longitude": -114.0500134,
+    "latitude": 51.0163199,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

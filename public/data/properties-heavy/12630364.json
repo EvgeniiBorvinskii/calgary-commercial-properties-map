@@ -1,0 +1,36 @@
+{
+  "id": "12630364",
+  "fullDetails": {
+    "licenseNumber": "12630364",
+    "name": "CALGARY STAMP & STENCIL",
+    "address": "3615 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2021-03-17T10:19:45.000Z",
+    "expiryDate": "2026-03-16T10:19:45.000Z",
+    "coordinates": [
+      -114.0568891,
+      51.0226239
+    ],
+    "longitude": -114.0568891,
+    "latitude": 51.0226239,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

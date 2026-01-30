@@ -1,0 +1,36 @@
+{
+  "id": "15893894",
+  "fullDetails": {
+    "licenseNumber": "15893894",
+    "name": "JDC MECHANICAL",
+    "address": "#30 4550 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-02-08T10:59:28.000Z",
+    "expiryDate": "2027-02-07T10:59:28.000Z",
+    "coordinates": [
+      -113.9705127,
+      50.9524604
+    ],
+    "longitude": -113.9705127,
+    "latitude": 50.9524604,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

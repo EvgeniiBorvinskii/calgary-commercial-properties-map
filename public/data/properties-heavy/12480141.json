@@ -1,0 +1,36 @@
+{
+  "id": "12480141",
+  "fullDetails": {
+    "licenseNumber": "12480141",
+    "name": "DREWITZ DANCE PRODUCTION",
+    "address": "#107 11198 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2008-03-13T05:42:08.000Z",
+    "expiryDate": "2026-03-12T05:42:08.000Z",
+    "coordinates": [
+      -113.9745157,
+      50.9534934
+    ],
+    "longitude": -113.9745157,
+    "latitude": 50.9534934,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "196675",
+  "fullDetails": {
+    "licenseNumber": "196675",
+    "name": "IDEAL SERVICES",
+    "address": "4505 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL ONLY)",
+    "status": "active",
+    "issuedDate": "2023-06-27T15:50:43.000Z",
+    "expiryDate": "2026-06-26T15:50:42.000Z",
+    "coordinates": [
+      -113.9694126,
+      50.9821445
+    ],
+    "longitude": -113.9694126,
+    "latitude": 50.9821445,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

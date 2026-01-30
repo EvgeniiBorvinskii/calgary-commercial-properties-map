@@ -1,0 +1,36 @@
+{
+  "id": "16608598",
+  "fullDetails": {
+    "licenseNumber": "16608598",
+    "name": "CHARMANT NAIL & SPA",
+    "address": "4819 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (MICROBLADING)",
+    "licenseTypes": "PERSONAL SERVICE (MICROBLADING)",
+    "status": "active",
+    "issuedDate": "2025-05-20T11:55:45.000Z",
+    "expiryDate": "2026-05-19T11:55:45.000Z",
+    "coordinates": [
+      -114.0676024,
+      51.0103461
+    ],
+    "longitude": -114.0676024,
+    "latitude": 51.0103461,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

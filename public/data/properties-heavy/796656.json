@@ -1,0 +1,36 @@
+{
+  "id": "796656",
+  "fullDetails": {
+    "licenseNumber": "796656",
+    "name": "WORX CANADA",
+    "address": "#10 2305 52 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-08-10T05:33:37.000Z",
+    "expiryDate": "2026-08-09T05:33:37.000Z",
+    "coordinates": [
+      -114.0061199,
+      51.0062367
+    ],
+    "longitude": -114.0061199,
+    "latitude": 51.0062367,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12610804",
+  "fullDetails": {
+    "licenseNumber": "12610804",
+    "name": "EPIC AUTO SALES",
+    "address": "2552 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2008-03-18T07:30:18.000Z",
+    "expiryDate": "2026-03-17T07:30:18.000Z",
+    "coordinates": [
+      -113.9946654,
+      51.0751531
+    ],
+    "longitude": -113.9946654,
+    "latitude": 51.0751531,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

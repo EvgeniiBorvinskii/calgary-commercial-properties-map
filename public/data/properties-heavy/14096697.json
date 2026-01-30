@@ -1,0 +1,36 @@
+{
+  "id": "14096697",
+  "fullDetails": {
+    "licenseNumber": "14096697",
+    "name": "HEART TO HOME MEALS",
+    "address": "#N 1007 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-08-11T16:38:39.000Z",
+    "expiryDate": "2026-08-10T16:38:39.000Z",
+    "coordinates": [
+      -114.0411014,
+      51.1013141
+    ],
+    "longitude": -114.0411014,
+    "latitude": 51.1013141,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

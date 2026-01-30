@@ -1,0 +1,36 @@
+{
+  "id": "16538803",
+  "fullDetails": {
+    "licenseNumber": "16538803",
+    "name": "GOLPA INDUSTRIES",
+    "address": "#6 2824 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-10-10T15:17:53.000Z",
+    "expiryDate": "2026-10-09T15:17:52.000Z",
+    "coordinates": [
+      -113.9959196,
+      51.0025598
+    ],
+    "longitude": -113.9959196,
+    "latitude": 51.0025598,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12054268",
+  "fullDetails": {
+    "licenseNumber": "12054268",
+    "name": "LENS SAVE EXPRESS",
+    "address": "#7107 150 MILLRISE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2006-10-05T05:33:16.000Z",
+    "expiryDate": "2026-10-04T05:33:16.000Z",
+    "coordinates": [
+      -114.0732519,
+      50.9142425
+    ],
+    "longitude": -114.0732519,
+    "latitude": 50.9142425,
+    "community": "MILLRISE",
+    "ward": "MLR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

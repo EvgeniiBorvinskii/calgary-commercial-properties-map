@@ -1,0 +1,36 @@
+{
+  "id": "409771",
+  "fullDetails": {
+    "licenseNumber": "409771",
+    "name": "APEL EXTRUSIONS",
+    "address": "7929 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2002-09-25T17:22:58.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9885578,
+      50.9830761
+    ],
+    "longitude": -113.9885578,
+    "latitude": 50.9830761,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

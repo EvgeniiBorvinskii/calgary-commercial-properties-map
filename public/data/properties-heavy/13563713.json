@@ -1,0 +1,37 @@
+{
+  "id": "13563713",
+  "fullDetails": {
+    "licenseNumber": "13563713",
+    "name": "SOLID WOODWORKING",
+    "address": "#4 3628 15A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2015-02-19T05:33:04.000Z",
+    "expiryDate": "2026-02-18T05:33:04.000Z",
+    "coordinates": [
+      -114.0232906,
+      51.0223282
+    ],
+    "longitude": -114.0232906,
+    "latitude": 51.0223282,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

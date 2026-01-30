@@ -1,0 +1,36 @@
+{
+  "id": "16019531",
+  "fullDetails": {
+    "licenseNumber": "16019531",
+    "name": "BUCKS AUTO PARTS",
+    "address": "2468 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2022-07-06T11:26:57.000Z",
+    "expiryDate": "2026-07-05T11:26:57.000Z",
+    "coordinates": [
+      -114.0033586,
+      51.0003451
+    ],
+    "longitude": -114.0033586,
+    "latitude": 51.0003451,
+    "community": "OGDEN SHOPS",
+    "ward": "OSH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

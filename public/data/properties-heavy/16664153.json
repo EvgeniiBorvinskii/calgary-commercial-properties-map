@@ -1,0 +1,37 @@
+{
+  "id": "16664153",
+  "fullDetails": {
+    "licenseNumber": "16664153",
+    "name": "BOWNESS PHARMACY",
+    "address": "6435 BOWNESS RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-01T07:42:31.000Z",
+    "expiryDate": "2026-11-30T07:42:31.000Z",
+    "coordinates": [
+      -114.18187,
+      51.0861952
+    ],
+    "longitude": -114.18187,
+    "latitude": 51.0861952,
+    "community": "BOWNESS",
+    "ward": "BOW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

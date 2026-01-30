@@ -1,0 +1,36 @@
+{
+  "id": "16538316",
+  "fullDetails": {
+    "licenseNumber": "16538316",
+    "name": "ALCOVE CENTRE FOR THE ARTS",
+    "address": "244 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-18T17:53:38.000Z",
+    "expiryDate": "2026-10-17T17:53:38.000Z",
+    "coordinates": [
+      -114.0672056,
+      51.0468604
+    ],
+    "longitude": -114.0672056,
+    "latitude": 51.0468604,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

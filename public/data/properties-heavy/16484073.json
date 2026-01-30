@@ -1,0 +1,36 @@
+{
+  "id": "16484073",
+  "fullDetails": {
+    "licenseNumber": "16484073",
+    "name": "I BELIEVE I CAN FRY (CGY-2202)",
+    "address": "57 SHERWOOD VW NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-30T09:34:28.000Z",
+    "expiryDate": "2026-10-29T09:34:27.000Z",
+    "coordinates": [
+      -114.1463156,
+      51.1562923
+    ],
+    "longitude": -114.1463156,
+    "latitude": 51.1562923,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

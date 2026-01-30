@@ -1,0 +1,36 @@
+{
+  "id": "16308934",
+  "fullDetails": {
+    "licenseNumber": "16308934",
+    "name": "ALLIED UNIVERSAL SECURITY SERVICES OF CANADA",
+    "address": "#142 855 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "licenseTypes": "ALARM AGENCY",
+    "status": "active",
+    "issuedDate": "2025-12-09T09:17:41.000Z",
+    "expiryDate": "2026-12-08T09:17:41.000Z",
+    "coordinates": [
+      -114.0451961,
+      51.0151727
+    ],
+    "longitude": -114.0451961,
+    "latitude": 51.0151727,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

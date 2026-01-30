@@ -1,0 +1,37 @@
+{
+  "id": "16317968",
+  "fullDetails": {
+    "licenseNumber": "16317968",
+    "name": "UNITED STONE",
+    "address": "4603 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2023-11-16T16:28:36.000Z",
+    "expiryDate": "2026-11-15T16:28:36.000Z",
+    "coordinates": [
+      -114.0337569,
+      51.0936845
+    ],
+    "longitude": -114.0337569,
+    "latitude": 51.0936845,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13125000",
+  "fullDetails": {
+    "licenseNumber": "13125000",
+    "name": "A CLARK ROOFING & SIDING",
+    "address": "#9 2816 21 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-05-25T05:30:26.000Z",
+    "expiryDate": "2026-05-24T05:30:26.000Z",
+    "coordinates": [
+      -114.0084896,
+      51.0774956
+    ],
+    "longitude": -114.0084896,
+    "latitude": 51.0774956,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

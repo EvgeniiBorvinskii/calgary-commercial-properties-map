@@ -1,0 +1,36 @@
+{
+  "id": "16543837",
+  "fullDetails": {
+    "licenseNumber": "16543837",
+    "name": "HARVEY'S 2407",
+    "address": "#J3 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-16T07:12:39.000Z",
+    "expiryDate": "2026-10-15T07:12:39.000Z",
+    "coordinates": [
+      -114.1536848,
+      51.0853561
+    ],
+    "longitude": -114.1536848,
+    "latitude": 51.0853561,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

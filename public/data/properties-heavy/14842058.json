@@ -1,0 +1,36 @@
+{
+  "id": "14842058",
+  "fullDetails": {
+    "licenseNumber": "14842058",
+    "name": "FINNING INTERNATIONAL",
+    "address": "11560 42 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-03-21T09:35:13.000Z",
+    "expiryDate": "2026-03-20T09:35:13.000Z",
+    "coordinates": [
+      -113.9742345,
+      50.9481921
+    ],
+    "longitude": -113.9742345,
+    "latitude": 50.9481921,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

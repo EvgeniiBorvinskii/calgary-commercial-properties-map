@@ -1,0 +1,36 @@
+{
+  "id": "16607640",
+  "fullDetails": {
+    "licenseNumber": "16607640",
+    "name": "2604272 ALBERTA",
+    "address": "1740 28 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-09-26T07:26:16.000Z",
+    "expiryDate": "2026-09-25T07:26:16.000Z",
+    "coordinates": [
+      -114.12761,
+      51.0382162
+    ],
+    "longitude": -114.12761,
+    "latitude": 51.0382162,
+    "community": "SHAGANAPPI",
+    "ward": "SHG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

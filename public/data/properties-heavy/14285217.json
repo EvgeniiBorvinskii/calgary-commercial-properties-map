@@ -1,0 +1,37 @@
+{
+  "id": "14285217",
+  "fullDetails": {
+    "licenseNumber": "14285217",
+    "name": "BETTY LOU SPEAKEASY",
+    "address": "#20 908 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-10-31T15:10:16.000Z",
+    "expiryDate": "2026-10-30T15:10:16.000Z",
+    "coordinates": [
+      -114.0825381,
+      51.0379984
+    ],
+    "longitude": -114.0825381,
+    "latitude": 51.0379984,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

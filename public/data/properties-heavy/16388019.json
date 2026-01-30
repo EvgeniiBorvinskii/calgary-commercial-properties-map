@@ -1,0 +1,37 @@
+{
+  "id": "16388019",
+  "fullDetails": {
+    "licenseNumber": "16388019",
+    "name": "HARMONY GROCERY STORE",
+    "address": "#111 683 10 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-09-28T15:13:11.000Z",
+    "expiryDate": "2026-09-27T15:13:11.000Z",
+    "coordinates": [
+      -114.0865201,
+      51.0473171
+    ],
+    "longitude": -114.0865201,
+    "latitude": 51.0473171,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

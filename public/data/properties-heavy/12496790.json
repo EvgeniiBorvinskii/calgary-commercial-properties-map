@@ -1,0 +1,36 @@
+{
+  "id": "12496790",
+  "fullDetails": {
+    "licenseNumber": "12496790",
+    "name": "TENARIS GLOBAL SERVICES (CANADA)",
+    "address": "#400 530 8 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2009-03-31T08:56:51.000Z",
+    "expiryDate": "2026-03-30T08:56:51.000Z",
+    "coordinates": [
+      -114.0729631,
+      51.04615
+    ],
+    "longitude": -114.0729631,
+    "latitude": 51.04615,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

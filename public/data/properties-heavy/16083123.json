@@ -1,0 +1,37 @@
+{
+  "id": "16083123",
+  "fullDetails": {
+    "licenseNumber": "16083123",
+    "name": "SHOPPERS DRUG MART 345",
+    "address": "3939 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-28T15:42:26.000Z",
+    "expiryDate": "2026-09-27T15:42:26.000Z",
+    "coordinates": [
+      -114.1443036,
+      51.0370155
+    ],
+    "longitude": -114.1443036,
+    "latitude": 51.0370155,
+    "community": "GLENDALE",
+    "ward": "GDL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

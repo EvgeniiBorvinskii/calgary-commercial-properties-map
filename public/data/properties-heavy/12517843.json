@@ -1,0 +1,36 @@
+{
+  "id": "12517843",
+  "fullDetails": {
+    "licenseNumber": "12517843",
+    "name": "ULTIMATE RENOVATIONS",
+    "address": "5056 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2006-12-13T11:45:21.000Z",
+    "expiryDate": "2026-12-12T11:45:21.000Z",
+    "coordinates": [
+      -114.0362687,
+      51.0075807
+    ],
+    "longitude": -114.0362687,
+    "latitude": 51.0075807,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

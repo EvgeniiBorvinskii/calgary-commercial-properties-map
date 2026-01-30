@@ -1,0 +1,36 @@
+{
+  "id": "16230971",
+  "fullDetails": {
+    "licenseNumber": "16230971",
+    "name": "NAN'S NOODLE HOUSE AND VEGAN MARKET",
+    "address": "3103B EDMONTON TR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-12-08T11:23:00.000Z",
+    "expiryDate": "2026-12-07T11:23:00.000Z",
+    "coordinates": [
+      -114.0553758,
+      51.0797801
+    ],
+    "longitude": -114.0553758,
+    "latitude": 51.0797801,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

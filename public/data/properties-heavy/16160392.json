@@ -1,0 +1,36 @@
+{
+  "id": "16160392",
+  "fullDetails": {
+    "licenseNumber": "16160392",
+    "name": "MR SUN TEA",
+    "address": "620 8 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-27T13:34:52.000Z",
+    "expiryDate": "2026-09-26T13:34:52.000Z",
+    "coordinates": [
+      -114.0496369,
+      51.0452959
+    ],
+    "longitude": -114.0496369,
+    "latitude": 51.0452959,
+    "community": "DOWNTOWN EAST VILLAGE",
+    "ward": "DNE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

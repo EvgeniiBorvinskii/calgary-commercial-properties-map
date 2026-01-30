@@ -1,0 +1,36 @@
+{
+  "id": "12619615",
+  "fullDetails": {
+    "licenseNumber": "12619615",
+    "name": "MR DIESEL",
+    "address": "7736 56 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-06-07T15:33:03.000Z",
+    "expiryDate": "2026-06-06T15:33:03.000Z",
+    "coordinates": [
+      -113.9516029,
+      50.9843574
+    ],
+    "longitude": -113.9516029,
+    "latitude": 50.9843574,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

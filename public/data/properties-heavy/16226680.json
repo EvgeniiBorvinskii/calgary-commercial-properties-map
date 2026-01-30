@@ -1,0 +1,36 @@
+{
+  "id": "16226680",
+  "fullDetails": {
+    "licenseNumber": "16226680",
+    "name": "E AND D MACHINING",
+    "address": "#2 8010 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-07-27T08:24:14.000Z",
+    "expiryDate": "2026-07-26T08:24:14.000Z",
+    "coordinates": [
+      -113.9695719,
+      50.9809149
+    ],
+    "longitude": -113.9695719,
+    "latitude": 50.9809149,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

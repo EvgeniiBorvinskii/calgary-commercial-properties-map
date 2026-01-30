@@ -1,0 +1,36 @@
+{
+  "id": "12824066",
+  "fullDetails": {
+    "licenseNumber": "12824066",
+    "name": "EDDIE BAUER",
+    "address": "#R40 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-08-20T15:11:35.000Z",
+    "expiryDate": "2026-08-19T15:11:35.000Z",
+    "coordinates": [
+      -114.1548606,
+      51.0834214
+    ],
+    "longitude": -114.1548606,
+    "latitude": 51.0834214,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15449226",
+  "fullDetails": {
+    "licenseNumber": "15449226",
+    "name": "NEW WEST TRUCK CENTRES",
+    "address": "5783 80 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2019-09-19T14:23:32.000Z",
+    "expiryDate": "2026-09-18T14:23:32.000Z",
+    "coordinates": [
+      -113.9471733,
+      50.9802472
+    ],
+    "longitude": -113.9471733,
+    "latitude": 50.9802472,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

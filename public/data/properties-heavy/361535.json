@@ -1,0 +1,36 @@
+{
+  "id": "361535",
+  "fullDetails": {
+    "licenseNumber": "361535",
+    "name": "MARANELLO AUTO REFINISHING",
+    "address": "215 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2001-11-05T17:28:28.000Z",
+    "expiryDate": "2026-11-04T05:34:31.000Z",
+    "coordinates": [
+      -114.0586779,
+      51.0885491
+    ],
+    "longitude": -114.0586779,
+    "latitude": 51.0885491,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

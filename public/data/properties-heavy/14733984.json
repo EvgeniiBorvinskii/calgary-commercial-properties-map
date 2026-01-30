@@ -1,0 +1,37 @@
+{
+  "id": "14733984",
+  "fullDetails": {
+    "licenseNumber": "14733984",
+    "name": "CALGARY HOCKEY DEVELOPMENT CENTRE",
+    "address": "#117 10710 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-27T05:32:36.000Z",
+    "expiryDate": "2026-06-26T05:32:36.000Z",
+    "coordinates": [
+      -113.9957241,
+      51.1502489
+    ],
+    "longitude": -113.9957241,
+    "latitude": 51.1502489,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

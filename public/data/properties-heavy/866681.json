@@ -1,0 +1,36 @@
+{
+  "id": "866681",
+  "fullDetails": {
+    "licenseNumber": "866681",
+    "name": "KIENNA COFFEE",
+    "address": "4049 74 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-15T15:28:39.000Z",
+    "expiryDate": "2026-10-14T15:28:39.000Z",
+    "coordinates": [
+      -113.979212,
+      50.9873936
+    ],
+    "longitude": -113.979212,
+    "latitude": 50.9873936,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

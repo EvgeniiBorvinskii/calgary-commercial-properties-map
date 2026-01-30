@@ -1,0 +1,36 @@
+{
+  "id": "15898828",
+  "fullDetails": {
+    "licenseNumber": "15898828",
+    "name": "KFC HARVEST HILLS",
+    "address": "#8110 333 96 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-27T14:44:25.000Z",
+    "expiryDate": "2026-05-26T14:44:25.000Z",
+    "coordinates": [
+      -114.0632226,
+      51.1412736
+    ],
+    "longitude": -114.0632226,
+    "latitude": 51.1412736,
+    "community": "AURORA BUSINESS PARK",
+    "ward": "ABP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

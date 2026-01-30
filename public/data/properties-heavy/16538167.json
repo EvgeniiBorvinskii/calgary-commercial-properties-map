@@ -1,0 +1,36 @@
+{
+  "id": "16538167",
+  "fullDetails": {
+    "licenseNumber": "16538167",
+    "name": "MARY BROWNS CHICKEN",
+    "address": "5479 FALSBRIDGE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-10T13:17:39.000Z",
+    "expiryDate": "2026-10-09T13:17:38.000Z",
+    "coordinates": [
+      -113.95585,
+      51.096743
+    ],
+    "longitude": -113.95585,
+    "latitude": 51.096743,
+    "community": "FALCONRIDGE",
+    "ward": "FAL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

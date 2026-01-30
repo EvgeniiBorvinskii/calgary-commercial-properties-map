@@ -1,0 +1,36 @@
+{
+  "id": "13164785",
+  "fullDetails": {
+    "licenseNumber": "13164785",
+    "name": "POLYMER DISTRIBUTION",
+    "address": "#117 5025 90 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-03-15T05:32:24.000Z",
+    "expiryDate": "2026-03-14T05:32:24.000Z",
+    "coordinates": [
+      -113.9618253,
+      50.9718859
+    ],
+    "longitude": -113.9618253,
+    "latitude": 50.9718859,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

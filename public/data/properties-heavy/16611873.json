@@ -1,0 +1,36 @@
+{
+  "id": "16611873",
+  "fullDetails": {
+    "licenseNumber": "16611873",
+    "name": "YAMS LIQUOR",
+    "address": "#101 3509 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2025-04-30T15:13:18.000Z",
+    "expiryDate": "2026-04-29T15:13:18.000Z",
+    "coordinates": [
+      -113.9837995,
+      51.0373931
+    ],
+    "longitude": -113.9837995,
+    "latitude": 51.0373931,
+    "community": "SOUTHVIEW",
+    "ward": "SOV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

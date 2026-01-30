@@ -1,0 +1,36 @@
+{
+  "id": "16553398",
+  "fullDetails": {
+    "licenseNumber": "16553398",
+    "name": "SOLO ON 4TH",
+    "address": "345 19 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-10-25T07:35:28.000Z",
+    "expiryDate": "2026-10-24T07:35:27.000Z",
+    "coordinates": [
+      -114.0712095,
+      51.0360188
+    ],
+    "longitude": -114.0712095,
+    "latitude": 51.0360188,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

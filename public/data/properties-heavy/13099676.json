@@ -1,0 +1,36 @@
+{
+  "id": "13099676",
+  "fullDetails": {
+    "licenseNumber": "13099676",
+    "name": "ROYAL QUALITY CATERING",
+    "address": "#A 2616 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2011-02-17T16:27:33.000Z",
+    "expiryDate": "2026-02-16T16:27:33.000Z",
+    "coordinates": [
+      -113.9812242,
+      51.0313231
+    ],
+    "longitude": -113.9812242,
+    "latitude": 51.0313231,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

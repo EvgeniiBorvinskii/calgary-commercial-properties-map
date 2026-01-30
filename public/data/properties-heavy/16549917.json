@@ -1,0 +1,36 @@
+{
+  "id": "16549917",
+  "fullDetails": {
+    "licenseNumber": "16549917",
+    "name": "2144325 ALBERTA OPERATING AS CERTIFIED DEMOLITION",
+    "address": "#1 3419 46 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-01T09:37:15.000Z",
+    "expiryDate": "2026-04-30T09:37:14.000Z",
+    "coordinates": [
+      -113.9851221,
+      51.0120298
+    ],
+    "longitude": -113.9851221,
+    "latitude": 51.0120298,
+    "community": "GOLDEN TRIANGLE",
+    "ward": "GTI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

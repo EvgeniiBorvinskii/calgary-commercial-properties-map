@@ -1,0 +1,37 @@
+{
+  "id": "16509093",
+  "fullDetails": {
+    "licenseNumber": "16509093",
+    "name": "OGDEN CORNER MART",
+    "address": "#1 2388 CRESTWOOD RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2024-08-13T15:37:59.000Z",
+    "expiryDate": "2026-08-12T15:37:59.000Z",
+    "coordinates": [
+      -114.0030827,
+      50.9914394
+    ],
+    "longitude": -114.0030827,
+    "latitude": 50.9914394,
+    "community": "OGDEN",
+    "ward": "OGD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16447518",
+  "fullDetails": {
+    "licenseNumber": "16447518",
+    "name": "BULK BARN FOODS",
+    "address": "#210 1440 52 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-03-27T11:01:49.000Z",
+    "expiryDate": "2026-03-26T11:01:49.000Z",
+    "coordinates": [
+      -113.9556858,
+      51.0639422
+    ],
+    "longitude": -113.9556858,
+    "latitude": 51.0639422,
+    "community": "MARLBOROUGH PARK",
+    "ward": "MPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

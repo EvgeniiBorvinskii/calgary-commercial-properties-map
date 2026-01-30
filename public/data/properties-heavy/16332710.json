@@ -1,0 +1,36 @@
+{
+  "id": "16332710",
+  "fullDetails": {
+    "licenseNumber": "16332710",
+    "name": "MORHART DEVELOPMENT",
+    "address": "#23 1206 3 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-06-22T09:59:26.000Z",
+    "expiryDate": "2026-06-21T09:59:26.000Z",
+    "coordinates": [
+      -114.0557913,
+      51.0409786
+    ],
+    "longitude": -114.0557913,
+    "latitude": 51.0409786,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

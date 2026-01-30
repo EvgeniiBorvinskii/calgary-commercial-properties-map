@@ -1,0 +1,36 @@
+{
+  "id": "12462651",
+  "fullDetails": {
+    "licenseNumber": "12462651",
+    "name": "SUNDANCE WINE MARKET",
+    "address": "17 SUNMILLS DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2006-03-01T15:42:57.000Z",
+    "expiryDate": "2026-02-28T15:42:57.000Z",
+    "coordinates": [
+      -114.0483179,
+      50.906267
+    ],
+    "longitude": -114.0483179,
+    "latitude": 50.906267,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

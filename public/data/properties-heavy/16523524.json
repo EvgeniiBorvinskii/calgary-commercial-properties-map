@@ -1,0 +1,36 @@
+{
+  "id": "16523524",
+  "fullDetails": {
+    "licenseNumber": "16523524",
+    "name": "CAL CUSTOMS & TIRES",
+    "address": "#4150 10830 42 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-02-28T08:18:32.000Z",
+    "expiryDate": "2026-02-27T08:18:31.000Z",
+    "coordinates": [
+      -113.9709041,
+      51.1507919
+    ],
+    "longitude": -113.9709041,
+    "latitude": 51.1507919,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15443815",
+  "fullDetails": {
+    "licenseNumber": "15443815",
+    "name": "FORCO EQUIPMENT MECHANICAL SERVICES",
+    "address": "3513G 78 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2019-09-16T09:25:26.000Z",
+    "expiryDate": "2026-09-15T09:25:26.000Z",
+    "coordinates": [
+      -113.9853649,
+      50.9824815
+    ],
+    "longitude": -113.9853649,
+    "latitude": 50.9824815,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

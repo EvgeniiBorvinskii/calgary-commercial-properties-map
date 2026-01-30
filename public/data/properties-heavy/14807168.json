@@ -1,0 +1,36 @@
+{
+  "id": "14807168",
+  "fullDetails": {
+    "licenseNumber": "14807168",
+    "name": "SUKHI DA DHABA RESTAURANT & SWEET SHOP",
+    "address": "5058 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-02-10T05:32:26.000Z",
+    "expiryDate": "2027-02-09T05:32:26.000Z",
+    "coordinates": [
+      -113.9344036,
+      51.0984097
+    ],
+    "longitude": -113.9344036,
+    "latitude": 51.0984097,
+    "community": "CORAL SPRINGS",
+    "ward": "COR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12425260",
+  "fullDetails": {
+    "licenseNumber": "12425260",
+    "name": "OLYMPIA LIQUOR EVERGREEN",
+    "address": "#302 2250 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2005-09-20T05:29:29.000Z",
+    "expiryDate": "2026-09-19T05:29:29.000Z",
+    "coordinates": [
+      -114.1089742,
+      50.9071876
+    ],
+    "longitude": -114.1089742,
+    "latitude": 50.9071876,
+    "community": "EVERGREEN",
+    "ward": "EVE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

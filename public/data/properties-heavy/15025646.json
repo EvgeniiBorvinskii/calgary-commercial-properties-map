@@ -1,0 +1,36 @@
+{
+  "id": "15025646",
+  "fullDetails": {
+    "licenseNumber": "15025646",
+    "name": "NEWGEN CLEANING SERVICES",
+    "address": "#101 1915 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "status": "active",
+    "issuedDate": "2024-10-02T07:41:14.000Z",
+    "expiryDate": "2026-10-01T07:41:13.000Z",
+    "coordinates": [
+      -114.0141726,
+      51.0760896
+    ],
+    "longitude": -114.0141726,
+    "latitude": 51.0760896,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

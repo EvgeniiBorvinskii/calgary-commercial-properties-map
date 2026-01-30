@@ -1,0 +1,36 @@
+{
+  "id": "16028110",
+  "fullDetails": {
+    "licenseNumber": "16028110",
+    "name": "SPIRIT WARES",
+    "address": "#A 1008 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2021-07-14T12:21:29.000Z",
+    "expiryDate": "2026-07-13T12:21:29.000Z",
+    "coordinates": [
+      -114.0389749,
+      51.1027412
+    ],
+    "longitude": -114.0389749,
+    "latitude": 51.1027412,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

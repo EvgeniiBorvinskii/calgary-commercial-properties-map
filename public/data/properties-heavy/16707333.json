@@ -1,0 +1,37 @@
+{
+  "id": "16707333",
+  "fullDetails": {
+    "licenseNumber": "16707333",
+    "name": "FITSET NINJA CALGARY",
+    "address": "3691 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-12-03T11:20:46.000Z",
+    "expiryDate": "2026-12-02T11:20:46.000Z",
+    "coordinates": [
+      -114.0123819,
+      51.0855589
+    ],
+    "longitude": -114.0123819,
+    "latitude": 51.0855589,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

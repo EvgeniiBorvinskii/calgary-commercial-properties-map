@@ -1,0 +1,37 @@
+{
+  "id": "16147167",
+  "fullDetails": {
+    "licenseNumber": "16147167",
+    "name": "CCI TRUCK AND TRAILER REPAIR",
+    "address": "9220 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-07-26T11:37:29.000Z",
+    "expiryDate": "2026-07-25T11:37:29.000Z",
+    "coordinates": [
+      -113.9631314,
+      50.9710628
+    ],
+    "longitude": -113.9631314,
+    "latitude": 50.9710628,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

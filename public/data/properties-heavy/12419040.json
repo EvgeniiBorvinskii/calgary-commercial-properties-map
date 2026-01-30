@@ -1,0 +1,36 @@
+{
+  "id": "12419040",
+  "fullDetails": {
+    "licenseNumber": "12419040",
+    "name": "STAR LIQUOR & WINE BOUTIQUE",
+    "address": "#242 15566 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2005-11-01T09:19:06.000Z",
+    "expiryDate": "2026-10-31T09:19:05.000Z",
+    "coordinates": [
+      -113.9501305,
+      50.9127
+    ],
+    "longitude": -113.9501305,
+    "latitude": 50.9127,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

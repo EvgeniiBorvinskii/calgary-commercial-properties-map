@@ -1,0 +1,37 @@
+{
+  "id": "16475824",
+  "fullDetails": {
+    "licenseNumber": "16475824",
+    "name": "MONTESSA MASSAGE AND SKINCARE",
+    "address": "#100 809 MANNING RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-05-21T09:29:16.000Z",
+    "expiryDate": "2026-05-20T09:29:16.000Z",
+    "coordinates": [
+      -114.0198048,
+      51.0583912
+    ],
+    "longitude": -114.0198048,
+    "latitude": 51.0583912,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

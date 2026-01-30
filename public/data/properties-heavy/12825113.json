@@ -1,0 +1,36 @@
+{
+  "id": "12825113",
+  "fullDetails": {
+    "licenseNumber": "12825113",
+    "name": "WILLIAM MORRIS OFFICE SOLUTIONS",
+    "address": "#19 2701 16 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2011-07-20T11:40:33.000Z",
+    "expiryDate": "2025-07-19T11:40:32.000Z",
+    "coordinates": [
+      -114.0227423,
+      51.0300969
+    ],
+    "longitude": -114.0227423,
+    "latitude": 51.0300969,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

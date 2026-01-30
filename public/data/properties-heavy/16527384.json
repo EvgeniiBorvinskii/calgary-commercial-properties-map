@@ -1,0 +1,37 @@
+{
+  "id": "16527384",
+  "fullDetails": {
+    "licenseNumber": "16527384",
+    "name": "HAIDARY SNOOKER ACADEMY",
+    "address": "#15 2115 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-10-15T12:28:35.000Z",
+    "expiryDate": "2026-10-14T12:28:35.000Z",
+    "coordinates": [
+      -114.0093787,
+      51.0760151
+    ],
+    "longitude": -114.0093787,
+    "latitude": 51.0760151,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "217257",
+  "fullDetails": {
+    "licenseNumber": "217257",
+    "name": "STANDARD PIANO SALES & SERVICE",
+    "address": "1332 11 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0930677,
+      51.0435166
+    ],
+    "longitude": -114.0930677,
+    "latitude": 51.0435166,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

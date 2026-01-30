@@ -1,0 +1,37 @@
+{
+  "id": "16494775",
+  "fullDetails": {
+    "licenseNumber": "16494775",
+    "name": "TRE VIETNAMESE KITCHEN",
+    "address": "#110 1414 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-07-05T11:28:17.000Z",
+    "expiryDate": "2026-07-04T11:28:17.000Z",
+    "coordinates": [
+      -114.0813119,
+      51.039795
+    ],
+    "longitude": -114.0813119,
+    "latitude": 51.039795,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14904056",
+  "fullDetails": {
+    "licenseNumber": "14904056",
+    "name": "RADIOCRAFTS",
+    "address": "710 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-07-04T16:12:54.000Z",
+    "expiryDate": "2026-07-03T16:12:54.000Z",
+    "coordinates": [
+      -114.0771263,
+      51.0671887
+    ],
+    "longitude": -114.0771263,
+    "latitude": 51.0671887,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

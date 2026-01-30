@@ -1,0 +1,36 @@
+{
+  "id": "13474119",
+  "fullDetails": {
+    "licenseNumber": "13474119",
+    "name": "CHEQUE PRINT SOLUTIONS",
+    "address": "#11 1215 LAKE SYLVAN DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2012-06-15T16:09:58.000Z",
+    "expiryDate": "2026-06-14T16:09:58.000Z",
+    "coordinates": [
+      -114.0329444,
+      50.9420251
+    ],
+    "longitude": -114.0329444,
+    "latitude": 50.9420251,
+    "community": "BONAVISTA DOWNS",
+    "ward": "BDO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

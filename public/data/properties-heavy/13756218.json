@@ -1,0 +1,36 @@
+{
+  "id": "13756218",
+  "fullDetails": {
+    "licenseNumber": "13756218",
+    "name": "MARLBOROUGH MALL SHOPPING CENTRE*",
+    "address": "3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "licenseTypes": "MARKET",
+    "status": "pending",
+    "issuedDate": "2014-03-01T05:32:46.000Z",
+    "expiryDate": "2026-02-28T05:32:46.000Z",
+    "coordinates": [
+      -113.9787915,
+      51.0551815
+    ],
+    "longitude": -113.9787915,
+    "latitude": 51.0551815,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

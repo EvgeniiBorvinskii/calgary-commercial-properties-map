@@ -1,0 +1,37 @@
+{
+  "id": "14416127",
+  "fullDetails": {
+    "licenseNumber": "14416127",
+    "name": "2110 FITNESS",
+    "address": "5824 BURBANK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "pending",
+    "issuedDate": "2017-02-27T15:08:04.000Z",
+    "expiryDate": "2026-02-26T15:08:04.000Z",
+    "coordinates": [
+      -114.0443422,
+      51.002596
+    ],
+    "longitude": -114.0443422,
+    "latitude": 51.002596,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

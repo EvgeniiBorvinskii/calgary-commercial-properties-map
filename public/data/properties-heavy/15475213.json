@@ -1,0 +1,36 @@
+{
+  "id": "15475213",
+  "fullDetails": {
+    "licenseNumber": "15475213",
+    "name": "KEY MECHANICAL",
+    "address": "#17 1916B 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-07-11T13:04:11.000Z",
+    "expiryDate": "2026-07-10T13:04:11.000Z",
+    "coordinates": [
+      -114.0134407,
+      51.0800119
+    ],
+    "longitude": -114.0134407,
+    "latitude": 51.0800119,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

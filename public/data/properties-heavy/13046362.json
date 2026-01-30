@@ -1,0 +1,37 @@
+{
+  "id": "13046362",
+  "fullDetails": {
+    "licenseNumber": "13046362",
+    "name": "BEST BUY MOBILE",
+    "address": "#120 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2010-12-10T11:02:19.000Z",
+    "expiryDate": "2026-12-09T11:02:19.000Z",
+    "coordinates": [
+      -113.9856967,
+      51.0744199
+    ],
+    "longitude": -113.9856967,
+    "latitude": 51.0744199,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

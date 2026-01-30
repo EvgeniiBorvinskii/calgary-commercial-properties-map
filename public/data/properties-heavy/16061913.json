@@ -1,0 +1,36 @@
+{
+  "id": "16061913",
+  "fullDetails": {
+    "licenseNumber": "16061913",
+    "name": "TCG MACHINES",
+    "address": "1212 34 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-09-14T15:45:00.000Z",
+    "expiryDate": "2026-09-13T15:45:00.000Z",
+    "coordinates": [
+      -114.0373098,
+      51.0235997
+    ],
+    "longitude": -114.0373098,
+    "latitude": 51.0235997,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

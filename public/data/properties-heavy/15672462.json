@@ -1,0 +1,37 @@
+{
+  "id": "15672462",
+  "fullDetails": {
+    "licenseNumber": "15672462",
+    "name": "ACADIA VISION CLINIC",
+    "address": "#4 675 ACADIA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2020-06-11T14:32:17.000Z",
+    "expiryDate": "2026-06-10T14:32:17.000Z",
+    "coordinates": [
+      -114.0462298,
+      50.9603413
+    ],
+    "longitude": -114.0462298,
+    "latitude": 50.9603413,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14021356",
+  "fullDetails": {
+    "licenseNumber": "14021356",
+    "name": "GREEN CIRCLE SALONS",
+    "address": "#6A 820 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2022-02-10T15:09:04.000Z",
+    "expiryDate": "2026-02-09T15:09:04.000Z",
+    "coordinates": [
+      -113.9914183,
+      51.059694
+    ],
+    "longitude": -113.9914183,
+    "latitude": 51.059694,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

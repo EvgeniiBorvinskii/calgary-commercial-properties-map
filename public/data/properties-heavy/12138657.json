@@ -1,0 +1,36 @@
+{
+  "id": "12138657",
+  "fullDetails": {
+    "licenseNumber": "12138657",
+    "name": "SCHLUMBERGER CANADA",
+    "address": "#500 444 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-04-09T05:34:04.000Z",
+    "expiryDate": "2026-04-08T05:34:04.000Z",
+    "coordinates": [
+      -114.0711708,
+      51.0488919
+    ],
+    "longitude": -114.0711708,
+    "latitude": 51.0488919,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

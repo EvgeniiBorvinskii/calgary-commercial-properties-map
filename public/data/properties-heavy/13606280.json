@@ -1,0 +1,36 @@
+{
+  "id": "13606280",
+  "fullDetails": {
+    "licenseNumber": "13606280",
+    "name": "HOLLYWOOD LOOK",
+    "address": "#32 55 CASTLERIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "pending",
+    "issuedDate": "2013-01-30T09:44:54.000Z",
+    "expiryDate": "2026-01-29T09:44:54.000Z",
+    "coordinates": [
+      -113.9622877,
+      51.0987053
+    ],
+    "longitude": -113.9622877,
+    "latitude": 51.0987053,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

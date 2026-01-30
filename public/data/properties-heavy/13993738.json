@@ -1,0 +1,36 @@
+{
+  "id": "13993738",
+  "fullDetails": {
+    "licenseNumber": "13993738",
+    "name": "VIVA MUSICA STUDIO",
+    "address": "#116 500 ROYAL OAK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-12-09T08:01:08.000Z",
+    "expiryDate": "2026-12-08T08:01:08.000Z",
+    "coordinates": [
+      -114.2335192,
+      51.1389108
+    ],
+    "longitude": -114.2335192,
+    "latitude": 51.1389108,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

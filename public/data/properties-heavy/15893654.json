@@ -1,0 +1,37 @@
+{
+  "id": "15893654",
+  "fullDetails": {
+    "licenseNumber": "15893654",
+    "name": "CIRCLE K #22162",
+    "address": "#100 11 HIDDEN CREEK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2020-05-25T09:41:53.000Z",
+    "expiryDate": "2026-05-24T09:41:53.000Z",
+    "coordinates": [
+      -114.1060506,
+      51.1544988
+    ],
+    "longitude": -114.1060506,
+    "latitude": 51.1544988,
+    "community": "HIDDEN VALLEY",
+    "ward": "HID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

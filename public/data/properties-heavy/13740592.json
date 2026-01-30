@@ -1,0 +1,36 @@
+{
+  "id": "13740592",
+  "fullDetails": {
+    "licenseNumber": "13740592",
+    "name": "NATIONAL TRANSMISSION",
+    "address": "4701 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2013-10-23T15:23:42.000Z",
+    "expiryDate": "2026-10-22T15:23:42.000Z",
+    "coordinates": [
+      -114.0670969,
+      51.0112153
+    ],
+    "longitude": -114.0670969,
+    "latitude": 51.0112153,
+    "community": "ELBOYA",
+    "ward": "EYA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

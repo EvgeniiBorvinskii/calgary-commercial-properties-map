@@ -1,0 +1,37 @@
+{
+  "id": "14024574",
+  "fullDetails": {
+    "licenseNumber": "14024574",
+    "name": "COOLVAPE",
+    "address": "#118 5403 CROWCHILD TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "VAPE RETAILER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2016-01-08T08:54:12.000Z",
+    "expiryDate": "2027-01-07T08:54:12.000Z",
+    "coordinates": [
+      -114.1652463,
+      51.1038963
+    ],
+    "longitude": -114.1652463,
+    "latitude": 51.1038963,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

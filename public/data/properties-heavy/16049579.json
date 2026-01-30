@@ -1,0 +1,36 @@
+{
+  "id": "16049579",
+  "fullDetails": {
+    "licenseNumber": "16049579",
+    "name": "FOUR20 PREMIUM MARKET",
+    "address": "3011 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2021-07-05T15:37:46.000Z",
+    "expiryDate": "2026-07-04T15:37:45.000Z",
+    "coordinates": [
+      -114.130162,
+      51.0299535
+    ],
+    "longitude": -114.130162,
+    "latitude": 51.0299535,
+    "community": "KILLARNEY/GLENGARRY",
+    "ward": "KIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

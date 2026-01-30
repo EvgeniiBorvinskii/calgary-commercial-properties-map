@@ -1,0 +1,36 @@
+{
+  "id": "15856651",
+  "fullDetails": {
+    "licenseNumber": "15856651",
+    "name": "SONI COLLECTIONS",
+    "address": "#517 5075 FALCONRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-08-19T09:28:18.000Z",
+    "expiryDate": "2026-08-18T09:28:18.000Z",
+    "coordinates": [
+      -113.9614111,
+      51.0968427
+    ],
+    "longitude": -113.9614111,
+    "latitude": 51.0968427,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

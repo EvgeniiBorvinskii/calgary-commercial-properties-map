@@ -1,0 +1,36 @@
+{
+  "id": "13876537",
+  "fullDetails": {
+    "licenseNumber": "13876537",
+    "name": "AFRICAN CHOICE MARKET",
+    "address": "#12 2010 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-05-22T13:55:10.000Z",
+    "expiryDate": "2026-05-21T13:55:09.000Z",
+    "coordinates": [
+      -114.0106384,
+      51.0800636
+    ],
+    "longitude": -114.0106384,
+    "latitude": 51.0800636,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

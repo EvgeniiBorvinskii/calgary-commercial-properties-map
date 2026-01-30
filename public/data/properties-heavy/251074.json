@@ -1,0 +1,37 @@
+{
+  "id": "251074",
+  "fullDetails": {
+    "licenseNumber": "251074",
+    "name": "D W ROURKE & ASSOCIATES*",
+    "address": "#9 6325 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALARM AGENCY",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "ALARM AGENCY,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-10-13T15:44:44.000Z",
+    "expiryDate": "2026-10-12T15:44:44.000Z",
+    "coordinates": [
+      -114.0368721,
+      50.9961506
+    ],
+    "longitude": -114.0368721,
+    "latitude": 50.9961506,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

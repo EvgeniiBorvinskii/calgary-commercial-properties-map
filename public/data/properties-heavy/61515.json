@@ -1,0 +1,37 @@
+{
+  "id": "61515",
+  "fullDetails": {
+    "licenseNumber": "61515",
+    "name": "CALGARY MARLBOROUGH COMMUNITY",
+    "address": "636 MARLBOROUGH WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -113.9742016,
+      51.058262
+    ],
+    "longitude": -113.9742016,
+    "latitude": 51.058262,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

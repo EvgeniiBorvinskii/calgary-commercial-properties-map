@@ -1,0 +1,36 @@
+{
+  "id": "13236955",
+  "fullDetails": {
+    "licenseNumber": "13236955",
+    "name": "CINNAMON GIRL CLINIC",
+    "address": "#208 4616 VALIANT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2018-11-15T12:02:11.000Z",
+    "expiryDate": "2026-11-14T12:02:11.000Z",
+    "coordinates": [
+      -114.1532646,
+      51.0913435
+    ],
+    "longitude": -114.1532646,
+    "latitude": 51.0913435,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

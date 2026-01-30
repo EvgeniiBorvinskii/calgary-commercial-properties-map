@@ -1,0 +1,36 @@
+{
+  "id": "14723928",
+  "fullDetails": {
+    "licenseNumber": "14723928",
+    "name": "ALBERTA CASH REGISTER POS SYSTEMS",
+    "address": "#120 3025 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-11-01T09:20:05.000Z",
+    "expiryDate": "2026-10-31T09:20:05.000Z",
+    "coordinates": [
+      -114.0270129,
+      51.0791968
+    ],
+    "longitude": -114.0270129,
+    "latitude": 51.0791968,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14060651",
+  "fullDetails": {
+    "licenseNumber": "14060651",
+    "name": "STRUCTUBE",
+    "address": "#500 5155 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-01-08T08:59:25.000Z",
+    "expiryDate": "2027-01-07T08:59:25.000Z",
+    "coordinates": [
+      -113.9589306,
+      50.9308694
+    ],
+    "longitude": -113.9589306,
+    "latitude": 50.9308694,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

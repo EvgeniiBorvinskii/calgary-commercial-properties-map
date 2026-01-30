@@ -1,0 +1,36 @@
+{
+  "id": "15381619",
+  "fullDetails": {
+    "licenseNumber": "15381619",
+    "name": "DISCOVERY POINTE",
+    "address": "1121 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-09-26T14:37:27.000Z",
+    "expiryDate": "2026-09-25T14:37:27.000Z",
+    "coordinates": [
+      -114.0881276,
+      51.0478981
+    ],
+    "longitude": -114.0881276,
+    "latitude": 51.0478981,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

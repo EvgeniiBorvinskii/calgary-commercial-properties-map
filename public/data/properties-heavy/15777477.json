@@ -1,0 +1,37 @@
+{
+  "id": "15777477",
+  "fullDetails": {
+    "licenseNumber": "15777477",
+    "name": "MEDIMAX PHARMACY",
+    "address": "#240 520 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-03T10:35:23.000Z",
+    "expiryDate": "2026-10-02T10:35:23.000Z",
+    "coordinates": [
+      -114.0721274,
+      51.0508666
+    ],
+    "longitude": -114.0721274,
+    "latitude": 51.0508666,
+    "community": "EAU CLAIRE",
+    "ward": "EAU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

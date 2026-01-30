@@ -1,0 +1,36 @@
+{
+  "id": "551267",
+  "fullDetails": {
+    "licenseNumber": "551267",
+    "name": "CAPITAL PAPER RECYCLING",
+    "address": "10595 50 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2013-02-13T05:32:53.000Z",
+    "expiryDate": "2026-02-12T05:32:53.000Z",
+    "coordinates": [
+      -113.9618109,
+      50.9590112
+    ],
+    "longitude": -113.9618109,
+    "latitude": 50.9590112,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

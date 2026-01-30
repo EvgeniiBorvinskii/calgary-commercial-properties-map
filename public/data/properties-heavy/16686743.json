@@ -1,0 +1,36 @@
+{
+  "id": "16686743",
+  "fullDetails": {
+    "licenseNumber": "16686743",
+    "name": "ASCENT HEALTH AND SPORT THERAPY",
+    "address": "#110 4530 QUESNAY WOOD DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-27T10:20:53.000Z",
+    "expiryDate": "2026-11-26T10:20:53.000Z",
+    "coordinates": [
+      -114.1231443,
+      51.0139637
+    ],
+    "longitude": -114.1231443,
+    "latitude": 51.0139637,
+    "community": "CURRIE BARRACKS",
+    "ward": "CUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16357352",
+  "fullDetails": {
+    "licenseNumber": "16357352",
+    "name": "SUPER 8 BY WYNDHAM SHAWNESSY",
+    "address": "60 SHAWVILLE RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "HOTEL/MOTEL",
+    "licenseTypes": "HOTEL/MOTEL",
+    "status": "active",
+    "issuedDate": "2023-07-14T11:58:21.000Z",
+    "expiryDate": "2026-07-13T11:58:21.000Z",
+    "coordinates": [
+      -114.0617632,
+      50.9023592
+    ],
+    "longitude": -114.0617632,
+    "latitude": 50.9023592,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

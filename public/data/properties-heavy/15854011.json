@@ -1,0 +1,36 @@
+{
+  "id": "15854011",
+  "fullDetails": {
+    "licenseNumber": "15854011",
+    "name": "EDO JAPAN",
+    "address": "#78 2000 AIRPORT RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-12-10T10:53:17.000Z",
+    "expiryDate": "2026-12-09T10:53:17.000Z",
+    "coordinates": [
+      -114.0111217,
+      51.1310716
+    ],
+    "longitude": -114.0111217,
+    "latitude": 51.1310716,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16313603",
+  "fullDetails": {
+    "licenseNumber": "16313603",
+    "name": "RAVEN HEAVY DUTY",
+    "address": "#110 7470 108 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-03-07T10:05:22.000Z",
+    "expiryDate": "2026-03-06T10:05:21.000Z",
+    "coordinates": [
+      -113.9238469,
+      50.9577028
+    ],
+    "longitude": -113.9238469,
+    "latitude": 50.9577028,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

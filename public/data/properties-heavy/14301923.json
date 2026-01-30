@@ -1,0 +1,37 @@
+{
+  "id": "14301923",
+  "fullDetails": {
+    "licenseNumber": "14301923",
+    "name": "GRIFFELS CUSTOM FINISHING AND MILLWORK",
+    "address": "9212 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "MANUFACTURER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2021-07-14T09:16:11.000Z",
+    "expiryDate": "2026-07-13T09:16:11.000Z",
+    "coordinates": [
+      -114.0738693,
+      50.9730766
+    ],
+    "longitude": -114.0738693,
+    "latitude": 50.9730766,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

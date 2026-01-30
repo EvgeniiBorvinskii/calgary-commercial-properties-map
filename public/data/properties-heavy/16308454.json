@@ -1,0 +1,37 @@
+{
+  "id": "16308454",
+  "fullDetails": {
+    "licenseNumber": "16308454",
+    "name": "TEN DOLLAR CLOTHING",
+    "address": "#113 2323 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-10-05T09:32:43.000Z",
+    "expiryDate": "2026-10-04T09:32:43.000Z",
+    "coordinates": [
+      -114.0057548,
+      51.0804775
+    ],
+    "longitude": -114.0057548,
+    "latitude": 51.0804775,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14043434",
+  "fullDetails": {
+    "licenseNumber": "14043434",
+    "name": "ALL TYPE ELECTRIC",
+    "address": "#3 5935 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-02-04T05:33:56.000Z",
+    "expiryDate": "2027-02-03T05:33:56.000Z",
+    "coordinates": [
+      -113.9857788,
+      51.0010446
+    ],
+    "longitude": -113.9857788,
+    "latitude": 51.0010446,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

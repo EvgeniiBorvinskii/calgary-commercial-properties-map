@@ -1,0 +1,36 @@
+{
+  "id": "203828",
+  "fullDetails": {
+    "licenseNumber": "203828",
+    "name": "RADAFAB OILFIELD & INDUSTRIAL SUPPLY",
+    "address": "#A 7652 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-11-23T15:53:01.000Z",
+    "expiryDate": "2026-11-22T15:53:01.000Z",
+    "coordinates": [
+      -113.9763814,
+      50.985988
+    ],
+    "longitude": -113.9763814,
+    "latitude": 50.985988,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

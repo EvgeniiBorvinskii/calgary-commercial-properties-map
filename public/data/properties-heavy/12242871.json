@@ -1,0 +1,36 @@
+{
+  "id": "12242871",
+  "fullDetails": {
+    "licenseNumber": "12242871",
+    "name": "FASTRAC AUTO SERVICE",
+    "address": "#403 4656 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2003-11-20T11:15:52.000Z",
+    "expiryDate": "2026-11-19T11:15:52.000Z",
+    "coordinates": [
+      -113.9671655,
+      51.1009609
+    ],
+    "longitude": -113.9671655,
+    "latitude": 51.1009609,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

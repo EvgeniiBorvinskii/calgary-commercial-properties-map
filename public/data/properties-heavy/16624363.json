@@ -1,0 +1,36 @@
+{
+  "id": "16624363",
+  "fullDetails": {
+    "licenseNumber": "16624363",
+    "name": "FIRST CHOICE HAIR",
+    "address": "4816 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-07-08T10:28:49.000Z",
+    "expiryDate": "2026-07-07T10:28:48.000Z",
+    "coordinates": [
+      -114.1556439,
+      51.0189916
+    ],
+    "longitude": -114.1556439,
+    "latitude": 51.0189916,
+    "community": "GLENBROOK",
+    "ward": "GBK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

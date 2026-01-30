@@ -1,0 +1,36 @@
+{
+  "id": "14048672",
+  "fullDetails": {
+    "licenseNumber": "14048672",
+    "name": "SHOEMAKER DRYWALL SUPPLIES",
+    "address": "#121 5555 69 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2016-03-09T08:17:42.000Z",
+    "expiryDate": "2026-03-08T08:17:42.000Z",
+    "coordinates": [
+      -113.9526871,
+      50.9919047
+    ],
+    "longitude": -113.9526871,
+    "latitude": 50.9919047,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

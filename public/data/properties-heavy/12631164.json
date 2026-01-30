@@ -1,0 +1,36 @@
+{
+  "id": "12631164",
+  "fullDetails": {
+    "licenseNumber": "12631164",
+    "name": "ADLER FIRESTOPPING",
+    "address": "#1 3800 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-06-12T14:59:05.000Z",
+    "expiryDate": "2026-06-11T14:59:05.000Z",
+    "coordinates": [
+      -114.0106507,
+      51.0867785
+    ],
+    "longitude": -114.0106507,
+    "latitude": 51.0867785,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

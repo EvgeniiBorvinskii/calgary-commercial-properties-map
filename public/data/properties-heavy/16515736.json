@@ -1,0 +1,36 @@
+{
+  "id": "16515736",
+  "fullDetails": {
+    "licenseNumber": "16515736",
+    "name": "PRIME LUXURY HOMES",
+    "address": "#3246 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-02-05T15:10:27.000Z",
+    "expiryDate": "2027-02-04T15:10:26.000Z",
+    "coordinates": [
+      -113.9714116,
+      51.1484024
+    ],
+    "longitude": -113.9714116,
+    "latitude": 51.1484024,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12884987",
+  "fullDetails": {
+    "licenseNumber": "12884987",
+    "name": "ACADIA PLACE (ONE)",
+    "address": "331 HERITAGE DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nAPARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2010-07-02T13:12:27.000Z",
+    "expiryDate": "2026-08-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0625349,
+      50.9788775
+    ],
+    "longitude": -114.0625349,
+    "latitude": 50.9788775,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

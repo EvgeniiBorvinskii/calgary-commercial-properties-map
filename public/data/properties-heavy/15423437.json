@@ -1,0 +1,36 @@
+{
+  "id": "15423437",
+  "fullDetails": {
+    "licenseNumber": "15423437",
+    "name": "DEBBIE'S HAIR SERVICES",
+    "address": "149 PROVIDENCE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "licenseTypes": "PERSONAL SERVICE (INDEPENDENT CHAIR OPERATOR)",
+    "status": "pending",
+    "issuedDate": "2019-03-29T09:31:06.000Z",
+    "expiryDate": "2026-03-28T09:31:06.000Z",
+    "coordinates": [
+      -114.0636072,
+      50.9208658
+    ],
+    "longitude": -114.0636072,
+    "latitude": 50.9208658,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13225024",
+  "fullDetails": {
+    "licenseNumber": "13225024",
+    "name": "URBAN MOBILITY",
+    "address": "#100 7326 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "in_progress",
+    "issuedDate": "2024-04-26T05:33:40.000Z",
+    "expiryDate": "2026-04-25T05:33:40.000Z",
+    "coordinates": [
+      -114.0392781,
+      51.1182231
+    ],
+    "longitude": -114.0392781,
+    "latitude": 51.1182231,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

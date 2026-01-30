@@ -1,0 +1,36 @@
+{
+  "id": "13710181",
+  "fullDetails": {
+    "licenseNumber": "13710181",
+    "name": "GOOD HEART CAFE",
+    "address": "#100A 1011 GLENMORE TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2013-07-31T05:32:11.000Z",
+    "expiryDate": "2026-07-30T05:32:11.000Z",
+    "coordinates": [
+      -114.0855533,
+      50.993729
+    ],
+    "longitude": -114.0855533,
+    "latitude": 50.993729,
+    "community": "KELVIN GROVE",
+    "ward": "KEL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

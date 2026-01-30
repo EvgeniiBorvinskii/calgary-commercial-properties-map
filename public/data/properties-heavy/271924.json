@@ -1,0 +1,36 @@
+{
+  "id": "271924",
+  "fullDetails": {
+    "licenseNumber": "271924",
+    "name": "AMRIZE CANADA",
+    "address": "13012 85 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-06-24T00:00:00.000Z",
+    "coordinates": [
+      -114.2045586,
+      51.1701663
+    ],
+    "longitude": -114.2045586,
+    "latitude": 51.1701663,
+    "community": "RESIDUAL WARD 2 - SUB AREA 2B",
+    "ward": "02B",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

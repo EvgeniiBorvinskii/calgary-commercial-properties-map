@@ -1,0 +1,36 @@
+{
+  "id": "14597587",
+  "fullDetails": {
+    "licenseNumber": "14597587",
+    "name": "SUZANNE'S",
+    "address": "#114A 1600 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-09-21T14:37:06.000Z",
+    "expiryDate": "2026-09-20T14:37:06.000Z",
+    "coordinates": [
+      -114.0984721,
+      50.9743203
+    ],
+    "longitude": -114.0984721,
+    "latitude": 50.9743203,
+    "community": "BAYVIEW",
+    "ward": "BYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

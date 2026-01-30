@@ -1,0 +1,36 @@
+{
+  "id": "13833751",
+  "fullDetails": {
+    "licenseNumber": "13833751",
+    "name": "PEROGY BOYZ FOOD TRUCK  (CGY-101)",
+    "address": "#102 3740A 11A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "active",
+    "issuedDate": "2014-06-04T11:42:44.000Z",
+    "expiryDate": "2026-06-03T11:42:43.000Z",
+    "coordinates": [
+      -114.0345038,
+      51.0855616
+    ],
+    "longitude": -114.0345038,
+    "latitude": 51.0855616,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

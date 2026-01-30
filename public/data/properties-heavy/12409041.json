@@ -1,0 +1,36 @@
+{
+  "id": "12409041",
+  "fullDetails": {
+    "licenseNumber": "12409041",
+    "name": "V-WEST INDUSTRIAL SUPPLIES",
+    "address": "#3 1420 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2012-04-03T14:33:29.000Z",
+    "expiryDate": "2026-04-02T14:33:29.000Z",
+    "coordinates": [
+      -114.0289948,
+      51.0891307
+    ],
+    "longitude": -114.0289948,
+    "latitude": 51.0891307,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

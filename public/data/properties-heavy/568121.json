@@ -1,0 +1,37 @@
+{
+  "id": "568121",
+  "fullDetails": {
+    "licenseNumber": "568121",
+    "name": "AWARE360",
+    "address": "#320 2000 VETERAN'S PL NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "WHOLESALER",
+    "licenseTypes": "MANUFACTURER,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2021-06-30T12:25:23.000Z",
+    "expiryDate": "2026-06-29T12:25:23.000Z",
+    "coordinates": [
+      -114.1453048,
+      51.0653699
+    ],
+    "longitude": -114.1453048,
+    "latitude": 51.0653699,
+    "community": "PARKDALE",
+    "ward": "PKD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16630600",
+  "fullDetails": {
+    "licenseNumber": "16630600",
+    "name": "BAEKBAN 1988",
+    "address": "#167 328 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-07-10T16:35:53.000Z",
+    "expiryDate": "2026-07-09T16:35:53.000Z",
+    "coordinates": [
+      -114.0617526,
+      51.0495717
+    ],
+    "longitude": -114.0617526,
+    "latitude": 51.0495717,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

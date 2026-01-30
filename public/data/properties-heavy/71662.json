@@ -1,0 +1,36 @@
+{
+  "id": "71662",
+  "fullDetails": {
+    "licenseNumber": "71662",
+    "name": "MUD MASTER DRILLING FLUID SERVICES",
+    "address": "#1000 639 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2018-04-03T15:15:04.000Z",
+    "expiryDate": "2026-04-02T15:15:04.000Z",
+    "coordinates": [
+      -114.0755618,
+      51.0484719
+    ],
+    "longitude": -114.0755618,
+    "latitude": 51.0484719,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

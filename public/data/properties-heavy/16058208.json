@@ -1,0 +1,36 @@
+{
+  "id": "16058208",
+  "fullDetails": {
+    "licenseNumber": "16058208",
+    "name": "GLOBAL WIDE AUTO RECYCLING AND PARTS",
+    "address": "3828 15A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE YARD/AUTO WRECKER",
+    "licenseTypes": "SALVAGE YARD/AUTO WRECKER",
+    "status": "active",
+    "issuedDate": "2021-09-27T15:48:45.000Z",
+    "expiryDate": "2026-09-26T15:48:45.000Z",
+    "coordinates": [
+      -114.0232623,
+      51.0214241
+    ],
+    "longitude": -114.0232623,
+    "latitude": 51.0214241,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

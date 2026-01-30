@@ -1,0 +1,36 @@
+{
+  "id": "121491",
+  "fullDetails": {
+    "licenseNumber": "121491",
+    "name": "FLEXMASTER",
+    "address": "#130 1329 45 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2004-04-05T08:29:04.000Z",
+    "expiryDate": "2026-04-04T08:29:04.000Z",
+    "coordinates": [
+      -114.0314357,
+      51.0926766
+    ],
+    "longitude": -114.0314357,
+    "latitude": 51.0926766,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

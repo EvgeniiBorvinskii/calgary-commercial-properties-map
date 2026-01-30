@@ -1,0 +1,36 @@
+{
+  "id": "16681660",
+  "fullDetails": {
+    "licenseNumber": "16681660",
+    "name": "ELVA",
+    "address": "320 25 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-11-18T12:35:59.000Z",
+    "expiryDate": "2026-11-17T12:35:59.000Z",
+    "coordinates": [
+      -114.0702487,
+      51.0308209
+    ],
+    "longitude": -114.0702487,
+    "latitude": 51.0308209,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

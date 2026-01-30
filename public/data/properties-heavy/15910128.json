@@ -1,0 +1,36 @@
+{
+  "id": "15910128",
+  "fullDetails": {
+    "licenseNumber": "15910128",
+    "name": "WORKSITE SAFETY COMPLIANCE CENTRE",
+    "address": "#218 5126 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-10-22T09:05:20.000Z",
+    "expiryDate": "2026-10-21T09:05:20.000Z",
+    "coordinates": [
+      -113.9621445,
+      50.9354706
+    ],
+    "longitude": -113.9621445,
+    "latitude": 50.9354706,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13014170",
+  "fullDetails": {
+    "licenseNumber": "13014170",
+    "name": "TOWER CLEANERS (MANCHESTER)",
+    "address": "402 53 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2011-10-27T05:54:44.000Z",
+    "expiryDate": "2026-10-26T05:54:44.000Z",
+    "coordinates": [
+      -114.056549,
+      51.0063406
+    ],
+    "longitude": -114.056549,
+    "latitude": 51.0063406,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

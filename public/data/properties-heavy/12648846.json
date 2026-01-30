@@ -1,0 +1,37 @@
+{
+  "id": "12648846",
+  "fullDetails": {
+    "licenseNumber": "12648846",
+    "name": "SHOPPERS DRUG MART",
+    "address": "11700 SARCEE TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2008-03-27T15:15:23.000Z",
+    "expiryDate": "2026-03-26T15:15:23.000Z",
+    "coordinates": [
+      -114.1603982,
+      51.1576679
+    ],
+    "longitude": -114.1603982,
+    "latitude": 51.1576679,
+    "community": "SHERWOOD",
+    "ward": "SHW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

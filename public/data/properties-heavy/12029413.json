@@ -1,0 +1,36 @@
+{
+  "id": "12029413",
+  "fullDetails": {
+    "licenseNumber": "12029413",
+    "name": "SPEEDPRO SIGNS",
+    "address": "#5 3700 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2017-01-26T17:20:47.000Z",
+    "expiryDate": "2027-01-25T17:20:47.000Z",
+    "coordinates": [
+      -114.0107438,
+      51.085522
+    ],
+    "longitude": -114.0107438,
+    "latitude": 51.085522,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

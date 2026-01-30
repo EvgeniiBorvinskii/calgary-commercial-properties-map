@@ -1,0 +1,37 @@
+{
+  "id": "16078354",
+  "fullDetails": {
+    "licenseNumber": "16078354",
+    "name": "GREAT CLIPS",
+    "address": "#211 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-09-09T08:53:44.000Z",
+    "expiryDate": "2026-09-08T08:53:44.000Z",
+    "coordinates": [
+      -114.1121905,
+      50.9052968
+    ],
+    "longitude": -114.1121905,
+    "latitude": 50.9052968,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

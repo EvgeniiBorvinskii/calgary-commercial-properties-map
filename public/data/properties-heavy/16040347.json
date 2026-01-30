@@ -1,0 +1,36 @@
+{
+  "id": "16040347",
+  "fullDetails": {
+    "licenseNumber": "16040347",
+    "name": "NEWELL OUTDOORS",
+    "address": "6023 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "pending",
+    "issuedDate": "2024-04-17T08:26:57.000Z",
+    "expiryDate": "2026-04-16T08:26:57.000Z",
+    "coordinates": [
+      -114.0544065,
+      50.9998948
+    ],
+    "longitude": -114.0544065,
+    "latitude": 50.9998948,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

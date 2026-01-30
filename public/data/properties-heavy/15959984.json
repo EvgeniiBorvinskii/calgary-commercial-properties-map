@@ -1,0 +1,36 @@
+{
+  "id": "15959984",
+  "fullDetails": {
+    "licenseNumber": "15959984",
+    "name": "MK DIESEL TRUCK AND TRAILER REPAIR",
+    "address": "8616E 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2020-12-07T10:35:08.000Z",
+    "expiryDate": "2026-12-06T10:35:08.000Z",
+    "coordinates": [
+      -113.9692756,
+      50.9761219
+    ],
+    "longitude": -113.9692756,
+    "latitude": 50.9761219,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

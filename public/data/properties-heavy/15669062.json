@@ -1,0 +1,36 @@
+{
+  "id": "15669062",
+  "fullDetails": {
+    "licenseNumber": "15669062",
+    "name": "STARBUCKS BOOKSTORE",
+    "address": "2500 UNIVERSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2019-08-01T15:14:55.000Z",
+    "expiryDate": "2026-07-31T15:14:55.000Z",
+    "coordinates": [
+      -114.128642,
+      51.0745912
+    ],
+    "longitude": -114.128642,
+    "latitude": 51.0745912,
+    "community": "UNIVERSITY HEIGHTS",
+    "ward": "UNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

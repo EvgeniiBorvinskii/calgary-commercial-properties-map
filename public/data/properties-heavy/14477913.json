@@ -1,0 +1,36 @@
+{
+  "id": "14477913",
+  "fullDetails": {
+    "licenseNumber": "14477913",
+    "name": "PROJECT LANDSCAPE",
+    "address": "#4 3511 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-03-26T15:51:51.000Z",
+    "expiryDate": "2026-03-25T15:51:51.000Z",
+    "coordinates": [
+      -113.983829,
+      50.9949202
+    ],
+    "longitude": -113.983829,
+    "latitude": 50.9949202,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

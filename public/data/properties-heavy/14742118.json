@@ -1,0 +1,36 @@
+{
+  "id": "14742118",
+  "fullDetails": {
+    "licenseNumber": "14742118",
+    "name": "CHARGE SOLAR",
+    "address": "#119 1440 AVIATION PA NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-08-30T10:39:27.000Z",
+    "expiryDate": "2026-08-29T10:39:27.000Z",
+    "coordinates": [
+      -114.0301925,
+      51.1005013
+    ],
+    "longitude": -114.0301925,
+    "latitude": 51.1005013,
+    "community": "CALGARY INTERNATIONAL AIRPORT",
+    "ward": "CIA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

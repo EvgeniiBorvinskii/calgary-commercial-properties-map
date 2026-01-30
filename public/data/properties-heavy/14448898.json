@@ -1,0 +1,36 @@
+{
+  "id": "14448898",
+  "fullDetails": {
+    "licenseNumber": "14448898",
+    "name": "DAVE'S LIQUOR STORE",
+    "address": "1546 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2017-03-15T10:38:45.000Z",
+    "expiryDate": "2026-03-14T10:38:45.000Z",
+    "coordinates": [
+      -114.097768,
+      51.0672395
+    ],
+    "longitude": -114.097768,
+    "latitude": 51.0672395,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

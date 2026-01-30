@@ -1,0 +1,36 @@
+{
+  "id": "16451163",
+  "fullDetails": {
+    "licenseNumber": "16451163",
+    "name": "TWO PARK CENTRAL",
+    "address": "1111 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2025-01-30T15:53:34.000Z",
+    "expiryDate": "2027-01-29T15:53:33.000Z",
+    "coordinates": [
+      -114.0719346,
+      51.0423835
+    ],
+    "longitude": -114.0719346,
+    "latitude": 51.0423835,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

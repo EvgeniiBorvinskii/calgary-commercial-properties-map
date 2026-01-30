@@ -1,0 +1,37 @@
+{
+  "id": "15028228",
+  "fullDetails": {
+    "licenseNumber": "15028228",
+    "name": "LAST SPIKE BREWERY",
+    "address": "#40 5840 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE MANUFACTURER",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "ALCOHOL BEVERAGE MANUFACTURER,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-10-05T14:11:49.000Z",
+    "expiryDate": "2026-10-04T14:11:49.000Z",
+    "coordinates": [
+      -113.942047,
+      50.9859416
+    ],
+    "longitude": -113.942047,
+    "latitude": 50.9859416,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

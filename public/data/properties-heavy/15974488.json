@@ -1,0 +1,36 @@
+{
+  "id": "15974488",
+  "fullDetails": {
+    "licenseNumber": "15974488",
+    "name": "ALWAYS LIQUOR",
+    "address": "#1110 288 ST MORITZ DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2021-03-15T09:50:12.000Z",
+    "expiryDate": "2026-03-14T09:50:12.000Z",
+    "coordinates": [
+      -114.2127731,
+      51.033946
+    ],
+    "longitude": -114.2127731,
+    "latitude": 51.033946,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

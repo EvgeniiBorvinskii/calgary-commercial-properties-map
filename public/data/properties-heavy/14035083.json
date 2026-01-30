@@ -1,0 +1,36 @@
+{
+  "id": "14035083",
+  "fullDetails": {
+    "licenseNumber": "14035083",
+    "name": "TECKRA",
+    "address": "#2 6923 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-06-03T14:11:31.000Z",
+    "expiryDate": "2026-06-02T14:11:30.000Z",
+    "coordinates": [
+      -114.061661,
+      50.991808
+    ],
+    "longitude": -114.061661,
+    "latitude": 50.991808,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

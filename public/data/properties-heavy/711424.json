@@ -1,0 +1,36 @@
+{
+  "id": "711424",
+  "fullDetails": {
+    "licenseNumber": "711424",
+    "name": "BUD TORNBERG INTERIORS",
+    "address": "#218 5723 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-07-28T07:47:51.000Z",
+    "expiryDate": "2026-07-27T07:47:51.000Z",
+    "coordinates": [
+      -114.0396445,
+      51.1045686
+    ],
+    "longitude": -114.0396445,
+    "latitude": 51.1045686,
+    "community": "DEERFOOT BUSINESS CENTRE",
+    "ward": "DBC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

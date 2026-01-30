@@ -1,0 +1,36 @@
+{
+  "id": "13628193",
+  "fullDetails": {
+    "licenseNumber": "13628193",
+    "name": "CARSTAR EXPRESS",
+    "address": "14395 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2014-04-16T07:57:13.000Z",
+    "expiryDate": "2026-04-15T07:57:13.000Z",
+    "coordinates": [
+      -114.072594,
+      50.9231745
+    ],
+    "longitude": -114.072594,
+    "latitude": 50.9231745,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

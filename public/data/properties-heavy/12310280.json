@@ -1,0 +1,37 @@
+{
+  "id": "12310280",
+  "fullDetails": {
+    "licenseNumber": "12310280",
+    "name": "HARBOURS OF NEWPORT RETIREMENT RESIDENCE (THE)",
+    "address": "20 COUNTRY VILLAGE CV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2004-09-17T12:44:56.000Z",
+    "expiryDate": "2026-09-16T12:44:56.000Z",
+    "coordinates": [
+      -114.0591965,
+      51.1564436
+    ],
+    "longitude": -114.0591965,
+    "latitude": 51.1564436,
+    "community": "COUNTRY HILLS VILLAGE",
+    "ward": "CHV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

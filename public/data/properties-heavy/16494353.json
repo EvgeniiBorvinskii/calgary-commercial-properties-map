@@ -1,0 +1,36 @@
+{
+  "id": "16494353",
+  "fullDetails": {
+    "licenseNumber": "16494353",
+    "name": "GINGER BEEF KITCHEN",
+    "address": "#120 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-17T10:34:46.000Z",
+    "expiryDate": "2026-07-16T10:34:45.000Z",
+    "coordinates": [
+      -113.9880297,
+      51.0603819
+    ],
+    "longitude": -113.9880297,
+    "latitude": 51.0603819,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

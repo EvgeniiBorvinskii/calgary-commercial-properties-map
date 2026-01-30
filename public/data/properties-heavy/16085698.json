@@ -1,0 +1,36 @@
+{
+  "id": "16085698",
+  "fullDetails": {
+    "licenseNumber": "16085698",
+    "name": "KETO GRILL AND BAKERY",
+    "address": "#110 8900 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2022-01-26T12:33:06.000Z",
+    "expiryDate": "2026-01-25T12:33:06.000Z",
+    "coordinates": [
+      -114.0701819,
+      50.973745
+    ],
+    "longitude": -114.0701819,
+    "latitude": 50.973745,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

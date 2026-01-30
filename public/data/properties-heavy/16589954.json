@@ -1,0 +1,36 @@
+{
+  "id": "16589954",
+  "fullDetails": {
+    "licenseNumber": "16589954",
+    "name": "NANOTESS",
+    "address": "#105 816 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-09-26T09:36:02.000Z",
+    "expiryDate": "2026-09-25T09:36:01.000Z",
+    "coordinates": [
+      -114.0442447,
+      51.1030954
+    ],
+    "longitude": -114.0442447,
+    "latitude": 51.1030954,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

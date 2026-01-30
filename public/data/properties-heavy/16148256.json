@@ -1,0 +1,37 @@
+{
+  "id": "16148256",
+  "fullDetails": {
+    "licenseNumber": "16148256",
+    "name": "CENTRAL TAPS + FOOD - DISTRICT",
+    "address": "#110 224 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2022-04-08T11:48:16.000Z",
+    "expiryDate": "2026-04-07T11:48:16.000Z",
+    "coordinates": [
+      -114.0674246,
+      51.0419942
+    ],
+    "longitude": -114.0674246,
+    "latitude": 51.0419942,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

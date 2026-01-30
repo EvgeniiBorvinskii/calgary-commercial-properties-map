@@ -1,0 +1,36 @@
+{
+  "id": "931204",
+  "fullDetails": {
+    "licenseNumber": "931204",
+    "name": "CWS LOGISTICS",
+    "address": "#3 5625 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2013-09-18T13:50:46.000Z",
+    "expiryDate": "2026-09-17T13:50:46.000Z",
+    "coordinates": [
+      -113.9506872,
+      50.9985771
+    ],
+    "longitude": -113.9506872,
+    "latitude": 50.9985771,
+    "community": "STARFIELD",
+    "ward": "STD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

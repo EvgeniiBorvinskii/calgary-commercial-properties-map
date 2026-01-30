@@ -1,0 +1,36 @@
+{
+  "id": "14385694",
+  "fullDetails": {
+    "licenseNumber": "14385694",
+    "name": "AVACERO DEVELOPMENTS",
+    "address": "#6 624A BEAVER DAM RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2016-11-21T15:34:15.000Z",
+    "expiryDate": "2026-11-20T15:34:15.000Z",
+    "coordinates": [
+      -114.0495948,
+      51.10306
+    ],
+    "longitude": -114.0495948,
+    "latitude": 51.10306,
+    "community": "SKYLINE WEST",
+    "ward": "SKW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

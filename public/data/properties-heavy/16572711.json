@@ -1,0 +1,36 @@
+{
+  "id": "16572711",
+  "fullDetails": {
+    "licenseNumber": "16572711",
+    "name": "BRAHM-CRETE SYSTEMS",
+    "address": "5052 12A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2025-01-29T15:57:59.000Z",
+    "expiryDate": "2027-01-28T15:57:58.000Z",
+    "coordinates": [
+      -114.0348715,
+      51.0077204
+    ],
+    "longitude": -114.0348715,
+    "latitude": 51.0077204,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

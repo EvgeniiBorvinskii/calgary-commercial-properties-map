@@ -1,0 +1,36 @@
+{
+  "id": "12285037",
+  "fullDetails": {
+    "licenseNumber": "12285037",
+    "name": "RED EIGHT WORKSHOP",
+    "address": "950 55 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-10-01T09:29:52.000Z",
+    "expiryDate": "2026-09-30T09:29:51.000Z",
+    "coordinates": [
+      -114.0408815,
+      51.1026153
+    ],
+    "longitude": -114.0408815,
+    "latitude": 51.1026153,
+    "community": "SKYLINE EAST",
+    "ward": "SKE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

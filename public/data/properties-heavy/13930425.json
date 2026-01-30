@@ -1,0 +1,36 @@
+{
+  "id": "13930425",
+  "fullDetails": {
+    "licenseNumber": "13930425",
+    "name": "PIRATES LOOT TATTOO",
+    "address": "119 7 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2022-11-15T13:02:08.000Z",
+    "expiryDate": "2026-11-14T13:02:08.000Z",
+    "coordinates": [
+      -114.045896,
+      51.0530387
+    ],
+    "longitude": -114.045896,
+    "latitude": 51.0530387,
+    "community": "BRIDGELAND/RIVERSIDE",
+    "ward": "BRD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

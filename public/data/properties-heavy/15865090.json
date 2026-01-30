@@ -1,0 +1,36 @@
+{
+  "id": "15865090",
+  "fullDetails": {
+    "licenseNumber": "15865090",
+    "name": "SOUTHVIEW MANOR",
+    "address": "1535 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2020-04-06T13:33:16.000Z",
+    "expiryDate": "2026-04-05T13:33:16.000Z",
+    "coordinates": [
+      -114.0968038,
+      51.0302364
+    ],
+    "longitude": -114.0968038,
+    "latitude": 51.0302364,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

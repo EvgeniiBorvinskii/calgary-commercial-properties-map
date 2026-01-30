@@ -1,0 +1,37 @@
+{
+  "id": "12561023",
+  "fullDetails": {
+    "licenseNumber": "12561023",
+    "name": "VACUUM SPECIALIST",
+    "address": "3103 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2007-04-24T09:20:59.000Z",
+    "expiryDate": "2026-04-23T09:20:59.000Z",
+    "coordinates": [
+      -114.0629771,
+      51.079806
+    ],
+    "longitude": -114.0629771,
+    "latitude": 51.079806,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

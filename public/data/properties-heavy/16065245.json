@@ -1,0 +1,36 @@
+{
+  "id": "16065245",
+  "fullDetails": {
+    "licenseNumber": "16065245",
+    "name": "ULTIMATE DIESEL REPAIR",
+    "address": "#200 2612 58 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-09-02T13:45:29.000Z",
+    "expiryDate": "2026-09-01T13:45:29.000Z",
+    "coordinates": [
+      -114.0005762,
+      51.0043367
+    ],
+    "longitude": -114.0005762,
+    "latitude": 51.0043367,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

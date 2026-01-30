@@ -1,0 +1,36 @@
+{
+  "id": "687004",
+  "fullDetails": {
+    "licenseNumber": "687004",
+    "name": "LANDTRAN LOGISTICS",
+    "address": "#32 7095 64 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2017-12-21T15:55:54.000Z",
+    "expiryDate": "2026-12-20T15:55:54.000Z",
+    "coordinates": [
+      -113.9431479,
+      50.9915651
+    ],
+    "longitude": -113.9431479,
+    "latitude": 50.9915651,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

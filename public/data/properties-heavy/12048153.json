@@ -1,0 +1,37 @@
+{
+  "id": "12048153",
+  "fullDetails": {
+    "licenseNumber": "12048153",
+    "name": "STARBUCKS COFFEE #4423",
+    "address": "1120 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2002-02-27T17:24:14.000Z",
+    "expiryDate": "2026-02-26T05:32:22.000Z",
+    "coordinates": [
+      -114.0864233,
+      51.0672947
+    ],
+    "longitude": -114.0864233,
+    "latitude": 51.0672947,
+    "community": "CAPITOL HILL",
+    "ward": "CAP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16627895",
+  "fullDetails": {
+    "licenseNumber": "16627895",
+    "name": "78 CONSTRUCTION",
+    "address": "#1 2616 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-13T13:46:31.000Z",
+    "expiryDate": "2026-05-12T13:46:31.000Z",
+    "coordinates": [
+      -114.0183107,
+      51.0758661
+    ],
+    "longitude": -114.0183107,
+    "latitude": 51.0758661,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12908026",
+  "fullDetails": {
+    "licenseNumber": "12908026",
+    "name": "WENDY'S HAIR SALON",
+    "address": "#103 1540 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2010-05-07T16:11:35.000Z",
+    "expiryDate": "2026-05-06T16:11:35.000Z",
+    "coordinates": [
+      -114.1394918,
+      51.0966813
+    ],
+    "longitude": -114.1394918,
+    "latitude": 51.0966813,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "91041",
+  "fullDetails": {
+    "licenseNumber": "91041",
+    "name": "A M AGENCIES",
+    "address": "#118 4029 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2003-05-21T05:36:54.000Z",
+    "expiryDate": "2026-05-20T05:36:54.000Z",
+    "coordinates": [
+      -114.0439313,
+      51.0187533
+    ],
+    "longitude": -114.0439313,
+    "latitude": 51.0187533,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

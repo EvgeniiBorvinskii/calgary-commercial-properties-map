@@ -1,0 +1,37 @@
+{
+  "id": "12628905",
+  "fullDetails": {
+    "licenseNumber": "12628905",
+    "name": "STARBUCKS COFEE #4876",
+    "address": "#6115 15 SUNPARK PZ SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2008-05-14T14:32:26.000Z",
+    "expiryDate": "2026-05-13T14:32:26.000Z",
+    "coordinates": [
+      -114.0575622,
+      50.9046192
+    ],
+    "longitude": -114.0575622,
+    "latitude": 50.9046192,
+    "community": "SUNDANCE",
+    "ward": "SDC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

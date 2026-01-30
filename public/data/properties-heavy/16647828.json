@@ -1,0 +1,37 @@
+{
+  "id": "16647828",
+  "fullDetails": {
+    "licenseNumber": "16647828",
+    "name": "ASPEN SPRINGS PHARMACY",
+    "address": "#118 205 SPRING CREEK CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-04T08:57:44.000Z",
+    "expiryDate": "2026-07-03T08:57:43.000Z",
+    "coordinates": [
+      -114.2102167,
+      51.035713
+    ],
+    "longitude": -114.2102167,
+    "latitude": 51.035713,
+    "community": "SPRINGBANK HILL",
+    "ward": "SPH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

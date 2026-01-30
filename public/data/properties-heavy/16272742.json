@@ -1,0 +1,36 @@
+{
+  "id": "16272742",
+  "fullDetails": {
+    "licenseNumber": "16272742",
+    "name": "SAFE RIDE AUTO REPAIR",
+    "address": "#101 3716 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-12-21T08:18:57.000Z",
+    "expiryDate": "2026-12-20T08:18:57.000Z",
+    "coordinates": [
+      -113.9803203,
+      50.9998965
+    ],
+    "longitude": -113.9803203,
+    "latitude": 50.9998965,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

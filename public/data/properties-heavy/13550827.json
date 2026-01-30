@@ -1,0 +1,36 @@
+{
+  "id": "13550827",
+  "fullDetails": {
+    "licenseNumber": "13550827",
+    "name": "FREEDOM MOBILE",
+    "address": "#319 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-09-06T14:39:33.000Z",
+    "expiryDate": "2026-09-05T14:39:33.000Z",
+    "coordinates": [
+      -114.1109578,
+      50.9052353
+    ],
+    "longitude": -114.1109578,
+    "latitude": 50.9052353,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16604878",
+  "fullDetails": {
+    "licenseNumber": "16604878",
+    "name": "THE KUSH SPOT",
+    "address": "1711 CENTRE ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "pending",
+    "issuedDate": "2025-04-01T10:12:48.000Z",
+    "expiryDate": "2026-03-31T10:12:47.000Z",
+    "coordinates": [
+      -114.0628969,
+      51.0675055
+    ],
+    "longitude": -114.0628969,
+    "latitude": 51.0675055,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

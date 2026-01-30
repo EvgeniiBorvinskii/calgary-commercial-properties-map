@@ -1,0 +1,36 @@
+{
+  "id": "14289599",
+  "fullDetails": {
+    "licenseNumber": "14289599",
+    "name": "OPA SOUVLAKI OF GREECE",
+    "address": "#925 33 HERITAGE MEADOWS WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2016-09-29T08:44:30.000Z",
+    "expiryDate": "2026-09-28T08:44:30.000Z",
+    "coordinates": [
+      -114.0407005,
+      50.9820305
+    ],
+    "longitude": -114.0407005,
+    "latitude": 50.9820305,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

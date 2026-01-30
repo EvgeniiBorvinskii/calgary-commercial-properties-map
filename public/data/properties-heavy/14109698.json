@@ -1,0 +1,36 @@
+{
+  "id": "14109698",
+  "fullDetails": {
+    "licenseNumber": "14109698",
+    "name": "ZENO RENEWABLES",
+    "address": "#100 7909 FLINT RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "in_progress",
+    "issuedDate": "2023-08-31T12:21:54.000Z",
+    "expiryDate": "2025-08-30T12:21:54.000Z",
+    "coordinates": [
+      -114.0705092,
+      50.9830067
+    ],
+    "longitude": -114.0705092,
+    "latitude": 50.9830067,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

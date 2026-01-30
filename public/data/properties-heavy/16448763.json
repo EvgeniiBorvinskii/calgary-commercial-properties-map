@@ -1,0 +1,36 @@
+{
+  "id": "16448763",
+  "fullDetails": {
+    "licenseNumber": "16448763",
+    "name": "DIANOMIX",
+    "address": "6143 4 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-05-03T11:31:02.000Z",
+    "expiryDate": "2026-05-02T11:31:02.000Z",
+    "coordinates": [
+      -114.0544289,
+      50.9971372
+    ],
+    "longitude": -114.0544289,
+    "latitude": 50.9971372,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

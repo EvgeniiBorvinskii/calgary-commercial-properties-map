@@ -1,0 +1,37 @@
+{
+  "id": "14520415",
+  "fullDetails": {
+    "licenseNumber": "14520415",
+    "name": "BOSTON PIZZA",
+    "address": "#305 8560 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-09-27T14:05:21.000Z",
+    "expiryDate": "2026-09-26T14:05:21.000Z",
+    "coordinates": [
+      -114.2105608,
+      51.0622486
+    ],
+    "longitude": -114.2105608,
+    "latitude": 51.0622486,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16266090",
+  "fullDetails": {
+    "licenseNumber": "16266090",
+    "name": "T-BROS",
+    "address": "#3040 11124 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2025-03-04T17:27:57.000Z",
+    "expiryDate": "2026-03-03T17:27:56.000Z",
+    "coordinates": [
+      -113.9808038,
+      51.1522529
+    ],
+    "longitude": -113.9808038,
+    "latitude": 51.1522529,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

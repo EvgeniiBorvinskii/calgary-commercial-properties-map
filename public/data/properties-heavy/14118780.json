@@ -1,0 +1,36 @@
+{
+  "id": "14118780",
+  "fullDetails": {
+    "licenseNumber": "14118780",
+    "name": "PARADISE GEMS",
+    "address": "#1791 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-06T09:36:15.000Z",
+    "expiryDate": "2026-07-05T09:36:15.000Z",
+    "coordinates": [
+      -114.1017037,
+      51.0658762
+    ],
+    "longitude": -114.1017037,
+    "latitude": 51.0658762,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14259964",
+  "fullDetails": {
+    "licenseNumber": "14259964",
+    "name": "TONI KOHN JEWELRY",
+    "address": "#200 1029 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2016-07-26T12:54:49.000Z",
+    "expiryDate": "2026-07-25T12:54:49.000Z",
+    "coordinates": [
+      -114.0860767,
+      51.0375983
+    ],
+    "longitude": -114.0860767,
+    "latitude": 51.0375983,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

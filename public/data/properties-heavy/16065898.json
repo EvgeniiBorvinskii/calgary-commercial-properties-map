@@ -1,0 +1,36 @@
+{
+  "id": "16065898",
+  "fullDetails": {
+    "licenseNumber": "16065898",
+    "name": "QUINN'S AUTO SERVICE",
+    "address": "3401 SPRUCE DR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-02-02T10:23:32.000Z",
+    "expiryDate": "2027-02-01T10:23:32.000Z",
+    "coordinates": [
+      -114.1359826,
+      51.0484473
+    ],
+    "longitude": -114.1359826,
+    "latitude": 51.0484473,
+    "community": "SPRUCE CLIFF",
+    "ward": "SPR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

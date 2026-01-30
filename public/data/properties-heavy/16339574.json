@@ -1,0 +1,37 @@
+{
+  "id": "16339574",
+  "fullDetails": {
+    "licenseNumber": "16339574",
+    "name": "CIRCLE K 22166",
+    "address": "#300 10 CHAPARRAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2023-08-01T13:53:03.000Z",
+    "expiryDate": "2026-07-31T13:53:03.000Z",
+    "coordinates": [
+      -114.0256143,
+      50.886208
+    ],
+    "longitude": -114.0256143,
+    "latitude": 50.886208,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

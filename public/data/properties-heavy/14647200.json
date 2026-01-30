@@ -1,0 +1,37 @@
+{
+  "id": "14647200",
+  "fullDetails": {
+    "licenseNumber": "14647200",
+    "name": "MAC'S CONVENIENCE STORE #2116",
+    "address": "9909 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nVAPE RETAILER",
+    "status": "active",
+    "issuedDate": "2018-05-17T14:21:00.000Z",
+    "expiryDate": "2026-05-16T14:21:00.000Z",
+    "coordinates": [
+      -114.0592562,
+      50.9636771
+    ],
+    "longitude": -114.0592562,
+    "latitude": 50.9636771,
+    "community": "WILLOW PARK",
+    "ward": "WIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

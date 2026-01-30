@@ -1,0 +1,37 @@
+{
+  "id": "16314650",
+  "fullDetails": {
+    "licenseNumber": "16314650",
+    "name": "MADRASCAFE",
+    "address": "908 CITYSCAPE SQ NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-06-22T12:55:39.000Z",
+    "expiryDate": "2026-06-21T12:55:39.000Z",
+    "coordinates": [
+      -113.9675441,
+      51.146159
+    ],
+    "longitude": -113.9675441,
+    "latitude": 51.146159,
+    "community": "CITYSCAPE",
+    "ward": "CSC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

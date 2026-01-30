@@ -1,0 +1,37 @@
+{
+  "id": "15998693",
+  "fullDetails": {
+    "licenseNumber": "15998693",
+    "name": "ACE LIQUOR DISCOUNTER AT CHAPARRAL",
+    "address": "#111 10 CHAPARRAL DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-04-21T07:33:55.000Z",
+    "expiryDate": "2026-04-20T07:33:55.000Z",
+    "coordinates": [
+      -114.0265119,
+      50.8862647
+    ],
+    "longitude": -114.0265119,
+    "latitude": 50.8862647,
+    "community": "CHAPARRAL",
+    "ward": "CHA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

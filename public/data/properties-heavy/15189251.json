@@ -1,0 +1,36 @@
+{
+  "id": "15189251",
+  "fullDetails": {
+    "licenseNumber": "15189251",
+    "name": "BEST INVESTMENT PROPERTIES",
+    "address": "315 4 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "active",
+    "issuedDate": "2019-02-05T11:22:48.000Z",
+    "expiryDate": "2027-02-04T11:22:48.000Z",
+    "coordinates": [
+      -114.0566772,
+      51.0559772
+    ],
+    "longitude": -114.0566772,
+    "latitude": 51.0559772,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

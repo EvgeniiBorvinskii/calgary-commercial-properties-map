@@ -1,0 +1,36 @@
+{
+  "id": "16333841",
+  "fullDetails": {
+    "licenseNumber": "16333841",
+    "name": "ROCKVILLE CONSTRUCTION",
+    "address": "#1800 330 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-06-26T10:53:43.000Z",
+    "expiryDate": "2026-06-25T10:53:43.000Z",
+    "coordinates": [
+      -114.0692067,
+      51.0488629
+    ],
+    "longitude": -114.0692067,
+    "latitude": 51.0488629,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

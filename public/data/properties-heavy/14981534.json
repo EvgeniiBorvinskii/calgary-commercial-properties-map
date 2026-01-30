@@ -1,0 +1,36 @@
+{
+  "id": "14981534",
+  "fullDetails": {
+    "licenseNumber": "14981534",
+    "name": "TRICO COMMUNITIES (DELANEY)",
+    "address": "851 17 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2018-08-28T15:19:46.000Z",
+    "expiryDate": "2026-08-27T15:19:46.000Z",
+    "coordinates": [
+      -114.0808148,
+      51.0676545
+    ],
+    "longitude": -114.0808148,
+    "latitude": 51.0676545,
+    "community": "MOUNT PLEASANT",
+    "ward": "MOP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

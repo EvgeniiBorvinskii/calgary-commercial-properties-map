@@ -1,0 +1,37 @@
+{
+  "id": "16104267",
+  "fullDetails": {
+    "licenseNumber": "16104267",
+    "name": "EGYPTIAN MARKET",
+    "address": "#107 2525 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-05-15T15:49:26.000Z",
+    "expiryDate": "2026-05-14T15:49:25.000Z",
+    "coordinates": [
+      -113.986328,
+      51.0737353
+    ],
+    "longitude": -113.986328,
+    "latitude": 51.0737353,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16436743",
+  "fullDetails": {
+    "licenseNumber": "16436743",
+    "name": "FREEDOM MOBILE",
+    "address": "#19K 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2024-01-24T10:12:39.000Z",
+    "expiryDate": "2026-01-23T10:12:39.000Z",
+    "coordinates": [
+      -113.9842403,
+      51.0616449
+    ],
+    "longitude": -113.9842403,
+    "latitude": 51.0616449,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

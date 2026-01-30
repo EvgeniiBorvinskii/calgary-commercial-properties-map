@@ -1,0 +1,36 @@
+{
+  "id": "16512592",
+  "fullDetails": {
+    "licenseNumber": "16512592",
+    "name": "RYDER SUPPLY CHAIN SOLUTIONS CANADA",
+    "address": "#105 1980 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-07-23T15:07:41.000Z",
+    "expiryDate": "2026-07-22T15:07:40.000Z",
+    "coordinates": [
+      -114.0145908,
+      51.1474178
+    ],
+    "longitude": -114.0145908,
+    "latitude": 51.1474178,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

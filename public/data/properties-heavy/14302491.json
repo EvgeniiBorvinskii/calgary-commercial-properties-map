@@ -1,0 +1,36 @@
+{
+  "id": "14302491",
+  "fullDetails": {
+    "licenseNumber": "14302491",
+    "name": "AIRTHERM SALES (1998)",
+    "address": "#12 1916B 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-09-13T11:58:18.000Z",
+    "expiryDate": "2026-09-12T11:58:18.000Z",
+    "coordinates": [
+      -114.0140643,
+      51.0800134
+    ],
+    "longitude": -114.0140643,
+    "latitude": 51.0800134,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

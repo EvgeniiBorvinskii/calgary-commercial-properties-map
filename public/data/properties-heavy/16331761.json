@@ -1,0 +1,36 @@
+{
+  "id": "16331761",
+  "fullDetails": {
+    "licenseNumber": "16331761",
+    "name": "VITALITY BIOMED",
+    "address": "#280 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-07T11:20:05.000Z",
+    "expiryDate": "2026-06-06T11:20:05.000Z",
+    "coordinates": [
+      -114.0731063,
+      50.9912618
+    ],
+    "longitude": -114.0731063,
+    "latitude": 50.9912618,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

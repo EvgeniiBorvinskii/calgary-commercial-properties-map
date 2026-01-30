@@ -1,0 +1,36 @@
+{
+  "id": "15054927",
+  "fullDetails": {
+    "licenseNumber": "15054927",
+    "name": "EXPRESS LUBE & TIRE",
+    "address": "#3000 10923 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2018-10-30T15:41:10.000Z",
+    "expiryDate": "2026-10-29T15:41:10.000Z",
+    "coordinates": [
+      -113.9795031,
+      51.151652
+    ],
+    "longitude": -113.9795031,
+    "latitude": 51.151652,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

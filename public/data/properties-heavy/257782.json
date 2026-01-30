@@ -1,0 +1,36 @@
+{
+  "id": "257782",
+  "fullDetails": {
+    "licenseNumber": "257782",
+    "name": "HYATT RENTALS & LEASING",
+    "address": "909 15 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2015-05-01T05:34:19.000Z",
+    "expiryDate": "2026-04-30T05:34:19.000Z",
+    "coordinates": [
+      -114.0967688,
+      51.0461557
+    ],
+    "longitude": -114.0967688,
+    "latitude": 51.0461557,
+    "community": "SUNALTA",
+    "ward": "SNA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15999071",
+  "fullDetails": {
+    "licenseNumber": "15999071",
+    "name": "BELTLINE ON 14TH",
+    "address": "1224 14 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "pending",
+    "issuedDate": "2021-03-24T13:12:45.000Z",
+    "expiryDate": "2026-03-23T13:12:45.000Z",
+    "coordinates": [
+      -114.0904907,
+      51.0405475
+    ],
+    "longitude": -114.0904907,
+    "latitude": 51.0405475,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

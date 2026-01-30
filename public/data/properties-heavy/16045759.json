@@ -1,0 +1,36 @@
+{
+  "id": "16045759",
+  "fullDetails": {
+    "licenseNumber": "16045759",
+    "name": "DJ MARKET",
+    "address": "4645 12 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MARKET",
+    "licenseTypes": "MARKET",
+    "status": "active",
+    "issuedDate": "2021-06-23T14:58:18.000Z",
+    "expiryDate": "2026-06-22T14:58:18.000Z",
+    "coordinates": [
+      -114.035988,
+      51.012292
+    ],
+    "longitude": -114.035988,
+    "latitude": 51.012292,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

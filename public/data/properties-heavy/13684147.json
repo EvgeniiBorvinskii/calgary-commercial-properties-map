@@ -1,0 +1,36 @@
+{
+  "id": "13684147",
+  "fullDetails": {
+    "licenseNumber": "13684147",
+    "name": "SHAWNESSY CAR WASH",
+    "address": "16 SHAWVILLE RI SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2013-10-04T05:32:29.000Z",
+    "expiryDate": "2026-10-03T05:32:29.000Z",
+    "coordinates": [
+      -114.069881,
+      50.9057461
+    ],
+    "longitude": -114.069881,
+    "latitude": 50.9057461,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

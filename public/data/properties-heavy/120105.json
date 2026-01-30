@@ -1,0 +1,36 @@
+{
+  "id": "120105",
+  "fullDetails": {
+    "licenseNumber": "120105",
+    "name": "A K CONTRACTING",
+    "address": "420 51 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-11-14T00:00:00.000Z",
+    "coordinates": [
+      -114.0559317,
+      51.0078808
+    ],
+    "longitude": -114.0559317,
+    "latitude": 51.0078808,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

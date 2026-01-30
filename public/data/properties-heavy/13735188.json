@@ -1,0 +1,36 @@
+{
+  "id": "13735188",
+  "fullDetails": {
+    "licenseNumber": "13735188",
+    "name": "ABL IMAGING",
+    "address": "3402 25 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "pending",
+    "issuedDate": "2014-03-25T11:35:26.000Z",
+    "expiryDate": "2026-03-24T11:35:26.000Z",
+    "coordinates": [
+      -114.0002964,
+      51.0834596
+    ],
+    "longitude": -114.0002964,
+    "latitude": 51.0834596,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "12124269",
+  "fullDetails": {
+    "licenseNumber": "12124269",
+    "name": "ACTION FURNACE",
+    "address": "925 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL)",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2025-03-25T15:57:39.000Z",
+    "expiryDate": "2026-03-24T15:57:36.000Z",
+    "coordinates": [
+      -113.9967739,
+      51.0599082
+    ],
+    "longitude": -113.9967739,
+    "latitude": 51.0599082,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

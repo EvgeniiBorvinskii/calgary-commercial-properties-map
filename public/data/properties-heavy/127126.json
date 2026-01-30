@@ -1,0 +1,36 @@
+{
+  "id": "127126",
+  "fullDetails": {
+    "licenseNumber": "127126",
+    "name": "MOUNTAIN VIEW PRINTING & GRAPHICS",
+    "address": "3656 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-26T00:00:00.000Z",
+    "coordinates": [
+      -113.9821707,
+      51.0004363
+    ],
+    "longitude": -113.9821707,
+    "latitude": 51.0004363,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

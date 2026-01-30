@@ -1,0 +1,37 @@
+{
+  "id": "16168338",
+  "fullDetails": {
+    "licenseNumber": "16168338",
+    "name": "SENTINEL STORAGE",
+    "address": "339 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WAREHOUSING",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-04-21T08:08:21.000Z",
+    "expiryDate": "2026-04-20T08:08:21.000Z",
+    "coordinates": [
+      -114.0562078,
+      51.0428739
+    ],
+    "longitude": -114.0562078,
+    "latitude": 51.0428739,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

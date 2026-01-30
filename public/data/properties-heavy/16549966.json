@@ -1,0 +1,36 @@
+{
+  "id": "16549966",
+  "fullDetails": {
+    "licenseNumber": "16549966",
+    "name": "GAB'S CUT",
+    "address": "#104 2230 68 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-06-30T09:35:37.000Z",
+    "expiryDate": "2026-06-29T09:35:36.000Z",
+    "coordinates": [
+      -113.9343647,
+      51.0708417
+    ],
+    "longitude": -113.9343647,
+    "latitude": 51.0708417,
+    "community": "MONTEREY PARK",
+    "ward": "MOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

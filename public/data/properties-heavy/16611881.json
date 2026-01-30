@@ -1,0 +1,36 @@
+{
+  "id": "16611881",
+  "fullDetails": {
+    "licenseNumber": "16611881",
+    "name": "SIPS AND SUBS",
+    "address": "#7 390 NORTHMOUNT DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-05-02T11:46:41.000Z",
+    "expiryDate": "2026-05-01T11:46:40.000Z",
+    "coordinates": [
+      -114.0795306,
+      51.0932729
+    ],
+    "longitude": -114.0795306,
+    "latitude": 51.0932729,
+    "community": "HIGHWOOD",
+    "ward": "HIW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

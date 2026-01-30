@@ -1,0 +1,36 @@
+{
+  "id": "982264",
+  "fullDetails": {
+    "licenseNumber": "982264",
+    "name": "A STEP AHEAD",
+    "address": "#1749 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2014-04-10T05:33:04.000Z",
+    "expiryDate": "2026-04-09T05:33:04.000Z",
+    "coordinates": [
+      -114.1006693,
+      51.0658885
+    ],
+    "longitude": -114.1006693,
+    "latitude": 51.0658885,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

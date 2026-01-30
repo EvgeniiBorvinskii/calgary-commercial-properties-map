@@ -1,0 +1,36 @@
+{
+  "id": "355099",
+  "fullDetails": {
+    "licenseNumber": "355099",
+    "name": "SHAMROCK FLOORING ACCESSORIES",
+    "address": "4432 10 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-04-19T12:48:20.000Z",
+    "expiryDate": "2026-04-18T12:48:20.000Z",
+    "coordinates": [
+      -114.0379146,
+      51.0923381
+    ],
+    "longitude": -114.0379146,
+    "latitude": 51.0923381,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

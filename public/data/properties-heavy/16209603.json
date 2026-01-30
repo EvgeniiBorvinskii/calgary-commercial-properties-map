@@ -1,0 +1,37 @@
+{
+  "id": "16209603",
+  "fullDetails": {
+    "licenseNumber": "16209603",
+    "name": "HIGHTAIN HOBBIES",
+    "address": "#131 328 CENTRE ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2022-10-14T09:15:57.000Z",
+    "expiryDate": "2026-10-13T09:15:56.000Z",
+    "coordinates": [
+      -114.0617526,
+      51.0495717
+    ],
+    "longitude": -114.0617526,
+    "latitude": 51.0495717,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

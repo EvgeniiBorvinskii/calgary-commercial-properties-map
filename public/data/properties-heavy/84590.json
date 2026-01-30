@@ -1,0 +1,36 @@
+{
+  "id": "84590",
+  "fullDetails": {
+    "licenseNumber": "84590",
+    "name": "BLACK FOREST WOOD CO (THE)",
+    "address": "#7 603 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-24T00:00:00.000Z",
+    "coordinates": [
+      -114.0512139,
+      50.9839183
+    ],
+    "longitude": -114.0512139,
+    "latitude": 50.9839183,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

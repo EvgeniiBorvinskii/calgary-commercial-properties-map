@@ -1,0 +1,36 @@
+{
+  "id": "12739140",
+  "fullDetails": {
+    "licenseNumber": "12739140",
+    "name": "ZYN THE WINE MARKET",
+    "address": "#3050 2600 PORTLAND ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2023-02-13T15:35:04.000Z",
+    "expiryDate": "2026-02-12T15:35:04.000Z",
+    "coordinates": [
+      -114.029994,
+      51.0315767
+    ],
+    "longitude": -114.029994,
+    "latitude": 51.0315767,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

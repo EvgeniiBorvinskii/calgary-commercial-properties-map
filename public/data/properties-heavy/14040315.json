@@ -1,0 +1,36 @@
+{
+  "id": "14040315",
+  "fullDetails": {
+    "licenseNumber": "14040315",
+    "name": "PANDA FLOWER",
+    "address": "3184 SUNRIDGE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-12-16T05:35:10.000Z",
+    "expiryDate": "2026-12-15T05:35:10.000Z",
+    "coordinates": [
+      -113.9899918,
+      51.0762857
+    ],
+    "longitude": -113.9899918,
+    "latitude": 51.0762857,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16483109",
+  "fullDetails": {
+    "licenseNumber": "16483109",
+    "name": "NCS CANADA WEST",
+    "address": "3807 9 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2024-08-07T10:50:46.000Z",
+    "expiryDate": "2026-08-06T10:50:46.000Z",
+    "coordinates": [
+      -114.0413649,
+      51.0214422
+    ],
+    "longitude": -114.0413649,
+    "latitude": 51.0214422,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

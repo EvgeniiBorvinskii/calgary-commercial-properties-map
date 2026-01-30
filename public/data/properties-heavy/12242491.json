@@ -1,0 +1,36 @@
+{
+  "id": "12242491",
+  "fullDetails": {
+    "licenseNumber": "12242491",
+    "name": "ALIEN IN-LINE",
+    "address": "4627 17 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - NO PREMISES",
+    "licenseTypes": "RETAIL DEALER - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-25T05:32:33.000Z",
+    "expiryDate": "2026-06-24T05:32:33.000Z",
+    "coordinates": [
+      -114.1613296,
+      51.071456
+    ],
+    "longitude": -114.1613296,
+    "latitude": 51.071456,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

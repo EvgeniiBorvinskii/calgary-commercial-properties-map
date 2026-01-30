@@ -1,0 +1,36 @@
+{
+  "id": "14207294",
+  "fullDetails": {
+    "licenseNumber": "14207294",
+    "name": "B&W LOCKSMITH AND AUTO KEY SPECIALIST",
+    "address": "#A 1135 44 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-08-13T08:07:03.000Z",
+    "expiryDate": "2026-08-12T08:07:03.000Z",
+    "coordinates": [
+      -114.0402588,
+      51.0135104
+    ],
+    "longitude": -114.0402588,
+    "latitude": 51.0135104,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

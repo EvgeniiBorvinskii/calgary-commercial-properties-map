@@ -1,0 +1,36 @@
+{
+  "id": "16687733",
+  "fullDetails": {
+    "licenseNumber": "16687733",
+    "name": "MIGHTY DEVELOPERS",
+    "address": "#316 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-31T16:40:16.000Z",
+    "expiryDate": "2026-10-30T16:40:16.000Z",
+    "coordinates": [
+      -113.97476,
+      51.107105
+    ],
+    "longitude": -113.97476,
+    "latitude": 51.107105,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

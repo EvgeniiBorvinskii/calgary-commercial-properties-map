@@ -1,0 +1,37 @@
+{
+  "id": "16539702",
+  "fullDetails": {
+    "licenseNumber": "16539702",
+    "name": "SOUND ROOM",
+    "address": "#100 1213 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-10-15T10:02:33.000Z",
+    "expiryDate": "2026-10-14T10:02:33.000Z",
+    "coordinates": [
+      -114.0661474,
+      51.0409697
+    ],
+    "longitude": -114.0661474,
+    "latitude": 51.0409697,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

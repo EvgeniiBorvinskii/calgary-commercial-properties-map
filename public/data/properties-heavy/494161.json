@@ -1,0 +1,36 @@
+{
+  "id": "494161",
+  "fullDetails": {
+    "licenseNumber": "494161",
+    "name": "BONAVISTA PHYSICAL THERAPY CLINIC",
+    "address": "739H LAKE BONAVISTA DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2004-12-13T14:04:32.000Z",
+    "expiryDate": "2026-12-12T14:04:32.000Z",
+    "coordinates": [
+      -114.049008,
+      50.9433982
+    ],
+    "longitude": -114.049008,
+    "latitude": 50.9433982,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

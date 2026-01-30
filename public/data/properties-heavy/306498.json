@@ -1,0 +1,36 @@
+{
+  "id": "306498",
+  "fullDetails": {
+    "licenseNumber": "306498",
+    "name": "BALLROOM & COUNTRY DANCE STUDIO",
+    "address": "121C 17 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2014-02-15T05:32:39.000Z",
+    "expiryDate": "2027-02-14T05:32:39.000Z",
+    "coordinates": [
+      -114.0611244,
+      51.0676898
+    ],
+    "longitude": -114.0611244,
+    "latitude": 51.0676898,
+    "community": "TUXEDO PARK",
+    "ward": "TUX",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12461240",
+  "fullDetails": {
+    "licenseNumber": "12461240",
+    "name": "KENSINGTON LANDING",
+    "address": "303 9A ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2006-03-15T05:34:35.000Z",
+    "expiryDate": "2026-03-14T05:34:35.000Z",
+    "coordinates": [
+      -114.0848077,
+      51.0543006
+    ],
+    "longitude": -114.0848077,
+    "latitude": 51.0543006,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15015936",
+  "fullDetails": {
+    "licenseNumber": "15015936",
+    "name": "ROGERS 5619",
+    "address": "#711K 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-09-07T09:49:19.000Z",
+    "expiryDate": "2026-09-06T09:49:19.000Z",
+    "coordinates": [
+      -113.978621,
+      51.0562417
+    ],
+    "longitude": -113.978621,
+    "latitude": 51.0562417,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

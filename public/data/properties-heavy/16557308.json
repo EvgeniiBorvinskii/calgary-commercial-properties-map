@@ -1,0 +1,36 @@
+{
+  "id": "16557308",
+  "fullDetails": {
+    "licenseNumber": "16557308",
+    "name": "PRINT GURUS",
+    "address": "#1 2115 27 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-11-26T15:14:36.000Z",
+    "expiryDate": "2026-11-25T15:14:35.000Z",
+    "coordinates": [
+      -114.010398,
+      51.0765177
+    ],
+    "longitude": -114.010398,
+    "latitude": 51.0765177,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

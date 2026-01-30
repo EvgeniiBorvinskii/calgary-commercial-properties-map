@@ -1,0 +1,36 @@
+{
+  "id": "45245",
+  "fullDetails": {
+    "licenseNumber": "45245",
+    "name": "ELMO'S AUTOMOTIVE",
+    "address": "#121 11450 29 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2011-05-18T11:07:13.000Z",
+    "expiryDate": "2026-05-17T11:07:13.000Z",
+    "coordinates": [
+      -113.9941181,
+      50.9516101
+    ],
+    "longitude": -113.9941181,
+    "latitude": 50.9516101,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

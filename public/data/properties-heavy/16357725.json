@@ -1,0 +1,37 @@
+{
+  "id": "16357725",
+  "fullDetails": {
+    "licenseNumber": "16357725",
+    "name": "TEA DAY FRESH FRUIT & BUBBLE TEA",
+    "address": "#320 8560 8A AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-09-20T14:56:04.000Z",
+    "expiryDate": "2026-09-19T14:56:04.000Z",
+    "coordinates": [
+      -114.2103951,
+      51.062344
+    ],
+    "longitude": -114.2103951,
+    "latitude": 51.062344,
+    "community": "WEST SPRINGS",
+    "ward": "WSP",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

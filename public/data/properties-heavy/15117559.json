@@ -1,0 +1,36 @@
+{
+  "id": "15117559",
+  "fullDetails": {
+    "licenseNumber": "15117559",
+    "name": "SYNERGY SYSTEMS AND ELECTRICAL",
+    "address": "#14 4312 OGDEN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2019-02-28T05:30:37.000Z",
+    "expiryDate": "2026-02-28T05:30:37.000Z",
+    "coordinates": [
+      -114.0140136,
+      51.0148305
+    ],
+    "longitude": -114.0140136,
+    "latitude": 51.0148305,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

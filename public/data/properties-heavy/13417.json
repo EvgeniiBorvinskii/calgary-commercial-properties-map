@@ -1,0 +1,36 @@
+{
+  "id": "13417",
+  "fullDetails": {
+    "licenseNumber": "13417",
+    "name": "ALBERTA DAMPPROOFING & WATERPROOFIN",
+    "address": "4552 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-18T00:00:00.000Z",
+    "coordinates": [
+      -114.0275359,
+      51.0932009
+    ],
+    "longitude": -114.0275359,
+    "latitude": 51.0932009,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

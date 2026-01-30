@@ -1,0 +1,37 @@
+{
+  "id": "16054967",
+  "fullDetails": {
+    "licenseNumber": "16054967",
+    "name": "VENTURE MOTORWORKS",
+    "address": "416 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2021-07-16T08:52:17.000Z",
+    "expiryDate": "2026-07-15T08:52:17.000Z",
+    "coordinates": [
+      -113.9925679,
+      51.0552817
+    ],
+    "longitude": -113.9925679,
+    "latitude": 51.0552817,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

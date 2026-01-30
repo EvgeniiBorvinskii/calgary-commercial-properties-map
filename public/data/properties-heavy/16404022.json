@@ -1,0 +1,36 @@
+{
+  "id": "16404022",
+  "fullDetails": {
+    "licenseNumber": "16404022",
+    "name": "TATTOO CITY",
+    "address": "#3262 4310 104 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2023-10-26T09:23:53.000Z",
+    "expiryDate": "2026-10-25T09:23:53.000Z",
+    "coordinates": [
+      -113.9723767,
+      51.1483935
+    ],
+    "longitude": -113.9723767,
+    "latitude": 51.1483935,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

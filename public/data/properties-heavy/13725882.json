@@ -1,0 +1,37 @@
+{
+  "id": "13725882",
+  "fullDetails": {
+    "licenseNumber": "13725882",
+    "name": "PEAK SCAFFOLD",
+    "address": "743 41 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-09-05T10:48:21.000Z",
+    "expiryDate": "2026-09-04T10:48:21.000Z",
+    "coordinates": [
+      -114.0444808,
+      51.0917636
+    ],
+    "longitude": -114.0444808,
+    "latitude": 51.0917636,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

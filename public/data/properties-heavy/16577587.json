@@ -1,0 +1,37 @@
+{
+  "id": "16577587",
+  "fullDetails": {
+    "licenseNumber": "16577587",
+    "name": "KAN SUSHI AND GRILL",
+    "address": "#124 500 ROYAL OAK DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING),",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2025-01-16T11:42:04.000Z",
+    "expiryDate": "2027-01-15T11:42:03.000Z",
+    "coordinates": [
+      -114.2337674,
+      51.1389103
+    ],
+    "longitude": -114.2337674,
+    "latitude": 51.1389103,
+    "community": "ROYAL OAK",
+    "ward": "ROY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

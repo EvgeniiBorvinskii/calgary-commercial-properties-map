@@ -1,0 +1,37 @@
+{
+  "id": "14123152",
+  "fullDetails": {
+    "licenseNumber": "14123152",
+    "name": "BOOST FACTORY",
+    "address": "4925 77 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2016-06-15T11:54:57.000Z",
+    "expiryDate": "2026-06-14T11:54:57.000Z",
+    "coordinates": [
+      -113.9626444,
+      50.9828967
+    ],
+    "longitude": -113.9626444,
+    "latitude": 50.9828967,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

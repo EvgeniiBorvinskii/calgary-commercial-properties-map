@@ -1,0 +1,37 @@
+{
+  "id": "14518104",
+  "fullDetails": {
+    "licenseNumber": "14518104",
+    "name": "SEED N SALT",
+    "address": "2008 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "ALCOHOL BEVERAGE SALES (RESTAURANT),",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2017-06-08T11:51:59.000Z",
+    "expiryDate": "2026-06-07T11:51:59.000Z",
+    "coordinates": [
+      -114.0712544,
+      51.0350571
+    ],
+    "longitude": -114.0712544,
+    "latitude": 51.0350571,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

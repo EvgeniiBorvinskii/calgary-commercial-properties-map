@@ -1,0 +1,36 @@
+{
+  "id": "12290607",
+  "fullDetails": {
+    "licenseNumber": "12290607",
+    "name": "RESPONSE SAFETY & RESCUE SERVICES",
+    "address": "#2 7053 FARRELL RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2009-09-03T10:44:11.000Z",
+    "expiryDate": "2026-09-02T10:44:11.000Z",
+    "coordinates": [
+      -114.0568856,
+      50.9916106
+    ],
+    "longitude": -114.0568856,
+    "latitude": 50.9916106,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

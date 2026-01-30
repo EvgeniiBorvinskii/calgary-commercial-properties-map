@@ -1,0 +1,37 @@
+{
+  "id": "14963102",
+  "fullDetails": {
+    "licenseNumber": "14963102",
+    "name": "NAM VIETNAMESE KITCHEN / KUSINA POP UP",
+    "address": "1023 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2018-07-24T05:30:23.000Z",
+    "expiryDate": "2026-07-23T05:30:23.000Z",
+    "coordinates": [
+      -114.0817129,
+      51.0434517
+    ],
+    "longitude": -114.0817129,
+    "latitude": 51.0434517,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

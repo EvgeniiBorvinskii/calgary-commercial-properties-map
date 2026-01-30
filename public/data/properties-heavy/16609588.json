@@ -1,0 +1,36 @@
+{
+  "id": "16609588",
+  "fullDetails": {
+    "licenseNumber": "16609588",
+    "name": "SILLA",
+    "address": "#176B 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-10T14:18:10.000Z",
+    "expiryDate": "2026-07-09T14:18:09.000Z",
+    "coordinates": [
+      -114.0738898,
+      50.9978612
+    ],
+    "longitude": -114.0738898,
+    "latitude": 50.9978612,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

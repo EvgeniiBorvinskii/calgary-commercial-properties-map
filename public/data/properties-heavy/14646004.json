@@ -1,0 +1,36 @@
+{
+  "id": "14646004",
+  "fullDetails": {
+    "licenseNumber": "14646004",
+    "name": "SPORTING LIFE (MARKET MALL)",
+    "address": "#W160 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-10-17T12:26:56.000Z",
+    "expiryDate": "2026-10-16T12:26:56.000Z",
+    "coordinates": [
+      -114.1561094,
+      51.0838553
+    ],
+    "longitude": -114.1561094,
+    "latitude": 51.0838553,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

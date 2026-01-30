@@ -1,0 +1,36 @@
+{
+  "id": "773390",
+  "fullDetails": {
+    "licenseNumber": "773390",
+    "name": "LEASA RENAE SALONS",
+    "address": "#26 240 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2002-11-29T05:39:15.000Z",
+    "expiryDate": "2026-11-28T05:39:15.000Z",
+    "coordinates": [
+      -114.0633948,
+      50.9138208
+    ],
+    "longitude": -114.0633948,
+    "latitude": 50.9138208,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

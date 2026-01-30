@@ -1,0 +1,36 @@
+{
+  "id": "13724356",
+  "fullDetails": {
+    "licenseNumber": "13724356",
+    "name": "PREMIER LANDWORKS",
+    "address": "#209 279 MIDPARK WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2018-09-26T05:32:56.000Z",
+    "expiryDate": "2026-09-25T05:32:56.000Z",
+    "coordinates": [
+      -114.0634732,
+      50.9111928
+    ],
+    "longitude": -114.0634732,
+    "latitude": 50.9111928,
+    "community": "MIDNAPORE",
+    "ward": "MID",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

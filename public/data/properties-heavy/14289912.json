@@ -1,0 +1,37 @@
+{
+  "id": "14289912",
+  "fullDetails": {
+    "licenseNumber": "14289912",
+    "name": "PAWS N WHEEL WASH",
+    "address": "#210 11540 24 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2017-05-17T15:10:14.000Z",
+    "expiryDate": "2026-05-16T15:10:14.000Z",
+    "coordinates": [
+      -114.0018477,
+      50.9503426
+    ],
+    "longitude": -114.0018477,
+    "latitude": 50.9503426,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

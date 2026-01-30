@@ -1,0 +1,36 @@
+{
+  "id": "13534920",
+  "fullDetails": {
+    "licenseNumber": "13534920",
+    "name": "BELLE'S COIN LAUNDRY",
+    "address": "#C 3908 17 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FABRIC CLEANING",
+    "licenseTypes": "FABRIC CLEANING",
+    "status": "active",
+    "issuedDate": "2012-07-24T10:26:50.000Z",
+    "expiryDate": "2026-07-23T10:26:50.000Z",
+    "coordinates": [
+      -113.9780149,
+      51.0381924
+    ],
+    "longitude": -113.9780149,
+    "latitude": 51.0381924,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

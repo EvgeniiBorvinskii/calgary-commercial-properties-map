@@ -1,0 +1,37 @@
+{
+  "id": "14521520",
+  "fullDetails": {
+    "licenseNumber": "14521520",
+    "name": "DUCKY'S PUB & RESTAURANT",
+    "address": "#5 2100 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2017-12-29T09:11:29.000Z",
+    "expiryDate": "2026-12-28T09:11:29.000Z",
+    "coordinates": [
+      -114.0710639,
+      51.0340023
+    ],
+    "longitude": -114.0710639,
+    "latitude": 51.0340023,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

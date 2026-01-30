@@ -1,0 +1,37 @@
+{
+  "id": "888149",
+  "fullDetails": {
+    "licenseNumber": "888149",
+    "name": "WAYMARC INDUSTRIES",
+    "address": "10610 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-11-13T05:37:04.000Z",
+    "expiryDate": "2026-11-12T05:37:04.000Z",
+    "coordinates": [
+      -113.9642767,
+      50.9587869
+    ],
+    "longitude": -113.9642767,
+    "latitude": 50.9587869,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

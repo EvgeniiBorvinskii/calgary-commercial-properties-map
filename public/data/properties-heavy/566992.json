@@ -1,0 +1,36 @@
+{
+  "id": "566992",
+  "fullDetails": {
+    "licenseNumber": "566992",
+    "name": "LEADING EDGE GOLF",
+    "address": "3416 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-12-09T15:32:47.000Z",
+    "expiryDate": "2026-12-08T15:32:46.000Z",
+    "coordinates": [
+      -113.9877351,
+      50.9499848
+    ],
+    "longitude": -113.9877351,
+    "latitude": 50.9499848,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

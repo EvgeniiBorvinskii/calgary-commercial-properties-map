@@ -1,0 +1,37 @@
+{
+  "id": "16691594",
+  "fullDetails": {
+    "licenseNumber": "16691594",
+    "name": "TIM HORTONS",
+    "address": "1015 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-11-13T07:58:46.000Z",
+    "expiryDate": "2026-11-12T07:58:45.000Z",
+    "coordinates": [
+      -113.9823107,
+      51.0619602
+    ],
+    "longitude": -113.9823107,
+    "latitude": 51.0619602,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

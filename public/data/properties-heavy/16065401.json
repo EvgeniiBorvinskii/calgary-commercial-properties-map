@@ -1,0 +1,36 @@
+{
+  "id": "16065401",
+  "fullDetails": {
+    "licenseNumber": "16065401",
+    "name": "RMH MUSIC",
+    "address": "1039 40 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2021-09-01T09:38:20.000Z",
+    "expiryDate": "2026-08-31T09:38:20.000Z",
+    "coordinates": [
+      -114.084974,
+      51.0885247
+    ],
+    "longitude": -114.084974,
+    "latitude": 51.0885247,
+    "community": "CAMBRIAN HEIGHTS",
+    "ward": "CAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

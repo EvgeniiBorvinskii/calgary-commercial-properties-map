@@ -1,0 +1,36 @@
+{
+  "id": "15924186",
+  "fullDetails": {
+    "licenseNumber": "15924186",
+    "name": "ETNICA",
+    "address": "#1448 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-07-23T13:00:10.000Z",
+    "expiryDate": "2026-07-22T13:00:10.000Z",
+    "coordinates": [
+      -113.9782895,
+      51.056672
+    ],
+    "longitude": -113.9782895,
+    "latitude": 51.056672,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

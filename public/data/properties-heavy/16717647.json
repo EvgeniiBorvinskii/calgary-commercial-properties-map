@@ -1,0 +1,36 @@
+{
+  "id": "16717647",
+  "fullDetails": {
+    "licenseNumber": "16717647",
+    "name": "LIQUOR AROMA",
+    "address": "#114 30 CRESTRIDGE CM SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2026-01-14T08:13:27.000Z",
+    "expiryDate": "2027-01-13T08:13:26.000Z",
+    "coordinates": [
+      -114.2708538,
+      51.0859967
+    ],
+    "longitude": -114.2708538,
+    "latitude": 51.0859967,
+    "community": "CRESTMONT",
+    "ward": "CRM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

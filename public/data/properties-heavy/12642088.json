@@ -1,0 +1,36 @@
+{
+  "id": "12642088",
+  "fullDetails": {
+    "licenseNumber": "12642088",
+    "name": "JC SALON AND SPA",
+    "address": "#6 7640 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2013-05-07T12:43:10.000Z",
+    "expiryDate": "2026-05-06T12:43:10.000Z",
+    "coordinates": [
+      -114.0592561,
+      50.9853959
+    ],
+    "longitude": -114.0592561,
+    "latitude": 50.9853959,
+    "community": "FAIRVIEW",
+    "ward": "FAI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

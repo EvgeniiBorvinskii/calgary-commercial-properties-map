@@ -1,0 +1,36 @@
+{
+  "id": "12369617",
+  "fullDetails": {
+    "licenseNumber": "12369617",
+    "name": "MAJESTIC ELECTRIC",
+    "address": "#9 1430 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-12-06T15:36:35.000Z",
+    "expiryDate": "2026-12-05T15:36:35.000Z",
+    "coordinates": [
+      -114.0279912,
+      51.0897188
+    ],
+    "longitude": -114.0279912,
+    "latitude": 51.0897188,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13305917",
+  "fullDetails": {
+    "licenseNumber": "13305917",
+    "name": "UNIQUEM",
+    "address": "#6 7115 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2014-12-06T05:34:28.000Z",
+    "expiryDate": "2026-12-05T05:34:27.000Z",
+    "coordinates": [
+      -113.9651741,
+      50.9921396
+    ],
+    "longitude": -113.9651741,
+    "latitude": 50.9921396,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

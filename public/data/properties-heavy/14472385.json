@@ -1,0 +1,36 @@
+{
+  "id": "14472385",
+  "fullDetails": {
+    "licenseNumber": "14472385",
+    "name": "MEDICAL RECEPTION COLLEGE",
+    "address": "#400 7015 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2021-07-15T15:19:33.000Z",
+    "expiryDate": "2026-07-14T15:19:33.000Z",
+    "coordinates": [
+      -114.0730094,
+      50.9907317
+    ],
+    "longitude": -114.0730094,
+    "latitude": 50.9907317,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

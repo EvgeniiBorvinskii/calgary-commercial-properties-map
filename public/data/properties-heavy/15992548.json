@@ -1,0 +1,36 @@
+{
+  "id": "15992548",
+  "fullDetails": {
+    "licenseNumber": "15992548",
+    "name": "CENAIRUS ENERGY SERVICES",
+    "address": "7580 48 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2021-10-19T10:10:29.000Z",
+    "expiryDate": "2026-10-18T10:10:29.000Z",
+    "coordinates": [
+      -113.963499,
+      50.986183
+    ],
+    "longitude": -113.963499,
+    "latitude": 50.986183,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

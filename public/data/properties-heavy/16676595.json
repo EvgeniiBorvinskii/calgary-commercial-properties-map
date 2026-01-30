@@ -1,0 +1,36 @@
+{
+  "id": "16676595",
+  "fullDetails": {
+    "licenseNumber": "16676595",
+    "name": "HARMONIC WELLNESS CENTRE",
+    "address": "#109 3412 27 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-06T10:26:11.000Z",
+    "expiryDate": "2026-11-05T10:26:10.000Z",
+    "coordinates": [
+      -113.9937419,
+      51.0833434
+    ],
+    "longitude": -113.9937419,
+    "latitude": 51.0833434,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "567701",
+  "fullDetails": {
+    "licenseNumber": "567701",
+    "name": "KULU MOTORCAR",
+    "address": "#3 5504 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2007-01-31T10:54:55.000Z",
+    "expiryDate": "2027-01-30T10:54:55.000Z",
+    "coordinates": [
+      -114.0668257,
+      51.0053562
+    ],
+    "longitude": -114.0668257,
+    "latitude": 51.0053562,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

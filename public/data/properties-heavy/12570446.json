@@ -1,0 +1,36 @@
+{
+  "id": "12570446",
+  "fullDetails": {
+    "licenseNumber": "12570446",
+    "name": "DELPHI ELECTRIC",
+    "address": "236 INITIATIVE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-05-17T11:14:29.000Z",
+    "expiryDate": "2026-05-16T11:14:29.000Z",
+    "coordinates": [
+      -113.9067604,
+      50.9613805
+    ],
+    "longitude": -113.9067604,
+    "latitude": 50.9613805,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

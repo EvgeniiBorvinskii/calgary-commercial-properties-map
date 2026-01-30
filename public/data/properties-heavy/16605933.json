@@ -1,0 +1,37 @@
+{
+  "id": "16605933",
+  "fullDetails": {
+    "licenseNumber": "16605933",
+    "name": "COST LITTLE",
+    "address": "#6 539 QUEENSLAND DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2025-06-09T11:20:34.000Z",
+    "expiryDate": "2026-06-08T11:20:34.000Z",
+    "coordinates": [
+      -114.0253369,
+      50.9397751
+    ],
+    "longitude": -114.0253369,
+    "latitude": 50.9397751,
+    "community": "QUEENSLAND",
+    "ward": "QLD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

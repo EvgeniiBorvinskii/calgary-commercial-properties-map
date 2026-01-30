@@ -1,0 +1,36 @@
+{
+  "id": "14624183",
+  "fullDetails": {
+    "licenseNumber": "14624183",
+    "name": "LA VIE EN ROSE",
+    "address": "#180 6455 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-22T14:14:00.000Z",
+    "expiryDate": "2026-11-21T14:14:00.000Z",
+    "coordinates": [
+      -114.0741236,
+      50.9975885
+    ],
+    "longitude": -114.0741236,
+    "latitude": 50.9975885,
+    "community": "MEADOWLARK PARK",
+    "ward": "MEA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

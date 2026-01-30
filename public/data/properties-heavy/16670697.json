@@ -1,0 +1,37 @@
+{
+  "id": "16670697",
+  "fullDetails": {
+    "licenseNumber": "16670697",
+    "name": "IRREVERSIBLE TATTOO",
+    "address": "#200 1127 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-11-05T15:18:29.000Z",
+    "expiryDate": "2026-11-04T15:18:28.000Z",
+    "coordinates": [
+      -114.088917,
+      51.0375377
+    ],
+    "longitude": -114.088917,
+    "latitude": 51.0375377,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

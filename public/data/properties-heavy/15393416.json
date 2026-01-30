@@ -1,0 +1,36 @@
+{
+  "id": "15393416",
+  "fullDetails": {
+    "licenseNumber": "15393416",
+    "name": "TANY'S JEWELLERY",
+    "address": "#1779 1632 14 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-12-31T13:19:42.000Z",
+    "expiryDate": "2026-12-30T13:19:42.000Z",
+    "coordinates": [
+      -114.1013561,
+      51.0658765
+    ],
+    "longitude": -114.1013561,
+    "latitude": 51.0658765,
+    "community": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "ward": "HOU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

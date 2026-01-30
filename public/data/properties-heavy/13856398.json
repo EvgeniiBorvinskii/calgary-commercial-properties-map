@@ -1,0 +1,36 @@
+{
+  "id": "13856398",
+  "fullDetails": {
+    "licenseNumber": "13856398",
+    "name": "MCKENZIE DRIVERS EDUCATION",
+    "address": "#105 5126 126 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2022-07-21T08:59:35.000Z",
+    "expiryDate": "2026-07-20T08:59:35.000Z",
+    "coordinates": [
+      -113.9629359,
+      50.9356414
+    ],
+    "longitude": -113.9629359,
+    "latitude": 50.9356414,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

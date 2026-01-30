@@ -1,0 +1,36 @@
+{
+  "id": "14746184",
+  "fullDetails": {
+    "licenseNumber": "14746184",
+    "name": "UPS STORE #43 (THE)",
+    "address": "246 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-12-13T05:32:12.000Z",
+    "expiryDate": "2026-12-12T05:32:12.000Z",
+    "coordinates": [
+      -114.1696689,
+      51.0142074
+    ],
+    "longitude": -114.1696689,
+    "latitude": 51.0142074,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

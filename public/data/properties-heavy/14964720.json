@@ -1,0 +1,36 @@
+{
+  "id": "14964720",
+  "fullDetails": {
+    "licenseNumber": "14964720",
+    "name": "JNK FOOD MANAGEMENT",
+    "address": "#13 3220 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2018-08-30T05:32:49.000Z",
+    "expiryDate": "2026-08-29T05:32:49.000Z",
+    "coordinates": [
+      -113.987381,
+      51.0573965
+    ],
+    "longitude": -113.987381,
+    "latitude": 51.0573965,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

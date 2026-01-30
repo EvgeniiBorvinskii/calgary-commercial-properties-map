@@ -1,0 +1,36 @@
+{
+  "id": "13199112",
+  "fullDetails": {
+    "licenseNumber": "13199112",
+    "name": "CORMAC PROJECTS",
+    "address": "#132 3670 63 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2015-10-05T11:09:49.000Z",
+    "expiryDate": "2026-10-04T11:09:49.000Z",
+    "coordinates": [
+      -113.9792515,
+      51.1101244
+    ],
+    "longitude": -113.9792515,
+    "latitude": 51.1101244,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

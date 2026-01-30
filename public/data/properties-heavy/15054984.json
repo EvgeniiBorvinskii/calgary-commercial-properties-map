@@ -1,0 +1,36 @@
+{
+  "id": "15054984",
+  "fullDetails": {
+    "licenseNumber": "15054984",
+    "name": "ALLROC BUILDING PRODUCTS",
+    "address": "#140 4550 25 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2018-11-26T14:01:27.000Z",
+    "expiryDate": "2026-11-25T14:01:26.000Z",
+    "coordinates": [
+      -113.9985358,
+      51.0136393
+    ],
+    "longitude": -113.9985358,
+    "latitude": 51.0136393,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

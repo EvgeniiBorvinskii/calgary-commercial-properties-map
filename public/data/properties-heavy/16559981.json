@@ -1,0 +1,36 @@
+{
+  "id": "16559981",
+  "fullDetails": {
+    "licenseNumber": "16559981",
+    "name": "JOE CEPEDA INSTITUTE",
+    "address": "#100 9805 HORTON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-03T07:40:09.000Z",
+    "expiryDate": "2026-02-02T07:40:08.000Z",
+    "coordinates": [
+      -114.0754848,
+      50.966883
+    ],
+    "longitude": -114.0754848,
+    "latitude": 50.966883,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

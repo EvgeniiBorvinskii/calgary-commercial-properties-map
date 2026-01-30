@@ -1,0 +1,36 @@
+{
+  "id": "16594392",
+  "fullDetails": {
+    "licenseNumber": "16594392",
+    "name": "BEATS AND BREATHS ACADEMY",
+    "address": "#255 720 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-07-09T11:03:50.000Z",
+    "expiryDate": "2026-07-08T11:03:50.000Z",
+    "coordinates": [
+      -113.9928322,
+      51.0591062
+    ],
+    "longitude": -113.9928322,
+    "latitude": 51.0591062,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

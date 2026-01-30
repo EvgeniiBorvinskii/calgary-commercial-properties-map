@@ -1,0 +1,36 @@
+{
+  "id": "13129317",
+  "fullDetails": {
+    "licenseNumber": "13129317",
+    "name": "GRAHAM DESIGN BUILDERS LP",
+    "address": "#110 115 QUARRY PARK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-04-03T08:29:56.000Z",
+    "expiryDate": "2026-04-02T08:29:56.000Z",
+    "coordinates": [
+      -114.0086044,
+      50.9597448
+    ],
+    "longitude": -114.0086044,
+    "latitude": 50.9597448,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

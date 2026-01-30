@@ -1,0 +1,36 @@
+{
+  "id": "12792883",
+  "fullDetails": {
+    "licenseNumber": "12792883",
+    "name": "PINDER'S AUTO CENTRE",
+    "address": "#4154 3961 52 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2009-07-24T11:19:22.000Z",
+    "expiryDate": "2026-07-23T11:19:22.000Z",
+    "coordinates": [
+      -113.9793173,
+      51.0984319
+    ],
+    "longitude": -113.9793173,
+    "latitude": 51.0984319,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

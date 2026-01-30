@@ -1,0 +1,36 @@
+{
+  "id": "16187072",
+  "fullDetails": {
+    "licenseNumber": "16187072",
+    "name": "LIVINGSTON HEIGHTS 2000",
+    "address": "#2000 14540 1 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2022-11-03T14:41:56.000Z",
+    "expiryDate": "2026-11-02T14:41:56.000Z",
+    "coordinates": [
+      -114.0718765,
+      51.1839003
+    ],
+    "longitude": -114.0718765,
+    "latitude": 51.1839003,
+    "community": "LIVINGSTON",
+    "ward": "LIV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13968789",
+  "fullDetails": {
+    "licenseNumber": "13968789",
+    "name": "KEO SCIENTIFIC",
+    "address": "#430 11979 40 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2020-12-10T14:07:18.000Z",
+    "expiryDate": "2026-12-09T14:07:17.000Z",
+    "coordinates": [
+      -113.9769469,
+      50.9429502
+    ],
+    "longitude": -113.9769469,
+    "latitude": 50.9429502,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

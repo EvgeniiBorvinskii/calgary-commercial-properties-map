@@ -1,0 +1,36 @@
+{
+  "id": "16502346",
+  "fullDetails": {
+    "licenseNumber": "16502346",
+    "name": "IT OMNI",
+    "address": "#104 3907 3A ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-09-04T15:04:02.000Z",
+    "expiryDate": "2026-09-03T15:04:01.000Z",
+    "coordinates": [
+      -114.0541524,
+      51.0870208
+    ],
+    "longitude": -114.0541524,
+    "latitude": 51.0870208,
+    "community": "GREENVIEW INDUSTRIAL PARK",
+    "ward": "GRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

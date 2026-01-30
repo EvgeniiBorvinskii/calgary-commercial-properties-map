@@ -1,0 +1,37 @@
+{
+  "id": "16476749",
+  "fullDetails": {
+    "licenseNumber": "16476749",
+    "name": "BAIRE PATCH",
+    "address": "#110 330 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-04-26T13:29:37.000Z",
+    "expiryDate": "2026-04-25T13:29:37.000Z",
+    "coordinates": [
+      -114.1575678,
+      51.1825246
+    ],
+    "longitude": -114.1575678,
+    "latitude": 51.1825246,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

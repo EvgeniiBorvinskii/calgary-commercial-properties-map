@@ -1,0 +1,36 @@
+{
+  "id": "16658239",
+  "fullDetails": {
+    "licenseNumber": "16658239",
+    "name": "LANDA AESTHETICS CLINIC",
+    "address": "200L HADDON RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-08-29T15:28:39.000Z",
+    "expiryDate": "2026-08-28T15:28:39.000Z",
+    "coordinates": [
+      -114.0784436,
+      50.9713079
+    ],
+    "longitude": -114.0784436,
+    "latitude": 50.9713079,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

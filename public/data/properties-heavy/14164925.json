@@ -1,0 +1,36 @@
+{
+  "id": "14164925",
+  "fullDetails": {
+    "licenseNumber": "14164925",
+    "name": "CONTINENTAL TIRE CANADA",
+    "address": "#30 5800 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2017-05-17T15:08:15.000Z",
+    "expiryDate": "2026-05-16T15:08:15.000Z",
+    "coordinates": [
+      -113.9432854,
+      50.9825855
+    ],
+    "longitude": -113.9432854,
+    "latitude": 50.9825855,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

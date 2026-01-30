@@ -1,0 +1,36 @@
+{
+  "id": "12181251",
+  "fullDetails": {
+    "licenseNumber": "12181251",
+    "name": "GROOVY NAILS",
+    "address": "#302 8120 BEDDINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2006-08-14T16:00:27.000Z",
+    "expiryDate": "2026-08-13T16:00:27.000Z",
+    "coordinates": [
+      -114.0735323,
+      51.1269763
+    ],
+    "longitude": -114.0735323,
+    "latitude": 51.1269763,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

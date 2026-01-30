@@ -1,0 +1,36 @@
+{
+  "id": "16136632",
+  "fullDetails": {
+    "licenseNumber": "16136632",
+    "name": "7TH AVE WINE AND SPIRITS",
+    "address": "925A 7 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "active",
+    "issuedDate": "2022-07-05T12:32:20.000Z",
+    "expiryDate": "2026-07-04T12:32:20.000Z",
+    "coordinates": [
+      -114.0830906,
+      51.0467651
+    ],
+    "longitude": -114.0830906,
+    "latitude": 51.0467651,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

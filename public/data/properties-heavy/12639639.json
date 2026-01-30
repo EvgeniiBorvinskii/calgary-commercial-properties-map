@@ -1,0 +1,36 @@
+{
+  "id": "12639639",
+  "fullDetails": {
+    "licenseNumber": "12639639",
+    "name": "CANWEST CONCRETE CUTTING & SEALING",
+    "address": "#108 90 FREEPORT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-04-24T10:25:05.000Z",
+    "expiryDate": "2026-04-23T10:25:05.000Z",
+    "coordinates": [
+      -114.0121012,
+      51.1515346
+    ],
+    "longitude": -114.0121012,
+    "latitude": 51.1515346,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

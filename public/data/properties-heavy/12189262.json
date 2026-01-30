@@ -1,0 +1,36 @@
+{
+  "id": "12189262",
+  "fullDetails": {
+    "licenseNumber": "12189262",
+    "name": "CEMENTEC INDUSTRIES",
+    "address": "13 INDUSTRY WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2018-05-12T05:32:03.000Z",
+    "expiryDate": "2026-05-11T05:32:03.000Z",
+    "coordinates": [
+      -113.9035905,
+      50.968834
+    ],
+    "longitude": -113.9035905,
+    "latitude": 50.968834,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

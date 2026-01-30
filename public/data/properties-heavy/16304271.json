@@ -1,0 +1,36 @@
+{
+  "id": "16304271",
+  "fullDetails": {
+    "licenseNumber": "16304271",
+    "name": "LIQUOR DROPS",
+    "address": "2507 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2024-01-24T08:11:53.000Z",
+    "expiryDate": "2026-01-23T08:11:53.000Z",
+    "coordinates": [
+      -114.1183486,
+      51.0375068
+    ],
+    "longitude": -114.1183486,
+    "latitude": 51.0375068,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

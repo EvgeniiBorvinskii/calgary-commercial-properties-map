@@ -1,0 +1,36 @@
+{
+  "id": "14541304",
+  "fullDetails": {
+    "licenseNumber": "14541304",
+    "name": "SCHOOL START",
+    "address": "5404 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "pending",
+    "issuedDate": "2024-03-06T08:43:48.000Z",
+    "expiryDate": "2026-03-05T08:43:48.000Z",
+    "coordinates": [
+      -113.9806864,
+      51.0042735
+    ],
+    "longitude": -113.9806864,
+    "latitude": 51.0042735,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

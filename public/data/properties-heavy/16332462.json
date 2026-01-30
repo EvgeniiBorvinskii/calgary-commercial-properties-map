@@ -1,0 +1,37 @@
+{
+  "id": "16332462",
+  "fullDetails": {
+    "licenseNumber": "16332462",
+    "name": "2515479 ALBERTA",
+    "address": "#602 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-06-13T10:27:01.000Z",
+    "expiryDate": "2026-06-12T10:27:01.000Z",
+    "coordinates": [
+      -113.9878775,
+      51.0587287
+    ],
+    "longitude": -113.9878775,
+    "latitude": 51.0587287,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "15713662",
+  "fullDetails": {
+    "licenseNumber": "15713662",
+    "name": "RUNWAY HAIR DESIGN COMPANY",
+    "address": "2925 RICHMOND RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "PERSONAL SERVICE,\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-09-12T09:57:18.000Z",
+    "expiryDate": "2026-09-11T09:57:18.000Z",
+    "coordinates": [
+      -114.1289895,
+      51.0255644
+    ],
+    "longitude": -114.1289895,
+    "latitude": 51.0255644,
+    "community": "RICHMOND",
+    "ward": "RIC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

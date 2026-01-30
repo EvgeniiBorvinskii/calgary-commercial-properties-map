@@ -1,0 +1,37 @@
+{
+  "id": "15926751",
+  "fullDetails": {
+    "licenseNumber": "15926751",
+    "name": "ROOTBAR",
+    "address": "22 SHAWNEE BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO),\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "status": "active",
+    "issuedDate": "2020-12-28T09:30:24.000Z",
+    "expiryDate": "2026-12-27T09:30:24.000Z",
+    "coordinates": [
+      -114.0779185,
+      50.9235299
+    ],
+    "longitude": -114.0779185,
+    "latitude": 50.9235299,
+    "community": "SHAWNEE SLOPES",
+    "ward": "SHS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16340143",
+  "fullDetails": {
+    "licenseNumber": "16340143",
+    "name": "SUSHI 4 YOU",
+    "address": "9679 MACLEOD TR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-07-04T07:30:46.000Z",
+    "expiryDate": "2026-07-03T07:30:45.000Z",
+    "coordinates": [
+      -114.0727972,
+      50.9680686
+    ],
+    "longitude": -114.0727972,
+    "latitude": 50.9680686,
+    "community": "HAYSBORO",
+    "ward": "HAY",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

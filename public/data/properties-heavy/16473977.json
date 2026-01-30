@@ -1,0 +1,36 @@
+{
+  "id": "16473977",
+  "fullDetails": {
+    "licenseNumber": "16473977",
+    "name": "MORGAN MOTORS",
+    "address": "3650 50 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-06-06T11:00:51.000Z",
+    "expiryDate": "2026-06-05T11:00:51.000Z",
+    "coordinates": [
+      -113.9793128,
+      51.0092715
+    ],
+    "longitude": -113.9793128,
+    "latitude": 51.0092715,
+    "community": "EASTFIELD",
+    "ward": "EFI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

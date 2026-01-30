@@ -1,0 +1,37 @@
+{
+  "id": "16658650",
+  "fullDetails": {
+    "licenseNumber": "16658650",
+    "name": "RYUKO TENTH",
+    "address": "1004 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2025-07-21T11:26:43.000Z",
+    "expiryDate": "2026-07-20T11:26:43.000Z",
+    "coordinates": [
+      -114.0944374,
+      51.0440048
+    ],
+    "longitude": -114.0944374,
+    "latitude": 51.0440048,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

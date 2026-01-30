@@ -1,0 +1,36 @@
+{
+  "id": "16399289",
+  "fullDetails": {
+    "licenseNumber": "16399289",
+    "name": "ELLISTON PLACE APARTMENTS",
+    "address": "915 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-01-10T05:37:18.000Z",
+    "expiryDate": "2027-01-09T05:37:18.000Z",
+    "coordinates": [
+      -113.9703813,
+      51.0444274
+    ],
+    "longitude": -113.9703813,
+    "latitude": 51.0444274,
+    "community": "FOREST LAWN",
+    "ward": "FLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

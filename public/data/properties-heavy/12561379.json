@@ -1,0 +1,36 @@
+{
+  "id": "12561379",
+  "fullDetails": {
+    "licenseNumber": "12561379",
+    "name": "ENCORE METALS",
+    "address": "7805 51 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2007-05-07T14:06:39.000Z",
+    "expiryDate": "2026-05-06T14:06:39.000Z",
+    "coordinates": [
+      -113.9608001,
+      50.9828882
+    ],
+    "longitude": -113.9608001,
+    "latitude": 50.9828882,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

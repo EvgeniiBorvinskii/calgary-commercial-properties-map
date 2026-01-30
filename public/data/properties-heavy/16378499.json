@@ -1,0 +1,36 @@
+{
+  "id": "16378499",
+  "fullDetails": {
+    "licenseNumber": "16378499",
+    "name": "CARBON UPCYCLING",
+    "address": "#20 6280 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-01-17T15:07:22.000Z",
+    "expiryDate": "2027-01-16T15:07:22.000Z",
+    "coordinates": [
+      -113.9403059,
+      50.9862868
+    ],
+    "longitude": -113.9403059,
+    "latitude": 50.9862868,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

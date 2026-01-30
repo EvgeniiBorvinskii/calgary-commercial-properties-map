@@ -1,0 +1,36 @@
+{
+  "id": "12653275",
+  "fullDetails": {
+    "licenseNumber": "12653275",
+    "name": "DAIRY QUEEN",
+    "address": "#143 1829 RANCHLANDS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "pending",
+    "issuedDate": "2008-03-24T14:45:04.000Z",
+    "expiryDate": "2026-03-23T14:45:04.000Z",
+    "coordinates": [
+      -114.1976822,
+      51.123085
+    ],
+    "longitude": -114.1976822,
+    "latitude": 51.123085,
+    "community": "RANCHLANDS",
+    "ward": "RAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

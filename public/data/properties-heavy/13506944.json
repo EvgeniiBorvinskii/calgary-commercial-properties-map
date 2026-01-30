@@ -1,0 +1,37 @@
+{
+  "id": "13506944",
+  "fullDetails": {
+    "licenseNumber": "13506944",
+    "name": "BRIX + BARREL",
+    "address": "351 4 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "TOBACCO RETAILER,",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nTOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2012-06-26T12:19:32.000Z",
+    "expiryDate": "2026-06-25T12:19:32.000Z",
+    "coordinates": [
+      -114.0694049,
+      51.0493578
+    ],
+    "longitude": -114.0694049,
+    "latitude": 51.0493578,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

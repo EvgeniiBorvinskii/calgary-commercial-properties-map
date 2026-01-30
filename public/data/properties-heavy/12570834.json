@@ -1,0 +1,36 @@
+{
+  "id": "12570834",
+  "fullDetails": {
+    "licenseNumber": "12570834",
+    "name": "MEDIA CLASSIFIED",
+    "address": "#5N 5550 36 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ADVERTISER CANVASSER OR DISTRIBUTOR",
+    "licenseTypes": "ADVERTISER CANVASSER OR DISTRIBUTOR",
+    "status": "active",
+    "issuedDate": "2025-12-30T13:00:48.000Z",
+    "expiryDate": "2026-12-29T13:00:47.000Z",
+    "coordinates": [
+      -113.9806633,
+      51.0031798
+    ],
+    "longitude": -113.9806633,
+    "latitude": 51.0031798,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

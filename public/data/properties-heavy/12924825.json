@@ -1,0 +1,36 @@
+{
+  "id": "12924825",
+  "fullDetails": {
+    "licenseNumber": "12924825",
+    "name": "SCHROEDER FENCING",
+    "address": "#8 4115 61 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-09T14:49:36.000Z",
+    "expiryDate": "2026-10-08T14:49:36.000Z",
+    "coordinates": [
+      -113.9758391,
+      50.9986053
+    ],
+    "longitude": -113.9758391,
+    "latitude": 50.9986053,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

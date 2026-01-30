@@ -1,0 +1,36 @@
+{
+  "id": "12691358",
+  "fullDetails": {
+    "licenseNumber": "12691358",
+    "name": "DOT FOODS CANADA",
+    "address": "4639 72 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2025-03-14T15:10:58.000Z",
+    "expiryDate": "2026-03-13T15:10:57.000Z",
+    "coordinates": [
+      -113.9682417,
+      50.9884234
+    ],
+    "longitude": -113.9682417,
+    "latitude": 50.9884234,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

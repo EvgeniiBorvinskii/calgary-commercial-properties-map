@@ -1,0 +1,36 @@
+{
+  "id": "811729",
+  "fullDetails": {
+    "licenseNumber": "811729",
+    "name": "ORS CANADA",
+    "address": "#16 4216 54 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2013-01-03T12:38:08.000Z",
+    "expiryDate": "2027-01-02T12:38:08.000Z",
+    "coordinates": [
+      -113.9734558,
+      51.0060794
+    ],
+    "longitude": -113.9734558,
+    "latitude": 51.0060794,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

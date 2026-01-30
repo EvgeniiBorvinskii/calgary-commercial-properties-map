@@ -1,0 +1,36 @@
+{
+  "id": "16472920",
+  "fullDetails": {
+    "licenseNumber": "16472920",
+    "name": "DR PHONE FIX",
+    "address": "#219 4307 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-09-25T14:47:29.000Z",
+    "expiryDate": "2026-09-24T14:47:28.000Z",
+    "coordinates": [
+      -113.9706084,
+      50.9307196
+    ],
+    "longitude": -113.9706084,
+    "latitude": 50.9307196,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13982715",
+  "fullDetails": {
+    "licenseNumber": "13982715",
+    "name": "TOP GEAR CAR WASH",
+    "address": "1796 120 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2015-08-27T14:38:35.000Z",
+    "expiryDate": "2026-08-26T14:38:35.000Z",
+    "coordinates": [
+      -114.0207466,
+      51.1621008
+    ],
+    "longitude": -114.0207466,
+    "latitude": 51.1621008,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

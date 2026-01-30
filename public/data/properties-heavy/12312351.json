@@ -1,0 +1,36 @@
+{
+  "id": "12312351",
+  "fullDetails": {
+    "licenseNumber": "12312351",
+    "name": "XYDOM TECHNOLOGIES",
+    "address": "#950 441 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2023-10-17T20:37:29.000Z",
+    "expiryDate": "2026-10-16T20:37:29.000Z",
+    "coordinates": [
+      -114.0710748,
+      51.0484441
+    ],
+    "longitude": -114.0710748,
+    "latitude": 51.0484441,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

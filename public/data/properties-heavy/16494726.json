@@ -1,0 +1,36 @@
+{
+  "id": "16494726",
+  "fullDetails": {
+    "licenseNumber": "16494726",
+    "name": "STAMPEDE DRIVER TRAINING SCHOOL",
+    "address": "#17 1725 30 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (DRIVER EDUCATION)",
+    "licenseTypes": "SCHOOL (DRIVER EDUCATION)",
+    "status": "active",
+    "issuedDate": "2024-08-13T13:38:15.000Z",
+    "expiryDate": "2026-08-12T13:38:15.000Z",
+    "coordinates": [
+      -114.0167227,
+      51.0791904
+    ],
+    "longitude": -114.0167227,
+    "latitude": 51.0791904,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

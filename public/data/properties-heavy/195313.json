@@ -1,0 +1,37 @@
+{
+  "id": "195313",
+  "fullDetails": {
+    "licenseNumber": "195313",
+    "name": "TAVERN 52",
+    "address": "#110 1830 52 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "TOBACCO RETAILER,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2022-01-17T07:28:45.000Z",
+    "expiryDate": "2027-01-16T07:28:45.000Z",
+    "coordinates": [
+      -113.9577561,
+      51.0369743
+    ],
+    "longitude": -113.9577561,
+    "latitude": 51.0369743,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

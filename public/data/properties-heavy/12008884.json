@@ -1,0 +1,36 @@
+{
+  "id": "12008884",
+  "fullDetails": {
+    "licenseNumber": "12008884",
+    "name": "SELECT TAXIDERMY PRODUCTS",
+    "address": "#109 1829 54 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2006-08-02T05:34:47.000Z",
+    "expiryDate": "2026-08-01T05:34:47.000Z",
+    "coordinates": [
+      -113.956413,
+      51.0362459
+    ],
+    "longitude": -113.956413,
+    "latitude": 51.0362459,
+    "community": "FOREST LAWN INDUSTRIAL",
+    "ward": "FLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14643787",
+  "fullDetails": {
+    "licenseNumber": "14643787",
+    "name": "GRAPHIX IN MOTION",
+    "address": "#29 9151 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MANUFACTURER,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2017-09-06T15:00:15.000Z",
+    "expiryDate": "2026-09-05T15:00:15.000Z",
+    "coordinates": [
+      -113.9711395,
+      50.9718754
+    ],
+    "longitude": -113.9711395,
+    "latitude": 50.9718754,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

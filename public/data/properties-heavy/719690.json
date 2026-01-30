@@ -1,0 +1,36 @@
+{
+  "id": "719690",
+  "fullDetails": {
+    "licenseNumber": "719690",
+    "name": "M T SERVICE & UPHOLSTERY",
+    "address": "5340 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2013-05-01T10:35:41.000Z",
+    "expiryDate": "2026-04-30T10:35:41.000Z",
+    "coordinates": [
+      -114.0668378,
+      51.0057776
+    ],
+    "longitude": -114.0668378,
+    "latitude": 51.0057776,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

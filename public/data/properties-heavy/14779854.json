@@ -1,0 +1,37 @@
+{
+  "id": "14779854",
+  "fullDetails": {
+    "licenseNumber": "14779854",
+    "name": "BETTER MEDICAL",
+    "address": "#518 922 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2018-02-15T14:50:53.000Z",
+    "expiryDate": "2027-02-14T14:50:53.000Z",
+    "coordinates": [
+      -114.0821618,
+      51.0492202
+    ],
+    "longitude": -114.0821618,
+    "latitude": 51.0492202,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

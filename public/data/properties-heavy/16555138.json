@@ -1,0 +1,36 @@
+{
+  "id": "16555138",
+  "fullDetails": {
+    "licenseNumber": "16555138",
+    "name": "LABELINK PRODUCTS",
+    "address": "#112 5726 BURLEIGH CR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-06-25T10:45:41.000Z",
+    "expiryDate": "2026-06-24T10:45:40.000Z",
+    "coordinates": [
+      -114.0428844,
+      51.0035961
+    ],
+    "longitude": -114.0428844,
+    "latitude": 51.0035961,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

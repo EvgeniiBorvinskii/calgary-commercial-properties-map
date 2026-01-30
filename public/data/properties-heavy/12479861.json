@@ -1,0 +1,36 @@
+{
+  "id": "12479861",
+  "fullDetails": {
+    "licenseNumber": "12479861",
+    "name": "ELITE FORMWORK / ELITE PROPERTIES",
+    "address": "9935 ENTERPRISE WY SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2007-09-06T05:33:53.000Z",
+    "expiryDate": "2026-09-05T05:33:53.000Z",
+    "coordinates": [
+      -113.8980787,
+      50.9639757
+    ],
+    "longitude": -113.8980787,
+    "latitude": 50.9639757,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

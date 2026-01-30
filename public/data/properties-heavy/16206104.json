@@ -1,0 +1,36 @@
+{
+  "id": "16206104",
+  "fullDetails": {
+    "licenseNumber": "16206104",
+    "name": "ALBERTA COLLEGE OF ACUPUNCTURE",
+    "address": "#500 628 12 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2024-05-18T05:33:53.000Z",
+    "expiryDate": "2026-05-17T05:33:53.000Z",
+    "coordinates": [
+      -114.0758349,
+      51.0420487
+    ],
+    "longitude": -114.0758349,
+    "latitude": 51.0420487,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

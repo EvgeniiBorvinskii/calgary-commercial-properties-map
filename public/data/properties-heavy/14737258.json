@@ -1,0 +1,36 @@
+{
+  "id": "14737258",
+  "fullDetails": {
+    "licenseNumber": "14737258",
+    "name": "ANDES REFURBISHING",
+    "address": "#2 3227 56 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FURNITURE REFINISHING",
+    "licenseTypes": "FURNITURE REFINISHING",
+    "status": "active",
+    "issuedDate": "2020-09-15T14:33:04.000Z",
+    "expiryDate": "2026-09-14T14:33:04.000Z",
+    "coordinates": [
+      -113.9864054,
+      51.001988
+    ],
+    "longitude": -113.9864054,
+    "latitude": 51.001988,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "146720",
+  "fullDetails": {
+    "licenseNumber": "146720",
+    "name": "PYRAMID INTERIOR SYSTEMS",
+    "address": "#100 3668 60 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2013-12-04T14:55:07.000Z",
+    "expiryDate": "2026-12-03T14:55:07.000Z",
+    "coordinates": [
+      -113.9817677,
+      51.0004795
+    ],
+    "longitude": -113.9817677,
+    "latitude": 51.0004795,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

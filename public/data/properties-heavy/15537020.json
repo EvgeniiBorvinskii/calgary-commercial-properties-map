@@ -1,0 +1,37 @@
+{
+  "id": "15537020",
+  "fullDetails": {
+    "licenseNumber": "15537020",
+    "name": "DEAGLA RESTAURANT",
+    "address": "#2110 47 LEGACY VW SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "subType": "OUTDOOR PATIO",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING),\nOUTDOOR PATIO",
+    "status": "pending",
+    "issuedDate": "2020-01-21T11:10:38.000Z",
+    "expiryDate": "2026-01-20T11:10:38.000Z",
+    "coordinates": [
+      -114.0096234,
+      50.8627291
+    ],
+    "longitude": -114.0096234,
+    "latitude": 50.8627291,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

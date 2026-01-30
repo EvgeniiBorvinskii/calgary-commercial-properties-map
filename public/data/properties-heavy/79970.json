@@ -1,0 +1,37 @@
+{
+  "id": "79970",
+  "fullDetails": {
+    "licenseNumber": "79970",
+    "name": "UNIVERSAL SLATE",
+    "address": "4049 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-23T05:33:24.000Z",
+    "expiryDate": "2026-11-22T05:33:24.000Z",
+    "coordinates": [
+      -114.0376977,
+      51.0179698
+    ],
+    "longitude": -114.0376977,
+    "latitude": 51.0179698,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

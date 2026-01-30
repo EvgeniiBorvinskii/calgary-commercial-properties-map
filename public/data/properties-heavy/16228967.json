@@ -1,0 +1,36 @@
+{
+  "id": "16228967",
+  "fullDetails": {
+    "licenseNumber": "16228967",
+    "name": "PHOTO GHION",
+    "address": "#660 433 MARLBOROUGH WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2024-10-08T09:35:12.000Z",
+    "expiryDate": "2026-10-07T09:35:11.000Z",
+    "coordinates": [
+      -113.978036,
+      51.0559972
+    ],
+    "longitude": -113.978036,
+    "latitude": 51.0559972,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

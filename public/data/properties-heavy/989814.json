@@ -1,0 +1,36 @@
+{
+  "id": "989814",
+  "fullDetails": {
+    "licenseNumber": "989814",
+    "name": "DENT CLINIC",
+    "address": "5055 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2023-04-29T05:33:03.000Z",
+    "expiryDate": "2026-04-28T05:33:03.000Z",
+    "coordinates": [
+      -114.037976,
+      51.0081084
+    ],
+    "longitude": -114.037976,
+    "latitude": 51.0081084,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

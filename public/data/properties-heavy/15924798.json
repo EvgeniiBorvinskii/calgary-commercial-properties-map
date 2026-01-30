@@ -1,0 +1,36 @@
+{
+  "id": "15924798",
+  "fullDetails": {
+    "licenseNumber": "15924798",
+    "name": "CITY COLLEGE OF MANAGEMENT",
+    "address": "#330 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. APPROVED)",
+    "licenseTypes": "SCHOOL (PROV. APPROVED)",
+    "status": "active",
+    "issuedDate": "2022-07-19T11:26:09.000Z",
+    "expiryDate": "2026-07-18T11:26:09.000Z",
+    "coordinates": [
+      -113.9748919,
+      51.1068937
+    ],
+    "longitude": -113.9748919,
+    "latitude": 51.1068937,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15937915",
+  "fullDetails": {
+    "licenseNumber": "15937915",
+    "name": "2 FOR 1 PIZZA HOUSE",
+    "address": "#123 55 WESTWINDS CR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2020-12-07T12:40:16.000Z",
+    "expiryDate": "2026-12-06T12:40:16.000Z",
+    "coordinates": [
+      -113.9692383,
+      51.1071494
+    ],
+    "longitude": -113.9692383,
+    "latitude": 51.1071494,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

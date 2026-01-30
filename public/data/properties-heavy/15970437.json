@@ -1,0 +1,36 @@
+{
+  "id": "15970437",
+  "fullDetails": {
+    "licenseNumber": "15970437",
+    "name": "ROYAL OAK BOTTLE DEPOT",
+    "address": "#7 7715 112 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTAINER DEPOT",
+    "licenseTypes": "CONTAINER DEPOT",
+    "status": "active",
+    "issuedDate": "2021-01-07T10:45:29.000Z",
+    "expiryDate": "2027-01-06T10:45:29.000Z",
+    "coordinates": [
+      -114.1977835,
+      51.1535942
+    ],
+    "longitude": -114.1977835,
+    "latitude": 51.1535942,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

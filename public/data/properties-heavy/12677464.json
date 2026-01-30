@@ -1,0 +1,37 @@
+{
+  "id": "12677464",
+  "fullDetails": {
+    "licenseNumber": "12677464",
+    "name": "DURABUILT WINDOWS AND DOORS",
+    "address": "#2105 6027 79 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "subType": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "WHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2017-12-07T05:32:40.000Z",
+    "expiryDate": "2026-12-06T05:32:40.000Z",
+    "coordinates": [
+      -113.9437689,
+      50.9804125
+    ],
+    "longitude": -113.9437689,
+    "latitude": 50.9804125,
+    "community": "GREAT PLAINS",
+    "ward": "GPI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

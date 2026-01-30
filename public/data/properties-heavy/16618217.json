@@ -1,0 +1,36 @@
+{
+  "id": "16618217",
+  "fullDetails": {
+    "licenseNumber": "16618217",
+    "name": "PRESTIGE DANCE ACADEMY",
+    "address": "6737 FAIRMOUNT DR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-28T09:34:27.000Z",
+    "expiryDate": "2026-10-27T09:34:27.000Z",
+    "coordinates": [
+      -114.0646416,
+      50.9928059
+    ],
+    "longitude": -114.0646416,
+    "latitude": 50.9928059,
+    "community": "FAIRVIEW INDUSTRIAL",
+    "ward": "FVI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

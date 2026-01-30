@@ -1,0 +1,36 @@
+{
+  "id": "15562077",
+  "fullDetails": {
+    "licenseNumber": "15562077",
+    "name": "CHARLOTTE'S WEB FLORISTS",
+    "address": "#231 425 1 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-06-13T13:03:00.000Z",
+    "expiryDate": "2026-06-12T13:03:00.000Z",
+    "coordinates": [
+      -114.0657068,
+      51.0489469
+    ],
+    "longitude": -114.0657068,
+    "latitude": 51.0489469,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

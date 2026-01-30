@@ -1,0 +1,36 @@
+{
+  "id": "40972",
+  "fullDetails": {
+    "licenseNumber": "40972",
+    "name": "WILSON PHOTO & VIDEO",
+    "address": "#118 108 3 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PHOTOGRAPHER",
+    "licenseTypes": "PHOTOGRAPHER",
+    "status": "active",
+    "issuedDate": "2009-01-15T09:27:19.000Z",
+    "expiryDate": "2027-01-14T09:27:19.000Z",
+    "coordinates": [
+      -114.0632611,
+      51.0506084
+    ],
+    "longitude": -114.0632611,
+    "latitude": 51.0506084,
+    "community": "CHINATOWN",
+    "ward": "CHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

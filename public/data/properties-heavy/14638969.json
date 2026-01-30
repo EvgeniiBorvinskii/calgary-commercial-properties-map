@@ -1,0 +1,36 @@
+{
+  "id": "14638969",
+  "fullDetails": {
+    "licenseNumber": "14638969",
+    "name": "BOYD AUTOBODY & GLASS #11109",
+    "address": "14131 MCIVOR BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2017-11-14T11:13:22.000Z",
+    "expiryDate": "2026-11-13T11:13:21.000Z",
+    "coordinates": [
+      -113.9357073,
+      50.927
+    ],
+    "longitude": -113.9357073,
+    "latitude": 50.927,
+    "community": "NEW BRIGHTON",
+    "ward": "NEB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

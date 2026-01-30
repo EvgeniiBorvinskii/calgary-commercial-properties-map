@@ -1,0 +1,36 @@
+{
+  "id": "16651515",
+  "fullDetails": {
+    "licenseNumber": "16651515",
+    "name": "KINSOL PHARMACY",
+    "address": "#110 80 SAGE HILL RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-07-11T13:15:19.000Z",
+    "expiryDate": "2026-07-10T13:15:19.000Z",
+    "coordinates": [
+      -114.1443886,
+      51.1738503
+    ],
+    "longitude": -114.1443886,
+    "latitude": 51.1738503,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

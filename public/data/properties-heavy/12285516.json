@@ -1,0 +1,36 @@
+{
+  "id": "12285516",
+  "fullDetails": {
+    "licenseNumber": "12285516",
+    "name": "PRO-ACTIVE AUTOMOTIVE",
+    "address": "3605 MANCHESTER RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-08-01T14:57:06.000Z",
+    "expiryDate": "2026-07-31T14:57:05.000Z",
+    "coordinates": [
+      -114.0565937,
+      51.0229208
+    ],
+    "longitude": -114.0565937,
+    "latitude": 51.0229208,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

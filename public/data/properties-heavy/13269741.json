@@ -1,0 +1,36 @@
+{
+  "id": "13269741",
+  "fullDetails": {
+    "licenseNumber": "13269741",
+    "name": "JEPSON PETROLEUM",
+    "address": "#L 8490 23 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FUEL SALES/STORAGE",
+    "licenseTypes": "FUEL SALES/STORAGE",
+    "status": "active",
+    "issuedDate": "2011-10-18T13:22:21.000Z",
+    "expiryDate": "2026-10-17T13:22:21.000Z",
+    "coordinates": [
+      -113.9137495,
+      51.0736809
+    ],
+    "longitude": -113.9137495,
+    "latitude": 51.0736809,
+    "community": "RESIDUAL WARD 10 - SUB AREA 10E",
+    "ward": "10E",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

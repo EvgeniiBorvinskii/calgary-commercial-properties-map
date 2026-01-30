@@ -1,0 +1,36 @@
+{
+  "id": "175745",
+  "fullDetails": {
+    "licenseNumber": "175745",
+    "name": "CENTURION MEDICAL",
+    "address": "#2 2616 16 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2010-07-27T05:50:36.000Z",
+    "expiryDate": "2026-07-26T05:50:36.000Z",
+    "coordinates": [
+      -114.0183119,
+      51.0757953
+    ],
+    "longitude": -114.0183119,
+    "latitude": 51.0757953,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

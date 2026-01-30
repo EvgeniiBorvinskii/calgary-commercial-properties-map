@@ -1,0 +1,37 @@
+{
+  "id": "14730469",
+  "fullDetails": {
+    "licenseNumber": "14730469",
+    "name": "RUSSIAN STORE",
+    "address": "#5 523 WOODPARK BV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2017-11-10T15:16:47.000Z",
+    "expiryDate": "2026-11-09T15:16:47.000Z",
+    "coordinates": [
+      -114.1097254,
+      50.9410986
+    ],
+    "longitude": -114.1097254,
+    "latitude": 50.9410986,
+    "community": "WOODLANDS",
+    "ward": "WOO",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

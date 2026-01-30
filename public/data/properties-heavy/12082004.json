@@ -1,0 +1,36 @@
+{
+  "id": "12082004",
+  "fullDetails": {
+    "licenseNumber": "12082004",
+    "name": "RACQUET CENTRAL",
+    "address": "2035 26 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2009-05-15T05:36:31.000Z",
+    "expiryDate": "2026-05-14T05:36:30.000Z",
+    "coordinates": [
+      -114.1090944,
+      51.0302033
+    ],
+    "longitude": -114.1090944,
+    "latitude": 51.0302033,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15807860",
+  "fullDetails": {
+    "licenseNumber": "15807860",
+    "name": "GARCHA BROS MEAT SHOP AND POULTRY",
+    "address": "#3030 2045 SYMONS VALLEY PY NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2019-10-15T08:24:48.000Z",
+    "expiryDate": "2026-10-14T08:24:48.000Z",
+    "coordinates": [
+      -114.1074573,
+      51.1742899
+    ],
+    "longitude": -114.1074573,
+    "latitude": 51.1742899,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

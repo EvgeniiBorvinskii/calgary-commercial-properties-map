@@ -1,0 +1,36 @@
+{
+  "id": "14474456",
+  "fullDetails": {
+    "licenseNumber": "14474456",
+    "name": "EN L'AIR ACADEMY",
+    "address": "#12 10672 46 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-12-15T11:20:35.000Z",
+    "expiryDate": "2026-12-14T11:20:35.000Z",
+    "coordinates": [
+      -113.96764,
+      50.9588393
+    ],
+    "longitude": -113.96764,
+    "latitude": 50.9588393,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

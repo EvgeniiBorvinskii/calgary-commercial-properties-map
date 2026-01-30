@@ -1,0 +1,36 @@
+{
+  "id": "15987167",
+  "fullDetails": {
+    "licenseNumber": "15987167",
+    "name": "AUTHENTIC JIU JITSU",
+    "address": "#20 3616 52 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2021-03-16T11:46:52.000Z",
+    "expiryDate": "2026-03-15T11:46:52.000Z",
+    "coordinates": [
+      -114.1401273,
+      51.101749
+    ],
+    "longitude": -114.1401273,
+    "latitude": 51.101749,
+    "community": "BRENTWOOD",
+    "ward": "BRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

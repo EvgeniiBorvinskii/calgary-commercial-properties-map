@@ -1,0 +1,36 @@
+{
+  "id": "14764518",
+  "fullDetails": {
+    "licenseNumber": "14764518",
+    "name": "BAILEY NELSON",
+    "address": "104 10 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2018-01-09T10:12:47.000Z",
+    "expiryDate": "2027-01-08T10:12:47.000Z",
+    "coordinates": [
+      -114.0856373,
+      51.0523005
+    ],
+    "longitude": -114.0856373,
+    "latitude": 51.0523005,
+    "community": "SUNNYSIDE",
+    "ward": "SSD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

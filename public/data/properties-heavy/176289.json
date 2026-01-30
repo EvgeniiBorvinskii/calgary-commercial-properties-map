@@ -1,0 +1,37 @@
+{
+  "id": "176289",
+  "fullDetails": {
+    "licenseNumber": "176289",
+    "name": "ALBERTA BOOT COMPANY",
+    "address": "#A 121 10 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MANUFACTURER,\nRETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-06-12T09:25:18.000Z",
+    "expiryDate": "2026-06-11T09:25:17.000Z",
+    "coordinates": [
+      -114.0618257,
+      51.0430314
+    ],
+    "longitude": -114.0618257,
+    "latitude": 51.0430314,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

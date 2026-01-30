@@ -1,0 +1,36 @@
+{
+  "id": "15010739",
+  "fullDetails": {
+    "licenseNumber": "15010739",
+    "name": "AVIS AUTO BODY",
+    "address": "#6 4101 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AUTO BODY SHOP",
+    "licenseTypes": "AUTO BODY SHOP",
+    "status": "active",
+    "issuedDate": "2018-09-24T13:15:40.000Z",
+    "expiryDate": "2026-09-23T13:15:39.000Z",
+    "coordinates": [
+      -114.0125627,
+      51.0895493
+    ],
+    "longitude": -114.0125627,
+    "latitude": 51.0895493,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

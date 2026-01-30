@@ -1,0 +1,36 @@
+{
+  "id": "344812",
+  "fullDetails": {
+    "licenseNumber": "344812",
+    "name": "HIGH LINE ELECTRICAL CONSTRUCTORS",
+    "address": "10885 84 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-04-28T07:50:48.000Z",
+    "expiryDate": "2026-04-27T07:50:47.000Z",
+    "coordinates": [
+      -113.9130161,
+      50.9565424
+    ],
+    "longitude": -113.9130161,
+    "latitude": 50.9565424,
+    "community": "RESIDUAL WARD 12 - SUB AREA 12A",
+    "ward": "12A",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

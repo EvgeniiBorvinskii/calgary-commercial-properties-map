@@ -1,0 +1,36 @@
+{
+  "id": "16509317",
+  "fullDetails": {
+    "licenseNumber": "16509317",
+    "name": "BEMOD BEAUTY SUPPLY AND HAIR BRAIDING",
+    "address": "#2150 3950 SAGE HILL DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-11-28T09:18:57.000Z",
+    "expiryDate": "2026-11-27T09:18:57.000Z",
+    "coordinates": [
+      -114.1387966,
+      51.1743276
+    ],
+    "longitude": -114.1387966,
+    "latitude": 51.1743276,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

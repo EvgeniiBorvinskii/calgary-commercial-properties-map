@@ -1,0 +1,36 @@
+{
+  "id": "16634941",
+  "fullDetails": {
+    "licenseNumber": "16634941",
+    "name": "TB_MANICURE",
+    "address": "#101 750 11 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-12-01T09:46:31.000Z",
+    "expiryDate": "2026-11-30T09:46:30.000Z",
+    "coordinates": [
+      -114.0883523,
+      51.0465633
+    ],
+    "longitude": -114.0883523,
+    "latitude": 51.0465633,
+    "community": "DOWNTOWN WEST END",
+    "ward": "DNW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

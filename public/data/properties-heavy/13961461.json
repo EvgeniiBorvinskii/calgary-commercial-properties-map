@@ -1,0 +1,36 @@
+{
+  "id": "13961461",
+  "fullDetails": {
+    "licenseNumber": "13961461",
+    "name": "BRILLIANT BEGINNINGS EDUCATIONAL CENTRE",
+    "address": "#118 8060 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2015-09-14T14:39:25.000Z",
+    "expiryDate": "2026-09-13T14:39:25.000Z",
+    "coordinates": [
+      -114.2042728,
+      51.1162019
+    ],
+    "longitude": -114.2042728,
+    "latitude": 51.1162019,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

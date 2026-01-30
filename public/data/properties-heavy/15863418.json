@@ -1,0 +1,37 @@
+{
+  "id": "15863418",
+  "fullDetails": {
+    "licenseNumber": "15863418",
+    "name": "FUJI RAMEN AND SUSHI",
+    "address": "#111 12100 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2020-05-07T07:27:53.000Z",
+    "expiryDate": "2026-05-06T07:27:53.000Z",
+    "coordinates": [
+      -114.0689746,
+      50.9448599
+    ],
+    "longitude": -114.0689746,
+    "latitude": 50.9448599,
+    "community": "LAKE BONAVISTA",
+    "ward": "LKB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14538821",
+  "fullDetails": {
+    "licenseNumber": "14538821",
+    "name": "TMC CONSTRUCTION MANAGEMENT",
+    "address": "#24 2333 18 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2023-11-07T16:08:56.000Z",
+    "expiryDate": "2026-11-06T16:08:56.000Z",
+    "coordinates": [
+      -114.0049242,
+      51.0687292
+    ],
+    "longitude": -114.0049242,
+    "latitude": 51.0687292,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

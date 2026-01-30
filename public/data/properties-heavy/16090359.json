@@ -1,0 +1,36 @@
+{
+  "id": "16090359",
+  "fullDetails": {
+    "licenseNumber": "16090359",
+    "name": "DA POP-UP SHOP",
+    "address": "#1240 3800 MEMORIAL DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2021-10-14T12:43:46.000Z",
+    "expiryDate": "2026-10-13T12:43:46.000Z",
+    "coordinates": [
+      -113.978362,
+      51.0555957
+    ],
+    "longitude": -113.978362,
+    "latitude": 51.0555957,
+    "community": "MARLBOROUGH",
+    "ward": "MRL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

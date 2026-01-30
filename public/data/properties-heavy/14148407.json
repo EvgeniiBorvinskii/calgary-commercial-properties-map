@@ -1,0 +1,36 @@
+{
+  "id": "14148407",
+  "fullDetails": {
+    "licenseNumber": "14148407",
+    "name": "ELEVATE CHIRO",
+    "address": "3412 114 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-19T11:44:14.000Z",
+    "expiryDate": "2026-10-18T11:44:14.000Z",
+    "coordinates": [
+      -113.9878686,
+      50.9499819
+    ],
+    "longitude": -113.9878686,
+    "latitude": 50.9499819,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

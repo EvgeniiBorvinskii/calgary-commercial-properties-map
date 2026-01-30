@@ -1,0 +1,37 @@
+{
+  "id": "16666349",
+  "fullDetails": {
+    "licenseNumber": "16666349",
+    "name": "HOTWORX CALGARY",
+    "address": "#109 40 COPPERPOND PS SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2025-09-09T08:39:54.000Z",
+    "expiryDate": "2026-09-08T08:39:54.000Z",
+    "coordinates": [
+      -113.9324581,
+      50.9271239
+    ],
+    "longitude": -113.9324581,
+    "latitude": 50.9271239,
+    "community": "COPPERFIELD",
+    "ward": "CPF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

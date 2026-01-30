@@ -1,0 +1,36 @@
+{
+  "id": "13976741",
+  "fullDetails": {
+    "licenseNumber": "13976741",
+    "name": "SULTAAN AUTO REPAIR",
+    "address": "#205 4656 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "pending",
+    "issuedDate": "2016-03-18T09:08:26.000Z",
+    "expiryDate": "2026-03-17T09:08:26.000Z",
+    "coordinates": [
+      -113.9679091,
+      51.1006479
+    ],
+    "longitude": -113.9679091,
+    "latitude": 51.1006479,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

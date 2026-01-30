@@ -1,0 +1,36 @@
+{
+  "id": "16301996",
+  "fullDetails": {
+    "licenseNumber": "16301996",
+    "name": "ALBERTA LIQUOR WINE AND SPIRITS",
+    "address": "#14 14 RICHARD WY SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "LIQUOR STORE",
+    "licenseTypes": "LIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2023-03-27T13:02:40.000Z",
+    "expiryDate": "2026-03-26T13:02:40.000Z",
+    "coordinates": [
+      -114.1298854,
+      51.0065917
+    ],
+    "longitude": -114.1298854,
+    "latitude": 51.0065917,
+    "community": "LINCOLN PARK",
+    "ward": "LPK",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

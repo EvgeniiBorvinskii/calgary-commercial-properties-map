@@ -1,0 +1,36 @@
+{
+  "id": "13169362",
+  "fullDetails": {
+    "licenseNumber": "13169362",
+    "name": "CARTER'S OSHKOSH #3427",
+    "address": "#520 303 SHAWVILLE BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2011-07-22T14:19:06.000Z",
+    "expiryDate": "2026-07-21T14:19:06.000Z",
+    "coordinates": [
+      -114.0655773,
+      50.9000438
+    ],
+    "longitude": -114.0655773,
+    "latitude": 50.9000438,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16112724",
+  "fullDetails": {
+    "licenseNumber": "16112724",
+    "name": "PILLAR TELECOM",
+    "address": "#1 1925 39 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-01-07T09:34:17.000Z",
+    "expiryDate": "2027-01-06T09:34:17.000Z",
+    "coordinates": [
+      -114.0131023,
+      51.0878832
+    ],
+    "longitude": -114.0131023,
+    "latitude": 51.0878832,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

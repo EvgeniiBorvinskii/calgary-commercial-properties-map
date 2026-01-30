@@ -1,0 +1,36 @@
+{
+  "id": "16191116",
+  "fullDetails": {
+    "licenseNumber": "16191116",
+    "name": "THE MOON TEA HOUSE - LEGACY",
+    "address": "#420 80 LONGVIEW CM SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2022-09-22T16:07:33.000Z",
+    "expiryDate": "2026-09-21T16:07:33.000Z",
+    "coordinates": [
+      -114.0315482,
+      50.8649938
+    ],
+    "longitude": -114.0315482,
+    "latitude": 50.8649938,
+    "community": "LEGACY",
+    "ward": "LEG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

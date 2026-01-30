@@ -1,0 +1,37 @@
+{
+  "id": "81463",
+  "fullDetails": {
+    "licenseNumber": "81463",
+    "name": "SIGNATURE FANS & LIGHTING",
+    "address": "3500 7 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES,\nCONTRACTOR,\nALCOHOL BEVERAGE SALES (ACCESSORY)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-08-16T00:00:00.000Z",
+    "coordinates": [
+      -114.0451529,
+      51.0227232
+    ],
+    "longitude": -114.0451529,
+    "latitude": 51.0227232,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

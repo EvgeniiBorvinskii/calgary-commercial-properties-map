@@ -1,0 +1,36 @@
+{
+  "id": "13051313",
+  "fullDetails": {
+    "licenseNumber": "13051313",
+    "name": "HOLISTIC INSTITUTE OF HEALTH AND FERTILITY",
+    "address": "#213 45 GREENBRIAR LN NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-04-30T15:12:45.000Z",
+    "expiryDate": "2026-04-29T15:12:45.000Z",
+    "coordinates": [
+      -114.2205288,
+      51.0879772
+    ],
+    "longitude": -114.2205288,
+    "latitude": 51.0879772,
+    "community": "GREENWOOD/GREENBRIAR",
+    "ward": "GRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

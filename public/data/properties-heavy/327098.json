@@ -1,0 +1,37 @@
+{
+  "id": "327098",
+  "fullDetails": {
+    "licenseNumber": "327098",
+    "name": "TRAIL APPLIANCES",
+    "address": "2745 29 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "SECONDHAND DEALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nSECONDHAND DEALER",
+    "status": "active",
+    "issuedDate": "2003-07-04T05:34:01.000Z",
+    "expiryDate": "2026-07-03T05:34:01.000Z",
+    "coordinates": [
+      -113.9927618,
+      51.0782431
+    ],
+    "longitude": -113.9927618,
+    "latitude": 51.0782431,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

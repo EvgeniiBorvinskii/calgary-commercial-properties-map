@@ -1,0 +1,36 @@
+{
+  "id": "14044705",
+  "fullDetails": {
+    "licenseNumber": "14044705",
+    "name": "APARTMENT BUILDING",
+    "address": "1115 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (1 TO 3 STOREYS)",
+    "status": "pending",
+    "issuedDate": "2016-04-06T10:30:25.000Z",
+    "expiryDate": "2026-04-05T10:30:25.000Z",
+    "coordinates": [
+      -114.0420051,
+      51.0393649
+    ],
+    "longitude": -114.0420051,
+    "latitude": 51.0393649,
+    "community": "RAMSAY",
+    "ward": "RAM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14820070",
+  "fullDetails": {
+    "licenseNumber": "14820070",
+    "name": "WONDERLAND MICROPIGMENT COSMETIC CLINIC CALGARY",
+    "address": "2831 14 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (PIERCING) (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (PIERCING) (TATTOO)",
+    "status": "active",
+    "issuedDate": "2019-12-05T08:13:49.000Z",
+    "expiryDate": "2026-12-04T08:13:49.000Z",
+    "coordinates": [
+      -114.0949973,
+      51.0287766
+    ],
+    "longitude": -114.0949973,
+    "latitude": 51.0287766,
+    "community": "SOUTH CALGARY",
+    "ward": "SOC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

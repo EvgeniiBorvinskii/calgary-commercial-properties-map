@@ -1,0 +1,37 @@
+{
+  "id": "16456303",
+  "fullDetails": {
+    "licenseNumber": "16456303",
+    "name": "MYODETOX",
+    "address": "1709 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2024-07-12T15:27:55.000Z",
+    "expiryDate": "2026-07-11T15:27:55.000Z",
+    "coordinates": [
+      -114.0821776,
+      51.0375361
+    ],
+    "longitude": -114.0821776,
+    "latitude": 51.0375361,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

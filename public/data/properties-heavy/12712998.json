@@ -1,0 +1,37 @@
+{
+  "id": "12712998",
+  "fullDetails": {
+    "licenseNumber": "12712998",
+    "name": "SWIGS PUB & GRILL",
+    "address": "11213 30 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT)",
+    "subType": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2008-11-21T10:23:50.000Z",
+    "expiryDate": "2026-11-20T10:23:50.000Z",
+    "coordinates": [
+      -114.1302326,
+      50.9536018
+    ],
+    "longitude": -114.1302326,
+    "latitude": 50.9536018,
+    "community": "CEDARBRAE",
+    "ward": "CED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

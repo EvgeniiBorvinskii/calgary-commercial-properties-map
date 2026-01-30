@@ -1,0 +1,37 @@
+{
+  "id": "16179939",
+  "fullDetails": {
+    "licenseNumber": "16179939",
+    "name": "EASTLAKE HUSKY/ESSO",
+    "address": "5225 106 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "TOBACCO RETAILER",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "TOBACCO RETAILER,\nRETAIL DEALER - PREMISES,\nFUEL SALES/STORAGE,\nMOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R),\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-12T11:03:30.000Z",
+    "expiryDate": "2026-08-11T11:03:30.000Z",
+    "coordinates": [
+      -113.9596772,
+      50.9573286
+    ],
+    "longitude": -113.9596772,
+    "latitude": 50.9573286,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

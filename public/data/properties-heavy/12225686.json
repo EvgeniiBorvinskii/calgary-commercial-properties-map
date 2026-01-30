@@ -1,0 +1,36 @@
+{
+  "id": "12225686",
+  "fullDetails": {
+    "licenseNumber": "12225686",
+    "name": "SUNSHINE COACH",
+    "address": "4715 76 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-12-22T12:43:25.000Z",
+    "expiryDate": "2026-12-21T12:43:25.000Z",
+    "coordinates": [
+      -113.9658664,
+      50.9848152
+    ],
+    "longitude": -113.9658664,
+    "latitude": 50.9848152,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

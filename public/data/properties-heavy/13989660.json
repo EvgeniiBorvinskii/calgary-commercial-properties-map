@@ -1,0 +1,36 @@
+{
+  "id": "13989660",
+  "fullDetails": {
+    "licenseNumber": "13989660",
+    "name": "SUNSHINE CARWASH & DETAILING",
+    "address": "205 5 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (2-PROV N/R)",
+    "status": "active",
+    "issuedDate": "2015-08-13T10:00:29.000Z",
+    "expiryDate": "2026-08-12T10:00:29.000Z",
+    "coordinates": [
+      -114.0659647,
+      51.0481852
+    ],
+    "longitude": -114.0659647,
+    "latitude": 51.0481852,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

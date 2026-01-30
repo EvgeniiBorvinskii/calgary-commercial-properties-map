@@ -1,0 +1,36 @@
+{
+  "id": "15980899",
+  "fullDetails": {
+    "licenseNumber": "15980899",
+    "name": "DHIR TRADING",
+    "address": "#140 239 MAYLAND PL NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "licenseTypes": "RETAIL DEALER - PREMISES (MAIL ORDER)",
+    "status": "active",
+    "issuedDate": "2024-05-14T09:13:12.000Z",
+    "expiryDate": "2026-05-13T09:13:12.000Z",
+    "coordinates": [
+      -114.0107538,
+      51.0544326
+    ],
+    "longitude": -114.0107538,
+    "latitude": 51.0544326,
+    "community": "MAYLAND",
+    "ward": "MLI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

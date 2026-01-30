@@ -1,0 +1,36 @@
+{
+  "id": "16525180",
+  "fullDetails": {
+    "licenseNumber": "16525180",
+    "name": "REDA CANADA",
+    "address": "#200 720 28 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "DISTRIBUTION MANAGER",
+    "licenseTypes": "DISTRIBUTION MANAGER",
+    "status": "active",
+    "issuedDate": "2024-08-16T14:58:59.000Z",
+    "expiryDate": "2026-08-15T14:58:58.000Z",
+    "coordinates": [
+      -113.9925984,
+      51.0587497
+    ],
+    "longitude": -113.9925984,
+    "latitude": 51.0587497,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

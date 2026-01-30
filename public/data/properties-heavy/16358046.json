@@ -1,0 +1,36 @@
+{
+  "id": "16358046",
+  "fullDetails": {
+    "licenseNumber": "16358046",
+    "name": "CHACHIS",
+    "address": "#216 225 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2023-07-25T10:44:35.000Z",
+    "expiryDate": "2026-07-24T10:44:34.000Z",
+    "coordinates": [
+      -114.06645,
+      51.0471916
+    ],
+    "longitude": -114.06645,
+    "latitude": 51.0471916,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

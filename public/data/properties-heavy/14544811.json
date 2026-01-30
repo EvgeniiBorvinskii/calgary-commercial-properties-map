@@ -1,0 +1,37 @@
+{
+  "id": "14544811",
+  "fullDetails": {
+    "licenseNumber": "14544811",
+    "name": "AB GRANITO RESTORATIONS / GRANITE GUYS (THE)",
+    "address": "829 HIGHFIELD AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "subType": "CLEANING SERVICE (COMMERCIAL & RESIDENTIAL),",
+    "licenseTypes": "MANUFACTURER,\nCLEANING SERVICE (COMMERCIAL & RESIDENTIAL),\nCONTRACTOR",
+    "status": "active",
+    "issuedDate": "2019-10-29T10:58:51.000Z",
+    "expiryDate": "2026-10-28T10:58:51.000Z",
+    "coordinates": [
+      -114.0428641,
+      51.0153193
+    ],
+    "longitude": -114.0428641,
+    "latitude": 51.0153193,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "16311888",
+  "fullDetails": {
+    "licenseNumber": "16311888",
+    "name": "GOODEARTH COFFEEHOUSE",
+    "address": "#212 16061 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2023-05-11T10:02:26.000Z",
+    "expiryDate": "2026-05-10T10:02:26.000Z",
+    "coordinates": [
+      -114.0665852,
+      50.9075561
+    ],
+    "longitude": -114.0665852,
+    "latitude": 50.9075561,
+    "community": "SHAWNESSY",
+    "ward": "SHN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

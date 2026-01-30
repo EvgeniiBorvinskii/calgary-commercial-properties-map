@@ -1,0 +1,36 @@
+{
+  "id": "12279493",
+  "fullDetails": {
+    "licenseNumber": "12279493",
+    "name": "ROYAL TRUCK LUBE CALGARY",
+    "address": "#32 4949 BARLOW TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2004-10-15T07:15:20.000Z",
+    "expiryDate": "2026-10-14T07:15:20.000Z",
+    "coordinates": [
+      -114.0042464,
+      51.0102066
+    ],
+    "longitude": -114.0042464,
+    "latitude": 51.0102066,
+    "community": "VALLEYFIELD",
+    "ward": "VAF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

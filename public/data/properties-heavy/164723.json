@@ -1,0 +1,36 @@
+{
+  "id": "164723",
+  "fullDetails": {
+    "licenseNumber": "164723",
+    "name": "REFRIGERATIVE SUPPLY",
+    "address": "4616 MANHATTAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2005-12-16T11:41:41.000Z",
+    "expiryDate": "2026-12-15T11:41:41.000Z",
+    "coordinates": [
+      -114.0522924,
+      51.0122053
+    ],
+    "longitude": -114.0522924,
+    "latitude": 51.0122053,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

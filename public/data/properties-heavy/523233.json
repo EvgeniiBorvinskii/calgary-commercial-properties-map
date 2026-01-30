@@ -1,0 +1,37 @@
+{
+  "id": "523233",
+  "fullDetails": {
+    "licenseNumber": "523233",
+    "name": "CALGARY INTER-FAITH FOOD BANK",
+    "address": "5000 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2003-04-24T08:32:07.000Z",
+    "expiryDate": "2026-04-23T08:32:07.000Z",
+    "coordinates": [
+      -114.0362413,
+      51.0091178
+    ],
+    "longitude": -114.0362413,
+    "latitude": 51.0091178,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

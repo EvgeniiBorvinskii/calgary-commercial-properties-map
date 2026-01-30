@@ -1,0 +1,36 @@
+{
+  "id": "13923750",
+  "fullDetails": {
+    "licenseNumber": "13923750",
+    "name": "BASSANO GROWERS (2011)",
+    "address": "#118 85 FREEPORT BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2015-10-06T05:33:02.000Z",
+    "expiryDate": "2026-10-05T05:33:02.000Z",
+    "coordinates": [
+      -114.0106173,
+      51.1497733
+    ],
+    "longitude": -114.0106173,
+    "latitude": 51.1497733,
+    "community": "STONEY 2",
+    "ward": "ST2",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

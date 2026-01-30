@@ -1,0 +1,36 @@
+{
+  "id": "16081796",
+  "fullDetails": {
+    "licenseNumber": "16081796",
+    "name": "DASHMESH CULTURE CENTRE",
+    "address": "135 MARTINDALE BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - NO PREMISES",
+    "licenseTypes": "FOOD SERVICE - NO PREMISES",
+    "status": "active",
+    "issuedDate": "2022-05-26T11:16:19.000Z",
+    "expiryDate": "2026-05-25T11:16:19.000Z",
+    "coordinates": [
+      -113.9555143,
+      51.113643
+    ],
+    "longitude": -113.9555143,
+    "latitude": 51.113643,
+    "community": "MARTINDALE",
+    "ward": "MRT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

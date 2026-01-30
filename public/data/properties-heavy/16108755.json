@@ -1,0 +1,36 @@
+{
+  "id": "16108755",
+  "fullDetails": {
+    "licenseNumber": "16108755",
+    "name": "COACH HILL PHARMACY",
+    "address": "#105 6490 OLD BANFF COACH RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-04-22T11:52:14.000Z",
+    "expiryDate": "2026-04-21T11:52:14.000Z",
+    "coordinates": [
+      -114.1809967,
+      51.0609832
+    ],
+    "longitude": -114.1809967,
+    "latitude": 51.0609832,
+    "community": "PATTERSON",
+    "ward": "PAT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

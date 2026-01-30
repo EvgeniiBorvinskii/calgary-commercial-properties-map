@@ -1,0 +1,36 @@
+{
+  "id": "78873",
+  "fullDetails": {
+    "licenseNumber": "78873",
+    "name": "W M SCHMIDT MECHANICAL CONTRACTORS",
+    "address": "4603D 13 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-15T00:00:00.000Z",
+    "coordinates": [
+      -114.0314376,
+      51.093887
+    ],
+    "longitude": -114.0314376,
+    "latitude": 51.093887,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

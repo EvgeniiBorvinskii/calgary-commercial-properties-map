@@ -1,0 +1,36 @@
+{
+  "id": "16094963",
+  "fullDetails": {
+    "licenseNumber": "16094963",
+    "name": "METIS BUILDERS",
+    "address": "144 TARAWOOD GV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-02-27T15:14:26.000Z",
+    "expiryDate": "2026-02-26T15:14:25.000Z",
+    "coordinates": [
+      -113.9394195,
+      51.1244966
+    ],
+    "longitude": -113.9394195,
+    "latitude": 51.1244966,
+    "community": "TARADALE",
+    "ward": "TAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

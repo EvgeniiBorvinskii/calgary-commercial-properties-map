@@ -1,0 +1,36 @@
+{
+  "id": "15483019",
+  "fullDetails": {
+    "licenseNumber": "15483019",
+    "name": "QUARRY PARK BARBER SHOP",
+    "address": "#107 163 QUARRY PARK BV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2019-07-17T09:55:50.000Z",
+    "expiryDate": "2026-07-16T09:55:50.000Z",
+    "coordinates": [
+      -114.009469,
+      50.9631235
+    ],
+    "longitude": -114.009469,
+    "latitude": 50.9631235,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

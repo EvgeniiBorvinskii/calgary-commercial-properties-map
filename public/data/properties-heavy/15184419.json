@@ -1,0 +1,36 @@
+{
+  "id": "15184419",
+  "fullDetails": {
+    "licenseNumber": "15184419",
+    "name": "REVITAL HEALTH PHYSIOTHERAPY AND MASSAGE",
+    "address": "#212 20 SADDLESTONE DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2019-01-10T16:21:13.000Z",
+    "expiryDate": "2027-01-09T16:21:13.000Z",
+    "coordinates": [
+      -113.9290958,
+      51.1294228
+    ],
+    "longitude": -113.9290958,
+    "latitude": 51.1294228,
+    "community": "SADDLE RIDGE",
+    "ward": "SAD",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

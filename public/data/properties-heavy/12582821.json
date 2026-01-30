@@ -1,0 +1,36 @@
+{
+  "id": "12582821",
+  "fullDetails": {
+    "licenseNumber": "12582821",
+    "name": "SELTREK ELECTRIC",
+    "address": "#3W 2320 35 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2019-09-09T15:38:17.000Z",
+    "expiryDate": "2026-09-08T15:38:17.000Z",
+    "coordinates": [
+      -114.0062114,
+      51.0843176
+    ],
+    "longitude": -114.0062114,
+    "latitude": 51.0843176,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16173627",
+  "fullDetails": {
+    "licenseNumber": "16173627",
+    "name": "O M J EXPRESS INTERNATIONAL",
+    "address": "#14 1431 40 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2022-07-08T16:38:02.000Z",
+    "expiryDate": "2026-07-07T16:38:02.000Z",
+    "coordinates": [
+      -114.0295357,
+      51.0878356
+    ],
+    "longitude": -114.0295357,
+    "latitude": 51.0878356,
+    "community": "MCCALL",
+    "ward": "MCI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

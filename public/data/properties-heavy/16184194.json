@@ -1,0 +1,36 @@
+{
+  "id": "16184194",
+  "fullDetails": {
+    "licenseNumber": "16184194",
+    "name": "KNIX",
+    "address": "#150 1800 4 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-10-28T12:09:03.000Z",
+    "expiryDate": "2026-10-27T12:09:03.000Z",
+    "coordinates": [
+      -114.0710858,
+      51.0370937
+    ],
+    "longitude": -114.0710858,
+    "latitude": 51.0370937,
+    "community": "MISSION",
+    "ward": "MIS",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

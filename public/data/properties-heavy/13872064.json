@@ -1,0 +1,36 @@
+{
+  "id": "13872064",
+  "fullDetails": {
+    "licenseNumber": "13872064",
+    "name": "BIG JOES MOVERS",
+    "address": "4385 104 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2020-09-15T05:31:05.000Z",
+    "expiryDate": "2026-09-14T05:31:05.000Z",
+    "coordinates": [
+      -113.9720211,
+      50.9602532
+    ],
+    "longitude": -113.9720211,
+    "latitude": 50.9602532,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

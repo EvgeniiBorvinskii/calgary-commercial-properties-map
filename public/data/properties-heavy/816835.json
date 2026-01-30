@@ -1,0 +1,36 @@
+{
+  "id": "816835",
+  "fullDetails": {
+    "licenseNumber": "816835",
+    "name": "WRIGHT BROTHERS HOMES",
+    "address": "#207 3916 64 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2008-06-17T05:37:21.000Z",
+    "expiryDate": "2026-06-16T05:37:21.000Z",
+    "coordinates": [
+      -113.9774941,
+      50.9970244
+    ],
+    "longitude": -113.9774941,
+    "latitude": 50.9970244,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

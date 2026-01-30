@@ -1,0 +1,36 @@
+{
+  "id": "16414757",
+  "fullDetails": {
+    "licenseNumber": "16414757",
+    "name": "MARY BROWNS CHICKEN",
+    "address": "#136 11988 SYMONS VALLEY RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2024-01-08T15:35:54.000Z",
+    "expiryDate": "2027-01-07T15:35:54.000Z",
+    "coordinates": [
+      -114.1223086,
+      51.1603819
+    ],
+    "longitude": -114.1223086,
+    "latitude": 51.1603819,
+    "community": "EVANSTON",
+    "ward": "EVN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

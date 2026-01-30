@@ -1,0 +1,37 @@
+{
+  "id": "16416380",
+  "fullDetails": {
+    "licenseNumber": "16416380",
+    "name": "RIVIAN",
+    "address": "4398 112 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nRETAIL DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2023-12-21T15:21:20.000Z",
+    "expiryDate": "2026-12-20T15:21:20.000Z",
+    "coordinates": [
+      -113.9731278,
+      50.9528491
+    ],
+    "longitude": -113.9731278,
+    "latitude": 50.9528491,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

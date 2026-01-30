@@ -1,0 +1,36 @@
+{
+  "id": "14741185",
+  "fullDetails": {
+    "licenseNumber": "14741185",
+    "name": "BEDDINGTON PHYSIOTHERAPY",
+    "address": "#206 8120 BEDDINGTON BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "active",
+    "issuedDate": "2017-11-16T09:35:20.000Z",
+    "expiryDate": "2026-11-15T09:35:20.000Z",
+    "coordinates": [
+      -114.0738529,
+      51.1274249
+    ],
+    "longitude": -114.0738529,
+    "latitude": 51.1274249,
+    "community": "BEDDINGTON HEIGHTS",
+    "ward": "BED",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

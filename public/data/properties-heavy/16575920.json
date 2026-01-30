@@ -1,0 +1,36 @@
+{
+  "id": "16575920",
+  "fullDetails": {
+    "licenseNumber": "16575920",
+    "name": "CANADIAN PIZZA UNLIMITED",
+    "address": "#110 6915 RUNDLEHORN DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2024-12-20T09:33:45.000Z",
+    "expiryDate": "2026-12-19T09:33:45.000Z",
+    "coordinates": [
+      -113.9415514,
+      51.0807746
+    ],
+    "longitude": -113.9415514,
+    "latitude": 51.0807746,
+    "community": "PINERIDGE",
+    "ward": "PIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

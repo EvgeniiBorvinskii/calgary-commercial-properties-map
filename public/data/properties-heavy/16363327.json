@@ -1,0 +1,36 @@
+{
+  "id": "16363327",
+  "fullDetails": {
+    "licenseNumber": "16363327",
+    "name": "AUTOCARE AUTO DETAILING AND TIRES",
+    "address": "#115 700 MORAINE RD NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2024-01-09T15:00:12.000Z",
+    "expiryDate": "2027-01-08T15:00:12.000Z",
+    "coordinates": [
+      -113.9979882,
+      51.0577666
+    ],
+    "longitude": -113.9979882,
+    "latitude": 51.0577666,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

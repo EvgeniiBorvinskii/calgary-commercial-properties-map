@@ -1,0 +1,36 @@
+{
+  "id": "13570940",
+  "fullDetails": {
+    "licenseNumber": "13570940",
+    "name": "VISTA TOWER",
+    "address": "912 6 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2014-07-11T05:32:22.000Z",
+    "expiryDate": "2026-07-10T05:32:22.000Z",
+    "coordinates": [
+      -114.0817998,
+      51.0482575
+    ],
+    "longitude": -114.0817998,
+    "latitude": 51.0482575,
+    "community": "DOWNTOWN COMMERCIAL CORE",
+    "ward": "DNC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

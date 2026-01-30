@@ -1,0 +1,37 @@
+{
+  "id": "15867328",
+  "fullDetails": {
+    "licenseNumber": "15867328",
+    "name": "LEGACY LIQUOR",
+    "address": "3308 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "LIQUOR STORE",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nLIQUOR STORE",
+    "status": "pending",
+    "issuedDate": "2020-02-28T16:04:19.000Z",
+    "expiryDate": "2026-02-27T16:04:19.000Z",
+    "coordinates": [
+      -114.1343863,
+      51.0380029
+    ],
+    "longitude": -114.1343863,
+    "latitude": 51.0380029,
+    "community": "SHAGANAPPI",
+    "ward": "SHG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

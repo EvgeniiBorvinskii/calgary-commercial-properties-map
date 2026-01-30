@@ -1,0 +1,36 @@
+{
+  "id": "16647257",
+  "fullDetails": {
+    "licenseNumber": "16647257",
+    "name": "VALUE BUDS AT KENSINGTON",
+    "address": "1124 KENSINGTON RD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2025-07-02T13:12:28.000Z",
+    "expiryDate": "2026-07-01T13:12:28.000Z",
+    "coordinates": [
+      -114.0876865,
+      51.0527077
+    ],
+    "longitude": -114.0876865,
+    "latitude": 51.0527077,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

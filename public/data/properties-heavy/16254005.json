@@ -1,0 +1,36 @@
+{
+  "id": "16254005",
+  "fullDetails": {
+    "licenseNumber": "16254005",
+    "name": "CITY ELECTRIC SUPPLY",
+    "address": "#120 41 ROYAL VISTA DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2023-10-30T10:07:48.000Z",
+    "expiryDate": "2026-10-29T10:07:48.000Z",
+    "coordinates": [
+      -114.1999084,
+      51.1525376
+    ],
+    "longitude": -114.1999084,
+    "latitude": 51.1525376,
+    "community": "ROYAL VISTA",
+    "ward": "RYV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

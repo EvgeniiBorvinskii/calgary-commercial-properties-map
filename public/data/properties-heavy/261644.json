@@ -1,0 +1,36 @@
+{
+  "id": "261644",
+  "fullDetails": {
+    "licenseNumber": "261644",
+    "name": "HOUSTON HOTSHOP",
+    "address": "4815 46 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2003-11-05T05:34:34.000Z",
+    "expiryDate": "2026-11-04T05:34:34.000Z",
+    "coordinates": [
+      -114.1561239,
+      51.0122309
+    ],
+    "longitude": -114.1561239,
+    "latitude": 51.0122309,
+    "community": "GLAMORGAN",
+    "ward": "GLA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

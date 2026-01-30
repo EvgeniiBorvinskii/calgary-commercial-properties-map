@@ -1,0 +1,36 @@
+{
+  "id": "16484859",
+  "fullDetails": {
+    "licenseNumber": "16484859",
+    "name": "GOLD LINE SPRAY SHOP",
+    "address": "5539 1A ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2024-05-16T16:55:26.000Z",
+    "expiryDate": "2026-05-15T16:55:26.000Z",
+    "coordinates": [
+      -114.067556,
+      51.0045231
+    ],
+    "longitude": -114.067556,
+    "latitude": 51.0045231,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

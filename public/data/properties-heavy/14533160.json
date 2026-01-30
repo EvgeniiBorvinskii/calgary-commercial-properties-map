@@ -1,0 +1,36 @@
+{
+  "id": "14533160",
+  "fullDetails": {
+    "licenseNumber": "14533160",
+    "name": "MAHOGANY MASSAGE & WELLNESS",
+    "address": "#605 4700 130 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL)",
+    "status": "pending",
+    "issuedDate": "2017-10-24T11:24:16.000Z",
+    "expiryDate": "2024-10-23T11:24:16.000Z",
+    "coordinates": [
+      -113.9678971,
+      50.9328882
+    ],
+    "longitude": -113.9678971,
+    "latitude": 50.9328882,
+    "community": "EAST SHEPARD INDUSTRIAL",
+    "ward": "ESH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

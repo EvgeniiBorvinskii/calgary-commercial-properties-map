@@ -1,0 +1,36 @@
+{
+  "id": "16184426",
+  "fullDetails": {
+    "licenseNumber": "16184426",
+    "name": "I-SOURCE OPTICAL",
+    "address": "#138 3132 26 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2022-08-09T14:10:11.000Z",
+    "expiryDate": "2026-08-08T14:10:11.000Z",
+    "coordinates": [
+      -113.9970085,
+      51.0803823
+    ],
+    "longitude": -113.9970085,
+    "latitude": 51.0803823,
+    "community": "SUNRIDGE",
+    "ward": "SUN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

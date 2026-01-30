@@ -1,0 +1,36 @@
+{
+  "id": "16582827",
+  "fullDetails": {
+    "licenseNumber": "16582827",
+    "name": "ARKADIAN HOMES",
+    "address": "55 ROCKYLEDGE RI NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-05-13T13:57:45.000Z",
+    "expiryDate": "2026-05-12T13:57:44.000Z",
+    "coordinates": [
+      -114.2520655,
+      51.1441891
+    ],
+    "longitude": -114.2520655,
+    "latitude": 51.1441891,
+    "community": "ROCKY RIDGE",
+    "ward": "ROC",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

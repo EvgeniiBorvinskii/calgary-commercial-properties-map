@@ -1,0 +1,37 @@
+{
+  "id": "12802203",
+  "fullDetails": {
+    "licenseNumber": "12802203",
+    "name": "LOS CHILITOS CANTINA",
+    "address": "1309 17 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "ENTERTAINMENT ESTABLISHMENT",
+    "subType": "ALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),",
+    "licenseTypes": "ENTERTAINMENT ESTABLISHMENT,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES,\nOUTDOOR PATIO",
+    "status": "active",
+    "issuedDate": "2009-11-06T12:32:37.000Z",
+    "expiryDate": "2026-11-05T12:32:37.000Z",
+    "coordinates": [
+      -114.0922215,
+      51.0376186
+    ],
+    "longitude": -114.0922215,
+    "latitude": 51.0376186,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12403879",
+  "fullDetails": {
+    "licenseNumber": "12403879",
+    "name": "MUSICA ACADEMY - YAMAHA SCHOOL",
+    "address": "#102 200 COUNTRY HILLS LD NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2005-08-17T05:29:33.000Z",
+    "expiryDate": "2026-08-16T05:29:33.000Z",
+    "coordinates": [
+      -114.0737211,
+      51.1431687
+    ],
+    "longitude": -114.0737211,
+    "latitude": 51.1431687,
+    "community": "COUNTRY HILLS",
+    "ward": "COU",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "14401467",
+  "fullDetails": {
+    "licenseNumber": "14401467",
+    "name": "TIM HORTONS",
+    "address": "#7 28 MCKENZIE TOWNE AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2016-12-19T11:34:00.000Z",
+    "expiryDate": "2026-12-18T11:34:00.000Z",
+    "coordinates": [
+      -113.9587156,
+      50.9168844
+    ],
+    "longitude": -113.9587156,
+    "latitude": 50.9168844,
+    "community": "MCKENZIE TOWNE",
+    "ward": "MCT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

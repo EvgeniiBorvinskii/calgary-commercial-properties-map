@@ -1,0 +1,36 @@
+{
+  "id": "14963904",
+  "fullDetails": {
+    "licenseNumber": "14963904",
+    "name": "COUNTRY HILLS RV STORAGE",
+    "address": "11420 15 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2018-09-25T16:02:22.000Z",
+    "expiryDate": "2026-09-24T16:02:22.000Z",
+    "coordinates": [
+      -114.0226766,
+      51.1555189
+    ],
+    "longitude": -114.0226766,
+    "latitude": 51.1555189,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

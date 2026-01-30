@@ -1,0 +1,37 @@
+{
+  "id": "16490716",
+  "fullDetails": {
+    "licenseNumber": "16490716",
+    "name": "NEXUS IMMIGRATION & RECRUITMENT",
+    "address": "#100 1318 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2024-06-27T12:13:47.000Z",
+    "expiryDate": "2026-06-26T12:13:47.000Z",
+    "coordinates": [
+      -114.0622695,
+      51.0640112
+    ],
+    "longitude": -114.0622695,
+    "latitude": 51.0640112,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

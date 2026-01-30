@@ -1,0 +1,37 @@
+{
+  "id": "16476483",
+  "fullDetails": {
+    "licenseNumber": "16476483",
+    "name": "PAPRALA EXPRESS AUTO DETAILING",
+    "address": "#121 10985 38 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES,\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-07-03T15:10:38.000Z",
+    "expiryDate": "2026-07-02T15:10:37.000Z",
+    "coordinates": [
+      -113.9787302,
+      51.1519455
+    ],
+    "longitude": -113.9787302,
+    "latitude": 51.1519455,
+    "community": "STONEY 3",
+    "ward": "ST3",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "85449",
+  "fullDetails": {
+    "licenseNumber": "85449",
+    "name": "CALGARY JEWISH FEDERATION",
+    "address": "1607 90 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "PERSONAL SERVICE",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nPERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0991367,
+      50.9715411
+    ],
+    "longitude": -114.0991367,
+    "latitude": 50.9715411,
+    "community": "PUMP HILL",
+    "ward": "PUM",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "15889389",
+  "fullDetails": {
+    "licenseNumber": "15889389",
+    "name": "BSPACE AUTOMOTIVE",
+    "address": "102 58 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-06-16T15:38:39.000Z",
+    "expiryDate": "2026-06-15T15:38:39.000Z",
+    "coordinates": [
+      -114.0658069,
+      51.0019225
+    ],
+    "longitude": -114.0658069,
+    "latitude": 51.0019225,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

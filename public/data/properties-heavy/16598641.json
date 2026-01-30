@@ -1,0 +1,37 @@
+{
+  "id": "16598641",
+  "fullDetails": {
+    "licenseNumber": "16598641",
+    "name": "PLATINUM COMMERCIAL",
+    "address": "#190 1209 59 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER,",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER,\nCONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2025-03-26T09:50:22.000Z",
+    "expiryDate": "2026-03-25T09:50:22.000Z",
+    "coordinates": [
+      -114.0361969,
+      50.9989715
+    ],
+    "longitude": -114.0361969,
+    "latitude": 50.9989715,
+    "community": "BURNS INDUSTRIAL",
+    "ward": "BUR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

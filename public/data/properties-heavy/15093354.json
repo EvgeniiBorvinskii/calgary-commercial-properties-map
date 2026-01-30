@@ -1,0 +1,36 @@
+{
+  "id": "15093354",
+  "fullDetails": {
+    "licenseNumber": "15093354",
+    "name": "GT MOTOR SPORTS",
+    "address": "#10 40 HOPEWELL WY NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE DEALER - PREMISES",
+    "licenseTypes": "MOTOR VEHICLE DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2020-04-08T07:30:27.000Z",
+    "expiryDate": "2026-04-07T07:30:27.000Z",
+    "coordinates": [
+      -113.996245,
+      51.0943583
+    ],
+    "longitude": -113.996245,
+    "latitude": 51.0943583,
+    "community": "HORIZON",
+    "ward": "HOR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12665675",
+  "fullDetails": {
+    "licenseNumber": "12665675",
+    "name": "SABADILLA ANIMAL CLINIC",
+    "address": "#511 2335 162 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2012-12-20T09:28:13.000Z",
+    "expiryDate": "2026-12-19T09:28:13.000Z",
+    "coordinates": [
+      -114.110882,
+      50.9062228
+    ],
+    "longitude": -114.110882,
+    "latitude": 50.9062228,
+    "community": "BRIDLEWOOD",
+    "ward": "BRI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

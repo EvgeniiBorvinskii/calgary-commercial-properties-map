@@ -1,0 +1,36 @@
+{
+  "id": "15432446",
+  "fullDetails": {
+    "licenseNumber": "15432446",
+    "name": "AVENUE MUSIC",
+    "address": "4020 16 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-05-06T11:37:10.000Z",
+    "expiryDate": "2026-05-05T11:37:10.000Z",
+    "coordinates": [
+      -114.1001761,
+      51.0185611
+    ],
+    "longitude": -114.1001761,
+    "latitude": 51.0185611,
+    "community": "ALTADORE",
+    "ward": "ALT",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

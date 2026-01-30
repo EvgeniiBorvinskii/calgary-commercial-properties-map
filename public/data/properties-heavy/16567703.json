@@ -1,0 +1,36 @@
+{
+  "id": "16567703",
+  "fullDetails": {
+    "licenseNumber": "16567703",
+    "name": "TOMMY GUNS ORIGINAL BARBERSHOP DEERFOOT MEADOWS",
+    "address": "#10 7929 11 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2024-12-05T15:31:00.000Z",
+    "expiryDate": "2026-12-04T15:31:00.000Z",
+    "coordinates": [
+      -114.0430211,
+      50.9838672
+    ],
+    "longitude": -114.0430211,
+    "latitude": 50.9838672,
+    "community": "EAST FAIRVIEW INDUSTRIAL",
+    "ward": "EFV",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

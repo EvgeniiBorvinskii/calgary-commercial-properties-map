@@ -1,0 +1,37 @@
+{
+  "id": "149195",
+  "fullDetails": {
+    "licenseNumber": "149195",
+    "name": "HILLHURST SUNNYSIDE COMMUNITY",
+    "address": "1320 5 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CHARITABLE ORGANIZATION",
+    "subType": "MARKET,",
+    "licenseTypes": "CHARITABLE ORGANIZATION,\nMARKET,\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-12-31T00:00:00.000Z",
+    "coordinates": [
+      -114.0925169,
+      51.0575473
+    ],
+    "longitude": -114.0925169,
+    "latitude": 51.0575473,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

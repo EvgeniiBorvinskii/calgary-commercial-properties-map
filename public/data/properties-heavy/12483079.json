@@ -1,0 +1,37 @@
+{
+  "id": "12483079",
+  "fullDetails": {
+    "licenseNumber": "12483079",
+    "name": "A & W (MARKET MALL)",
+    "address": "#J5 3625 SHAGANAPPI TR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2006-06-22T07:56:43.000Z",
+    "expiryDate": "2026-06-21T07:56:43.000Z",
+    "coordinates": [
+      -114.1538104,
+      51.0850387
+    ],
+    "longitude": -114.1538104,
+    "latitude": 51.0850387,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

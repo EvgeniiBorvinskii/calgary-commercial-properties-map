@@ -1,0 +1,36 @@
+{
+  "id": "16490690",
+  "fullDetails": {
+    "licenseNumber": "16490690",
+    "name": "TACOTIME",
+    "address": "#105 11165 14 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES",
+    "licenseTypes": "FOOD SERVICE - PREMISES",
+    "status": "active",
+    "issuedDate": "2024-06-25T09:26:11.000Z",
+    "expiryDate": "2026-06-24T09:26:11.000Z",
+    "coordinates": [
+      -114.0294829,
+      51.1537691
+    ],
+    "longitude": -114.0294829,
+    "latitude": 51.1537691,
+    "community": "STONEY 1",
+    "ward": "ST1",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

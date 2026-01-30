@@ -1,0 +1,36 @@
+{
+  "id": "12381117",
+  "fullDetails": {
+    "licenseNumber": "12381117",
+    "name": "ORTOVOX CANADA",
+    "address": "#110 4520 16 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2019-08-20T15:13:09.000Z",
+    "expiryDate": "2026-08-19T15:13:09.000Z",
+    "coordinates": [
+      -114.1601014,
+      51.0699747
+    ],
+    "longitude": -114.1601014,
+    "latitude": 51.0699747,
+    "community": "MONTGOMERY",
+    "ward": "MON",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

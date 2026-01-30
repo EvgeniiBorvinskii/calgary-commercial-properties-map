@@ -1,0 +1,36 @@
+{
+  "id": "12560751",
+  "fullDetails": {
+    "licenseNumber": "12560751",
+    "name": "EDO JAPAN",
+    "address": "#100A 20 CROWFOOT CR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (SEATING)",
+    "status": "active",
+    "issuedDate": "2007-04-24T15:46:44.000Z",
+    "expiryDate": "2026-04-23T15:46:44.000Z",
+    "coordinates": [
+      -114.1987851,
+      51.1252584
+    ],
+    "longitude": -114.1987851,
+    "latitude": 51.1252584,
+    "community": "ARBOUR LAKE",
+    "ward": "ARB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

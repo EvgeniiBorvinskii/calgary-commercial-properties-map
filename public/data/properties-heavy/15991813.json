@@ -1,0 +1,36 @@
+{
+  "id": "15991813",
+  "fullDetails": {
+    "licenseNumber": "15991813",
+    "name": "U-HAUL MOVING & STORAGE AT DEERFOOT",
+    "address": "2615A 12 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "pending",
+    "issuedDate": "2021-02-17T05:31:42.000Z",
+    "expiryDate": "2026-02-16T05:31:42.000Z",
+    "coordinates": [
+      -114.0254723,
+      51.0758683
+    ],
+    "longitude": -114.0254723,
+    "latitude": 51.0758683,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

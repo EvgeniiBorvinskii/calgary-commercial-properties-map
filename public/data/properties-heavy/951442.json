@@ -1,0 +1,36 @@
+{
+  "id": "951442",
+  "fullDetails": {
+    "licenseNumber": "951442",
+    "name": "C R TECHNIQUES",
+    "address": "#101 4015 8 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2022-11-28T11:35:16.000Z",
+    "expiryDate": "2026-11-27T11:35:16.000Z",
+    "coordinates": [
+      -114.0437912,
+      51.0196982
+    ],
+    "longitude": -114.0437912,
+    "latitude": 51.0196982,
+    "community": "HIGHFIELD",
+    "ward": "HIF",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

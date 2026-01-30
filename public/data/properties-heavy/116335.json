@@ -1,0 +1,37 @@
+{
+  "id": "116335",
+  "fullDetails": {
+    "licenseNumber": "116335",
+    "name": "WALDO DISTRIBUTING",
+    "address": "518 42 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "subType": "WHOLESALER",
+    "licenseTypes": "RETAIL DEALER - PREMISES,\nWHOLESALER",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2027-01-21T00:00:00.000Z",
+    "coordinates": [
+      -114.051267,
+      51.0161711
+    ],
+    "longitude": -114.051267,
+    "latitude": 51.0161711,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12307708",
+  "fullDetails": {
+    "licenseNumber": "12307708",
+    "name": "LITTLE CAESARS PIZZA",
+    "address": "#156 8060 SILVER SPRINGS BV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2004-08-20T08:28:52.000Z",
+    "expiryDate": "2026-08-19T08:28:52.000Z",
+    "coordinates": [
+      -114.2046462,
+      51.1161614
+    ],
+    "longitude": -114.2046462,
+    "latitude": 51.1161614,
+    "community": "SILVER SPRINGS",
+    "ward": "SIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

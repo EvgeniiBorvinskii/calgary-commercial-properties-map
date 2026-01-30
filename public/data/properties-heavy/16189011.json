@@ -1,0 +1,36 @@
+{
+  "id": "16189011",
+  "fullDetails": {
+    "licenseNumber": "16189011",
+    "name": "SPARROW DOWNHOLE TOOLS",
+    "address": "#111 11505 35 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2023-12-07T13:15:41.000Z",
+    "expiryDate": "2026-12-06T13:15:41.000Z",
+    "coordinates": [
+      -113.9858487,
+      50.9484514
+    ],
+    "longitude": -113.9858487,
+    "latitude": 50.9484514,
+    "community": "SHEPARD INDUSTRIAL",
+    "ward": "SHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "16700387",
+  "fullDetails": {
+    "licenseNumber": "16700387",
+    "name": "KINETICA PLUS",
+    "address": "#202A 5819 2 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES,\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2025-11-26T11:29:37.000Z",
+    "expiryDate": "2026-11-25T11:29:36.000Z",
+    "coordinates": [
+      -114.0690495,
+      51.0016985
+    ],
+    "longitude": -114.0690495,
+    "latitude": 51.0016985,
+    "community": "MANCHESTER",
+    "ward": "MAN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

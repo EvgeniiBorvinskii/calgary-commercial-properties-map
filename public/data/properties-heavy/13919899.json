@@ -1,0 +1,37 @@
+{
+  "id": "13919899",
+  "fullDetails": {
+    "licenseNumber": "13919899",
+    "name": "HOTSHOP HOT YOGA & SPIN",
+    "address": "#208 4625 VARSITY DR NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "subType": "RETAIL DEALER - PREMISES,",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED),\nRETAIL DEALER - PREMISES,\nFOOD SERVICE - PREMISES",
+    "status": "pending",
+    "issuedDate": "2015-03-24T07:51:32.000Z",
+    "expiryDate": "2026-03-23T07:51:32.000Z",
+    "coordinates": [
+      -114.1540255,
+      51.0913628
+    ],
+    "longitude": -114.1540255,
+    "latitude": 51.0913628,
+    "community": "VARSITY",
+    "ward": "VAR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

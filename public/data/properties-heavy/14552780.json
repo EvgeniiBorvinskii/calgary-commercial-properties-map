@@ -1,0 +1,36 @@
+{
+  "id": "14552780",
+  "fullDetails": {
+    "licenseNumber": "14552780",
+    "name": "SOUL FEET DANCE",
+    "address": "3105 5 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SCHOOL (PROV. NOT REQUIRED)",
+    "licenseTypes": "SCHOOL (PROV. NOT REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-10-22T09:28:44.000Z",
+    "expiryDate": "2026-10-21T09:28:44.000Z",
+    "coordinates": [
+      -113.9889324,
+      51.0566182
+    ],
+    "longitude": -113.9889324,
+    "latitude": 51.0566182,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

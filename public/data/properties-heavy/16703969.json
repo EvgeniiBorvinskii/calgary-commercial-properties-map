@@ -1,0 +1,36 @@
+{
+  "id": "16703969",
+  "fullDetails": {
+    "licenseNumber": "16703969",
+    "name": "MILLENNIUM MANUFACTURING",
+    "address": "6503 30 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2025-11-25T16:01:06.000Z",
+    "expiryDate": "2026-11-24T16:01:06.000Z",
+    "coordinates": [
+      -113.9854424,
+      50.9949568
+    ],
+    "longitude": -113.9854424,
+    "latitude": 50.9949568,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "14030761",
+  "fullDetails": {
+    "licenseNumber": "14030761",
+    "name": "ART'S AUTO & PERFORMANCE",
+    "address": "4150H 14A ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-12-10T14:42:17.000Z",
+    "expiryDate": "2026-12-09T14:42:17.000Z",
+    "coordinates": [
+      -114.0258978,
+      51.0176031
+    ],
+    "longitude": -114.0258978,
+    "latitude": 51.0176031,
+    "community": "ALYTH/BONNYBROOK",
+    "ward": "AYB",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12464723",
+  "fullDetails": {
+    "licenseNumber": "12464723",
+    "name": "SSP CONVERGED SOLUTIONS",
+    "address": "#502 3208 8 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WHOLESALER",
+    "licenseTypes": "WHOLESALER",
+    "status": "active",
+    "issuedDate": "2006-06-07T05:33:47.000Z",
+    "expiryDate": "2026-06-06T05:33:46.000Z",
+    "coordinates": [
+      -113.9879013,
+      51.0579593
+    ],
+    "longitude": -113.9879013,
+    "latitude": 51.0579593,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

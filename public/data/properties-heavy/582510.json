@@ -1,0 +1,37 @@
+{
+  "id": "582510",
+  "fullDetails": {
+    "licenseNumber": "582510",
+    "name": "CINEPLEX ODEON WESTHILLS",
+    "address": "165 STEWART GR SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "AMUSEMENT ARCADE",
+    "subType": "CINEMA,",
+    "licenseTypes": "AMUSEMENT ARCADE,\nCINEMA,\nRETAIL DEALER - PREMISES,\nALCOHOL BEVERAGE SALES (DRINKING EST/RESTAURANT),\nFOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2001-06-01T00:00:00.000Z",
+    "expiryDate": "2026-07-16T00:00:00.000Z",
+    "coordinates": [
+      -114.1694155,
+      51.016138
+    ],
+    "longitude": -114.1694155,
+    "latitude": 51.016138,
+    "community": "SIGNAL HILL",
+    "ward": "SIG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

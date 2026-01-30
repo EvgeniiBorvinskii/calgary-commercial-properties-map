@@ -1,0 +1,37 @@
+{
+  "id": "15870793",
+  "fullDetails": {
+    "licenseNumber": "15870793",
+    "name": "MY HAVEN LASER & SPA",
+    "address": "100 MISSION RD SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "subType": "MASSAGE CENTRE (COMMERCIAL),",
+    "licenseTypes": "PERSONAL SERVICE,\nMASSAGE CENTRE (COMMERCIAL),\nRETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2020-09-10T10:20:20.000Z",
+    "expiryDate": "2026-09-09T10:20:20.000Z",
+    "coordinates": [
+      -114.0643069,
+      51.0228784
+    ],
+    "longitude": -114.0643069,
+    "latitude": 51.0228784,
+    "community": "PARKHILL",
+    "ward": "PKH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12587846",
+  "fullDetails": {
+    "licenseNumber": "12587846",
+    "name": "A-APOLLO AUTOMOTIVE & TRANSMISSION",
+    "address": "#18A 416 MERIDIAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2015-09-18T12:57:04.000Z",
+    "expiryDate": "2026-09-17T12:57:04.000Z",
+    "coordinates": [
+      -113.9998561,
+      51.0501961
+    ],
+    "longitude": -113.9998561,
+    "latitude": 51.0501961,
+    "community": "MERIDIAN",
+    "ward": "MER",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

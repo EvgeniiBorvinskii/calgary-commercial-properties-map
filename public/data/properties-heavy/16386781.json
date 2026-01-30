@@ -1,0 +1,36 @@
+{
+  "id": "16386781",
+  "fullDetails": {
+    "licenseNumber": "16386781",
+    "name": "CANNA CABANA",
+    "address": "#116 101 SAGE VALLEY CM NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CANNABIS STORE",
+    "licenseTypes": "CANNABIS STORE",
+    "status": "active",
+    "issuedDate": "2023-10-16T15:41:51.000Z",
+    "expiryDate": "2026-10-15T15:41:51.000Z",
+    "coordinates": [
+      -114.1578516,
+      51.1814289
+    ],
+    "longitude": -114.1578516,
+    "latitude": 51.1814289,
+    "community": "SAGE HILL",
+    "ward": "SGH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

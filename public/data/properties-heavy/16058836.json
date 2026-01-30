@@ -1,0 +1,36 @@
+{
+  "id": "16058836",
+  "fullDetails": {
+    "licenseNumber": "16058836",
+    "name": "ROYALZ ROOFING",
+    "address": "#326 3770 WESTWINDS DR NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2022-01-06T14:02:18.000Z",
+    "expiryDate": "2027-01-05T14:02:17.000Z",
+    "coordinates": [
+      -113.9748674,
+      51.1069791
+    ],
+    "longitude": -113.9748674,
+    "latitude": 51.1069791,
+    "community": "WESTWINDS",
+    "ward": "WES",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

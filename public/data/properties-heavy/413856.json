@@ -1,0 +1,36 @@
+{
+  "id": "413856",
+  "fullDetails": {
+    "licenseNumber": "413856",
+    "name": "ALBERTA UPHOLSTERY",
+    "address": "#1 3650 19 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MANUFACTURER",
+    "licenseTypes": "MANUFACTURER",
+    "status": "active",
+    "issuedDate": "2022-11-14T16:26:00.000Z",
+    "expiryDate": "2026-11-13T16:26:00.000Z",
+    "coordinates": [
+      -114.0109724,
+      51.0846899
+    ],
+    "longitude": -114.0109724,
+    "latitude": 51.0846899,
+    "community": "NORTH AIRWAYS",
+    "ward": "NAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

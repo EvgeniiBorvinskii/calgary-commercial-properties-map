@@ -1,0 +1,36 @@
+{
+  "id": "16519001",
+  "fullDetails": {
+    "licenseNumber": "16519001",
+    "name": "CHAATBAR AND PARONTHA PLACE (THE) (CGY-1511)",
+    "address": "#2030 6004 COUNTRY HILLS BV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FULL SERVICE FOOD VEHICLE",
+    "licenseTypes": "FULL SERVICE FOOD VEHICLE",
+    "status": "pending",
+    "issuedDate": "2025-01-31T12:51:10.000Z",
+    "expiryDate": "2026-01-30T12:51:09.000Z",
+    "coordinates": [
+      -113.9500645,
+      51.1555965
+    ],
+    "longitude": -113.9500645,
+    "latitude": 51.1555965,
+    "community": "SKYVIEW RANCH",
+    "ward": "SKR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

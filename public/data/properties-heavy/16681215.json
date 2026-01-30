@@ -1,0 +1,36 @@
+{
+  "id": "16681215",
+  "fullDetails": {
+    "licenseNumber": "16681215",
+    "name": "RAPUNZEL HAIR SECRET",
+    "address": "#400 8500 MACLEOD TR SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE",
+    "licenseTypes": "PERSONAL SERVICE",
+    "status": "active",
+    "issuedDate": "2025-10-15T10:55:42.000Z",
+    "expiryDate": "2026-10-14T10:55:42.000Z",
+    "coordinates": [
+      -114.0704303,
+      50.976664
+    ],
+    "longitude": -114.0704303,
+    "latitude": 50.976664,
+    "community": "ACADIA",
+    "ward": "ACA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

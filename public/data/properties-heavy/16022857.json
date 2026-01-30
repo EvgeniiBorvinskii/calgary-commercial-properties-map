@@ -1,0 +1,37 @@
+{
+  "id": "16022857",
+  "fullDetails": {
+    "licenseNumber": "16022857",
+    "name": "DYNAMIC YYC - MOVEMENT LAB",
+    "address": "833 10 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "MASSAGE CENTRE (COMMERCIAL)",
+    "subType": "PERSONAL SERVICE (FITNESS CONDITIONING)",
+    "licenseTypes": "MASSAGE CENTRE (COMMERCIAL),\nPERSONAL SERVICE (FITNESS CONDITIONING)",
+    "status": "active",
+    "issuedDate": "2021-06-03T12:20:32.000Z",
+    "expiryDate": "2026-06-02T12:20:32.000Z",
+    "coordinates": [
+      -114.0810383,
+      51.043601
+    ],
+    "longitude": -114.0810383,
+    "latitude": 51.043601,
+    "community": "BELTLINE",
+    "ward": "BLN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

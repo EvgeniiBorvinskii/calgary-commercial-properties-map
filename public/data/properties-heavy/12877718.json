@@ -1,0 +1,36 @@
+{
+  "id": "12877718",
+  "fullDetails": {
+    "licenseNumber": "12877718",
+    "name": "COLLINS CONSTRUCTION",
+    "address": "429 11 ST NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "pending",
+    "issuedDate": "2014-03-22T05:32:35.000Z",
+    "expiryDate": "2026-03-21T05:32:35.000Z",
+    "coordinates": [
+      -114.0891657,
+      51.0569781
+    ],
+    "longitude": -114.0891657,
+    "latitude": 51.0569781,
+    "community": "HILLHURST",
+    "ward": "HIL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

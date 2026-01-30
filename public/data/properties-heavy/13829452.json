@@ -1,0 +1,36 @@
+{
+  "id": "13829452",
+  "fullDetails": {
+    "licenseNumber": "13829452",
+    "name": "ICONIC POWER SYSTEMS",
+    "address": "#130 115 QUARRY PARK RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "active",
+    "issuedDate": "2025-02-07T12:20:04.000Z",
+    "expiryDate": "2027-02-06T12:20:04.000Z",
+    "coordinates": [
+      -114.0090181,
+      50.9603784
+    ],
+    "longitude": -114.0090181,
+    "latitude": 50.9603784,
+    "community": "DOUGLASDALE/GLEN",
+    "ward": "DDG",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

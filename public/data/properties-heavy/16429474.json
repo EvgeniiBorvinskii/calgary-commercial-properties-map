@@ -1,0 +1,37 @@
+{
+  "id": "16429474",
+  "fullDetails": {
+    "licenseNumber": "16429474",
+    "name": "QUEEN SHEBA COFFEE ROASTERS",
+    "address": "1687 32 AV NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "subType": "DISTRIBUTION MANAGER (FOOD PRODUCTS)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING),\nDISTRIBUTION MANAGER (FOOD PRODUCTS)",
+    "status": "active",
+    "issuedDate": "2024-07-17T16:26:43.000Z",
+    "expiryDate": "2026-07-16T16:26:43.000Z",
+    "coordinates": [
+      -114.0190022,
+      51.0809068
+    ],
+    "longitude": -114.0190022,
+    "latitude": 51.0809068,
+    "community": "SOUTH AIRWAYS",
+    "ward": "SAW",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

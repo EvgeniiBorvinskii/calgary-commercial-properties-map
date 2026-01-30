@@ -1,0 +1,36 @@
+{
+  "id": "13839279",
+  "fullDetails": {
+    "licenseNumber": "13839279",
+    "name": "UNITED RENTALS PUMP SOLUTIONS",
+    "address": "#101 5025 90 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "RETAIL DEALER - PREMISES",
+    "licenseTypes": "RETAIL DEALER - PREMISES",
+    "status": "active",
+    "issuedDate": "2014-09-08T08:14:08.000Z",
+    "expiryDate": "2026-09-07T08:14:08.000Z",
+    "coordinates": [
+      -113.9622028,
+      50.9718842
+    ],
+    "longitude": -113.9622028,
+    "latitude": 50.9718842,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

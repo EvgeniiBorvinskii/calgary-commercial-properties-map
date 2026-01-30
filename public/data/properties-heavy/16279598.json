@@ -1,0 +1,36 @@
+{
+  "id": "16279598",
+  "fullDetails": {
+    "licenseNumber": "16279598",
+    "name": "HIGH ENERGY TRANSPORT WEST",
+    "address": "#116 7139 44 ST SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "WAREHOUSING",
+    "licenseTypes": "WAREHOUSING",
+    "status": "active",
+    "issuedDate": "2023-07-14T14:55:51.000Z",
+    "expiryDate": "2026-07-13T14:55:51.000Z",
+    "coordinates": [
+      -113.9720264,
+      50.9925038
+    ],
+    "longitude": -113.9720264,
+    "latitude": 50.9925038,
+    "community": "FOOTHILLS",
+    "ward": "FHI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

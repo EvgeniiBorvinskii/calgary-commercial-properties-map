@@ -1,0 +1,36 @@
+{
+  "id": "14277875",
+  "fullDetails": {
+    "licenseNumber": "14277875",
+    "name": "A COLLABORATIVE DESIGN GROUP",
+    "address": "4519 MANHATTAN RD SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "licenseTypes": "CONTRACTOR (NO PROVINCIAL LICENCE REQUIRED)",
+    "status": "pending",
+    "issuedDate": "2023-03-20T16:15:22.000Z",
+    "expiryDate": "2026-03-19T16:15:21.000Z",
+    "coordinates": [
+      -114.0538468,
+      51.0123438
+    ],
+    "longitude": -114.0538468,
+    "latitude": 51.0123438,
+    "community": "MANCHESTER INDUSTRIAL",
+    "ward": "MNI",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

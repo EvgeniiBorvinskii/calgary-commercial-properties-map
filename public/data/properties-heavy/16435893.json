@@ -1,0 +1,36 @@
+{
+  "id": "16435893",
+  "fullDetails": {
+    "licenseNumber": "16435893",
+    "name": "GLENMORE HEIGHTS - AVENUE LIVING",
+    "address": "620 67 AV SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2024-05-23T09:56:44.000Z",
+    "expiryDate": "2026-05-22T09:56:44.000Z",
+    "coordinates": [
+      -114.07607,
+      50.9934855
+    ],
+    "longitude": -114.07607,
+    "latitude": 50.9934855,
+    "community": "KINGSLAND",
+    "ward": "KIN",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

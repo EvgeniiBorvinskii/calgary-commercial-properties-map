@@ -1,0 +1,36 @@
+{
+  "id": "14659999",
+  "fullDetails": {
+    "licenseNumber": "14659999",
+    "name": "UPPER WEST",
+    "address": "2424 2 AV NW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "licenseTypes": "APARTMENT BUILDING OPERATOR (4 OR MORE STOREYS)",
+    "status": "active",
+    "issuedDate": "2017-10-06T11:38:23.000Z",
+    "expiryDate": "2026-10-05T11:38:23.000Z",
+    "coordinates": [
+      -114.1169819,
+      51.0546679
+    ],
+    "longitude": -114.1169819,
+    "latitude": 51.0546679,
+    "community": "WEST HILLHURST",
+    "ward": "WHL",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

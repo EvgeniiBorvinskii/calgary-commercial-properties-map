@@ -1,0 +1,36 @@
+{
+  "id": "12830311",
+  "fullDetails": {
+    "licenseNumber": "12830311",
+    "name": "EXPRESS VIETNAMESE SUBMARINES & DELI",
+    "address": "#638 999 36 ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "licenseTypes": "FOOD SERVICE - PREMISES (NO SEATING)",
+    "status": "active",
+    "issuedDate": "2009-09-23T14:48:58.000Z",
+    "expiryDate": "2026-09-22T14:48:58.000Z",
+    "coordinates": [
+      -113.9854178,
+      51.0612044
+    ],
+    "longitude": -113.9854178,
+    "latitude": 51.0612044,
+    "community": "FRANKLIN",
+    "ward": "FRA",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

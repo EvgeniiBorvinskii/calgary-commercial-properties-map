@@ -1,0 +1,37 @@
+{
+  "id": "16605420",
+  "fullDetails": {
+    "licenseNumber": "16605420",
+    "name": "HAWK HEAVY DUTY MECHANICAL",
+    "address": "4072 96 AV SE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY)",
+    "subType": "MOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "licenseTypes": "SALVAGE COLLECTOR (NO SALVAGE STORAGE WITHIN CALGARY),\nMOTOR VEHICLE REPAIR AND SERVICE (1)",
+    "status": "active",
+    "issuedDate": "2025-06-13T14:39:27.000Z",
+    "expiryDate": "2026-06-12T14:39:27.000Z",
+    "coordinates": [
+      -113.9770394,
+      50.9671983
+    ],
+    "longitude": -113.9770394,
+    "latitude": 50.9671983,
+    "community": "SOUTH FOOTHILLS",
+    "ward": "SFH",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

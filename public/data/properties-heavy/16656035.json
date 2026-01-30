@@ -1,0 +1,36 @@
+{
+  "id": "16656035",
+  "fullDetails": {
+    "licenseNumber": "16656035",
+    "name": "HOLLOW HEART ATELIER",
+    "address": "1815 8 ST SW",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "PERSONAL SERVICE (TATTOO)",
+    "licenseTypes": "PERSONAL SERVICE (TATTOO)",
+    "status": "active",
+    "issuedDate": "2025-07-29T08:17:54.000Z",
+    "expiryDate": "2026-07-28T08:17:54.000Z",
+    "coordinates": [
+      -114.082096,
+      51.0363497
+    ],
+    "longitude": -114.082096,
+    "latitude": 51.0363497,
+    "community": "LOWER MOUNT ROYAL",
+    "ward": "LMR",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}

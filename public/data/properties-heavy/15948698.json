@@ -1,0 +1,36 @@
+{
+  "id": "15948698",
+  "fullDetails": {
+    "licenseNumber": "15948698",
+    "name": "ZENITH CONSTRUCTION",
+    "address": "#315 1000 CENTRE ST NE",
+    "city": "Calgary",
+    "province": "AB",
+    "postalCode": "",
+    "type": "CONTRACTOR",
+    "licenseTypes": "CONTRACTOR",
+    "status": "active",
+    "issuedDate": "2026-01-06T09:54:52.000Z",
+    "expiryDate": "2027-01-05T09:54:52.000Z",
+    "coordinates": [
+      -114.0620299,
+      51.0608582
+    ],
+    "longitude": -114.0620299,
+    "latitude": 51.0608582,
+    "community": "CRESCENT HEIGHTS",
+    "ward": "CRE",
+    "contacts": {},
+    "businessArea": null,
+    "estimatedRent": null,
+    "buildingType": null,
+    "nearbyBusinesses": [],
+    "competitorCount": {
+      "radius500m": 0,
+      "radius1km": 0,
+      "radius2km": 0
+    },
+    "photos": [],
+    "notes": ""
+  }
+}
